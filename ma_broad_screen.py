@@ -8,6 +8,7 @@ import re
 import statistics
 
 from sec_match import connection
+from market_calendar import sessions
 
 
 def scan(c, root=Path('.'), minimum_return=0.10, filing_lag_days=180):
@@ -19,8 +20,7 @@ def scan(c, root=Path('.'), minimum_return=0.10, filing_lag_days=180):
         q.execute('SELECT symbol,cik FROM cik2symbol')
         mapping={}
         for r in q.fetchall():mapping.setdefault(int(r['cik']),set()).add(r['symbol'].strip().upper())
-        q.execute("SELECT tradingday FROM tradingday WHERE tradingday BETWEEN '2012-01-01' AND '2026-11-05' ORDER BY tradingday")
-        calendar=[r['tradingday'] for r in q.fetchall()]
+        calendar=sessions(root=root)
         previous={b:a for a,b in zip(calendar,calendar[1:])}
         by_symbol={}
         for f in filings:
@@ -69,11 +69,12 @@ def scan(c, root=Path('.'), minimum_return=0.10, filing_lag_days=180):
     (folder/'price_action_leads.json').write_text(json.dumps(output,indent=2,allow_nan=False)+'\n')
     fields=['symbol','reaction_date','previous_date','close_return_pct','close','previous_close','volume','volume_ratio20','ciks','filer_names','event_confirmation','target_public_at_announcement','target_was_acquired']
     with (folder/'price_action_leads.csv').open('w',newline='') as f:
-        writer=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore');writer.writeheader()
+        writer=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore',lineterminator='\n');writer.writeheader()
         for row in output:
             row=dict(row,ciks=';'.join(row['ciks']),filer_names=';'.join(row['filer_names']))
             writer.writerow(row)
     manifest=dict(symbols_considered=len(by_symbol),symbols_with_quotes=symbols_with_quotes,
+                  calendar_source='data/calendar/manifest.json',
                   price_action_leads=len(output),at_least_15pct=sum(r['close_return_pct']>=15 for r in output),
                   minimum_return_pct=minimum_return*100,maximum_filing_lag_days=filing_lag_days,
                   volume_filter=False,notes=[

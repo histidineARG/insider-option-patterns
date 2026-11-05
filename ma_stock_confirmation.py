@@ -7,6 +7,7 @@ from pathlib import Path
 import statistics
 
 from sec_match import connection
+from market_calendar import sessions
 
 MA_CASES={'heinz_2013','onyx_2013','concur_2014','kraft_2015','adt_2016',
           'joy_2016','stillwater_2016','ceb_2017','gci_2017','bioverativ_2018',
@@ -46,12 +47,17 @@ def candidates(root):
                          issuer=r['issuer'],source=r['source_url'],
                          announcement_session=r['announcement_session'],date_verified=True,
                          timing_source=r.get('announcement_timing_source',''),
+                         timing_locator=r.get('announcement_timing_locator',''),
                          eligibility='target_evidence_reviewed',exclusion_reason=''))
-    for r in json.loads((root/'data/m_and_a/reviewed_event_examples.json').read_text())['events']:
+    reviewed=json.loads((root/'data/m_and_a/reviewed_event_examples.json').read_text())['events']
+    additions=root/'data/m_and_a/additional_reviewed_events.json'
+    if additions.exists():reviewed+=json.loads(additions.read_text())['events']
+    for r in reviewed:
         rows.append(dict(symbol=r['target_symbol'],announcement_date=r['definitive_announcement_date'],
                          issuer=r['target'],source=r['announcement_source'],
                          announcement_session=r.get('announcement_session','unknown'),
                          timing_source=r.get('announcement_timing_source',''),
+                         timing_locator=r.get('announcement_timing_locator',''),
                          date_verified=True,eligibility='target_evidence_reviewed',exclusion_reason=''))
     # Prefer reviewed source metadata for the same symbol/date; retain all source references.
     merged={}
@@ -63,6 +69,15 @@ def candidates(root):
             if r['date_verified']:merged[key]=r
             merged[key]['source']=sources
         else:merged[key]=r
+    timing=root/'data/m_and_a/announcement_timing_reviews.json'
+    if timing.exists():
+        for review in json.loads(timing.read_text())['reviews']:
+            row=merged.get((review['symbol'],review['announcement_date']))
+            if row is not None:
+                row.update(announcement_session=review['announcement_session'],
+                           timing_source=review['announcement_timing_source'],
+                           timing_locator=review['announcement_timing_locator'],
+                           timing_review_notes=review.get('notes',''))
     return sorted(merged.values(),key=lambda r:(r['announcement_date'],r['symbol']))
 
 
@@ -78,13 +93,14 @@ def measure(quotes, reaction, previous_session, expected_baseline, volume_multip
     result['missing_baseline_dates']=';'.join(str(d) for d in expected_baseline if d not in by_date)
     result.update(previous_close=float(previous['close']),reaction_close=float(current['close']),
                   reaction_volume=int(current['volume']),previous_volume=int(previous['volume']))
-    if previous['close']<=0 or current['close']<=0 or current['volume']<=0:
+    if previous['close']<=0 or current['close']<=0:
         return dict(result,status='invalid_price_or_volume')
     result['close_return_pct']=float((current['close']/previous['close']-1)*100)
     result['open_gap_pct']=float((current['open']/previous['close']-1)*100)
     result['high_return_pct']=float((current['high']/previous['close']-1)*100)
     result['price_jump_at_least_15pct']=current['close']*100 >= previous['close']*115
     result['volume_vs_previous']=int(current['volume'])/int(previous['volume']) if previous['volume']>0 else None
+    if current['volume']<=0:return dict(result,status='invalid_reaction_volume')
     if len(history)!=20 or len(expected_baseline)!=20:
         return dict(result,status='incomplete_20_session_baseline')
     if any(r['volume']<=0 for r in history):return dict(result,status='invalid_baseline_volume')
@@ -102,8 +118,7 @@ def run(c, root=Path('.'), volume_multiple=2.0):
     with c.cursor() as q:
         q.execute('SET SESSION MAX_EXECUTION_TIME=60000')
         q.execute('START TRANSACTION READ ONLY')
-        q.execute("SELECT tradingday FROM tradingday WHERE tradingday BETWEEN '2012-01-01' AND '2026-11-05' ORDER BY tradingday")
-        calendar=[r['tradingday'] for r in q.fetchall()]
+        calendar=sessions(root=root)
         for case in rows:
             if case['eligibility']=='excluded':
                 results.append(dict(case,status='excluded_wrong_role_or_unverified_event',market_screen_pass=False));continue
@@ -146,7 +161,7 @@ def run(c, root=Path('.'), volume_multiple=2.0):
             f'Screened {len(results)} dated target candidates from local maevent records, extracted SEC cases and reviewed M&A examples. This does not cover all 9,465 merger filing documents: those filing dates are not verified announcement dates.',
             '',f'**{len(passed)} candidates pass the market screen; {len(confirmed)} also have reviewed announcement dates and session timing.**',
             '', 'Rules: reaction-session close / immediately preceding market-session close − 1 ≥ 15%; reaction-session volume / average volume of the preceding 20 calendar trading sessions ≥ '+str(volume_multiple)+'×. The reaction session is the announcement trading date for pre-open/intraday releases, the next session for after-close releases, and the next session for nontrading-day releases. Current-session volume is excluded from the baseline.',
-            '', 'Missing previous quotes or any of the required 20 baseline sessions prevent confirmation. No missing sessions are filled or silently skipped. The historical calendar is optiondb.tradingday. Prices are raw stockquote closes; corporate-action adjustment quality is not independently verified.',
+            '', 'Missing previous quotes or any of the required 20 baseline sessions prevent price/volume confirmation. No missing sessions are filled or silently skipped. The calendar is the versioned NYSE snapshot in data/calendar, including the January 9, 2025 closure. Prices are raw stockquote closes; corporate-action adjustment quality is not independently verified.',
             '', '## Source and timing reviewed passes','',
             '| Target | Announcement date | Reaction session | Close return | Volume / prior 20-session mean |',
             '|---|---|---|---:|---:|']

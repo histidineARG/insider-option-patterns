@@ -1,0 +1,197 @@
+{
+  "cutoff": "2026-11-04",
+  "calendar_source": "data/calendar/manifest.json",
+  "years": [
+    {
+      "year": 2013,
+      "expected_sessions": 252,
+      "status_counts": {
+        "present": 252
+      },
+      "min_rows": 3868,
+      "median_rows": 4049.0,
+      "max_rows": 4291
+    },
+    {
+      "year": 2014,
+      "expected_sessions": 252,
+      "status_counts": {
+        "present": 251,
+        "missing_session": 1
+      },
+      "min_rows": 0,
+      "median_rows": 4284.0,
+      "max_rows": 4404
+    },
+    {
+      "year": 2015,
+      "expected_sessions": 252,
+      "status_counts": {
+        "present": 251,
+        "missing_session": 1
+      },
+      "min_rows": 0,
+      "median_rows": 4299.0,
+      "max_rows": 4493
+    },
+    {
+      "year": 2016,
+      "expected_sessions": 252,
+      "status_counts": {
+        "present": 252
+      },
+      "min_rows": 4375,
+      "median_rows": 4453.0,
+      "max_rows": 4494
+    },
+    {
+      "year": 2017,
+      "expected_sessions": 251,
+      "status_counts": {
+        "present": 251
+      },
+      "min_rows": 4258,
+      "median_rows": 4344,
+      "max_rows": 4394
+    },
+    {
+      "year": 2018,
+      "expected_sessions": 251,
+      "status_counts": {
+        "present": 251
+      },
+      "min_rows": 4239,
+      "median_rows": 4303,
+      "max_rows": 4325
+    },
+    {
+      "year": 2019,
+      "expected_sessions": 252,
+      "status_counts": {
+        "present": 252
+      },
+      "min_rows": 4229,
+      "median_rows": 4279.0,
+      "max_rows": 4303
+    },
+    {
+      "year": 2020,
+      "expected_sessions": 253,
+      "status_counts": {
+        "present": 253
+      },
+      "min_rows": 4235,
+      "median_rows": 4273,
+      "max_rows": 4459
+    },
+    {
+      "year": 2021,
+      "expected_sessions": 252,
+      "status_counts": {
+        "present": 252
+      },
+      "min_rows": 4439,
+      "median_rows": 5028.5,
+      "max_rows": 5592
+    },
+    {
+      "year": 2022,
+      "expected_sessions": 251,
+      "status_counts": {
+        "present": 249,
+        "missing_session": 2
+      },
+      "min_rows": 0,
+      "median_rows": 5866,
+      "max_rows": 5956
+    },
+    {
+      "year": 2023,
+      "expected_sessions": 250,
+      "status_counts": {
+        "present": 250
+      },
+      "min_rows": 5376,
+      "median_rows": 5834.0,
+      "max_rows": 5949
+    },
+    {
+      "year": 2024,
+      "expected_sessions": 252,
+      "status_counts": {
+        "present": 250,
+        "sparse_session": 2
+      },
+      "min_rows": 1,
+      "median_rows": 5758.0,
+      "max_rows": 27712
+    },
+    {
+      "year": 2025,
+      "expected_sessions": 250,
+      "status_counts": {
+        "present": 243,
+        "sparse_session": 7
+      },
+      "min_rows": 1,
+      "median_rows": 28356.0,
+      "max_rows": 29492
+    },
+    {
+      "year": 2026,
+      "expected_sessions": 212,
+      "status_counts": {
+        "present": 193,
+        "sparse_session": 5,
+        "missing_session": 14
+      },
+      "min_rows": 0,
+      "median_rows": 30406.0,
+      "max_rows": 33212
+    }
+  ],
+  "missing_dates": [
+    "2014-11-21",
+    "2015-02-17",
+    "2022-05-19",
+    "2022-10-20",
+    "2026-02-12",
+    "2026-02-17",
+    "2026-03-03",
+    "2026-03-11",
+    "2026-06-09",
+    "2026-07-09",
+    "2026-07-13",
+    "2026-07-14",
+    "2026-07-15",
+    "2026-07-17",
+    "2026-07-20",
+    "2026-07-24",
+    "2026-08-03",
+    "2026-08-20"
+  ],
+  "sparse_dates": [
+    "2024-01-08",
+    "2024-07-25",
+    "2025-03-05",
+    "2025-09-05",
+    "2025-09-26",
+    "2025-10-07",
+    "2025-10-27",
+    "2025-10-28",
+    "2025-11-04",
+    "2026-01-14",
+    "2026-01-15",
+    "2026-01-22",
+    "2026-03-02",
+    "2026-03-23"
+  ],
+  "noncalendar_quote_dates": [
+    "2025-11-27"
+  ],
+  "notes": [
+    "Counts measure source presence, not a verified list of public common stocks or listed options.",
+    "Sparse means fewer than 100 rows or below 25% of prior 20-session median; heuristic diagnostic only.",
+    "Do not silently remove sparse dates and claim full-period performance. Coverage regimes require investigation."
+  ]
+}

@@ -30,6 +30,33 @@ at least a 15% close-to-close price jump and 2× the previous 20 sessions' avera
 volume, with announcement-session alignment and explicit missing-data handling.
 See [stock reaction confirmations](results/ma_stock_confirmation/REPORT.md).
 
+The agreed price-only research cohort is separate from that older price-and-volume
+screen. Run `python3 research_cohort.py` to audit option coverage and extract
+calendar-aware pre-event features. See the [cohort report](results/research_cohort/REPORT.md).
+It includes 24 price-qualified, source/timing-reviewed candidates; corporate-action
+and first-public-disclosure checks remain pending. Missing volume baselines do
+not disqualify otherwise measurable price jumps. Labels remain unset.
+
+Run `python3 background_sample.py` for a reproducible historical coverage pilot
+whose dates and symbols are selected independently of M&A outcomes. Its unlabeled
+observations are not assumed negative. `python3 stock_coverage.py` audits the
+historical stockquote sampling frame; see [coverage diagnostics](results/stock_coverage/REPORT.md).
+`python3 exploratory_patterns.py` describes fixed volume rules in the saved event
+and background samples; see [exploratory counts](results/exploratory_patterns/REPORT.md).
+These outputs do not estimate population accuracy or trading returns.
+
+The current descriptive rules surfaced alerts in 10/23 event windows and 3/57
+sampled background stock-days at 100 calls and 3× baseline; at 500 calls and 5×,
+8/23 and 1/57. These are not recall or false-positive estimates: event labels
+remain under review, the background pilot is small, and its universe is unverified.
+
+Research session alignment uses the versioned NYSE snapshot in `data/calendar/`,
+including exchange holidays, early closes, and the January 9, 2025 closure.
+The source database's `tradingday` table is not changed. Its audit records missing
+sessions and incorrect holiday entries. Regenerating the snapshot requires
+`pandas_market_calendars`; normal use reads the saved JSON. Run research scripts
+from this checkout so their source inventories and outputs are available.
+
 Run `python3 ma_broad_screen.py` to discover price jumps among mapped SEC merger
 filers. The saved scan contains 3,303 unverified leads, including 1,809 jumps of
 at least 15%. These require primary-source announcement and issuer confirmation;

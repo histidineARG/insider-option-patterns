@@ -1,0 +1,27 @@
+{
+  "source_snapshot": "results/ma_stock_confirmation/all_candidates.json",
+  "source_as_of": "2026-11-05",
+  "calendar_source": "data/calendar/manifest.json",
+  "candidate_count": 88,
+  "cohort_status_counts": {
+    "price_qualified": 24,
+    "announcement_or_target_review_pending": 43,
+    "excluded_target_or_event_identity": 15,
+    "announcement_timing_review_pending": 6
+  },
+  "price_qualified_count": 24,
+  "volume_filter": false,
+  "option_coverage_counts": {
+    "observed_chain": 24
+  },
+  "daily_observations": 720,
+  "training_ready_events": 0,
+  "notes": [
+    "Nonexhaustive, enforcement-enriched event sample; not a population estimate.",
+    "Price qualification does not imply completed corporate-action or first-public-disclosure review.",
+    "No source-series selection or future option activity enters features.",
+    "Open interest is diagnostic only until vendor publication timing is verified.",
+    "No rows does not prove no listed options. Background labels are not yet available.",
+    "No model, false-positive/false-negative rate, or trading return is estimated."
+  ]
+}

@@ -103,6 +103,8 @@ def ingest(c,root=Path('.')):
                 target_was_acquired=None,event_verified=False,review_status='needs_review',metadata=r))
             add_source(q,event_id,'optiondb.maevent/'+r['maid'],'local_discovery',r)
         reviewed=json.loads((root/'data/m_and_a/reviewed_event_examples.json').read_text())['events']
+        additions=root/'data/m_and_a/additional_reviewed_events.json'
+        if additions.exists():reviewed+=json.loads(additions.read_text())['events']
         for r in reviewed:
             status=r['outcome'] if r['outcome'] in ['completed','terminated'] else 'announced'
             event_id=upsert(q,'reviewed:'+r['id'],dict(target_name=r['target'],acquirer_name=r['acquirer'],
@@ -114,7 +116,7 @@ def ingest(c,root=Path('.')):
                 target_was_acquired=True if status=='completed' else (False if status=='terminated' else None),
                 event_verified=True,review_status='source_reviewed',metadata=r))
             add_source(q,event_id,r['announcement_source'],'announcement',r)
-            add_source(q,event_id,r['outcome_source'],'outcome',r)
+            if r.get('outcome_source'):add_source(q,event_id,r['outcome_source'],'outcome',r)
         for r in json.loads((root/'data/sec_cases.json').read_text())['cases']:
             if r['id'] not in MA_CASES:continue
             event_id=upsert(q,'sec_case:'+r['id'],dict(target_name=r['issuer'],target_symbol=r['symbol'],
@@ -122,6 +124,17 @@ def ingest(c,root=Path('.')):
                 deal_status='announced',target_public_at_announcement=True,target_was_acquired=None,
                 event_verified=r['event_date_verified'],review_status='source_reviewed',metadata=r))
             add_source(q,event_id,r['source_url'],'case_event_evidence',r)
+        timing=root/'data/m_and_a/announcement_timing_reviews.json'
+        if timing.exists():
+            for review in json.loads(timing.read_text())['reviews']:
+                q.execute('''SELECT event_id FROM research_ma_events WHERE target_symbol=%s
+                             AND announcement_date=%s AND event_verified=1''',
+                          (review['symbol'],review['announcement_date']))
+                for match in q.fetchall():
+                    q.execute('''UPDATE research_ma_events SET announcement_session=%s
+                                 WHERE event_id=%s AND (announcement_session IS NULL OR announcement_session='unknown')''',
+                              (review['announcement_session'],match['event_id']))
+                    add_source(q,match['event_id'],review['announcement_timing_source'],'announcement_timing',review)
         # Retain filing evidence separately; a filing is not automatically a distinct deal.
         for r in csv.DictReader((root/'data/m_and_a/sec_filing_search/merger_filings_2013_2026.csv').open()):
             key=digest(r['cik']+'|'+r['accession']+'|'+r['document'])

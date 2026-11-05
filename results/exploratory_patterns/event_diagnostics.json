@@ -1,0 +1,650 @@
+[
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "ADT",
+    "announcement_date": "2016-02-16",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 2,
+    "first_alert_date": "2016-02-02"
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "AFOP",
+    "announcement_date": "2016-04-07",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 3,
+    "first_alert_date": "2016-03-30"
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "AVXS",
+    "announcement_date": "2018-04-09",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "BIVV",
+    "announcement_date": "2018-01-22",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2018-01-12"
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "BOLD",
+    "announcement_date": "2019-12-02",
+    "observed_valid_entry_proxy_sessions": 0,
+    "full_10_session_window_observed": false,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "CALT",
+    "announcement_date": "2024-05-28",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "CEB",
+    "announcement_date": "2017-01-05",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "CNQR",
+    "announcement_date": "2014-09-18",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 2,
+    "first_alert_date": "2014-09-05"
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "COHR",
+    "announcement_date": "2021-01-19",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 2,
+    "first_alert_date": "2021-01-06"
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "EFII",
+    "announcement_date": "2019-04-15",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "GSKY",
+    "announcement_date": "2021-09-15",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 3,
+    "first_alert_date": "2021-09-08"
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "HNZ",
+    "announcement_date": "2013-02-14",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "IMGN",
+    "announcement_date": "2023-11-30",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "JOY",
+    "announcement_date": "2016-07-21",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2016-07-15"
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "KAMN",
+    "announcement_date": "2024-01-19",
+    "observed_valid_entry_proxy_sessions": 2,
+    "full_10_session_window_observed": false,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "KRFT",
+    "announcement_date": "2015-03-25",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "LNKD",
+    "announcement_date": "2016-06-13",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "MAXR",
+    "announcement_date": "2022-12-16",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2022-12-12"
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "ONXX",
+    "announcement_date": "2013-06-30",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "PRVB",
+    "announcement_date": "2023-03-13",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "RETA",
+    "announcement_date": "2023-07-28",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2023-07-24"
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "SWC",
+    "announcement_date": "2016-12-09",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 2,
+    "first_alert_date": "2016-12-06"
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "VRTU",
+    "announcement_date": "2020-09-10",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_100_ratio_3",
+    "symbol": "ZGNX",
+    "announcement_date": "2022-01-19",
+    "observed_valid_entry_proxy_sessions": 3,
+    "full_10_session_window_observed": false,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "ADT",
+    "announcement_date": "2016-02-16",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2016-02-05"
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "AFOP",
+    "announcement_date": "2016-04-07",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 2,
+    "first_alert_date": "2016-03-30"
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "AVXS",
+    "announcement_date": "2018-04-09",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "BIVV",
+    "announcement_date": "2018-01-22",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2018-01-12"
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "BOLD",
+    "announcement_date": "2019-12-02",
+    "observed_valid_entry_proxy_sessions": 0,
+    "full_10_session_window_observed": false,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "CALT",
+    "announcement_date": "2024-05-28",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "CEB",
+    "announcement_date": "2017-01-05",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "CNQR",
+    "announcement_date": "2014-09-18",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "COHR",
+    "announcement_date": "2021-01-19",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2021-01-11"
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "EFII",
+    "announcement_date": "2019-04-15",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "GSKY",
+    "announcement_date": "2021-09-15",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 3,
+    "first_alert_date": "2021-09-08"
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "HNZ",
+    "announcement_date": "2013-02-14",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "IMGN",
+    "announcement_date": "2023-11-30",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "JOY",
+    "announcement_date": "2016-07-21",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2016-07-15"
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "KAMN",
+    "announcement_date": "2024-01-19",
+    "observed_valid_entry_proxy_sessions": 2,
+    "full_10_session_window_observed": false,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "KRFT",
+    "announcement_date": "2015-03-25",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "LNKD",
+    "announcement_date": "2016-06-13",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "MAXR",
+    "announcement_date": "2022-12-16",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "ONXX",
+    "announcement_date": "2013-06-30",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "PRVB",
+    "announcement_date": "2023-03-13",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "RETA",
+    "announcement_date": "2023-07-28",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2023-07-24"
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "SWC",
+    "announcement_date": "2016-12-09",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 2,
+    "first_alert_date": "2016-12-06"
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "VRTU",
+    "announcement_date": "2020-09-10",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "symbol": "ZGNX",
+    "announcement_date": "2022-01-19",
+    "observed_valid_entry_proxy_sessions": 3,
+    "full_10_session_window_observed": false,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "ADT",
+    "announcement_date": "2016-02-16",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2016-02-05"
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "AFOP",
+    "announcement_date": "2016-04-07",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2016-03-30"
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "AVXS",
+    "announcement_date": "2018-04-09",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "BIVV",
+    "announcement_date": "2018-01-22",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "BOLD",
+    "announcement_date": "2019-12-02",
+    "observed_valid_entry_proxy_sessions": 0,
+    "full_10_session_window_observed": false,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "CALT",
+    "announcement_date": "2024-05-28",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "CEB",
+    "announcement_date": "2017-01-05",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "CNQR",
+    "announcement_date": "2014-09-18",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "COHR",
+    "announcement_date": "2021-01-19",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "EFII",
+    "announcement_date": "2019-04-15",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "GSKY",
+    "announcement_date": "2021-09-15",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2021-09-13"
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "HNZ",
+    "announcement_date": "2013-02-14",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "IMGN",
+    "announcement_date": "2023-11-30",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "JOY",
+    "announcement_date": "2016-07-21",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "KAMN",
+    "announcement_date": "2024-01-19",
+    "observed_valid_entry_proxy_sessions": 2,
+    "full_10_session_window_observed": false,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "KRFT",
+    "announcement_date": "2015-03-25",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "LNKD",
+    "announcement_date": "2016-06-13",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "MAXR",
+    "announcement_date": "2022-12-16",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "ONXX",
+    "announcement_date": "2013-06-30",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "PRVB",
+    "announcement_date": "2023-03-13",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "RETA",
+    "announcement_date": "2023-07-28",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 1,
+    "first_alert_date": "2023-07-24"
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "SWC",
+    "announcement_date": "2016-12-09",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "VRTU",
+    "announcement_date": "2020-09-10",
+    "observed_valid_entry_proxy_sessions": 9,
+    "full_10_session_window_observed": true,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "symbol": "ZGNX",
+    "announcement_date": "2022-01-19",
+    "observed_valid_entry_proxy_sessions": 3,
+    "full_10_session_window_observed": false,
+    "descriptive_alert_sessions": 0,
+    "first_alert_date": null
+  }
+]
