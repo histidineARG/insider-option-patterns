@@ -1,0 +1,672 @@
+{
+  "as_of": "2026-11-05",
+  "coverage": "NON_EXHAUSTIVE; search-index discovery, not full archive census",
+  "trade_date_scope": "2013-01-01 onward",
+  "cases": [
+    {
+      "id": "heinz_2013",
+      "symbol": "HNZ",
+      "issuer": "H.J. Heinz",
+      "actor": "Terpins brothers",
+      "trade_start": "2013-02-13",
+      "trade_end": "2013-02-13",
+      "event_date": "2013-02-14",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2013-219",
+      "source_locator": "Main settlement announcement",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "settlement_announced",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [],
+      "notes": "Same event as original unknown-trader asset freeze; do not count twice.",
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted",
+      "announcement_timing_source": "https://www.sec.gov/Archives/edgar/data/46640/000119312513128058/d491866ddefm14a.htm",
+      "announcement_timing_locator": "Background: joint press release issued before NYSE opening February 14, 2013"
+    },
+    {
+      "id": "onyx_2013",
+      "symbol": "ONXX",
+      "issuer": "Onyx Pharmaceuticals",
+      "actor": "Initially unknown traders",
+      "trade_start": "2013-06-26",
+      "trade_end": "2013-06-28",
+      "event_date": "2013-06-30",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2013-2013-123htm",
+      "source_locator": "Trading dates in release",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_interval",
+      "announcement_session": "nontrading_day",
+      "contracts": [],
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted"
+    },
+    {
+      "id": "concur_2014",
+      "symbol": "CNQR",
+      "issuer": "Concur Technologies",
+      "actor": "Biehl and Friend 1 subset",
+      "trade_start": "2014-09-11",
+      "trade_end": "2014-09-16",
+      "event_date": "2014-09-18",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2016/comp23571.pdf",
+      "source_locator": "paragraph 86; announcement paragraph 8",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_subset",
+      "announcement_session": "after_close",
+      "contracts": [],
+      "notes": "Other participants traded earlier. Prices/expiry concentration in this subset must not be interpreted as all scheme trades.",
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted"
+    },
+    {
+      "id": "kraft_2015",
+      "symbol": "KRFT",
+      "issuer": "Kraft Foods Group",
+      "actor": "Joseph Jennings",
+      "trade_start": "2015-03-23",
+      "trade_end": "2015-03-23",
+      "event_date": "2015-03-25",
+      "source_url": "https://www.sec.gov/file/34-83889pdf",
+      "source_locator": "Summary paragraph 1",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "settled_admin_findings",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [
+        {
+          "strike": 67.5,
+          "expiry": "2015-06-19"
+        }
+      ],
+      "documented_contracts": 100,
+      "notes": "SEC says options were allowed to expire rather than monetized.",
+      "event_date_verified": true,
+      "contract_set_scope": "documented_series_or_subset"
+    },
+    {
+      "id": "adt_2016",
+      "symbol": "ADT",
+      "issuer": "The ADT Corporation (2016 issuer)",
+      "actor": "John Afriyie",
+      "trade_start": "2016-01-28",
+      "trade_end": "2016-02-12",
+      "event_date": "2016-02-16",
+      "source_url": "https://www.sec.gov/litigation/complaints/2016/comp23519.pdf",
+      "source_locator": "paragraphs 13-15",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [
+        {
+          "strike": 32,
+          "expiry": "2016-02-19"
+        },
+        {
+          "strike": 33,
+          "expiry": "2016-03-18"
+        },
+        {
+          "strike": 34,
+          "expiry": "2016-03-18"
+        }
+      ],
+      "documented_contracts": 2279,
+      "notes": "Ticker reused by later ADT listing; analysis bounded to 2016.",
+      "event_date_verified": true,
+      "contract_set_scope": "documented_series_or_subset"
+    },
+    {
+      "id": "joy_2016",
+      "symbol": "JOY",
+      "issuer": "Joy Global",
+      "actor": "DanDan Wu",
+      "trade_start": "2016-07-20",
+      "trade_end": "2016-07-20",
+      "event_date": "2016-07-21",
+      "source_url": "https://www.sec.gov/files/litigation/admin/2020/34-89178.pdf",
+      "source_locator": "paragraphs 11-13",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "settled_admin_findings",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [],
+      "documented_contracts": 50,
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted"
+    },
+    {
+      "id": "incy_2016",
+      "symbol": "INCY",
+      "issuer": "Incyte",
+      "actor": "Matthew Panuwat",
+      "trade_start": "2016-08-18",
+      "trade_end": "2016-08-18",
+      "event_date": "2016-08-22",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2021/comp-pr2021-155.pdf",
+      "source_locator": "paragraphs 33,36",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "civil_liability_verdict_reported_2024_04_08",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [
+        {
+          "strike": 80,
+          "expiry": "2016-09-16"
+        },
+        {
+          "strike": 82.5,
+          "expiry": "2016-09-16"
+        },
+        {
+          "strike": 85,
+          "expiry": "2016-09-16"
+        }
+      ],
+      "documented_contracts": 578,
+      "status_source": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25970",
+      "notes": "Peer-company trading ahead of Medivation acquisition.",
+      "event_date_verified": true,
+      "contract_set_scope": "documented_series_or_subset"
+    },
+    {
+      "id": "stillwater_2016",
+      "symbol": "SWC",
+      "issuer": "Stillwater Mining",
+      "actor": "Fei Yan",
+      "trade_start": "2016-11-22",
+      "trade_end": "2016-12-08",
+      "event_date": "2016-12-09",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2017/comp-pr2017-125.pdf",
+      "source_locator": "paragraphs 5,45,48-50",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [
+        {
+          "strike": 15,
+          "expiry": "2016-12-16"
+        },
+        {
+          "strike": 16,
+          "expiry": "2016-12-16"
+        },
+        {
+          "strike": 15,
+          "expiry": "2017-01-20"
+        }
+      ],
+      "notes": "Listed contracts are a documented subset; no total-volume reconciliation claimed.",
+      "event_date_verified": true,
+      "contract_set_scope": "documented_series_or_subset"
+    },
+    {
+      "id": "ceb_2017",
+      "symbol": "CEB",
+      "issuer": "CEB",
+      "actor": "Christopher Clark / William Wright",
+      "trade_start": "2016-12-09",
+      "trade_end": "2017-01-03",
+      "event_date": "2017-01-05",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2020/comp24982.pdf",
+      "source_locator": "Summary paragraphs 1,5-6,11; detailed trading paragraphs 45-51",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [],
+      "documented_contracts": 377,
+      "notes": "Later legal disposition not verified; retain as allegation.",
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted"
+    },
+    {
+      "id": "gci_2017",
+      "symbol": "GNCMA",
+      "issuer": "General Communication",
+      "actor": "Initially unknown traders",
+      "trade_start": "2017-03-20",
+      "trade_end": "2017-03-31",
+      "event_date": "2017-04-04",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2017/comp-pr2017-80.pdf",
+      "source_locator": "Summary paragraphs 1,4-6",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_interval",
+      "announcement_session": "unknown",
+      "contracts": [
+        {
+          "strike": 22.5,
+          "expiry": "2017-04-21"
+        },
+        {
+          "strike": 25,
+          "expiry": "2017-04-21"
+        },
+        {
+          "strike": 22.5,
+          "expiry": "2017-05-19"
+        }
+      ],
+      "documented_contracts": 1293,
+      "event_date_verified": true,
+      "contract_set_scope": "documented_series_or_subset"
+    },
+    {
+      "id": "bioverativ_2018",
+      "symbol": "BIVV",
+      "issuer": "Bioverativ",
+      "actor": "Roland Mathys",
+      "trade_start": "2018-01-12",
+      "trade_end": "2018-01-19",
+      "event_date": "2018-01-22",
+      "source_url": "https://www.sec.gov/litigation/complaints/2019/comp24500.pdf",
+      "source_locator": "paragraphs 24,31",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "default_judgment_reported_2020_12_15",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [
+        {
+          "strike": 65,
+          "expiry": "2018-02-16"
+        },
+        {
+          "strike": 70,
+          "expiry": "2018-02-16"
+        },
+        {
+          "strike": 75,
+          "expiry": "2018-02-16"
+        }
+      ],
+      "documented_contracts": 1607,
+      "status_source": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-24984",
+      "event_date_verified": true,
+      "contract_set_scope": "documented_series_or_subset"
+    },
+    {
+      "id": "efii_2019",
+      "symbol": "EFII",
+      "issuer": "Electronics for Imaging",
+      "actor": "Bill Tsai",
+      "trade_start": "2019-03-29",
+      "trade_end": "2019-04-12",
+      "event_date": "2019-04-15",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2019/comp-pr2019-149.pdf",
+      "source_locator": "paragraphs 23-25",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [
+        {
+          "strike": 30,
+          "expiry": "2019-07-19"
+        }
+      ],
+      "documented_contracts": 187,
+      "event_date_verified": true,
+      "contract_set_scope": "documented_series_or_subset"
+    },
+    {
+      "id": "audentes_2019",
+      "symbol": "BOLD",
+      "issuer": "Audentes Therapeutics",
+      "actor": "Mahmoud Abdelkader",
+      "trade_start": "2019-10-17",
+      "trade_end": "2019-10-18",
+      "event_date": "2019-12-02",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25660",
+      "source_locator": "Trading dates in release",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "settlement_announced",
+      "window_quality": "documented_interval",
+      "announcement_session": "after_close",
+      "contracts": [],
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted",
+      "announcement_timing_source": "https://www.nasdaq.com/press-release/astellas-enters-into-definitive-agreement-to-acquire-audentes-therapeutics-2019-12-02",
+      "announcement_timing_locator": "Issuer press release timestamp December 2, 2019 6:01pm EST"
+    },
+    {
+      "id": "dicks_2019",
+      "symbol": "DKS",
+      "issuer": "Dick's Sporting Goods",
+      "actor": "Michael Sullivan",
+      "trade_start": "2019-11-08",
+      "trade_end": "2019-11-25",
+      "event_date": "2019-11-26",
+      "source_url": "https://www.sec.gov/litigation/complaints/2020/comp24967.pdf",
+      "source_locator": "paragraphs 32,35,37",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [
+        {
+          "strike": 40,
+          "expiry": "2019-12-20"
+        },
+        {
+          "strike": 41,
+          "expiry": "2019-12-20"
+        },
+        {
+          "strike": 39,
+          "expiry": "2019-11-29"
+        }
+      ],
+      "documented_contracts": 132,
+      "event_date_verified": true,
+      "contract_set_scope": "documented_series_or_subset",
+      "documented_trades": [
+        {
+          "date": "2019-11-08",
+          "strike": 40,
+          "expiry": "2019-12-20",
+          "quantity": 10
+        },
+        {
+          "date": "2019-11-08",
+          "strike": 41,
+          "expiry": "2019-12-20",
+          "quantity": 25
+        },
+        {
+          "date": "2019-11-12",
+          "strike": 41,
+          "expiry": "2019-12-20",
+          "quantity": 11
+        },
+        {
+          "date": "2019-11-19",
+          "strike": 40,
+          "expiry": "2019-12-20",
+          "quantity": 10
+        },
+        {
+          "date": "2019-11-22",
+          "strike": 40,
+          "expiry": "2019-12-20",
+          "quantity": 20
+        },
+        {
+          "date": "2019-11-22",
+          "strike": 41,
+          "expiry": "2019-12-20",
+          "quantity": 36
+        },
+        {
+          "date": "2019-11-25",
+          "strike": 39,
+          "expiry": "2019-11-29",
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": "twilio_2020",
+      "symbol": "TWLO",
+      "issuer": "Twilio",
+      "actor": "Dharmapurikar subset",
+      "trade_start": "2020-05-06",
+      "trade_end": "2020-05-06",
+      "event_date": "2020-05-06",
+      "source_url": "https://www.sec.gov/file/sec-complaint-2397",
+      "source_locator": "paragraphs 35(d),39",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_subset",
+      "announcement_session": "after_close",
+      "contracts": [],
+      "notes": "Same-day after-close news: EOD signal cannot precede event.",
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted"
+    },
+    {
+      "id": "virtusa_2020",
+      "symbol": "VRTU",
+      "issuer": "Virtusa",
+      "actor": "Daniel Moscatiello",
+      "trade_start": "2020-09-09",
+      "trade_end": "2020-09-09",
+      "event_date": "2020-09-10",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2022/comp25431.pdf",
+      "source_locator": "paragraphs 26-30",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [
+        {
+          "strike": 40,
+          "expiry": "2020-09-18"
+        },
+        {
+          "strike": 45,
+          "expiry": "2020-09-18"
+        },
+        {
+          "strike": 45,
+          "expiry": "2020-10-16"
+        }
+      ],
+      "documented_contracts": 250,
+      "event_date_verified": true,
+      "contract_set_scope": "documented_series_or_subset"
+    },
+    {
+      "id": "odp_2021",
+      "symbol": "ODP",
+      "issuer": "ODP",
+      "actor": "Brandon Charnas",
+      "trade_start": "2020-12-23",
+      "trade_end": "2020-12-23",
+      "event_date": "2021-01-11",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25788",
+      "source_locator": "Subpoena enforcement release",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "investigation_only_no_violation_conclusion_in_source",
+      "window_quality": "documented_subset",
+      "announcement_session": "unknown",
+      "contracts": [],
+      "notes": "Exclude from adjudicated-positive metrics.",
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted"
+    },
+    {
+      "id": "coherent_2021",
+      "symbol": "COHR",
+      "issuer": "Coherent (2021 issuer)",
+      "actor": "Patel / Bhardwaj subset",
+      "trade_start": "2021-01-05",
+      "trade_end": "2021-01-15",
+      "event_date": "2021-01-19",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2022/comp-pr2022-129-bhardwaj.pdf",
+      "source_locator": "paragraphs 53-54",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_subset",
+      "announcement_session": "unknown",
+      "contracts": [],
+      "notes": "70 calls is accumulated position, not total purchases; ticker/company history needs permanent-ID review.",
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted"
+    },
+    {
+      "id": "greensky_2021",
+      "symbol": "GSKY",
+      "issuer": "GreenSky",
+      "actor": "Puneet Dikshit short-dated subset",
+      "trade_start": "2021-09-13",
+      "trade_end": "2021-09-14",
+      "event_date": "2021-09-15",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2021/comp-pr2021-230.pdf",
+      "source_locator": "paragraphs 53-57",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_subset",
+      "announcement_session": "before_open",
+      "contracts": [
+        {
+          "strike": 10,
+          "expiry": "2021-09-17"
+        }
+      ],
+      "documented_contracts": 2631,
+      "notes": "Earlier longer-dated positions were rolled into these calls.",
+      "event_date_verified": true,
+      "contract_set_scope": "documented_series_or_subset"
+    },
+    {
+      "id": "pfizer_2021",
+      "symbol": "PFE",
+      "issuer": "Pfizer",
+      "actor": "Amit Dagar / Atul Bhiwapurkar",
+      "trade_start": "2021-11-04",
+      "trade_end": "2021-11-04",
+      "event_date": "2021-11-05",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2023-123",
+      "source_locator": "Day-before trading described in release",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_interval",
+      "announcement_session": "unknown",
+      "contracts": [],
+      "notes": "Includes 1-DTE contracts; existing detector min_dte=3 would exclude them.",
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted"
+    },
+    {
+      "id": "zogenix_2022",
+      "symbol": "ZGNX",
+      "issuer": "Zogenix",
+      "actor": "Rakesh Jain subset",
+      "trade_start": "2022-01-18",
+      "trade_end": "2022-01-18",
+      "event_date": "2022-01-19",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2024/comp25989.pdf",
+      "source_locator": "paragraphs 29,31",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_subset",
+      "announcement_session": "before_open",
+      "contracts": [],
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted"
+    },
+    {
+      "id": "lantheus_2022",
+      "symbol": "LNTH",
+      "issuer": "Lantheus",
+      "actor": "Heropoulos",
+      "trade_start": "2022-02-11",
+      "trade_end": "2022-02-23",
+      "event_date": "2022-02-24",
+      "source_url": "https://www.sec.gov/files/litigation/admin/2025/33-11362.pdf",
+      "source_locator": "Summary paragraph 1 and paragraphs 7-9",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "settled_admin_findings",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [],
+      "documented_contracts": 15,
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted"
+    },
+    {
+      "id": "maxar_2022",
+      "symbol": "MAXR",
+      "issuer": "Maxar",
+      "actor": "Miccio subset",
+      "trade_start": "2022-12-12",
+      "trade_end": "2022-12-15",
+      "event_date": "2022-12-16",
+      "source_url": "https://www.sec.gov/files/litigation/admin/2025/34-102266.pdf",
+      "source_locator": "paragraphs 13-15",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "settled_admin_findings",
+      "window_quality": "documented_subset",
+      "announcement_session": "before_open",
+      "contracts": [],
+      "documented_contracts": 2,
+      "notes": "Small two-call subset demonstrates selection bias toward large volume.",
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted"
+    },
+    {
+      "id": "kaman_2024",
+      "symbol": "KAMN",
+      "issuer": "Kaman",
+      "actor": "Whitesides accounts",
+      "trade_start": "2023-12-21",
+      "trade_end": "2024-01-18",
+      "event_date": "2024-01-19",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2025/comp26378.pdf",
+      "source_locator": "paragraphs 35,46-49",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "complaint_with_partial_defendant_consent_judgments_2026_03",
+      "window_quality": "documented_interval",
+      "announcement_session": "before_open",
+      "contracts": [
+        {
+          "strike": 30,
+          "expiry": "2024-03-15"
+        }
+      ],
+      "documented_contracts": 618,
+      "notes": "Other tipped accounts bought additional calls; 618 pertains to Whitesides accounts.",
+      "status_source": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26514",
+      "event_date_verified": true,
+      "contract_set_scope": "documented_series_or_subset"
+    },
+    {
+      "id": "calliditas_2024",
+      "symbol": "CALT",
+      "issuer": "Calliditas Therapeutics",
+      "actor": "Benjamin Tesfaye",
+      "trade_start": "2024-05-23",
+      "trade_end": "2024-05-23",
+      "event_date": "2024-05-28",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26609",
+      "source_locator": "Trading and announcement dates in release",
+      "source_accessed": "2026-11-05",
+      "instrument": "long_call",
+      "evidence_status": "settlement_announced",
+      "window_quality": "documented_interval",
+      "announcement_session": "unknown",
+      "contracts": [],
+      "event_date_verified": true,
+      "contract_set_scope": "not_extracted"
+    }
+  ]
+}

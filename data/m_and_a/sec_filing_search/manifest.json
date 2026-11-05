@@ -1,0 +1,626 @@
+{
+  "retrieved_at": "2026-11-05",
+  "endpoint": "https://efts.sec.gov/LATEST/search-index",
+  "forms": [
+    "PREM14A",
+    "DEFM14A",
+    "DEFM14C",
+    "SC 14D9"
+  ],
+  "start_year": 2013,
+  "through": "2026-11-05",
+  "coverage": [
+    {
+      "year": 2013,
+      "expected": 705,
+      "retrieved": 705,
+      "through": "2013-12-31"
+    },
+    {
+      "year": 2014,
+      "expected": 776,
+      "retrieved": 776,
+      "through": "2014-12-31"
+    },
+    {
+      "year": 2015,
+      "expected": 812,
+      "retrieved": 812,
+      "through": "2015-12-31"
+    },
+    {
+      "year": 2016,
+      "expected": 836,
+      "retrieved": 836,
+      "through": "2016-12-31"
+    },
+    {
+      "year": 2017,
+      "expected": 753,
+      "retrieved": 753,
+      "through": "2017-12-31"
+    },
+    {
+      "year": 2018,
+      "expected": 723,
+      "retrieved": 723,
+      "through": "2018-12-31"
+    },
+    {
+      "year": 2019,
+      "expected": 566,
+      "retrieved": 566,
+      "through": "2019-12-31"
+    },
+    {
+      "year": 2020,
+      "expected": 559,
+      "retrieved": 559,
+      "through": "2020-12-31"
+    },
+    {
+      "year": 2021,
+      "expected": 724,
+      "retrieved": 724,
+      "through": "2021-12-31"
+    },
+    {
+      "year": 2022,
+      "expected": 662,
+      "retrieved": 662,
+      "through": "2022-12-31"
+    },
+    {
+      "year": 2023,
+      "expected": 596,
+      "retrieved": 596,
+      "through": "2023-12-31"
+    },
+    {
+      "year": 2024,
+      "expected": 602,
+      "retrieved": 602,
+      "through": "2024-12-31"
+    },
+    {
+      "year": 2025,
+      "expected": 630,
+      "retrieved": 630,
+      "through": "2025-12-31"
+    },
+    {
+      "year": 2026,
+      "expected": 521,
+      "retrieved": 521,
+      "through": "2026-11-05"
+    }
+  ],
+  "documents": 9465,
+  "issuer_document_rows": 9504,
+  "csv_sha256": "52eedca07c4ff6fb0261ef4c071a12a5ada5e3f8bb98c7cf0975ed3430154fd1",
+  "queries": [
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2013-01-01&enddt=2013-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 705,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2013-01-01&enddt=2013-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 705,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2013-01-01&enddt=2013-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 705,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2013-01-01&enddt=2013-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 705,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2013-01-01&enddt=2013-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 705,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2013-01-01&enddt=2013-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 705,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2013-01-01&enddt=2013-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=600",
+      "total": 705,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2013-01-01&enddt=2013-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=700",
+      "total": 705,
+      "returned": 5
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2014-01-01&enddt=2014-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 776,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2014-01-01&enddt=2014-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 776,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2014-01-01&enddt=2014-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 776,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2014-01-01&enddt=2014-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 776,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2014-01-01&enddt=2014-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 776,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2014-01-01&enddt=2014-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 776,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2014-01-01&enddt=2014-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=600",
+      "total": 776,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2014-01-01&enddt=2014-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=700",
+      "total": 776,
+      "returned": 76
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2015-01-01&enddt=2015-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 812,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2015-01-01&enddt=2015-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 812,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2015-01-01&enddt=2015-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 812,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2015-01-01&enddt=2015-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 812,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2015-01-01&enddt=2015-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 812,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2015-01-01&enddt=2015-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 812,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2015-01-01&enddt=2015-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=600",
+      "total": 812,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2015-01-01&enddt=2015-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=700",
+      "total": 812,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2015-01-01&enddt=2015-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=800",
+      "total": 812,
+      "returned": 12
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2016-01-01&enddt=2016-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 836,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2016-01-01&enddt=2016-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 836,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2016-01-01&enddt=2016-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 836,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2016-01-01&enddt=2016-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 836,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2016-01-01&enddt=2016-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 836,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2016-01-01&enddt=2016-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 836,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2016-01-01&enddt=2016-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=600",
+      "total": 836,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2016-01-01&enddt=2016-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=700",
+      "total": 836,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2016-01-01&enddt=2016-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=800",
+      "total": 836,
+      "returned": 36
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2017-01-01&enddt=2017-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 753,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2017-01-01&enddt=2017-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 753,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2017-01-01&enddt=2017-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 753,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2017-01-01&enddt=2017-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 753,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2017-01-01&enddt=2017-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 753,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2017-01-01&enddt=2017-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 753,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2017-01-01&enddt=2017-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=600",
+      "total": 753,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2017-01-01&enddt=2017-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=700",
+      "total": 753,
+      "returned": 53
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2018-01-01&enddt=2018-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 723,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2018-01-01&enddt=2018-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 723,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2018-01-01&enddt=2018-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 723,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2018-01-01&enddt=2018-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 723,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2018-01-01&enddt=2018-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 723,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2018-01-01&enddt=2018-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 723,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2018-01-01&enddt=2018-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=600",
+      "total": 723,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2018-01-01&enddt=2018-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=700",
+      "total": 723,
+      "returned": 23
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2019-01-01&enddt=2019-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 566,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2019-01-01&enddt=2019-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 566,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2019-01-01&enddt=2019-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 566,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2019-01-01&enddt=2019-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 566,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2019-01-01&enddt=2019-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 566,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2019-01-01&enddt=2019-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 566,
+      "returned": 66
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2020-01-01&enddt=2020-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 559,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2020-01-01&enddt=2020-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 559,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2020-01-01&enddt=2020-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 559,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2020-01-01&enddt=2020-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 559,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2020-01-01&enddt=2020-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 559,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2020-01-01&enddt=2020-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 559,
+      "returned": 59
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2021-01-01&enddt=2021-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 724,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2021-01-01&enddt=2021-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 724,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2021-01-01&enddt=2021-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 724,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2021-01-01&enddt=2021-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 724,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2021-01-01&enddt=2021-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 724,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2021-01-01&enddt=2021-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 724,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2021-01-01&enddt=2021-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=600",
+      "total": 724,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2021-01-01&enddt=2021-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=700",
+      "total": 724,
+      "returned": 24
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2022-01-01&enddt=2022-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 662,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2022-01-01&enddt=2022-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 662,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2022-01-01&enddt=2022-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 662,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2022-01-01&enddt=2022-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 662,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2022-01-01&enddt=2022-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 662,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2022-01-01&enddt=2022-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 662,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2022-01-01&enddt=2022-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=600",
+      "total": 662,
+      "returned": 62
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2023-01-01&enddt=2023-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 596,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2023-01-01&enddt=2023-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 596,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2023-01-01&enddt=2023-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 596,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2023-01-01&enddt=2023-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 596,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2023-01-01&enddt=2023-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 596,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2023-01-01&enddt=2023-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 596,
+      "returned": 96
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2024-01-01&enddt=2024-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 602,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2024-01-01&enddt=2024-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 602,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2024-01-01&enddt=2024-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 602,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2024-01-01&enddt=2024-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 602,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2024-01-01&enddt=2024-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 602,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2024-01-01&enddt=2024-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 602,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2024-01-01&enddt=2024-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=600",
+      "total": 602,
+      "returned": 2
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2025-01-01&enddt=2025-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 630,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2025-01-01&enddt=2025-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 630,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2025-01-01&enddt=2025-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 630,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2025-01-01&enddt=2025-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 630,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2025-01-01&enddt=2025-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 630,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2025-01-01&enddt=2025-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 630,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2025-01-01&enddt=2025-12-31&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=600",
+      "total": 630,
+      "returned": 30
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2026-01-01&enddt=2026-11-05&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=0",
+      "total": 521,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2026-01-01&enddt=2026-11-05&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=100",
+      "total": 521,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2026-01-01&enddt=2026-11-05&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=200",
+      "total": 521,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2026-01-01&enddt=2026-11-05&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=300",
+      "total": 521,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2026-01-01&enddt=2026-11-05&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=400",
+      "total": 521,
+      "returned": 100
+    },
+    {
+      "url": "https://efts.sec.gov/LATEST/search-index?dateRange=custom&startdt=2026-01-01&enddt=2026-11-05&forms=PREM14A%2CDEFM14A%2CDEFM14C%2CSC+14D9&size=100&from=500",
+      "total": 521,
+      "returned": 21
+    }
+  ],
+  "limitations": [
+    "Census of returned documents for these four forms and dates, not all public-company M&A deals.",
+    "Announcements may precede filings; abandoned approaches without merger forms are absent.",
+    "Multiple filings and amendments are not independent deals.",
+    "Public-target eligibility, announcement timestamp, acquirer, and outcome are unverified.",
+    "Tender offers, foreign issuers, SPACs, funds and non-M&A proxy matters require classification.",
+    "Additional 8-K/6-K, S-4/F-4, SC TO-T and SC 13E3 evidence is needed for broader coverage."
+  ]
+}

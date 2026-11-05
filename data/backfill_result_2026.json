@@ -1,0 +1,40 @@
+{
+  "as_of": "2026-11-05",
+  "importer": "/home/bill/git/autotrader/python/download_upload.py",
+  "restored": [{
+    "date": "2026-10-09",
+    "archive": "/home/bill/data/groups/1 - eodLevel2/L2_20261009.zip",
+    "csv_rows": 2051602,
+    "csv_distinct_natural_keys": 2049249,
+    "duplicate_natural_keys": 2353,
+    "optiondaily_rows_inserted": 2049249,
+    "underlyings_inserted": 5884,
+    "minimum_id": 4015106098,
+    "maximum_id": 4017157699,
+    "aapl_rows_verified": 3614,
+    "optionstat_import": "importer completed without error",
+    "stockquote_import": "importer completed without error"
+  }],
+  "remaining_missing_dates": [
+    "2026-02-12", "2026-02-17", "2026-03-03", "2026-03-11",
+    "2026-06-09", "2026-07-09", "2026-07-13", "2026-07-14",
+    "2026-07-15", "2026-07-17", "2026-07-20", "2026-07-24",
+    "2026-08-03", "2026-08-20"
+  ],
+  "vendor_account_access": {
+    "subscription_group": "eodLevel2",
+    "listed_files": 38,
+    "daily_date_range": ["2026-09-16", "2026-11-04"],
+    "monthly_archives": ["L2_2026_September.zip", "L2_2026_October.zip"],
+    "purchases": 0,
+    "documentation": "https://dnfilevault.com/api-docs",
+    "official_sync_script_checked": "https://dnfilevault.com/automationPython/download"
+  },
+  "notes": [
+    "No monthly L2_2026_*.zip archives found under /home/bill.",
+    "Eight interrupted daily ZIP .part downloads exist; these were not imported.",
+    "No fallback to a previous trading date was used.",
+    "sp_update_a_date is disabled in the existing importer and was not run.",
+    "coverage_2026.json is the immutable pre-backfill audit; this file records the subsequent repair."
+  ]
+}

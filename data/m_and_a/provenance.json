@@ -1,0 +1,25 @@
+{
+  "retrieved_at": "2026-11-05",
+  "dataset_url": "https://huggingface.co/datasets/tcontorno/edgar-ma-deals",
+  "revision": "47559de62440b83b63184206b3e118f4b57dbbde",
+  "source_csv": "https://huggingface.co/datasets/tcontorno/edgar-ma-deals/resolve/47559de62440b83b63184206b3e118f4b57dbbde/edgar_ma_deals_2010_2024.csv",
+  "sha256": "b5853b3ffc7e669e540ed5fb381cc2593c20473b6b20a68a7fac5e3ef92d6315",
+  "license": "MIT; credit Tyler Contorno, EDGAR M&A Deal Events (2010\u20132024)",
+  "limitations": [
+    "One earliest merger-related filing per CIK, not one row per deal.",
+    "Filing-date proxies can lag actual announcements by weeks.",
+    "Issuer public status, acquirer, deal outcome and actual announcement timestamps need verification.",
+    "Filtering earliest proxy dates at 2013 can omit later deals of issuers first present before 2013.",
+    "Open dataset ends in 2024; no 2025/2026 coverage is implied.",
+    "CIK mapping is a local undated snapshot; ticker reuse and historical validity require review."
+  ],
+  "original_rows": 4156,
+  "proxy_since_2013_rows": 3271,
+  "provider_review_flag_true_since_2013": 2798,
+  "option_coverage_near_proxy": 834,
+  "local_maevent_rows": 446,
+  "local_news_rows": 779,
+  "local_dated_since_2013": 62,
+  "local_dated_with_symbol_since_2013": 61,
+  "local_rows_with_option_data": 54
+}

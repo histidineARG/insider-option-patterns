@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "insider-option-patterns"
+version = "0.1.0"
+description = "Research documented insider option trading patterns using SEC evidence and optiondb"
+requires-python = ">=3.10"
+dependencies = ["PyMySQL>=1.1,<2", "requests>=2.31,<3"]
+
+[project.scripts]
+insider-option-patterns = "detector:main"
+
+[tool.setuptools]
+py-modules = ["detector", "sec_match", "ma_inventory", "edgar_ma_search", "research_report", "ma_stock_confirmation", "ma_broad_screen", "ma_registry"]

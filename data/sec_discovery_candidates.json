@@ -1,0 +1,317 @@
+{
+  "as_of": "2026-11-05",
+  "coverage": "NON_EXHAUSTIVE",
+  "candidates": [
+    {
+      "issuer": "Smithfield Foods",
+      "symbol": "SFD",
+      "trade_years": "2013",
+      "actor": "Rungruangnavarat brothers",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-24136",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Nokia",
+      "symbol": "NOK",
+      "trade_years": "2013",
+      "actor": "John Hardy",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-23492",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Puma Biotechnology",
+      "symbol": "PBYI",
+      "trade_years": "2013;2014",
+      "actor": "Robert Gadimian",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-24217",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Multiple investor relations clients",
+      "symbol": "",
+      "trade_years": "2013;2014",
+      "actor": "Michael Lucarelli",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2014-175",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Yodlee",
+      "symbol": "YDLE",
+      "trade_years": "2015",
+      "actor": "Yue Han",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2015-267",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Zulily",
+      "symbol": "ZU",
+      "trade_years": "2015",
+      "actor": "Yue Han",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2015-267",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Rentrak",
+      "symbol": "RENT",
+      "trade_years": "2015",
+      "actor": "Yue Han",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2015-267",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "KLA-Tencor",
+      "symbol": "KLAC",
+      "trade_years": "2015",
+      "actor": "Yue Han; Nima Hedayati",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2017-66",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Life Time Fitness",
+      "symbol": "LTM",
+      "trade_years": "2015",
+      "actor": "Fleming tipping network",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2017-184",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "International Rectifier",
+      "symbol": "IRF",
+      "trade_years": "2014",
+      "actor": "Lanny Brown / Sean Fox",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-24015",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Virgin America",
+      "symbol": "VA",
+      "trade_years": "2016",
+      "actor": "Peter Cho",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-24375",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "InterOil",
+      "symbol": "IOC",
+      "trade_years": "2016",
+      "actor": "Kurt Bordian",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-24164",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Apache",
+      "symbol": "APA",
+      "trade_years": "2016",
+      "actor": "Christopher Lollar",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-24096",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Ubiquiti",
+      "symbol": "UBNT",
+      "trade_years": "2016;2017",
+      "actor": "Yu-Cheng Lin",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2017/comp23748.pdf",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Xoom",
+      "symbol": "XOOM",
+      "trade_years": "2015",
+      "actor": "Bryan Long",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-24317",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "PetMed Express",
+      "symbol": "PETS",
+      "trade_years": "2014;2015;2016;2017;2018",
+      "actor": "Richard Kirsch / Adam Terris",
+      "source_url": "https://www.sec.gov/litigation/complaints/2020/comp24892.pdf",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Netflix",
+      "symbol": "NFLX",
+      "trade_years": "2016;2017;2018;2019",
+      "actor": "Jun network",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2021-158",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Sapient",
+      "symbol": "SAPE",
+      "trade_years": "2014",
+      "actor": "Mychal Kendricks / Damilare Sonoiki",
+      "source_url": "https://www.sec.gov/file/sec-complaint-1569",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Oplink",
+      "symbol": "OPLK",
+      "trade_years": "2014",
+      "actor": "Mychal Kendricks / Damilare Sonoiki",
+      "source_url": "https://www.sec.gov/file/sec-complaint-1569",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "PHH",
+      "symbol": "PHH",
+      "trade_years": "2018",
+      "actor": "Bryan Ziegenfuse",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2018/comp24298.pdf",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Mazor Robotics",
+      "symbol": "MZOR",
+      "trade_years": "2018",
+      "actor": "Tavlin / Farahan / Gantman",
+      "source_url": "https://www.sec.gov/file/sec-complaint-2344",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Kadmon",
+      "symbol": "KDMN",
+      "trade_years": "2021",
+      "actor": "Frank Glassner",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25398",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Del Taco",
+      "symbol": "TACO",
+      "trade_years": "2021",
+      "actor": "Qsar / Witherspoon / Bernard / Lambert",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2024/comp25956.pdf",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Macquarie Infrastructure",
+      "symbol": "MIC",
+      "trade_years": "2021",
+      "actor": "Dileep Murthy",
+      "source_url": "https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-100819-s",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Canoo",
+      "symbol": "GOEV",
+      "trade_years": "2022",
+      "actor": "Jai Sondhi",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2026/comp26542.pdf",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "CinCor",
+      "symbol": "CINC",
+      "trade_years": "2022",
+      "actor": "Anders Lindgren",
+      "source_url": "https://www.sec.gov/file/34-100280",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Portola",
+      "symbol": "PTLA",
+      "trade_years": "2020",
+      "actor": "Dupont / Cronin / Kaplan / Feldman / Mendoza",
+      "source_url": "https://www.sec.gov/file/comp25768",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Domtar; Proofpoint; CDK; Score; VMware",
+      "symbol": "UFS;PFPT;CDK;SCR;VMW",
+      "trade_years": "2021;2022",
+      "actor": "Meadow / Teixeira / Farrant",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2026/comp26653.pdf",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "Multiple acquisition targets",
+      "symbol": "",
+      "trade_years": "2017",
+      "actor": "Brijesh Goel / Akshay Niranjan",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2022-129",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "PetIQ",
+      "symbol": "PETQ",
+      "trade_years": "2024",
+      "actor": "Douglas Dalton / Michael Smith",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2026/comp26518.pdf",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    },
+    {
+      "issuer": "ImmunoGen and other target companies",
+      "symbol": "IMGN",
+      "trade_years": "2023",
+      "actor": "Kim / Shoukat network",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2026/comp26458.pdf",
+      "status": "discovered_requires_trade_and_contract_extraction",
+      "training_label_approved": false
+    }
+  ],
+  "excluded_or_unverified": [
+    {
+      "issuer": "Pharmasset",
+      "reason": "Trading occurred in 2011, despite SEC releases after 2013",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2013-2013-10htm"
+    },
+    {
+      "issuer": "AuthenTec",
+      "reason": "2012 trading outside data period",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2015-119"
+    },
+    {
+      "issuer": "Ross Stores / Taleo",
+      "reason": "Source describes trading through 2012",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2014-117"
+    },
+    {
+      "issuer": "Acacia / Bechtolsheim",
+      "reason": "Short puts, not long calls in reviewed complaint",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2024/comp26014.pdf"
+    },
+    {
+      "issuer": "AFOP / Peter Chang",
+      "reason": "Reviewed source describes stock; unverified as long-call label",
+      "source_url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-23937"
+    },
+    {
+      "issuer": "TUMI; LNKD",
+      "reason": "User-nominated studies; no options enforcement source verified in this pass",
+      "source_url": null
+    }
+  ]
+}

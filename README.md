@@ -1,0 +1,98 @@
+# Insider Option Patterns
+
+Research option trading patterns associated with documented insider-trading cases
+by aligning SEC evidence with historical EOD data in local `optiondb`.
+The project includes a baseline OTM call-volume detector and an SEC case alignment
+workflow. Signals prioritize investigation; they do not establish insider trading
+or identify traders.
+
+Research design: [RESEARCH.md](RESEARCH.md).
+The source-backed case registry is `data/sec_cases.json`; additional discovery
+candidates are in `data/sec_discovery_candidates.json`. The inventory is not exhaustive.
+Run `python3 sec_match.py` to regenerate `results/sec_alignment/` with read-only
+queries (password prompt). These results describe historical patterns, not validated
+predictive performance or executable trading returns.
+
+The preliminary findings are in [the SEC alignment report](results/sec_alignment/REPORT.md).
+M&A discovery files are under `data/m_and_a/`. Run `python3 ma_inventory.py` to
+refresh the open candidate dataset and local mappings; `python3 edgar_ma_search.py`
+enumerates four SEC merger-related forms by year through the configured cutoff.
+Filing dates and completion dates must not be substituted for first public
+announcement timestamps. These inventories require event and issuer review before
+they can supply training labels.
+See [M&A inventory coverage](data/m_and_a/README.md) for the official SEC search
+counts, source files, reviewed examples and remaining validation work.
+
+Run `python3 ma_stock_confirmation.py` to check dated M&A targets in `stockquote`:
+at least a 15% close-to-close price jump and 2× the previous 20 sessions' average
+volume, with announcement-session alignment and explicit missing-data handling.
+See [stock reaction confirmations](results/ma_stock_confirmation/REPORT.md).
+
+Run `python3 ma_broad_screen.py` to discover price jumps among mapped SEC merger
+filers. The saved scan contains 3,303 unverified leads, including 1,809 jumps of
+at least 15%. These require primary-source announcement and issuer confirmation;
+they are not confirmed M&A events or model labels.
+
+Run `python3 ma_registry.py` to create and populate dedicated `research_ma_*`
+tables in `optiondb`. This command writes research tables; the detector and
+screening commands read source tables. The registry retains event candidates,
+filing evidence, discovery records, and price leads independently of price or
+volume thresholds. Public-target status and acquisition completion remain unknown
+until reviewed. The `research_ma_public_company_acquisitions` view marks completed
+public-company acquisitions only when both flags are true. Source candidates
+are not yet deduplicated into a canonical deal universe. See the saved
+[ingest summary](results/ma_registry/ingest_summary.json) for counts.
+
+## Run
+
+Python 3.10+ and PyMySQL are required. Install with `python3 -m pip install -e .`
+(or use an environment that already has PyMySQL).
+
+```bash
+python3 detector.py --symbols AAPL MSFT --date 2026-11-04
+python3 detector.py --symbols AAPL --date 2026-11-04 --format csv
+python3 -m unittest discover -s tests -v
+```
+
+The CLI prompts for the MySQL password. Credentials are never stored in this repo.
+For unattended use, supply `OPTIONDB_PASSWORD` through your environment/secret manager.
+Defaults: user `bill`, database `optiondb`, socket `/run/mysqld/mysqld.sock`.
+Override with `OPTIONDB_USER`, `OPTIONDB_DATABASE`, `OPTIONDB_SOCKET`, or
+`OPTIONDB_HOST` and `OPTIONDB_PORT` for TCP.
+
+## Signal
+
+For each requested symbol and date, aggregate calls 3–50% above the underlying
+price with 3–45 calendar days to expiration. Require at least 500 contracts,
+5x prior average volume, a population z-score of at least 3, and aggregate
+volume/open-interest of at least 1. Thresholds are CLI options; see `--help`.
+Use the prior 20 observed chain sessions, requiring at least 10. The target date
+and future dates are excluded from the baseline. Observed sessions with no
+qualifying calls count as zero; absent chain sessions are not fabricated.
+A bounded history query spans max(90, lookback*4) calendar days.
+
+Flat baselines qualify only if current volume exceeds their mean. Zero means
+and zero OI are explicitly flagged, with undefined ratios emitted as JSON null.
+Premium is an estimate using closing bid/ask midpoint, 100 shares per contract,
+and reported volume; it is not observed transaction value. Invalid/crossed quotes
+contribute no estimated premium. Adjusted contracts can use other multipliers.
+
+JSON includes settings and ranked alerts. CSV includes headers even with no alerts.
+Missing target data or insufficient history generates stderr diagnostics.
+No alert is distinct from no data. Database failures exit with status 1.
+
+## Data and performance
+
+Uses the verified `optiondaily` schema: underlying, underlying_last, type, strike,
+edate, qdate, volume, oi, bid, ask. `--table optiondaily3` selects the alternate
+compatible table. Explicit symbols constrain the leading underlying/qdate index;
+the source table has billions of rows, so start with a small watchlist.
+Queries run in a read-only transaction with a 60-second server execution limit.
+The detector creates no tables and changes no source data.
+
+Coverage depends on source completeness. Contract eligibility changes as price
+and DTE change. Daily aggregates cannot determine trade aggressor, opening versus
+closing volume, intraday timing, or coordination. Earnings, public news, hedging,
+rolls, and corporate actions can cause alerts. Review those explanations and
+validate against subsequent data before drawing conclusions. This version has
+no earnings calendar, intraday feed, or backtested predictive performance.

@@ -1,0 +1,447 @@
+maid,announcedate,acquirer,acquiree,symbol,underlying_before,underlying_after,chg_pct,type,zscore_max,peak_date,source_table,announcement_date_verified,public_target_verified,deal_status,option_data_near_local_date
+1,,"Trinity Industries, Inc. (TRN)",WesMor Cryogenic Companies,,,,,,,,optiondb.maevent,False,False,unknown,False
+2,2014-01-13,AMEC plc,Foster Wheeler AG (FWLT),FWLT,30.85,30.40,-1.46,MA,11.214,2013-11-27,optiondb.maevent,False,False,unknown,True
+3,,"Rush Enterprises, Inc. (RUSHA)",Assets of Dealership Groups in Illinois and Indiana,,,,,,,,optiondb.maevent,False,False,unknown,False
+4,,"Verisk Analytics, Inc. (VRSK)",EagleView Technology Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+5,,Alliance Grain Traders Inc. (AGT.CA),Assets of CLIC International,,,,,,,,optiondb.maevent,False,False,unknown,False
+6,,Equifax  (EFX),TDX Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+7,,"Lifetime Brands, Inc. (LCUT)",Kitchen Craft,,,,,,,,optiondb.maevent,False,False,unknown,False
+8,,Parametric Sound Corporation (PAMT),Turtle Beach,,,,,,,,optiondb.maevent,False,False,unknown,False
+9,,Pointer Telocation Ltd. (PNTR),Remainder of Shagrir Systems Ltd.,,,,,,,,optiondb.maevent,False,False,unknown,False
+10,,"CTPartners Executive Search, Inc.  (CTP)",Johnson,,,,,,,,optiondb.maevent,False,False,unknown,False
+11,,Bird Construction Inc.  (BDT.CA),Nason Contracting Group Ltd.,,,,,,,,optiondb.maevent,False,False,unknown,False
+12,,CVS Caremark (CVS),Coram Infusion Business from Apria Healthcare,,,,,,,,optiondb.maevent,False,False,unknown,False
+13,,GP Strategies Corporation (GPX),Effective-People and Effective-Learning Companies,,,,,,,,optiondb.maevent,False,False,unknown,False
+14,,Great Lakes Dredge & Dock Corporation (GLDD),"Terra Contracting, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+15,,Northwest Pipe Company (NWPX),Permalok Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+16,,The Goldfield Corporation (GV),"C and C Power Line, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+17,2014-01-21,Anheuser-Busch InBev (BUD),Oriental Brewery (KKR),KKR,25.83,25.77,-0.23,MA,1.847,2013-12-17,optiondb.maevent,False,False,unknown,True
+18,,"Group 1 Automotive, Inc. (GPI)",Heller Ford and Heller Hyundai in Southern California,,,,,,,,optiondb.maevent,False,False,unknown,False
+19,,ICF International (ICFI),Mostra S.A.,,,,,,,,optiondb.maevent,False,False,unknown,False
+20,2014-01-21,Rent-A-Wheel /Rent-A-Tire,Aaron's RIMCO Stores (AAN),AAN,26.60,27.34,,Partial,0.533,2013-12-30,optiondb.maevent,False,False,unknown,True
+21,,Tyson Foods (TSN),Assets of Bosco's Pizza Co.,,,,,,,,optiondb.maevent,False,False,unknown,False
+22,,Manchester United  (MANU),BskyB's One-Third Stake in MUTV,,,,,,,,optiondb.maevent,False,False,unknown,False
+23,,Rollins (ROL),Allpest,,,,,,,,optiondb.maevent,False,False,unknown,False
+24,,The Home Depot  (HD),Blinds.com,,,,,,,,optiondb.maevent,False,False,unknown,False
+25,,Global Payments (GPN),PayPros,,,,,,,,optiondb.maevent,False,False,unknown,False
+26,,Diageo (DEO),Peligroso,,,,,,,,optiondb.maevent,False,False,unknown,False
+27,2013-07-09,The Kroger Co. (KR),"Harris Teeter Supermarkets, Inc. (HTSI)",HTSI,48.47,49.37,1.86,MA,17.111,2013-05-28,optiondb.maevent,False,False,unknown,True
+28,,Ball Aerospace & Technologies Corp. (BLL),Wavefront Technologies,,,,,,,,optiondb.maevent,False,False,unknown,False
+29,2015-08-10,Berkshire Hathaway Inc. (BRK.A),Precision Castparts Corp. (PCP),PCP,193.81,230.30,18.83,MA,1.772,2015-07-24,optiondb.maevent,False,False,unknown,True
+30,,GreenFlag Ventures Inc. (GFGVF),Golden Mile Organics Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+31,,IBM (IBM),The Weather Company's Product and Technology Businesses,,,,,,,,optiondb.maevent,False,False,unknown,False
+32,,"Mattel, Inc. (MAT)","Fuhu, Inc. & Sproutling, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+33,,Morita Holdings Corporation,Federal Signal Corporation's Bronto Skylift business,,,,,,,,optiondb.maevent,False,False,unknown,False
+34,,"NuTech Energy Resources, Inc. (NERG)",Flowpower LLC,,,,,,,,optiondb.maevent,False,False,unknown,False
+35,,"Southern BancShares (N.C.), Inc.","Heritage Bankshares, Inc. (OTC:HBKS)",HBKS,,,,,,,optiondb.maevent,False,False,unknown,False
+36,,The Carlyle Group,Veritas,,,,,,,,optiondb.maevent,False,False,unknown,False
+37,,The Guardian Life Insurance Company of America,Av_sis Incorporated (OTC:AVSS) ,AVSS,,,,OTC,,,optiondb.maevent,False,False,unknown,False
+38,,"NVR, Inc. (NVR)","Heartland Homes, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+39,,Amira Nature Foods Ltd (ANFI),Basmati Rice GmbH,,,,,,,,optiondb.maevent,False,False,unknown,False
+40,,Susser Holdings Corporation and Susser Petroleum Partners LP (SUSS),Sac-N-Pac Convenience Stores,,,,,,,,optiondb.maevent,False,False,unknown,False
+41,,CVTech Group Inc. (CVT.CA),B.G. High Voltage Systems Limited,,,,,,,,optiondb.maevent,False,False,unknown,False
+42,,"NV5 Holdings, Inc. (NVEE)",Air Quality Consulting,,,,,,,,optiondb.maevent,False,False,unknown,False
+43,,SustainCo Inc.  (SMS.CA),Vci Controls Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+44,,"Trinity Industries, Inc. (TRN)","Alloy Custom Products, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+45,,Frutarom Industries Ltd.,Wiberg GmbH of Austria and Wiberg GmbH of Germany ,,,,,,,,optiondb.maevent,False,False,unknown,False
+46,,"Sterling Construction Company, Inc.  (STRL)",Ralph L. Wadsworth Subsidiary,,,,,,,,optiondb.maevent,False,False,unknown,False
+47,2014-01-06,"TRC Companies, Inc.  (TRR)","EMCOR Group, Inc. (EME)",EME,41.86,41.91,0.12,MA,0.177,2013-11-26,optiondb.maevent,False,False,unknown,True
+48,,"CBIZ, Inc. (CBZ)","Clearview National Partners, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+49,,Hill International (HIL),Collaborative Partners,,,,,,,,optiondb.maevent,False,False,unknown,False
+50,,Huron Consulting Group (HURN),The Frankel Group Associates LLC,,,,,,,,optiondb.maevent,False,False,unknown,False
+51,,Jacobs Engineering Group Inc. (JEC),FMHC Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+52,,"CBIZ, Inc. (CBZ)",Centric Insurance Agency,,,,,,,,optiondb.maevent,False,False,unknown,False
+53,,Foster Wheeler AG (FWLT),"Yonkers Industries, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+54,,Jacobs Engineering Group Inc.  (JEC),Ilitha Companies,,,,,,,,optiondb.maevent,False,False,unknown,False
+55,,"TrueBlue, Inc. (TBI)",The Work Connection,,,,,,,,optiondb.maevent,False,False,unknown,False
+56,,MasterCard  (MA),Provus,,,,,,,,optiondb.maevent,False,False,unknown,False
+57,,Acacia Research Corporation  (ACTG),Patent Portfolio Relating to Professional and Social Media Networking Technology,,,,,,,,optiondb.maevent,False,False,unknown,False
+58,,TeamHealth Holdings Inc. (TMH),MESA Medical Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+59,,"Rick's Cabaret International, Inc.  (RICK)",All Jaguars Gentlemen's Clubs And Associated Real Estate,,,,,,,,optiondb.maevent,False,False,unknown,False
+60,,"Corporate Resource Services, Inc. (CRRS)",Cameo Employment Services,,,,,,,,optiondb.maevent,False,False,unknown,False
+61,,Iron Mountain (IRM),Cornerstone Records Management,,,,,,,,optiondb.maevent,False,False,unknown,False
+62,,Wabtec (WAB),LH Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+63,,Huron Consulting Group (HURN),Blue Stone International,,,,,,,,optiondb.maevent,False,False,unknown,False
+64,,"SFX Entertainment, Inc. (SFXE)",ID&T,,,,,,,,optiondb.maevent,False,False,unknown,False
+65,,"Beacon Roofing Supply, Inc. (BECN)",McClure-Johnston Company,,,,,,,,optiondb.maevent,False,False,unknown,False
+66,,"Produced Water Absorbents, Inc. (TINY)",USA and Malaysia Assets of ProSep Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+67,,Shutterfly (SFLY),BorrowLenses,,,,,,,,optiondb.maevent,False,False,unknown,False
+68,2013-10-28,"Clayton, Dubilier & Rice, LLC",Majority interest in Deere landscapes business (DE),DE,84.28,82.21,,Partial,2.471,2013-10-03,optiondb.maevent,False,False,unknown,True
+69,,DirectCash  (DCI.CA),Brink's Threshold Subsidiary (BCO),BCO,,,,,,,optiondb.maevent,False,False,unknown,False
+70,,SFX Entertainment (SFXE),Totem OneLove Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+71,,"Rick's Cabaret International, Inc. (RICK)","49 Percent Interest In Dallas Gentlemen's Club ""PT's Platinum""",,,,,,,,optiondb.maevent,False,False,unknown,False
+72,,"FleetCor Technologies, Inc.  (FLT)",NexTraq,,,,,,,,optiondb.maevent,False,False,unknown,False
+73,,"FleetCor Technologies, Inc. (FLT)",Epyx,,,,,,,,optiondb.maevent,False,False,unknown,False
+74,,Primoris Services Corporation (PRIM),"The Saxon Group, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+75,,"PowerSecure International, Inc. (POWR)","Assets of Encari, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+76,,"Beacon Roofing Supply, Inc. (BECN)",McClure-Johnston Company,,,,,,,,optiondb.maevent,False,False,unknown,False
+77,,TeamHealth (TMH),Wolverine Anesthesia Consultants,,,,,,,,optiondb.maevent,False,False,unknown,False
+78,,AMECO (FLR),ServiTrade,,,,,,,,optiondb.maevent,False,False,unknown,False
+79,,"MISTRAS Group, Inc. (MG)","Carmagen Engineering, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+80,,Primoris Services Corporation (PRIM),Q3 Contracting Inc. ,,,,,,,,optiondb.maevent,False,False,unknown,False
+81,,Tyco  (TYC),Westfire,,,,,,,,optiondb.maevent,False,False,unknown,False
+82,,"NV5 Holdings, Inc. (NVEE)","68West, Inc",,,,,,,,optiondb.maevent,False,False,unknown,False
+83,,Alamo Group Inc.  (ALG),Bandit Industries,,,,,,,,optiondb.maevent,False,False,unknown,False
+84,,SFX Entertainment (SFXE),i-Motion,,,,,,,,optiondb.maevent,False,False,unknown,False
+85,,"Heidrick & Struggles International, Inc. (HSII)",Scambler MacGregor,,,,,,,,optiondb.maevent,False,False,unknown,False
+86,,Towers Watson (TW),Liazon ,,,,,,,,optiondb.maevent,False,False,unknown,False
+87,2013-11-25,Nielsen Holdings N.V. (NLSN),Harris Interactive Inc. (HPOL),HPOL,,,,NA,,,optiondb.maevent,False,False,unknown,False
+88,,Towers Watson (TW),Liazon Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+89,,Jacobs (JEC),"Assets of MARMAC Field Services, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+90,,Foster Wheeler AG (FWLT),"Three Streams Engineering, Ltd.",,,,,,,,optiondb.maevent,False,False,unknown,False
+91,,CBIZ (CBZ),Knight Field Fabry LLP,,,,,,,,optiondb.maevent,False,False,unknown,False
+92,,"SFX Entertainment, Inc.  (SFXE)",Made Event,,,,,,,,optiondb.maevent,False,False,unknown,False
+93,,"Trinity Industries, Inc. (TRN)",Seaboard Railcar Repair,,,,,,,,optiondb.maevent,False,False,unknown,False
+94,,Alliance Data Systems Corporation (ADS),Majority Stake in European-based BrandLoyalty,,,,,,,,optiondb.maevent,False,False,unknown,False
+95,,Jacobs Engineering Group Inc.  (JEC),Interest in Guimar Engenharia,,,,,,,,optiondb.maevent,False,False,unknown,False
+96,,"Copart, Inc. (CPRT)",Berpa Auto Auction,,,,,,,,optiondb.maevent,False,False,unknown,False
+97,,Jardine Lloyd Thompson Group plc ,Towers Watson Reinsurance Brokerage Business (TW),TW,,,,,,,optiondb.maevent,False,False,unknown,False
+98,,"Toll Brothers, Inc. (TOL)",Shapell Industries homebuilding business,,,,,,,,optiondb.maevent,False,False,unknown,False
+99,,Bird Construction Inc. (BDT.CA),Nason Contracting Group Ltd.,,,,,,,,optiondb.maevent,False,False,unknown,False
+100,,"The Ryland Group, Inc.  (RYL)",Trend Homes,,,,,,,,optiondb.maevent,False,False,unknown,False
+101,,"On Assignment, Inc. (ASGN)","Whitaker Medical, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+102,,Posera - HDX Limited (HDX.CA),Zomaron Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+103,,Furmanite Corporation (FRM),ENGlobal Inspection Division,,,,,,,,optiondb.maevent,False,False,unknown,False
+104,,Moody's (MCO),Amba Investment Services,,,,,,,,optiondb.maevent,False,False,unknown,False
+105,,Jacobs Engineering Group Inc. (JEC),Sinclair Knight Merz,,,,,,,,optiondb.maevent,False,False,unknown,False
+106,,"Trinity Industries, Inc. (TRN)",Armstrong Bros. Holding Co.,,,,,,,,optiondb.maevent,False,False,unknown,False
+107,,Stantec (STN),"Williamsburg Environmental Group, Inc. and Cambria Gordon",,,,,,,,optiondb.maevent,False,False,unknown,False
+108,,Huron Consulting Group Inc.  (HURN),The Frankel Group Associates LLC,,,,,,,,optiondb.maevent,False,False,unknown,False
+109,,"Monster Worldwide, Inc.  (MWW)",Minority Stake in JobKorea,,,,,,,,optiondb.maevent,False,False,unknown,False
+110,,SFX Entertainment (SFXE),B2S Holding BV,,,,,,,,optiondb.maevent,False,False,unknown,False
+111,,SustainCo  (SMS.CA),VCI Controls Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+112,,"On Assignment, Inc.  (ASGN)","CyberCoders Holdings, Inc. and Whitaker Medical, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+113,,TeamHealth Holdings Inc.  (TMH),Professional Anesthesia Services,,,,,,,,optiondb.maevent,False,False,unknown,False
+114,,Pointer Telocation (PNTR),Remainder of Shagrir Systems Ltd,,,,,,,,optiondb.maevent,False,False,unknown,False
+115,,Granite Construction Incorporated (GVA),Kenny Construction Company,,,,,,,,optiondb.maevent,False,False,unknown,False
+116,,"Dycom Industries, Inc.  (DY)",Telecommunications Infrastructure Services Subsidiaries From Quanta Services (PWR),PWR,,,,,,,optiondb.maevent,False,False,unknown,False
+117,,Manitex International (MNTX),"Valla, SpA",,,,,,,,optiondb.maevent,False,False,unknown,False
+118,,PGi  (PGI),Powwownow,,,,,,,,optiondb.maevent,False,False,unknown,False
+119,,SFX Entertainment (SFXE),Paylogic,,,,,,,,optiondb.maevent,False,False,unknown,False
+120,,ClubLink Enterprises Limited (CLK.CA),TPC Eagle Trace,,,,,,,,optiondb.maevent,False,False,unknown,False
+121,,Primoris Services Corporation (PRIM),Q3 Contracting Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+122,,"On Assignment, Inc. (ASGN)","CyberCoders Holdings, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+123,2013-09-09,Sinclair Knight Merz,Jacobs Engineering Group Inc.  (JEC),JEC,59.02,57.61,-2.39,MA,2.216,2013-08-12,optiondb.maevent,False,False,unknown,True
+124,,Certain affiliated investment funds managed by Alinda Capital Partners,Quanta Services Equity Ownership in Howard Energy (PWR),PWR,,,,,,,optiondb.maevent,False,False,unknown,False
+125,,Rocky Mountain Dealerships Inc. (RME.CA),Murray's Farm Supplies,,,,,,,,optiondb.maevent,False,False,unknown,False
+126,,Wabtec Corporation (WAB),Napier,,,,,,,,optiondb.maevent,False,False,unknown,False
+127,,ACME Resources Corp.,Hantian Labs Limited,,,,,,,,optiondb.maevent,False,False,unknown,False
+128,2016-02-01,Abbott (ABT),Alere Inc.  (ALR),ALR,36.53,53.70,47.00,MA,4.375,2016-01-06,optiondb.maevent,False,False,unknown,True
+129,,Acme United Corporation (ACU),Assets of Diamond Machining Technology,,,,,,,,optiondb.maevent,False,False,unknown,False
+130,,"Avalanche Biotechnologies, Inc. (AAVL)",Annapurna Therapeutics SAS ,,,,,,,,optiondb.maevent,False,False,unknown,False
+131,,Balchem Corporation  (BCPC),"Albion International, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+132,,CLARCOR Inc. (CLC),"Assets of TDC Filter Manufacturing, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+133,,"CST Brands, Inc. (CST)",Flash Foods store network,,,,,,,,optiondb.maevent,False,False,unknown,False
+134,2016-02-01,CalAmp (CAMP),LoJack Corporation (LOJN),LOJN,5.29,6.42,21.36,MA,7.000,2015-12-31,optiondb.maevent,False,False,unknown,True
+135,,Dana Holding Corporation (DAN),Magnum Gaskets,,,,,,,,optiondb.maevent,False,False,unknown,False
+136,,ESCO Technologies Inc.  (ESE),Plastique Group Limited,,,,,,,,optiondb.maevent,False,False,unknown,False
+137,,GFL Environmental Inc.,TransForce Inc's Waste Management segment,,,,,,,,optiondb.maevent,False,False,unknown,False
+138,,"Golden Entertainment, Inc. (GDEN)",Distributed Gaming Business,,,,,,,,optiondb.maevent,False,False,unknown,False
+139,2015-09-28,"HomeStreet, Inc.  (HMST)",Orange County Business Bank (OCBB),OCBB,,,,NA,,,optiondb.maevent,False,False,unknown,False
+140,,Hudson's Bay Company (HBC.CA),"Gilt Groupe Holdings, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+141,,II-VI Incorporated (IIVI),"EpiWorks, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+142,,J.M. Huber Corporation,Martinswerk business of Albemarle Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+143,,JLL (JLL),Strategic Advisory Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+144,,Lorne Park Capital Partners Inc. (LPC.CA),INDEX Wealth Management Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+145,,MFC Industrial Ltd. (MIL),BAWAG Malta Bank Ltd. ,,,,,,,,optiondb.maevent,False,False,unknown,False
+146,,Matrix Service Company (MTRX),Baillie Tank Equipment,,,,,,,,optiondb.maevent,False,False,unknown,False
+147,,Nasdaq (NDAQ),Chi-X Canada,,,,,,,,optiondb.maevent,False,False,unknown,False
+148,2015-10-01,"Pacific Premier Bancorp, Inc. (PPBI)",Security California Bancorp (SCAF),SCAF,,,,NA,,,optiondb.maevent,False,False,unknown,False
+149,,Royal Nickel Corporation (RNX.CA),Salt Lake Mining Pty Ltd. & VMS Ventures Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+150,,"Sevcon, Inc. (SEV)",Bassi S.r.l.,,,,,,,,optiondb.maevent,False,False,unknown,False
+151,2016-02-01,Shanda Interactive Entertainment Limited,"Ku6 Media Co., Ltd. (KUTV)",KUTV,,,,NA,,,optiondb.maevent,False,False,unknown,False
+152,,Sprague Resources LP  (SRLP),"Santa Buckley Energy, Inc.'s natural gas marketing and electricity brokerage business assets",,,,,,,,optiondb.maevent,False,False,unknown,False
+153,,Stryker Corporation  (SYK),"Sage Products, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+154,,Telenor,Firsthand Technology Value Fund Holding Tapad,,,,,,,,optiondb.maevent,False,False,unknown,False
+155,,TreeHouse Foods  (THS),ConAgra's Private Brands Business,,,,,,,,optiondb.maevent,False,False,unknown,False
+156,,Wealth Minerals Ltd. (WML.CA),Li3 Energy Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+157,,XL Group plc (XL),"Allied International Holdings, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+158,2015-09-29,"comScore, Inc.  (SCOR)",Rentrak (RENT),RENT,46.20,57.88,25.28,MA,1.074,2015-08-14,optiondb.maevent,False,False,unknown,True
+159,,"xG Technology, Inc. (XGTI)","Integrated Microwave Technologies, LLC ",,,,,,,,optiondb.maevent,False,False,unknown,False
+160,,Bunge North America (BG),"Corn Flour Producers, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+161,,"Lithia Motors, Inc. (LAD)",Hammer Lane Volkswagen,,,,,,,,optiondb.maevent,False,False,unknown,False
+162,,"Trinity Industries, Inc. (TRN)",Platinum Energy Services,,,,,,,,optiondb.maevent,False,False,unknown,False
+163,,CEB (CEB),Talent Neuron,,,,,,,,optiondb.maevent,False,False,unknown,False
+164,,Jacobs Engineering Group Inc. (JEC),Eagleton Engineering,,,,,,,,optiondb.maevent,False,False,unknown,False
+165,,The Kroger Co.  (KR),"YOU Technology Brand Services, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+166,,"Astro-Med, Inc.  (ALOT)",Miltope Aerospace Printer Business,,,,,,,,optiondb.maevent,False,False,unknown,False
+167,,Stantec (STN),"Processes Unlimited International, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+168,,Wabtec Corporation (WAB),Fandstan,,,,,,,,optiondb.maevent,False,False,unknown,False
+169,,CB&I (CBI),The Shaw Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+170,,AMEC,Foster Wheeler AG (FWLT),FWLT,,,,,,,optiondb.maevent,False,False,unknown,False
+171,,American Lorain Corporation (ALN),51% share capital in Athena Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+172,,EnerNOC (ENOC),Activation Energy,,,,,,,,optiondb.maevent,False,False,unknown,False
+173,,EnerNOC (ENOC),Entelios AG,,,,,,,,optiondb.maevent,False,False,unknown,False
+174,,"SFX Entertainment, Inc (SFXE)",50% of Rock in Rio,,,,,,,,optiondb.maevent,False,False,unknown,False
+175,,WABCO Holdings Inc. (WBC),Transics International,,,,,,,,optiondb.maevent,False,False,unknown,False
+176,,Town Sports International  (CLUB),Fitcorp Clubs In Boston,,,,,,,,optiondb.maevent,False,False,unknown,False
+177,,"Jos. A. Bank Clothiers, Inc. (JOSB)",Eddie Bauer,,,,,,,,optiondb.maevent,False,False,unknown,False
+178,,Vipshop Holdings Limited (VIPS),Controlling Interest in Lefeng,,,,,,,,optiondb.maevent,False,False,unknown,False
+179,,"Cal-Maine Foods, Inc. (CALM)","Remaining Interests in Delta Egg Farm, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+180,,LX Ventures (LXV.CA),Copper Cloud Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+181,,"Rollins, Inc. (ROL)",Allpest,,,,,,,,optiondb.maevent,False,False,unknown,False
+182,,Uni-Select Inc. (UNS.CA),Metro Paint Supplies Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+183,2014-02-19,Signet Jewelers Limited (SIG),Zale Corporation (ZLC),ZLC,14.94,21.04,40.83,MA,4.291,2014-02-04,optiondb.maevent,False,False,unknown,True
+184,,Altamont Capital Partners,"Excel Fitness Holdings, Inc. ",,,,,,,,optiondb.maevent,False,False,unknown,False
+185,2015-06-08,Aralez Pharmaceuticals Inc.  (ARLZ),POZEN Inc. & Tribute Pharmaceuticals Canada Inc. (POZN),POZN,7.35,8.52,,NA,0.681,2015-04-22,optiondb.maevent,False,False,unknown,True
+186,,"CSS Industries, Inc. (CSS)","Business and Assets of Blumenthal Lansing Company, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+187,,Code Green Apparel Corp. (CGAC),10Star Apparel ,,,,,,,,optiondb.maevent,False,False,unknown,False
+188,,"Comfort Systems USA, Inc. (FIX)",ShoffnerKalthoff family of companies,,,,,,,,optiondb.maevent,False,False,unknown,False
+189,,"Hillenbrand, Inc. (HI)","Red Valve Company, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+190,,Hooker Furniture Corporation (HOFT),Home Meridian International,,,,,,,,optiondb.maevent,False,False,unknown,False
+191,,Huron Consulting Group Inc.  (HURN),MyRounding,,,,,,,,optiondb.maevent,False,False,unknown,False
+192,,"Installed Building Products, Inc. (IBP)","Marshall Insulation, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+193,,Kiwa Bio-Tech Products Group Corporation (KWBT),"Hong Kong Baina Group Co., Ltd.",,,,,,,,optiondb.maevent,False,False,unknown,False
+194,,Minor International (MNILY),Tivoli Hotels & Resorts,,,,,,,,optiondb.maevent,False,False,unknown,False
+195,,"NV5 Global, Inc. (NVEE)","Sebesta, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+196,,"NetApp, Inc. (NTAP)",SolidFire,,,,,,,,optiondb.maevent,False,False,unknown,False
+197,,OUTFRONT Media Inc. (OUT),"Reynolds Outdoor Media, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+198,,PVH Corp. (PVH),TH Asia Ltd.,,,,,,,,optiondb.maevent,False,False,unknown,False
+199,,"Petrone Worldwide, Inc. (PFWI)",Transpower Component (India) Pvt. Ltd,India,,,,,,,optiondb.maevent,False,False,unknown,False
+200,,TE Connectivity Ltd. (TEL),Creganna Medical group,,,,,,,,optiondb.maevent,False,False,unknown,False
+201,,"The Michaels Companies, Inc. (MIK)","Lamrite West, Inc",,,,,,,,optiondb.maevent,False,False,unknown,False
+202,,MasterCard (MA),C-SAM,,,,,,,,optiondb.maevent,False,False,unknown,False
+203,,"Monster Worldwide, Inc. (MWW)",TalentBin and Gozaik,,,,,,,,optiondb.maevent,False,False,unknown,False
+204,,SFX Entertainment (SFXE),React Presents,,,,,,,,optiondb.maevent,False,False,unknown,False
+205,,Alamo Group Inc.  (ALG),"Units Of Specialized Industries, LP",,,,,,,,optiondb.maevent,False,False,unknown,False
+206,,"TeleTech Holdings, Inc.  (TTEC)",Sofica Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+207,,"Versar, Inc. (VSR)",Lime Energy's Facility Repair And Renewal Business,,,,,,,,optiondb.maevent,False,False,unknown,False
+208,,Biglari Holdings Inc. (BH),MAXIM,,,,,,,,optiondb.maevent,False,False,unknown,False
+209,,Mattel (MAT),MEGA Brands Inc. (MB.CA),MB.CA,,,,,,,optiondb.maevent,False,False,unknown,False
+210,,"Altria Group, Inc. (MO)","E-Vapor Business of Green Smoke, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+211,,CBIZ (CBZ),"Lewis Birch & Ricardo, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+212,,Corporate Resource Services (CRRS),Staff Management Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+213,,Genuine Parts Company (GPC),"Commercial Solutions Inc., Food Service and Jan/San Distributor, Specialty Wire and Cable Distributor",,,,,,,,optiondb.maevent,False,False,unknown,False
+214,,Post Holdings (POST),Golden Boy Foods and Dymatize Enterprises,,,,,,,,optiondb.maevent,False,False,unknown,False
+215,,Accenture (ACN),Formicary,,,,,,,,optiondb.maevent,False,False,unknown,False
+216,,Blackhawk Network (HAWK),NimbleCommerce,,,,,,,,optiondb.maevent,False,False,unknown,False
+217,,Cisco (CSCO),"Jasper Technologies, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+218,,Cubic Corporation (CUB),GATR Technologies,,,,,,,,optiondb.maevent,False,False,unknown,False
+219,,Deere & Company (DE),Monosem,,,,,,,,optiondb.maevent,False,False,unknown,False
+220,,"Endologix, Inc. (ELGX)","TriVascular Technologies, Inc",,,,,,,,optiondb.maevent,False,False,unknown,False
+221,,FirstService Corporation (FSV),"K.A. Diehl in South Carolina, Bruner & Rosi in California, Pride Pool Service & Repairs and Wilcoxon Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+222,,"HC2 Holdings, Inc. (HCHC)",CWind Limited,,,,,,,,optiondb.maevent,False,False,unknown,False
+223,,"Henry Schein, Inc. (HSIC)","RxWorks, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+224,,IBM (IBM),ecx.io,,,,,,,,optiondb.maevent,False,False,unknown,False
+225,,Integrated Freight Corporation (IFCR),"SC Trucking, Inc",,,,,,,,optiondb.maevent,False,False,unknown,False
+226,,"Lowe's Companies, Inc. (LOW)",RONA inc. (RON.CA),RON.CA,,,,,,,optiondb.maevent,False,False,unknown,False
+227,,PHI Group (PHIL),Pacific Petro Commercial JSC ,,,,,,,,optiondb.maevent,False,False,unknown,False
+228,,PolyOne Corporation (POL),Certain TPE Assets from Kraton,,,,,,,,optiondb.maevent,False,False,unknown,False
+229,,Stella-Jones Inc. (SJ.CA),"440 Investments, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+230,,Stella-Jones Inc. (SJ.CA),Lufkin Creosoting Co.,,,,,,,,optiondb.maevent,False,False,unknown,False
+231,,Zillow Group (Z),Naked Apartments,,,,,,,,optiondb.maevent,False,False,unknown,False
+232,,"Lithia Motors, Inc. (LAD)","Island Honda of Kahului, Hawaii",,,,,,,,optiondb.maevent,False,False,unknown,False
+233,,Arlington Capital Partners,iRobot's Defense and Security business,,,,,,,,optiondb.maevent,False,False,unknown,False
+234,2016-02-04,"FormFactor, Inc. (FORM)","Cascade Microtech, Inc.  (CSCD)",CSCD,15.61,20.09,28.70,MA,,,optiondb.maevent,False,False,unknown,True
+235,,"Group 1 Automotive, Inc.  (GPI)",Spire Automotive Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+236,,Honeywell (HON),COM DEV International (CDV.A),CDV.A,,,,,,,optiondb.maevent,False,False,unknown,False
+237,,Honeywell (HON),Xtralis,,,,,,,,optiondb.maevent,False,False,unknown,False
+238,2015-12-30,Icahn Enterprises L.P. (IEP),Pep Boys (PBY),PBY,17.41,18.41,5.74,MA,2.258,2015-11-25,optiondb.maevent,False,False,unknown,True
+239,,Johnson Electric Holdings Limited ,AML Dveloppement,,,,,,,,optiondb.maevent,False,False,unknown,False
+240,,ResMed (RMD),Inova Labs Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+241,,"RigNet, Inc. (RNET)",TECNOR,,,,,,,,optiondb.maevent,False,False,unknown,False
+242,,Rite Aid Corporation (RAD),"Walgreens Boots Alliance, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+243,2016-02-04,"Suzhou Dongshan Precision Manufacturing Co., Ltd.","Multi-Fineline Electronix, Inc. (MFLX)",MFLX,18.87,22.34,18.39,MA,47.447,2016-02-03,optiondb.maevent,False,False,unknown,True
+244,,TD Ameritrade (AMTD),Assets of FA Insight,,,,,,,,optiondb.maevent,False,False,unknown,False
+245,,"Toll Brothers, Inc. (TOL)","Shapell Industries, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+246,,"AMETEK, Inc. (AME)",Brookfield Engineering Laboratories & ESP/SurgeX,,,,,,,,optiondb.maevent,False,False,unknown,False
+247,,Compass Biotechnologies Inc. (COBI),efsAUDIO Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+248,,"Henry Schein, Inc. (HSIC)",Dental Cremer S.A.,,,,,,,,optiondb.maevent,False,False,unknown,False
+249,,Horizon Bancorp  (HBNC),"Kosciusko Financial, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+250,,IDEX CORPORATION (IEX),Akron Brass Holding Corp.,,,,,,,,optiondb.maevent,False,False,unknown,False
+251,,Mattress Firm Holding Corp. (MFRM),HMK Mattress Holdings LLC,,,,,,,,optiondb.maevent,False,False,unknown,False
+252,,POZEN Inc. (POZN),Tribute Pharmaceuticals Canada Inc. (TRX.CA),TRX.CA,,,,,,,optiondb.maevent,False,False,unknown,False
+253,2016-02-05,VTech Holdings Limited (VTKLY),"LeapFrog Enterprises, Inc. (LF)",LF,0.55,0.96,74.55,MA,1.705,2016-02-04,optiondb.maevent,False,False,unknown,True
+254,,Xylem Inc.  (XYL),Tideland Signal Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+255,2014-02-06,First American Financial Corporation,Interthinx (VRSK),VRSK,62.74,62.30,-0.70,MA,9.790,2014-01-16,optiondb.maevent,False,False,unknown,True
+256,,Bunge North America (BG),Corn Masa Flour Mill,,,,,,,,optiondb.maevent,False,False,unknown,False
+257,,"GHK Consulting, Ltd. (ICFI)",Mostra SA,,,,,,,,optiondb.maevent,False,False,unknown,False
+258,,United Rentals (URI),National Pump,,,,,,,,optiondb.maevent,False,False,unknown,False
+259,2014-03-11,Men's Wearhouse (MW),Jos. A. Bank (JOSB),JOSB,61.24,64.28,4.96,MA,20.767,2014-02-28,optiondb.maevent,False,False,unknown,True
+260,,First American Financial (FAF),Interthinx (VRSK),VRSK,,,,,,,optiondb.maevent,False,False,unknown,False
+261,,"Lifetime Brands, Inc. (LCUT)",La Cafetire,,,,,,,,optiondb.maevent,False,False,unknown,False
+262,,WSP Global Inc. (WSP.CA),Focus Group Holding Inc. ,,,,,,,,optiondb.maevent,False,False,unknown,False
+263,,"Integrated Electrical Services, Inc. (IESC)","MISCOR Group, Ltd. (OTC:MIGL)",MIGL,,,,,,,optiondb.maevent,False,False,unknown,False
+264,,Foster Wheeler (FWLT),MDM Engineering Group Limited,,,,,,,,optiondb.maevent,False,False,unknown,False
+265,,Penske Automotive (PAG),BMW Of Greenwich,,,,,,,,optiondb.maevent,False,False,unknown,False
+266,,"Hastings Entertainment, Inc. (HAST)","Draw Another Circle, LLC and Hendrix Acquisition Corp. ",,,,,,,,optiondb.maevent,False,False,unknown,False
+267,,ICF International (ICFI),"CITYTECH, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+268,,Matthews International Corporation (MATW),Schawk (SGK),SGK,,,,,,,optiondb.maevent,False,False,unknown,False
+269,,"SFX Entertainment, Inc. (SFXE)",Flavorus,,,,,,,,optiondb.maevent,False,False,unknown,False
+270,,Biglari Holdings Inc. (BH),First Guard Insurance Company,,,,,,,,optiondb.maevent,False,False,unknown,False
+271,2014-03-19,Shred-it International Inc.,Cintas' Document Shredding Business (CTAS),CTAS,59.66,59.71,,Partial,8.963,2014-02-24,optiondb.maevent,False,False,unknown,True
+272,,Global Power Group (FWLT),Siemens Environmental Systems and Services business,,,,,,,,optiondb.maevent,False,False,unknown,False
+273,,Nortek (NTK),Thomas & Betts' HVAC Business,,,,,,,,optiondb.maevent,False,False,unknown,False
+274,,NV5 Holdings (NVEE),AK Environmental,,,,,,,,optiondb.maevent,False,False,unknown,False
+275,,Rick's Cabaret International (RICK),Club O,,,,,,,,optiondb.maevent,False,False,unknown,False
+276,,Cervus Equipment Corporation (CVL.CA),Remaining shares of Windmill AG Pty Ltd. and additional Australian dealership,,,,,,,,optiondb.maevent,False,False,unknown,False
+277,,CoreLogic (CLGX),Marshall & Swift/Boeckh and DataQuick Information Systems,,,,,,,,optiondb.maevent,False,False,unknown,False
+278,,Graa y Montero (GRAM),51% of COGA from Canada Pension Plan Investment Board,,,,,,,,optiondb.maevent,False,False,unknown,False
+279,,"Installed Building Products, Inc. (IBP)",U.S. Insulation Corp,,,,,,,,optiondb.maevent,False,False,unknown,False
+280,,Penford Corporation (PENX),Gum Technology Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+281,2014-01-13,Suntory Holdings,Beam Inc. (BEAM),BEAM,66.48,83.40,25.45,MA,3.189,2013-12-12,optiondb.maevent,False,False,unknown,True
+282,,"UCP, Inc (UCP)",Citizens Homes,,,,,,,,optiondb.maevent,False,False,unknown,False
+283,,Loblaw Companies Limited (L.CA),Shoppers Drug Mart Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+284,,"ADDvantage Technologies Group, Inc. (AEY)",Nave Communications,,,,,,,,optiondb.maevent,False,False,unknown,False
+285,,CEB  (CEB),KnowledgeAdvisors,,,,,,,,optiondb.maevent,False,False,unknown,False
+286,,CTPartners Executive Search Inc. (CTP),Johnson Executive Search,,,,,,,,optiondb.maevent,False,False,unknown,False
+287,,"Cal-Maine Foods, Inc. (CALM)","Remaining Interests in Delta Egg Farm, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+288,,Corporate Resource Services (CRRS),Nationwide Screening Services,,,,,,,,optiondb.maevent,False,False,unknown,False
+289,,"SFX Entertainment, Inc. (SFXE)",B2S,,,,,,,,optiondb.maevent,False,False,unknown,False
+290,,"TeleTech Holdings, Inc. (TTEC)",Sofica Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+291,2014-03-03,The Carlyle Group (CG),ADT Korea from Tyco (TYC),TYC,42.46,43.68,,Partial,2.030,2014-01-06,optiondb.maevent,False,False,unknown,True
+292,,Whole Foods Market (WFM),Four stores from New Frontiers,,,,,,,,optiondb.maevent,False,False,unknown,False
+293,,HealthStream (HSTM),Health Care Compliance Strategies,,,,,,,,optiondb.maevent,False,False,unknown,False
+294,,"Lifetime Brands, Inc. (LCUT)",Certain assets of Built NY,,,,,,,,optiondb.maevent,False,False,unknown,False
+295,,Global Payments (GPN),PayPros,,,,,,,,optiondb.maevent,False,False,unknown,False
+296,,Penford Corporation (PENX),Gum Technology Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+297,,Suntory Holdings,Beam (BEAM),BEAM,,,,,,,optiondb.maevent,False,False,unknown,False
+298,,Uni-Select (UNS.CA),"J.K. Distributors, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+299,2014-03-06,AB Acquisition,Safeway  (SWY),SWY,38.65,38.88,0.60,MA,1.022,2014-02-19,optiondb.maevent,False,False,unknown,True
+300,,"Lithia Motors, Inc. (LAD)","Honolulu Buick GMC Cadillac and Honolulu Volkswagen in Honolulu, Hawaii",,,,,,,,optiondb.maevent,False,False,unknown,False
+301,,"Altria Group, Inc.  (MO)","Green Smoke, Inc. and its affiliates",,,,,,,,optiondb.maevent,False,False,unknown,False
+302,,Anheuser-Busch InBev (BUD),Oriental Brewery,,,,,,,,optiondb.maevent,False,False,unknown,False
+303,,"Astec Industries, Inc. (ASTE)",Telestack Ltd.,,,,,,,,optiondb.maevent,False,False,unknown,False
+304,,Boyd Group Income Fund (BYD.UN.CA),Paint Supplier,,,,,,,,optiondb.maevent,False,False,unknown,False
+305,,Central Garden & Pet (CENT),Envincio Assets,,,,,,,,optiondb.maevent,False,False,unknown,False
+306,2014-03-31,"Centric Pipe, LLC",Northwest Pipe OCTG Business (NWPX),NWPX,33.65,37.28,10.79,MA,117.229,2014-03-18,optiondb.maevent,False,False,unknown,True
+307,,Rite Aid Corporation (RAD),Health Dialog Services Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+308,,Seneca Foods Corporation (SENEA),"50% of Truitt Bros., Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+309,,"United Rentals, Inc. (URI)",National Pump,,,,,,,,optiondb.maevent,False,False,unknown,False
+310,,Amazon.com (AMZN),comiXology,,,,,,,,optiondb.maevent,False,False,unknown,False
+311,,Heartland Payment Systems (HPY),MCS Software,,,,,,,,optiondb.maevent,False,False,unknown,False
+312,,Rite Aid Corporation (RAD),RediClinic,,,,,,,,optiondb.maevent,False,False,unknown,False
+313,,"SFX Entertainment, Inc. (SFXE)",Flavorus,,,,,,,,optiondb.maevent,False,False,unknown,False
+314,,WSP Global Inc. (WSP.CA),Focus Group Holding Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+315,,"EnerNOC, Inc.  (ENOC)",EnTech,,,,,,,,optiondb.maevent,False,False,unknown,False
+316,,FIS (FIS),CMSI,,,,,,,,optiondb.maevent,False,False,unknown,False
+317,,Saputo  (SAP.CA),Fluid Milk Activities of Scotsburn Co-Operative Services Limited,,,,,,,,optiondb.maevent,False,False,unknown,False
+318,,"Aaron's, Inc. (AAN)","Progressive Finance Holdings, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+319,,LKQ Corporation (LKQ),"Rijsbergen Holding B.V., Pala Holding, B.V., Primaparts Automaterialen B.V., BOAC Automotive B.V. and VEAM B.V.",,,,,,,,optiondb.maevent,False,False,unknown,False
+320,,LifeVantage (LFVN),New Product Line From Wicked Fast Sports Nutrition,,,,,,,,optiondb.maevent,False,False,unknown,False
+321,,Rollins (ROL),Statewide Pest Management,,,,,,,,optiondb.maevent,False,False,unknown,False
+322,2014-04-15,The Mosaic Company  (MOS),ADM's Brazil And Paraguay Fertilizer Distribution Business (ADM),ADM,44.41,45.04,,Partial,-0.009,2014-03-10,optiondb.maevent,False,False,unknown,True
+323,,The North West Company (NWC.CA),Price Chopper from Sobeys Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+324,,D&B (DNB),Fliptop's Social Data Matching Business Unit,,,,,,,,optiondb.maevent,False,False,unknown,False
+325,,MasterCard (MA),Pinpoint,,,,,,,,optiondb.maevent,False,False,unknown,False
+326,,Post Holdings (POST),Michael Foods,,,,,,,,optiondb.maevent,False,False,unknown,False
+327,,CVTech Group Inc. (CVT.CA),B.G. High Voltage Systems Limited,,,,,,,,optiondb.maevent,False,False,unknown,False
+328,,Alamo Group Inc. (ALG),Kellands Agricultural Ltd. and Multidrive Tractors Ltd.,,,,,,,,optiondb.maevent,False,False,unknown,False
+329,,"Lithia Motors, Inc. (LAD)",Access Ford,,,,,,,,optiondb.maevent,False,False,unknown,False
+330,,Hillshire Brands (HSH),Van's Natural Foods from Catterton Partners,,,,,,,,optiondb.maevent,False,False,unknown,False
+331,,SFX Entertainment (SFXE),Perryscope Productions,,,,,,,,optiondb.maevent,False,False,unknown,False
+332,,TreeHouse Foods (THS),Protenergy Natural Foods,,,,,,,,optiondb.maevent,False,False,unknown,False
+333,,Jacobs Engineering Group Inc.  (JEC),Federal Network Systems,,,,,,,,optiondb.maevent,False,False,unknown,False
+334,,Suntory Holdings,Beam (BEAM),BEAM,,,,,,,optiondb.maevent,False,False,unknown,False
+335,,Specialty Sports Venture (MTN),Hoigaard's Sporting Goods Store,,,,,,,,optiondb.maevent,False,False,unknown,False
+336,,Genpact (G),Pharmalink Consulting,,,,,,,,optiondb.maevent,False,False,unknown,False
+337,,Stantec (STN),"JBR Environmental Consultants, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+338,,Huron Consulting Group (HURN),"Vonlay, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+339,2014-04-28,Energy Transfer Partners (ETP),Susser Holdings (SUSS),SUSS,58.27,77.38,32.80,MA,10.191,2014-04-10,optiondb.maevent,False,False,unknown,True
+340,,Gibson Brands,Philips' Audio and Home Entertainment Business (PHG),PHG,,,,,,,optiondb.maevent,False,False,unknown,False
+341,,"CTPartners Executive Search, Inc. (CTP)",Park Brown International,,,,,,,,optiondb.maevent,False,False,unknown,False
+342,,D&B (DNB),Indicee,,,,,,,,optiondb.maevent,False,False,unknown,False
+343,,"The Hain Celestial Group, Inc. (HAIN)","Rudi's Organic Bakery, Inc. ",,,,,,,,optiondb.maevent,False,False,unknown,False
+344,,B&G Foods (BGS),Specialty Brands of America,,,,,,,,optiondb.maevent,False,False,unknown,False
+345,,GP Strategies (GPX),Effective-People and Effective-Learning companies,,,,,,,,optiondb.maevent,False,False,unknown,False
+346,,"Uni-Select USA, Inc. (UNS.CA)","Substantially all the assets of J.K. Distributors, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+347,,Walgreen Co. (WAG),Water Street Healthcare Partners,,,,,,,,optiondb.maevent,False,False,unknown,False
+348,2014-04-30,Multimedia Games (MGAM),"PokerTek, Inc.  (PTEK)",PTEK,,,,NA,,,optiondb.maevent,False,False,unknown,False
+349,,The ADT Corporation (ADT),Reliance Protectron Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+350,,Acacia Research Corporation (ACTG),Patents Related to Shared Memory for Multimedia Processing from a Major Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+351,,"SFX Entertainment, Inc. (SFXE)","TMWRK Management, The Meta Agency and Learned Evolution",,,,,,,,optiondb.maevent,False,False,unknown,False
+352,,WSP Global Inc. (WSP.CA),Technip TPS S.A.S.,,,,,,,,optiondb.maevent,False,False,unknown,False
+353,,"Comfort Systems USA, Inc. (FIX)",Dyna Ten Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+354,,General Finance Corporation (GFN),"The affiliated companies, Lone Star Tank Rental LP and KHM Rentals, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+355,,Universal American Mortgage Company (LEN),"Certain Assets of Pinnacle Mortgage Group, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+356,,"Mars, Incorporated",Significant Portion of Procter & Gamble's Pet Food Business (PG),PG,,,,,,,optiondb.maevent,False,False,unknown,False
+357,,"SFX Entertainment, Inc. (SFXE)",React Presents,,,,,,,,optiondb.maevent,False,False,unknown,False
+358,,"Comfort Systems USA, Inc. (FIX)",Dyna Ten Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+359,,"FleetCor Technologies, Inc. (FLT)",Shell's SME Fuel Card Customer Portfolio in Germany,,,,,,,,optiondb.maevent,False,False,unknown,False
+360,,J & J Snack Foods (JJSF),"Philly's Famous Water Ice, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+361,,Mattel (MAT),MEGA Brands (MB.CA),MB.CA,,,,,,,optiondb.maevent,False,False,unknown,False
+362,,"Nortek, Inc.  (NTK)",Thomas & Betts' HVAC Business,,,,,,,,optiondb.maevent,False,False,unknown,False
+363,,WSP Global Inc. (WSP.CA),Technip TPS S.A.S.,,,,,,,,optiondb.maevent,False,False,unknown,False
+364,,"The Ryland Group, Inc. (RYL)",Operations of LionsGate Homes,,,,,,,,optiondb.maevent,False,False,unknown,False
+365,2014-05-12,The Hillshire Brands Company (HSH),Pinnacle Foods Inc. (PF),PF,30.24,33.40,10.45,MA,2.591,2014-04-25,optiondb.maevent,False,False,unknown,True
+366,,Garmin Ltd. (GRMN),Fusion Electronics Limited,,,,,,,,optiondb.maevent,False,False,unknown,False
+367,,Town Sports International (TSI)  (CLUB),Fitcorp Clubs In Boston,,,,,,,,optiondb.maevent,False,False,unknown,False
+368,,Summit Partners,MDVIP from The Procter & Gamble Company (PG),PG,,,,,,,optiondb.maevent,False,False,unknown,False
+369,,Systemax (SYX),SCC Services B.V.,,,,,,,,optiondb.maevent,False,False,unknown,False
+370,,"MasTec, Inc.  (MTZ)",Big Country Energy Services Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+371,,B&G Foods (BGS),Specialty Brands of America,,,,,,,,optiondb.maevent,False,False,unknown,False
+372,,"FIS Wealth Management Services, Inc. (FIS)",Reliance Financial Corporation,,,,,,,,optiondb.maevent,False,False,unknown,False
+373,,Huron Consulting Group (HURN),"Vonlay, LLC",,,,,,,,optiondb.maevent,False,False,unknown,False
+374,,Smith & Wesson Holding Corporation (SWHC),"Tri Town Precision Plastics, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+375,,Staples (SPLS),PNI Digital Media (PN.CA),PN.CA,,,,,,,optiondb.maevent,False,False,unknown,False
+376,,"Weston Foods, a subsidiary of George Weston Limited (WN.CA)",Rubschlager Baking,,,,,,,,optiondb.maevent,False,False,unknown,False
+377,,Abengoa (ABGB),25% of GreenTech,,,,,,,,optiondb.maevent,False,False,unknown,False
+378,,Foster Wheeler (FWLT),Siemens Environmental Systems and Services,,,,,,,,optiondb.maevent,False,False,unknown,False
+379,,Stantec (STN),SHW Group,,,,,,,,optiondb.maevent,False,False,unknown,False
+380,,Calian Technologies Ltd. (CTY.CA),Amtek Engineering Services Ltd. ,,,,,,,,optiondb.maevent,False,False,unknown,False
+381,,Loblaw Companies Limited (L.CA),Arz Fine Foods,,,,,,,,optiondb.maevent,False,False,unknown,False
+382,,Snyder's-Lance Inc.  (LNCE),Baptista's Bakery Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+383,,Stantec (STN),USKH Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+384,,United Rentals (URI),Blue-Stream Services,,,,,,,,optiondb.maevent,False,False,unknown,False
+385,,Scotiabank (BNS.CA),20% of Canadian Tire's Financial Services Business  (CTC.CA),CTC.CA,,,,,,,optiondb.maevent,False,False,unknown,False
+386,,"D.R. Horton, Inc. (DHI)",Homebuilding Operations of Crown Communities,,,,,,,,optiondb.maevent,False,False,unknown,False
+387,,Foster Wheeler AG (FWLT),Ingen Ideas,,,,,,,,optiondb.maevent,False,False,unknown,False
+388,,"Ameresco, Inc.  (AMRC)",ESP,,,,,,,,optiondb.maevent,False,False,unknown,False
+389,,Standard Pacific Corp. (SPF),Select Homebuilding Assets from Centerline Home,,,,,,,,optiondb.maevent,False,False,unknown,False
+390,,"Cavco Industries, Inc.  (CVCO)","Fleetwood Homes, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+391,,"EMCOR Group, Inc.  (EME)",RepconStrickland,,,,,,,,optiondb.maevent,False,False,unknown,False
+392,,Aegion Corporation (AEGN),"Brinderson, L.P.",,,,,,,,optiondb.maevent,False,False,unknown,False
+393,,Westport Innovations Inc.  (WPRT),"BAF Technologies, Inc. and its subsidiary, ServoTech Engineering, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+394,,"Rick's Cabaret International, Inc. (RICK)",Topless Nightclub In Los Angeles County,,,,,,,,optiondb.maevent,False,False,unknown,False
+395,,Foster Wheeler AG (FWLT),NorthAm Engineering S.A. DE CV,,,,,,,,optiondb.maevent,False,False,unknown,False
+396,,Jacobs Engineering Group Inc.  (JEC),"Compass Technology Services, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+397,,Caterpillar Inc. (CAT),Johan Walter Berg AB,,,,,,,,optiondb.maevent,False,False,unknown,False
+398,2013-07-16,Furmanite Corporation  (FRM),ENGlobal's Gulf Coast Operations (ENG),ENG,1.33,1.07,,Partial,0.000,2013-07-05,optiondb.maevent,False,False,unknown,True
+399,,Aegion Corporation (AEGN),"Brinderson, L.P.",,,,,,,,optiondb.maevent,False,False,unknown,False
+400,,EMCOR Group (EME),RepconStrickland,,,,,,,,optiondb.maevent,False,False,unknown,False
+401,,Wabtec Corporation (WAB),Turbonetics,,,,,,,,optiondb.maevent,False,False,unknown,False
+402,,CVTech Group Inc. (CVT.CA),U.S. company ,,,,,,,,optiondb.maevent,False,False,unknown,False
+403,,"D.R. Horton, Inc. (DHI)",Homebuilding Assets of Breland Homes,,,,,,,,optiondb.maevent,False,False,unknown,False
+404,,"Rick's Cabaret International, Inc. (RICK)",Adult Business In Midtown New York City,,,,,,,,optiondb.maevent,False,False,unknown,False
+405,,The Goldfield Corporation (GV),"C and C Power Line, Inc.",,,,,,,,optiondb.maevent,False,False,unknown,False
+406,,Rick's Cabaret International (RICK),11 Gentlemen's Clubs,,,,,,,,optiondb.maevent,False,False,unknown,False
+407,,"Integrated Electrical Services, Inc.  (IESC)","MISCOR Group, Ltd.",,,,,,,,optiondb.maevent,False,False,unknown,False
+408,,MoneyGram (MGI),Advanced ChronoCash Services,,,,,,,,optiondb.maevent,False,False,unknown,False
+409,,Huron Consulting Group (HURN),Blue Stone International,,,,,,,,optiondb.maevent,False,False,unknown,False
+410,2012-12-18,Nielsen Holdings N.V. (NLSN),Arbitron (ARB),ARB,,,,NA,,,optiondb.maevent,False,False,unknown,False
+411,,Wabtec Corporation (WAB),"Longwood Industries, Inc",,,,,,,,optiondb.maevent,False,False,unknown,False
+412,,"Grain Systems, Inc.  (AGCO)",Johnson System Inc.,,,,,,,,optiondb.maevent,False,False,unknown,False
+413,,Nielsen Holdings N.V. (NLSN),Arbitron,,,,,,,,optiondb.maevent,False,False,unknown,False
+414,,The Toro Company (TTC),"Xiamen Xiangfeng Water Saving Equipment Co., Ltd.",,,,,,,,optiondb.maevent,False,False,unknown,False
+415,,Furmanite Corporation (FRM),Certain professional service assets of ENGlobal Corporation's Gulf Coast Operations (ENG),ENG,,,,,,,optiondb.maevent,False,False,unknown,False
+416,,Meritage Homes Corporation (MTH),Phillips Builders,,,,,,,,optiondb.maevent,False,False,unknown,False
+417,,Jacobs Engineering Group Inc. (JEC),Sinclair Knight Merz,,,,,,,,optiondb.maevent,False,False,unknown,False
+512,2016-01-11,Thermo Fisher (TMO),Affymetrix,AFFX,9.34,13.78,47.54,MA,0.886,2015-12-02,optiondb.maevent,False,False,unknown,True
+514,2014-12-02,Otsuka Pharmaceutical,Avanir,AVNR,14.92,16.96,13.67,MA,0.635,2014-10-13,optiondb.maevent,False,False,unknown,True
+515,2015-11-17, Air Liquide,Airgas,ARG,101.82,138.75,36.27,MA,2.315,2015-11-13,optiondb.maevent,False,False,unknown,True
+516,2015-10-20,Western Digital,SanDisk,SNDK,69.97,77.09,10.18,MA,3.536,2015-10-14,optiondb.maevent,False,False,unknown,True
+517,2016-02-16,APO,ADT,ADT,26.37,39.78,50.85,MA,1.907,2016-02-05,optiondb.maevent,False,False,unknown,True
+518,2015-09-30,Tsinghua,Western Digital,WDC,68.25,79.44,16.40,MA,2.797,2015-09-17,optiondb.maevent,False,False,unknown,True
+519,2015-05-26,Avago,Broadcom,BRCM,47.36,56.25,18.77,MA,6.596,2015-05-13,optiondb.maevent,False,False,unknown,True
+520,2016-01-19,BAM,Rouse Properties,RSE,13.12,17.56,33.84,MA,62.250,2015-12-22,optiondb.maevent,False,False,unknown,True
+521,2016-03-02,CCL,Checkpoint,CKP,7.51,10.21,35.95,MA,2.071,2016-02-17,optiondb.maevent,False,False,unknown,True
+522,2016-03-03,AMC,CKEC,CKEC,25.18,29.25,16.16,MA,2.508,2016-02-08,optiondb.maevent,False,False,unknown,True
+523,2016-03-03,Samsonite,TUMI,TUMI,19.80,26.55,34.09,MA,7.874,2016-02-29,optiondb.maevent,False,False,unknown,True
+524,2015-01-12,Roche,Foundation Medicine,FMI,23.93,48.09,100.96,MA,6.387,2014-11-26,optiondb.maevent,False,False,unknown,True
+525,2014-12-02,Roche,Ariosa ,AROS,,,,,,,optiondb.maevent,False,False,unknown,False
+527,2013-12-23,Seagate,Xyratex,	XRTX,10.45,13.30,27.27,MA,1.271,2013-12-17,optiondb.maevent,False,False,unknown,False
+528,2013-12-19,Dealertrack,dealer.com,,,,,MA,,,optiondb.maevent,False,False,unknown,False
+529,2013-09-05,Otsuka,Astex,ASTX,8.27,8.73,5.56,MA,11.023,2013-09-04,optiondb.maevent,False,False,unknown,True
+530,2013-06-30,Amgen,Onyx,ONXX,86.82,131.33,51.27,MA,1.918,2013-05-08,optiondb.maevent,False,False,unknown,True
+531,2013-05-29,Shuanghui,Smithfield Food,SFD,25.97,32.74,26.07,MA,1.744,2013-04-23,optiondb.maevent,False,False,unknown,True
+532,2013-02-18,OfficeDepot,OfficeMax,OMX,10.75,12.00,11.63,MA,16.698,2013-02-12,optiondb.maevent,False,False,unknown,True
+533,2013-02-14,Berkshire Hathaway,Heinz,HNZ,60.48,72.28,19.51,MA,365.000,2013-02-07,optiondb.maevent,False,False,unknown,True
+534,2016-03-10,TRP,Columbia Pipeline Group,CPGX,19.75,22.96,16.25,MA,1.577,2016-03-07,optiondb.maevent,False,False,unknown,True
+535,2015-10-21,LRCX,KLA-Tencor,KLAC,53.86,64.90,20.50,MA,7.700,2015-10-12,optiondb.maevent,False,False,unknown,True
+536,2016-03-14,,GW Pharmaceuticals,GWPH,38.46,79.87,107.67,MA,2.016,2016-03-11,optiondb.maevent,False,False,unknown,True
+537,2016-03-21,IHS,Markit,MRKT,29.49,34.29,16.28,MA,4.136,2016-03-08,optiondb.maevent,False,False,unknown,True
+538,2016-03-25,ROVI,TIVO,TIVO,9.45,,,MA,0.537,2016-03-15,optiondb.maevent,False,False,unknown,True
+539,2016-03-21,Sherwin-Williams,Valspar,VAL,83.80,104.68,24.92,MA,5.111,2016-02-09,optiondb.maevent,False,False,unknown,True
+540,2016-04-04,Alaska Air,Virgin America,VA,38.90,55.13,41.72,MA,9.089,2016-03-23,optiondb.maevent,False,False,unknown,True
+541,2016-04-04,,Edwards Life Sciences,EW,89.92,103.54,15.15,MA,1.689,2016-02-04,optiondb.maevent,False,False,unknown,True
+542,2016-04-04,Brocade,Ruckus,RKUS,10.00,13.46,34.60,MA,-0.020,2016-02-22,optiondb.maevent,False,False,unknown,True
