@@ -1,8 +1,9 @@
 {
   "symbols_considered": 3343,
   "symbols_with_quotes": 1657,
-  "price_action_leads": 3303,
-  "at_least_15pct": 1809,
+  "calendar_source": "data/calendar/manifest.json",
+  "price_action_leads": 3893,
+  "at_least_15pct": 2141,
   "minimum_return_pct": 10.0,
   "maximum_filing_lag_days": 180,
   "volume_filter": false,

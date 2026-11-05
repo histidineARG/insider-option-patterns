@@ -1,0 +1,32 @@
+[
+  {
+    "rule": "volume_100_ratio_3",
+    "min_otm_call_volume": 100,
+    "min_ratio20": 3,
+    "events_with_any_usable_entry_proxy_session": 23,
+    "events_with_descriptive_alert": 10,
+    "background_valid_observations": 57,
+    "background_alert_observations": 3,
+    "accuracy_estimated": false
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "min_otm_call_volume": 500,
+    "min_ratio20": 5,
+    "events_with_any_usable_entry_proxy_session": 23,
+    "events_with_descriptive_alert": 8,
+    "background_valid_observations": 57,
+    "background_alert_observations": 1,
+    "accuracy_estimated": false
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "min_otm_call_volume": 1000,
+    "min_ratio20": 10,
+    "events_with_any_usable_entry_proxy_session": 23,
+    "events_with_descriptive_alert": 4,
+    "background_valid_observations": 57,
+    "background_alert_observations": 1,
+    "accuracy_estimated": false
+  }
+]

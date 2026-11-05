@@ -1,0 +1,25 @@
+{
+  "calendar": "NYSE",
+  "start": "2012-01-01",
+  "end": "2026-12-31",
+  "generator": "pandas_market_calendars",
+  "generator_version": "4.4.0",
+  "session_count": 3771,
+  "sha256": "69f0ebd15bcea7e2e41609421c37ac8ab56a128709ff3476015239bd2e926fcd",
+  "explicit_closures": [
+    {
+      "date": "2025-01-09",
+      "reason": "Jimmy Carter national day of mourning",
+      "source": "https://ir.theice.com/press/news-details/2024/The-New-York-Stock-Exchange-Will-Close-Markets-on-January-9-to-Honor-the-Passing-of-Former-President-Jimmy-Carter-on-National-Day-of-Mourning/default.aspx"
+    }
+  ],
+  "sources": [
+    "https://www.nyse.com/trade/hours-calendars",
+    "https://pandas-market-calendars.readthedocs.io/en/latest/usage.html"
+  ],
+  "generated_as_of": "2026-11-05",
+  "notes": [
+    "Versioned research calendar, not a guarantee against future unscheduled closures.",
+    "Generator 4.4.0 omits the January 9, 2025 closure; explicit removal is idempotent."
+  ]
+}

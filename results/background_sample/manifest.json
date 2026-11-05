@@ -1,0 +1,23 @@
+{
+  "seed": 1984,
+  "start_year": 2013,
+  "end_year": 2025,
+  "dates_per_year": 1,
+  "calendar_source": "data/calendar/manifest.json",
+  "symbols_per_date": 5,
+  "sampled_stock_days": 65,
+  "sampled_dates": 13,
+  "option_coverage_counts": {
+    "observed_target_chain": 62,
+    "no_target_rows_listing_status_unknown": 3
+  },
+  "complete_valid_feature_observations": 57,
+  "negative_labels_assigned": 0,
+  "notes": [
+    "Sampling uses historical stockquote presence and positive price, never M&A outcomes or current surviving tickers.",
+    "This is a small coverage pilot, not a complete optionable universe or performance test.",
+    "Source coverage, instrument type, ticker reuse, and first-disclosure labels still require validation.",
+    "Weights describe the two-stage stockquote sampling frame, not a validated equity-option universe.",
+    "Unlabeled observations may include real acquisition events; none are presumed negative."
+  ]
+}

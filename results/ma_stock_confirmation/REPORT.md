@@ -1,12 +1,12 @@
 # M&A target stock reaction confirmation
 
-Screened 84 dated target candidates from local maevent records, extracted SEC cases and reviewed M&A examples. This does not cover all 9,465 merger filing documents: those filing dates are not verified announcement dates.
+Screened 88 dated target candidates from local maevent records, extracted SEC cases and reviewed M&A examples. This does not cover all 9,465 merger filing documents: those filing dates are not verified announcement dates.
 
-**41 candidates pass the market screen; 17 also have reviewed announcement dates and session timing.**
+**45 candidates pass the market screen; 22 also have reviewed announcement dates and session timing.**
 
 Rules: reaction-session close / immediately preceding market-session close − 1 ≥ 15%; reaction-session volume / average volume of the preceding 20 calendar trading sessions ≥ 2.0×. The reaction session is the announcement trading date for pre-open/intraday releases, the next session for after-close releases, and the next session for nontrading-day releases. Current-session volume is excluded from the baseline.
 
-Missing previous quotes or any of the required 20 baseline sessions prevent confirmation. No missing sessions are filled or silently skipped. The historical calendar is optiondb.tradingday. Prices are raw stockquote closes; corporate-action adjustment quality is not independently verified.
+Missing previous quotes or any of the required 20 baseline sessions prevent price/volume confirmation. No missing sessions are filled or silently skipped. The calendar is the versioned NYSE snapshot in data/calendar, including the January 9, 2025 closure. Prices are raw stockquote closes; corporate-action adjustment quality is not independently verified.
 
 ## Source and timing reviewed passes
 
@@ -23,12 +23,17 @@ Missing previous quotes or any of the required 20 baseline sessions prevent conf
 | SWC | 2016-12-09 | 2016-12-09 | 17.98% | 21.82× |
 | CEB | 2017-01-05 | 2017-01-05 | 20.92% | 24.71× |
 | BIVV | 2018-01-22 | 2018-01-22 | 61.89% | 35.96× |
+| AVXS | 2018-04-09 | 2018-04-09 | 81.57% | 38.00× |
 | EFII | 2019-04-15 | 2019-04-15 | 29.25% | 33.79× |
 | BOLD | 2019-12-02 | 2019-12-03 | 105.98% | 79.25× |
 | VRTU | 2020-09-10 | 2020-09-10 | 24.49% | 35.57× |
+| COHR | 2021-01-19 | 2021-01-19 | 29.65% | 25.12× |
 | GSKY | 2021-09-15 | 2021-09-15 | 53.15% | 22.66× |
 | ZGNX | 2022-01-19 | 2022-01-19 | 65.73% | 47.52× |
 | MAXR | 2022-12-16 | 2022-12-16 | 124.81% | 34.99× |
+| PRVB | 2023-03-13 | 2023-03-13 | 259.70% | 29.60× |
+| RETA | 2023-07-28 | 2023-07-28 | 54.02% | 23.21× |
+| IMGN | 2023-11-30 | 2023-11-30 | 82.63% | 13.01× |
 
 ## Market passes awaiting date or timing review
 
@@ -57,7 +62,6 @@ Missing previous quotes or any of the required 20 baseline sessions prevent conf
 | VA | 2016-04-04 | 2016-04-04 | 41.67% | 14.71× |
 | GNCMA | 2017-04-04 | 2017-04-04 | 62.40% | 42.25× |
 | ODP | 2021-01-11 | 2021-01-11 | 19.43% | 5.59× |
-| COHR | 2021-01-19 | 2021-01-19 | 29.65% | 25.12× |
 
 ## Data issues and exclusions
 

@@ -36,5 +36,12 @@ class StockConfirmationTests(unittest.TestCase):
         rows,days=self.data(close='114.99')
         self.assertFalse(measure(rows,days[-1],days[-2],days[:-1],2)['market_screen_pass'])
 
+    def test_price_only_qualification_survives_invalid_volume(self):
+        rows,days=self.data(volume=0)
+        result=measure(rows,days[-1],days[-2],days[:-1],2)
+        self.assertTrue(result['price_jump_at_least_15pct'])
+        self.assertFalse(result['market_screen_pass'])
+        self.assertEqual(result['status'],'invalid_reaction_volume')
+
 
 if __name__=='__main__':unittest.main()

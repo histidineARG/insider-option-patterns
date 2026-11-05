@@ -10,6 +10,7 @@ from pathlib import Path
 import statistics
 
 import pymysql
+from market_calendar import sessions
 
 
 def connection():
@@ -115,8 +116,7 @@ def run(c, registry, output):
     with c.cursor() as q:
         q.execute('SET SESSION MAX_EXECUTION_TIME=60000')
         q.execute('START TRANSACTION READ ONLY')
-        q.execute("SELECT tradingday FROM tradingday WHERE tradingday BETWEEN '2012-01-01' AND '2026-11-05' ORDER BY tradingday")
-        calendar = [r['tradingday'] for r in q.fetchall()]
+        calendar = sessions()
         for case in registry['cases']:
             if not case['event_date_verified']:
                 summaries.append(dict(case_id=case['id'],symbol=case['symbol'],match_status='event_date_review_pending',source_url=case['source_url']))

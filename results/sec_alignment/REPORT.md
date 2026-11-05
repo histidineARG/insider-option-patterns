@@ -48,7 +48,7 @@ Ratios compare each observed session with its prior 20 observed chain sessions. 
 
 Market volume belongs to all participants; agreement with a complaint does not reveal account identities. Alleged purchases may cover only a subset of defendants or series. Counts are not guaranteed to reconcile unless dates, contracts and source coverage are identical.
 
-The ad hoc diagnostic (at least 100 short-dated OTM calls and 3x lagged volume, or a zero baseline) fires in 12 extracted windows. Only 9 have a subsequent trading-session close strictly before the event date. These counts are not a false-negative estimate, a profitability result or an executable opportunity count. The calendar is optiondb.tradingday and historical calendar completeness has not been independently audited.
+The ad hoc diagnostic (at least 100 short-dated OTM calls and 3x lagged volume, or a zero baseline) fires in 12 extracted windows. Only 9 have a subsequent trading-session close strictly before the event date. These counts are not a false-negative estimate, a profitability result or an executable opportunity count. Event alignment uses the versioned NYSE snapshot in data/calendar; the legacy database calendar audit is in results/stock_coverage/legacy_calendar_audit.json. This older descriptive workflow uses observed-session baselines; use research_cohort.py for strict calendar-session baselines.
 
 The registry deliberately separates complaint allegations, administrative settlements, reported civil verdicts and investigations. Charnas/ODP is investigation-only in the cited source and is not an adjudicated positive. Legal status strings describe the reviewed source, not necessarily the latest disposition.
 

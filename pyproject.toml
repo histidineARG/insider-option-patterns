@@ -9,8 +9,11 @@ description = "Research documented insider option trading patterns using SEC evi
 requires-python = ">=3.10"
 dependencies = ["PyMySQL>=1.1,<2", "requests>=2.31,<3"]
 
+[project.optional-dependencies]
+calendar = ["pandas_market_calendars>=4.4,<6"]
+
 [project.scripts]
 insider-option-patterns = "detector:main"
 
 [tool.setuptools]
-py-modules = ["detector", "sec_match", "ma_inventory", "edgar_ma_search", "research_report", "ma_stock_confirmation", "ma_broad_screen", "ma_registry"]
+py-modules = ["detector", "sec_match", "ma_inventory", "edgar_ma_search", "research_report", "ma_stock_confirmation", "ma_broad_screen", "ma_registry", "research_cohort", "background_sample", "stock_coverage", "exploratory_patterns", "market_calendar"]
