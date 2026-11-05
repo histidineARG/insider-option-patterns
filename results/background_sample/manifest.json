@@ -2,16 +2,16 @@
   "seed": 1984,
   "start_year": 2013,
   "end_year": 2025,
-  "dates_per_year": 1,
+  "dates_per_year": 5,
   "calendar_source": "data/calendar/manifest.json",
-  "symbols_per_date": 5,
-  "sampled_stock_days": 65,
-  "sampled_dates": 13,
+  "symbols_per_date": 20,
+  "sampled_stock_days": 1300,
+  "sampled_dates": 65,
   "option_coverage_counts": {
-    "observed_target_chain": 62,
-    "no_target_rows_listing_status_unknown": 3
+    "observed_target_chain": 1219,
+    "no_target_rows_listing_status_unknown": 81
   },
-  "complete_valid_feature_observations": 57,
+  "complete_valid_feature_observations": 1181,
   "negative_labels_assigned": 0,
   "notes": [
     "Sampling uses historical stockquote presence and positive price, never M&A outcomes or current surviving tickers.",
