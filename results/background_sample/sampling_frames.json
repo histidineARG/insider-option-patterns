@@ -2,92 +2,456 @@
   {
     "qdate": "2013-03-07",
     "year_sessions": 252,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 3875,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2013-04-24",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 3920,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2013-07-11",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4018,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2013-07-26",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4012,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2013-09-20",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4074,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2014-01-17",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4110,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2014-03-03",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4159,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2014-08-26",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4263,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2014-09-08",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4262,
+    "sampled_symbols": 20
   },
   {
     "qdate": "2014-10-23",
     "year_sessions": 252,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 4275,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
   },
   {
     "qdate": "2015-05-14",
     "year_sessions": 252,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 4292,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2015-07-01",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4300,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2015-10-05",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4331,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2015-11-27",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4380,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2015-12-17",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4493,
+    "sampled_symbols": 20
   },
   {
     "qdate": "2016-02-24",
     "year_sessions": 252,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 4468,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2016-03-29",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4449,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2016-07-14",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4470,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2016-09-28",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4408,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2016-10-28",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4398,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2017-04-13",
+    "year_sessions": 251,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4351,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2017-07-13",
+    "year_sessions": 251,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4353,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2017-08-10",
+    "year_sessions": 251,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4349,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2017-08-16",
+    "year_sessions": 251,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4345,
+    "sampled_symbols": 20
   },
   {
     "qdate": "2017-09-19",
     "year_sessions": 251,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 4311,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2018-04-20",
+    "year_sessions": 251,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4291,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2018-05-15",
+    "year_sessions": 251,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4289,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2018-07-03",
+    "year_sessions": 251,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4305,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2018-07-19",
+    "year_sessions": 251,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4315,
+    "sampled_symbols": 20
   },
   {
     "qdate": "2018-08-13",
     "year_sessions": 251,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 4311,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2019-01-23",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4270,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2019-02-19",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4265,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2019-03-06",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4264,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2019-05-01",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4252,
+    "sampled_symbols": 20
   },
   {
     "qdate": "2019-07-12",
     "year_sessions": 252,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 4282,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2020-02-04",
+    "year_sessions": 253,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4254,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2020-02-19",
+    "year_sessions": 253,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4260,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2020-06-24",
+    "year_sessions": 253,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4256,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2020-08-17",
+    "year_sessions": 253,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4288,
+    "sampled_symbols": 20
   },
   {
     "qdate": "2020-09-29",
     "year_sessions": 253,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 4318,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
   },
   {
     "qdate": "2021-03-04",
     "year_sessions": 252,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 4622,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2021-05-19",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4914,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2021-06-29",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 4981,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2021-07-26",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5107,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2021-11-24",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5501,
+    "sampled_symbols": 20
   },
   {
     "qdate": "2022-02-15",
     "year_sessions": 251,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 5635,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2022-05-12",
+    "year_sessions": 251,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5754,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2022-09-14",
+    "year_sessions": 251,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5851,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2022-10-19",
+    "year_sessions": 251,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5845,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2022-12-02",
+    "year_sessions": 251,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5839,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2023-01-09",
+    "year_sessions": 250,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5353,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2023-02-03",
+    "year_sessions": 250,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5851,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2023-04-04",
+    "year_sessions": 250,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5818,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2023-04-26",
+    "year_sessions": 250,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5809,
+    "sampled_symbols": 20
   },
   {
     "qdate": "2023-07-19",
     "year_sessions": 250,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 5787,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2024-04-10",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5636,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2024-07-12",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5630,
+    "sampled_symbols": 20
   },
   {
     "qdate": "2024-07-26",
     "year_sessions": 252,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 5692,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2024-08-29",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5966,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2024-11-01",
+    "year_sessions": 252,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 5960,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2025-01-31",
+    "year_sessions": 250,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 22453,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2025-04-16",
+    "year_sessions": 250,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 22041,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2025-10-21",
+    "year_sessions": 250,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 23795,
+    "sampled_symbols": 20
+  },
+  {
+    "qdate": "2025-12-17",
+    "year_sessions": 250,
+    "sampled_year_sessions": 5,
+    "stockquote_symbols": 24252,
+    "sampled_symbols": 20
   },
   {
     "qdate": "2025-12-30",
     "year_sessions": 250,
-    "sampled_year_sessions": 1,
+    "sampled_year_sessions": 5,
     "stockquote_symbols": 24099,
-    "sampled_symbols": 5
+    "sampled_symbols": 20
   }
 ]

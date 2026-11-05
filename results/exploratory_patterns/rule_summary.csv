@@ -1,4 +1,4 @@
 rule,min_otm_call_volume,min_ratio20,events_with_any_usable_entry_proxy_session,events_with_descriptive_alert,background_valid_observations,background_alert_observations,accuracy_estimated
-volume_100_ratio_3,100,3,23,10,57,3,False
-volume_500_ratio_5,500,5,23,8,57,1,False
-volume_1000_ratio_10,1000,10,23,4,57,1,False
+volume_100_ratio_3,100,3,23,10,1181,52,False
+volume_500_ratio_5,500,5,23,8,1181,25,False
+volume_1000_ratio_10,1000,10,23,4,1181,8,False
