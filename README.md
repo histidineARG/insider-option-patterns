@@ -7,6 +7,8 @@ workflow. Signals prioritize investigation; they do not establish insider tradin
 or identify traders.
 
 Research design: [RESEARCH.md](RESEARCH.md).
+Agreed event selection, background population, validation, and trading evaluation:
+[METHODOLOGY.md](METHODOLOGY.md).
 The source-backed case registry is `data/sec_cases.json`; additional discovery
 candidates are in `data/sec_discovery_candidates.json`. The inventory is not exhaustive.
 Run `python3 sec_match.py` to regenerate `results/sec_alignment/` with read-only
