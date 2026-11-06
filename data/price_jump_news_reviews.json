@@ -3092,6 +3092,206 @@
       "news_filter": "keep",
       "detail": "Media General definitive deal to acquire LIN Media (~$27.82/share, $1.6B). Class-2 M&A keep.",
       "locator": "https://www.reuters.com/article/lifestyle/media-general-to-buy-lin-media-for-16-billion-idUSBREA2K0S7/"
+    },
+    {
+      "symbol": "PACB",
+      "qdate": "2015-10-07",
+      "close_return": 0.2245,
+      "jump_cause": "tech_breakthrough",
+      "cause_class": "4_tech_breakthrough",
+      "news_filter": "keep",
+      "detail": "Sequel SMRT sequencing platform launch (higher throughput/lower cost; Roche IVD path). Class-4 tech keep.",
+      "locator": "https://www.pacb.com/press_releases/pacific-biosciences-launches-new-sequencing-platform-based-on-its-smrt-technology/"
+    },
+    {
+      "symbol": "CZR",
+      "qdate": "2015-07-21",
+      "close_return": 0.2244,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Reports CEOC bankruptcy restructuring talks with lenders restarted. Financing/restructuring, not keep 2/3/4.",
+      "locator": "https://www.reviewjournal.com/business/casinos-gaming/caesars-shares-rise-as-other-gaming-stocks-slip/"
+    },
+    {
+      "symbol": "AMED",
+      "qdate": "2013-08-09",
+      "close_return": 0.2244,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "KKR disclosed 8.5% stake and possible talks with management. Activist stake, not confirmed M&A keep.",
+      "locator": "https://www.wsj.com/articles/DJFLBO0020130809e989fyo6o"
+    },
+    {
+      "symbol": "GOL",
+      "qdate": "2016-03-02",
+      "close_return": 0.2243,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Brazil MP raising foreign airline ownership cap 20%\u219249%. Policy, not keep 2/3/4.",
+      "locator": "https://oglobo.globo.com/economia/negocios/acoes-da-gol-disparam-apos-aumento-de-participacao-estrangeira-em-aereas-18786930"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2015-10-01",
+      "close_return": 0.2242,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR (trial/FDA/M&A). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stocks/SRPT?date=2015-10-16"
+    },
+    {
+      "symbol": "SPWR",
+      "qdate": "2013-02-14",
+      "close_return": 0.224,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Solar-sector rally; no confirmed company keep PR. Sector/media, not keep 2/3/4.",
+      "locator": "http://markets.chroniclejournal.com/chroniclejournal/quote/historical?Month=2&Range=1&Symbol=537%3A14207120&Year=2013"
+    },
+    {
+      "symbol": "MSB",
+      "qdate": "2016-03-14",
+      "close_return": 0.224,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Cliffs to restart Northshore iron-ore pellet production by May 15. Commodity/ops, not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/65172/000110465916105155/a16-6378_18k.htm"
+    },
+    {
+      "symbol": "SCTY",
+      "qdate": "2013-09-10",
+      "close_return": 0.2238,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified/sector, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SCTY?date=2013-09-10&view=daily"
+    },
+    {
+      "symbol": "MEG",
+      "qdate": "2015-09-28",
+      "close_return": 0.2233,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Nexstar unsolicited proposal to acquire Media General at ~$14.50/share vs Meredith deal. Confirmed M&A proposal keep.",
+      "locator": "https://www.nexstar.tv/nexstar-broadcasting-proposes-to-acquire-media-general-for-14-50-per-share-in-accretive-cash-and-stock-transaction-valued-at-4-1-billion-2/"
+    },
+    {
+      "symbol": "EGRX",
+      "qdate": "2015-12-08",
+      "close_return": 0.2233,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA approved BENDEKA (bendamustine) injection; $15M Teva milestone. Class-3 FDA-path keep.",
+      "locator": "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2015/Teva-Pharmaceuticals-and-Eagle-Pharmaceuticals-Announce-FDA-Approval-of-BENDEKA-bendamustine-hydrochloride-Injection/default.aspx"
+    },
+    {
+      "symbol": "BRLI",
+      "qdate": "2014-06-05",
+      "close_return": 0.2226,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Record Q2 revenues/patient volumes. Earnings, not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/792641/000110465914044132/a14-14872_1ex99d1.htm"
+    },
+    {
+      "symbol": "NBR",
+      "qdate": "2016-11-30",
+      "close_return": 0.2225,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "OPEC production-cut agreement / oil rally. Commodity/policy, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/NBR?date=2016-11-30&view=daily"
+    },
+    {
+      "symbol": "DOLE",
+      "qdate": "2013-06-11",
+      "close_return": 0.2216,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "CEO/Chairman Murdock $12/share cash proposal to take Dole private. Confirmed M&A proposal keep.",
+      "locator": "https://www.cnbc.com/2013/06/11/doles-90yearold-ceo-offers-to-take-company-private.html"
+    },
+    {
+      "symbol": "ICAD",
+      "qdate": "2013-12-06",
+      "close_return": 0.2209,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ICAD?date=2013-12-06&view=daily"
+    },
+    {
+      "symbol": "UEPS",
+      "qdate": "2016-10-05",
+      "close_return": 0.2209,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR (SASSA litigation/tender ongoing). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/UEPS?date=2016-10-05&view=daily"
+    },
+    {
+      "symbol": "CPE",
+      "qdate": "2016-11-30",
+      "close_return": 0.2208,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "OPEC production-cut agreement / oil rally. Commodity/policy, not keep 2/3/4.",
+      "locator": "https://www.investors.com/stock-lists/new-highs/oil-stocks-rally-to-new-highs-on-opec-deal-dows-united-tech-reverses/"
+    },
+    {
+      "symbol": "MNTX",
+      "qdate": "2016-12-21",
+      "close_return": 0.2206,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://investorplace.com/2016/12/hottest-manufacturing-stocks-now-mrus-cala-invn-mntx/"
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2013-09-19",
+      "close_return": 0.2204,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/KNDI?date=2014-03-17&view=daily"
+    },
+    {
+      "symbol": "PPC",
+      "qdate": "2013-06-07",
+      "close_return": 0.2202,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified/commodity, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/PPC?date=2013-06-07&view=daily"
+    },
+    {
+      "symbol": "ICAD",
+      "qdate": "2014-07-16",
+      "close_return": 0.2202,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ICAD?date=2014-07-16&view=daily"
     }
   ]
 }

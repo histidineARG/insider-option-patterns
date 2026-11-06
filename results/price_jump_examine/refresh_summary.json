@@ -17,22 +17,22 @@
   "news_filter_counts": {
     "drop_sub_5": 3604,
     "drop_earnings": 723,
-    "drop_other_not_234": 178,
-    "pending_news_review": 1889,
-    "keep": 131,
+    "drop_other_not_234": 194,
+    "pending_news_review": 1869,
+    "keep": 135,
     "drop_etf": 65,
     "drop_no_option": 19
   },
   "cause_class_counts": {
     "sub_5": 3604,
     "1_earnings": 723,
-    "unclassified_other": 178,
-    "unclassified": 1889,
-    "2_ma_rumor_or_news": 52,
-    "3_biotech_trial": 78,
+    "unclassified_other": 194,
+    "unclassified": 1869,
+    "2_ma_rumor_or_news": 54,
+    "3_biotech_trial": 79,
     "etf": 65,
     "no_option": 19,
-    "4_tech_breakthrough": 1
+    "4_tech_breakthrough": 2
   },
   "n_queue_ge50": 0,
   "n_first_batch_ge50": 0,
@@ -47,9 +47,9 @@
       "cause_class_counts": {
         "sub_5": 1398,
         "1_earnings": 288,
-        "unclassified_other": 77,
-        "unclassified": 873,
-        "2_ma_rumor_or_news": 25,
+        "unclassified_other": 85,
+        "unclassified": 864,
+        "2_ma_rumor_or_news": 26,
         "3_biotech_trial": 36,
         "etf": 28,
         "no_option": 19
@@ -57,9 +57,9 @@
       "news_filter_counts": {
         "drop_sub_5": 1398,
         "drop_earnings": 288,
-        "drop_other_not_234": 77,
-        "pending_news_review": 873,
-        "keep": 61,
+        "drop_other_not_234": 85,
+        "pending_news_review": 864,
+        "keep": 62,
         "drop_etf": 28,
         "drop_no_option": 19
       },
@@ -79,21 +79,21 @@
       "n_jumps": 1719,
       "n_with_cik": 777,
       "cause_class_counts": {
-        "unclassified": 470,
+        "unclassified": 465,
         "sub_5": 940,
         "1_earnings": 211,
-        "3_biotech_trial": 24,
-        "unclassified_other": 48,
+        "3_biotech_trial": 25,
+        "unclassified_other": 50,
         "etf": 12,
-        "4_tech_breakthrough": 1,
-        "2_ma_rumor_or_news": 13
+        "4_tech_breakthrough": 2,
+        "2_ma_rumor_or_news": 14
       },
       "news_filter_counts": {
-        "pending_news_review": 470,
+        "pending_news_review": 465,
         "drop_sub_5": 940,
         "drop_earnings": 211,
-        "keep": 38,
-        "drop_other_not_234": 48,
+        "keep": 41,
+        "drop_other_not_234": 50,
         "drop_etf": 12
       },
       "policy": "keep 2,3,4; drop 1 (earnings via EDGAR 8-K Item 2.02); hard-drop sub_$5, ETF/ETN denylist, no_option",
@@ -113,19 +113,19 @@
       "n_with_cik": 1004,
       "cause_class_counts": {
         "sub_5": 1266,
-        "unclassified": 546,
+        "unclassified": 540,
         "1_earnings": 224,
         "3_biotech_trial": 18,
-        "unclassified_other": 53,
+        "unclassified_other": 59,
         "2_ma_rumor_or_news": 14,
         "etf": 25
       },
       "news_filter_counts": {
         "drop_sub_5": 1266,
-        "pending_news_review": 546,
+        "pending_news_review": 540,
         "drop_earnings": 224,
         "keep": 32,
-        "drop_other_not_234": 53,
+        "drop_other_not_234": 59,
         "drop_etf": 25
       },
       "policy": "keep 2,3,4; drop 1 (earnings via EDGAR 8-K Item 2.02); hard-drop sub_$5, ETF/ETN denylist, no_option",

@@ -9621,14 +9621,16 @@
     "vol_ratio": 3.0351931978265245,
     "cik": "0001291733",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://oglobo.globo.com/economia/negocios/acoes-da-gol-disparam-apos-aumento-de-participacao-estrangeira-em-aereas-18786930",
+    "news_detail": "Brazil MP raising foreign airline ownership cap 20%\u219249%. Policy, not keep 2/3/4."
   },
   {
     "symbol": "I",
@@ -12745,14 +12747,16 @@
     "vol_ratio": 2.3532786650501656,
     "cik": "0000065172",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/65172/000110465916105155/a16-6378_18k.htm",
+    "news_detail": "Cliffs to restart Northshore iron-ore pellet production by May 15. Commodity/ops, not keep 2/3/4."
   },
   {
     "symbol": "TOO",
@@ -35763,14 +35767,16 @@
     "vol_ratio": 26.506877933087754,
     "cik": "0001041514",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/UEPS?date=2016-10-05&view=daily",
+    "news_detail": "No confirmed same-day keep PR (SASSA litigation/tender ongoing). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "REN",
@@ -41789,14 +41795,16 @@
     "vol_ratio": 2.2328107740091157,
     "cik": "0000928022",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.investors.com/stock-lists/new-highs/oil-stocks-rally-to-new-highs-on-opec-deal-dows-united-tech-reverses/",
+    "news_detail": "OPEC production-cut agreement / oil rally. Commodity/policy, not keep 2/3/4."
   },
   {
     "symbol": "CRC",
@@ -42064,14 +42072,16 @@
     "vol_ratio": 2.406384576751043,
     "cik": "0001163739",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/NBR?date=2016-11-30&view=daily",
+    "news_detail": "OPEC production-cut agreement / oil rally. Commodity/policy, not keep 2/3/4."
   },
   {
     "symbol": "OAS",
@@ -44449,14 +44459,16 @@
     "vol_ratio": 13.610641220270368,
     "cik": "0001302028",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://investorplace.com/2016/12/hottest-manufacturing-stocks-now-mrus-cala-invn-mntx/",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "VMEMQ",

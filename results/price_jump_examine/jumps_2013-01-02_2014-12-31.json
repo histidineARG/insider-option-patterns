@@ -3427,14 +3427,16 @@
     "vol_ratio": 2.960698517817723,
     "cik": "0000867773",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "http://markets.chroniclejournal.com/chroniclejournal/quote/historical?Month=2&Range=1&Symbol=537%3A14207120&Year=2013",
+    "news_detail": "Solar-sector rally; no confirmed company keep PR. Sector/media, not keep 2/3/4."
   },
   {
     "symbol": "STZ",
@@ -13431,14 +13433,16 @@
     "vol_ratio": 4.855743820923364,
     "cik": "0000802481",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/PPC?date=2013-06-07&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified/commodity, not keep 2/3/4."
   },
   {
     "symbol": "CBAK",
@@ -13768,15 +13772,17 @@
     "prev_volume": 1836000.0,
     "vol_ratio": 11.647549019607844,
     "cik": "0001857475",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_rumor",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.cnbc.com/2013/06/11/doles-90yearold-ceo-offers-to-take-company-private.html",
+    "news_detail": "CEO/Chairman Murdock $12/share cash proposal to take Dole private. Confirmed M&A proposal keep."
   },
   {
     "symbol": "NOA",
@@ -18982,14 +18988,16 @@
     "vol_ratio": 8.384118631906242,
     "cik": "0000896262",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.wsj.com/articles/DJFLBO0020130809e989fyo6o",
+    "news_detail": "KKR disclosed 8.5% stake and possible talks with management. Activist stake, not confirmed M&A keep."
   },
   {
     "symbol": "CBRX",
@@ -21277,14 +21285,16 @@
     "vol_ratio": 3.6602592758158248,
     "cik": "0001265107",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SCTY?date=2013-09-10&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified/sector, not keep 2/3/4."
   },
   {
     "symbol": "TPLM",
@@ -22041,14 +22051,16 @@
     "vol_ratio": 5.241056390217611,
     "cik": "0001316517",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/KNDI?date=2014-03-17&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "RAD",
@@ -28947,14 +28959,16 @@
     "vol_ratio": 11.271099744245523,
     "cik": "0000749660",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ICAD?date=2013-12-06&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "MBLX",
@@ -43215,14 +43229,16 @@
     "vol_ratio": 5.411556282365767,
     "cik": "0001787518",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/792641/000110465914044132/a14-14872_1ex99d1.htm",
+    "news_detail": "Record Q2 revenues/patient volumes. Earnings, not keep 2/3/4."
   },
   {
     "symbol": "CIEN",
@@ -45457,14 +45473,16 @@
     "vol_ratio": 22.98533724340176,
     "cik": "0000749660",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ICAD?date=2014-07-16&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "TWX",
