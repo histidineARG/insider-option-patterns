@@ -93,13 +93,13 @@
       "symbol": "ADT",
       "announcement_date": "2016-02-16",
       "issuer_cik": "1546640",
-      "review_status": "announcement_verified_price_source_conflict",
+      "review_status": "first_public_disclosure_verified",
       "source": "https://www.sec.gov/Archives/edgar/data/1546640/000119312516517524/d141890ddefm14a.htm",
       "locator": "Background of the Merger; February 16 before NYSE trading; approximately 56% offer premium",
       "conflicting_source": "https://www.sec.gov/file/sec-complaint-1426",
       "conflicting_locator": "Paragraph 10 quotes prior close 26.40 versus local 26.87",
-      "finding": "The contemporaneous proxy's rounded offer premium is compatible with the local prior close. A later complaint instead quotes 26.40. Preserve the disagreement; no correction to raw prices is inferred. This is the 2016 issuer, not the later ADT listing.",
-      "first_public_disclosure_verified": false,
+      "finding": "Jump-cause search (ignore earnings): Motley Fool/IBD/CNBC attribute the February 16, 2016 \u226515% ADT jump (~+47\u201350%) to the Apollo $42/share cash acquisition announcement (not the prior earnings miss, which depressed the Friday close used in the premium). First public disclosure bounded to CNBC\u2019s 6:40 AM EST stamp on February 16, 2016 (2016-02-16T11:40:00+00:00), before the NYSE open. The contemporaneous proxy's rounded offer premium is compatible with the local prior close. A later complaint instead quotes 26.40. Preserve the disagreement; no correction to raw prices is inferred. This is the 2016 issuer, not the later ADT listing.",
+      "first_public_disclosure_verified": true,
       "corporate_action_review_complete": true,
       "share_class_notes": "NYSE common stock of The ADT Corporation (2016 issuer).",
       "split_ticker_change_reviewed": true,
@@ -115,7 +115,11 @@
         "price_source_conflict",
         "ge_10pct_single_day_move_in_pre20",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "first_public_lower_utc": "2016-02-16T11:40:00+00:00",
+      "first_public_upper_utc": "2016-02-16T11:40:00+00:00",
+      "timing_source": "https://www.cnbc.com/2016/02/16/apollo-global-to-buy-adt-for-42-a-share.html",
+      "timing_locator": "CNBC stamp Published Tue, Feb 16 2016 6:40 AM EST"
     },
     {
       "symbol": "VRTU",
@@ -206,11 +210,11 @@
       "symbol": "CALT",
       "announcement_date": "2024-05-28",
       "issuer_cik": "1795579",
-      "review_status": "announcement_verified_ads_terms_reviewed",
-      "source": "https://www.sec.gov/Archives/edgar/data/1795579/000110465924065344/tm2415658d1_sc14d9c.htm",
-      "locator": "Offer announcement; ADS representation and consideration",
-      "finding": "US-listed ADSs represent two Swedish common shares. SEK 208 per ordinary share is SEK 416 per ADS, with USD conversion at settlement. Do not compare local ADS prices directly with ordinary-share SEK consideration.",
-      "first_public_disclosure_verified": false,
+      "review_status": "first_public_disclosure_verified",
+      "source": "https://news.cision.com/asahi-kasei-corporation/r/asahi-kasei-announces-a-recommended-public-cash-offer-to-the-shareholders-and-ads-holders-of-callidi,c3989203",
+      "locator": "Asahi Kasei Cision 08:15 CEST May 28, 2024; ADS consideration SEK 416 (=2\u00d7 SEK 208)",
+      "finding": "Jump-cause search (ignore earnings/trial): MarketWatch/Reuters attribute the May 28, 2024 \u226515% CALT ADS jump (~+70% premarket) to Asahi Kasei\u2019s recommended cash tender (SEK 208/share; SEK 416/ADS), not a contemporaneous earnings release. First public disclosure bounded to Asahi\u2019s Cision release submitted 08:15 CEST on May 28, 2024 (2024-05-28T06:15:00+00:00), before the US open. US-listed ADSs represent two Swedish common shares. SEK 208 per ordinary share is SEK 416 per ADS, with USD conversion at settlement. Do not compare local ADS prices directly with ordinary-share SEK consideration.",
+      "first_public_disclosure_verified": true,
       "corporate_action_review_complete": true,
       "share_class_notes": "NASDAQ ADSs; each ADS represents two Swedish ordinary shares. SEK 208/share = SEK 416/ADS before USD conversion.",
       "split_ticker_change_reviewed": true,
@@ -225,7 +229,11 @@
       "price_action_hazards": [
         "ads_or_ordinary_share_comparison_hazard",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "first_public_lower_utc": "2024-05-28T06:15:00+00:00",
+      "first_public_upper_utc": "2024-05-28T06:15:00+00:00",
+      "timing_source": "https://news.cision.com/asahi-kasei-corporation/r/asahi-kasei-announces-a-recommended-public-cash-offer-to-the-shareholders-and-ads-holders-of-callidi,c3989203",
+      "timing_locator": "Cision stamp Tue, May 28, 2024 08:15 CET; submitted for publication 08.15 a.m. CEST"
     },
     {
       "symbol": "HNZ",
@@ -556,7 +564,7 @@
       "review_status": "earlier_disclosure_time_unresolved",
       "source": "https://www.sec.gov/files/litigation/admin/2025/34-102266.pdf",
       "locator": "Order findings; press release approximately 7:00 a.m. Eastern December 16, 2022",
-      "finding": "Settled order dates the Maxar acquisition press release to approximately 7:00 a.m. Eastern on December 16, 2022. The company release confirms an earlier same-day Wall Street Journal report; the exact WSJ first-publish time relative to 7:00 a.m. remains unresolved. Use the calendar date as a conservative earlier-disclosure boundary. Dual NYSE/TSX listing noted; common stock cash deal.",
+      "finding": "Settled order dates the Maxar acquisition press release to approximately 7:00 a.m. Eastern on December 16, 2022. The company release confirms an earlier same-day Wall Street Journal report; the exact WSJ first-publish time relative to 7:00 a.m. remains unresolved. Use the calendar date as a conservative earlier-disclosure boundary. Dual NYSE/TSX listing noted; common stock cash deal. Jump-cause search (ignore earnings): InvestorPlace/Reuters/CNBC attribute the \u226515% MAXR jump (~+120%) to the Advent all-cash deal; same-day earlier WSJ report remains the first-public boundary ahead of the ~7:00 a.m. ET company release.",
       "first_public_disclosure_verified": false,
       "corporate_action_review_complete": true,
       "earlier_public_date_lower": "2022-12-16",
@@ -1095,7 +1103,7 @@
       "timing_source": "https://www.sec.gov/Archives/edgar/data/804212/000119312515379879/d25596d8k.htm",
       "timing_locator": "Airgas 8-K: press release issued November 17, 2015; contemporaneous coverage midday/afternoon ET",
       "review_status": "earlier_disclosure_found_before_definitive_announcement",
-      "finding": "Bloomberg/StreetInsider reported midday November 17, 2015 that Air Liquide was in talks to acquire Airgas (StreetInsider ~12:23 p.m. ET), and ARG moved sharply that session. The measured November 17 intraday reaction therefore shares the calendar day with an earlier public talks report; do not treat the session as a clean first-disclosure-only print. Source: https://www.streetinsider.com/Hot+M+and+A/Air+Liquide+Said+in+Talks+to+Acquire+Airgas+%28ARG%29/11084006.html",
+      "finding": "Bloomberg/StreetInsider reported midday November 17, 2015 that Air Liquide was in talks to acquire Airgas (StreetInsider ~12:23 p.m. ET), and ARG moved sharply that session. The measured November 17 intraday reaction therefore shares the calendar day with an earlier public talks report; do not treat the session as a clean first-disclosure-only print. Source: https://www.streetinsider.com/Hot+M+and+A/Air+Liquide+Said+in+Talks+to+Acquire+Airgas+%28ARG%29/11084006.html Jump-cause search (ignore earnings): same-day coverage attributes the \u226515% ARG move to Air Liquide M&A news/rumor then definitive confirmation; earlier same-day public talk report remains the first-public boundary (not the later definitive).",
       "first_public_disclosure_verified": false,
       "corporate_action_review_complete": true,
       "discovery_basis": "Confirmed public-target price/volume reaction from dated M&A announcement review; independent of option-pattern selection.",
