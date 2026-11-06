@@ -6,19 +6,19 @@
   "cause_class_counts": {
     "sub_5": 1398,
     "1_earnings": 288,
-    "unclassified_other": 101,
-    "unclassified": 848,
+    "unclassified_other": 122,
+    "unclassified": 826,
     "2_ma_rumor_or_news": 26,
-    "3_biotech_trial": 36,
+    "3_biotech_trial": 37,
     "etf": 28,
     "no_option": 19
   },
   "news_filter_counts": {
     "drop_sub_5": 1398,
     "drop_earnings": 288,
-    "drop_other_not_234": 101,
-    "pending_news_review": 848,
-    "keep": 62,
+    "drop_other_not_234": 122,
+    "pending_news_review": 826,
+    "keep": 63,
     "drop_etf": 28,
     "drop_no_option": 19
   },

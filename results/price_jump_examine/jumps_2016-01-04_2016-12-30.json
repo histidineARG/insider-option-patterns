@@ -1831,14 +1831,16 @@
     "vol_ratio": 3.4421975980447055,
     "cik": "0001170534",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MITL?date=2016-01-22&view=daily",
+    "news_detail": "No confirmed same-day Mitel M&A/tech breakthrough (Polycom deal was Apr 2016 and Mitel was acquirer). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "NWBO",
@@ -7456,14 +7458,16 @@
     "vol_ratio": 15.181976713318985,
     "cik": "0001429560",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/TRVN?date=2016-02-22&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "UNIS",
@@ -7670,14 +7674,16 @@
     "vol_ratio": 2.060022519334177,
     "cik": "0001041024",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/RMTI?date=2016-02-23&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "VGZ",
@@ -13576,14 +13582,16 @@
     "vol_ratio": 2.0338163265068068,
     "cik": "0000873303",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SRPT?date=2016-03-21&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SZYM",
@@ -14966,14 +14974,16 @@
     "vol_ratio": 2.701425536747318,
     "cik": "0001305773",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CFMS?date=2016-04-06&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for Conformis (iTotal PS launch was ~Mar). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "MOMO",
@@ -19499,14 +19509,16 @@
     "vol_ratio": 4.451254738642638,
     "cik": "0001819928",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/DV?date=2016-05-06&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "EVDY",
@@ -20807,14 +20819,16 @@
     "vol_ratio": 3.1033099592421625,
     "cik": "0001070081",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/2016/06/09/why-ptc-therapeutics-jumped-10-in-may.aspx",
+    "news_detail": "PTC Therapeutics bounce tied to competitor Sarepta AdCom fallout / FDA-path speculation after prior RTF; no same-day company trial/regulatory keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SSH",
@@ -27598,15 +27612,17 @@
     "prev_volume": 721470.0,
     "vol_ratio": 3.7963934744341414,
     "cik": "0001401667",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.biocentury.com/article/278197/puma-rises-on-neratinib-survival-data-nda-submission",
+    "news_detail": "After-close Jul 21: NDA filed for neratinib plus interim 5-year ExteNET Phase III DFS data; Jul 22 +~20% reaction. Class-3 biotech/regulatory keep."
   },
   {
     "symbol": "SAM",
@@ -31941,14 +31957,16 @@
     "vol_ratio": 10.551649028373324,
     "cik": "0001347178",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/VNDA?date=2016-08-25&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "GES",
@@ -32151,14 +32169,16 @@
     "vol_ratio": 6.670340754486835,
     "cik": "0000023194",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CRK?date=2016-08-29&view=daily",
+    "news_detail": "No confirmed same-day keep PR; energy move. Commodity, not keep 2/3/4."
   },
   {
     "symbol": "CSTM",
@@ -34036,14 +34056,16 @@
     "vol_ratio": 6.167867337596148,
     "cik": "0001070081",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.rttnews.com/2694240/vicl-slumps-fda-greenlights-srpt-s-dmd-drug-domino-effect-on-ptct.aspx",
+    "news_detail": "Peer bounce on Sarepta Exondys 51 FDA approval; no PTCT keep PR. Peer/sector, not keep 2/3/4."
   },
   {
     "symbol": "SORL",
@@ -34691,14 +34713,16 @@
     "vol_ratio": 3.3400641788500973,
     "cik": "0001274792",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MACK?date=2016-09-22&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "MRTX",
@@ -38489,14 +38513,16 @@
     "vol_ratio": 2.680515074605213,
     "cik": "0000939767",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/EXEL?date=2016-11-09&view=daily",
+    "news_detail": "Exelixis jumped with broad post-election biotech/pharma rally (Cabometyx already approved Apr 2016). Macro/sector, not company keep 2/3/4."
   },
   {
     "symbol": "FGEN",
@@ -38678,14 +38704,16 @@
     "vol_ratio": 3.6245977858239917,
     "cik": "0001125345",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MGNX?date=2016-11-09&view=daily",
+    "news_detail": "MacroGenics jumped with broad post-election biotech rally. Macro/sector, not company keep 2/3/4."
   },
   {
     "symbol": "NATR",
@@ -39163,14 +39191,16 @@
     "vol_ratio": 3.4323727251671783,
     "cik": "0000022444",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CMC?date=2016-11-09&view=daily",
+    "news_detail": "Commercial Metals post-election industrials/metals rally. Macro/sector, not keep 2/3/4."
   },
   {
     "symbol": "CVI",
@@ -40437,14 +40467,16 @@
     "vol_ratio": 2.7617723365181392,
     "cik": "0001346830",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CARA?date=2016-11-16&view=daily",
+    "news_detail": "Cara move attributed to analyst PT raise on CR845; analyst/media, not keep 2/3/4."
   },
   {
     "symbol": "NWBO",
@@ -41508,14 +41540,16 @@
     "vol_ratio": 2.843636253664185,
     "cik": "0001040593",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CRZO?date=2016-11-30&view=daily",
+    "news_detail": "Carrizo Oil & Gas: OPEC deal / oil rebound sector move. Commodity, not keep 2/3/4."
   },
   {
     "symbol": "LINEQ",
@@ -41655,14 +41689,16 @@
     "vol_ratio": 4.188991141309022,
     "cik": "0001071993",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MCF?date=2016-11-30&view=daily",
+    "news_detail": "Contango Oil & Gas: OPEC deal / oil-price rebound sector move on Nov 30. Commodity, not keep 2/3/4."
   },
   {
     "symbol": "NOG",
@@ -42081,14 +42117,16 @@
     "vol_ratio": 3.6781166573437964,
     "cik": "0000101778",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.cnbc.com/2016/11/30/drilling-stocks-are-rising-as-oil-leaps-on-hopes-of-an-opec-deal.html",
+    "news_detail": "OPEC production-cut agreement / oil rally. Commodity/policy, not keep 2/3/4."
   },
   {
     "symbol": "NBR",
