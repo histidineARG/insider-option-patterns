@@ -1,7 +1,7 @@
 {
   "as_of": "2016-12-31",
   "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
-  "tranche": "ge15_second20",
+  "tranche": "ge15_third20",
   "reviews": [
     {
       "symbol": "ERII",
@@ -4612,6 +4612,206 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR for Lumber Liquidators. Unclassified/litigation-sector, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/LL?date=2016-06-17&view=daily"
+    },
+    {
+      "symbol": "RGLS",
+      "qdate": "2016-02-17",
+      "close_return": 0.1927,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Upbeat hepatitis C microRNA drug data drove Regulus same-day rally. Class-3 trial keep.",
+      "locator": "https://www.schaeffersresearch.com/content/options/2016/02/17/option-bulls-rally-around-regulus-therapeutics-inc-rgls"
+    },
+    {
+      "symbol": "FLXN",
+      "qdate": "2016-02-17",
+      "close_return": 0.1927,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "After-close Feb 16: Zilretta Phase 3 met primary endpoint in OA knee pain; Feb 17 reaction. Class-3 trial keep.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1419600/000119312516465391/d125715d8k.htm"
+    },
+    {
+      "symbol": "MTL",
+      "qdate": "2016-11-14",
+      "close_return": 0.1927,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Mechel steel/coal commodity move (vague Metal-Expo agreements). Commodity/macro, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/2016/11/14/why-is-mechel-pao-stock-up-a-red-hot-19-today.aspx"
+    },
+    {
+      "symbol": "BRY",
+      "qdate": "2013-02-21",
+      "close_return": 0.1925,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "LinnCo agreed to acquire Berry Petroleum (~$2.42B all-stock). Target M&A keep-2.",
+      "locator": "https://www.fool.com/investing/general/2013/02/21/why-berry-petroleums-shares-popped.aspx"
+    },
+    {
+      "symbol": "PXLW",
+      "qdate": "2015-06-03",
+      "close_return": 0.1924,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Pixelworks. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/PXLW?date=2015-06-03&view=daily"
+    },
+    {
+      "symbol": "RNWK",
+      "qdate": "2015-06-05",
+      "close_return": 0.1922,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for RealNetworks. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/RNWK?date=2015-06-05&view=daily"
+    },
+    {
+      "symbol": "ORMP",
+      "qdate": "2015-07-02",
+      "close_return": 0.1921,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Oramed. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ORMP?date=2015-07-02&view=daily"
+    },
+    {
+      "symbol": "QIWI",
+      "qdate": "2013-10-01",
+      "close_return": 0.1919,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for QIWI. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/QIWI?date=2013-10-01&view=daily"
+    },
+    {
+      "symbol": "MRCY",
+      "qdate": "2014-03-18",
+      "close_return": 0.1919,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Mercury Systems. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/MRCY?date=2014-03-18&view=daily"
+    },
+    {
+      "symbol": "GPRO",
+      "qdate": "2016-04-13",
+      "close_return": 0.1918,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for GoPro. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/GPRO?date=2016-04-13&view=daily"
+    },
+    {
+      "symbol": "CYTR",
+      "qdate": "2014-01-10",
+      "close_return": 0.1917,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for CytRx. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CYTR?date=2014-01-10&view=daily"
+    },
+    {
+      "symbol": "WWE",
+      "qdate": "2015-01-27",
+      "close_return": 0.1916,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for WWE (network/media). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/WWE?date=2015-01-27&view=daily"
+    },
+    {
+      "symbol": "ANGI",
+      "qdate": "2014-10-01",
+      "close_return": 0.1915,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Angie's List. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ANGI?date=2014-10-01&view=daily"
+    },
+    {
+      "symbol": "VISN",
+      "qdate": "2015-06-03",
+      "close_return": 0.1915,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for VisionChina. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/VISN?date=2015-06-03&view=daily"
+    },
+    {
+      "symbol": "NOAH",
+      "qdate": "2013-05-13",
+      "close_return": 0.1908,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Noah Holdings. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/NOAH?date=2013-05-13&view=daily"
+    },
+    {
+      "symbol": "EGY",
+      "qdate": "2014-03-14",
+      "close_return": 0.1906,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "VAALCO Energy oil move; commodity, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/EGY?date=2014-03-14&view=daily"
+    },
+    {
+      "symbol": "TGI",
+      "qdate": "2015-12-29",
+      "close_return": 0.1906,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Triumph Group. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/TGI?date=2015-12-29&view=daily"
+    },
+    {
+      "symbol": "SHEN",
+      "qdate": "2015-08-11",
+      "close_return": 0.1905,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Shenandoah Telecommunications. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SHEN?date=2015-08-11&view=daily"
+    },
+    {
+      "symbol": "EZPW",
+      "qdate": "2014-05-21",
+      "close_return": 0.1902,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for EZCORP. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/EZPW?date=2014-05-21&view=daily"
+    },
+    {
+      "symbol": "ALNY",
+      "qdate": "2014-10-13",
+      "close_return": 0.1898,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Alnylam on this date. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ALNY?date=2014-10-13&view=daily"
     }
   ]
 }

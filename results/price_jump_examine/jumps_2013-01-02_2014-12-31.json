@@ -3896,15 +3896,17 @@
     "prev_volume": 607600.0,
     "vol_ratio": 18.401909150757078,
     "cik": "0001705873",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_news",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2013/02/21/why-berry-petroleums-shares-popped.aspx",
+    "news_detail": "LinnCo agreed to acquire Berry Petroleum (~$2.42B all-stock). Target M&A keep-2."
   },
   {
     "symbol": "CBR",
@@ -10701,14 +10703,16 @@
     "vol_ratio": 2.7373572593800977,
     "cik": "0001499543",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/NOAH?date=2013-05-13&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Noah Holdings. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "OPXA",
@@ -22900,14 +22904,16 @@
     "vol_ratio": 18.847401247401248,
     "cik": "0001561566",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/QIWI?date=2013-10-01&view=daily",
+    "news_detail": "No confirmed same-day keep PR for QIWI. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "RVLT",
@@ -32037,14 +32043,16 @@
     "vol_ratio": 2.6050598073462474,
     "cik": "0000799698",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CYTR?date=2014-01-10&view=daily",
+    "news_detail": "No confirmed same-day keep PR for CytRx. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ECYT",
@@ -38614,14 +38622,16 @@
     "vol_ratio": 3.172394445223734,
     "cik": "0000894627",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/EGY?date=2014-03-14&view=daily",
+    "news_detail": "VAALCO Energy oil move; commodity, not keep 2/3/4."
   },
   {
     "symbol": "CBAK",
@@ -38847,14 +38857,16 @@
     "vol_ratio": 12.869753979739508,
     "cik": "0001049521",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MRCY?date=2014-03-18&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Mercury Systems. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "PTX",
@@ -42233,14 +42245,16 @@
     "vol_ratio": 3.469293756397134,
     "cik": "0000876523",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/EZPW?date=2014-05-21&view=daily",
+    "news_detail": "No confirmed same-day keep PR for EZCORP. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "MMYT",
@@ -50562,14 +50576,16 @@
     "vol_ratio": 12.34896719037476,
     "cik": "0001705110",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ANGI?date=2014-10-01&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Angie's List. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "PTLA",
@@ -51110,14 +51126,16 @@
     "vol_ratio": 5.334900399798499,
     "cik": "0001178670",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ALNY?date=2014-10-13&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Alnylam on this date. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "EDAP",

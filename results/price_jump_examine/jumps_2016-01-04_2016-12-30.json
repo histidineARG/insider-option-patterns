@@ -6453,15 +6453,17 @@
     "prev_volume": 303723.0,
     "vol_ratio": 14.3266858288638,
     "cik": "0001419600",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/1419600/000119312516465391/d125715d8k.htm",
+    "news_detail": "After-close Feb 16: Zilretta Phase 3 met primary endpoint in OA knee pain; Feb 17 reaction. Class-3 trial keep."
   },
   {
     "symbol": "FOSL",
@@ -6581,15 +6583,17 @@
     "prev_volume": 542085.0,
     "vol_ratio": 19.56380272466495,
     "cik": "0001505512",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.schaeffersresearch.com/content/options/2016/02/17/option-bulls-rally-around-regulus-therapeutics-inc-rgls",
+    "news_detail": "Upbeat hepatitis C microRNA drug data drove Regulus same-day rally. Class-3 trial keep."
   },
   {
     "symbol": "SBLK",
@@ -16428,14 +16432,16 @@
     "vol_ratio": 4.328659182709203,
     "cik": "0001500435",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GPRO?date=2016-04-13&view=daily",
+    "news_detail": "No confirmed same-day keep PR for GoPro. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LSCC",
@@ -40268,14 +40274,16 @@
     "vol_ratio": 2.422739969829781,
     "cik": "0001302362",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/2016/11/14/why-is-mechel-pao-stock-up-a-red-hot-19-today.aspx",
+    "news_detail": "Mechel steel/coal commodity move (vague Metal-Expo agreements). Commodity/macro, not keep 2/3/4."
   },
   {
     "symbol": "CBAK",
