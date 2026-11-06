@@ -1871,14 +1871,16 @@
     "vol_ratio": 9.090283091048201,
     "cik": "0001111863",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SWIR?date=2013-01-29&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SWIR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "VTUS",
@@ -9086,14 +9088,16 @@
     "vol_ratio": 7.021013597033375,
     "cik": "0001061574",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GIB?date=2013-04-30&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for GIB. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "MGAM",
@@ -11152,14 +11156,16 @@
     "vol_ratio": 2.097860772958279,
     "cik": "0001159036",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/HALO?date=2013-05-16&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for HALO. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CERP",
@@ -22211,14 +22217,16 @@
     "vol_ratio": 33.71623931623932,
     "cik": "0001111863",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SWIR?date=2013-09-20&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SWIR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "VRNM",
@@ -22402,14 +22410,16 @@
     "vol_ratio": 2.1087651777970513,
     "cik": "0001316517",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/KNDI?date=2013-09-24&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for KNDI. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LLEN",
@@ -25396,14 +25406,16 @@
     "vol_ratio": 3.943651925820257,
     "cik": "0001050446",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MSTR?date=2013-10-29&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for MSTR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "NTRI",
@@ -31946,14 +31958,16 @@
     "vol_ratio": 2.817368254112103,
     "cik": "0000899460",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MNKD?date=2014-01-09&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for MNKD. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SGMO",
@@ -35489,14 +35503,16 @@
     "vol_ratio": 2.981833664490491,
     "cik": "0001289340",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/STXS?date=2014-02-12&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for STXS. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "VELTF",
@@ -43791,14 +43807,16 @@
     "vol_ratio": 2.5562130177514795,
     "cik": "0001176309",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ORMP?date=2014-06-11&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ORMP. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SYNA",
@@ -48392,14 +48410,16 @@
     "vol_ratio": 7.041253061750677,
     "cik": "0001802768",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/RPRX?date=2014-08-28&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for RPRX. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "RSH",
@@ -50680,14 +50700,16 @@
     "vol_ratio": 2.8313149722566666,
     "cik": "0001316517",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/KNDI?date=2014-10-02&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for KNDI. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "RLD",

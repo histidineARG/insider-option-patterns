@@ -9365,15 +9365,17 @@
     "prev_volume": 517060.0,
     "vol_ratio": 34.11480292422543,
     "cik": "0001585364",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_news",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://investor.mylan.com/news-releases/news-release-details/mylan-proposes-acquire-perrigo-205-share",
+    "news_detail": "Mylan publicly proposed to acquire Perrigo for $205/share cash-and-stock. Target M&A keep-2."
   },
   {
     "symbol": "ZEP",
@@ -14946,14 +14948,16 @@
     "vol_ratio": 7.418739927652011,
     "cik": "0001479290",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/RVNC?date=2015-06-03&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for RVNC. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SCOK",
@@ -31407,14 +31411,16 @@
     "vol_ratio": 4.739764623867779,
     "cik": "0001358403",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/BLCM?date=2015-11-10&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for BLCM. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LPTN",
