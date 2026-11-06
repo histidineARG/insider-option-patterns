@@ -1,18 +1,11 @@
 {
   "events": 26,
-  "ready_to_mark_complete": 16,
-  "marked_complete": 16,
-  "blocker_counts": {
-    "issuer_cik_matches_edgar": 10,
-    "ticker_maps_to_issuer_on_announcement_date": 10,
-    "share_class_or_ads_terms_recorded": 10,
-    "no_unresolved_split_or_ticker_change_in_feature_window": 10,
-    "post_event_ticker_reincarnation_checked": 10,
-    "consideration_special_items_recorded": 10
-  },
+  "ready_to_mark_complete": 26,
+  "marked_complete": 26,
+  "blocker_counts": {},
   "source_sha256": {
-    "results/reviewed_cohort/events.json": "9f499bb20fd9891d1c9a5422f26ff023d325c21096e09dc5202949e7252987b9",
-    "data/event_review_overrides.json": "1b8cfbf2608f8aa973cb424d47ffba7e342df6e06aa70838cb7d61c71538c329"
+    "results/reviewed_cohort/events.json": "ef809d3c5215ab551db6ae7138b4c4a40ead295ce0451418739ffcd5ad54abf5",
+    "data/event_review_overrides.json": "4a7f2f357b595a53f0b8849da01348cb022ca7f1b0bfadfb75fe78819ab97db6"
   },
   "notes": [
     "Checklist readiness is not corporate_action_review_complete.",

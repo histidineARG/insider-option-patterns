@@ -123,23 +123,16 @@
     "symbol": "CNQR",
     "announcement_date": "2014-09-18",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date",
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -181,23 +174,16 @@
     "symbol": "GSKY",
     "announcement_date": "2021-09-15",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date",
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -222,23 +208,16 @@
     "symbol": "IMGN",
     "announcement_date": "2023-11-30",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date",
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -246,23 +225,16 @@
     "symbol": "ITCI",
     "announcement_date": "2025-01-13",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date",
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -287,23 +259,16 @@
     "symbol": "KAMN",
     "announcement_date": "2024-01-19",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date",
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -311,23 +276,16 @@
     "symbol": "KRFT",
     "announcement_date": "2015-03-25",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date",
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -369,23 +327,16 @@
     "symbol": "ONXX",
     "announcement_date": "2013-06-30",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date",
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -410,23 +361,16 @@
     "symbol": "RETA",
     "announcement_date": "2023-07-28",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date",
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -434,23 +378,16 @@
     "symbol": "SAGE",
     "announcement_date": "2025-06-16",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date",
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -475,23 +412,16 @@
     "symbol": "VRTU",
     "announcement_date": "2020-09-10",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date",
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
