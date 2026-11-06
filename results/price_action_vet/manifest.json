@@ -5,20 +5,20 @@
   "jump_ok": 45,
   "status_counts": {
     "jump_ok_price_source_conflict": 1,
-    "jump_ok": 29,
+    "jump_ok": 27,
+    "jump_ok_same_day_earlier_disclosure": 2,
     "jump_ok_prior_process_unresolved": 4,
-    "jump_ok_gap_may_include_earlier_public": 3,
+    "jump_ok_gap_may_include_earlier_public": 4,
     "jump_ok_ads_security": 1,
     "jump_ok_earlier_public_before_measured_window": 3,
-    "jump_ok_prior_close_may_reflect_earlier_public": 3,
-    "jump_ok_same_day_earlier_disclosure": 1
+    "jump_ok_prior_close_may_reflect_earlier_public": 3
   },
   "contamination_flag_counts": {
+    "earlier_public_same_calendar_day_as_reaction": 2,
     "unresolved_earlier_process_on_or_before_previous_session": 4,
-    "earlier_public_between_previous_and_reaction": 3,
+    "earlier_public_between_previous_and_reaction": 4,
     "earlier_public_strictly_before_previous_session": 3,
-    "earlier_public_on_previous_session": 3,
-    "earlier_public_same_calendar_day_as_reaction": 1
+    "earlier_public_on_previous_session": 3
   },
   "hazard_counts": {
     "price_source_conflict": 1,
@@ -38,7 +38,7 @@
   "volume_surge_2x": 43,
   "offer_parsed": 11,
   "source_sha256": {
-    "results/reviewed_cohort/events.json": "a34cb8200e986c2cb6e920e69f55aec1fbd802e91f465bba3ef8d6440727f4e2",
+    "results/reviewed_cohort/events.json": "1a81cd69004a01b6210ca512397399bb889c601d0221636616418091bf774c62",
     "data/calendar/nyse_sessions.json": "69f0ebd15bcea7e2e41609421c37ac8ab56a128709ff3476015239bd2e926fcd"
   },
   "notes": [

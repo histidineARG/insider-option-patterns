@@ -17,9 +17,9 @@ Deep mode requeries OHLCV around each event and reports pre-announcement drift, 
 | FMI:2015-01-12 | 95.32% | 126.45% | 7.89% | 7.70% | 30.41x | n/a | jump_ok | reaction_mostly_overnight_gap |
 | KRFT:2015-03-25 | 35.58% | 32.81% | -0.60% | -4.29% | 37.12x | n/a | jump_ok_prior_close_may_reflect_earlier_public | reaction_mostly_overnight_gap |
 | POZN:2015-06-08 | 18.94% | 16.42% | 17.05% | -4.91% | 13.85x | n/a | jump_ok | strong_5d_pre_drift_ge_10pct, reaction_mostly_overnight_gap |
-| PCP:2015-08-10 | 19.10% | 19.23% | -0.53% | 1.58% | 12.31x | n/a | jump_ok | reaction_mostly_overnight_gap |
+| PCP:2015-08-10 | 19.10% | 19.23% | -0.53% | 1.58% | 12.31x | n/a | jump_ok_gap_may_include_earlier_public | reaction_mostly_overnight_gap |
 | KLAC:2015-10-21 | 18.79% | 19.55% | 4.40% | 9.03% | 13.27x | n/a | jump_ok | reaction_mostly_overnight_gap |
-| ARG:2015-11-17 | 29.36% | -0.84% | 10.72% | 16.51% | 11.98x | n/a | jump_ok | strong_5d_pre_drift_ge_10pct |
+| ARG:2015-11-17 | 29.36% | -0.84% | 10.72% | 16.51% | 11.98x | n/a | jump_ok_same_day_earlier_disclosure | strong_5d_pre_drift_ge_10pct |
 | AFFX:2016-01-08 | 51.57% | 48.97% | -8.72% | -0.43% | 147.52x | n/a | jump_ok | reaction_mostly_overnight_gap |
 | ALR:2016-02-01 | 45.46% | 45.46% | -4.22% | -6.18% | 24.01x | n/a | jump_ok | reaction_mostly_overnight_gap |
 | CSCD:2016-02-04 | 32.26% | 29.78% | -1.67% | -2.05% | 24.28x | n/a | jump_ok | reaction_mostly_overnight_gap |
