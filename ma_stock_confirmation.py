@@ -93,12 +93,17 @@ def candidates(root):
                 row=merged.get((symbol, new_date))
             if row is None:
                 continue
+            blocked=bool(review.get('confirmation_blocked_reason')) or review.get('deal_status')=='unsolicited_proposal'
+            # date_verified means the calendar date/session was checked; blocked deals stay unconfirmed.
+            verified=bool(review.get('date_verified', True)) and not blocked
             row.update(announcement_date=new_date,
                        announcement_session=review['announcement_session'],
                        timing_source=review['announcement_timing_source'],
                        timing_locator=review['announcement_timing_locator'],
                        timing_review_notes=review.get('notes',''),
-                       date_verified=bool(review.get('date_verified', True)),
+                       date_verified=verified,
+                       deal_status=review.get('deal_status','definitive'),
+                       confirmation_blocked_reason=review.get('confirmation_blocked_reason',''),
                        eligibility='target_evidence_reviewed')
             if review.get('issuer'):
                 row['issuer']=review['issuer']

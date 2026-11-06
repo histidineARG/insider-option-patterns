@@ -1,42 +1,44 @@
 {
-  "events": 26,
+  "events": 45,
   "deep": true,
-  "measurement_ok": 26,
-  "jump_ok": 26,
+  "measurement_ok": 45,
+  "jump_ok": 45,
   "status_counts": {
     "jump_ok_price_source_conflict": 1,
-    "jump_ok": 15,
+    "jump_ok": 29,
     "jump_ok_prior_process_unresolved": 4,
+    "jump_ok_gap_may_include_earlier_public": 3,
     "jump_ok_ads_security": 1,
-    "jump_ok_earlier_public_before_measured_window": 2,
-    "jump_ok_same_day_earlier_disclosure": 1,
-    "jump_ok_prior_close_may_reflect_earlier_public": 2
+    "jump_ok_earlier_public_before_measured_window": 3,
+    "jump_ok_prior_close_may_reflect_earlier_public": 3,
+    "jump_ok_same_day_earlier_disclosure": 1
   },
   "contamination_flag_counts": {
     "unresolved_earlier_process_on_or_before_previous_session": 4,
-    "earlier_public_strictly_before_previous_session": 2,
-    "earlier_public_same_calendar_day_as_reaction": 1,
-    "earlier_public_on_previous_session": 2
+    "earlier_public_between_previous_and_reaction": 3,
+    "earlier_public_strictly_before_previous_session": 3,
+    "earlier_public_on_previous_session": 3,
+    "earlier_public_same_calendar_day_as_reaction": 1
   },
   "hazard_counts": {
     "price_source_conflict": 1,
-    "issuer_identity_was_corrected": 7,
     "ads_or_ordinary_share_comparison_hazard": 1
   },
   "path_flag_counts": {
-    "ge_10pct_single_day_move_in_pre20": 5,
-    "reaction_mostly_overnight_gap": 26,
-    "earlier_public_upper_session_abs_ge_5pct": 3,
-    "previous_session_abs_move_ge_5pct": 3,
+    "ge_10pct_single_day_move_in_pre20": 6,
+    "reaction_mostly_overnight_gap": 43,
+    "strong_5d_pre_drift_ge_10pct": 5,
+    "strong_20d_pre_drift_ge_20pct": 2,
+    "previous_session_abs_move_ge_5pct": 4,
+    "earlier_public_upper_session_abs_ge_5pct": 4,
     "reaction_close_at_or_above_cash_offer": 1,
-    "strong_5d_pre_drift_ge_10pct": 1,
-    "earlier_public_lower_session_abs_ge_5pct": 1
+    "earlier_public_lower_session_abs_ge_5pct": 2
   },
-  "gap_dominated": 26,
-  "volume_surge_2x": 24,
+  "gap_dominated": 43,
+  "volume_surge_2x": 43,
   "offer_parsed": 11,
   "source_sha256": {
-    "results/reviewed_cohort/events.json": "2894387864dbed3b45066c8a028153f97afd105ec0b7453cb7ebdebb95c02c62",
+    "results/reviewed_cohort/events.json": "a34cb8200e986c2cb6e920e69f55aec1fbd802e91f465bba3ef8d6440727f4e2",
     "data/calendar/nyse_sessions.json": "69f0ebd15bcea7e2e41609421c37ac8ab56a128709ff3476015239bd2e926fcd"
   },
   "notes": [
