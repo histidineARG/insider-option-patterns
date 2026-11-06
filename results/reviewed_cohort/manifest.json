@@ -3,12 +3,14 @@
   "feature_rows": 780,
   "review_status_counts": {
     "announcement_verified_price_source_conflict": 1,
-    "announcement_verified_earlier_disclosure_search_incomplete": 9,
-    "announcement_verified_issuer_identity_corrected": 9,
+    "announcement_verified_earlier_disclosure_search_incomplete": 8,
+    "prior_takeover_speculation_public": 1,
+    "announcement_verified_issuer_identity_corrected": 7,
     "announcement_verified_ads_terms_reviewed": 1,
     "conflicting_primary_disclosure_dates": 1,
     "prior_strategic_process_requires_scope_review": 1,
-    "earlier_disclosure_time_unresolved": 2,
+    "earlier_disclosure_time_unresolved": 3,
+    "prior_strategic_relationship_public": 1,
     "prior_competing_bid_public": 1,
     "earlier_rumors_exist_start_unknown": 1
   },
@@ -17,7 +19,7 @@
   },
   "training_ready_events": 0,
   "source_sha256": {
-    "data/event_review_overrides.json": "3e0af6efcba1f7c6ffe3661e05389810bfc83b5da1de9c4e45b1b2cc739c4e51",
+    "data/event_review_overrides.json": "ebfb793d14a504832a415a7d175b53d225551b255c81d352fd2c612d9c117648",
     "results/research_cohort/event_cohort.json": "9b743c7a79226e4d326976f00c9ae4ec9b2b0f7d9b2a0dae568095cfc72a1a1f",
     "data/calendar/nyse_sessions.json": "69f0ebd15bcea7e2e41609421c37ac8ab56a128709ff3476015239bd2e926fcd"
   },

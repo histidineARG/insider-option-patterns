@@ -16,4 +16,4 @@ calendar = ["pandas_market_calendars>=4.4,<6"]
 insider-option-patterns = "detector:main"
 
 [tool.setuptools]
-py-modules = ["detector", "sec_match", "ma_inventory", "edgar_ma_search", "research_report", "ma_stock_confirmation", "ma_broad_screen", "ma_registry", "research_cohort", "background_sample", "background_report", "option_coverage_probe", "stock_frame_audit", "reviewed_cohort", "stock_coverage", "exploratory_patterns", "market_calendar", "research_dataset", "evaluation", "trading_assumptions", "cik_audit"]
+py-modules = ["detector", "sec_match", "ma_inventory", "edgar_ma_search", "research_report", "ma_stock_confirmation", "ma_broad_screen", "ma_registry", "research_cohort", "background_sample", "background_report", "option_coverage_probe", "stock_frame_audit", "reviewed_cohort", "stock_coverage", "exploratory_patterns", "market_calendar", "research_dataset", "evaluation", "trading_assumptions", "cik_audit", "corporate_action_review"]
