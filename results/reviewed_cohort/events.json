@@ -49,7 +49,12 @@
     "consideration_notes": "Cash deal; proxy cites approximate 56% offer premium. Price-source conflict with later complaint preserved.",
     "corporate_action_items_reviewed": true,
     "identity_source": "https://data.sec.gov/submissions/CIK0001546640.json",
-    "cik_verified": true
+    "cik_verified": true,
+    "price_action_vetting_status": "jump_ok_price_source_conflict",
+    "price_action_notes": "status=jump_ok_price_source_conflict; close_return=47.53%; hazards=price_source_conflict",
+    "price_action_hazards": [
+      "price_source_conflict"
+    ]
   },
   {
     "symbol": "AFOP",
@@ -99,7 +104,10 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "AFOP delisted after Corning close; no later unrelated AFOP reincarnation identified.",
     "consideration_notes": "Cash tender $18.50 per share.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=19.34%",
+    "price_action_hazards": []
   },
   {
     "symbol": "AVXS",
@@ -154,7 +162,12 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "AveXis delisted after Novartis close; no later unrelated AVXS reincarnation identified.",
     "consideration_notes": "Cash tender $218/share; Outside Date extension can raise to $225. Not a pre-announcement receipt.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok_prior_process_unresolved",
+    "price_action_notes": "status=jump_ok_prior_process_unresolved; close_return=81.57%; contamination=unresolved_earlier_process_on_or_before_previous_session",
+    "price_action_hazards": [
+      "unresolved_earlier_process_on_or_before_previous_session"
+    ]
   },
   {
     "symbol": "BIVV",
@@ -204,7 +217,12 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "Bioverativ delisted after Sanofi close; when-issued BIVVV and Biogen BIIBV symbols are distinct historical artifacts.",
     "consideration_notes": "Cash acquisition at $105 per share per complaint narrative.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=61.89%; hazards=issuer_identity_was_corrected",
+    "price_action_hazards": [
+      "issuer_identity_was_corrected"
+    ]
   },
   {
     "symbol": "BOLD",
@@ -254,7 +272,12 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "Audentes delisted after Astellas close; corrected CIK from Eureka Restaurant 1628736 to 1628738.",
     "consideration_notes": "Cash acquisition (~$3B equity value per litigation release); market-session timing of December 2 release remains incomplete in the release summary.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=105.98%; hazards=issuer_identity_was_corrected",
+    "price_action_hazards": [
+      "issuer_identity_was_corrected"
+    ]
   },
   {
     "symbol": "CALT",
@@ -300,7 +323,12 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "Calliditas ADS listing ended with tender completion; no later unrelated CALT reincarnation identified.",
     "consideration_notes": "SEK ordinary-share offer converted per ADS terms; do not compare ADS USD prices directly to SEK ordinary consideration.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok_ads_security",
+    "price_action_notes": "status=jump_ok_ads_security; close_return=69.27%; hazards=ads_or_ordinary_share_comparison_hazard",
+    "price_action_hazards": [
+      "ads_or_ordinary_share_comparison_hazard"
+    ]
   },
   {
     "symbol": "CEB",
@@ -350,7 +378,12 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "CEB became a Gartner subsidiary after April 2017 close; ticker CEB retired. Corrected CIK from person filer 1035990 to 1066104.",
     "consideration_notes": "Mixed cash ($54.00) and Gartner stock (0.2284 share) per merger agreement; stock leg is not a pre-announcement receipt.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=20.92%; hazards=issuer_identity_was_corrected",
+    "price_action_hazards": [
+      "issuer_identity_was_corrected"
+    ]
   },
   {
     "symbol": "CNQR",
@@ -372,7 +405,7 @@
     "conflicting_locator": "Paragraph 36 gives September 3 at approximately 4:07 p.m. EDT",
     "finding": "The proxy dates the public sale report to September 2 after close, while the SEC complaint dates it September 3. Use the earlier boundary for conservative disclosure contamination; do not silently resolve the conflict.",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "event_id": "CNQR:2014-09-18",
     "training_label_ready": false,
     "reaction_date": "2014-09-19",
@@ -397,7 +430,20 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 22,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001066026.json",
+    "cik_verified": true,
+    "share_class_notes": "NASDAQ common stock CNQR (Concur Technologies Inc.).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Concur delisted after SAP acquisition; no later unrelated CNQR reincarnation identified.",
+    "consideration_notes": "Cash merger; earlier public sale-report conflict is a disclosure issue, not a share-class issue.",
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok_earlier_public_before_measured_window",
+    "price_action_notes": "status=jump_ok_earlier_public_before_measured_window; close_return=17.64%; contamination=earlier_public_strictly_before_previous_session",
+    "price_action_hazards": [
+      "earlier_public_strictly_before_previous_session"
+    ]
   },
   {
     "symbol": "COHR",
@@ -447,7 +493,12 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "II-VI completed acquiring Coherent Inc. on 2022-07-01; on 2022-09-08 II-VI renamed to Coherent Corp. and began trading as COHR. Post-2022 COHR quotes are a different issuer.",
     "consideration_notes": "Lumentum cash-and-stock agreement announced January 19, 2021; later topped by II-VI. Do not confuse announcement consideration with later II-VI terms.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=29.65%; hazards=issuer_identity_was_corrected",
+    "price_action_hazards": [
+      "issuer_identity_was_corrected"
+    ]
   },
   {
     "symbol": "EFII",
@@ -497,7 +548,12 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "EFI delisted after Siris affiliate take-private; corrected CIK from Sypris 864240 to 867374.",
     "consideration_notes": "All-cash take-private valued around $1.7 billion per complaint narrative.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=29.25%; hazards=issuer_identity_was_corrected",
+    "price_action_hazards": [
+      "issuer_identity_was_corrected"
+    ]
   },
   {
     "symbol": "GSKY",
@@ -516,7 +572,7 @@
     "locator": "Paragraphs 34-35; public end of strategic review August 10, 2020, and renewed private talks May 29, 2021",
     "finding": "An older publicly disclosed strategic process ended without agreement. Whether the later transaction represents a new disclosure episode requires an explicit review; an old process alone does not establish a 2021 leak.",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "event_id": "GSKY:2021-09-15",
     "training_label_ready": false,
     "reaction_date": "2021-09-15",
@@ -541,7 +597,20 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 8,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001712923.json",
+    "cik_verified": true,
+    "share_class_notes": "NASDAQ common stock GSKY (GreenSky, Inc.).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "GreenSky delisted after Goldman Sachs acquisition; no later unrelated GSKY reincarnation identified.",
+    "consideration_notes": "Cash acquisition; prior 2020 strategic-review process is a disclosure-scope issue, not share-class.",
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok_prior_process_unresolved",
+    "price_action_notes": "status=jump_ok_prior_process_unresolved; close_return=53.15%; contamination=unresolved_earlier_process_on_or_before_previous_session",
+    "price_action_hazards": [
+      "unresolved_earlier_process_on_or_before_previous_session"
+    ]
   },
   {
     "symbol": "HNZ",
@@ -591,7 +660,10 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "Heinz later combined into Kraft Heinz; CIK 46640 now shows Kraft Heinz Foods Co with former name HEINZ H J CO.",
     "consideration_notes": "Cash $72.50 per common share. Preferred redemption is post-announcement and not a pre-announcement trading receipt.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=19.87%",
+    "price_action_hazards": []
   },
   {
     "symbol": "IMGN",
@@ -606,7 +678,7 @@
     "event_id": "IMGN:2023-11-30",
     "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2023-11-30",
     "previous_session": "2023-11-29",
@@ -633,7 +705,18 @@
     "price_qualification_status": "price_qualified",
     "finding": "AbbVie scheduled the acquisition conference call for 8:00 a.m. CST on November 30, 2023, before the US cash equity open. Exhaustive media search for earlier public reports and corporate-action review remain incomplete.",
     "locator": "AbbVie ImmunoGen acquisition conference call listed 11/30/23 8:00 a.m. CST",
-    "issuer_cik": "855654"
+    "issuer_cik": "855654",
+    "identity_source": "https://data.sec.gov/submissions/CIK0000855654.json",
+    "cik_verified": true,
+    "share_class_notes": "NASDAQ common stock IMGN (ImmunoGen, Inc.).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "ImmunoGen delisted after AbbVie close; no later unrelated IMGN reincarnation identified.",
+    "consideration_notes": "All-cash $31.26 per share equity value about $10.1B per contemporaneous coverage.",
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=82.63%",
+    "price_action_hazards": []
   },
   {
     "symbol": "ITCI",
@@ -649,7 +732,7 @@
     "timing_locator": "Internal CEO message release date January 13 at 6:30 a.m. ET; acquisition announced early that morning",
     "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "discovery_basis": "Acquirer primary release, independent of local option activity",
     "event_id": "ITCI:2025-01-13",
     "training_label_ready": false,
@@ -675,7 +758,18 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 2,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001567514.json",
+    "cik_verified": true,
+    "share_class_notes": "NASDAQ common stock ITCI (Intra-Cellular Therapies, Inc.).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "ITCI acquired by J&J; ticker retired after close. Former names include Oneida Resources Corp.",
+    "consideration_notes": "All-cash $132 per share per acquirer release.",
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=34.07%",
+    "price_action_hazards": []
   },
   {
     "symbol": "JOY",
@@ -725,7 +819,12 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "Joy Global delisted after Komatsu close April 2017. Stored CIK was previously confused with later Tingo Group; corrected to 801898.",
     "consideration_notes": "Cash acquisition at $28.30 per share per settled order.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=19.75%; hazards=issuer_identity_was_corrected",
+    "price_action_hazards": [
+      "issuer_identity_was_corrected"
+    ]
   },
   {
     "symbol": "KAMN",
@@ -740,7 +839,7 @@
     "event_id": "KAMN:2024-01-19",
     "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2024-01-19",
     "previous_session": "2024-01-18",
@@ -763,7 +862,18 @@
     "price_qualification_status": "price_qualified",
     "finding": "The complaint dates the Arcline offer announcement to the morning of January 19, 2024. Codename Project Safeguard facts are alleged as nonpublic beforehand. Exact open-relative timestamp and broader media search remain incomplete; corporate-action review is open.",
     "locator": "Complaint; morning of January 19, 2024 Arcline/Kaman announcement",
-    "issuer_cik": "54381"
+    "issuer_cik": "54381",
+    "identity_source": "https://data.sec.gov/submissions/CIK0000054381.json",
+    "cik_verified": true,
+    "share_class_notes": "NYSE common stock KAMN (Kaman Corp.).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Kaman delisted after Arcline take-private; no later unrelated KAMN reincarnation identified.",
+    "consideration_notes": "Cash offer $46 per share per complaint narrative.",
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=100.85%",
+    "price_action_hazards": []
   },
   {
     "symbol": "KRFT",
@@ -780,7 +890,7 @@
     "locator": "Background of the Merger; March 24 signing and March 25 pre-NASDAQ-opening release",
     "finding": "Execution and public announcement are separate dates. The special dividend is part of consideration and must not be treated as a pre-announcement realized trading receipt.",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "event_id": "KRFT:2015-03-25",
     "training_label_ready": false,
     "reaction_date": "2015-03-25",
@@ -805,7 +915,18 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 27,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001545158.json",
+    "cik_verified": true,
+    "share_class_notes": "NASDAQ common stock KRFT (Kraft Foods Group, Inc.).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Kraft Foods Group combined into Kraft Heinz; KRFT ticker retired.",
+    "consideration_notes": "Merger consideration includes special dividend mechanics; special dividend is not a pre-announcement realized trading receipt.",
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=35.58%",
+    "price_action_hazards": []
   },
   {
     "symbol": "LNKD",
@@ -855,7 +976,10 @@
     "consideration_notes": "All-cash $196.00; dual-class voting control noted in proxy Background.",
     "corporate_action_items_reviewed": true,
     "identity_source": "https://data.sec.gov/submissions/CIK0001271024.json",
-    "cik_verified": true
+    "cik_verified": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=46.64%",
+    "price_action_hazards": []
   },
   {
     "symbol": "MAXR",
@@ -910,7 +1034,12 @@
     "consideration_notes": "All-cash consideration; no special dividend or CVR in the announcement terms reviewed.",
     "corporate_action_items_reviewed": true,
     "identity_source": "https://data.sec.gov/submissions/CIK0001121142.json",
-    "cik_verified": true
+    "cik_verified": true,
+    "price_action_vetting_status": "jump_ok_same_day_earlier_disclosure",
+    "price_action_notes": "status=jump_ok_same_day_earlier_disclosure; close_return=124.81%; contamination=earlier_public_same_calendar_day_as_reaction",
+    "price_action_hazards": [
+      "earlier_public_same_calendar_day_as_reaction"
+    ]
   },
   {
     "symbol": "ONXX",
@@ -930,7 +1059,7 @@
     "locator": "Background of the Offer; June 28 Financial Post disclosure and June 30 response",
     "finding": "Tender response describes a late-afternoon June 28 public report of Amgen's proposal. June 30 is the issuer response, not the first known public report. Exact market-relative time remains unresolved.",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "event_id": "ONXX:2013-06-30",
     "training_label_ready": false,
     "reaction_date": "2013-07-01",
@@ -955,7 +1084,20 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 29,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001012140.json",
+    "cik_verified": true,
+    "share_class_notes": "NASDAQ common stock ONXX (Onyx Pharmaceuticals Inc.).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Onyx delisted after Amgen tender; no later unrelated ONXX reincarnation identified.",
+    "consideration_notes": "Cash tender/offer consideration per Schedule 14D-9; June 28 media report is disclosure chronology, not consideration.",
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok_prior_close_may_reflect_earlier_public",
+    "price_action_notes": "status=jump_ok_prior_close_may_reflect_earlier_public; close_return=51.27%; contamination=earlier_public_on_previous_session",
+    "price_action_hazards": [
+      "earlier_public_on_previous_session"
+    ]
   },
   {
     "symbol": "PRVB",
@@ -1010,7 +1152,12 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "Provention Bio delisted after Sanofi close; no later unrelated PRVB reincarnation identified.",
     "consideration_notes": "All-cash $25.00; builds on existing Sanofi equity stake from co-promotion arrangements.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok_prior_process_unresolved",
+    "price_action_notes": "status=jump_ok_prior_process_unresolved; close_return=259.70%; contamination=unresolved_earlier_process_on_or_before_previous_session",
+    "price_action_hazards": [
+      "unresolved_earlier_process_on_or_before_previous_session"
+    ]
   },
   {
     "symbol": "RETA",
@@ -1030,7 +1177,7 @@
     "locator": "Paragraphs 291-292",
     "finding": "The complaint alleges a July 27 public takeover-speculation item. Its original publication timestamp remains unverified. This is an allegation in a complaint, not an adjudicated finding.",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "event_id": "RETA:2023-07-28",
     "training_label_ready": false,
     "reaction_date": "2023-07-28",
@@ -1055,7 +1202,20 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 20,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001358762.json",
+    "cik_verified": true,
+    "share_class_notes": "NASDAQ common stock RETA (Reata Pharmaceuticals Inc.).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Reata delisted after Biogen acquisition; no later unrelated RETA reincarnation identified.",
+    "consideration_notes": "Cash deal; alleged July 27 speculation item is disclosure chronology, not consideration.",
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok_prior_close_may_reflect_earlier_public",
+    "price_action_notes": "status=jump_ok_prior_close_may_reflect_earlier_public; close_return=54.02%; contamination=earlier_public_on_previous_session",
+    "price_action_hazards": [
+      "earlier_public_on_previous_session"
+    ]
   },
   {
     "symbol": "SAGE",
@@ -1074,7 +1234,7 @@
     "earlier_source": "https://www.sec.gov/Archives/edgar/data/1597553/000119312525004907/d907988dex993.htm",
     "earlier_locator": "Sage confirms public Biogen acquisition proposal January 10, 2025",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "discovery_basis": "Acquirer primary release, independent of local option activity",
     "event_id": "SAGE:2025-06-16",
     "training_label_ready": false,
@@ -1100,7 +1260,20 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 4,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001597553.json",
+    "cik_verified": true,
+    "share_class_notes": "NASDAQ common stock SAGE (Sage Therapeutics, Inc.).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Sage acquired by Supernus; prior January 2025 Biogen proposal is a separate public bid episode.",
+    "consideration_notes": "Supernus cash acquisition; competing Biogen bid was already public on 2025-01-10.",
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok_earlier_public_before_measured_window",
+    "price_action_notes": "status=jump_ok_earlier_public_before_measured_window; close_return=35.37%; contamination=earlier_public_strictly_before_previous_session",
+    "price_action_hazards": [
+      "earlier_public_strictly_before_previous_session"
+    ]
   },
   {
     "symbol": "SWC",
@@ -1150,7 +1323,12 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "Stillwater delisted after Sibanye close May 2017; no later unrelated SWC reincarnation identified.",
     "consideration_notes": "Cash acquisition by Sibanye; complaint dates pre-market-open December 9, 2016 announcement.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=17.98%; hazards=issuer_identity_was_corrected",
+    "price_action_hazards": [
+      "issuer_identity_was_corrected"
+    ]
   },
   {
     "symbol": "VRTU",
@@ -1170,7 +1348,7 @@
     "locator": "Background of the Merger; August 30 inquiry about market rumors and September 10 pre-open release",
     "finding": "A potential counterparty inquired about market rumors on August 30. The filing does not establish when a public report first appeared. Do not infer August 30 is the first disclosure or approve earlier feature dates.",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "event_id": "VRTU:2020-09-10",
     "training_label_ready": false,
     "reaction_date": "2020-09-10",
@@ -1195,7 +1373,20 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 0,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001207074.json",
+    "cik_verified": true,
+    "share_class_notes": "NASDAQ common stock VRTU (Virtusa Corp.).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Virtusa delisted after Baring Private Equity take-private; no later unrelated VRTU reincarnation identified.",
+    "consideration_notes": "Cash take-private; earlier rumor chronology remains unresolved separately.",
+    "corporate_action_items_reviewed": true,
+    "price_action_vetting_status": "jump_ok_prior_process_unresolved",
+    "price_action_notes": "status=jump_ok_prior_process_unresolved; close_return=24.49%; contamination=unresolved_earlier_process_on_or_before_previous_session",
+    "price_action_hazards": [
+      "unresolved_earlier_process_on_or_before_previous_session"
+    ]
   },
   {
     "symbol": "ZGNX",
@@ -1245,6 +1436,9 @@
     "consideration_notes": "Cash $26.00 plus $2.00 CVR contingent on EU LGS orphan approval by end-2023; CVR is not a pre-announcement trading receipt.",
     "corporate_action_items_reviewed": true,
     "identity_source": "https://data.sec.gov/submissions/CIK0001375151.json",
-    "cik_verified": true
+    "cik_verified": true,
+    "price_action_vetting_status": "jump_ok",
+    "price_action_notes": "status=jump_ok; close_return=65.73%",
+    "price_action_hazards": []
   }
 ]

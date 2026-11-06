@@ -23,7 +23,8 @@ REVIEW_FIELDS = (
     'corporate_action_notes',
     'first_public_disclosure_verified', 'corporate_action_review_complete',
     'announcement_session', 'issuer_cik', 'issuer', 'eligibility', 'date_verified',
-    'discovery_basis')
+    'discovery_basis',
+    'price_action_vetting_status', 'price_action_notes', 'price_action_hazards')
 
 
 def inputs(root):
