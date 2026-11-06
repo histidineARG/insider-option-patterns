@@ -7437,14 +7437,16 @@
     "vol_ratio": 7.919822117479944,
     "cik": "0001055726",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/INO?date=2015-03-16&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 trial/regulatory PR for Inovio. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "STRL",
@@ -11722,14 +11724,16 @@
     "vol_ratio": 7.4599006958639755,
     "cik": "0001207179",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GLNG?date=2015-05-05&view=daily",
+    "news_detail": "Golar LNG shipping/LNG commodity move; no confirmed keep 2/3/4."
   },
   {
     "symbol": "IRG",
@@ -16284,14 +16288,16 @@
     "vol_ratio": 7.29593747877196,
     "cik": "0001517022",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://uk.finance.yahoo.com/news/buzz-u-stocks-move-housing-162822477.html",
+    "news_detail": "JMP Securities initiated coverage Market Outperform/$24 PT. Analyst initiation, not keep 2/3/4."
   },
   {
     "symbol": "SRNE",
@@ -18071,15 +18077,17 @@
     "prev_volume": 447813.0,
     "vol_ratio": 7.6492754788271,
     "cik": "0001346830",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/1346830/000119312515261260/d18018d8k.htm",
+    "news_detail": "Positive Phase 2 I.V. CR845 results in uremic pruritus (54% greater itch reduction vs placebo). Class-3 trial keep."
   },
   {
     "symbol": "CLFD",
@@ -32721,14 +32729,16 @@
     "vol_ratio": 2.7941216911398645,
     "cik": "0001561627",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/XONE?date=2015-11-25&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ExOne (Thanksgiving week 3D-print sector move). Unclassified."
   },
   {
     "symbol": "CNIT",

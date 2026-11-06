@@ -858,15 +858,17 @@
     "prev_volume": 1036200.0,
     "vol_ratio": 7.043490638872805,
     "cik": "0001598110",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_rumor",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.proactiveinvestors.com/companies/news/121305/us-risers-fallers-shaw-communications-arno-cyberark-qunar-supervalu-delmar-121305.html",
+    "news_detail": "Report that CyberArk was a potential acquisition target; ~19% spike. Confirmed M&A rumor keep-2."
   },
   {
     "symbol": "ACFN",
@@ -2885,14 +2887,16 @@
     "vol_ratio": 3.1640197193780812,
     "cik": "0001503584",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.costamare.com/news/2016-news-releases",
+    "news_detail": "Costamare Q4/year-end results (~Jan 27). Earnings/shipping rates, not keep 2/3/4."
   },
   {
     "symbol": "CVEO",
@@ -4632,14 +4636,16 @@
     "vol_ratio": 6.183109045771628,
     "cik": "0001356576",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SUPN?date=2016-02-05&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 catalyst for Supernus (commercial momentum / unclear). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "TTMI",
@@ -7630,14 +7636,16 @@
     "vol_ratio": 4.846653478357731,
     "cik": "0001610601",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MOMO?date=2016-02-23&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Momo. Unclassified China internet move, not keep 2/3/4."
   },
   {
     "symbol": "NEWP",
@@ -13412,14 +13420,16 @@
     "vol_ratio": 5.308300612762156,
     "cik": "0000060714",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/LXU?date=2016-03-18&view=daily",
+    "news_detail": "LSB Industries industrial/chemicals move; no confirmed keep 2/3/4."
   },
   {
     "symbol": "NADL",
@@ -16389,14 +16399,16 @@
     "vol_ratio": 19.49655034391228,
     "cik": "0000808326",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/EMKR?date=2016-04-13&view=daily",
+    "news_detail": "No confirmed same-day keep PR for EMCORE. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "GPRO",
@@ -25884,15 +25896,17 @@
     "prev_volume": 2139377.0,
     "vol_ratio": 10.77920394582161,
     "cik": "0000793952",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_rumor",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.foxbusiness.com/markets/harley-davidsons-stock-rockets-on-heavy-volume-amid-reports-of-buyout-interest",
+    "news_detail": "Buyout chatter that KKR could be interested in Harley-Davidson; ~18\u201320% same-day spike. Confirmed M&A-process rumor keep-2."
   },
   {
     "symbol": "PPP",
@@ -26263,14 +26277,16 @@
     "vol_ratio": 8.418886691862628,
     "cik": "0001170534",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.cnbc.com/2016/07/08/polycom-mitel-shares-soar-after-acquisition-is-terminated.html",
+    "news_detail": "Polycom terminated Mitel merger for Siris bid; Mitel rose on $60M break fee / not issuing equity as abandoned acquirer. Not target M&A keep-2."
   },
   {
     "symbol": "STXS",
@@ -26939,14 +26955,16 @@
     "vol_ratio": 11.454032816853651,
     "cik": "0001628908",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/EVH?date=2016-07-13&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Evolent Health. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "GSI",
@@ -39023,14 +39041,16 @@
     "vol_ratio": 6.847140637636743,
     "cik": "0001280600",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/XLRN?date=2016-11-09&view=daily",
+    "news_detail": "Acceleron jumped with broad post-election biotech rally. Macro/sector, not company keep 2/3/4."
   },
   {
     "symbol": "NAK",

@@ -11291,14 +11291,16 @@
     "vol_ratio": 12.000710227272727,
     "cik": "0001347178",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/VNDA?date=2013-05-17&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Vanda (Hetlioz approval was Jan 2014). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "VSAT",
@@ -13059,14 +13061,16 @@
     "vol_ratio": 11.89076723016905,
     "cik": "0001066605",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/HSII?date=2013-06-03&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Heidrick & Struggles. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "JMBA",
@@ -15624,14 +15628,16 @@
     "vol_ratio": 5.670430486944248,
     "cik": "0001840292",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ATHN?date=2013-07-12&view=daily",
+    "news_detail": "No confirmed same-day keep PR for athenahealth. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "IGOI",
@@ -37557,14 +37563,16 @@
     "vol_ratio": 2.460120240480962,
     "cik": "0001734713",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/BV?date=2014-03-05&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Brightcove. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "MXWL",
@@ -42236,14 +42244,16 @@
     "vol_ratio": 4.272550921435499,
     "cik": "0001495153",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MMYT?date=2014-05-21&view=daily",
+    "news_detail": "No confirmed same-day keep PR for MakeMyTrip. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "MY",
