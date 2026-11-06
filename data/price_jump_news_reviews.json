@@ -3492,6 +3492,206 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/MGI?date=2015-05-06&view=daily"
+    },
+    {
+      "symbol": "EXPR",
+      "qdate": "2014-06-13",
+      "close_return": 0.214,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/EXPR?date=2014-06-13&view=daily"
+    },
+    {
+      "symbol": "RMTI",
+      "qdate": "2016-02-16",
+      "close_return": 0.2138,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/RMTI?date=2016-02-16&view=daily"
+    },
+    {
+      "symbol": "OMEX",
+      "qdate": "2016-04-01",
+      "close_return": 0.2135,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/OMEX?date=2016-04-01&view=daily"
+    },
+    {
+      "symbol": "SM",
+      "qdate": "2015-02-03",
+      "close_return": 0.213,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR; energy-sector move. Commodity, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SM?date=2015-02-03&view=daily"
+    },
+    {
+      "symbol": "CARA",
+      "qdate": "2016-03-21",
+      "close_return": 0.2128,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR (clinical hold lifted later in Apr). Unclassified, not keep 2/3/4.",
+      "locator": "https://www.fiercebiotech.com/biotech/cara-tanks-as-fda-clamps-a-hold-on-its-painkiller-trial"
+    },
+    {
+      "symbol": "GEO",
+      "qdate": "2016-11-09",
+      "close_return": 0.2127,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Post-election private-prison rally. Policy/political, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stocks/GEO?date=2016-11-09"
+    },
+    {
+      "symbol": "AXON",
+      "qdate": "2015-07-17",
+      "close_return": 0.2127,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/AXON?date=2015-07-17&view=daily"
+    },
+    {
+      "symbol": "AXDX",
+      "qdate": "2013-09-30",
+      "close_return": 0.2125,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/AXDX?date=2013-09-30&view=daily"
+    },
+    {
+      "symbol": "PTCT",
+      "qdate": "2016-09-30",
+      "close_return": 0.2119,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR (peer DMD news was earlier). Unclassified, not keep 2/3/4.",
+      "locator": "https://www.rttnews.com/2694240/vicl-slumps-fda-greenlights-srpt-s-dmd-drug-domino-effect-on-ptct.aspx"
+    },
+    {
+      "symbol": "TGTX",
+      "qdate": "2014-12-11",
+      "close_return": 0.2118,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/TGTX?date=2014-12-11&view=daily"
+    },
+    {
+      "symbol": "ROLL",
+      "qdate": "2015-03-27",
+      "close_return": 0.2116,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "RBC Bearings as buyer agreed to acquire Dover Sargent Aerospace for $500M. Acquirer deal, not target M&A keep.",
+      "locator": "https://investor.rbcbearings.com/news-releases/news-release-details/rbc-bearings-acquire-dovers-sargent-aerospace-defense-business"
+    },
+    {
+      "symbol": "ACET",
+      "qdate": "2013-11-08",
+      "close_return": 0.2114,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ACET?date=2013-11-08&view=daily"
+    },
+    {
+      "symbol": "ALXN",
+      "qdate": "2014-01-30",
+      "close_return": 0.2114,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ALXN?date=2014-01-30&view=daily"
+    },
+    {
+      "symbol": "IMPV",
+      "qdate": "2016-09-23",
+      "close_return": 0.2113,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Reports potential buyers (Cisco/IBM/Akamai/Forcepoint) exploring Imperva purchase after Yahoo breach. Confirmed M&A rumor keep.",
+      "locator": "https://www.investors.com/news/technology/imperva-bids-near-security-stocks-rise-on-yahoo-breach/"
+    },
+    {
+      "symbol": "OCUL",
+      "qdate": "2016-08-15",
+      "close_return": 0.2109,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/OCUL?date=2016-08-15&view=daily"
+    },
+    {
+      "symbol": "CROX",
+      "qdate": "2013-12-30",
+      "close_return": 0.2108,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Blackstone $200M preferred investment / board seats; CEO retirement. Financing, not keep 2/3/4.",
+      "locator": "https://www.theglobeandmail.com/globe-investor/downtrodden-crocs-takes-a-big-step-forward/article16137941/"
+    },
+    {
+      "symbol": "TRUE",
+      "qdate": "2014-06-06",
+      "close_return": 0.2107,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/TRUE?date=2014-06-06&view=daily"
+    },
+    {
+      "symbol": "ACET",
+      "qdate": "2015-09-11",
+      "close_return": 0.2106,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ACET?date=2015-09-11&view=daily"
+    },
+    {
+      "symbol": "STMP",
+      "qdate": "2016-02-26",
+      "close_return": 0.2105,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/STMP?date=2016-02-26&view=daily"
+    },
+    {
+      "symbol": "RXDX",
+      "qdate": "2016-11-11",
+      "close_return": 0.2091,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/RXDX?date=2016-11-11&view=daily"
     }
   ]
 }

@@ -5,19 +5,19 @@
   "n_with_cik": 1004,
   "cause_class_counts": {
     "sub_5": 1266,
-    "unclassified": 534,
+    "unclassified": 525,
     "1_earnings": 224,
     "3_biotech_trial": 18,
-    "unclassified_other": 64,
-    "2_ma_rumor_or_news": 15,
+    "unclassified_other": 72,
+    "2_ma_rumor_or_news": 16,
     "etf": 25
   },
   "news_filter_counts": {
     "drop_sub_5": 1266,
-    "pending_news_review": 534,
+    "pending_news_review": 525,
     "drop_earnings": 224,
-    "keep": 33,
-    "drop_other_not_234": 64,
+    "keep": 34,
+    "drop_other_not_234": 72,
     "drop_etf": 25
   },
   "policy": "keep 2,3,4; drop 1 (earnings via EDGAR 8-K Item 2.02); hard-drop sub_$5, ETF/ETN denylist, no_option",
