@@ -42,3 +42,5 @@ None of these jumps are attributed to earnings. All remain blocked for clean fir
 - **ITCI**: Bloomberg 2025-01-12 16:20 EST Sunday exploring-bid.
 
 - **CNQR/VA/IMGN/SAGE**: earlier-public UTC bounds stamped (CNQR Sep 2–3 conflict retained).
+
+- **ARG/AVXS/GSKY/PRVB/VRTU**: remaining earlier-public UTC day-bounds stamped (prior-process clocks coarse).

@@ -61,6 +61,25 @@
       ]
     },
     {
+      "symbol": "ABB",
+      "observation_id": "ABB:2019-02-19",
+      "start_utc": "2019-02-19T21:00:00+00:00",
+      "end_utc": "2019-03-05T21:00:00+00:00",
+      "complete": true,
+      "source": "https://global.abb/content/dam/abb/global/group/investors/results-and-reports/2019/ABB%202019%20Form%2020-F%20-%20SEC%20filing.pdf",
+      "locator": "Background ABB:2019-02-19; outcome 2019-02-20..2019-03-05; ABB Ltd 2019 Form 20-F: NYSE trading symbol ABB for ADSs (CIK 0001091587); later 2023 NYSE delisting to OTC ABBNY is after this window",
+      "security_identity_verified": true,
+      "search_method": "Confirm 2019 NYSE ADS identity via ABB Ltd Form 20-F (symbol ABB). News search Feb\u2013Mar 2019 for ABB as public acquisition/takeover target with >=15% close-to-close reaction in 2019-02-20..2019-03-05 (ignore earnings; Power Grids divestiture / ABB-as-acquirer robotics deals are non-qualifying for target-outcome). Audit optiondb.stockquote closes for symbol ABB.",
+      "qualifying_events_found": [],
+      "notes": "In-window coverage is strategy update / Power Grids-to-Hitachi divestiture tracking and ABB as potential acquirer in robotics\u2014not ABB as public takeover target. Max abs close-to-close 3.52% on 2019-02-28. No qualifying public-target >=15% reaction found.",
+      "max_abs_close_return_in_window": 0.0352,
+      "max_abs_close_return_session": "2019-02-28",
+      "non_qualifying_related_news": [
+        "Feb 28, 2019 strategy update / Power Grids Hitachi divestiture on track",
+        "ABB planning robotics acquisitions (acquirer)"
+      ]
+    },
+    {
       "symbol": "ORCL",
       "observation_id": "ORCL:2021-03-04",
       "start_utc": "2021-03-04T21:00:00+00:00",
