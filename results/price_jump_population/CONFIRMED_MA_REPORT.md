@@ -1,5 +1,9 @@
 # Confirmed M&A only — stockquote reaction jumps
 
+> Hand-verified slice only. For why this understates market frequency, see
+> [IMMEDIATE_MA_TIERS_REPORT.md](IMMEDIATE_MA_TIERS_REPORT.md) (same immediate
+> post-announcement metric; wider local tiers).
+
 Universe: `event_verified=1` and `target_public_at_announcement=1` in `research_ma_public_company_acquisitions`, plus any `reviewed_cohort` events absent from that table.
 
 Reaction mapping uses announcement_session against the NYSE calendar. Unknown timing is not forced into a single reaction day.
