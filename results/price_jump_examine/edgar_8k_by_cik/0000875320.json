@@ -1,0 +1,4722 @@
+[
+  {
+    "form": "8-K",
+    "items": "7",
+    "filing_date": "1997-02-25",
+    "acceptance_datetime": "1997-02-25T05:00:00.000Z",
+    "report_date": "1997-02-25",
+    "accession": "0000950135-97-000836",
+    "primary_document": "",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=7; accession=0000950135-97-000836"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-03-27",
+    "acceptance_datetime": "2000-03-27T05:00:00.000Z",
+    "report_date": "2000-03-03",
+    "accession": "0000912057-00-013677",
+    "primary_document": "",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5,7; accession=0000912057-00-013677"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-08-01",
+    "acceptance_datetime": "2000-08-01T04:00:00.000Z",
+    "report_date": "2000-07-14",
+    "accession": "0000912057-00-034103",
+    "primary_document": "a8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5,7; accession=0000912057-00-034103"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-09-11",
+    "acceptance_datetime": "2000-09-11T04:00:00.000Z",
+    "report_date": "2000-09-08",
+    "accession": "0000912057-00-040665",
+    "primary_document": "a2025299z8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5,7; accession=0000912057-00-040665"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-09-14",
+    "acceptance_datetime": "2000-09-14T04:00:00.000Z",
+    "report_date": "2000-09-13",
+    "accession": "0000912057-00-041300",
+    "primary_document": "a2025715z8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5,7; accession=0000912057-00-041300"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-09-15",
+    "acceptance_datetime": "2000-09-15T04:00:00.000Z",
+    "report_date": "2000-09-15",
+    "accession": "0000912057-00-041583",
+    "primary_document": "a2025895z8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5,7; accession=0000912057-00-041583"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-09-19",
+    "acceptance_datetime": "2000-09-19T04:00:00.000Z",
+    "report_date": "2000-09-19",
+    "accession": "0000912057-00-041866",
+    "primary_document": "a2026000z8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5,7; accession=0000912057-00-041866"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2000-10-05",
+    "acceptance_datetime": "2000-10-05T04:00:00.000Z",
+    "report_date": "2000-10-05",
+    "accession": "0000912057-00-043850",
+    "primary_document": "a2027272z8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5; accession=0000912057-00-043850"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2000-12-21",
+    "acceptance_datetime": "2000-12-21T05:00:00.000Z",
+    "report_date": "2000-12-21",
+    "accession": "0000912057-00-054428",
+    "primary_document": "a2033910z8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5; accession=0000912057-00-054428"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2001-04-30",
+    "acceptance_datetime": "2001-04-30T04:00:00.000Z",
+    "report_date": "2001-04-29",
+    "accession": "0000912057-01-511565",
+    "primary_document": "a2047278z8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5,7; accession=0000912057-01-511565"
+  },
+  {
+    "form": "8-K",
+    "items": "2,7",
+    "filing_date": "2001-08-01",
+    "acceptance_datetime": "2001-08-01T04:00:00.000Z",
+    "report_date": "2001-07-18",
+    "accession": "0000912057-01-526038",
+    "primary_document": "a2055538z8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2,7; accession=0000912057-01-526038"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2001-09-20",
+    "acceptance_datetime": "2001-09-20T04:00:00.000Z",
+    "report_date": "2001-09-20",
+    "accession": "0000912057-01-532908",
+    "primary_document": "a2059419z8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5; accession=0000912057-01-532908"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2,7",
+    "filing_date": "2001-09-28",
+    "acceptance_datetime": "2001-09-28T04:00:00.000Z",
+    "report_date": "2001-07-18",
+    "accession": "0000912057-01-533857",
+    "primary_document": "a2058903z8-ka.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2,7; accession=0000912057-01-533857"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2002-05-24",
+    "acceptance_datetime": "2002-05-24T18:14:14.000Z",
+    "report_date": "2002-05-23",
+    "accession": "0000912057-02-021904",
+    "primary_document": "a2080995z8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5; accession=0000912057-02-021904"
+  },
+  {
+    "form": "8-K",
+    "items": "9",
+    "filing_date": "2002-08-14",
+    "acceptance_datetime": "2002-08-14T19:36:29.000Z",
+    "report_date": "2002-08-14",
+    "accession": "0000912057-02-032087",
+    "primary_document": "a2087411z8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=9; accession=0000912057-02-032087"
+  },
+  {
+    "form": "8-K",
+    "items": "9",
+    "filing_date": "2002-11-14",
+    "acceptance_datetime": "2002-11-14T21:27:09.000Z",
+    "report_date": "2002-11-14",
+    "accession": "0000912057-02-042459",
+    "primary_document": "a2093250z8-k.txt",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=9; accession=0000912057-02-042459"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2003-03-31",
+    "acceptance_datetime": "2003-03-31T20:45:53.000Z",
+    "report_date": "2003-03-31",
+    "accession": "0001047469-03-011255",
+    "primary_document": "a2107286z8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5; accession=0001047469-03-011255"
+  },
+  {
+    "form": "8-K",
+    "items": "2,7",
+    "filing_date": "2003-04-14",
+    "acceptance_datetime": "2003-04-14T19:45:15.000Z",
+    "report_date": "2003-03-28",
+    "accession": "0001047469-03-013224",
+    "primary_document": "a2107979z8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2,7; accession=0001047469-03-013224"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-04-24",
+    "acceptance_datetime": "2003-04-24T20:30:25.000Z",
+    "report_date": "2003-04-24",
+    "accession": "0001104659-03-007274",
+    "primary_document": "j9879_8k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=7,9; accession=0001104659-03-007274"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2003-05-02",
+    "acceptance_datetime": "2003-05-02T15:46:03.000Z",
+    "report_date": "2003-05-02",
+    "accession": "0001104659-03-007949",
+    "primary_document": "j0211_8k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5; accession=0001104659-03-007949"
+  },
+  {
+    "form": "8-K",
+    "items": "9",
+    "filing_date": "2003-07-24",
+    "acceptance_datetime": "2003-07-24T20:50:21.000Z",
+    "report_date": "2003-07-24",
+    "accession": "0001104659-03-015646",
+    "primary_document": "a03-1361_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=9; accession=0001104659-03-015646"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2003-09-25",
+    "acceptance_datetime": "2003-09-25T20:11:57.000Z",
+    "report_date": "2003-09-25",
+    "accession": "0001104659-03-021566",
+    "primary_document": "a03-3658_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5; accession=0001104659-03-021566"
+  },
+  {
+    "form": "8-K",
+    "items": "12,9",
+    "filing_date": "2003-11-10",
+    "acceptance_datetime": "2003-11-10T21:55:25.000Z",
+    "report_date": "2003-11-10",
+    "accession": "0001104659-03-025360",
+    "primary_document": "a03-5139_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=12,9; accession=0001104659-03-025360"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2003-12-05",
+    "acceptance_datetime": "2003-12-05T21:39:54.000Z",
+    "report_date": "2003-12-05",
+    "accession": "0001104659-03-027934",
+    "primary_document": "a03-6071_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5; accession=0001104659-03-027934"
+  },
+  {
+    "form": "8-K",
+    "items": "9",
+    "filing_date": "2003-12-05",
+    "acceptance_datetime": "2003-12-05T21:42:43.000Z",
+    "report_date": "2003-12-04",
+    "accession": "0001104659-03-027935",
+    "primary_document": "a03-6071_28k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=9; accession=0001104659-03-027935"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2003-12-16",
+    "acceptance_datetime": "2003-12-16T19:21:36.000Z",
+    "report_date": "2003-11-18",
+    "accession": "0001104659-03-028619",
+    "primary_document": "a03-5791_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5; accession=0001104659-03-028619"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2003-12-19",
+    "acceptance_datetime": "2003-12-19T20:56:46.000Z",
+    "report_date": "2003-12-19",
+    "accession": "0001104659-03-028973",
+    "primary_document": "a03-6446_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5; accession=0001104659-03-028973"
+  },
+  {
+    "form": "8-K",
+    "items": "12",
+    "filing_date": "2004-01-12",
+    "acceptance_datetime": "2004-01-12T17:30:37.000Z",
+    "report_date": "2004-01-12",
+    "accession": "0001104659-04-000594",
+    "primary_document": "a04-1193_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=12; accession=0001104659-04-000594"
+  },
+  {
+    "form": "8-K",
+    "items": "5,9",
+    "filing_date": "2004-02-03",
+    "acceptance_datetime": "2004-02-03T21:53:33.000Z",
+    "report_date": "2004-02-03",
+    "accession": "0001047469-04-002999",
+    "primary_document": "a2127904z8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5,9; accession=0001047469-04-002999"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2004-02-10",
+    "acceptance_datetime": "2004-02-10T14:47:59.000Z",
+    "report_date": "2004-02-10",
+    "accession": "0001047469-04-003770",
+    "primary_document": "a2128233z8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=7,9; accession=0001047469-04-003770"
+  },
+  {
+    "form": "8-K",
+    "items": "12",
+    "filing_date": "2004-02-11",
+    "acceptance_datetime": "2004-02-11T21:24:34.000Z",
+    "report_date": "2004-02-11",
+    "accession": "0001047469-04-004051",
+    "primary_document": "a2128627z8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=12; accession=0001047469-04-004051"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2004-02-13",
+    "acceptance_datetime": "2004-02-17T15:19:23.000Z",
+    "report_date": "2004-02-13",
+    "accession": "0001047469-04-004645",
+    "primary_document": "a2128902z8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=7,9; accession=0001047469-04-004645"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2004-02-23",
+    "acceptance_datetime": "2004-02-20T22:43:37.000Z",
+    "report_date": "2004-02-20",
+    "accession": "0001104659-04-005329",
+    "primary_document": "a04-2732_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5,7; accession=0001104659-04-005329"
+  },
+  {
+    "form": "8-K",
+    "items": "12",
+    "filing_date": "2004-04-26",
+    "acceptance_datetime": "2004-04-26T20:46:51.000Z",
+    "report_date": "2004-04-26",
+    "accession": "0001047469-04-013575",
+    "primary_document": "a2134753z8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=12; accession=0001047469-04-013575"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2004-05-10",
+    "acceptance_datetime": "2004-05-10T21:25:56.000Z",
+    "report_date": "2004-05-06",
+    "accession": "0001047469-04-016696",
+    "primary_document": "a2136319z8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5; accession=0001047469-04-016696"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2004-07-02",
+    "acceptance_datetime": "2004-07-01T21:50:41.000Z",
+    "report_date": "2004-06-24",
+    "accession": "0001104659-04-018787",
+    "primary_document": "a04-7156_28k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5,7; accession=0001104659-04-018787"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2004-07-19",
+    "acceptance_datetime": "2004-07-19T20:53:46.000Z",
+    "report_date": "2004-06-11",
+    "accession": "0001104659-04-020015",
+    "primary_document": "a04-7156_48k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5; accession=0001104659-04-020015"
+  },
+  {
+    "form": "8-K",
+    "items": "12",
+    "filing_date": "2004-07-26",
+    "acceptance_datetime": "2004-07-26T20:13:51.000Z",
+    "report_date": "2004-07-26",
+    "accession": "0001104659-04-020853",
+    "primary_document": "a04-8222_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=12; accession=0001104659-04-020853"
+  },
+  {
+    "form": "8-K/A",
+    "items": "8.01,9.01",
+    "filing_date": "2004-09-10",
+    "acceptance_datetime": "2004-09-10T10:13:29.000Z",
+    "report_date": "2004-06-11",
+    "accession": "0001047469-04-028417",
+    "primary_document": "a2143149z8-ka.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001047469-04-028417"
+  },
+  {
+    "form": "8-K/A",
+    "items": "8.01,9.01",
+    "filing_date": "2004-09-10",
+    "acceptance_datetime": "2004-09-10T10:14:57.000Z",
+    "report_date": "2004-05-24",
+    "accession": "0001047469-04-028418",
+    "primary_document": "a2143150z8-ka.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001047469-04-028418"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2004-09-17",
+    "acceptance_datetime": "2004-09-17T20:43:57.000Z",
+    "report_date": "2004-09-13",
+    "accession": "0001104659-04-027963",
+    "primary_document": "a04-10676_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001104659-04-027963"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01",
+    "filing_date": "2004-10-13",
+    "acceptance_datetime": "2004-10-13T20:37:17.000Z",
+    "report_date": "2004-10-06",
+    "accession": "0001104659-04-030402",
+    "primary_document": "a04-7156_58k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02,8.01; accession=0001104659-04-030402"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2004-10-25",
+    "acceptance_datetime": "2004-10-25T20:59:34.000Z",
+    "report_date": "2004-10-25",
+    "accession": "0001104659-04-031717",
+    "primary_document": "a04-12029_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-04-031717"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2005-01-10",
+    "acceptance_datetime": "2005-01-10T15:51:30.000Z",
+    "report_date": "2005-01-10",
+    "accession": "0001104659-05-000907",
+    "primary_document": "a05-1286_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001104659-05-000907"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2005-02-09",
+    "acceptance_datetime": "2005-02-08T23:29:18.000Z",
+    "report_date": "2005-02-03",
+    "accession": "0001104659-05-004679",
+    "primary_document": "a05-3064_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001104659-05-004679"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,2.02,9.01",
+    "filing_date": "2005-02-09",
+    "acceptance_datetime": "2005-02-09T22:05:10.000Z",
+    "report_date": "2005-02-07",
+    "accession": "0001104659-05-004973",
+    "primary_document": "a05-3186_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.02,2.02,9.01; accession=0001104659-05-004973"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2005-03-18",
+    "acceptance_datetime": "2005-03-18T20:32:31.000Z",
+    "report_date": "2005-03-14",
+    "accession": "0001104659-05-011995",
+    "primary_document": "a05-5310_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0001104659-05-011995"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-04-26",
+    "acceptance_datetime": "2005-04-26T20:10:06.000Z",
+    "report_date": "2005-04-26",
+    "accession": "0001104659-05-018152",
+    "primary_document": "a05-7360_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-05-018152"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.05",
+    "filing_date": "2005-05-11",
+    "acceptance_datetime": "2005-05-11T20:36:10.000Z",
+    "report_date": "2005-05-11",
+    "accession": "0001104659-05-022586",
+    "primary_document": "a05-9232_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02,5.05; accession=0001104659-05-022586"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-05-20",
+    "acceptance_datetime": "2005-05-20T21:14:11.000Z",
+    "report_date": "2005-05-20",
+    "accession": "0001104659-05-024800",
+    "primary_document": "a05-9794_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-05-024800"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-06-01",
+    "acceptance_datetime": "2005-05-31T21:50:06.000Z",
+    "report_date": "2005-05-31",
+    "accession": "0001047469-05-016166",
+    "primary_document": "a2159032z8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001047469-05-016166"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2005-06-08",
+    "acceptance_datetime": "2005-06-08T19:28:06.000Z",
+    "report_date": "2005-06-07",
+    "accession": "0001104659-05-027338",
+    "primary_document": "a05-10511_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001104659-05-027338"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-06-10",
+    "acceptance_datetime": "2005-06-10T11:20:48.000Z",
+    "report_date": "2005-06-10",
+    "accession": "0001104659-05-027647",
+    "primary_document": "a05-10654_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-05-027647"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-06-13",
+    "acceptance_datetime": "2005-06-13T20:11:01.000Z",
+    "report_date": "2005-06-13",
+    "accession": "0001104659-05-027936",
+    "primary_document": "a05-10766_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-05-027936"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-06-15",
+    "acceptance_datetime": "2005-06-15T12:40:26.000Z",
+    "report_date": "2005-06-15",
+    "accession": "0001104659-05-028298",
+    "primary_document": "a05-10866_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-05-028298"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-06-17",
+    "acceptance_datetime": "2005-06-17T13:07:39.000Z",
+    "report_date": "2005-06-17",
+    "accession": "0001104659-05-028652",
+    "primary_document": "a05-10986_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-05-028652"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-07-27",
+    "acceptance_datetime": "2005-07-27T20:52:25.000Z",
+    "report_date": "2005-07-27",
+    "accession": "0001104659-05-034467",
+    "primary_document": "a05-13644_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-05-034467"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01,9.01",
+    "filing_date": "2005-09-07",
+    "acceptance_datetime": "2005-09-07T20:04:04.000Z",
+    "report_date": "2005-09-06",
+    "accession": "0001104659-05-043133",
+    "primary_document": "a05-15875_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=4.01,9.01; accession=0001104659-05-043133"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,8.01,9.01",
+    "filing_date": "2005-09-12",
+    "acceptance_datetime": "2005-09-12T20:32:57.000Z",
+    "report_date": "2005-09-08",
+    "accession": "0001104659-05-043720",
+    "primary_document": "a05-16110_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,3.02,8.01,9.01; accession=0001104659-05-043720"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2005-10-05",
+    "acceptance_datetime": "2005-10-04T21:37:24.000Z",
+    "report_date": "2005-10-04",
+    "accession": "0001104659-05-047149",
+    "primary_document": "a05-17199_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-05-047149"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-10-26",
+    "acceptance_datetime": "2005-10-26T20:41:48.000Z",
+    "report_date": "2005-10-26",
+    "accession": "0001104659-05-050325",
+    "primary_document": "a05-19022_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-05-050325"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,8.01",
+    "filing_date": "2005-12-02",
+    "acceptance_datetime": "2005-12-02T17:29:25.000Z",
+    "report_date": "2005-11-28",
+    "accession": "0001104659-05-058787",
+    "primary_document": "a05-21162_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,3.02,8.01; accession=0001104659-05-058787"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2005-12-12",
+    "acceptance_datetime": "2005-12-12T20:40:51.000Z",
+    "report_date": "2005-12-07",
+    "accession": "0001104659-05-060227",
+    "primary_document": "a05-21647_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0001104659-05-060227"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-12-16",
+    "acceptance_datetime": "2005-12-16T22:03:49.000Z",
+    "report_date": "2005-12-12",
+    "accession": "0001104659-05-061339",
+    "primary_document": "a05-21887_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-05-061339"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2006-01-12",
+    "acceptance_datetime": "2006-01-12T13:37:26.000Z",
+    "report_date": "2006-01-06",
+    "accession": "0001104659-06-001773",
+    "primary_document": "a06-1673_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0001104659-06-001773"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-02-07",
+    "acceptance_datetime": "2006-02-07T21:52:22.000Z",
+    "report_date": "2006-02-07",
+    "accession": "0001104659-06-006595",
+    "primary_document": "a06-4491_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-06-006595"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2006-02-13",
+    "acceptance_datetime": "2006-02-13T22:18:37.000Z",
+    "report_date": "2006-02-07",
+    "accession": "0001104659-06-008455",
+    "primary_document": "a06-4703_18ka.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001104659-06-008455"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-03-09",
+    "acceptance_datetime": "2006-03-09T02:14:37.000Z",
+    "report_date": "2006-03-08",
+    "accession": "0001104659-06-015111",
+    "primary_document": "a06-6622_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-06-015111"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2006-03-23",
+    "acceptance_datetime": "2006-03-23T18:19:28.000Z",
+    "report_date": "2006-03-17",
+    "accession": "0001104659-06-018838",
+    "primary_document": "a06-7542_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0001104659-06-018838"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-04-25",
+    "acceptance_datetime": "2006-04-25T20:42:18.000Z",
+    "report_date": "2006-04-25",
+    "accession": "0001104659-06-027442",
+    "primary_document": "a06-10458_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-06-027442"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2006-05-15",
+    "acceptance_datetime": "2006-05-15T20:56:47.000Z",
+    "report_date": "2006-05-11",
+    "accession": "0001104659-06-035103",
+    "primary_document": "a06-11895_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001104659-06-035103"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2006-05-23",
+    "acceptance_datetime": "2006-05-23T11:40:08.000Z",
+    "report_date": "2006-05-23",
+    "accession": "0001104659-06-036779",
+    "primary_document": "a06-12426_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-06-036779"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2006-06-26",
+    "acceptance_datetime": "2006-06-26T19:52:02.000Z",
+    "report_date": "2006-06-26",
+    "accession": "0001104659-06-043575",
+    "primary_document": "a06-14423_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0001104659-06-043575"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2006-06-30",
+    "acceptance_datetime": "2006-06-30T13:06:27.000Z",
+    "report_date": "2006-06-30",
+    "accession": "0001104659-06-044776",
+    "primary_document": "a06-14783_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001104659-06-044776"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-07-26",
+    "acceptance_datetime": "2006-07-26T20:39:41.000Z",
+    "report_date": "2006-07-26",
+    "accession": "0001104659-06-049037",
+    "primary_document": "a06-16751_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-06-049037"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,8.01",
+    "filing_date": "2006-08-08",
+    "acceptance_datetime": "2006-08-08T20:06:20.000Z",
+    "report_date": "2006-08-02",
+    "accession": "0001104659-06-052495",
+    "primary_document": "a06-17682_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=3.02,8.01; accession=0001104659-06-052495"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-09-11",
+    "acceptance_datetime": "2006-09-11T20:30:39.000Z",
+    "report_date": "2006-09-11",
+    "accession": "0001047469-06-011728",
+    "primary_document": "a2173136z8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001047469-06-011728"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2006-09-15",
+    "acceptance_datetime": "2006-09-15T20:48:26.000Z",
+    "report_date": "2006-09-14",
+    "accession": "0001104659-06-061441",
+    "primary_document": "a06-19670_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001104659-06-061441"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-09-21",
+    "acceptance_datetime": "2006-09-20T21:58:57.000Z",
+    "report_date": "2006-09-20",
+    "accession": "0001104659-06-062132",
+    "primary_document": "a06-20012_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-06-062132"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-10-26",
+    "acceptance_datetime": "2006-10-26T20:31:22.000Z",
+    "report_date": "2006-10-26",
+    "accession": "0001104659-06-068919",
+    "primary_document": "a06-22665_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-06-068919"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2006-12-18",
+    "acceptance_datetime": "2006-12-18T13:00:24.000Z",
+    "report_date": "2006-12-15",
+    "accession": "0001104659-06-082004",
+    "primary_document": "a06-25870_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0001104659-06-082004"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,2.04,8.01,9.01",
+    "filing_date": "2007-02-01",
+    "acceptance_datetime": "2007-02-01T21:45:23.000Z",
+    "report_date": "2007-02-01",
+    "accession": "0001104659-07-006509",
+    "primary_document": "a07-3181_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,2.04,8.01,9.01; accession=0001104659-07-006509"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,8.01",
+    "filing_date": "2007-03-07",
+    "acceptance_datetime": "2007-03-07T14:57:56.000Z",
+    "report_date": "2007-03-02",
+    "accession": "0001104659-07-016940",
+    "primary_document": "a07-7345_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=3.02,8.01; accession=0001104659-07-016940"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-04-30",
+    "acceptance_datetime": "2007-04-30T20:49:19.000Z",
+    "report_date": "2007-04-30",
+    "accession": "0001104659-07-033393",
+    "primary_document": "a07-12608_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-07-033393"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-06-12",
+    "acceptance_datetime": "2007-06-12T20:03:53.000Z",
+    "report_date": "2007-06-12",
+    "accession": "0001104659-07-047168",
+    "primary_document": "a07-16489_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-047168"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-06-26",
+    "acceptance_datetime": "2007-06-26T20:34:55.000Z",
+    "report_date": "2007-06-22",
+    "accession": "0001104659-07-050039",
+    "primary_document": "a07-17464_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-07-050039"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-07-03",
+    "acceptance_datetime": "2007-07-03T20:34:34.000Z",
+    "report_date": "2007-06-29",
+    "accession": "0001104659-07-052167",
+    "primary_document": "a07-17956_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-052167"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-07-24",
+    "acceptance_datetime": "2007-07-24T20:53:49.000Z",
+    "report_date": "2007-07-24",
+    "accession": "0001104659-07-055745",
+    "primary_document": "a07-20092_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-07-055745"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-08-01",
+    "acceptance_datetime": "2007-08-01T13:00:17.000Z",
+    "report_date": "2007-07-31",
+    "accession": "0001104659-07-057731",
+    "primary_document": "a07-20730_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-07-057731"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-10-29",
+    "acceptance_datetime": "2007-10-29T20:50:29.000Z",
+    "report_date": "2007-10-29",
+    "accession": "0001104659-07-077730",
+    "primary_document": "a07-27799_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-07-077730"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-11-02",
+    "acceptance_datetime": "2007-11-02T12:25:23.000Z",
+    "report_date": "2007-11-02",
+    "accession": "0001104659-07-079079",
+    "primary_document": "a07-28224_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-079079"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2007-11-27",
+    "acceptance_datetime": "2007-11-27T21:32:11.000Z",
+    "report_date": "2007-11-20",
+    "accession": "0001104659-07-085330",
+    "primary_document": "a07-30205_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0001104659-07-085330"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-02-11",
+    "acceptance_datetime": "2008-02-11T21:06:57.000Z",
+    "report_date": "2008-02-11",
+    "accession": "0001104659-08-008969",
+    "primary_document": "a08-5073_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-08-008969"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2008-02-14",
+    "acceptance_datetime": "2008-02-14T02:42:49.000Z",
+    "report_date": "2008-02-12",
+    "accession": "0001104659-08-010219",
+    "primary_document": "a08-5589_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-08-010219"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2008-02-25",
+    "acceptance_datetime": "2008-02-25T21:05:32.000Z",
+    "report_date": "2008-02-19",
+    "accession": "0001104659-08-012630",
+    "primary_document": "a08-6176_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001104659-08-012630"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2008-03-31",
+    "acceptance_datetime": "2008-03-31T13:20:56.000Z",
+    "report_date": "2008-03-31",
+    "accession": "0001104659-08-020972",
+    "primary_document": "a08-8996_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-08-020972"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-04-21",
+    "acceptance_datetime": "2008-04-21T20:46:59.000Z",
+    "report_date": "2008-04-21",
+    "accession": "0001104659-08-025638",
+    "primary_document": "a08-11150_28k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-08-025638"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,9.01",
+    "filing_date": "2008-05-16",
+    "acceptance_datetime": "2008-05-16T20:17:57.000Z",
+    "report_date": "2008-05-15",
+    "accession": "0001104659-08-034042",
+    "primary_document": "a08-13452_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,1.02,9.01; accession=0001104659-08-034042"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01",
+    "filing_date": "2008-06-04",
+    "acceptance_datetime": "2008-06-04T20:30:44.000Z",
+    "report_date": "2008-05-30",
+    "accession": "0001104659-08-037790",
+    "primary_document": "a08-15973_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,2.01; accession=0001104659-08-037790"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-06-18",
+    "acceptance_datetime": "2008-06-18T20:07:08.000Z",
+    "report_date": "2008-06-18",
+    "accession": "0001104659-08-040682",
+    "primary_document": "a08-16959_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-08-040682"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-07-31",
+    "acceptance_datetime": "2008-07-31T20:48:01.000Z",
+    "report_date": "2008-07-31",
+    "accession": "0001104659-08-048953",
+    "primary_document": "a08-20319_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-08-048953"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-09-12",
+    "acceptance_datetime": "2008-09-11T22:15:20.000Z",
+    "report_date": "2008-09-11",
+    "accession": "0001104659-08-058243",
+    "primary_document": "a08-23446_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-08-058243"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2008-09-19",
+    "acceptance_datetime": "2008-09-19T17:06:55.000Z",
+    "report_date": "2008-09-18",
+    "accession": "0001104659-08-059590",
+    "primary_document": "a08-23866_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-08-059590"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-09-30",
+    "acceptance_datetime": "2008-09-30T20:15:18.000Z",
+    "report_date": "2008-09-29",
+    "accession": "0001104659-08-061266",
+    "primary_document": "a08-24668_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-08-061266"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-10-27",
+    "acceptance_datetime": "2008-10-27T20:54:48.000Z",
+    "report_date": "2008-10-27",
+    "accession": "0001104659-08-065970",
+    "primary_document": "a08-26730_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-08-065970"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,9.01",
+    "filing_date": "2009-01-15",
+    "acceptance_datetime": "2009-01-15T14:26:45.000Z",
+    "report_date": "2009-01-12",
+    "accession": "0001104659-09-002409",
+    "primary_document": "a09-2955_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,2.02,9.01; accession=0001104659-09-002409"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-02-09",
+    "acceptance_datetime": "2009-02-09T21:40:20.000Z",
+    "report_date": "2009-02-09",
+    "accession": "0001104659-09-007673",
+    "primary_document": "a09-4959_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-09-007673"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2009-02-10",
+    "acceptance_datetime": "2009-02-10T21:06:03.000Z",
+    "report_date": "2009-02-05",
+    "accession": "0001104659-09-007969",
+    "primary_document": "a09-4959_28k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001104659-09-007969"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2009-02-19",
+    "acceptance_datetime": "2009-02-19T21:31:41.000Z",
+    "report_date": "2009-02-18",
+    "accession": "0001104659-09-010783",
+    "primary_document": "a09-5707_48k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-09-010783"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,8.01",
+    "filing_date": "2009-03-09",
+    "acceptance_datetime": "2009-03-09T20:15:30.000Z",
+    "report_date": "2009-03-03",
+    "accession": "0001104659-09-015534",
+    "primary_document": "a09-7287_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,3.02,8.01; accession=0001104659-09-015534"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,3.02,9.01",
+    "filing_date": "2009-03-13",
+    "acceptance_datetime": "2009-03-12T22:49:44.000Z",
+    "report_date": "2009-03-12",
+    "accession": "0001047469-09-002579",
+    "primary_document": "a2191551z8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.01,3.02,9.01; accession=0001047469-09-002579"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-04-16",
+    "acceptance_datetime": "2009-04-16T20:36:20.000Z",
+    "report_date": "2009-04-16",
+    "accession": "0001104659-09-024599",
+    "primary_document": "a09-10088_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-09-024599"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.01,9.01",
+    "filing_date": "2009-05-11",
+    "acceptance_datetime": "2009-05-11T20:30:34.000Z",
+    "report_date": "2009-03-12",
+    "accession": "0001104659-09-031528",
+    "primary_document": "a09-12179_18ka.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.01,9.01; accession=0001104659-09-031528"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2009-05-19",
+    "acceptance_datetime": "2009-05-19T20:15:27.000Z",
+    "report_date": "2009-05-14",
+    "accession": "0001104659-09-033604",
+    "primary_document": "a09-13685_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0001104659-09-033604"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02",
+    "filing_date": "2009-06-11",
+    "acceptance_datetime": "2009-06-11T20:10:36.000Z",
+    "report_date": "2009-06-05",
+    "accession": "0001104659-09-037765",
+    "primary_document": "a09-15578_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,3.02; accession=0001104659-09-037765"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-07-09",
+    "acceptance_datetime": "2009-07-09T20:31:25.000Z",
+    "report_date": "2009-07-06",
+    "accession": "0001104659-09-042634",
+    "primary_document": "a09-17784_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-09-042634"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2009-08-04",
+    "acceptance_datetime": "2009-08-04T20:31:40.000Z",
+    "report_date": "2009-07-30",
+    "accession": "0001104659-09-046933",
+    "primary_document": "a09-20948_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0001104659-09-046933"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-08-05",
+    "acceptance_datetime": "2009-08-05T20:48:52.000Z",
+    "report_date": "2009-08-05",
+    "accession": "0001104659-09-047401",
+    "primary_document": "a09-20948_28k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-09-047401"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,5.02,8.01",
+    "filing_date": "2009-10-06",
+    "acceptance_datetime": "2009-10-06T20:30:41.000Z",
+    "report_date": "2009-09-30",
+    "accession": "0001104659-09-057968",
+    "primary_document": "a09-30186_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,2.03,5.02,8.01; accession=0001104659-09-057968"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-10-26",
+    "acceptance_datetime": "2009-10-26T20:41:51.000Z",
+    "report_date": "2009-10-26",
+    "accession": "0001104659-09-060365",
+    "primary_document": "a09-32161_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-09-060365"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2009-11-03",
+    "acceptance_datetime": "2009-11-03T13:46:02.000Z",
+    "report_date": "2009-10-28",
+    "accession": "0001104659-09-062024",
+    "primary_document": "a09-32733_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0001104659-09-062024"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2009-11-16",
+    "acceptance_datetime": "2009-11-16T21:30:16.000Z",
+    "report_date": "2009-11-10",
+    "accession": "0001104659-09-065256",
+    "primary_document": "a09-30792_38k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=3.02; accession=0001104659-09-065256"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2009-12-04",
+    "acceptance_datetime": "2009-12-04T21:31:17.000Z",
+    "report_date": "2009-12-02",
+    "accession": "0001104659-09-068618",
+    "primary_document": "a09-34385_38k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-09-068618"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-01-11",
+    "acceptance_datetime": "2010-01-11T14:21:08.000Z",
+    "report_date": "2010-01-10",
+    "accession": "0001104659-10-001021",
+    "primary_document": "a10-1554_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-10-001021"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-02-04",
+    "acceptance_datetime": "2010-02-04T21:41:31.000Z",
+    "report_date": "2010-02-04",
+    "accession": "0001104659-10-004957",
+    "primary_document": "a10-3057_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-10-004957"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-04-21",
+    "acceptance_datetime": "2010-04-21T20:37:30.000Z",
+    "report_date": "2010-04-21",
+    "accession": "0001104659-10-021007",
+    "primary_document": "a10-8216_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-10-021007"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,5.07",
+    "filing_date": "2010-05-17",
+    "acceptance_datetime": "2010-05-17T20:30:50.000Z",
+    "report_date": "2010-05-13",
+    "accession": "0001104659-10-029095",
+    "primary_document": "a10-10371_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,5.02,5.07; accession=0001104659-10-029095"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2010-05-25",
+    "acceptance_datetime": "2010-05-25T20:15:40.000Z",
+    "report_date": "2010-05-25",
+    "accession": "0001104659-10-030699",
+    "primary_document": "a10-10919_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-10-030699"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-07-13",
+    "acceptance_datetime": "2010-07-13T20:30:40.000Z",
+    "report_date": "2010-07-09",
+    "accession": "0001104659-10-037843",
+    "primary_document": "a10-13985_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-10-037843"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-07-28",
+    "acceptance_datetime": "2010-07-28T20:31:06.000Z",
+    "report_date": "2010-07-28",
+    "accession": "0001104659-10-040183",
+    "primary_document": "a10-14820_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-10-040183"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2010-08-10",
+    "acceptance_datetime": "2010-08-10T12:26:22.000Z",
+    "report_date": "2010-08-10",
+    "accession": "0001104659-10-043367",
+    "primary_document": "a10-15564_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-10-043367"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2010-09-07",
+    "acceptance_datetime": "2010-09-07T20:27:07.000Z",
+    "report_date": "2010-09-07",
+    "accession": "0001104659-10-047509",
+    "primary_document": "a10-16967_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-10-047509"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2010-09-24",
+    "acceptance_datetime": "2010-09-23T21:39:47.000Z",
+    "report_date": "2010-09-23",
+    "accession": "0001104659-10-049716",
+    "primary_document": "a10-18206_38k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-10-049716"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2010-09-29",
+    "acceptance_datetime": "2010-09-29T20:43:54.000Z",
+    "report_date": "2010-09-28",
+    "accession": "0001104659-10-050532",
+    "primary_document": "a10-18206_58k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001104659-10-050532"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-10-22",
+    "acceptance_datetime": "2010-10-22T20:05:51.000Z",
+    "report_date": "2010-10-18",
+    "accession": "0001104659-10-053291",
+    "primary_document": "a10-19822_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-10-053291"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-10-25",
+    "acceptance_datetime": "2010-10-25T20:57:04.000Z",
+    "report_date": "2010-10-25",
+    "accession": "0001104659-10-053530",
+    "primary_document": "a10-19822_28k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-10-053530"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-01-10",
+    "acceptance_datetime": "2011-01-10T16:01:00.000Z",
+    "report_date": "2011-01-09",
+    "accession": "0001104659-11-000931",
+    "primary_document": "a11-2016_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-11-000931"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2011-01-13",
+    "acceptance_datetime": "2011-01-13T21:31:38.000Z",
+    "report_date": "2011-01-07",
+    "accession": "0001104659-11-001423",
+    "primary_document": "a11-2016_28k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,2.03; accession=0001104659-11-001423"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-02-03",
+    "acceptance_datetime": "2011-02-03T22:09:21.000Z",
+    "report_date": "2011-02-03",
+    "accession": "0001104659-11-004832",
+    "primary_document": "a11-5197_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-11-004832"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-03-01",
+    "acceptance_datetime": "2011-03-01T21:30:22.000Z",
+    "report_date": "2011-02-23",
+    "accession": "0001104659-11-011477",
+    "primary_document": "a11-6975_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-11-011477"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2011-04-07",
+    "acceptance_datetime": "2011-04-07T12:03:12.000Z",
+    "report_date": "2011-04-04",
+    "accession": "0001104659-11-019015",
+    "primary_document": "a11-9901_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0001104659-11-019015"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-05-03",
+    "acceptance_datetime": "2011-05-03T20:53:58.000Z",
+    "report_date": "2011-05-03",
+    "accession": "0001104659-11-025328",
+    "primary_document": "a11-11357_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-11-025328"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2011-05-05",
+    "acceptance_datetime": "2011-05-05T14:03:43.000Z",
+    "report_date": "2011-05-05",
+    "accession": "0001104659-11-026088",
+    "primary_document": "a11-11357_28k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,2.03; accession=0001104659-11-026088"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.05,5.07",
+    "filing_date": "2011-05-18",
+    "acceptance_datetime": "2011-05-18T20:16:03.000Z",
+    "report_date": "2011-05-12",
+    "accession": "0001104659-11-029955",
+    "primary_document": "a11-12655_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02,5.05,5.07; accession=0001104659-11-029955"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2011-05-23",
+    "acceptance_datetime": "2011-05-23T20:31:52.000Z",
+    "report_date": "2011-05-23",
+    "accession": "0001104659-11-030854",
+    "primary_document": "a11-13050_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0001104659-11-030854"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2011-06-17",
+    "acceptance_datetime": "2011-06-17T20:15:23.000Z",
+    "report_date": "2011-06-13",
+    "accession": "0001104659-11-035399",
+    "primary_document": "a11-15109_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0001104659-11-035399"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-07-28",
+    "acceptance_datetime": "2011-07-28T20:44:40.000Z",
+    "report_date": "2011-07-28",
+    "accession": "0001104659-11-041536",
+    "primary_document": "a11-22761_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-11-041536"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2011-08-22",
+    "acceptance_datetime": "2011-08-22T12:01:25.000Z",
+    "report_date": "2011-08-22",
+    "accession": "0001104659-11-048062",
+    "primary_document": "a11-22761_28k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0001104659-11-048062"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-08-30",
+    "acceptance_datetime": "2011-08-30T12:50:36.000Z",
+    "report_date": "2011-08-29",
+    "accession": "0001104659-11-049325",
+    "primary_document": "a11-25206_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-11-049325"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2011-09-20",
+    "acceptance_datetime": "2011-09-20T13:25:53.000Z",
+    "report_date": "2011-09-20",
+    "accession": "0001104659-11-052438",
+    "primary_document": "a11-26699_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0001104659-11-052438"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-10-27",
+    "acceptance_datetime": "2011-10-27T20:20:18.000Z",
+    "report_date": "2011-10-27",
+    "accession": "0001104659-11-058469",
+    "primary_document": "a11-28601_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-11-058469"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-12-16",
+    "acceptance_datetime": "2011-12-16T21:10:57.000Z",
+    "report_date": "2011-12-14",
+    "accession": "0001104659-11-069922",
+    "primary_document": "a11-31865_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-11-069922"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2012-01-31",
+    "acceptance_datetime": "2012-01-31T21:16:34.000Z",
+    "report_date": "2012-01-31",
+    "accession": "0001104659-12-005497",
+    "primary_document": "a12-3903_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0001104659-12-005497"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-02-02",
+    "acceptance_datetime": "2012-02-02T21:30:28.000Z",
+    "report_date": "2012-02-02",
+    "accession": "0001104659-12-006229",
+    "primary_document": "a12-3737_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-12-006229"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-04-26",
+    "acceptance_datetime": "2012-04-26T20:20:17.000Z",
+    "report_date": "2012-04-26",
+    "accession": "0001104659-12-029068",
+    "primary_document": "a12-10400_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-12-029068"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.07",
+    "filing_date": "2012-05-17",
+    "acceptance_datetime": "2012-05-17T20:10:34.000Z",
+    "report_date": "2012-05-16",
+    "accession": "0001104659-12-038145",
+    "primary_document": "a12-12450_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,5.07; accession=0001104659-12-038145"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2012-05-29",
+    "acceptance_datetime": "2012-05-29T20:16:11.000Z",
+    "report_date": "2012-05-24",
+    "accession": "0001104659-12-040394",
+    "primary_document": "a12-13228_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-12-040394"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2012-06-08",
+    "acceptance_datetime": "2012-06-08T20:21:25.000Z",
+    "report_date": "2012-06-08",
+    "accession": "0001104659-12-042599",
+    "primary_document": "a12-14437_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-12-042599"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-07-30",
+    "acceptance_datetime": "2012-07-30T20:32:21.000Z",
+    "report_date": "2012-07-30",
+    "accession": "0001104659-12-052252",
+    "primary_document": "a12-16909_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-12-052252"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2012-09-20",
+    "acceptance_datetime": "2012-09-20T20:44:47.000Z",
+    "report_date": "2012-09-14",
+    "accession": "0001104659-12-064604",
+    "primary_document": "a12-21741_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001104659-12-064604"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-11-01",
+    "acceptance_datetime": "2012-11-01T20:34:51.000Z",
+    "report_date": "2012-11-01",
+    "accession": "0001104659-12-073222",
+    "primary_document": "a12-25209_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-12-073222"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-01-29",
+    "acceptance_datetime": "2013-01-29T21:47:07.000Z",
+    "report_date": "2013-01-29",
+    "accession": "0001104659-13-005550",
+    "primary_document": "a13-3828_18k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-005550"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2013-02-11",
+    "acceptance_datetime": "2013-02-11T21:05:05.000Z",
+    "report_date": "2013-02-05",
+    "accession": "0000875320-13-000003",
+    "primary_document": "february2013-8xk.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.03,9.01; accession=0000875320-13-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-04-30",
+    "acceptance_datetime": "2013-04-30T20:24:01.000Z",
+    "report_date": "2013-04-30",
+    "accession": "0000875320-13-000019",
+    "primary_document": "vrtx8-k_04302013.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-13-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,5.07,9.01",
+    "filing_date": "2013-05-08",
+    "acceptance_datetime": "2013-05-08T20:35:18.000Z",
+    "report_date": "2013-05-08",
+    "accession": "0000875320-13-000025",
+    "primary_document": "a8-kx05082013.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,5.02,5.07,9.01; accession=0000875320-13-000025"
+  },
+  {
+    "form": "8-K",
+    "items": "2.04,3.02,8.01",
+    "filing_date": "2013-05-17",
+    "acceptance_datetime": "2013-05-17T12:41:24.000Z",
+    "report_date": "2013-05-17",
+    "accession": "0000875320-13-000027",
+    "primary_document": "a8-kx051713.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.04,3.02,8.01; accession=0000875320-13-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-07-29",
+    "acceptance_datetime": "2013-07-29T20:23:43.000Z",
+    "report_date": "2013-07-29",
+    "accession": "0000875320-13-000036",
+    "primary_document": "july292013_form8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-13-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,2.05,9.01",
+    "filing_date": "2013-10-29",
+    "acceptance_datetime": "2013-10-29T12:18:00.000Z",
+    "report_date": "2013-10-25",
+    "accession": "0000875320-13-000042",
+    "primary_document": "oct292013_form8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,2.05,9.01; accession=0000875320-13-000042"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2013-11-22",
+    "acceptance_datetime": "2013-11-22T21:19:31.000Z",
+    "report_date": "2013-11-19",
+    "accession": "0000875320-13-000047",
+    "primary_document": "nov222013_form8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0000875320-13-000047"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-01-13",
+    "acceptance_datetime": "2014-01-13T21:47:45.000Z",
+    "report_date": "2014-01-12",
+    "accession": "0000875320-14-000005",
+    "primary_document": "form8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-14-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,2.02,2.06,9.01",
+    "filing_date": "2014-01-29",
+    "acceptance_datetime": "2014-01-29T21:38:27.000Z",
+    "report_date": "2014-01-27",
+    "accession": "0000875320-14-000007",
+    "primary_document": "form8-ker2013xq4.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.01,2.02,2.06,9.01; accession=0000875320-14-000007"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.01,9.01",
+    "filing_date": "2014-01-31",
+    "acceptance_datetime": "2014-01-31T21:33:55.000Z",
+    "report_date": "2014-01-27",
+    "accession": "0000875320-14-000010",
+    "primary_document": "form8-ka_er2013q4.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.01,9.01; accession=0000875320-14-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2014-02-05",
+    "acceptance_datetime": "2014-02-05T21:04:26.000Z",
+    "report_date": "2014-02-05",
+    "accession": "0000875320-14-000012",
+    "primary_document": "vrtx8-kxfeb2014.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.03,9.01; accession=0000875320-14-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-05-01",
+    "acceptance_datetime": "2014-05-01T20:12:15.000Z",
+    "report_date": "2014-05-01",
+    "accession": "0000875320-14-000024",
+    "primary_document": "may12014_form8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-14-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.07",
+    "filing_date": "2014-05-07",
+    "acceptance_datetime": "2014-05-07T20:21:42.000Z",
+    "report_date": "2014-05-07",
+    "accession": "0000875320-14-000028",
+    "primary_document": "a8-k_2014annualmeeting.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,5.07; accession=0000875320-14-000028"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2014-06-19",
+    "acceptance_datetime": "2014-06-19T21:17:01.000Z",
+    "report_date": "2014-06-13",
+    "accession": "0000875320-14-000030",
+    "primary_document": "a8k-june13.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0000875320-14-000030"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-06-25",
+    "acceptance_datetime": "2014-06-25T20:16:52.000Z",
+    "report_date": "2014-06-24",
+    "accession": "0000875320-14-000038",
+    "primary_document": "a8-kxtrialresults.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0000875320-14-000038"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2014-07-09",
+    "acceptance_datetime": "2014-07-09T20:48:21.000Z",
+    "report_date": "2014-07-09",
+    "accession": "0000875320-14-000040",
+    "primary_document": "a8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,2.03; accession=0000875320-14-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-07-11",
+    "acceptance_datetime": "2014-07-10T23:11:51.000Z",
+    "report_date": "2014-07-09",
+    "accession": "0000875320-14-000042",
+    "primary_document": "a8-k1.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0000875320-14-000042"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-07-29",
+    "acceptance_datetime": "2014-07-29T20:22:49.000Z",
+    "report_date": "2014-07-29",
+    "accession": "0000875320-14-000053",
+    "primary_document": "june30_form8-k1.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-14-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-10-28",
+    "acceptance_datetime": "2014-10-28T20:29:18.000Z",
+    "report_date": "2014-10-28",
+    "accession": "0000875320-14-000061",
+    "primary_document": "a8-k2.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-14-000061"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2014-12-15",
+    "acceptance_datetime": "2014-12-15T21:52:28.000Z",
+    "report_date": "2014-12-09",
+    "accession": "0000875320-14-000066",
+    "primary_document": "a8-k12152014.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02,9.01; accession=0000875320-14-000066"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-01-12",
+    "acceptance_datetime": "2015-01-12T12:11:49.000Z",
+    "report_date": "2015-01-12",
+    "accession": "0000875320-15-000002",
+    "primary_document": "form8-k_jpm2015.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-15-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-01-20",
+    "acceptance_datetime": "2015-01-20T21:58:14.000Z",
+    "report_date": "2015-01-20",
+    "accession": "0000875320-15-000006",
+    "primary_document": "a8-kcloresig.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0000875320-15-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-01-28",
+    "acceptance_datetime": "2015-01-28T21:43:06.000Z",
+    "report_date": "2015-01-28",
+    "accession": "0000875320-15-000009",
+    "primary_document": "a8-kq42014.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-15-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-04-29",
+    "acceptance_datetime": "2015-04-29T20:10:55.000Z",
+    "report_date": "2015-04-29",
+    "accession": "0000875320-15-000023",
+    "primary_document": "a8-kq12015.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-15-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.07",
+    "filing_date": "2015-06-04",
+    "acceptance_datetime": "2015-06-04T15:43:48.000Z",
+    "report_date": "2015-06-04",
+    "accession": "0000875320-15-000033",
+    "primary_document": "a2015annualmeetingresults.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,5.07; accession=0000875320-15-000033"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2015-06-09",
+    "acceptance_datetime": "2015-06-09T12:58:48.000Z",
+    "report_date": "2015-06-04",
+    "accession": "0000875320-15-000035",
+    "primary_document": "a8-kparion.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0000875320-15-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-06-12",
+    "acceptance_datetime": "2015-06-12T20:23:22.000Z",
+    "report_date": "2015-06-10",
+    "accession": "0000875320-15-000037",
+    "primary_document": "a8-kwrresignation.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0000875320-15-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-07-02",
+    "acceptance_datetime": "2015-07-02T18:40:14.000Z",
+    "report_date": "2015-07-02",
+    "accession": "0000875320-15-000040",
+    "primary_document": "a8-korkambiapproval.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0000875320-15-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-07-29",
+    "acceptance_datetime": "2015-07-29T20:26:06.000Z",
+    "report_date": "2015-07-29",
+    "accession": "0000875320-15-000042",
+    "primary_document": "a8-kq22015.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-15-000042"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2015-10-27",
+    "acceptance_datetime": "2015-10-27T20:33:13.000Z",
+    "report_date": "2015-10-23",
+    "accession": "0000875320-15-000051",
+    "primary_document": "a8-kcreditagreement.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0000875320-15-000051"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-10-28",
+    "acceptance_datetime": "2015-10-28T20:33:14.000Z",
+    "report_date": "2015-10-28",
+    "accession": "0000875320-15-000053",
+    "primary_document": "a8-kq32015.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-15-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2015-12-08",
+    "acceptance_datetime": "2015-12-08T21:14:13.000Z",
+    "report_date": "2015-12-02",
+    "accession": "0000875320-15-000058",
+    "primary_document": "a8-ksandiegolease3.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,2.03; accession=0000875320-15-000058"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-01-11",
+    "acceptance_datetime": "2016-01-11T12:14:36.000Z",
+    "report_date": "2016-01-10",
+    "accession": "0000875320-16-000061",
+    "primary_document": "form8-k_jpm2016.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-16-000061"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-01-27",
+    "acceptance_datetime": "2016-01-27T21:27:32.000Z",
+    "report_date": "2016-01-27",
+    "accession": "0000875320-16-000063",
+    "primary_document": "a8-kq42015.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-16-000063"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.03,9.01",
+    "filing_date": "2016-04-27",
+    "acceptance_datetime": "2016-04-27T20:13:10.000Z",
+    "report_date": "2016-04-26",
+    "accession": "0000875320-16-000070",
+    "primary_document": "a8-kq12016.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,5.03,9.01; accession=0000875320-16-000070"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2016-06-15",
+    "acceptance_datetime": "2016-06-15T20:34:58.000Z",
+    "report_date": "2016-06-15",
+    "accession": "0000875320-16-000083",
+    "primary_document": "form8-kannualmeeting2016.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02,5.07; accession=0000875320-16-000083"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-07-27",
+    "acceptance_datetime": "2016-07-27T20:16:15.000Z",
+    "report_date": "2016-07-27",
+    "accession": "0000875320-16-000088",
+    "primary_document": "a8-kq22016.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-16-000088"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01",
+    "filing_date": "2016-10-14",
+    "acceptance_datetime": "2016-10-14T12:04:09.000Z",
+    "report_date": "2016-10-13",
+    "accession": "0000875320-16-000096",
+    "primary_document": "a8-kxcfftxoctober2016.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,8.01; accession=0000875320-16-000096"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,2.04",
+    "filing_date": "2016-10-17",
+    "acceptance_datetime": "2016-10-17T12:39:25.000Z",
+    "report_date": "2016-10-13",
+    "accession": "0000875320-16-000098",
+    "primary_document": "a8-kbankofamericacreditagr.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,1.02,2.03,2.04; accession=0000875320-16-000098"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-10-25",
+    "acceptance_datetime": "2016-10-25T20:11:44.000Z",
+    "report_date": "2016-10-25",
+    "accession": "0000875320-16-000104",
+    "primary_document": "a8-kq32016.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-16-000104"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2016-12-02",
+    "acceptance_datetime": "2016-12-02T13:41:38.000Z",
+    "report_date": "2016-11-29",
+    "accession": "0000875320-16-000112",
+    "primary_document": "a8-kofficerupdates.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02,9.01; accession=0000875320-16-000112"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-01-09",
+    "acceptance_datetime": "2017-01-09T12:21:49.000Z",
+    "report_date": "2017-01-08",
+    "accession": "0000875320-17-000003",
+    "primary_document": "form8-k_jpm2017.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-17-000003"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.02,9.01",
+    "filing_date": "2017-01-09",
+    "acceptance_datetime": "2017-01-09T14:17:39.000Z",
+    "report_date": "2017-01-08",
+    "accession": "0000875320-17-000005",
+    "primary_document": "form8-k_jpm2017.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-17-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2017-01-11",
+    "acceptance_datetime": "2017-01-11T14:08:43.000Z",
+    "report_date": "2017-01-10",
+    "accession": "0000875320-17-000007",
+    "primary_document": "oncology8-kjan2017.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0000875320-17-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-01-25",
+    "acceptance_datetime": "2017-01-25T21:25:18.000Z",
+    "report_date": "2017-01-25",
+    "accession": "0000875320-17-000009",
+    "primary_document": "a8-kq42016.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-17-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2017-03-06",
+    "acceptance_datetime": "2017-03-06T21:54:02.000Z",
+    "report_date": "2017-03-03",
+    "accession": "0000875320-17-000022",
+    "primary_document": "concert8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,9.01; accession=0000875320-17-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-03-29",
+    "acceptance_datetime": "2017-03-29T11:27:13.000Z",
+    "report_date": "2017-03-28",
+    "accession": "0000875320-17-000025",
+    "primary_document": "tezacaftortrial8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0000875320-17-000025"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-04-27",
+    "acceptance_datetime": "2017-04-27T20:09:45.000Z",
+    "report_date": "2017-04-27",
+    "accession": "0000875320-17-000027",
+    "primary_document": "a8-kq12017.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-17-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2017-05-22",
+    "acceptance_datetime": "2017-05-22T11:56:37.000Z",
+    "report_date": "2017-05-19",
+    "accession": "0000875320-17-000036",
+    "primary_document": "concert8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0000875320-17-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.07",
+    "filing_date": "2017-06-08",
+    "acceptance_datetime": "2017-06-08T20:41:59.000Z",
+    "report_date": "2017-06-08",
+    "accession": "0000875320-17-000039",
+    "primary_document": "a8-k2017annualmeeting.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,5.07; accession=0000875320-17-000039"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-07-26",
+    "acceptance_datetime": "2017-07-26T20:23:56.000Z",
+    "report_date": "2017-07-26",
+    "accession": "0000875320-17-000043",
+    "primary_document": "copyof8-kq12017.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-17-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-09-06",
+    "acceptance_datetime": "2017-09-06T20:57:33.000Z",
+    "report_date": "2017-09-06",
+    "accession": "0000875320-17-000050",
+    "primary_document": "a8-kgraney.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0000875320-17-000050"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,2.02,2.06,9.01",
+    "filing_date": "2017-10-25",
+    "acceptance_datetime": "2017-10-25T20:09:38.000Z",
+    "report_date": "2017-10-23",
+    "accession": "0000875320-17-000054",
+    "primary_document": "a8-kq32017.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.01,2.02,2.06,9.01; accession=0000875320-17-000054"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.01,9.01",
+    "filing_date": "2017-10-27",
+    "acceptance_datetime": "2017-10-27T20:03:47.000Z",
+    "report_date": "2017-10-23",
+    "accession": "0000875320-17-000057",
+    "primary_document": "a8-ka_proforma.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.01,9.01; accession=0000875320-17-000057"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-01-31",
+    "acceptance_datetime": "2018-01-31T21:11:33.000Z",
+    "report_date": "2018-01-31",
+    "accession": "0000875320-18-000002",
+    "primary_document": "a8-kq42017.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-18-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2018-02-12",
+    "acceptance_datetime": "2018-02-12T22:01:50.000Z",
+    "report_date": "2018-02-12",
+    "accession": "0000875320-18-000005",
+    "primary_document": "a8-ktezapproval.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=7.01; accession=0000875320-18-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-04-26",
+    "acceptance_datetime": "2018-04-26T20:10:52.000Z",
+    "report_date": "2018-04-26",
+    "accession": "0000875320-18-000011",
+    "primary_document": "a8-kq12018.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-18-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.07",
+    "filing_date": "2018-05-18",
+    "acceptance_datetime": "2018-05-18T20:07:03.000Z",
+    "report_date": "2018-05-17",
+    "accession": "0000875320-18-000016",
+    "primary_document": "a8-k2018annualmeeting.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,5.07; accession=0000875320-18-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-07-25",
+    "acceptance_datetime": "2018-07-25T20:08:32.000Z",
+    "report_date": "2018-07-25",
+    "accession": "0000875320-18-000019",
+    "primary_document": "a8-kq22018.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-18-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-10-24",
+    "acceptance_datetime": "2018-10-24T20:13:12.000Z",
+    "report_date": "2018-10-24",
+    "accession": "0000875320-18-000026",
+    "primary_document": "a8-kq32018.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-18-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-12-17",
+    "acceptance_datetime": "2018-12-17T13:19:15.000Z",
+    "report_date": "2018-12-13",
+    "accession": "0001341004-18-000674",
+    "primary_document": "8k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001341004-18-000674"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-01-23",
+    "acceptance_datetime": "2019-01-23T21:20:29.000Z",
+    "report_date": "2019-01-23",
+    "accession": "0001341004-19-000045",
+    "primary_document": "form8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0001341004-19-000045"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-05",
+    "acceptance_datetime": "2019-02-05T21:15:21.000Z",
+    "report_date": "2019-02-05",
+    "accession": "0000875320-19-000003",
+    "primary_document": "a8-kq42018.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-19-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-02-22",
+    "acceptance_datetime": "2019-02-22T21:56:12.000Z",
+    "report_date": "2019-02-21",
+    "accession": "0000875320-19-000009",
+    "primary_document": "a8-kxdirector2019.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0000875320-19-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-04-02",
+    "acceptance_datetime": "2019-04-02T21:21:58.000Z",
+    "report_date": "2019-03-28",
+    "accession": "0000875320-19-000012",
+    "primary_document": "a8-kxwagner.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0000875320-19-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-04-30",
+    "acceptance_datetime": "2019-04-30T20:09:23.000Z",
+    "report_date": "2019-04-30",
+    "accession": "0000875320-19-000017",
+    "primary_document": "a8-kq12019.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-19-000017"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2019-06-05",
+    "acceptance_datetime": "2019-06-05T20:49:10.000Z",
+    "report_date": "2019-06-05",
+    "accession": "0000875320-19-000021",
+    "primary_document": "a8-k2019annualmeeting.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02,5.07; accession=0000875320-19-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2019-06-07",
+    "acceptance_datetime": "2019-06-07T20:23:13.000Z",
+    "report_date": "2019-06-06",
+    "accession": "0000875320-19-000023",
+    "primary_document": "june2019.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0000875320-19-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-07-25",
+    "acceptance_datetime": "2019-07-25T20:45:11.000Z",
+    "report_date": "2019-07-24",
+    "accession": "0000875320-19-000026",
+    "primary_document": "a8-kxceoannouncement.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0000875320-19-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-07-31",
+    "acceptance_datetime": "2019-07-31T20:10:43.000Z",
+    "report_date": "2019-07-31",
+    "accession": "0000875320-19-000031",
+    "primary_document": "a8-kq22019.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-19-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2019-09-03",
+    "acceptance_datetime": "2019-09-03T12:49:12.000Z",
+    "report_date": "2019-08-30",
+    "accession": "0000875320-19-000043",
+    "primary_document": "a8-kaug2019semma.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0000875320-19-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,2.04",
+    "filing_date": "2019-09-17",
+    "acceptance_datetime": "2019-09-17T21:08:24.000Z",
+    "report_date": "2019-09-17",
+    "accession": "0000875320-19-000046",
+    "primary_document": "a8-ksep2019creditfacil.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,1.02,2.03,2.04; accession=0000875320-19-000046"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2019-10-21",
+    "acceptance_datetime": "2019-10-21T20:02:16.000Z",
+    "report_date": "2019-10-21",
+    "accession": "0000875320-19-000048",
+    "primary_document": "triple.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=7.01; accession=0000875320-19-000048"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-10-24",
+    "acceptance_datetime": "2019-10-24T11:23:46.000Z",
+    "report_date": "2019-10-24",
+    "accession": "0000875320-19-000050",
+    "primary_document": "a8-k801oct2019.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0000875320-19-000050"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-10-30",
+    "acceptance_datetime": "2019-10-30T20:09:09.000Z",
+    "report_date": "2019-10-30",
+    "accession": "0000875320-19-000053",
+    "primary_document": "a8-kq32019.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-19-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-01-30",
+    "acceptance_datetime": "2020-01-30T21:06:02.000Z",
+    "report_date": "2020-01-30",
+    "accession": "0000875320-20-000003",
+    "primary_document": "a8-kq42019.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-20-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2020-04-01",
+    "acceptance_datetime": "2020-04-01T20:31:11.000Z",
+    "report_date": "2020-04-01",
+    "accession": "0000875320-20-000011",
+    "primary_document": "transition8-k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02,9.01; accession=0000875320-20-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-04-29",
+    "acceptance_datetime": "2020-04-29T20:14:26.000Z",
+    "report_date": "2020-04-29",
+    "accession": "0000875320-20-000014",
+    "primary_document": "a8-kq12020.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-20-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2020-06-03",
+    "acceptance_datetime": "2020-06-03T20:21:13.000Z",
+    "report_date": "2020-06-03",
+    "accession": "0000875320-20-000023",
+    "primary_document": "a8-k2020annualmeeting.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.07; accession=0000875320-20-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-07-30",
+    "acceptance_datetime": "2020-07-30T22:45:33.000Z",
+    "report_date": "2020-07-30",
+    "accession": "0000875320-20-000027",
+    "primary_document": "vrtx-20200730.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-20-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2020-09-21",
+    "acceptance_datetime": "2020-09-21T20:14:30.000Z",
+    "report_date": "2020-09-18",
+    "accession": "0000875320-20-000037",
+    "primary_document": "vrtx-20200918.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,2.03; accession=0000875320-20-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-10-29",
+    "acceptance_datetime": "2020-10-29T20:04:56.000Z",
+    "report_date": "2020-10-29",
+    "accession": "0000875320-20-000041",
+    "primary_document": "vrtx-20201029.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-20-000041"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2020-11-20",
+    "acceptance_datetime": "2020-11-20T13:48:17.000Z",
+    "report_date": "2020-11-20",
+    "accession": "0000875320-20-000045",
+    "primary_document": "vrtx-20201120.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0000875320-20-000045"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-01",
+    "acceptance_datetime": "2021-02-01T21:05:15.000Z",
+    "report_date": "2021-02-01",
+    "accession": "0000875320-21-000003",
+    "primary_document": "vrtx-20210201.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-21-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2021-04-20",
+    "acceptance_datetime": "2021-04-20T12:03:42.000Z",
+    "report_date": "2021-04-16",
+    "accession": "0000875320-21-000009",
+    "primary_document": "vrtx-20210416.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0000875320-21-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-04-29",
+    "acceptance_datetime": "2021-04-29T20:09:10.000Z",
+    "report_date": "2021-04-29",
+    "accession": "0000875320-21-000012",
+    "primary_document": "vrtx-20210429.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-21-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2021-05-19",
+    "acceptance_datetime": "2021-05-19T20:02:58.000Z",
+    "report_date": "2021-05-19",
+    "accession": "0000875320-21-000018",
+    "primary_document": "vrtx-20210519.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.07; accession=0000875320-21-000018"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-06-24",
+    "acceptance_datetime": "2021-06-24T11:41:59.000Z",
+    "report_date": "2021-06-23",
+    "accession": "0000875320-21-000020",
+    "primary_document": "vrtx-20210623.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0000875320-21-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-07-29",
+    "acceptance_datetime": "2021-07-29T20:05:10.000Z",
+    "report_date": "2021-07-29",
+    "accession": "0000875320-21-000024",
+    "primary_document": "vrtx-20210729.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-21-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-02",
+    "acceptance_datetime": "2021-11-02T20:05:52.000Z",
+    "report_date": "2021-11-02",
+    "accession": "0000875320-21-000031",
+    "primary_document": "vrtx-20211102.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-21-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-01-26",
+    "acceptance_datetime": "2022-01-26T21:05:35.000Z",
+    "report_date": "2022-01-26",
+    "accession": "0000875320-22-000003",
+    "primary_document": "vrtx-20220126.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-22-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-05-05",
+    "acceptance_datetime": "2022-05-05T20:04:00.000Z",
+    "report_date": "2022-05-05",
+    "accession": "0000875320-22-000011",
+    "primary_document": "vrtx-20220505.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-22-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2022-05-18",
+    "acceptance_datetime": "2022-05-18T20:01:38.000Z",
+    "report_date": "2022-05-18",
+    "accession": "0001193125-22-154021",
+    "primary_document": "d272923d8k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.07; accession=0001193125-22-154021"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2022-05-23",
+    "acceptance_datetime": "2022-05-23T12:41:33.000Z",
+    "report_date": "2022-05-23",
+    "accession": "0000875320-22-000017",
+    "primary_document": "vrtx-20220523.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0000875320-22-000017"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03",
+    "filing_date": "2022-07-05",
+    "acceptance_datetime": "2022-07-05T20:08:34.000Z",
+    "report_date": "2022-07-01",
+    "accession": "0000875320-22-000019",
+    "primary_document": "vrtx-20220701.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,1.02,2.03; accession=0000875320-22-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-07-11",
+    "acceptance_datetime": "2022-07-11T12:14:04.000Z",
+    "report_date": "2022-07-09",
+    "accession": "0000875320-22-000022",
+    "primary_document": "vrtx-20220709.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0000875320-22-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-08-04",
+    "acceptance_datetime": "2022-08-04T20:08:20.000Z",
+    "report_date": "2022-08-04",
+    "accession": "0000875320-22-000026",
+    "primary_document": "vrtx-20220804.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-22-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-10-27",
+    "acceptance_datetime": "2022-10-27T20:06:55.000Z",
+    "report_date": "2022-10-27",
+    "accession": "0000875320-22-000036",
+    "primary_document": "vrtx-20221027.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-22-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-02-07",
+    "acceptance_datetime": "2023-02-07T21:07:17.000Z",
+    "report_date": "2023-02-07",
+    "accession": "0000875320-23-000004",
+    "primary_document": "vrtx-20230207.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-23-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-01",
+    "acceptance_datetime": "2023-05-01T20:08:27.000Z",
+    "report_date": "2023-05-01",
+    "accession": "0000875320-23-000010",
+    "primary_document": "vrtx-20230501.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-23-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2023-05-18",
+    "acceptance_datetime": "2023-05-18T12:56:59.000Z",
+    "report_date": "2023-05-17",
+    "accession": "0000875320-23-000015",
+    "primary_document": "vrtx-20230517.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.07; accession=0000875320-23-000015"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-08-01",
+    "acceptance_datetime": "2023-08-01T20:03:38.000Z",
+    "report_date": "2023-08-01",
+    "accession": "0000875320-23-000019",
+    "primary_document": "vrtx-20230801.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-23-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-10-05",
+    "acceptance_datetime": "2023-10-05T20:01:39.000Z",
+    "report_date": "2023-10-03",
+    "accession": "0000875320-23-000023",
+    "primary_document": "vrtx-20231003.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0000875320-23-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-11-06",
+    "acceptance_datetime": "2023-11-06T21:05:23.000Z",
+    "report_date": "2023-11-06",
+    "accession": "0000875320-23-000029",
+    "primary_document": "vrtx-20231106.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-23-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-12-05",
+    "acceptance_datetime": "2023-12-05T21:14:26.000Z",
+    "report_date": "2023-12-05",
+    "accession": "0000875320-23-000047",
+    "primary_document": "vrtx-20231205.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0000875320-23-000047"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2023-12-08",
+    "acceptance_datetime": "2023-12-08T17:59:09.000Z",
+    "report_date": "2023-12-08",
+    "accession": "0000875320-23-000054",
+    "primary_document": "vrtx-20231208.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0000875320-23-000054"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-05",
+    "acceptance_datetime": "2024-02-05T21:09:48.000Z",
+    "report_date": "2024-02-05",
+    "accession": "0000875320-24-000012",
+    "primary_document": "vrtx-20240205.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-24-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2024-04-11",
+    "acceptance_datetime": "2024-04-11T11:13:31.000Z",
+    "report_date": "2024-04-10",
+    "accession": "0001193125-24-092475",
+    "primary_document": "d752930d8k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-24-092475"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-05-06",
+    "acceptance_datetime": "2024-05-06T20:03:09.000Z",
+    "report_date": "2024-05-06",
+    "accession": "0000875320-24-000137",
+    "primary_document": "vrtx-20240506.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-24-000137"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2024-05-15",
+    "acceptance_datetime": "2024-05-15T20:12:18.000Z",
+    "report_date": "2024-05-15",
+    "accession": "0000875320-24-000142",
+    "primary_document": "vrtx-20240515.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.07; accession=0000875320-24-000142"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-05-20",
+    "acceptance_datetime": "2024-05-20T12:36:00.000Z",
+    "report_date": "2024-05-20",
+    "accession": "0001193125-24-142278",
+    "primary_document": "d818729d8k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-142278"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-06-27",
+    "acceptance_datetime": "2024-06-27T20:05:51.000Z",
+    "report_date": "2024-06-27",
+    "accession": "0000875320-24-000178",
+    "primary_document": "vrtx-20240627.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0000875320-24-000178"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-08-01",
+    "acceptance_datetime": "2024-08-01T20:05:43.000Z",
+    "report_date": "2024-08-01",
+    "accession": "0000875320-24-000193",
+    "primary_document": "vrtx-20240801.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-24-000193"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2024-08-16",
+    "acceptance_datetime": "2024-08-16T20:04:13.000Z",
+    "report_date": "2024-08-15",
+    "accession": "0000875320-24-000207",
+    "primary_document": "vrtx-20240815.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01; accession=0000875320-24-000207"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-11-04",
+    "acceptance_datetime": "2024-11-04T21:02:42.000Z",
+    "report_date": "2024-11-04",
+    "accession": "0000875320-24-000221",
+    "primary_document": "vrtx-20241104.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-24-000221"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2024-12-20",
+    "acceptance_datetime": "2024-12-20T20:51:45.000Z",
+    "report_date": "2024-12-20",
+    "accession": "0000875320-24-000231",
+    "primary_document": "vrtx-20241220.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=7.01; accession=0000875320-24-000231"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2025-02-10",
+    "acceptance_datetime": "2025-02-10T21:08:20.000Z",
+    "report_date": "2025-02-04",
+    "accession": "0000875320-25-000029",
+    "primary_document": "vrtx-20250204.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0000875320-25-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-03-28",
+    "acceptance_datetime": "2025-03-28T20:08:01.000Z",
+    "report_date": "2025-03-28",
+    "accession": "0000875320-25-000156",
+    "primary_document": "vrtx-20250328.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0000875320-25-000156"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-05-05",
+    "acceptance_datetime": "2025-05-05T20:10:03.000Z",
+    "report_date": "2025-05-05",
+    "accession": "0000875320-25-000171",
+    "primary_document": "vrtx-20250505.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-25-000171"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2025-05-14",
+    "acceptance_datetime": "2025-05-14T20:08:09.000Z",
+    "report_date": "2025-05-14",
+    "accession": "0000875320-25-000194",
+    "primary_document": "vrtx-20250514.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.07; accession=0000875320-25-000194"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-05-19",
+    "acceptance_datetime": "2025-05-19T20:24:32.000Z",
+    "report_date": "2025-05-19",
+    "accession": "0000875320-25-000199",
+    "primary_document": "vrtx-20250519.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0000875320-25-000199"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2025-08-04",
+    "acceptance_datetime": "2025-08-04T20:06:07.000Z",
+    "report_date": "2025-08-04",
+    "accession": "0000875320-25-000213",
+    "primary_document": "vrtx-20250804.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0000875320-25-000213"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-11-03",
+    "acceptance_datetime": "2025-11-03T21:06:19.000Z",
+    "report_date": "2025-11-03",
+    "accession": "0000875320-25-000230",
+    "primary_document": "vrtx-20251103.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-25-000230"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-02-12",
+    "acceptance_datetime": "2026-02-12T21:04:19.000Z",
+    "report_date": "2026-02-12",
+    "accession": "0000875320-26-000034",
+    "primary_document": "vrtx-20260212.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-26-000034"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2026-03-31",
+    "acceptance_datetime": "2026-03-31T20:03:47.000Z",
+    "report_date": "2026-03-31",
+    "accession": "0000875320-26-000147",
+    "primary_document": "vrtx-20260331.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=8.01; accession=0000875320-26-000147"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-04-29",
+    "acceptance_datetime": "2026-04-29T20:05:05.000Z",
+    "report_date": "2026-04-28",
+    "accession": "0000875320-26-000166",
+    "primary_document": "vrtx-20260428.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0000875320-26-000166"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-05-04",
+    "acceptance_datetime": "2026-05-04T20:05:36.000Z",
+    "report_date": "2026-05-04",
+    "accession": "0000875320-26-000171",
+    "primary_document": "vrtx-20260504.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-26-000171"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2026-05-13",
+    "acceptance_datetime": "2026-05-13T20:03:13.000Z",
+    "report_date": "2026-05-13",
+    "accession": "0000875320-26-000204",
+    "primary_document": "vrtx-20260513.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02,5.07; accession=0000875320-26-000204"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,8.01,9.01",
+    "filing_date": "2026-07-07",
+    "acceptance_datetime": "2026-07-07T01:55:41.000Z",
+    "report_date": "2026-07-06",
+    "accession": "0001193125-26-296710",
+    "primary_document": "d113650d8k.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=1.01,7.01,8.01,9.01; accession=0001193125-26-296710"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-08-03",
+    "acceptance_datetime": "2026-08-03T20:09:43.000Z",
+    "report_date": "2026-08-03",
+    "accession": "0000875320-26-000256",
+    "primary_document": "vrtx-20260803.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-26-000256"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-09-01",
+    "acceptance_datetime": "2026-09-01T20:25:14.000Z",
+    "report_date": "2026-08-27",
+    "accession": "0000875320-26-000264",
+    "primary_document": "vrtx-20260827.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0000875320-26-000264"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-10-20",
+    "acceptance_datetime": "2026-10-20T20:09:27.000Z",
+    "report_date": "2026-10-20",
+    "accession": "0000875320-26-000278",
+    "primary_document": "vrtx-20261020.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=5.02; accession=0000875320-26-000278"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-11-02",
+    "acceptance_datetime": "2026-11-02T21:05:46.000Z",
+    "report_date": "2026-11-02",
+    "accession": "0000875320-26-000287",
+    "primary_document": "vrtx-20261102.htm",
+    "cik": "0000875320",
+    "issuer_name": "VERTEX PHARMACEUTICALS INC / MA",
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000875320.json",
+    "locator": "8-K items=2.02,9.01; accession=0000875320-26-000287"
+  }
+]

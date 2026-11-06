@@ -1677,7 +1677,10 @@
       "tech_breakthrough"
     ],
     "drop_classes": [
-      "earnings"
+      "earnings",
+      "sub_5",
+      "etf",
+      "no_option"
     ],
     "class_map": {
       "1_earnings": "earnings",
@@ -1688,6 +1691,62 @@
       "3_biotech_trial_success": "biotech_trial",
       "4_tech_product_breakthrough": "tech_breakthrough"
     },
-    "rule": "keep 2,3,4; drop 1 (earnings only)"
+    "rule": "keep 2,3,4; drop 1 (earnings), sub-$5 prev_close, ETF/ETN denylist, and no-option"
+  },
+  "etf_etn_denylist": {
+    "as_of": "2026-11-06",
+    "note": "Maintained ETF/ETN symbol denylist for jump examine hard drops. Grow when news review identifies additional product vehicles. Not a complete ETF universe.",
+    "symbols": [
+      "UVXY",
+      "VIXY",
+      "VIIX",
+      "TVIX",
+      "VXX",
+      "VXZ",
+      "SVXY",
+      "XIV",
+      "ZIV",
+      "UVIX",
+      "SVIX",
+      "VIXM",
+      "VXXB",
+      "SPXU",
+      "SPXS",
+      "SPXL",
+      "TQQQ",
+      "SQQQ",
+      "TNA",
+      "TZA",
+      "LABU",
+      "LABD",
+      "SOXL",
+      "SOXS",
+      "FAS",
+      "FAZ",
+      "NUGT",
+      "DUST",
+      "JNUG",
+      "JDST",
+      "YINN",
+      "YANG",
+      "ERX",
+      "ERY",
+      "UCO",
+      "SCO",
+      "BOIL",
+      "KOLD",
+      "UNG",
+      "USO",
+      "GLD",
+      "SLV",
+      "SPY",
+      "QQQ",
+      "IWM",
+      "DIA",
+      "EEM",
+      "XLF",
+      "XLE",
+      "XLK"
+    ]
   }
 }

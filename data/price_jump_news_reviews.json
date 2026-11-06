@@ -1,6 +1,7 @@
 {
   "as_of": "2026-11-06",
-  "scope": "Manual news reviews for unclassified ≥15% jumps after EDGAR Item 2.02 earnings drops. Keep only classes 2/3/4; do not invent keeps for other catalysts.",
+  "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
+  "tranche": "ge50_first_batch_2013_2016",
   "reviews": [
     {
       "symbol": "ERII",
@@ -21,6 +22,366 @@
       "news_filter": "keep",
       "detail": "Genetic Technologies ASX/6-K: up to six new breast centers to offer BREVAGenplus; product commercialization expansion. Kept as class 4 (tech/product breakthrough), not earnings (no Item 2.02 match).",
       "locator": "https://www.sec.gov/Archives/edgar/data/1166272/000110465915005408/0001104659-15-005408.txt"
+    },
+    {
+      "symbol": "VNDA",
+      "qdate": "2013-11-12",
+      "close_return": 0.959,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA briefing documents for tasimelteon (Hetlioz) Non-24 disorder painted positive efficacy ahead of advisory panel; class-3 biotech trial/regulatory data reaction.",
+      "locator": "https://www.fool.com/investing/general/2013/11/12/why-vanda-pharmaceuticals-inc-shares-skyrocketed.aspx"
+    },
+    {
+      "symbol": "NBIX",
+      "qdate": "2014-01-07",
+      "close_return": 0.897,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Positive Phase IIb Kinect 2 results for NBI-98854 (VMAT2) in tardive dyskinesia; statistically significant AIMS reduction vs placebo.",
+      "locator": "https://www.biospace.com/neurocrine-biosciences-inc-rockets-on-positive-phase-2-movement-disorder-drug-data-stock-up-75-56-percent-at-market-close-january-7-2014"
+    },
+    {
+      "symbol": "PTCT",
+      "qdate": "2016-11-11",
+      "close_return": 0.883,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "EMA CHMP recommended renewal of Translarna conditional marketing authorization for nmDMD; class-3 clinical/regulatory success for approved therapy.",
+      "locator": "https://ir.ptcbio.com/news-releases/news-release-details/chmp-recommends-renewal-translarnastm-marketing-authorization"
+    },
+    {
+      "symbol": "ITCI",
+      "qdate": "2015-09-16",
+      "close_return": 0.869,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 3 ITI-007 schizophrenia trial: 60 mg met primary PANSS endpoint vs placebo; 8-K 8.01 same session.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1567514/000119312515320837/d80767dex991.htm"
+    },
+    {
+      "symbol": "ADMS",
+      "qdate": "2015-12-23",
+      "close_return": 0.83,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 3 EASE LID: ADS-5102 met primary endpoint reducing levodopa-induced dyskinesia vs placebo.",
+      "locator": "https://www.fool.com/investing/general/2015/12/23/heres-why-adamas-pharmaceuticals-stock-soared-toda.aspx"
+    },
+    {
+      "symbol": "RPRX",
+      "qdate": "2013-03-28",
+      "close_return": 0.763,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Repros Therapeutics (historical RPRX, not later Royalty Pharma): Androxal pivotal ZA-301 met both FDA co-primary endpoints. Note: modern cik2symbol may point at wrong CIK.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/897075/000117184313001147/newsrelease.htm"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2016-09-19",
+      "close_return": 0.739,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA accelerated approval of eteplirsen (Exondys 51) for DMD exon-51 skipping; first approved DMD therapy.",
+      "locator": "https://www.cnbc.com/2016/09/19/sarepta-therapeutics-shares-briefly-leap-80-after-fda-approves-eteplirsen-drug.html"
+    },
+    {
+      "symbol": "BLUE",
+      "qdate": "2014-12-09",
+      "close_return": 0.724,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "ASH interim LentiGlobin BB305 data: first four beta-thalassemia major patients with \u22653 months follow-up transfusion-free.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1293971/000156459014006087/blue-ex991_2014120823.htm"
+    },
+    {
+      "symbol": "OMER",
+      "qdate": "2015-08-18",
+      "close_return": 0.72,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Additional positive Phase 2 OMS721 TMA/aHUS data; company planning Phase 3.",
+      "locator": "https://www.prnewswire.com/news-releases/omeros-announces-additional-positive-data-in-oms721-phase-2-clinical-trial-300129793.html"
+    },
+    {
+      "symbol": "IMGN",
+      "qdate": "2015-06-01",
+      "close_return": 0.719,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "ASCO Phase 1 expansion: mirvetuximab soravtansine 53% ORR in platinum-resistant FR\u03b1+ ovarian cancer.",
+      "locator": "https://www.businesswire.com/news/home/20150530005009/en/ImmunoGen%E2%80%99s-Mirvetuximab-Soravtansine-IMGN853-Demonstrates-Notable-Single"
+    },
+    {
+      "symbol": "OMER",
+      "qdate": "2013-09-16",
+      "close_return": 0.682,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Positive Phase 1 OMS824 (PDE10) schizophrenia data plus Phase 2 initiation; class-3 clinical catalyst.",
+      "locator": "https://www.fool.com/investing/general/2013/09/21/this-week-in-biotech.aspx"
+    },
+    {
+      "symbol": "PBYI",
+      "qdate": "2013-12-05",
+      "close_return": 0.681,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "I-SPY 2: neratinib regimen graduated for HER2+/HR- breast cancer with high Bayesian success probability.",
+      "locator": "https://pumabiotechnology.com/news/2013/20131204.html"
+    },
+    {
+      "symbol": "BLDR",
+      "qdate": "2015-04-13",
+      "close_return": 0.677,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Definitive agreement to acquire ProBuild for ~$1.63B all-cash; 8-K Item 1.01 same session. Acquirer announcement is class-2 M&A news.",
+      "locator": "https://investors.bldr.com/news/news-details/2015/Builders-FirstSource-to-Acquire-ProBuild-04-13-2015/default.aspx"
+    },
+    {
+      "symbol": "AERI",
+      "qdate": "2015-09-17",
+      "close_return": 0.671,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Rocket 2 Phase 3 Rhopressa met primary non-inferiority endpoint vs timolol for IOP lowering.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1337553/000119312515321392/d74363d8k.htm"
+    },
+    {
+      "symbol": "ESI",
+      "qdate": "2014-10-17",
+      "close_return": 0.65,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "ITT Educational Services preliminary enrollment better than May forecast; operational/enrollment update, not keep 2/3/4. Note cik2symbol may not match historical ITT Educational CIK.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/922475/000092247514000032/exhibit99_1.htm"
+    },
+    {
+      "symbol": "ACAD",
+      "qdate": "2013-04-11",
+      "close_return": 0.644,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA agreed pivotal Phase 3 -020 plus supportive data sufficient for pimavanserin NDA; confirmatory -021 cancelled.",
+      "locator": "https://acadia.com/en-us/media/news-releases/acadia-pharmaceuticals-announces-expedited-path-nda-filing"
+    },
+    {
+      "symbol": "VRTX",
+      "qdate": "2013-04-19",
+      "close_return": 0.619,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 2 VX-661+ivacaftor combo: statistically significant FEV1 improvements in F508del homozygous CF.",
+      "locator": "https://news.vrtx.com/news-releases/news-release-details/treatment-vx-661-and-ivacaftor-phase-2-study-resulted"
+    },
+    {
+      "symbol": "LXRX",
+      "qdate": "2015-08-03",
+      "close_return": 0.613,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Pivotal Phase 3 TELESTAR: telotristat etiprate met primary endpoint in carcinoid syndrome.",
+      "locator": "https://www.fiercebiotech.com/biotech/lexicon-pharmaceuticals-reports-positive-top-line-results-for-pivotal-phase-3-telotristat"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2015-05-20",
+      "close_return": 0.602,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA agreed rolling NDA for eteplirsen after pre-NDA meeting; clinical/regulatory path for DMD candidate.",
+      "locator": "https://investorrelations.sarepta.com/news-releases/news-release-details/sarepta-therapeutics-announces-plans-submit-rolling-nda"
+    },
+    {
+      "symbol": "HRTX",
+      "qdate": "2015-05-29",
+      "close_return": 0.6,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 3 MAGIC: SUSTOL regimen met primary endpoint for delayed CINV after HEC vs standard of care.",
+      "locator": "https://www.fiercebiotech.com/r-d/heron-soars-as-twice-rejected-nausea-drug-comes-through-phase-iii"
+    },
+    {
+      "symbol": "GALT",
+      "qdate": "2014-01-09",
+      "close_return": 0.593,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Sympathy move with Intercept NASH trial stop-early news; no Galectin company-specific trial success that day (enrollment update came Jan 13).",
+      "locator": "https://moneymorning.com/2014/01/09/u-s-stock-market-news-today-check-pharma-stock-soared-300"
+    },
+    {
+      "symbol": "ANAC",
+      "qdate": "2016-05-16",
+      "close_return": 0.572,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Pfizer definitive acquisition of Anacor at $99.25/share (~$5.2B). Target M&A announcement.",
+      "locator": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer_to_acquire_anacor"
+    },
+    {
+      "symbol": "RPRX",
+      "qdate": "2014-11-07",
+      "close_return": 0.569,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Repros: FDA meeting \u2014 no additional clinical studies required to file Androxal NDA (CV safety interest noted for possible post-approval work).",
+      "locator": "https://www.sec.gov/Archives/edgar/data/897075/000117184314005334/newsrelease.htm"
+    },
+    {
+      "symbol": "ANAC",
+      "qdate": "2015-07-13",
+      "close_return": 0.559,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Two Phase 3 crisaborole atopic dermatitis studies met all primary and secondary endpoints.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1411158/000110465915050849/a15-15580_1ex99d1.htm"
+    },
+    {
+      "symbol": "ZIOP",
+      "qdate": "2015-01-14",
+      "close_return": 0.545,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Intrexon/ZIOPHARM exclusive CAR-T licensing pact with MD Anderson ($50M stock each). Collaboration/IP license, not M&A of issuer, trial success, or product breakthrough under keep 2/3/4. 8-K Item 1.01 present.",
+      "locator": "https://www.prnewswire.com/news-releases/intrexon-ziopharm-and-md-anderson-in-exclusive-car-t-pact-300020161.html"
+    },
+    {
+      "symbol": "CWH",
+      "qdate": "2013-02-26",
+      "close_return": 0.539,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "CommonWealth REIT: Corvex/Related 9.8% stake; open letter willing to acquire all shares at premium if board uncooperative. Activist M&A rumor/news. Note: modern cik2symbol may map Camping World.",
+      "locator": "https://www.fool.com/investing/general/2013/02/26/why-commonwealth-reit-shares-skyrocketed.aspx"
+    },
+    {
+      "symbol": "ET",
+      "qdate": "2013-06-04",
+      "close_return": 0.524,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "ExactTarget (then NYSE:ET) acquired by Salesforce for $33.75/share (~$2.5B). Note: cik2symbol currently maps ET to Energy Transfer CIK \u2014 wrong issuer for this date.",
+      "locator": "https://www.reuters.com/article/markets/salesforce-to-pay-25-bln-for-exacttarget-in-social-marketing-bet-idUSL1N0EG18Y/"
+    },
+    {
+      "symbol": "NEWP",
+      "qdate": "2016-02-23",
+      "close_return": 0.513,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "MKS Instruments definitive all-cash acquisition of Newport at $23/share (~$980M).",
+      "locator": "https://investor.mks.com/news-releases/news-release-details/mks-instruments-announces-agreement-acquire-newport-corporation"
+    },
+    {
+      "symbol": "CRBP",
+      "qdate": "2016-11-14",
+      "close_return": 0.513,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 2 Resunab/JBT-101 systemic sclerosis: median CRISS 33% vs 0% placebo (p=0.044).",
+      "locator": "https://ir.corbuspharma.com/news-events/press-releases/detail/221/corbus-pharmaceuticals-reports-positive-topline-results-showing-clear-signal-of-clinical-benefit-with-resunab-jbt-101-in-phase-2-study-in-systemic-sclerosis"
+    },
+    {
+      "symbol": "WMS",
+      "qdate": "2013-01-31",
+      "close_return": 0.512,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Scientific Games to acquire WMS Industries for $26/share cash (~$1.5B). Note: modern cik2symbol may map a different WMS issuer.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/750004/000110465913006187/a13-4119_1ex99d1.htm"
+    },
+    {
+      "symbol": "VISN",
+      "qdate": "2016-08-19",
+      "close_return": 0.507,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "VisionChina Media revised partial sale of subway ad business stake to Ledman; asset/equity transfer, not keep 2/3/4 M&A-of-issuer / trial / breakthrough.",
+      "locator": "https://investorplace.com/2016/08/visionchina-media-inc-adr-visn-stock-nasdaq/"
+    },
+    {
+      "symbol": "GLNG",
+      "qdate": "2016-01-22",
+      "close_return": 0.507,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "MOU with Schlumberger to jointly market FLNG/gas monetization solutions; partnership MOU, not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1207179/000117184316007394/newsrelease.htm"
+    },
+    {
+      "symbol": "ASPS",
+      "qdate": "2015-01-16",
+      "close_return": 0.506,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Emergency investor call: CEO reassurances on Ocwen relationship, layoffs, contemplated buyback after regulatory scare. Not keep 2/3/4.",
+      "locator": "https://www.housingwire.com/articles/32635-altisource-ceo-were-committed-to-supporting-ocwen/"
+    },
+    {
+      "symbol": "BDSI",
+      "qdate": "2014-01-24",
+      "close_return": 0.506,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 3 BEMA buprenorphine in opioid-naive chronic pain met primary endpoint; $10M Endo milestone.",
+      "locator": "https://investor.endo.com/2014-01-23-Endo-and-BioDelivery-Sciences-Announce-Positive-Top-Line-Results-from-the-Phase-III-Clinical-Trial-of-BEMA-Buprenorphine-in-Opioid-Naive-Patients-with-Chronic-Pain"
+    },
+    {
+      "symbol": "FLXN",
+      "qdate": "2016-05-26",
+      "close_return": 0.505,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA written responses: Zilretta registration data acceptable to support NDA filing; NDA planned 4Q16.",
+      "locator": "https://www.globenewswire.com/news-release/2016/05/26/843573/0/en/flexion-therapeutics-receives-positive-guidance-from-fda-on-new-drug-application-nda-submission-for-zilretta-for-osteoarthritis-of-the-knee.html"
+    },
+    {
+      "symbol": "AERI",
+      "qdate": "2015-06-16",
+      "close_return": 0.5,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA agreed to change Rocket 2 primary endpoint IOP range after Rocket 1 subgroup analysis; clinical/regulatory path for Rhopressa.",
+      "locator": "https://www.fiercebiotech.com/r-d/aerie-pharma-shares-soar-as-fda-lowers-hurdle-for-phiii"
     }
   ]
 }

@@ -4,6 +4,9 @@ Policy: keep 2 (M&A), 3 (biotech trial), 4 (tech breakthrough); drop 1 (earnings
 Earnings drops are assigned when a jump's reaction session is the first NYSE session
 at/after an EDGAR Item 2.02 acceptance datetime (same calendar day before open counts
 as that session; after-close acceptance maps to the next session).
+
+Hard filters after earnings (before news): prev_close < $5, ETF/ETN denylist, and
+no optiondaily/optiondaily3 presence on qdate.
 """
 
 from __future__ import annotations
@@ -19,6 +22,10 @@ from pathlib import Path
 import pymysql
 
 from edgar_earnings_calendar import pad_cik, run as build_earnings_calendar
+
+MIN_PREV_CLOSE = 5.0
+EXTREME_PRINT_RETURN = 1.0  # 100%+ tagged as mechanical hazard for first news batch
+GE50_RETURN = 0.50
 
 
 def sessions(root: Path) -> list[date]:
@@ -56,6 +63,27 @@ def load_cik2symbol(connection) -> dict[str, str]:
             if sym:
                 out[sym] = pad_cik(r['cik'])
         return out
+
+
+def load_etf_denylist(root: Path) -> set[str]:
+    path = root / 'data/event_review_overrides.json'
+    raw = json.loads(path.read_text())
+    block = raw.get('etf_etn_denylist') or {}
+    return {str(s).strip().upper() for s in (block.get('symbols') or []) if str(s).strip()}
+
+
+def load_news_reviews(root: Path) -> dict[tuple[str, str], dict]:
+    path = root / 'data/price_jump_news_reviews.json'
+    if not path.exists():
+        return {}
+    reviews = json.loads(path.read_text()).get('reviews') or []
+    out = {}
+    for r in reviews:
+        sym = str(r.get('symbol') or '').strip().upper()
+        qdate = str(r.get('qdate') or '').strip()
+        if sym and qdate:
+            out[(sym, qdate)] = r
+    return out
 
 
 def extract_jumps(connection, calendar: list[date], start: date, end: date,
@@ -186,6 +214,177 @@ def match_earnings(jumps: list[dict], earnings: list[dict], session_meta: dict[d
     return out
 
 
+def option_presence_keys(connection, pairs: list[tuple[str, str]]) -> set[tuple[str, str]]:
+    """Return (symbol, qdate) keys with at least one row in optiondaily or optiondaily3."""
+    present: set[tuple[str, str]] = set()
+    if not pairs:
+        return present
+    # group by date for fewer round-trips
+    by_date: dict[str, set[str]] = defaultdict(set)
+    for sym, qdate in pairs:
+        by_date[qdate].add(sym)
+    with connection.cursor() as q:
+        q.execute('SET SESSION MAX_EXECUTION_TIME=0')
+        q.execute('START TRANSACTION READ ONLY')
+        for qdate, symbols in sorted(by_date.items()):
+            syms = sorted(symbols)
+            # chunk IN lists
+            for i in range(0, len(syms), 400):
+                chunk = syms[i:i + 400]
+                placeholders = ','.join(['%s'] * len(chunk))
+                params = list(chunk) + [qdate]
+                for table in ('optiondaily', 'optiondaily3'):
+                    q.execute(
+                        f'SELECT DISTINCT underlying AS symbol FROM {table} '
+                        f'WHERE underlying IN ({placeholders}) AND qdate=%s',
+                        params,
+                    )
+                    for r in q.fetchall():
+                        present.add((str(r['symbol']).strip().upper(), qdate))
+        connection.rollback()
+    return present
+
+
+def apply_hard_filters(rows: list[dict], etf_denylist: set[str],
+                       option_present: set[tuple[str, str]] | None = None) -> list[dict]:
+    """Apply sub-$5 / ETF / no-option drops to non-earnings rows.
+
+    If option_present is None, skip the no-option gate (used in unit tests).
+    """
+    out = []
+    for row in rows:
+        r = dict(row)
+        if r.get('news_filter') == 'drop_earnings':
+            r['has_option'] = None
+            out.append(r)
+            continue
+        prev_close = float(r.get('prev_close') or 0)
+        sym = str(r.get('symbol') or '').strip().upper()
+        qdate = str(r.get('qdate') or '')
+        if prev_close < MIN_PREV_CLOSE:
+            r.update(
+                jump_cause=None,
+                cause_class='sub_5',
+                news_filter='drop_sub_5',
+                has_option=None,
+            )
+            out.append(r)
+            continue
+        if sym in etf_denylist:
+            r.update(
+                jump_cause=None,
+                cause_class='etf',
+                news_filter='drop_etf',
+                has_option=None,
+            )
+            out.append(r)
+            continue
+        if option_present is not None:
+            has_opt = (sym, qdate) in option_present
+            r['has_option'] = has_opt
+            if not has_opt:
+                r.update(
+                    jump_cause=None,
+                    cause_class='no_option',
+                    news_filter='drop_no_option',
+                )
+                out.append(r)
+                continue
+        else:
+            r['has_option'] = None
+        out.append(r)
+    return out
+
+
+def apply_news_reviews(rows: list[dict], reviews: dict[tuple[str, str], dict]) -> list[dict]:
+    """Overlay manual news reviews. Earnings drops still win if both present."""
+    out = []
+    for row in rows:
+        r = dict(row)
+        if r.get('news_filter') == 'drop_earnings':
+            out.append(r)
+            continue
+        key = (str(r.get('symbol') or '').strip().upper(), str(r.get('qdate') or ''))
+        rev = reviews.get(key)
+        if not rev:
+            out.append(r)
+            continue
+        r['jump_cause'] = rev.get('jump_cause')
+        r['cause_class'] = rev.get('cause_class') or r.get('cause_class')
+        r['news_filter'] = rev.get('news_filter') or r.get('news_filter')
+        if rev.get('locator'):
+            r['news_locator'] = rev['locator']
+        if rev.get('detail'):
+            r['news_detail'] = rev['detail']
+        out.append(r)
+    return out
+
+
+def cohort_symbols(root: Path) -> set[str]:
+    path = root / 'results/reviewed_cohort/events.json'
+    if not path.exists():
+        return set()
+    events = json.loads(path.read_text())
+    if isinstance(events, dict):
+        events = events.get('events') or []
+    return {str(e.get('symbol') or '').strip().upper() for e in events if e.get('symbol')}
+
+
+def build_news_queue(rows: list[dict], root: Path, min_return: float = GE50_RETURN) -> list[dict]:
+    cohort = cohort_symbols(root)
+    queue = []
+    for r in rows:
+        if r.get('news_filter') != 'pending_news_review':
+            continue
+        if not r.get('cik'):
+            continue
+        if float(r.get('close_return') or 0) < min_return:
+            continue
+        if r.get('has_option') is False:
+            continue
+        if float(r.get('prev_close') or 0) < MIN_PREV_CLOSE:
+            continue
+        hazards = []
+        if float(r.get('close_return') or 0) >= EXTREME_PRINT_RETURN:
+            hazards.append('hazard_extreme_print')
+        queue.append(dict(
+            symbol=r['symbol'],
+            qdate=r['qdate'],
+            cik=r['cik'],
+            close_return=r['close_return'],
+            prev_close=r['prev_close'],
+            close=r['close'],
+            has_option=r.get('has_option'),
+            hazards=hazards,
+            cohort_overlap=r['symbol'] in cohort,
+            include_in_first_news_batch='hazard_extreme_print' not in hazards,
+        ))
+    queue.sort(key=lambda x: (-float(x['close_return']), x['symbol'], x['qdate']))
+    return queue
+
+
+def write_news_queue(root: Path, queue: list[dict]) -> Path:
+    out = root / 'results/price_jump_examine'
+    out.mkdir(parents=True, exist_ok=True)
+    first = [r for r in queue if r.get('include_in_first_news_batch')]
+    payload = dict(
+        as_of=date.today().isoformat(),
+        min_close_return=GE50_RETURN,
+        min_prev_close=MIN_PREV_CLOSE,
+        n_queue=len(queue),
+        n_first_batch=len(first),
+        notes=[
+            'Queue requires pending_news_review, mapped CIK, has_option, prev_close>=5, close_return>=50%.',
+            'hazard_extreme_print (>=100%) excluded from first news batch until EDGAR/news says otherwise.',
+        ],
+        queue=queue,
+        first_batch=first,
+    )
+    path = out / 'news_queue_ge50.json'
+    path.write_text(json.dumps(payload, indent=2) + '\n')
+    return path
+
+
 def write_outputs(root: Path, rows: list[dict], start: date, end: date) -> dict:
     out = root / 'results/price_jump_examine'
     out.mkdir(parents=True, exist_ok=True)
@@ -193,9 +392,9 @@ def write_outputs(root: Path, rows: list[dict], start: date, end: date) -> dict:
     (out / f'jumps_{stamp}.json').write_text(json.dumps(rows, indent=2) + '\n')
     fields = [
         'symbol', 'cik', 'qdate', 'prev_qdate', 'close_return', 'vol_ratio',
-        'cause_class', 'jump_cause', 'news_filter',
+        'cause_class', 'jump_cause', 'news_filter', 'has_option',
         'earnings_filing_date', 'earnings_acceptance_datetime', 'earnings_accession',
-        'earnings_locator', 'close', 'prev_close', 'volume', 'prev_volume',
+        'earnings_locator', 'news_locator', 'close', 'prev_close', 'volume', 'prev_volume',
     ]
     with (out / f'jumps_{stamp}.csv').open('w', newline='') as fh:
         w = csv.DictWriter(fh, fieldnames=fields, extrasaction='ignore')
@@ -212,28 +411,34 @@ def write_outputs(root: Path, rows: list[dict], start: date, end: date) -> dict:
         n_with_cik=with_cik,
         cause_class_counts=counts,
         news_filter_counts=filter_counts,
-        policy='keep 2,3,4; drop 1 (earnings via EDGAR 8-K Item 2.02)',
+        policy=(
+            'keep 2,3,4; drop 1 (earnings via EDGAR 8-K Item 2.02); '
+            'hard-drop sub_$5, ETF/ETN denylist, no_option'
+        ),
         notes=[
             'Jumps are NYSE-calendar consecutive close-to-close with volume ≥2× prior session.',
             'drop_earnings requires a mapped CIK and an Item 2.02 acceptance whose reaction session equals qdate.',
-            'Unclassified jumps still need news review for classes 2/3/4; absence of Item 2.02 is not proof of non-earnings.',
+            'drop_sub_5 uses prev_close < $5; drop_etf uses data/event_review_overrides.json etf_etn_denylist.',
+            'drop_no_option requires absence from both optiondaily and optiondaily3 on qdate.',
+            'Manual reviews in data/price_jump_news_reviews.json overlay pending rows; earnings still wins.',
+            'Unclassified pending rows still need news review for classes 2/3/4.',
         ],
     )
     (out / f'manifest_{stamp}.json').write_text(json.dumps(manifest, indent=2) + '\n')
     lines = [
         f'# Price-jump examine {start} → {end}',
         '',
-        'Policy: **keep 2/3/4**, **drop 1** using EDGAR 8-K Item 2.02 earnings calendar.',
+        'Policy: **keep 2/3/4**, **drop 1** (EDGAR 8-K Item 2.02), plus hard drops '
+        '**sub-$5 / ETF / no-option**.',
         '',
         f"Jumps (≥15%, vol≥2×): **{len(rows)}**. With CIK map: **{with_cik}**.",
         f"Cause counts: {counts}.",
         f"Filter counts: {filter_counts}.",
         '',
-        'Unclassified rows are pending news review (not automatic keeps).',
+        'Pending rows still need news review for keep classes 2/3/4.',
         '',
     ]
     (out / f'REPORT_{stamp}.md').write_text('\n'.join(lines))
-    # also refresh rolling latest pointers
     (out / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
     (out / 'REPORT.md').write_text('\n'.join(lines))
     return manifest
@@ -251,35 +456,117 @@ def ensure_earnings_for_ciks(root: Path, ciks: list[str], pause: float) -> None:
         build_earnings_calendar([int(c) for c in ciks], root=root, pause=pause)
 
 
-def run(root: Path, start: date, end: date, pause: float = 0.12,
-        fetch_earnings: bool = True) -> dict:
-    calendar = sessions(root)
+def classify_rows(root: Path, jumps: list[dict], cik_by_symbol: dict[str, str],
+                  connection=None, fetch_earnings: bool = True, pause: float = 0.12) -> list[dict]:
     session_meta = load_session_meta(root)
-    with db_connect() as connection:
-        cik_by_symbol = load_cik2symbol(connection)
-        jumps = extract_jumps(connection, calendar, start, end)
-    # CIKs for jumped symbols
     ciks = sorted({cik_by_symbol[j['symbol']] for j in jumps if j['symbol'] in cik_by_symbol})
     if fetch_earnings and ciks:
         ensure_earnings_for_ciks(root, ciks, pause=pause)
     earnings = load_earnings(root)
-    # If aggregate file is stale relative to cache, rebuild from cache only
     if not earnings and (root / 'results/edgar_earnings_calendar/by_cik').exists():
         ensure_earnings_for_ciks(root, ciks, pause=pause)
         earnings = load_earnings(root)
     rows = match_earnings(jumps, earnings, session_meta, cik_by_symbol)
+    etf = load_etf_denylist(root)
+    # option presence only for rows that would otherwise stay pending after price/ETF gates
+    need_opt = [
+        (r['symbol'], r['qdate']) for r in rows
+        if r.get('news_filter') == 'pending_news_review'
+        and float(r.get('prev_close') or 0) >= MIN_PREV_CLOSE
+        and r['symbol'] not in etf
+    ]
+    option_present = None
+    if connection is not None:
+        option_present = option_presence_keys(connection, need_opt)
+    rows = apply_hard_filters(rows, etf, option_present)
+    rows = apply_news_reviews(rows, load_news_reviews(root))
+    return rows
+
+
+def raw_jumps_from_classified(rows: list[dict]) -> list[dict]:
+    keys = ('symbol', 'qdate', 'prev_qdate', 'close', 'prev_close', 'close_return',
+            'volume', 'prev_volume', 'vol_ratio')
+    return [{k: r[k] for k in keys if k in r} for r in rows]
+
+
+def run(root: Path, start: date, end: date, pause: float = 0.12,
+        fetch_earnings: bool = True) -> dict:
+    calendar = sessions(root)
+    with db_connect() as connection:
+        cik_by_symbol = load_cik2symbol(connection)
+        jumps = extract_jumps(connection, calendar, start, end)
+        rows = classify_rows(
+            root, jumps, cik_by_symbol, connection=connection,
+            fetch_earnings=fetch_earnings, pause=pause,
+        )
     return write_outputs(root, rows, start, end)
+
+
+def refresh_windows(root: Path, windows: list[tuple[date, date]], pause: float = 0.12,
+                    fetch_earnings: bool = False) -> dict:
+    """Re-classify existing jump artifacts with hard filters + news overlay."""
+    all_rows: list[dict] = []
+    manifests = []
+    with db_connect() as connection:
+        cik_by_symbol = load_cik2symbol(connection)
+        for start, end in windows:
+            stamp = f'{start.isoformat()}_{end.isoformat()}'
+            path = root / 'results/price_jump_examine' / f'jumps_{stamp}.json'
+            if not path.exists():
+                raise FileNotFoundError(path)
+            existing = json.loads(path.read_text())
+            jumps = raw_jumps_from_classified(existing)
+            rows = classify_rows(
+                root, jumps, cik_by_symbol, connection=connection,
+                fetch_earnings=fetch_earnings, pause=pause,
+            )
+            manifests.append(write_outputs(root, rows, start, end))
+            all_rows.extend(rows)
+    queue = build_news_queue(all_rows, root)
+    write_news_queue(root, queue)
+    summary = dict(
+        windows=[dict(start=s.isoformat(), end=e.isoformat()) for s, e in windows],
+        n_jumps=len(all_rows),
+        news_filter_counts=dict(Counter(r['news_filter'] for r in all_rows)),
+        cause_class_counts=dict(Counter(r['cause_class'] for r in all_rows)),
+        n_queue_ge50=len(queue),
+        n_first_batch=sum(1 for r in queue if r.get('include_in_first_news_batch')),
+        manifests=manifests,
+    )
+    (root / 'results/price_jump_examine/refresh_summary.json').write_text(
+        json.dumps(summary, indent=2) + '\n')
+    return summary
 
 
 def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__)
-    p.add_argument('--start', required=True, help='YYYY-MM-DD')
-    p.add_argument('--end', required=True, help='YYYY-MM-DD')
+    p.add_argument('--start', help='YYYY-MM-DD')
+    p.add_argument('--end', help='YYYY-MM-DD')
     p.add_argument('--pause', type=float, default=0.12)
     p.add_argument('--skip-earnings-fetch', action='store_true')
+    p.add_argument(
+        '--refresh-2013-2016',
+        action='store_true',
+        help='Re-classify existing 2013-2016 jump artifacts with hard filters + reviews',
+    )
     args = p.parse_args(argv)
+    root = Path('.')
+    if args.refresh_2013_2016:
+        windows = [
+            (date(2013, 1, 2), date(2014, 12, 31)),
+            (date(2015, 1, 2), date(2015, 12, 31)),
+            (date(2016, 1, 4), date(2016, 12, 30)),
+        ]
+        summary = refresh_windows(
+            root, windows, pause=args.pause,
+            fetch_earnings=not args.skip_earnings_fetch,
+        )
+        print(json.dumps(summary, indent=2))
+        return
+    if not args.start or not args.end:
+        p.error('--start/--end required unless --refresh-2013-2016')
     manifest = run(
-        Path('.'),
+        root,
         date.fromisoformat(args.start),
         date.fromisoformat(args.end),
         pause=args.pause,

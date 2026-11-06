@@ -1,0 +1,633 @@
+{
+  "as_of": "2026-11-06",
+  "n_queue_rows": 36,
+  "n_ciks": 31,
+  "n_with_any_8k": 14,
+  "n_ma_candidate_hint": 2,
+  "n_errors": 0,
+  "errors": [],
+  "notes": [
+    "Hints only; never auto-keep from item codes.",
+    "Item 1.01 marks ma_candidate_hint; 7.01/8.01 are soft_disclosure_hint."
+  ],
+  "rows": [
+    {
+      "symbol": "VNDA",
+      "qdate": "2013-11-12",
+      "cik": "0001347178",
+      "close_return": 0.9587628865979383,
+      "prev_close": 6.79,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "NBIX",
+      "qdate": "2014-01-07",
+      "cik": "0000914475",
+      "close_return": 0.8965163934426232,
+      "prev_close": 9.76,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "PTCT",
+      "qdate": "2016-11-11",
+      "cik": "0001070081",
+      "close_return": 0.8833333333333335,
+      "prev_close": 6.0,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "ITCI",
+      "qdate": "2015-09-16",
+      "cik": "0001567514",
+      "close_return": 0.8686327077747988,
+      "prev_close": 26.11,
+      "same_session_8k": [
+        {
+          "items": "8.01,9.01",
+          "item_set": [
+            "8.01",
+            "9.01"
+          ],
+          "hint": "soft_disclosure_hint",
+          "accession": "0001193125-15-320837",
+          "acceptance_datetime": "2015-09-16T10:09:31.000Z",
+          "filing_date": "2015-09-16",
+          "locator": "8-K items=8.01,9.01; accession=0001193125-15-320837",
+          "issuer_name": "Intra-Cellular Therapies, Inc.",
+          "tickers": []
+        }
+      ],
+      "hints": [
+        "soft_disclosure_hint"
+      ],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "ADMS",
+      "qdate": "2015-12-23",
+      "cik": "0001328143",
+      "close_return": 0.8297746144721234,
+      "prev_close": 16.86,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "RPRX",
+      "qdate": "2013-03-28",
+      "cik": "0001802768",
+      "close_return": 0.7634173055859803,
+      "prev_close": 9.13,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2016-09-19",
+      "cik": "0000873303",
+      "close_return": 0.7385435168738899,
+      "prev_close": 28.15,
+      "same_session_8k": [
+        {
+          "items": "8.01,9.01",
+          "item_set": [
+            "8.01",
+            "9.01"
+          ],
+          "hint": "soft_disclosure_hint",
+          "accession": "0001193125-16-713139",
+          "acceptance_datetime": "2016-09-19T17:42:55.000Z",
+          "filing_date": "2016-09-19",
+          "locator": "8-K items=8.01,9.01; accession=0001193125-16-713139",
+          "issuer_name": "Sarepta Therapeutics, Inc.",
+          "tickers": [
+            "SRPT"
+          ]
+        }
+      ],
+      "hints": [
+        "soft_disclosure_hint"
+      ],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "BLUE",
+      "qdate": "2014-12-09",
+      "cik": "0001293971",
+      "close_return": 0.7238699120474534,
+      "prev_close": 48.89,
+      "same_session_8k": [
+        {
+          "items": "8.01,9.01",
+          "item_set": [
+            "8.01",
+            "9.01"
+          ],
+          "hint": "soft_disclosure_hint",
+          "accession": "0001564590-14-006087",
+          "acceptance_datetime": "2014-12-08T23:01:39.000Z",
+          "filing_date": "2014-12-09",
+          "locator": "8-K items=8.01,9.01; accession=0001564590-14-006087",
+          "issuer_name": "bluebird bio, Inc.",
+          "tickers": []
+        }
+      ],
+      "hints": [
+        "soft_disclosure_hint"
+      ],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "OMER",
+      "qdate": "2015-08-18",
+      "cik": "0001285819",
+      "close_return": 0.720274914089347,
+      "prev_close": 14.55,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "IMGN",
+      "qdate": "2015-06-01",
+      "cik": "0000855654",
+      "close_return": 0.7193763919821825,
+      "prev_close": 8.98,
+      "same_session_8k": [
+        {
+          "items": "8.01,9.01",
+          "item_set": [
+            "8.01",
+            "9.01"
+          ],
+          "hint": "soft_disclosure_hint",
+          "accession": "0001104659-15-042222",
+          "acceptance_datetime": "2015-06-01T12:30:17.000Z",
+          "filing_date": "2015-06-01",
+          "locator": "8-K items=8.01,9.01; accession=0001104659-15-042222",
+          "issuer_name": "ImmunoGen, Inc.",
+          "tickers": []
+        }
+      ],
+      "hints": [
+        "soft_disclosure_hint"
+      ],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "OMER",
+      "qdate": "2013-09-16",
+      "cik": "0001285819",
+      "close_return": 0.681728880157171,
+      "prev_close": 5.09,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "PBYI",
+      "qdate": "2013-12-05",
+      "cik": "0001401667",
+      "close_return": 0.6814542306859988,
+      "prev_close": 46.21,
+      "same_session_8k": [
+        {
+          "items": "8.01,9.01",
+          "item_set": [
+            "8.01",
+            "9.01"
+          ],
+          "hint": "soft_disclosure_hint",
+          "accession": "0001193125-13-462138",
+          "acceptance_datetime": "2013-12-04T21:22:10.000Z",
+          "filing_date": "2013-12-04",
+          "locator": "8-K items=8.01,9.01; accession=0001193125-13-462138",
+          "issuer_name": "PUMA BIOTECHNOLOGY, INC.",
+          "tickers": [
+            "PBYI"
+          ]
+        }
+      ],
+      "hints": [
+        "soft_disclosure_hint"
+      ],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "BLDR",
+      "qdate": "2015-04-13",
+      "cik": "0001316835",
+      "close_return": 0.6768115942028985,
+      "prev_close": 6.9,
+      "same_session_8k": [
+        {
+          "items": "1.01,7.01,9.01",
+          "item_set": [
+            "1.01",
+            "7.01",
+            "9.01"
+          ],
+          "hint": "ma_candidate_hint",
+          "accession": "0001193125-15-126847",
+          "acceptance_datetime": "2015-04-13T12:16:02.000Z",
+          "filing_date": "2015-04-13",
+          "locator": "8-K items=1.01,7.01,9.01; accession=0001193125-15-126847",
+          "issuer_name": "Builders FirstSource, Inc.",
+          "tickers": [
+            "BLDR"
+          ]
+        }
+      ],
+      "hints": [
+        "ma_candidate_hint"
+      ],
+      "ma_candidate_hint": true
+    },
+    {
+      "symbol": "AERI",
+      "qdate": "2015-09-17",
+      "cik": "0001337553",
+      "close_return": 0.671111111111111,
+      "prev_close": 18.0,
+      "same_session_8k": [
+        {
+          "items": "7.01,9.01",
+          "item_set": [
+            "7.01",
+            "9.01"
+          ],
+          "hint": "soft_disclosure_hint",
+          "accession": "0001193125-15-321392",
+          "acceptance_datetime": "2015-09-16T20:01:32.000Z",
+          "filing_date": "2015-09-16",
+          "locator": "8-K items=7.01,9.01; accession=0001193125-15-321392",
+          "issuer_name": "AERIE PHARMACEUTICALS INC",
+          "tickers": []
+        }
+      ],
+      "hints": [
+        "soft_disclosure_hint"
+      ],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "ESI",
+      "qdate": "2014-10-17",
+      "cik": "0001590714",
+      "close_return": 0.6499102333931777,
+      "prev_close": 5.57,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "ACAD",
+      "qdate": "2013-04-11",
+      "cik": "0001070494",
+      "close_return": 0.64366373902133,
+      "prev_close": 7.97,
+      "same_session_8k": [
+        {
+          "items": "8.01",
+          "item_set": [
+            "8.01"
+          ],
+          "hint": "soft_disclosure_hint",
+          "accession": "0001415889-13-000716",
+          "acceptance_datetime": "2013-04-11T11:03:13.000Z",
+          "filing_date": "2013-04-11",
+          "locator": "8-K items=8.01; accession=0001415889-13-000716",
+          "issuer_name": "ACADIA PHARMACEUTICALS INC",
+          "tickers": [
+            "ACAD"
+          ]
+        }
+      ],
+      "hints": [
+        "soft_disclosure_hint"
+      ],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "VRTX",
+      "qdate": "2013-04-19",
+      "cik": "0000875320",
+      "close_return": 0.6190656326839417,
+      "prev_close": 52.87,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "LXRX",
+      "qdate": "2015-08-03",
+      "cik": "0001062822",
+      "close_return": 0.6125592417061612,
+      "prev_close": 8.44,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2015-05-20",
+      "cik": "0000873303",
+      "close_return": 0.601953601953602,
+      "prev_close": 16.38,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "HRTX",
+      "qdate": "2015-05-29",
+      "cik": "0000818033",
+      "close_return": 0.6000000000000001,
+      "prev_close": 12.35,
+      "same_session_8k": [
+        {
+          "items": "8.01,9.01",
+          "item_set": [
+            "8.01",
+            "9.01"
+          ],
+          "hint": "soft_disclosure_hint",
+          "accession": "0001193125-15-204379",
+          "acceptance_datetime": "2015-05-28T21:24:04.000Z",
+          "filing_date": "2015-05-28",
+          "locator": "8-K items=8.01,9.01; accession=0001193125-15-204379",
+          "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+          "tickers": [
+            "HRTX"
+          ]
+        }
+      ],
+      "hints": [
+        "soft_disclosure_hint"
+      ],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "GALT",
+      "qdate": "2014-01-09",
+      "cik": "0001133416",
+      "close_return": 0.5926800472255016,
+      "prev_close": 8.47,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "ANAC",
+      "qdate": "2016-05-16",
+      "cik": "0001829558",
+      "close_return": 0.5722317663595189,
+      "prev_close": 64.03,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "RPRX",
+      "qdate": "2014-11-07",
+      "cik": "0001802768",
+      "close_return": 0.5689922480620153,
+      "prev_close": 6.45,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "ANAC",
+      "qdate": "2015-07-13",
+      "cik": "0001829558",
+      "close_return": 0.559271953669779,
+      "prev_close": 84.61,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "ZIOP",
+      "qdate": "2015-01-14",
+      "cik": "0001107421",
+      "close_return": 0.5452961672473866,
+      "prev_close": 5.74,
+      "same_session_8k": [
+        {
+          "items": "1.01,3.02,9.01",
+          "item_set": [
+            "1.01",
+            "3.02",
+            "9.01"
+          ],
+          "hint": "ma_candidate_hint",
+          "accession": "0001193125-15-009772",
+          "acceptance_datetime": "2015-01-14T02:37:01.000Z",
+          "filing_date": "2015-01-14",
+          "locator": "8-K items=1.01,3.02,9.01; accession=0001193125-15-009772",
+          "issuer_name": "Alaunos Therapeutics, Inc.",
+          "tickers": [
+            "TCRT"
+          ]
+        }
+      ],
+      "hints": [
+        "ma_candidate_hint"
+      ],
+      "ma_candidate_hint": true
+    },
+    {
+      "symbol": "CWH",
+      "qdate": "2013-02-26",
+      "cik": "0001669779",
+      "close_return": 0.5394321766561514,
+      "prev_close": 15.85,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "ET",
+      "qdate": "2013-06-04",
+      "cik": "0001276187",
+      "close_return": 0.5244343891402712,
+      "prev_close": 22.1,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "NEWP",
+      "qdate": "2016-02-23",
+      "cik": "0001369085",
+      "close_return": 0.5132978723404258,
+      "prev_close": 15.04,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "CRBP",
+      "qdate": "2016-11-14",
+      "cik": "0001595097",
+      "close_return": 0.5128205128205128,
+      "prev_close": 5.85,
+      "same_session_8k": [
+        {
+          "items": "7.01,8.01,9.01",
+          "item_set": [
+            "7.01",
+            "8.01",
+            "9.01"
+          ],
+          "hint": "soft_disclosure_hint",
+          "accession": "0001193125-16-767051",
+          "acceptance_datetime": "2016-11-14T13:25:38.000Z",
+          "filing_date": "2016-11-14",
+          "locator": "8-K items=7.01,8.01,9.01; accession=0001193125-16-767051",
+          "issuer_name": "Corbus Pharmaceuticals Holdings, Inc.",
+          "tickers": [
+            "CRBP"
+          ]
+        }
+      ],
+      "hints": [
+        "soft_disclosure_hint"
+      ],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "WMS",
+      "qdate": "2013-01-31",
+      "cik": "0001604028",
+      "close_return": 0.5119120342089187,
+      "prev_close": 16.37,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "VISN",
+      "qdate": "2016-08-19",
+      "cik": "0001837620",
+      "close_return": 0.5074626865671641,
+      "prev_close": 5.36,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "GLNG",
+      "qdate": "2016-01-22",
+      "cik": "0001207179",
+      "close_return": 0.5067001675041876,
+      "prev_close": 11.94,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "ASPS",
+      "qdate": "2015-01-16",
+      "cik": "0001462418",
+      "close_return": 0.5057158410451823,
+      "prev_close": 18.37,
+      "same_session_8k": [
+        {
+          "items": "7.01,9.01",
+          "item_set": [
+            "7.01",
+            "9.01"
+          ],
+          "hint": "soft_disclosure_hint",
+          "accession": "0001104659-15-002823",
+          "acceptance_datetime": "2015-01-16T15:47:42.000Z",
+          "filing_date": "2015-01-16",
+          "locator": "8-K items=7.01,9.01; accession=0001104659-15-002823",
+          "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+          "tickers": [
+            "ASPS",
+            "ASPSW",
+            "ASPSZ"
+          ]
+        }
+      ],
+      "hints": [
+        "soft_disclosure_hint"
+      ],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "BDSI",
+      "qdate": "2014-01-24",
+      "cik": "0001103021",
+      "close_return": 0.5056,
+      "prev_close": 6.25,
+      "same_session_8k": [],
+      "hints": [],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "FLXN",
+      "qdate": "2016-05-26",
+      "cik": "0001419600",
+      "close_return": 0.5048034934497818,
+      "prev_close": 11.45,
+      "same_session_8k": [
+        {
+          "items": "8.01,9.01",
+          "item_set": [
+            "8.01",
+            "9.01"
+          ],
+          "hint": "soft_disclosure_hint",
+          "accession": "0001564590-16-019974",
+          "acceptance_datetime": "2016-05-26T12:31:27.000Z",
+          "filing_date": "2016-05-26",
+          "locator": "8-K items=8.01,9.01; accession=0001564590-16-019974",
+          "issuer_name": "Flexion Therapeutics Inc",
+          "tickers": []
+        }
+      ],
+      "hints": [
+        "soft_disclosure_hint"
+      ],
+      "ma_candidate_hint": false
+    },
+    {
+      "symbol": "AERI",
+      "qdate": "2015-06-16",
+      "cik": "0001337553",
+      "close_return": 0.5003767897513187,
+      "prev_close": 13.27,
+      "same_session_8k": [
+        {
+          "items": "7.01,9.01",
+          "item_set": [
+            "7.01",
+            "9.01"
+          ],
+          "hint": "soft_disclosure_hint",
+          "accession": "0001193125-15-223331",
+          "acceptance_datetime": "2015-06-15T20:10:58.000Z",
+          "filing_date": "2015-06-15",
+          "locator": "8-K items=7.01,9.01; accession=0001193125-15-223331",
+          "issuer_name": "AERIE PHARMACEUTICALS INC",
+          "tickers": []
+        }
+      ],
+      "hints": [
+        "soft_disclosure_hint"
+      ],
+      "ma_candidate_hint": false
+    }
+  ]
+}

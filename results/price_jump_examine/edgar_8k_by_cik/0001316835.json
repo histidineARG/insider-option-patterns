@@ -1,0 +1,4002 @@
+[
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-06-30",
+    "acceptance_datetime": "2005-06-30T17:48:25.000Z",
+    "report_date": "2005-06-27",
+    "accession": "0000950172-05-002046",
+    "primary_document": "wil419746.txt",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950172-05-002046"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-07-25",
+    "acceptance_datetime": "2005-07-25T13:38:27.000Z",
+    "report_date": "2005-07-22",
+    "accession": "0000950123-05-008849",
+    "primary_document": "y11077e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-05-008849"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-07-28",
+    "acceptance_datetime": "2005-07-28T13:01:32.000Z",
+    "report_date": "2005-07-28",
+    "accession": "0000950123-05-009022",
+    "primary_document": "y11227e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-05-009022"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,7.01,9.01",
+    "filing_date": "2005-09-20",
+    "acceptance_datetime": "2005-09-20T12:42:14.000Z",
+    "report_date": "2005-09-16",
+    "accession": "0000950123-05-011290",
+    "primary_document": "y12877e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,5.02,7.01,9.01; accession=0000950123-05-011290"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-10-27",
+    "acceptance_datetime": "2005-10-27T12:14:37.000Z",
+    "report_date": "2005-10-27",
+    "accession": "0000950123-05-012659",
+    "primary_document": "y13917e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-05-012659"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2006-02-06",
+    "acceptance_datetime": "2006-02-06T13:07:32.000Z",
+    "report_date": "2006-02-06",
+    "accession": "0000950134-06-001890",
+    "primary_document": "d32675e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950134-06-001890"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-02-17",
+    "acceptance_datetime": "2006-02-17T13:38:06.000Z",
+    "report_date": "2006-02-14",
+    "accession": "0000950134-06-003269",
+    "primary_document": "d33021e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950134-06-003269"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-02-23",
+    "acceptance_datetime": "2006-02-23T13:01:41.000Z",
+    "report_date": "2006-02-23",
+    "accession": "0000950134-06-003618",
+    "primary_document": "d33267e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-06-003618"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2006-02-28",
+    "acceptance_datetime": "2006-02-28T13:00:53.000Z",
+    "report_date": "2006-02-27",
+    "accession": "0000950134-06-003894",
+    "primary_document": "d33471e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0000950134-06-003894"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2006-04-26",
+    "acceptance_datetime": "2006-04-26T11:30:13.000Z",
+    "report_date": "2006-04-26",
+    "accession": "0000950134-06-007937",
+    "primary_document": "d35336e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950134-06-007937"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2006-06-21",
+    "acceptance_datetime": "2006-06-21T12:00:45.000Z",
+    "report_date": "2006-06-21",
+    "accession": "0000950134-06-011907",
+    "primary_document": "d37213e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0000950134-06-011907"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,9.01",
+    "filing_date": "2006-07-28",
+    "acceptance_datetime": "2006-07-27T23:02:12.000Z",
+    "report_date": "2006-07-27",
+    "accession": "0000950134-06-014076",
+    "primary_document": "d38111e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.02,9.01; accession=0000950134-06-014076"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2006-10-20",
+    "acceptance_datetime": "2006-10-20T21:00:58.000Z",
+    "report_date": "2006-10-18",
+    "accession": "0000950134-06-019405",
+    "primary_document": "d40461e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0000950134-06-019405"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-10-26",
+    "acceptance_datetime": "2006-10-26T21:27:09.000Z",
+    "report_date": "2006-10-26",
+    "accession": "0000950134-06-019759",
+    "primary_document": "d40618e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-06-019759"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-02-22",
+    "acceptance_datetime": "2007-02-22T22:06:43.000Z",
+    "report_date": "2007-02-22",
+    "accession": "0001171843-07-000067",
+    "primary_document": "f8k_02222007.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-07-000067"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,9.01",
+    "filing_date": "2007-03-05",
+    "acceptance_datetime": "2007-03-05T20:30:38.000Z",
+    "report_date": "2007-02-27",
+    "accession": "0000950134-07-004782",
+    "primary_document": "d44251e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,5.03,9.01; accession=0000950134-07-004782"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-04-02",
+    "acceptance_datetime": "2007-04-02T19:43:38.000Z",
+    "report_date": "2007-03-27",
+    "accession": "0000950134-07-007262",
+    "primary_document": "d45212e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0000950134-07-007262"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-04-25",
+    "acceptance_datetime": "2007-04-25T21:03:48.000Z",
+    "report_date": "2007-04-25",
+    "accession": "0000950134-07-009031",
+    "primary_document": "d45866e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-07-009031"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-05-31",
+    "acceptance_datetime": "2007-05-31T15:50:47.000Z",
+    "report_date": "2007-05-24",
+    "accession": "0000950134-07-012653",
+    "primary_document": "d47208e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950134-07-012653"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-07-26",
+    "acceptance_datetime": "2007-07-26T20:18:36.000Z",
+    "report_date": "2007-07-26",
+    "accession": "0000950134-07-015940",
+    "primary_document": "d48410e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-07-015940"
+  },
+  {
+    "form": "8-K",
+    "items": "2.06",
+    "filing_date": "2007-10-11",
+    "acceptance_datetime": "2007-10-11T10:02:04.000Z",
+    "report_date": "2007-10-11",
+    "accession": "0000950134-07-021165",
+    "primary_document": "d50440e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.06; accession=0000950134-07-021165"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-10-25",
+    "acceptance_datetime": "2007-10-25T20:01:45.000Z",
+    "report_date": "2007-10-25",
+    "accession": "0000950134-07-021974",
+    "primary_document": "d50727e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-07-021974"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-12-14",
+    "acceptance_datetime": "2007-12-13T23:58:49.000Z",
+    "report_date": "2007-12-11",
+    "accession": "0000950134-07-025372",
+    "primary_document": "d52376e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950134-07-025372"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,9.01",
+    "filing_date": "2007-12-20",
+    "acceptance_datetime": "2007-12-20T17:52:10.000Z",
+    "report_date": "2007-12-14",
+    "accession": "0000950134-07-025835",
+    "primary_document": "d52504e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,1.02,2.03,9.01; accession=0000950134-07-025835"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-02-07",
+    "acceptance_datetime": "2008-02-07T19:17:03.000Z",
+    "report_date": "2008-02-01",
+    "accession": "0000950134-08-001897",
+    "primary_document": "d53735e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0000950134-08-001897"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-02-20",
+    "acceptance_datetime": "2008-02-20T22:00:26.000Z",
+    "report_date": "2008-02-20",
+    "accession": "0000950134-08-003077",
+    "primary_document": "d54177e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-08-003077"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-03-03",
+    "acceptance_datetime": "2008-03-03T20:29:42.000Z",
+    "report_date": "2008-02-26",
+    "accession": "0000950134-08-003941",
+    "primary_document": "d54582e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0000950134-08-003941"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-04-24",
+    "acceptance_datetime": "2008-04-24T21:18:31.000Z",
+    "report_date": "2008-04-24",
+    "accession": "0000950134-08-007321",
+    "primary_document": "d56093e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-08-007321"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-07-31",
+    "acceptance_datetime": "2008-07-31T20:17:43.000Z",
+    "report_date": "2008-07-31",
+    "accession": "0000950134-08-013803",
+    "primary_document": "d58892e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-08-013803"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2008-10-16",
+    "acceptance_datetime": "2008-10-16T12:00:53.000Z",
+    "report_date": "2008-10-16",
+    "accession": "0000950134-08-018039",
+    "primary_document": "d64651e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950134-08-018039"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-10-23",
+    "acceptance_datetime": "2008-10-23T21:07:09.000Z",
+    "report_date": "2008-10-23",
+    "accession": "0000950134-08-018391",
+    "primary_document": "d64741e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-08-018391"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-02-19",
+    "acceptance_datetime": "2009-02-19T22:00:47.000Z",
+    "report_date": "2009-02-19",
+    "accession": "0000950134-09-003300",
+    "primary_document": "d66455e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-09-003300"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-04-23",
+    "acceptance_datetime": "2009-04-23T20:38:06.000Z",
+    "report_date": "2009-04-23",
+    "accession": "0000950134-09-008243",
+    "primary_document": "d67373e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-09-008243"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-07-23",
+    "acceptance_datetime": "2009-07-23T21:10:12.000Z",
+    "report_date": "2009-07-23",
+    "accession": "0000950123-09-024853",
+    "primary_document": "d68479e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-09-024853"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-09-01",
+    "acceptance_datetime": "2009-09-01T15:13:37.000Z",
+    "report_date": "2009-08-31",
+    "accession": "0000950123-09-040029",
+    "primary_document": "d69021e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-09-040029"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-10-22",
+    "acceptance_datetime": "2009-10-22T21:13:35.000Z",
+    "report_date": "2009-10-22",
+    "accession": "0000950123-09-052416",
+    "primary_document": "d69741e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-09-052416"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2009-10-23",
+    "acceptance_datetime": "2009-10-23T21:30:57.000Z",
+    "report_date": "2009-10-23",
+    "accession": "0000950123-09-052792",
+    "primary_document": "d69752e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0000950123-09-052792"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-10-30",
+    "acceptance_datetime": "2009-10-30T16:24:16.000Z",
+    "report_date": "2009-10-30",
+    "accession": "0000950123-09-055379",
+    "primary_document": "d69817e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-09-055379"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-11-09",
+    "acceptance_datetime": "2009-11-09T20:32:53.000Z",
+    "report_date": "2009-11-05",
+    "accession": "0000950123-09-060088",
+    "primary_document": "d70027e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-09-060088"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2009-11-23",
+    "acceptance_datetime": "2009-11-23T21:18:31.000Z",
+    "report_date": "2009-11-17",
+    "accession": "0000950123-09-065167",
+    "primary_document": "d70221e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950123-09-065167"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2009-12-03",
+    "acceptance_datetime": "2009-12-03T20:22:49.000Z",
+    "report_date": "2009-12-02",
+    "accession": "0000950123-09-068003",
+    "primary_document": "d70313e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0000950123-09-068003"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.02",
+    "filing_date": "2009-12-09",
+    "acceptance_datetime": "2009-12-09T19:00:55.000Z",
+    "report_date": "2009-11-17",
+    "accession": "0000950123-09-069486",
+    "primary_document": "d70371e8vkza.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0000950123-09-069486"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-12-24",
+    "acceptance_datetime": "2009-12-24T11:01:10.000Z",
+    "report_date": "2009-12-23",
+    "accession": "0000950123-09-073245",
+    "primary_document": "d70560e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-09-073245"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,5.02,8.01,9.01",
+    "filing_date": "2010-01-14",
+    "acceptance_datetime": "2010-01-14T21:12:58.000Z",
+    "report_date": "2010-01-08",
+    "accession": "0000950123-10-002598",
+    "primary_document": "d70664e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,3.03,5.02,8.01,9.01; accession=0000950123-10-002598"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,3.02,8.01,9.01",
+    "filing_date": "2010-01-22",
+    "acceptance_datetime": "2010-01-22T22:23:26.000Z",
+    "report_date": "2010-01-21",
+    "accession": "0000950123-10-004552",
+    "primary_document": "d70750e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,1.02,2.03,3.02,8.01,9.01; accession=0000950123-10-004552"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-02-18",
+    "acceptance_datetime": "2010-02-18T22:24:20.000Z",
+    "report_date": "2010-02-18",
+    "accession": "0000950123-10-014189",
+    "primary_document": "d71128e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-014189"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2010-02-26",
+    "acceptance_datetime": "2010-02-26T19:56:52.000Z",
+    "report_date": "2010-02-23",
+    "accession": "0000950123-10-018002",
+    "primary_document": "c97010e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950123-10-018002"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-04-22",
+    "acceptance_datetime": "2010-04-22T21:26:36.000Z",
+    "report_date": "2010-04-22",
+    "accession": "0000950123-10-037232",
+    "primary_document": "d72407e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-037232"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2010-05-26",
+    "acceptance_datetime": "2010-05-26T19:54:11.000Z",
+    "report_date": "2010-05-24",
+    "accession": "0000950123-10-053213",
+    "primary_document": "c01677e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0000950123-10-053213"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-07-22",
+    "acceptance_datetime": "2010-07-22T21:26:43.000Z",
+    "report_date": "2010-07-22",
+    "accession": "0000950123-10-067364",
+    "primary_document": "d74521e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-067364"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-10-21",
+    "acceptance_datetime": "2010-10-21T20:59:13.000Z",
+    "report_date": "2010-10-21",
+    "accession": "0000950123-10-094951",
+    "primary_document": "d77064e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-094951"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2010-11-30",
+    "acceptance_datetime": "2010-11-30T14:00:17.000Z",
+    "report_date": "2010-11-23",
+    "accession": "0000950123-10-109593",
+    "primary_document": "c09069e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950123-10-109593"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-02-17",
+    "acceptance_datetime": "2011-02-17T22:20:17.000Z",
+    "report_date": "2011-02-17",
+    "accession": "0000950123-11-015236",
+    "primary_document": "d79837e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-015236"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-04-05",
+    "acceptance_datetime": "2011-04-04T22:10:55.000Z",
+    "report_date": "2011-04-04",
+    "accession": "0000950123-11-032630",
+    "primary_document": "y90650e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-11-032630"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2011-04-05",
+    "acceptance_datetime": "2011-04-04T23:18:07.000Z",
+    "report_date": "2011-04-04",
+    "accession": "0000950123-11-032684",
+    "primary_document": "y90649e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01; accession=0000950123-11-032684"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-04-25",
+    "acceptance_datetime": "2011-04-25T11:20:52.000Z",
+    "report_date": "2011-04-25",
+    "accession": "0000950123-11-038476",
+    "primary_document": "d81584e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-038476"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2011-05-26",
+    "acceptance_datetime": "2011-05-26T19:23:57.000Z",
+    "report_date": "2011-05-25",
+    "accession": "0000950123-11-054360",
+    "primary_document": "c18051e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0000950123-11-054360"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-07-21",
+    "acceptance_datetime": "2011-07-21T21:14:40.000Z",
+    "report_date": "2011-07-21",
+    "accession": "0000950123-11-067218",
+    "primary_document": "d83685e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-067218"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-10-20",
+    "acceptance_datetime": "2011-10-20T21:15:41.000Z",
+    "report_date": "2011-10-20",
+    "accession": "0000950123-11-090991",
+    "primary_document": "c23523e8vk.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-090991"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,3.02,9.01",
+    "filing_date": "2011-12-08",
+    "acceptance_datetime": "2011-12-08T20:58:00.000Z",
+    "report_date": "2011-12-02",
+    "accession": "0001193125-11-335060",
+    "primary_document": "d266533d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,1.02,2.03,3.02,9.01; accession=0001193125-11-335060"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-02-16",
+    "acceptance_datetime": "2012-02-16T20:41:53.000Z",
+    "report_date": "2012-02-16",
+    "accession": "0001193125-12-065259",
+    "primary_document": "d302617d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-065259"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2012-03-01",
+    "acceptance_datetime": "2012-03-01T21:27:00.000Z",
+    "report_date": "2012-02-24",
+    "accession": "0001193125-12-092247",
+    "primary_document": "d310594d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0001193125-12-092247"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-04-19",
+    "acceptance_datetime": "2012-04-19T20:11:05.000Z",
+    "report_date": "2012-04-19",
+    "accession": "0001193125-12-170684",
+    "primary_document": "d337302d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-170684"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2012-05-30",
+    "acceptance_datetime": "2012-05-30T16:37:59.000Z",
+    "report_date": "2012-05-23",
+    "accession": "0001193125-12-252751",
+    "primary_document": "d360519d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0001193125-12-252751"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-07-19",
+    "acceptance_datetime": "2012-07-19T20:23:00.000Z",
+    "report_date": "2012-07-19",
+    "accession": "0001193125-12-307499",
+    "primary_document": "d382328d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-307499"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-10-18",
+    "acceptance_datetime": "2012-10-18T20:41:00.000Z",
+    "report_date": "2012-10-18",
+    "accession": "0001193125-12-427274",
+    "primary_document": "d428138d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-427274"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2012-12-21",
+    "acceptance_datetime": "2012-12-21T20:20:23.000Z",
+    "report_date": "2012-12-17",
+    "accession": "0001193125-12-512672",
+    "primary_document": "d456628d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-12-512672"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-02-21",
+    "acceptance_datetime": "2013-02-21T21:57:59.000Z",
+    "report_date": "2013-02-21",
+    "accession": "0001193125-13-069485",
+    "primary_document": "d490150d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-069485"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01",
+    "filing_date": "2013-04-11",
+    "acceptance_datetime": "2013-04-11T17:21:55.000Z",
+    "report_date": "2013-04-06",
+    "accession": "0001193125-13-150662",
+    "primary_document": "d520145d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,8.01; accession=0001193125-13-150662"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-04-25",
+    "acceptance_datetime": "2013-04-25T21:06:25.000Z",
+    "report_date": "2013-04-25",
+    "accession": "0001193125-13-174094",
+    "primary_document": "d526647d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-174094"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2013-05-13",
+    "acceptance_datetime": "2013-05-13T11:28:53.000Z",
+    "report_date": "2013-05-13",
+    "accession": "0001193125-13-215459",
+    "primary_document": "d536504d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001193125-13-215459"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-05-17",
+    "acceptance_datetime": "2013-05-17T20:25:58.000Z",
+    "report_date": "2013-05-16",
+    "accession": "0001193125-13-226131",
+    "primary_document": "d540448d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-226131"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2013-05-28",
+    "acceptance_datetime": "2013-05-28T20:55:10.000Z",
+    "report_date": "2013-05-22",
+    "accession": "0001193125-13-237604",
+    "primary_document": "d545364d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0001193125-13-237604"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2013-06-03",
+    "acceptance_datetime": "2013-06-03T21:18:30.000Z",
+    "report_date": "2013-05-29",
+    "accession": "0001193125-13-245434",
+    "primary_document": "d547322d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001193125-13-245434"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-07-25",
+    "acceptance_datetime": "2013-07-25T21:23:03.000Z",
+    "report_date": "2013-07-25",
+    "accession": "0001193125-13-302909",
+    "primary_document": "d576096d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-302909"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-10-25",
+    "acceptance_datetime": "2013-10-24T21:53:11.000Z",
+    "report_date": "2013-10-24",
+    "accession": "0001193125-13-410115",
+    "primary_document": "d616907d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-410115"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-02-21",
+    "acceptance_datetime": "2014-02-20T23:15:59.000Z",
+    "report_date": "2014-02-20",
+    "accession": "0001193125-14-061085",
+    "primary_document": "d677902d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-061085"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-04-24",
+    "acceptance_datetime": "2014-04-24T21:19:08.000Z",
+    "report_date": "2014-04-24",
+    "accession": "0001193125-14-157380",
+    "primary_document": "d713587d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-157380"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2014-05-28",
+    "acceptance_datetime": "2014-05-28T18:46:02.000Z",
+    "report_date": "2014-05-21",
+    "accession": "0001193125-14-214738",
+    "primary_document": "d733704d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001193125-14-214738"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-07-24",
+    "acceptance_datetime": "2014-07-24T21:18:06.000Z",
+    "report_date": "2014-07-24",
+    "accession": "0001193125-14-279089",
+    "primary_document": "d763240d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-279089"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-10-24",
+    "acceptance_datetime": "2014-10-23T22:22:53.000Z",
+    "report_date": "2014-10-23",
+    "accession": "0001193125-14-380481",
+    "primary_document": "d808084d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-380481"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2014-11-06",
+    "acceptance_datetime": "2014-11-06T21:40:59.000Z",
+    "report_date": "2014-11-04",
+    "accession": "0001193125-14-401143",
+    "primary_document": "d816505d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-14-401143"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-02-19",
+    "acceptance_datetime": "2015-02-19T22:17:57.000Z",
+    "report_date": "2015-02-19",
+    "accession": "0001193125-15-054379",
+    "primary_document": "d875131d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-054379"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2015-04-13",
+    "acceptance_datetime": "2015-04-13T12:16:02.000Z",
+    "report_date": "2015-04-13",
+    "accession": "0001193125-15-126847",
+    "primary_document": "d910401d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001193125-15-126847"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-04-23",
+    "acceptance_datetime": "2015-04-23T21:15:00.000Z",
+    "report_date": "2015-04-23",
+    "accession": "0001193125-15-144436",
+    "primary_document": "d914709d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-144436"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-04-24",
+    "acceptance_datetime": "2015-04-24T20:06:33.000Z",
+    "report_date": "2015-04-24",
+    "accession": "0001193125-15-146692",
+    "primary_document": "d913927d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-15-146692"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-05-04",
+    "acceptance_datetime": "2015-05-02T01:19:00.000Z",
+    "report_date": "2015-05-01",
+    "accession": "0001193125-15-166881",
+    "primary_document": "d916908d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-15-166881"
+  },
+  {
+    "form": "8-K/A",
+    "items": "8.01,9.01",
+    "filing_date": "2015-05-29",
+    "acceptance_datetime": "2015-05-29T00:43:59.000Z",
+    "report_date": "2015-04-13",
+    "accession": "0001193125-15-204714",
+    "primary_document": "d934759d8ka.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-15-204714"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-05-29",
+    "acceptance_datetime": "2015-05-29T19:19:29.000Z",
+    "report_date": "2015-05-27",
+    "accession": "0001193125-15-206461",
+    "primary_document": "d937244d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0001193125-15-206461"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2015-07-17",
+    "acceptance_datetime": "2015-07-17T14:13:05.000Z",
+    "report_date": "2015-07-16",
+    "accession": "0001193125-15-255531",
+    "primary_document": "d50404d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001193125-15-255531"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-07-23",
+    "acceptance_datetime": "2015-07-23T21:14:00.000Z",
+    "report_date": "2015-07-23",
+    "accession": "0001193125-15-261321",
+    "primary_document": "d23809d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-261321"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-07-24",
+    "acceptance_datetime": "2015-07-24T01:47:35.000Z",
+    "report_date": "2015-07-23",
+    "accession": "0001193125-15-261602",
+    "primary_document": "d62768d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01; accession=0001193125-15-261602"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-07-30",
+    "acceptance_datetime": "2015-07-30T20:13:59.000Z",
+    "report_date": "2015-07-24",
+    "accession": "0001193125-15-270813",
+    "primary_document": "d88665d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-15-270813"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,8.01,9.01",
+    "filing_date": "2015-07-31",
+    "acceptance_datetime": "2015-07-31T21:13:54.000Z",
+    "report_date": "2015-07-29",
+    "accession": "0001193125-15-273130",
+    "primary_document": "d46916d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.01,8.01,9.01; accession=0001193125-15-273130"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2015-08-06",
+    "acceptance_datetime": "2015-08-06T20:44:02.000Z",
+    "report_date": "2015-07-31",
+    "accession": "0001193125-15-281152",
+    "primary_document": "d89945d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-15-281152"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-09-11",
+    "acceptance_datetime": "2015-09-11T19:01:07.000Z",
+    "report_date": "2015-09-04",
+    "accession": "0001193125-15-318364",
+    "primary_document": "d12908d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0001193125-15-318364"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-11-06",
+    "acceptance_datetime": "2015-11-05T23:28:30.000Z",
+    "report_date": "2015-11-05",
+    "accession": "0001193125-15-368609",
+    "primary_document": "d56433d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-368609"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-11-19",
+    "acceptance_datetime": "2015-11-19T21:17:20.000Z",
+    "report_date": "2015-11-19",
+    "accession": "0000950123-15-012333",
+    "primary_document": "bldr-8K.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-15-012333"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-11-19",
+    "acceptance_datetime": "2015-11-19T21:23:43.000Z",
+    "report_date": "2015-11-19",
+    "accession": "0000950123-15-012334",
+    "primary_document": "bldr-8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-15-012334"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-11-19",
+    "acceptance_datetime": "2015-11-19T21:27:00.000Z",
+    "report_date": "2015-11-19",
+    "accession": "0000950123-15-012335",
+    "primary_document": "bldr-8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-15-012335"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-11-25",
+    "acceptance_datetime": "2015-11-25T21:22:20.000Z",
+    "report_date": "2015-11-19",
+    "accession": "0001341004-15-000881",
+    "primary_document": "bldr8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0001341004-15-000881"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-03",
+    "acceptance_datetime": "2016-02-02T22:59:00.000Z",
+    "report_date": "2016-02-02",
+    "accession": "0001193125-16-447916",
+    "primary_document": "d131997d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-447916"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2016-02-08",
+    "acceptance_datetime": "2016-02-08T12:17:04.000Z",
+    "report_date": "2016-02-05",
+    "accession": "0001193125-16-453058",
+    "primary_document": "d127381d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001193125-16-453058"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2016-02-29",
+    "acceptance_datetime": "2016-02-29T12:26:34.000Z",
+    "report_date": "2016-02-25",
+    "accession": "0001193125-16-483560",
+    "primary_document": "d139039d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001193125-16-483560"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-03-04",
+    "acceptance_datetime": "2016-03-04T01:16:31.000Z",
+    "report_date": "2016-03-03",
+    "accession": "0001193125-16-491987",
+    "primary_document": "d154702d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-491987"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-05-05",
+    "acceptance_datetime": "2016-05-05T20:15:38.000Z",
+    "report_date": "2016-05-05",
+    "accession": "0001193125-16-579924",
+    "primary_document": "d190102d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-579924"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2016-05-16",
+    "acceptance_datetime": "2016-05-16T10:32:43.000Z",
+    "report_date": "2016-05-12",
+    "accession": "0001193125-16-591018",
+    "primary_document": "d178510d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01; accession=0001193125-16-591018"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-05-18",
+    "acceptance_datetime": "2016-05-18T20:46:05.000Z",
+    "report_date": "2016-05-18",
+    "accession": "0001193125-16-594566",
+    "primary_document": "d195475d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-594566"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2016-05-24",
+    "acceptance_datetime": "2016-05-24T20:09:37.000Z",
+    "report_date": "2016-05-24",
+    "accession": "0001193125-16-600578",
+    "primary_document": "d197084d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-16-600578"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2016-06-01",
+    "acceptance_datetime": "2016-06-01T20:03:01.000Z",
+    "report_date": "2016-05-25",
+    "accession": "0001193125-16-609880",
+    "primary_document": "d189613d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0001193125-16-609880"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01",
+    "filing_date": "2016-07-28",
+    "acceptance_datetime": "2016-07-28T13:57:04.000Z",
+    "report_date": "2016-07-27",
+    "accession": "0001193125-16-661402",
+    "primary_document": "d232850d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,8.01; accession=0001193125-16-661402"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-08-05",
+    "acceptance_datetime": "2016-08-04T21:58:04.000Z",
+    "report_date": "2016-08-04",
+    "accession": "0001193125-16-672118",
+    "primary_document": "d231310d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-672118"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2016-08-10",
+    "acceptance_datetime": "2016-08-10T11:31:04.000Z",
+    "report_date": "2016-08-09",
+    "accession": "0001193125-16-677525",
+    "primary_document": "d223318d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-16-677525"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2016-08-23",
+    "acceptance_datetime": "2016-08-23T12:31:00.000Z",
+    "report_date": "2016-08-22",
+    "accession": "0001193125-16-688065",
+    "primary_document": "d131759d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-16-688065"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-09-14",
+    "acceptance_datetime": "2016-09-14T20:26:02.000Z",
+    "report_date": "2016-09-14",
+    "accession": "0001193125-16-709686",
+    "primary_document": "d257355d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-709686"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-10-13",
+    "acceptance_datetime": "2016-10-13T13:13:02.000Z",
+    "report_date": "2016-10-13",
+    "accession": "0001193125-16-737240",
+    "primary_document": "d242832d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-737240"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-11-03",
+    "acceptance_datetime": "2016-11-03T20:26:02.000Z",
+    "report_date": "2016-11-03",
+    "accession": "0001193125-16-758879",
+    "primary_document": "d286867d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-758879"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-02-28",
+    "acceptance_datetime": "2017-02-28T21:27:04.000Z",
+    "report_date": "2017-02-28",
+    "accession": "0001193125-17-062395",
+    "primary_document": "d264081d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-062395"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2017-03-08",
+    "acceptance_datetime": "2017-03-08T19:57:02.000Z",
+    "report_date": "2017-03-02",
+    "accession": "0001193125-17-074595",
+    "primary_document": "d285817d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-17-074595"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2017-03-28",
+    "acceptance_datetime": "2017-03-28T10:07:05.000Z",
+    "report_date": "2017-03-22",
+    "accession": "0001193125-17-098501",
+    "primary_document": "d366623d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-17-098501"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-04-13",
+    "acceptance_datetime": "2017-04-13T20:10:02.000Z",
+    "report_date": "2017-04-10",
+    "accession": "0001193125-17-123229",
+    "primary_document": "d377415d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0001193125-17-123229"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-05-08",
+    "acceptance_datetime": "2017-05-08T20:25:03.000Z",
+    "report_date": "2017-05-08",
+    "accession": "0001193125-17-162643",
+    "primary_document": "d391572d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-162643"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2017-05-25",
+    "acceptance_datetime": "2017-05-25T20:58:56.000Z",
+    "report_date": "2017-05-24",
+    "accession": "0001193125-17-183850",
+    "primary_document": "d384526d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0001193125-17-183850"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-08-03",
+    "acceptance_datetime": "2017-08-03T20:27:04.000Z",
+    "report_date": "2017-08-03",
+    "accession": "0001193125-17-247470",
+    "primary_document": "d431066d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-247470"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2017-08-10",
+    "acceptance_datetime": "2017-08-10T00:38:03.000Z",
+    "report_date": "2017-08-09",
+    "accession": "0001193125-17-253138",
+    "primary_document": "d633249d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-17-253138"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-09-06",
+    "acceptance_datetime": "2017-09-06T21:24:38.000Z",
+    "report_date": "2017-09-06",
+    "accession": "0001193125-17-277973",
+    "primary_document": "d447261d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-277973"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2017-09-08",
+    "acceptance_datetime": "2017-09-08T20:45:07.000Z",
+    "report_date": "2017-09-06",
+    "accession": "0001193125-17-280682",
+    "primary_document": "d455577d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-17-280682"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.07",
+    "filing_date": "2017-09-29",
+    "acceptance_datetime": "2017-09-29T21:02:03.000Z",
+    "report_date": "2017-05-24",
+    "accession": "0001564590-17-019102",
+    "primary_document": "bldr-8ka_20170524.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0001564590-17-019102"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,9.01",
+    "filing_date": "2017-11-06",
+    "acceptance_datetime": "2017-11-06T22:01:04.000Z",
+    "report_date": "2017-10-31",
+    "accession": "0001193125-17-334452",
+    "primary_document": "d471628d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,5.03,9.01; accession=0001193125-17-334452"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-11-08",
+    "acceptance_datetime": "2017-11-08T21:34:33.000Z",
+    "report_date": "2017-11-08",
+    "accession": "0001193125-17-337341",
+    "primary_document": "d485509d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-337341"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2017-12-14",
+    "acceptance_datetime": "2017-12-14T21:26:34.000Z",
+    "report_date": "2017-12-14",
+    "accession": "0001564590-17-024932",
+    "primary_document": "bldr-8k_20171214.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01; accession=0001564590-17-024932"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-02-26",
+    "acceptance_datetime": "2018-02-26T19:43:01.000Z",
+    "report_date": "2018-02-20",
+    "accession": "0001564590-18-003198",
+    "primary_document": "bldr-8k_20180220.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0001564590-18-003198"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-28",
+    "acceptance_datetime": "2018-02-28T21:49:01.000Z",
+    "report_date": "2018-02-28",
+    "accession": "0001193125-18-064138",
+    "primary_document": "d543949d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-064138"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-05-09",
+    "acceptance_datetime": "2018-05-09T20:19:56.000Z",
+    "report_date": "2018-05-09",
+    "accession": "0001193125-18-157557",
+    "primary_document": "d577495d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-157557"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-05-25",
+    "acceptance_datetime": "2018-05-25T20:00:15.000Z",
+    "report_date": "2018-05-23",
+    "accession": "0001564590-18-014427",
+    "primary_document": "bldr-8k_20180523.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0001564590-18-014427"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-08-07",
+    "acceptance_datetime": "2018-08-07T20:36:05.000Z",
+    "report_date": "2018-08-07",
+    "accession": "0001193125-18-241227",
+    "primary_document": "d590625d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-241227"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-11-01",
+    "acceptance_datetime": "2018-11-01T20:06:01.000Z",
+    "report_date": "2018-11-01",
+    "accession": "0001193125-18-315729",
+    "primary_document": "d646453d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-315729"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-11-02",
+    "acceptance_datetime": "2018-11-02T13:51:42.000Z",
+    "report_date": "2018-10-31",
+    "accession": "0001564590-18-026390",
+    "primary_document": "bldr-8k_20181031.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0001564590-18-026390"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-11-29",
+    "acceptance_datetime": "2018-11-29T22:12:55.000Z",
+    "report_date": "2018-11-29",
+    "accession": "0001564590-18-030293",
+    "primary_document": "bldr-8k_20181129.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0001564590-18-030293"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-28",
+    "acceptance_datetime": "2019-02-28T21:16:33.000Z",
+    "report_date": "2019-02-28",
+    "accession": "0001193125-19-057496",
+    "primary_document": "d711584d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-057496"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-03-05",
+    "acceptance_datetime": "2019-03-05T13:40:32.000Z",
+    "report_date": "2019-03-05",
+    "accession": "0001193125-19-063255",
+    "primary_document": "d684725d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-19-063255"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-03-19",
+    "acceptance_datetime": "2019-03-19T12:15:02.000Z",
+    "report_date": "2019-03-19",
+    "accession": "0001193125-19-078998",
+    "primary_document": "d718666d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-19-078998"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2019-04-30",
+    "acceptance_datetime": "2019-04-30T21:01:35.000Z",
+    "report_date": "2019-04-24",
+    "accession": "0001193125-19-129650",
+    "primary_document": "d734639d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-19-129650"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-02",
+    "acceptance_datetime": "2019-05-02T20:16:03.000Z",
+    "report_date": "2019-05-02",
+    "accession": "0001193125-19-135028",
+    "primary_document": "d743574d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-135028"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2019-05-24",
+    "acceptance_datetime": "2019-05-24T20:24:33.000Z",
+    "report_date": "2019-05-21",
+    "accession": "0001193125-19-157053",
+    "primary_document": "d752331d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-19-157053"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2019-05-29",
+    "acceptance_datetime": "2019-05-28T22:20:19.000Z",
+    "report_date": "2019-05-22",
+    "accession": "0001564590-19-020621",
+    "primary_document": "bldr-8k_20190528.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0001564590-19-020621"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2019-05-31",
+    "acceptance_datetime": "2019-05-31T20:31:01.000Z",
+    "report_date": "2019-05-30",
+    "accession": "0001193125-19-162897",
+    "primary_document": "d736510d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-19-162897"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2019-07-12",
+    "acceptance_datetime": "2019-07-12T21:04:57.000Z",
+    "report_date": "2019-07-11",
+    "accession": "0001193125-19-193290",
+    "primary_document": "d772644d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-19-193290"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2019-07-30",
+    "acceptance_datetime": "2019-07-30T20:30:55.000Z",
+    "report_date": "2019-07-25",
+    "accession": "0001193125-19-207090",
+    "primary_document": "d784014d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-19-207090"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-08-01",
+    "acceptance_datetime": "2019-08-01T20:19:06.000Z",
+    "report_date": "2019-08-01",
+    "accession": "0001193125-19-210890",
+    "primary_document": "d610317d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-210890"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-08-09",
+    "acceptance_datetime": "2019-08-09T20:22:28.000Z",
+    "report_date": "2019-08-09",
+    "accession": "0001564590-19-031270",
+    "primary_document": "bldr-8k_20190809.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0001564590-19-031270"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-08-23",
+    "acceptance_datetime": "2019-08-23T20:24:19.000Z",
+    "report_date": "2019-08-19",
+    "accession": "0001564590-19-032902",
+    "primary_document": "bldr-8k_20190819.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0001564590-19-032902"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01",
+    "filing_date": "2019-10-10",
+    "acceptance_datetime": "2019-10-10T20:44:23.000Z",
+    "report_date": "2019-10-04",
+    "accession": "0001564590-19-036785",
+    "primary_document": "bldr-8k_20191004.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=3.01; accession=0001564590-19-036785"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2019-10-16",
+    "acceptance_datetime": "2019-10-16T20:35:40.000Z",
+    "report_date": "2019-10-14",
+    "accession": "0001564590-19-037028",
+    "primary_document": "bldr-8k_20191014.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,9.01; accession=0001564590-19-037028"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-10-31",
+    "acceptance_datetime": "2019-10-31T20:16:10.000Z",
+    "report_date": "2019-10-31",
+    "accession": "0001193125-19-280473",
+    "primary_document": "d822448d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-280473"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2020-01-13",
+    "acceptance_datetime": "2020-01-13T21:45:15.000Z",
+    "report_date": "2020-01-10",
+    "accession": "0001564590-20-000969",
+    "primary_document": "bldr-8k_20200110.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,9.01; accession=0001564590-20-000969"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-02-06",
+    "acceptance_datetime": "2020-02-06T12:38:39.000Z",
+    "report_date": "2020-02-06",
+    "accession": "0001193125-20-026187",
+    "primary_document": "d882444d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-20-026187"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,7.01,9.01",
+    "filing_date": "2020-02-11",
+    "acceptance_datetime": "2020-02-11T22:07:11.000Z",
+    "report_date": "2020-02-06",
+    "accession": "0001193125-20-031497",
+    "primary_document": "d880246d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,7.01,9.01; accession=0001193125-20-031497"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-02-20",
+    "acceptance_datetime": "2020-02-20T21:16:18.000Z",
+    "report_date": "2020-02-20",
+    "accession": "0001193125-20-043517",
+    "primary_document": "d886023d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-043517"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2020-04-06",
+    "acceptance_datetime": "2020-04-06T21:00:45.000Z",
+    "report_date": "2020-04-06",
+    "accession": "0001564590-20-015544",
+    "primary_document": "bldr-8k_20200406.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001564590-20-015544"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,8.01,9.01",
+    "filing_date": "2020-04-21",
+    "acceptance_datetime": "2020-04-21T11:44:59.000Z",
+    "report_date": "2020-04-21",
+    "accession": "0001564590-20-017561",
+    "primary_document": "bldr-8k_20200421.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,7.01,8.01,9.01; accession=0001564590-20-017561"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,7.01,9.01",
+    "filing_date": "2020-04-24",
+    "acceptance_datetime": "2020-04-24T20:20:31.000Z",
+    "report_date": "2020-04-21",
+    "accession": "0001564590-20-018519",
+    "primary_document": "bldr-8k_20200421.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,7.01,9.01; accession=0001564590-20-018519"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-04-30",
+    "acceptance_datetime": "2020-04-30T20:15:46.000Z",
+    "report_date": "2020-04-30",
+    "accession": "0001193125-20-128803",
+    "primary_document": "d913988d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-128803"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2020-06-22",
+    "acceptance_datetime": "2020-06-22T20:18:41.000Z",
+    "report_date": "2020-06-17",
+    "accession": "0001193125-20-175598",
+    "primary_document": "d920637d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0001193125-20-175598"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-07-30",
+    "acceptance_datetime": "2020-07-31T01:12:02.000Z",
+    "report_date": "2020-07-30",
+    "accession": "0001193125-20-204782",
+    "primary_document": "d934028d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-204782"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2020-08-14",
+    "acceptance_datetime": "2020-08-14T20:07:24.000Z",
+    "report_date": "2020-08-11",
+    "accession": "0001193125-20-220347",
+    "primary_document": "d27662d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.03,9.01; accession=0001193125-20-220347"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-08-27",
+    "acceptance_datetime": "2020-08-27T11:20:08.000Z",
+    "report_date": "2020-08-26",
+    "accession": "0001193125-20-231974",
+    "primary_document": "d937866d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-231974"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2020-08-27",
+    "acceptance_datetime": "2020-08-27T21:16:32.000Z",
+    "report_date": "2020-08-26",
+    "accession": "0001193125-20-233278",
+    "primary_document": "d89165d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001193125-20-233278"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.02,9.01",
+    "filing_date": "2020-09-25",
+    "acceptance_datetime": "2020-09-25T20:05:54.000Z",
+    "report_date": "2020-07-30",
+    "accession": "0001193125-20-254562",
+    "primary_document": "d19511d8ka.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-254562"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2020-10-15",
+    "acceptance_datetime": "2020-10-15T21:16:57.000Z",
+    "report_date": "2020-10-13",
+    "accession": "0001193125-20-270351",
+    "primary_document": "d90601d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01; accession=0001193125-20-270351"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-10-29",
+    "acceptance_datetime": "2020-10-29T20:15:59.000Z",
+    "report_date": "2020-10-29",
+    "accession": "0001193125-20-281063",
+    "primary_document": "d57537d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-281063"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-11-16",
+    "acceptance_datetime": "2020-11-16T13:31:31.000Z",
+    "report_date": "2020-11-16",
+    "accession": "0001193125-20-293940",
+    "primary_document": "d27220d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-293940"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2020-12-04",
+    "acceptance_datetime": "2020-12-04T22:01:04.000Z",
+    "report_date": "2020-12-04",
+    "accession": "0001193125-20-310741",
+    "primary_document": "d22125d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001193125-20-310741"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01",
+    "filing_date": "2020-12-22",
+    "acceptance_datetime": "2020-12-22T22:01:00.000Z",
+    "report_date": "2020-12-22",
+    "accession": "0001193125-20-324644",
+    "primary_document": "d311653d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07,8.01; accession=0001193125-20-324644"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.01,2.03,2.04,5.02,5.03,9.01",
+    "filing_date": "2021-01-04",
+    "acceptance_datetime": "2021-01-04T13:21:01.000Z",
+    "report_date": "2020-12-31",
+    "accession": "0001193125-21-000344",
+    "primary_document": "d101613d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,1.02,2.01,2.03,2.04,5.02,5.03,9.01; accession=0001193125-21-000344"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2021-02-03",
+    "acceptance_datetime": "2021-02-03T12:17:03.000Z",
+    "report_date": "2021-01-29",
+    "accession": "0001193125-21-026414",
+    "primary_document": "d89986d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001193125-21-026414"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-26",
+    "acceptance_datetime": "2021-02-26T12:00:55.000Z",
+    "report_date": "2021-02-26",
+    "accession": "0001193125-21-058342",
+    "primary_document": "d136141d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-21-058342"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-03-11",
+    "acceptance_datetime": "2021-03-11T22:19:03.000Z",
+    "report_date": "2021-03-05",
+    "accession": "0001193125-21-077980",
+    "primary_document": "d125196d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0001193125-21-077980"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2021-04-01",
+    "acceptance_datetime": "2021-04-01T12:01:54.000Z",
+    "report_date": "2021-04-01",
+    "accession": "0001193125-21-103274",
+    "primary_document": "d132961d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-21-103274"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-05-06",
+    "acceptance_datetime": "2021-05-06T10:58:03.000Z",
+    "report_date": "2021-05-06",
+    "accession": "0001193125-21-152438",
+    "primary_document": "d331655d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-21-152438"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-05-24",
+    "acceptance_datetime": "2021-05-24T10:08:31.000Z",
+    "report_date": "2021-05-24",
+    "accession": "0001193125-21-169884",
+    "primary_document": "d15402d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-21-169884"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2021-06-15",
+    "acceptance_datetime": "2021-06-15T20:36:38.000Z",
+    "report_date": "2021-06-15",
+    "accession": "0001193125-21-191211",
+    "primary_document": "d181179d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0001193125-21-191211"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-06-29",
+    "acceptance_datetime": "2021-06-29T11:01:01.000Z",
+    "report_date": "2021-06-28",
+    "accession": "0001193125-21-202611",
+    "primary_document": "d331899d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-21-202611"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,7.01,9.01",
+    "filing_date": "2021-07-06",
+    "acceptance_datetime": "2021-07-06T20:16:09.000Z",
+    "report_date": "2021-07-06",
+    "accession": "0001193125-21-208743",
+    "primary_document": "d194959d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=3.01,7.01,9.01; accession=0001193125-21-208743"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-07-21",
+    "acceptance_datetime": "2021-07-21T13:02:02.000Z",
+    "report_date": "2021-07-21",
+    "accession": "0001193125-21-220219",
+    "primary_document": "d202516d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-21-220219"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-07-21",
+    "acceptance_datetime": "2021-07-21T13:06:06.000Z",
+    "report_date": "2021-07-21",
+    "accession": "0001193125-21-220226",
+    "primary_document": "d202272d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-21-220226"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,7.01,9.01",
+    "filing_date": "2021-07-23",
+    "acceptance_datetime": "2021-07-23T20:05:51.000Z",
+    "report_date": "2021-07-21",
+    "accession": "0001193125-21-222999",
+    "primary_document": "d169326d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,7.01,9.01; accession=0001193125-21-222999"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-08-05",
+    "acceptance_datetime": "2021-08-05T11:01:24.000Z",
+    "report_date": "2021-08-05",
+    "accession": "0001193125-21-236942",
+    "primary_document": "d212538d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-21-236942"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-08-12",
+    "acceptance_datetime": "2021-08-12T14:17:55.000Z",
+    "report_date": "2021-08-12",
+    "accession": "0001193125-21-244012",
+    "primary_document": "d170450d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-21-244012"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-08-17",
+    "acceptance_datetime": "2021-08-17T11:00:56.000Z",
+    "report_date": "2021-08-16",
+    "accession": "0001193125-21-248346",
+    "primary_document": "d212800d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-21-248346"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-09-02",
+    "acceptance_datetime": "2021-09-02T11:01:03.000Z",
+    "report_date": "2021-09-02",
+    "accession": "0001193125-21-263678",
+    "primary_document": "d213782d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-21-263678"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-04",
+    "acceptance_datetime": "2021-11-04T10:59:34.000Z",
+    "report_date": "2021-11-04",
+    "accession": "0001193125-21-319274",
+    "primary_document": "d149951d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-21-319274"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-11-18",
+    "acceptance_datetime": "2021-11-18T12:00:37.000Z",
+    "report_date": "2021-11-18",
+    "accession": "0001193125-21-333155",
+    "primary_document": "d267395d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-21-333155"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-12-07",
+    "acceptance_datetime": "2021-12-07T13:47:30.000Z",
+    "report_date": "2021-12-07",
+    "accession": "0001193125-21-349718",
+    "primary_document": "d254698d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-21-349718"
+  },
+  {
+    "form": "8-K/A",
+    "items": "7.01,9.01",
+    "filing_date": "2021-12-13",
+    "acceptance_datetime": "2021-12-13T12:04:25.000Z",
+    "report_date": "2021-12-07",
+    "accession": "0001193125-21-354601",
+    "primary_document": "d268622d8ka.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-21-354601"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2021-12-22",
+    "acceptance_datetime": "2021-12-22T21:08:58.000Z",
+    "report_date": "2021-12-17",
+    "accession": "0001193125-21-364975",
+    "primary_document": "d272527d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-21-364975"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-01-05",
+    "acceptance_datetime": "2022-01-05T12:01:56.000Z",
+    "report_date": "2022-01-05",
+    "accession": "0001193125-22-002160",
+    "primary_document": "d274249d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-22-002160"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-01-19",
+    "acceptance_datetime": "2022-01-19T14:03:33.000Z",
+    "report_date": "2022-01-19",
+    "accession": "0001193125-22-012091",
+    "primary_document": "d296600d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-22-012091"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,7.01,9.01",
+    "filing_date": "2022-01-21",
+    "acceptance_datetime": "2022-01-21T21:06:11.000Z",
+    "report_date": "2022-01-19",
+    "accession": "0001193125-22-014799",
+    "primary_document": "d301209d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,7.01,9.01; accession=0001193125-22-014799"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2022-02-08",
+    "acceptance_datetime": "2022-02-08T12:00:57.000Z",
+    "report_date": "2022-02-04",
+    "accession": "0001193125-22-030386",
+    "primary_document": "d304596d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-22-030386"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-02-18",
+    "acceptance_datetime": "2022-02-18T12:00:55.000Z",
+    "report_date": "2022-02-18",
+    "accession": "0001193125-22-045956",
+    "primary_document": "d172057d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-045956"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-03-01",
+    "acceptance_datetime": "2022-03-01T12:00:10.000Z",
+    "report_date": "2022-03-01",
+    "accession": "0001193125-22-059767",
+    "primary_document": "d287479d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-22-059767"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-03-07",
+    "acceptance_datetime": "2022-03-07T12:00:55.000Z",
+    "report_date": "2022-03-07",
+    "accession": "0001193125-22-066927",
+    "primary_document": "d294841d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-22-066927"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,9.01",
+    "filing_date": "2022-04-28",
+    "acceptance_datetime": "2022-04-28T20:14:49.000Z",
+    "report_date": "2022-04-28",
+    "accession": "0001193125-22-127583",
+    "primary_document": "d302464d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,5.03,9.01; accession=0001193125-22-127583"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2022-05-10",
+    "acceptance_datetime": "2022-05-10T10:01:57.000Z",
+    "report_date": "2022-05-10",
+    "accession": "0001193125-22-145363",
+    "primary_document": "d236117d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001193125-22-145363"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-06-01",
+    "acceptance_datetime": "2022-06-01T12:58:01.000Z",
+    "report_date": "2022-06-01",
+    "accession": "0001193125-22-164687",
+    "primary_document": "d308351d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-22-164687"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2022-06-14",
+    "acceptance_datetime": "2022-06-14T20:05:59.000Z",
+    "report_date": "2022-06-14",
+    "accession": "0001193125-22-173828",
+    "primary_document": "d296811d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0001193125-22-173828"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,7.01,9.01",
+    "filing_date": "2022-06-16",
+    "acceptance_datetime": "2022-06-16T20:06:03.000Z",
+    "report_date": "2022-06-15",
+    "accession": "0001193125-22-175497",
+    "primary_document": "d307421d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,1.02,2.03,7.01,9.01; accession=0001193125-22-175497"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-08-01",
+    "acceptance_datetime": "2022-08-01T11:00:56.000Z",
+    "report_date": "2022-08-01",
+    "accession": "0001193125-22-207654",
+    "primary_document": "d369388d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-22-207654"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-09-01",
+    "acceptance_datetime": "2022-09-01T20:06:02.000Z",
+    "report_date": "2022-09-01",
+    "accession": "0001193125-22-236506",
+    "primary_document": "d401420d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-22-236506"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-11-08",
+    "acceptance_datetime": "2022-11-08T12:01:01.000Z",
+    "report_date": "2022-11-08",
+    "accession": "0000950170-22-022889",
+    "primary_document": "bldr-20221108.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-22-022889"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2022-11-23",
+    "acceptance_datetime": "2022-11-23T21:06:56.000Z",
+    "report_date": "2022-11-18",
+    "accession": "0000950170-22-025665",
+    "primary_document": "bldr-20221118.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0000950170-22-025665"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-11-28",
+    "acceptance_datetime": "2022-11-28T12:02:02.000Z",
+    "report_date": "2022-11-28",
+    "accession": "0000950170-22-025705",
+    "primary_document": "bldr-20221128.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950170-22-025705"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2023-01-10",
+    "acceptance_datetime": "2023-01-10T12:00:55.000Z",
+    "report_date": "2023-01-10",
+    "accession": "0000950170-23-000563",
+    "primary_document": "bldr-20230110.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0000950170-23-000563"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2023-01-23",
+    "acceptance_datetime": "2023-01-23T21:15:35.000Z",
+    "report_date": "2023-01-17",
+    "accession": "0001193125-23-013162",
+    "primary_document": "d433164d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-23-013162"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-02-28",
+    "acceptance_datetime": "2023-02-28T12:00:47.000Z",
+    "report_date": "2023-02-28",
+    "accession": "0000950170-23-004857",
+    "primary_document": "bldr-20230228.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-23-004857"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-03-22",
+    "acceptance_datetime": "2023-03-21T21:59:23.000Z",
+    "report_date": "2023-03-21",
+    "accession": "0000950170-23-008994",
+    "primary_document": "bldr-20230321.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0000950170-23-008994"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2023-05-03",
+    "acceptance_datetime": "2023-05-03T11:01:04.000Z",
+    "report_date": "2023-04-27",
+    "accession": "0000950170-23-016874",
+    "primary_document": "bldr-20230427.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0000950170-23-016874"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2023-06-14",
+    "acceptance_datetime": "2023-06-14T20:21:30.000Z",
+    "report_date": "2023-06-14",
+    "accession": "0000950170-23-027963",
+    "primary_document": "bldr-20230614.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0000950170-23-027963"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-08-02",
+    "acceptance_datetime": "2023-08-02T13:47:28.000Z",
+    "report_date": "2023-08-02",
+    "accession": "0000950170-23-036821",
+    "primary_document": "bldr-20230802.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-23-036821"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-11-01",
+    "acceptance_datetime": "2023-11-01T11:00:10.000Z",
+    "report_date": "2023-11-01",
+    "accession": "0000950170-23-057113",
+    "primary_document": "bldr-20231101.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-23-057113"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-12-05",
+    "acceptance_datetime": "2023-12-05T12:01:27.000Z",
+    "report_date": "2023-12-05",
+    "accession": "0001193125-23-288822",
+    "primary_document": "d572379d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-23-288822"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2024-02-22",
+    "acceptance_datetime": "2024-02-22T12:00:11.000Z",
+    "report_date": "2024-02-22",
+    "accession": "0000950170-24-018404",
+    "primary_document": "bldr-20240222.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0000950170-24-018404"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-02-26",
+    "acceptance_datetime": "2024-02-26T13:21:02.000Z",
+    "report_date": "2024-02-26",
+    "accession": "0001193125-24-045435",
+    "primary_document": "d792271d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-24-045435"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,7.01,9.01",
+    "filing_date": "2024-02-29",
+    "acceptance_datetime": "2024-02-29T21:16:31.000Z",
+    "report_date": "2024-02-29",
+    "accession": "0001193125-24-053452",
+    "primary_document": "d771661d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,7.01,9.01; accession=0001193125-24-053452"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-05-01",
+    "acceptance_datetime": "2024-05-01T20:24:41.000Z",
+    "report_date": "2024-05-01",
+    "accession": "0000950170-24-051317",
+    "primary_document": "bldr-20240501.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950170-24-051317"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-05-07",
+    "acceptance_datetime": "2024-05-07T11:00:13.000Z",
+    "report_date": "2024-05-07",
+    "accession": "0000950170-24-053918",
+    "primary_document": "bldr-20240507.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-24-053918"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2024-06-04",
+    "acceptance_datetime": "2024-06-04T20:30:09.000Z",
+    "report_date": "2024-06-04",
+    "accession": "0000950170-24-068727",
+    "primary_document": "bldr-20240604.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.07; accession=0000950170-24-068727"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2024-08-06",
+    "acceptance_datetime": "2024-08-06T11:00:11.000Z",
+    "report_date": "2024-08-06",
+    "accession": "0000950170-24-091191",
+    "primary_document": "bldr-20240806.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0000950170-24-091191"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2024-09-19",
+    "acceptance_datetime": "2024-09-19T11:00:07.000Z",
+    "report_date": "2024-09-19",
+    "accession": "0000950170-24-107987",
+    "primary_document": "bldr-20240919.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0000950170-24-107987"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-11-05",
+    "acceptance_datetime": "2024-11-05T12:00:10.000Z",
+    "report_date": "2024-11-05",
+    "accession": "0000950170-24-121065",
+    "primary_document": "bldr-20241105.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-24-121065"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2024-11-12",
+    "acceptance_datetime": "2024-11-08T23:00:08.000Z",
+    "report_date": "2024-11-06",
+    "accession": "0000950170-24-124274",
+    "primary_document": "bldr-20241106.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0000950170-24-124274"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.02",
+    "filing_date": "2024-11-12",
+    "acceptance_datetime": "2024-11-08T23:00:09.000Z",
+    "report_date": "2024-09-19",
+    "accession": "0000950170-24-124276",
+    "primary_document": "bldr-20240919.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0000950170-24-124276"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2025-02-20",
+    "acceptance_datetime": "2025-02-20T12:00:32.000Z",
+    "report_date": "2025-02-18",
+    "accession": "0000950170-25-023731",
+    "primary_document": "bldr-20250218.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0000950170-25-023731"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2025-04-30",
+    "acceptance_datetime": "2025-04-30T12:00:07.000Z",
+    "report_date": "2025-04-30",
+    "accession": "0000950170-25-060584",
+    "primary_document": "bldr-20250430.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950170-25-060584"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2025-05-01",
+    "acceptance_datetime": "2025-05-01T11:00:09.000Z",
+    "report_date": "2025-05-01",
+    "accession": "0000950170-25-061436",
+    "primary_document": "bldr-20250501.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0000950170-25-061436"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2025-05-05",
+    "acceptance_datetime": "2025-05-05T13:12:21.000Z",
+    "report_date": "2025-05-05",
+    "accession": "0001193125-25-112163",
+    "primary_document": "d771426d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-25-112163"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,7.01,9.01",
+    "filing_date": "2025-05-08",
+    "acceptance_datetime": "2025-05-08T20:22:27.000Z",
+    "report_date": "2025-05-08",
+    "accession": "0001193125-25-115991",
+    "primary_document": "d890190d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,7.01,9.01; accession=0001193125-25-115991"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2025-05-22",
+    "acceptance_datetime": "2025-05-22T20:15:39.000Z",
+    "report_date": "2025-05-20",
+    "accession": "0001193125-25-125069",
+    "primary_document": "d919937d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-25-125069"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.07",
+    "filing_date": "2025-05-27",
+    "acceptance_datetime": "2025-05-27T21:00:22.000Z",
+    "report_date": "2025-05-27",
+    "accession": "0000950170-25-077841",
+    "primary_document": "bldr-20250527.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.03,5.07; accession=0000950170-25-077841"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-07-31",
+    "acceptance_datetime": "2025-07-31T11:00:09.000Z",
+    "report_date": "2025-07-31",
+    "accession": "0000950170-25-100548",
+    "primary_document": "bldr-20250731.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-25-100548"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-10-30",
+    "acceptance_datetime": "2025-10-30T11:00:27.000Z",
+    "report_date": "2025-10-30",
+    "accession": "0001193125-25-257380",
+    "primary_document": "bldr-20251030.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-25-257380"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-02-17",
+    "acceptance_datetime": "2026-02-17T12:24:19.000Z",
+    "report_date": "2026-02-17",
+    "accession": "0001193125-26-053039",
+    "primary_document": "bldr-20260217.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-26-053039"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2026-04-30",
+    "acceptance_datetime": "2026-04-30T11:00:16.000Z",
+    "report_date": "2026-04-30",
+    "accession": "0001193125-26-193923",
+    "primary_document": "bldr-20260430.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001193125-26-193923"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,7.01,9.01",
+    "filing_date": "2026-05-18",
+    "acceptance_datetime": "2026-05-18T20:15:16.000Z",
+    "report_date": "2026-05-14",
+    "accession": "0001316835-26-000004",
+    "primary_document": "bldr-20260514.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02,5.07,7.01,9.01; accession=0001316835-26-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-06-05",
+    "acceptance_datetime": "2026-06-05T20:05:16.000Z",
+    "report_date": "2026-06-03",
+    "accession": "0001193125-26-259521",
+    "primary_document": "bldr-20260603.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0001193125-26-259521"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-07-30",
+    "acceptance_datetime": "2026-07-30T11:00:17.000Z",
+    "report_date": "2026-07-30",
+    "accession": "0001193125-26-324859",
+    "primary_document": "bldr-20260730.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-26-324859"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-08-07",
+    "acceptance_datetime": "2026-08-07T20:36:31.000Z",
+    "report_date": "2026-08-03",
+    "accession": "0001193125-26-340381",
+    "primary_document": "d109986d8k.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0001193125-26-340381"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.02",
+    "filing_date": "2026-10-16",
+    "acceptance_datetime": "2026-10-16T21:04:30.000Z",
+    "report_date": "2026-06-03",
+    "accession": "0001193125-26-424245",
+    "primary_document": "bldr-20260603.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=5.02; accession=0001193125-26-424245"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-10-29",
+    "acceptance_datetime": "2026-10-29T10:00:37.000Z",
+    "report_date": "2026-10-29",
+    "accession": "0001193125-26-436795",
+    "primary_document": "bldr-20261029.htm",
+    "cik": "0001316835",
+    "issuer_name": "Builders FirstSource, Inc.",
+    "tickers": [
+      "BLDR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001316835.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-26-436795"
+  }
+]
