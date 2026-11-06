@@ -42,6 +42,43 @@
       ]
     },
     {
+      "symbol": "ACC",
+      "observation_id": "ACC:2016-10-28",
+      "start_utc": "2016-10-28T20:00:00+00:00",
+      "end_utc": "2016-11-11T21:00:00+00:00",
+      "complete": true,
+      "source": "https://www.sec.gov/Archives/edgar/data/1283630/000128363016000158/a09301610q.htm",
+      "locator": "Background ACC:2016-10-28; outcome 2016-10-31..2016-11-11; ACC 10-Q states NYSE ticker ACC; CIK 0001283630",
+      "security_identity_verified": true,
+      "search_method": "Identity from ACC Form 10-Q (CIK 0001283630): common stock NYSE ticker ACC. News search Oct\u2013Nov 2016 for ACC as public acquisition/takeover target with >=15% close-to-close reaction in 2016-10-31..2016-11-11 (ignore earnings; ACC as seller of properties is non-qualifying). Audit stockquote closes.",
+      "qualifying_events_found": [],
+      "notes": "In-window news is earnings and ACC selling a 19-property non-core portfolio (~$508M)\u2014ACC as seller, not public target. Max abs close-to-close 3.07% on 2016-11-01. No qualifying public-target >=15% reaction found.",
+      "max_abs_close_return_in_window": 0.0307,
+      "max_abs_close_return_session": "2016-11-01",
+      "non_qualifying_related_news": [
+        "Q3 earnings beat ~2016-10",
+        "$508M non-core portfolio sale agreement (ACC seller)"
+      ]
+    },
+    {
+      "symbol": "ACIA",
+      "observation_id": "ACIA:2017-08-10",
+      "start_utc": "2017-08-10T20:00:00+00:00",
+      "end_utc": "2017-08-24T20:00:00+00:00",
+      "complete": true,
+      "source": "https://www.fool.com/investing/2017/08/24/why-shares-of-acacia-communications-are-soaring-to.aspx",
+      "locator": "Background ACIA:2017-08-10; outcome 2017-08-11..2017-08-24; Acacia Communications Inc historical NASDAQ ACIA (CIK 0001651235); Cisco takeover is 2019, outside window",
+      "security_identity_verified": true,
+      "search_method": "Identity: Acacia Communications, Inc. CIK 0001651235 historically traded NASDAQ ACIA (continuous stockquote rows in window). News search Aug 2017 for ACIA as public M&A target with >=15% reaction in 2017-08-11..2017-08-24 (ignore earnings/orders). Audit stockquote closes.",
+      "qualifying_events_found": [],
+      "notes": "Aug 24, 2017 ~+9% intraday move attributed by Motley Fool to China Mobile optical-order analyst note\u2014not an M&A target announcement. Cisco/Acacia deal is July 2019 (outside). Max abs close-to-close in window 7.01% on 2017-08-24 (<15%). No qualifying public-target >=15% reaction found.",
+      "max_abs_close_return_in_window": 0.0701,
+      "max_abs_close_return_session": "2017-08-24",
+      "non_qualifying_related_news": [
+        "China Mobile order analyst note ~2017-08-24 (not M&A target)"
+      ]
+    },
+    {
       "symbol": "BA",
       "observation_id": "BA:2018-07-19",
       "start_utc": "2018-07-19T20:00:00+00:00",
