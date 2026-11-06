@@ -81,7 +81,7 @@
       "review_status": "earlier_disclosure_found_before_definitive_announcement",
       "source": "https://www.sec.gov/Archives/edgar/data/1637459/000119312515126301/d898418ds4.htm",
       "locator": "Background of the Merger; March 24 signing and March 25 pre-NASDAQ-opening release",
-      "finding": "WSJ reported after the March 24, 2015 regular session that 3G was in advanced talks to acquire Kraft (article updated ~8:50 p.m. ET); CNBC/USA Today/Fortune relayed the same evening and KRFT jumped in after-hours. The March 25 pre-open definitive Heinz/Kraft announcement is therefore not the first public disclosure. Measured close-to-close jump uses the March 24 regular close (pre-rumor) to March 25 close, so the overnight gap includes both the talk report and the definitive release. Special dividend remains consideration, not a pre-announcement trading receipt. Sources: https://www.wsj.com/articles/kraft-in-talks-to-be-acquired-by-3g-capital-1427238184 ; https://www.cnbc.com/2015/03/24/3g-capital-in-talks-to-buy-kraft-foods-group-dj.html",
+      "finding": "WSJ reported after the March 24, 2015 regular session that 3G was in advanced talks to acquire Kraft (article updated 8:50 p.m. ET); Bloomberg shows KRFT +17% in extended trading that evening. Prior close does not embed the WSJ print. March 25 definitive Heinz/Kraft merger is later same reaction window. Jump-cause: M&A rumor then news (ignore earnings). first_public_disclosure_verified remains false.",
       "first_public_disclosure_verified": false,
       "corporate_action_review_complete": true,
       "identity_source": "https://data.sec.gov/submissions/CIK0001545158.json",
@@ -95,16 +95,21 @@
       "earlier_public_date_lower": "2015-03-24",
       "earlier_public_date_upper": "2015-03-24",
       "earlier_public_session": "after_close",
-      "price_action_vetting_status": "jump_ok_prior_close_may_reflect_earlier_public",
-      "price_action_notes": "status=jump_ok_prior_close_may_reflect_earlier_public; close_return=35.58%; contamination=earlier_public_on_previous_session; path=reaction_mostly_overnight_gap",
+      "price_action_vetting_status": "jump_ok_gap_may_include_earlier_public",
+      "price_action_notes": "status=jump_ok_gap_may_include_earlier_public; close_return=35.58%; contamination=earlier_public_between_previous_and_reaction; path=reaction_mostly_overnight_gap; earlier_public=WSJ 2015-03-24 20:50 ET after_close",
       "price_action_hazards": [
-        "earlier_public_on_previous_session",
+        "earlier_public_between_previous_and_reaction",
         "reaction_mostly_overnight_gap"
       ],
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "WSJ/Bloomberg Mar 24 after-close 3G\u2013Kraft talks; Mar 25 definitive Heinz/Kraft. Prior close already embeds rumor.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.usatoday.com/story/money/business/2015/03/24/kraft-3g-capital/70406484/"
+      "news_locator": "https://www.usatoday.com/story/money/business/2015/03/24/kraft-3g-capital/70406484/",
+      "earlier_public_lower_utc": "2015-03-25T00:50:00Z",
+      "earlier_public_upper_utc": "2015-03-25T00:50:00Z",
+      "earlier_source": "https://www.wsj.com/articles/kraft-in-talks-to-be-acquired-by-3g-capital-1427238184",
+      "earlier_locator": "WSJ updated March 24, 2015 8:50 p.m. ET; Bloomberg extended-hours print after WSJ",
+      "training_label_ready": false
     },
     {
       "symbol": "ADT",
@@ -455,7 +460,7 @@
       "locator": "Amended complaint; Sanofi/Bioverativ announcement before NASDAQ open January 22, 2018",
       "identity_source": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001681689",
       "identity_locator": "EDGAR issuer Bioverativ Inc. CIK 0001681689; prior cohort CIK 1685840 was KiwiVenture Partners II, LLC",
-      "finding": "WSJ/CNBC reported Sunday evening January 21, 2018 that Sanofi was nearing a ~$105/share Bioverativ deal, with an announcement expected Monday morning. The January 22 pre-open definitive joint release is therefore not the first public disclosure. Measured jump uses Friday January 19 close to Monday January 22 close, so the gap includes the Sunday talk report plus the definitive announcement. Correct issuer CIK remains 0001681689. Sources: https://www.cnbc.com/2018/01/21/sanofi-nears-11-point-4-billion-deal-for-bioverativ-source.html ; https://smi.wsj.com/scoops/sanofi-nears-deal-buy-bioverativ-11-5b/",
+      "finding": "Bloomberg (7:38 p.m. CST January 21, 2018) and Endpoints (9:12 p.m. EST) reported Sunday evening that Sanofi was nearing/~struck a ~$105/share Bioverativ deal per WSJ. The January 22 pre-open definitive joint release is therefore not the first public M&A disclosure in the Fri-close\u2192Mon gap. Jump-cause: M&A rumor/news (ignore earnings). first_public_disclosure_verified remains false.",
       "first_public_disclosure_verified": false,
       "corporate_action_review_complete": true,
       "share_class_notes": "NASDAQ common stock BIVV after February 2, 2017 regular-way trading following Biogen spin-off.",
@@ -476,7 +481,12 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "Bloomberg/WSJ Jan 21 evening Sanofi near-deal; Jan 22 definitive. Gap may include prior evening rumor.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.bloomberg.com/news/articles/2018-01-22/sanofi-said-to-near-11-5-billion-deal-for-bioverativ-wsj-says"
+      "news_locator": "https://www.bloomberg.com/news/articles/2018-01-22/sanofi-said-to-near-11-5-billion-deal-for-bioverativ-wsj-says",
+      "earlier_public_lower_utc": "2018-01-22T01:38:00Z",
+      "earlier_public_upper_utc": "2018-01-22T02:12:00Z",
+      "earlier_source": "https://www.bloomberg.com/news/articles/2018-01-22/sanofi-said-to-near-11-5-billion-deal-for-bioverativ-wsj-says",
+      "earlier_locator": "Bloomberg Jan 21, 2018 7:38 p.m. CST citing WSJ; Endpoints 9:12 p.m. EST",
+      "training_label_ready": false
     },
     {
       "symbol": "EFII",
@@ -546,7 +556,7 @@
       "locator": "Complaint; January 18 evening signing and January 19 pre-market-open Lumentum announcement",
       "identity_source": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021510",
       "identity_locator": "EDGAR issuer Coherent Inc. CIK 0000021510; prior cohort CIK 2186 was BK Technologies Corp",
-      "finding": "WSJ reported on MLK Day Monday January 18, 2021 (~10:13 p.m. ET Fox Business reprint) that Lumentum was in advanced talks to buy Coherent, with a deal possibly that week. January 18 was a US equity holiday; the January 19 before-open definitive announcement is therefore not the first public disclosure. Measured jump uses Friday January 15 close to Tuesday January 19 close, so the gap includes the holiday talk report plus the definitive release. Correct issuer CIK remains 0000021510 for this Coherent Inc. episode. Source: https://www.foxbusiness.com/technology/lumentum-holdings-in-advanced-talks-to-buy-coherent-inc-wsj",
+      "finding": "WSJ reported on MLK Day Monday January 18, 2021 (~10:13 p.m. ET Fox Business reprint) that Lumentum was in advanced talks to buy Coherent. January 18 was a US equity holiday; the January 19 before-open joint release/call (~8:30 a.m. ET) is therefore not the first public M&A disclosure in the prior-session-close \u2192 Jan 19 reaction gap. Jump-cause: M&A rumor then news (ignore earnings). first_public_disclosure_verified remains false.",
       "first_public_disclosure_verified": false,
       "corporate_action_review_complete": true,
       "share_class_notes": "NASDAQ common stock of Coherent Inc. (CIK 21510) in January 2021.",
@@ -568,7 +578,12 @@
       "jump_cause": "ma_news",
       "jump_cause_detail": "Lumentum deal announced Jan 19 (agreement Jan 18); Business Insider/AP attribute +33% to M&A. Later II-VI bidding war is post-event.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://markets.businessinsider.com/news/stocks/coherent-stock-skyrockets-lumentum-announces-multi-billion-acquisition-2021-1-1029982858"
+      "news_locator": "https://markets.businessinsider.com/news/stocks/coherent-stock-skyrockets-lumentum-announces-multi-billion-acquisition-2021-1-1029982858",
+      "earlier_public_lower_utc": "2021-01-19T03:13:00Z",
+      "earlier_public_upper_utc": "2021-01-19T03:13:00Z",
+      "earlier_source": "https://www.foxbusiness.com/markets/lumentum-in-advanced-talks-to-buy-coherent-wsj",
+      "earlier_locator": "Fox Business reprint ~10:13 p.m. ET January 18, 2021 (MLK Day) of WSJ advanced-talks report",
+      "training_label_ready": false
     },
     {
       "symbol": "KAMN",
@@ -805,7 +820,7 @@
       "earlier_public_date_lower": "2025-01-12",
       "earlier_public_date_upper": "2025-01-12",
       "earlier_public_session": "nontrading_day",
-      "finding": "Bloomberg reported Sunday January 12, 2025 that J&J was exploring/in talks to acquire Intra-Cellular; Reuters relayed the same day. The January 13 definitive J&J announcement is therefore not the first public M&A disclosure. Separately, Friday January 10 (the previous session) saw a large ITCI move on a Caplyta/Sandoz patent settlement\u2014non-M&A news that already contaminates the prior close used in the measured jump. Sources: https://www.reuters.com/business/healthcare-pharmaceuticals/jj-explores-bid-intra-cellular-therapies-bloomberg-news-reports-2025-01-12/ ; https://finance.yahoo.com/news/intra-cellular-therapies-stock-soars-181153766.html",
+      "finding": "Bloomberg reported Sunday January 12, 2025 at 4:20 p.m. EST that J&J was exploring/in talks to acquire Intra-Cellular (Endpoints 5:55 p.m. EST; Reuters same day). The January 13 definitive announcement is therefore not the first public M&A disclosure in the Fri-close\u2192Mon gap. Jump-cause: M&A rumor then news (ignore earnings). first_public_disclosure_verified remains false.",
       "price_action_vetting_status": "jump_ok_gap_may_include_earlier_public",
       "price_action_notes": "status=jump_ok_gap_may_include_earlier_public; close_return=34.07%; contamination=earlier_public_between_previous_and_reaction; path=strong_5d_pre_drift_ge_10pct,previous_session_abs_move_ge_5pct,ge_10pct_single_day_move_in_pre20,reaction_mostly_overnight_gap",
       "price_action_hazards": [
@@ -818,7 +833,12 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "Bloomberg Jan 12 J&J exploring bid; Jan 13 definitive. Gap may include prior-day rumor.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.reuters.com/business/healthcare-pharmaceuticals/jj-explores-bid-intra-cellular-therapies-bloomberg-news-reports-2025-01-12/"
+      "news_locator": "https://www.reuters.com/business/healthcare-pharmaceuticals/jj-explores-bid-intra-cellular-therapies-bloomberg-news-reports-2025-01-12/",
+      "earlier_public_lower_utc": "2025-01-12T21:20:00Z",
+      "earlier_public_upper_utc": "2025-01-12T22:55:00Z",
+      "earlier_source": "https://www.bloomberg.com/news/articles/2025-01-12/johnson-johnson-exploring-bid-for-intra-cellular",
+      "earlier_locator": "Bloomberg January 12, 2025 4:20 p.m. EST; Endpoints 5:55 p.m. EST",
+      "training_label_ready": false
     },
     {
       "symbol": "SAGE",
@@ -1105,7 +1125,7 @@
       "timing_source": "https://www.globenewswire.com/news-release/2015/08/10/759226/2215/en/Berkshire-Hathaway-Inc-to-Acquire-Precision-Castparts-Corp-for-235-Per-Share-in-Cash.html",
       "timing_locator": "GlobeNewswire August 10, 2015 07:00 ET",
       "review_status": "earlier_disclosure_found_before_definitive_announcement",
-      "finding": "WSJ/CNBC reported over the August 8\u20139, 2015 weekend that Berkshire was nearing a Precision Castparts deal, with announcement possible the following week. The August 10 before-open definitive announcement is therefore not the first public disclosure. Measured jump uses Friday August 7 close to Monday August 10 close, so the gap includes the weekend talks report plus the definitive release. Sources: https://www.cnbc.com/2015/08/08/berkshire-hathaway-nears-30b-deal-for-precision-largest-ever-wsj.html ; https://www.wsj.com/articles/berkshire-hathaway-nears-deal-to-buy-precision-castparts-1439050499",
+      "finding": "CNBC published Saturday August 8, 2015 at 3:48 p.m. EDT that Berkshire was nearing a Precision Castparts deal per WSJ, with announcement possible the following week; weekend coverage continued August 9. The August 10 before-open definitive is therefore not the first public M&A disclosure in the Fri-close\u2192Mon reaction gap. Jump-cause: M&A rumor/news (ignore earnings). first_public_disclosure_verified remains false.",
       "first_public_disclosure_verified": false,
       "corporate_action_review_complete": true,
       "discovery_basis": "Confirmed public-target price/volume reaction from dated M&A announcement review; independent of option-pattern selection.",
@@ -1130,7 +1150,12 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "WSJ/Fortune Aug 9 Berkshire\u2013Precision talks; Aug 10 definitive. Gap may include weekend rumor.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://fortune.com/2015/08/09/warren-buffetts-berkshire-hathaway-nears-precision-castparts/"
+      "news_locator": "https://fortune.com/2015/08/09/warren-buffetts-berkshire-hathaway-nears-precision-castparts/",
+      "earlier_public_lower_utc": "2015-08-08T19:48:00Z",
+      "earlier_public_upper_utc": "2015-08-09T01:33:00Z",
+      "earlier_source": "https://www.cnbc.com/2015/08/08/berkshire-hathaway-nears-30b-deal-for-precision-largest-ever-wsj.html",
+      "earlier_locator": "CNBC Aug 8, 2015 3:48 p.m. EDT citing Saturday WSJ; weekend coverage through Aug 9",
+      "training_label_ready": false
     },
     {
       "symbol": "KLAC",
