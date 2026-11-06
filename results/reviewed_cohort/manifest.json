@@ -1,0 +1,47 @@
+{
+  "event_count": 26,
+  "feature_rows": 780,
+  "review_status_counts": {
+    "announcement_verified_price_source_conflict": 1,
+    "first_disclosure_and_corporate_action_review_pending": 16,
+    "announcement_verified_ads_terms_reviewed": 1,
+    "conflicting_primary_disclosure_dates": 1,
+    "prior_strategic_process_requires_scope_review": 1,
+    "announcement_verified_earlier_disclosure_search_incomplete": 2,
+    "earlier_disclosure_time_unresolved": 2,
+    "prior_competing_bid_public": 1,
+    "earlier_rumors_exist_start_unknown": 1
+  },
+  "price_status_counts": {
+    "price_qualified": 26
+  },
+  "training_ready_events": 0,
+  "source_sha256": {
+    "data/event_review_overrides.json": "d3344c6adccdfed83e7b9e0f7be4f5b1687bc5281977ab7907d6f1bd5e73a4b9",
+    "results/research_cohort/event_cohort.json": "9b743c7a79226e4d326976f00c9ae4ec9b2b0f7d9b2a0dae568095cfc72a1a1f",
+    "data/calendar/nyse_sessions.json": "69f0ebd15bcea7e2e41609421c37ac8ab56a128709ff3476015239bd2e926fcd"
+  },
+  "quote_screen": {
+    "call": true,
+    "otm_fraction": [
+      0.03,
+      0.5
+    ],
+    "dte": [
+      14,
+      60
+    ],
+    "minimum_bid_exclusive": 0,
+    "minimum_volume": 10,
+    "maximum_ask": 10,
+    "maximum_relative_spread": 0.5,
+    "multiplier_verified": false,
+    "vendor_delivery_timing_verified": false
+  },
+  "notes": [
+    "Quote candidates are diagnostics, not asserted executable contracts.",
+    "No option listing status is inferred from absent rows.",
+    "All labels remain unknown until evidence gates pass.",
+    "Raw prices are not corrected from conflicting legal allegations."
+  ]
+}
