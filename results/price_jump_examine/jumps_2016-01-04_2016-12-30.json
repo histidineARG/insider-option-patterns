@@ -3374,14 +3374,16 @@
     "vol_ratio": 5.062364103577782,
     "cik": "0001129155",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MPX?date=2016-01-29&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for MPX. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "MTL",
@@ -5925,14 +5927,16 @@
     "vol_ratio": 2.0336530558244084,
     "cik": "0001375877",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CSIQ?date=2016-02-16&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for CSIQ. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CTIC",
@@ -14540,14 +14544,16 @@
     "vol_ratio": 3.9784384594275743,
     "cik": "0001580608",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SC?date=2016-03-31&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SC. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CNAT",
@@ -20838,14 +20844,16 @@
     "vol_ratio": 4.91398104520901,
     "cik": "0001493566",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/OTIC?date=2016-05-20&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for OTIC. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "PTCT",
@@ -26208,14 +26216,16 @@
     "vol_ratio": 3.4238765638876174,
     "cik": "0001610601",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MOMO?date=2016-07-07&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for MOMO. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "OCRX",
@@ -27753,14 +27763,16 @@
     "vol_ratio": 8.563557946670562,
     "cik": "0001227025",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/NPTN?date=2016-07-25&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for NPTN. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "S",
@@ -28784,14 +28796,16 @@
     "vol_ratio": 9.867838798061634,
     "cik": "0001370637",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ETSY?date=2016-08-01&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for Etsy. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "GALT",
@@ -30955,14 +30969,16 @@
     "vol_ratio": 3.4017164351055267,
     "cik": "0001629137",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GBT?date=2016-08-12&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for GBT. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "RUN",
@@ -34796,14 +34812,16 @@
     "vol_ratio": 2.8051050838894205,
     "cik": "0001576263",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MRTX?date=2016-09-22&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for MRTX. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "TKAI",
@@ -38501,14 +38519,16 @@
     "vol_ratio": 2.024199660628927,
     "cik": "0001466301",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CLVS?date=2016-11-09&view=daily",
+    "news_detail": "Clovis jumped with broad post-election biotech rally. Macro/sector, not company keep 2/3/4."
   },
   {
     "symbol": "CNCE",
@@ -38650,14 +38670,16 @@
     "vol_ratio": 3.5040900154884,
     "cik": "0001339605",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/HEES?date=2016-11-09&view=daily",
+    "news_detail": "H&E Equipment post-election industrials rally. Macro/sector, not keep 2/3/4."
   },
   {
     "symbol": "IMDZ",
