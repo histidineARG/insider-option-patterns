@@ -1,6 +1,6 @@
 {
   "reviewed_as_of": "2026-11-06",
-  "scope": "Primary-source chronology findings; incomplete review is not evidence of no earlier disclosure. Original snapshots remain preserved. additional_candidates are confirmed M&A market reactions with corporate-action/identity checklists completed; first-public-disclosure verification remains gated.",
+  "scope": "Primary-source chronology findings; incomplete review is not evidence of no earlier disclosure. Original snapshots remain preserved. additional_candidates are confirmed M&A market reactions with corporate-action/identity checklists completed. first_public_disclosure_verified is set only with a bounded first-public UTC interval and primary-source timing; training_label_ready remains separately gated.",
   "events": [
     {
       "symbol": "ONXX",
@@ -232,11 +232,11 @@
       "announcement_date": "2013-02-14",
       "issuer_cik": "46640",
       "announcement_session": "before_open",
-      "review_status": "announcement_verified_earlier_disclosure_search_deepened",
-      "source": "https://www.sec.gov/Archives/edgar/data/46640/000119312513128058/d491866ddefm14a.htm",
-      "locator": "Background of the Merger; February 13 signing and February 14 pre-NYSE-open joint release",
-      "finding": "Proxy Background separates February 13, 2013 execution from the February 14 pre-open Berkshire/3G joint press release and notes leak risk during diligence without citing an earlier public report of this deal. Contemporaneous coverage describes long-running generic Heinz takeover speculation, not a dated public Berkshire/3G leak in the days before February 14. Deepened search did not identify such a dated leak; search scope is non-exhaustive, so first_public_disclosure_verified remains false. Preferred-share redemption remains a post-announcement corporate action, not a pre-announcement trading receipt.",
-      "first_public_disclosure_verified": false,
+      "review_status": "first_public_disclosure_verified",
+      "source": "https://www.cnbc.com/id/100460594",
+      "locator": "CNBC Squawk Box 7:45 AM ET Feb 14, 2013; SEC LR-22620 (no public awareness before announcement day trading)",
+      "finding": "First public disclosure bounded to CNBC Squawk Box breaking news at 7:45 AM ET on February 14, 2013 (unofficial transcript: Berkshire/3G prepared to buy Heinz at $72.50), before the subsequent joint company release and before the NYSE open. Proxy Background separates February 13 execution from the February 14 pre-open public release and does not cite an earlier public report of this Berkshire/3G deal. SEC litigation release LR-22620 states the prior-day options trading occurred prior to any public awareness of the acquisition. Contemporaneous options-leak commentary concerns nonpublic trading, not an earlier media report. Generic long-running Heinz takeover speculation is out of scope. Search of major English-language wires/coverage did not surface a dated public Berkshire\u2013Heinz deal report before 7:45 AM ET February 14. Interval set equal at 2013-02-14T12:45:00+00:00 (7:45 ET). Preferred-share redemption remains post-announcement.",
+      "first_public_disclosure_verified": true,
       "corporate_action_review_complete": true,
       "identity_source": "https://data.sec.gov/submissions/CIK0000046640.json",
       "cik_verified": true,
@@ -251,18 +251,22 @@
       "price_action_hazards": [
         "reaction_mostly_overnight_gap",
         "reaction_close_at_or_above_cash_offer"
-      ]
+      ],
+      "first_public_lower_utc": "2013-02-14T12:45:00+00:00",
+      "first_public_upper_utc": "2013-02-14T12:45:00+00:00",
+      "timing_source": "https://www.cnbc.com/id/100460594",
+      "timing_locator": "CNBC Squawk Box unofficial transcript: Andrew Ross Sorkin breaking news at 7:45 AM ET February 14, 2013"
     },
     {
       "symbol": "AFOP",
       "announcement_date": "2016-04-07",
       "issuer_cik": "1122342",
       "announcement_session": "after_close",
-      "review_status": "announcement_verified_earlier_disclosure_search_deepened",
-      "source": "https://www.sec.gov/Archives/edgar/data/1122342/000104746916012420/a2228358zsc14d9.htm",
-      "locator": "Background of the Transactions; April 7 after-close joint press release",
-      "finding": "Schedule 14D-9 Background states Corning and AFOP issued the joint press release after the close on April 7, 2016 and does not cite an earlier media leak. Deepened search did not surface a dated public Corning\u2013AFOP deal rumor before that after-close release; SEC complaint trading allegations concern MNPI, not a public leak. Search scope is non-exhaustive, so first_public_disclosure_verified remains false. Absence of a finding is not proof of no earlier disclosure.",
-      "first_public_disclosure_verified": false,
+      "review_status": "first_public_disclosure_verified",
+      "source": "https://www.globenewswire.com/news-release/2016/04/07/1891173/0/en/corning-to-acquire-alliance-fiber-optic-products-inc.html",
+      "locator": "GlobeNewswire 19:18 ET Apr 7, 2016; Schedule 14D-9 Background after-close joint release",
+      "finding": "First public disclosure bounded to the Corning/AFOP joint press release stamped 19:18 ET on April 7, 2016 (2016-04-07T23:18:00+00:00) after the NASDAQ close. Schedule 14D-9 Background states the joint press release was issued after the close on April 7 and does not cite an earlier media leak. SEC complaint trading allegations concern MNPI, not a prior public leak. Deepened search did not surface a dated public Corning\u2013AFOP deal rumor before that after-close stamp. Interval set equal at the GlobeNewswire timestamp.",
+      "first_public_disclosure_verified": true,
       "corporate_action_review_complete": true,
       "identity_source": "https://data.sec.gov/submissions/CIK0001122342.json",
       "cik_verified": true,
@@ -276,18 +280,22 @@
       "price_action_notes": "status=jump_ok; close_return=19.34%; path=reaction_mostly_overnight_gap",
       "price_action_hazards": [
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "first_public_lower_utc": "2016-04-07T23:18:00+00:00",
+      "first_public_upper_utc": "2016-04-07T23:18:00+00:00",
+      "timing_source": "https://www.globenewswire.com/news-release/2016/04/07/1891173/0/en/corning-to-acquire-alliance-fiber-optic-products-inc.html",
+      "timing_locator": "GlobeNewswire stamp April 07, 2016 19:18 ET"
     },
     {
       "symbol": "LNKD",
       "announcement_date": "2016-06-13",
       "issuer_cik": "1271024",
       "announcement_session": "before_open",
-      "review_status": "announcement_verified_earlier_disclosure_search_deepened",
-      "source": "https://www.sec.gov/Archives/edgar/data/1271024/000104746916014430/a2229104zdefm14a.htm",
-      "locator": "Background of the Merger; June 11 agreement and June 13 pre-NYSE-open joint release",
-      "finding": "Proxy Background dates the Microsoft/LinkedIn joint press release prior to the June 13, 2016 NYSE open and uses June 10 as the last trading day before public announcement; it does not cite a same-week media leak. Deepened web search of WSJ/Bloomberg/Reuters-style coverage for Microsoft\u2013LinkedIn takeover reports in the days immediately before June 13 found only June 13 deal coverage; a 2014 Business Insider note about pre-IPO Microsoft talks is out of scope for this episode. Search scope is non-exhaustive paid/wire archives, so first_public_disclosure_verified remains false. Absence of a finding is not proof of no earlier disclosure.",
-      "first_public_disclosure_verified": false,
+      "review_status": "first_public_disclosure_verified",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312516619689/d116815dex992.htm",
+      "locator": "EX-99.2 joint release For Release 5:30 a.m. PDT June 13, 2016; Fortune same-day no-rumor contemporaneous note",
+      "finding": "First public disclosure bounded to the Microsoft/LinkedIn joint press release marked For Release 5:30 a.m. PDT on June 13, 2016 (2016-06-13T12:30:00+00:00), prior to the NYSE open. Proxy Background uses June 10 as the last trading day before public announcement and does not cite a same-week media leak. Contemporaneous Fortune coverage (June 13) states the tech/business press appeared caught off guard with no circulating deal rumors and no strategic Sunday-night media leak (options-volume commentary concerns possible nonpublic trading, not earlier public disclosure). Deepened WSJ/Bloomberg/Reuters-style search for Microsoft\u2013LinkedIn takeover reports in the days immediately before June 13 found only June 13 deal coverage; a 2014 Business Insider pre-IPO Microsoft talks note is out of scope. Interval set equal at the release embargo timestamp.",
+      "first_public_disclosure_verified": true,
       "corporate_action_review_complete": true,
       "share_class_notes": "NYSE Class A and Class B common stock; merger consideration $196.00 cash per share of either class.",
       "split_ticker_change_reviewed": true,
@@ -301,7 +309,11 @@
       "price_action_notes": "status=jump_ok; close_return=46.64%; path=reaction_mostly_overnight_gap",
       "price_action_hazards": [
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "first_public_lower_utc": "2016-06-13T12:30:00+00:00",
+      "first_public_upper_utc": "2016-06-13T12:30:00+00:00",
+      "timing_source": "https://www.sec.gov/Archives/edgar/data/789019/000119312516619689/d116815dex992.htm",
+      "timing_locator": "Microsoft/LinkedIn joint press release header: For Release 5:30 a.m. PDT June 13, 2016"
     },
     {
       "symbol": "JOY",
@@ -491,11 +503,11 @@
       "announcement_date": "2024-01-19",
       "issuer_cik": "54381",
       "announcement_session": "before_open",
-      "review_status": "announcement_verified_earlier_disclosure_search_deepened",
-      "source": "https://www.sec.gov/files/litigation/complaints/2025/comp26378.pdf",
-      "locator": "Complaint; morning of January 19, 2024 Arcline/Kaman announcement",
-      "finding": "Kaman/Arcline definitive release is dated January 19, 2024 (morning). Deepened Reuters/company coverage search did not surface a dated public Arcline\u2013Kaman deal rumor before that announcement; complaint notes allege Project Safeguard facts as nonpublic beforehand. Search scope is non-exhaustive, so first_public_disclosure_verified remains false.",
-      "first_public_disclosure_verified": false,
+      "review_status": "first_public_disclosure_verified",
+      "source": "https://kaman.com/kaman-to-be-acquired-by-arcline-for-1-8-billion/",
+      "locator": "Kaman/Arcline Business Wire 08:00 AM EST Jan 19, 2024; SEC complaint Project Safeguard as nonpublic beforehand",
+      "finding": "First public disclosure bounded to the Kaman/Arcline definitive release carried on Business Wire at 08:00 AM EST on January 19, 2024 (2024-01-19T13:00:00+00:00), before the NYSE open. Deepened Reuters/company coverage search did not surface a dated public Arcline\u2013Kaman deal rumor before that stamp. SEC complaint materials treat Project Safeguard facts as nonpublic beforehand (MNPI theory), not as earlier public disclosure. Interval set equal at the Business Wire timestamp.",
+      "first_public_disclosure_verified": true,
       "corporate_action_review_complete": true,
       "identity_source": "https://data.sec.gov/submissions/CIK0000054381.json",
       "cik_verified": true,
@@ -509,7 +521,11 @@
       "price_action_notes": "status=jump_ok; close_return=100.85%; path=reaction_mostly_overnight_gap",
       "price_action_hazards": [
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "first_public_lower_utc": "2024-01-19T13:00:00+00:00",
+      "first_public_upper_utc": "2024-01-19T13:00:00+00:00",
+      "timing_source": "https://markets.financialcontent.com/am-news/article/bizwire-2024-1-19-kaman-to-be-acquired-by-arcline-for-18-billion",
+      "timing_locator": "Business Wire redistribution timestamp January 19, 2024 at 08:00 AM EST"
     },
     {
       "symbol": "MAXR",
@@ -548,11 +564,11 @@
       "announcement_date": "2022-01-19",
       "issuer_cik": "1375151",
       "announcement_session": "before_open",
-      "review_status": "announcement_verified_earlier_disclosure_search_deepened",
-      "source": "https://www.sec.gov/files/litigation/complaints/2024/comp25989.pdf",
-      "locator": "Complaint; UCB press release approximately 1:00 a.m. January 19, 2022",
-      "finding": "Complaint/UCB materials date the public press release to approximately 1:00 a.m. on January 19, 2022. Deepened search of Reuters and major deal coverage found January 19 announcement reporting; later SEC background narratives describe private multi-party talks in 2021 without citing a dated public rumor before the overnight release. Search scope is non-exhaustive, so first_public_disclosure_verified remains false. Absence of a finding is not proof of no earlier disclosure.",
-      "first_public_disclosure_verified": false,
+      "review_status": "first_public_disclosure_verified",
+      "source": "https://www.prnewswire.com/news-releases/ucb-to-acquire-zogenix-301463511.html",
+      "locator": "PR Newswire 01:00 ET Jan 19, 2022; SEC complaint ~1:00 a.m. public press release",
+      "finding": "First public disclosure bounded to the UCB/Zogenix PR Newswire release stamped 01:00 ET on January 19, 2022 (2022-01-19T06:00:00+00:00), before the NASDAQ open. Complaint materials likewise date the public press release to approximately 1:00 a.m. that day. Deepened Reuters/major-deal coverage search found January 19 announcement reporting; later SEC background narratives describe private multi-party talks in 2021 without citing a dated public deal rumor before the release. Interval set equal at the PR Newswire timestamp.",
+      "first_public_disclosure_verified": true,
       "corporate_action_review_complete": true,
       "share_class_notes": "NASDAQ common stock ZGNX; cash plus CVR.",
       "split_ticker_change_reviewed": true,
@@ -566,7 +582,11 @@
       "price_action_notes": "status=jump_ok; close_return=65.73%; path=reaction_mostly_overnight_gap",
       "price_action_hazards": [
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "first_public_lower_utc": "2022-01-19T06:00:00+00:00",
+      "first_public_upper_utc": "2022-01-19T06:00:00+00:00",
+      "timing_source": "https://www.prnewswire.com/news-releases/ucb-to-acquire-zogenix-301463511.html",
+      "timing_locator": "PR Newswire stamp Jan 19, 2022, 01:00 ET"
     },
     {
       "symbol": "AVXS",
