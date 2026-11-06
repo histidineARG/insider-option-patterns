@@ -1,7 +1,7 @@
 {
   "as_of": "2016-12-31",
   "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
-  "tranche": "ge20_second20",
+  "tranche": "ge20_final27",
   "reviews": [
     {
       "symbol": "ERII",
@@ -3692,6 +3692,526 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/RXDX?date=2016-11-11&view=daily"
+    },
+    {
+      "symbol": "TRGP",
+      "qdate": "2014-06-19",
+      "close_return": 0.2089,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://markets.chroniclejournal.com/chroniclejournal/quote/historical?Month=6&Range=12&Symbol=NY%3ATRGP&Year=2014"
+    },
+    {
+      "symbol": "MACK",
+      "qdate": "2016-09-22",
+      "close_return": 0.2087,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/MACK?date=2016-09-22&view=daily"
+    },
+    {
+      "symbol": "ACHN",
+      "qdate": "2014-06-16",
+      "close_return": 0.2087,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ACHN?date=2014-06-16&view=daily"
+    },
+    {
+      "symbol": "RMTI",
+      "qdate": "2016-02-23",
+      "close_return": 0.2084,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/RMTI?date=2016-02-23&view=daily"
+    },
+    {
+      "symbol": "TGTX",
+      "qdate": "2014-06-12",
+      "close_return": 0.2082,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/TGTX?date=2014-06-12&view=daily"
+    },
+    {
+      "symbol": "REFR",
+      "qdate": "2013-11-21",
+      "close_return": 0.2081,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/REFR?date=2013-11-21&view=daily"
+    },
+    {
+      "symbol": "MRO",
+      "qdate": "2016-11-30",
+      "close_return": 0.208,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "OPEC production-cut agreement / oil rally. Commodity/policy, not keep 2/3/4.",
+      "locator": "https://www.cnbc.com/2016/11/30/drilling-stocks-are-rising-as-oil-leaps-on-hopes-of-an-opec-deal.html"
+    },
+    {
+      "symbol": "RDNT",
+      "qdate": "2014-08-08",
+      "close_return": 0.2077,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/RDNT?date=2014-08-08&view=daily"
+    },
+    {
+      "symbol": "CRK",
+      "qdate": "2016-08-29",
+      "close_return": 0.2077,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR; energy move. Commodity, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CRK?date=2016-08-29&view=daily"
+    },
+    {
+      "symbol": "DV",
+      "qdate": "2016-05-06",
+      "close_return": 0.2076,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/DV?date=2016-05-06&view=daily"
+    },
+    {
+      "symbol": "JKS",
+      "qdate": "2013-05-20",
+      "close_return": 0.2072,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified/sector, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/JKS?date=2013-05-20&view=daily"
+    },
+    {
+      "symbol": "IDCC",
+      "qdate": "2014-06-03",
+      "close_return": 0.2069,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/IDCC?date=2014-06-03&view=daily"
+    },
+    {
+      "symbol": "HTLD",
+      "qdate": "2013-11-12",
+      "close_return": 0.2067,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/HTLD?date=2013-11-12&view=daily"
+    },
+    {
+      "symbol": "QIWI",
+      "qdate": "2014-05-21",
+      "close_return": 0.2065,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/QIWI?date=2014-05-21&view=daily"
+    },
+    {
+      "symbol": "ADPT",
+      "qdate": "2015-07-23",
+      "close_return": 0.2064,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ADPT?date=2015-07-23&view=daily"
+    },
+    {
+      "symbol": "PTCT",
+      "qdate": "2016-09-19",
+      "close_return": 0.2064,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Peer bounce on Sarepta Exondys 51 FDA approval; no PTCT keep PR. Peer/sector, not keep 2/3/4.",
+      "locator": "https://www.rttnews.com/2694240/vicl-slumps-fda-greenlights-srpt-s-dmd-drug-domino-effect-on-ptct.aspx"
+    },
+    {
+      "symbol": "ABCO",
+      "qdate": "2015-11-06",
+      "close_return": 0.2063,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ABCO?date=2015-11-06&view=daily"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2016-03-21",
+      "close_return": 0.2061,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SRPT?date=2016-03-21&view=daily"
+    },
+    {
+      "symbol": "CSIQ",
+      "qdate": "2013-07-15",
+      "close_return": 0.2061,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified/sector, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CSIQ?date=2013-07-15&view=daily"
+    },
+    {
+      "symbol": "VNDA",
+      "qdate": "2016-08-25",
+      "close_return": 0.206,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/VNDA?date=2016-08-25&view=daily"
+    },
+    {
+      "symbol": "NEOG",
+      "qdate": "2015-07-21",
+      "close_return": 0.2058,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/NEOG?date=2015-07-21&view=daily"
+    },
+    {
+      "symbol": "FSLR",
+      "qdate": "2014-03-19",
+      "close_return": 0.2057,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Analyst Day 2014\u201316 guidance raise. Guidance/earnings, not keep 2/3/4.",
+      "locator": "https://www.prnewswire.com/news-releases/full-year-guidance-supply-agreements-upcoming-events-solar-powered-homes-and-arbitration-settlements---analyst-notes-on-first-solar-gt-canadian-solar-sunpower-and-trina-solar-252426021.html"
+    },
+    {
+      "symbol": "TBPH",
+      "qdate": "2014-06-03",
+      "close_return": 0.2056,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/TBPH?date=2014-06-03&view=daily"
+    },
+    {
+      "symbol": "AVHI",
+      "qdate": "2013-06-19",
+      "close_return": 0.2056,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/AVHI?date=2013-06-19&view=daily"
+    },
+    {
+      "symbol": "TRVN",
+      "qdate": "2016-02-22",
+      "close_return": 0.2047,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/TRVN?date=2016-02-22&view=daily"
+    },
+    {
+      "symbol": "MCF",
+      "qdate": "2016-11-30",
+      "close_return": 0.2046,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Contango Oil & Gas: OPEC deal / oil-price rebound sector move on Nov 30. Commodity, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/MCF?date=2016-11-30&view=daily"
+    },
+    {
+      "symbol": "MATX",
+      "qdate": "2014-11-12",
+      "close_return": 0.2046,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day M&A/biotech/tech keep PR for Matson. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/MATX?date=2014-11-12&view=daily"
+    },
+    {
+      "symbol": "EXEL",
+      "qdate": "2016-11-09",
+      "close_return": 0.2045,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Exelixis jumped with broad post-election biotech/pharma rally (Cabometyx already approved Apr 2016). Macro/sector, not company keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/EXEL?date=2016-11-09&view=daily"
+    },
+    {
+      "symbol": "CRZO",
+      "qdate": "2016-11-30",
+      "close_return": 0.2042,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Carrizo Oil & Gas: OPEC deal / oil rebound sector move. Commodity, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CRZO?date=2016-11-30&view=daily"
+    },
+    {
+      "symbol": "STMP",
+      "qdate": "2015-05-08",
+      "close_return": 0.2041,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 catalyst for Stamps.com; not target M&A/biotech/tech breakthrough.",
+      "locator": "https://exa.ai/library/markets/stock/STMP?date=2015-05-08&view=daily"
+    },
+    {
+      "symbol": "LITB",
+      "qdate": "2014-01-06",
+      "close_return": 0.2037,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified e-commerce move, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/LITB?date=2014-01-06&view=daily"
+    },
+    {
+      "symbol": "CSIQ",
+      "qdate": "2013-05-10",
+      "close_return": 0.2036,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Canadian Solar sector/solar-stock run; no confirmed keep-2/3/4 company catalyst.",
+      "locator": "https://exa.ai/library/markets/stock/CSIQ?date=2013-05-10&view=daily"
+    },
+    {
+      "symbol": "MITL",
+      "qdate": "2016-01-22",
+      "close_return": 0.2033,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day Mitel M&A/tech breakthrough (Polycom deal was Apr 2016 and Mitel was acquirer). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/MITL?date=2016-01-22&view=daily"
+    },
+    {
+      "symbol": "BMA",
+      "qdate": "2015-10-26",
+      "close_return": 0.2032,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Banco Macro Argentina macro/FX/politics move. Policy/macro, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/BMA?date=2015-10-26&view=daily"
+    },
+    {
+      "symbol": "CMC",
+      "qdate": "2016-11-09",
+      "close_return": 0.2031,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Commercial Metals post-election industrials/metals rally. Macro/sector, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CMC?date=2016-11-09&view=daily"
+    },
+    {
+      "symbol": "PTCT",
+      "qdate": "2016-05-20",
+      "close_return": 0.203,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "PTC Therapeutics bounce tied to competitor Sarepta AdCom fallout / FDA-path speculation after prior RTF; no same-day company trial/regulatory keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/2016/06/09/why-ptc-therapeutics-jumped-10-in-may.aspx"
+    },
+    {
+      "symbol": "HUM",
+      "qdate": "2015-05-29",
+      "close_return": 0.2029,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "WSJ reported Humana exploring a possible sale; stock +~20% same day. Confirmed M&A-process rumor later culminating in Aetna deal. Class-2 keep.",
+      "locator": "https://www.healthcarefinancenews.com/news/how-aetna-humana-merger-played-out-sec-filing-chronicles-drama"
+    },
+    {
+      "symbol": "PBYI",
+      "qdate": "2016-07-22",
+      "close_return": 0.2028,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "After-close Jul 21: NDA filed for neratinib plus interim 5-year ExteNET Phase III DFS data; Jul 22 +~20% reaction. Class-3 biotech/regulatory keep.",
+      "locator": "https://www.biocentury.com/article/278197/puma-rises-on-neratinib-survival-data-nda-submission"
+    },
+    {
+      "symbol": "OMER",
+      "qdate": "2015-03-02",
+      "close_return": 0.2027,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Omeros announced low-dose Phase 2 OMS721 TMA cohort completed with clinically meaningful disease-marker improvements. Class-3 trial keep.",
+      "locator": "https://www.wsnewspublishers.com/biotech-stocks-are-leading-u-s-stock-market-ohr-pharmaceutical-inc-nasdaqohrp-omeros-corporation-nasdaqomer-auris-medical-holding-ag-nasdaqears-athersys-inc-nasdaqathx/151661/"
+    },
+    {
+      "symbol": "NPO",
+      "qdate": "2014-01-13",
+      "close_return": 0.2027,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for EnPro; unclassified industrial move.",
+      "locator": "https://exa.ai/library/markets/stock/NPO?date=2014-01-13&view=daily"
+    },
+    {
+      "symbol": "GDP",
+      "qdate": "2014-11-07",
+      "close_return": 0.2021,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Goodrich Petroleum oil/energy sector move. Commodity, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/GDP?date=2014-11-07&view=daily"
+    },
+    {
+      "symbol": "HTHT",
+      "qdate": "2015-05-15",
+      "close_return": 0.202,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Huazhu/China Lodging. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/HTHT?date=2015-05-15&view=daily"
+    },
+    {
+      "symbol": "ADXS",
+      "qdate": "2015-01-27",
+      "close_return": 0.2017,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Advaxis rebound after short-seller/media attack; trading recovery, not keep 2/3/4 trial/M&A/tech.",
+      "locator": "https://smithonstocks.com/advaxis-a-look-at-the-dizzying-trading-activity-over-the-past-month-adxs-no-opinion-9-70/"
+    },
+    {
+      "symbol": "CFMS",
+      "qdate": "2016-04-06",
+      "close_return": 0.2017,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for Conformis (iTotal PS launch was ~Mar). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CFMS?date=2016-04-06&view=daily"
+    },
+    {
+      "symbol": "MGNX",
+      "qdate": "2016-11-09",
+      "close_return": 0.2015,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "MacroGenics jumped with broad post-election biotech rally. Macro/sector, not company keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/MGNX?date=2016-11-09&view=daily"
+    },
+    {
+      "symbol": "BRLI",
+      "qdate": "2015-06-04",
+      "close_return": 0.2015,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Definitive agreement: OPKO to acquire Bio-Reference Laboratories (~$1.47B stock). Target M&A keep-2.",
+      "locator": "https://www.reuters.com/article/markets/stocks/opko-health-to-buy-bio-reference-in-147-bln-deal-idUSL3N0YQ4I2/"
+    },
+    {
+      "symbol": "TRIB",
+      "qdate": "2015-10-22",
+      "close_return": 0.2011,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Trinity Biotech Q3 financial results release. Earnings, not keep 2/3/4.",
+      "locator": "https://www.globenewswire.com/fr/news-release/2015/10/22/779115/8624/en/trinity-biotech-announces-quarter-3-financial-results.html"
+    },
+    {
+      "symbol": "PERI",
+      "qdate": "2013-01-08",
+      "close_return": 0.2011,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Perion. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/PERI?date=2013-01-08&view=daily"
+    },
+    {
+      "symbol": "SGMO",
+      "qdate": "2014-12-09",
+      "close_return": 0.201,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "ASH: Sangamo presented preclinical IVPRP genome-editing data for hemophilia B (Factor IX in NHPs) and LSD enzyme programs supporting clinical path. Class-3 trial-path keep.",
+      "locator": "https://www.prnewswire.com/news-releases/sangamo-biosciences-presents-new-data-at-american-society-of-hematology-meeting-demonstrating-broad-application-of-zfn-mediated-genome-editing-approach-to-therapeutics-for-hemophilia-and-lysosomal-storage-disorders-300005929.html"
+    },
+    {
+      "symbol": "CARA",
+      "qdate": "2016-11-16",
+      "close_return": 0.2008,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Cara move attributed to analyst PT raise on CR845; analyst/media, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CARA?date=2016-11-16&view=daily"
+    },
+    {
+      "symbol": "SNX",
+      "qdate": "2013-09-11",
+      "close_return": 0.2005,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for SYNNEX. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SNX?date=2013-09-11&view=daily"
+    },
+    {
+      "symbol": "IRM",
+      "qdate": "2014-06-26",
+      "close_return": 0.2005,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Iron Mountain REIT conversion / IRS PLR and distribution guidance. Corporate-structure/financing, not keep 2/3/4.",
+      "locator": "https://investors.ironmountain.com/news/news-details/2014/Iron-Mountain-REIT-Conversion-to-Enhance-Stockholder-Returns/default.aspx"
     }
   ]
 }

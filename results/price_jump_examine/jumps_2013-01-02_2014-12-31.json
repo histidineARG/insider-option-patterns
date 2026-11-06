@@ -559,14 +559,16 @@
     "vol_ratio": 26.322668481960516,
     "cik": "0001338940",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/PERI?date=2013-01-08&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Perion. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "AAMRQ",
@@ -10233,14 +10235,16 @@
     "vol_ratio": 5.146780303030303,
     "cik": "0001375877",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CSIQ?date=2013-05-10&view=daily",
+    "news_detail": "Canadian Solar sector/solar-stock run; no confirmed keep-2/3/4 company catalyst."
   },
   {
     "symbol": "EGI",
@@ -11455,14 +11459,16 @@
     "vol_ratio": 4.423860773986719,
     "cik": "0001481513",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/JKS?date=2013-05-20&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified/sector, not keep 2/3/4."
   },
   {
     "symbol": "LDK",
@@ -14373,14 +14379,16 @@
     "vol_ratio": 24.56756756756757,
     "cik": "0000039677",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/AVHI?date=2013-06-19&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LEE",
@@ -15742,14 +15750,16 @@
     "vol_ratio": 2.2383360092017925,
     "cik": "0001375877",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CSIQ?date=2013-07-15&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified/sector, not keep 2/3/4."
   },
   {
     "symbol": "CSUN",
@@ -21480,14 +21490,16 @@
     "vol_ratio": 5.794349235757295,
     "cik": "0001177394",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SNX?date=2013-09-11&view=daily",
+    "news_detail": "No confirmed same-day keep PR for SYNNEX. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "UFS",
@@ -27384,14 +27396,16 @@
     "vol_ratio": 15.297551020408163,
     "cik": "0000799233",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/HTLD?date=2013-11-12&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "IOC",
@@ -28165,14 +28179,16 @@
     "vol_ratio": 10.206463195691203,
     "cik": "0000793524",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/REFR?date=2013-11-21&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ARIA",
@@ -31287,14 +31303,16 @@
     "vol_ratio": 9.69830028328612,
     "cik": "0001523836",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/LITB?date=2014-01-06&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified e-commerce move, not keep 2/3/4."
   },
   {
     "symbol": "OXBT",
@@ -32326,14 +32344,16 @@
     "vol_ratio": 2.4500805152979064,
     "cik": "0001164863",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/NPO?date=2014-01-13&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for EnPro; unclassified industrial move."
   },
   {
     "symbol": "ROSG",
@@ -38893,14 +38913,16 @@
     "vol_ratio": 7.02344993858891,
     "cik": "0001274494",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.prnewswire.com/news-releases/full-year-guidance-supply-agreements-upcoming-events-solar-powered-homes-and-arbitration-settlements---analyst-notes-on-first-solar-gt-canadian-solar-sunpower-and-trina-solar-252426021.html",
+    "news_detail": "Analyst Day 2014\u201316 guidance raise. Guidance/earnings, not keep 2/3/4."
   },
   {
     "symbol": "PRTA",
@@ -42277,14 +42299,16 @@
     "vol_ratio": 4.362204724409449,
     "cik": "0001561566",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/QIWI?date=2014-05-21&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "REDF",
@@ -42972,14 +42996,16 @@
     "vol_ratio": 15.505486466715436,
     "cik": "0001405495",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/IDCC?date=2014-06-03&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "OSGIQ",
@@ -43035,14 +43061,16 @@
     "vol_ratio": 14.663849765258217,
     "cik": "0001583107",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/TBPH?date=2014-06-03&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ANAD",
@@ -43776,14 +43804,16 @@
     "vol_ratio": 4.615298402913981,
     "cik": "0001001316",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/TGTX?date=2014-06-12&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ZLCS",
@@ -43885,14 +43915,16 @@
     "vol_ratio": 3.9339841624185077,
     "cik": "0001672571",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ACHN?date=2014-06-16&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "AVEO",
@@ -44414,14 +44446,16 @@
     "vol_ratio": 2.490592407353669,
     "cik": "0001389170",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://markets.chroniclejournal.com/chroniclejournal/quote/historical?Month=6&Range=12&Symbol=NY%3ATRGP&Year=2014",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "EPAX",
@@ -44710,14 +44744,16 @@
     "vol_ratio": 13.833157127983318,
     "cik": "0001020569",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://investors.ironmountain.com/news/news-details/2014/Iron-Mountain-REIT-Conversion-to-Enhance-Stockholder-Returns/default.aspx",
+    "news_detail": "Iron Mountain REIT conversion / IRS PLR and distribution guidance. Corporate-structure/financing, not keep 2/3/4."
   },
   {
     "symbol": "KIOR",
@@ -47141,14 +47177,16 @@
     "vol_ratio": 3.2197957027122226,
     "cik": "0000790526",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/RDNT?date=2014-08-08&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "RPTP",
@@ -54258,14 +54296,16 @@
     "vol_ratio": 2.212925820014581,
     "cik": "0000943861",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GDP?date=2014-11-07&view=daily",
+    "news_detail": "Goodrich Petroleum oil/energy sector move. Commodity, not keep 2/3/4."
   },
   {
     "symbol": "KWK",
@@ -54703,14 +54743,16 @@
     "vol_ratio": 7.856005657708628,
     "cik": "0000003453",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MATX?date=2014-11-12&view=daily",
+    "news_detail": "No confirmed same-day M&A/biotech/tech keep PR for Matson. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CYBR",
@@ -56207,15 +56249,17 @@
     "prev_volume": 618603.0,
     "vol_ratio": 2.820277302243927,
     "cik": "0001001233",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.prnewswire.com/news-releases/sangamo-biosciences-presents-new-data-at-american-society-of-hematology-meeting-demonstrating-broad-application-of-zfn-mediated-genome-editing-approach-to-therapeutics-for-hemophilia-and-lysosomal-storage-disorders-300005929.html",
+    "news_detail": "ASH: Sangamo presented preclinical IVPRP genome-editing data for hemophilia B (Factor IX in NHPs) and LSD enzyme programs supporting clinical path. Class-3 trial-path keep."
   },
   {
     "symbol": "PQ",
