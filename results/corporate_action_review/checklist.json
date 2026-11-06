@@ -17,6 +17,23 @@
     "notes": null
   },
   {
+    "event_id": "AFFX:2016-01-08",
+    "symbol": "AFFX",
+    "announcement_date": "2016-01-08",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
     "event_id": "AFOP:2016-04-07",
     "symbol": "AFOP",
     "announcement_date": "2016-04-07",
@@ -34,9 +51,60 @@
     "notes": null
   },
   {
+    "event_id": "ALR:2016-02-01",
+    "symbol": "ALR",
+    "announcement_date": "2016-02-01",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
+    "event_id": "ARG:2015-11-17",
+    "symbol": "ARG",
+    "announcement_date": "2015-11-17",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
     "event_id": "AVXS:2018-04-09",
     "symbol": "AVXS",
     "announcement_date": "2018-04-09",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
+    "event_id": "BEAM:2014-01-13",
+    "symbol": "BEAM",
+    "announcement_date": "2014-01-13",
     "checks": {
       "issuer_cik_matches_edgar": true,
       "ticker_maps_to_issuer_on_announcement_date": true,
@@ -119,6 +187,23 @@
     "notes": null
   },
   {
+    "event_id": "CKP:2016-03-02",
+    "symbol": "CKP",
+    "announcement_date": "2016-03-02",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
     "event_id": "CNQR:2014-09-18",
     "symbol": "CNQR",
     "announcement_date": "2014-09-18",
@@ -153,9 +238,60 @@
     "notes": null
   },
   {
+    "event_id": "CSCD:2016-02-04",
+    "symbol": "CSCD",
+    "announcement_date": "2016-02-04",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
     "event_id": "EFII:2019-04-15",
     "symbol": "EFII",
     "announcement_date": "2019-04-15",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
+    "event_id": "FMI:2015-01-12",
+    "symbol": "FMI",
+    "announcement_date": "2015-01-12",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
+    "event_id": "GNCMA:2017-04-04",
+    "symbol": "GNCMA",
+    "announcement_date": "2017-04-04",
     "checks": {
       "issuer_cik_matches_edgar": true,
       "ticker_maps_to_issuer_on_announcement_date": true,
@@ -272,9 +408,43 @@
     "notes": null
   },
   {
+    "event_id": "KLAC:2015-10-21",
+    "symbol": "KLAC",
+    "announcement_date": "2015-10-21",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
     "event_id": "KRFT:2015-03-25",
     "symbol": "KRFT",
     "announcement_date": "2015-03-25",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
+    "event_id": "LF:2016-02-05",
+    "symbol": "LF",
+    "announcement_date": "2016-02-05",
     "checks": {
       "issuer_cik_matches_edgar": true,
       "ticker_maps_to_issuer_on_announcement_date": true,
@@ -340,6 +510,40 @@
     "notes": null
   },
   {
+    "event_id": "PCP:2015-08-10",
+    "symbol": "PCP",
+    "announcement_date": "2015-08-10",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
+    "event_id": "POZN:2015-06-08",
+    "symbol": "POZN",
+    "announcement_date": "2015-06-08",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
     "event_id": "PRVB:2023-03-13",
     "symbol": "PRVB",
     "announcement_date": "2023-03-13",
@@ -374,9 +578,60 @@
     "notes": null
   },
   {
+    "event_id": "RKUS:2016-04-04",
+    "symbol": "RKUS",
+    "announcement_date": "2016-04-04",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
     "event_id": "SAGE:2025-06-16",
     "symbol": "SAGE",
     "announcement_date": "2025-06-16",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
+    "event_id": "SFD:2013-05-29",
+    "symbol": "SFD",
+    "announcement_date": "2013-05-29",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
+    "event_id": "SUSS:2014-04-28",
+    "symbol": "SUSS",
+    "announcement_date": "2014-04-28",
     "checks": {
       "issuer_cik_matches_edgar": true,
       "ticker_maps_to_issuer_on_announcement_date": true,
@@ -408,6 +663,40 @@
     "notes": null
   },
   {
+    "event_id": "VA:2016-04-04",
+    "symbol": "VA",
+    "announcement_date": "2016-04-04",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
+    "event_id": "VAL:2016-03-20",
+    "symbol": "VAL",
+    "announcement_date": "2016-03-20",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
     "event_id": "VRTU:2020-09-10",
     "symbol": "VRTU",
     "announcement_date": "2020-09-10",
@@ -425,9 +714,43 @@
     "notes": null
   },
   {
+    "event_id": "XRTX:2013-12-23",
+    "symbol": "XRTX",
+    "announcement_date": "2013-12-23",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
     "event_id": "ZGNX:2022-01-19",
     "symbol": "ZGNX",
     "announcement_date": "2022-01-19",
+    "checks": {
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
+    },
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
+    "notes": null
+  },
+  {
+    "event_id": "ZLC:2014-02-19",
+    "symbol": "ZLC",
+    "announcement_date": "2014-02-19",
     "checks": {
       "issuer_cik_matches_edgar": true,
       "ticker_maps_to_issuer_on_announcement_date": true,
