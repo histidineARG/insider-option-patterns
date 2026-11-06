@@ -26,3 +26,11 @@ Reviewed **18** events. **18** kept as M&A-contaminated (earlier public M&A news
 | SAGE:2025-06-16 | ma_news | keep_ma_contaminated | 2025-01-10 |
 
 None of these jumps are attributed to earnings. All remain blocked for clean first-public / training labels because of earlier-public or process contamination, not wrong catalyst type.
+
+## Timestamp deepen (post-filter)
+
+- **ONXX**: Financial Post 2013-06-28 19:57 ET after close → reclass to `jump_ok_gap_may_include_earlier_public`.
+- **MAXR**: before-open Journal report covered by MarketWatch 07:09 ET; company PR ~07:00 ET.
+- **RETA**: verified Bloomberg Law 2023-07-28 ~06:58 ET; alleged Jul 27 item timestamp still unverified.
+- **VAL**: WSJ/Dow Jones scoop timeline 2016-03-20 12:43/12:55 Sunday.
+- Still **0** `first_public_disclosure_verified` / **0** training-ready among these 18.

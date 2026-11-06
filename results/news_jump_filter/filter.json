@@ -14,13 +14,16 @@
       "symbol": "ONXX",
       "announcement_date": "2013-06-30",
       "close_return_pct": 51.26698917300161,
-      "price_action_vetting_status": "jump_ok_prior_close_may_reflect_earlier_public",
+      "price_action_vetting_status": "jump_ok_gap_may_include_earlier_public",
       "earlier_public_date_upper": "2013-06-28",
       "first_public_disclosure_verified": false,
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "Financial Post Amgen $120 bid report ~Jun 28 after-close; Jun 30 issuer response. Measured jump includes rumor then response.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://financialpost.com/news/amgen-circles-onyx-pharmaceuticals-with-eye-to-a-deal-at-us120-a-share/"
+      "news_locator": "https://financialpost.com/news/amgen-circles-onyx-pharmaceuticals-with-eye-to-a-deal-at-us120-a-share/",
+      "review_status": "earlier_disclosure_found_before_definitive_announcement",
+      "earlier_public_lower_utc": "2013-06-28T23:57:00Z",
+      "earlier_public_upper_utc": "2013-06-28T23:57:00Z"
     },
     {
       "event_id": "CNQR:2014-09-18",
@@ -33,7 +36,8 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "Bloomberg Sep 2/3 2014 sale-exploration report (SAP/Oracle); Sep 18 definitive is later. Measured window after earlier sale rumor.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.reuters.com/article/idUSKBN0GX2H720140902/"
+      "news_locator": "https://www.reuters.com/article/idUSKBN0GX2H720140902/",
+      "review_status": "conflicting_primary_disclosure_dates"
     },
     {
       "event_id": "KRFT:2015-03-25",
@@ -46,7 +50,8 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "WSJ/Bloomberg Mar 24 after-close 3G\u2013Kraft talks; Mar 25 definitive Heinz/Kraft. Prior close already embeds rumor.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.usatoday.com/story/money/business/2015/03/24/kraft-3g-capital/70406484/"
+      "news_locator": "https://www.usatoday.com/story/money/business/2015/03/24/kraft-3g-capital/70406484/",
+      "review_status": "earlier_disclosure_found_before_definitive_announcement"
     },
     {
       "event_id": "PCP:2015-08-10",
@@ -59,7 +64,8 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "WSJ/Fortune Aug 9 Berkshire\u2013Precision talks; Aug 10 definitive. Gap may include weekend rumor.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://fortune.com/2015/08/09/warren-buffetts-berkshire-hathaway-nears-precision-castparts/"
+      "news_locator": "https://fortune.com/2015/08/09/warren-buffetts-berkshire-hathaway-nears-precision-castparts/",
+      "review_status": "earlier_disclosure_found_before_definitive_announcement"
     },
     {
       "event_id": "ARG:2015-11-17",
@@ -72,7 +78,8 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "Same-day midday Air Liquide talks rumor then definitive; jump is M&A not earnings.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://247wallst.com/industrials/2015/11/17/airgas-to-become-part-of-air-liquide/"
+      "news_locator": "https://247wallst.com/industrials/2015/11/17/airgas-to-become-part-of-air-liquide/",
+      "review_status": "earlier_disclosure_found_before_definitive_announcement"
     },
     {
       "event_id": "VAL:2016-03-20",
@@ -85,7 +92,10 @@
       "jump_cause": "ma_news",
       "jump_cause_detail": "Sherwin-Williams $113 cash deal announced Mar 20 2016 (Sunday); Mon jump. Earlier-public bound retained from prior review.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.startribune.com/valspar-shares-jump-sharply-in-early-trading-after-sherwin-williams-takeover/372882771"
+      "news_locator": "https://www.startribune.com/valspar-shares-jump-sharply-in-early-trading-after-sherwin-williams-takeover/372882771",
+      "review_status": "earlier_disclosure_found_before_definitive_announcement",
+      "earlier_public_lower_utc": "2016-03-20T16:43:00Z",
+      "earlier_public_upper_utc": "2016-03-20T16:55:00Z"
     },
     {
       "event_id": "VA:2016-04-04",
@@ -98,7 +108,8 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "Bloomberg/CNBC Mar 28 JetBlue/Alaska bids; Apr 4 Alaska definitive. Earlier public before measured window.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.cnbc.com/2016/03/28/virgin-america-jumps-on-potential-bids-from-jetblue-alaska-air.html"
+      "news_locator": "https://www.cnbc.com/2016/03/28/virgin-america-jumps-on-potential-bids-from-jetblue-alaska-air.html",
+      "review_status": "earlier_disclosure_found_before_definitive_announcement"
     },
     {
       "event_id": "BIVV:2018-01-22",
@@ -111,7 +122,8 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "Bloomberg/WSJ Jan 21 evening Sanofi near-deal; Jan 22 definitive. Gap may include prior evening rumor.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.bloomberg.com/news/articles/2018-01-22/sanofi-said-to-near-11-5-billion-deal-for-bioverativ-wsj-says"
+      "news_locator": "https://www.bloomberg.com/news/articles/2018-01-22/sanofi-said-to-near-11-5-billion-deal-for-bioverativ-wsj-says",
+      "review_status": "earlier_disclosure_found_before_definitive_announcement"
     },
     {
       "event_id": "AVXS:2018-04-09",
@@ -124,7 +136,8 @@
       "jump_cause": "ma_news",
       "jump_cause_detail": "Novartis $218/share deal Apr 9; jump is M&A. Prior takeover-target list is unresolved process, not earnings/trial catalyst for this jump.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.foxbusiness.com/markets/why-avexis-inc-stock-is-soaring-today"
+      "news_locator": "https://www.foxbusiness.com/markets/why-avexis-inc-stock-is-soaring-today",
+      "review_status": "prior_takeover_speculation_public"
     },
     {
       "event_id": "VRTU:2020-09-10",
@@ -137,7 +150,8 @@
       "jump_cause": "ma_news",
       "jump_cause_detail": "BPEA $51.35 cash deal Sep 10; Motley Fool attributes +24% to M&A. Prior unsolicited process noted in release.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.fool.com/investing/2020/09/10/why-virtusa-stock-just-jumped-24/"
+      "news_locator": "https://www.fool.com/investing/2020/09/10/why-virtusa-stock-just-jumped-24/",
+      "review_status": "earlier_rumors_exist_start_unknown"
     },
     {
       "event_id": "COHR:2021-01-19",
@@ -150,7 +164,8 @@
       "jump_cause": "ma_news",
       "jump_cause_detail": "Lumentum deal announced Jan 19 (agreement Jan 18); Business Insider/AP attribute +33% to M&A. Later II-VI bidding war is post-event.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://markets.businessinsider.com/news/stocks/coherent-stock-skyrockets-lumentum-announces-multi-billion-acquisition-2021-1-1029982858"
+      "news_locator": "https://markets.businessinsider.com/news/stocks/coherent-stock-skyrockets-lumentum-announces-multi-billion-acquisition-2021-1-1029982858",
+      "review_status": "earlier_disclosure_found_before_definitive_announcement"
     },
     {
       "event_id": "GSKY:2021-09-15",
@@ -163,7 +178,8 @@
       "jump_cause": "ma_news",
       "jump_cause_detail": "Goldman Sachs all-stock deal Sep 15; Motley Fool attributes +53% to M&A. Prior process flag retained separately.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.fool.com/investing/2021/09/15/why-greensky-stock-soared-53-today/"
+      "news_locator": "https://www.fool.com/investing/2021/09/15/why-greensky-stock-soared-53-today/",
+      "review_status": "prior_strategic_process_requires_scope_review"
     },
     {
       "event_id": "MAXR:2022-12-16",
@@ -176,7 +192,10 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "Same-day WSJ then Advent definitive; InvestorPlace/Reuters attribute +120% to M&A.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://investorplace.com/2022/12/why-is-maxar-technologies-maxr-stock-up-120-today/"
+      "news_locator": "https://investorplace.com/2022/12/why-is-maxar-technologies-maxr-stock-up-120-today/",
+      "review_status": "earlier_disclosure_found_before_definitive_announcement",
+      "earlier_public_lower_utc": "2022-12-16T11:00:00Z",
+      "earlier_public_upper_utc": "2022-12-16T12:09:00Z"
     },
     {
       "event_id": "PRVB:2023-03-13",
@@ -189,20 +208,24 @@
       "jump_cause": "ma_news",
       "jump_cause_detail": "Sanofi $25 tender Mar 13; Reuters/BioSpace attribute ~+260% to M&A. Prior Sanofi commercial relationship is not this jump\u2019s catalyst.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.reuters.com/markets/deals/frances-sanofi-acquire-us-based-provention-bio-29-bln-2023-03-13/"
+      "news_locator": "https://www.reuters.com/markets/deals/frances-sanofi-acquire-us-based-provention-bio-29-bln-2023-03-13/",
+      "review_status": "prior_strategic_relationship_public"
     },
     {
       "event_id": "RETA:2023-07-28",
       "symbol": "RETA",
       "announcement_date": "2023-07-28",
       "close_return_pct": 54.02118839244588,
-      "price_action_vetting_status": "jump_ok_prior_close_may_reflect_earlier_public",
-      "earlier_public_date_upper": "2023-07-27",
+      "price_action_vetting_status": "jump_ok_gap_may_include_earlier_public",
+      "earlier_public_date_upper": "2023-07-28",
       "first_public_disclosure_verified": false,
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "Bloomberg Law Biogen-considering report then Jul 28 definitive; Investopedia attributes +54% to M&A. Prior-close may reflect rumor.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.investopedia.com/biogen-buys-reata-pharmaceuticals-7567176"
+      "news_locator": "https://www.investopedia.com/biogen-buys-reata-pharmaceuticals-7567176",
+      "review_status": "earlier_disclosure_found_before_definitive_announcement",
+      "earlier_public_lower_utc": "2023-07-27T00:00:00Z",
+      "earlier_public_upper_utc": "2023-07-28T10:58:00Z"
     },
     {
       "event_id": "IMGN:2023-11-30",
@@ -215,7 +238,8 @@
       "jump_cause": "ma_news",
       "jump_cause_detail": "AbbVie $31.26 deal Nov 30; CNBC attributes +83% to M&A. Earlier Oct process/bids are before measured window.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.cnbc.com/2023/11/30/biotech-stocks-jump-on-abbvie-deal-to-buy-cancer-drugmaker-immunogen.html"
+      "news_locator": "https://www.cnbc.com/2023/11/30/biotech-stocks-jump-on-abbvie-deal-to-buy-cancer-drugmaker-immunogen.html",
+      "review_status": "earlier_disclosure_found_before_definitive_announcement"
     },
     {
       "event_id": "ITCI:2025-01-13",
@@ -228,7 +252,8 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "Bloomberg Jan 12 J&J exploring bid; Jan 13 definitive. Gap may include prior-day rumor.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.reuters.com/business/healthcare-pharmaceuticals/jj-explores-bid-intra-cellular-therapies-bloomberg-news-reports-2025-01-12/"
+      "news_locator": "https://www.reuters.com/business/healthcare-pharmaceuticals/jj-explores-bid-intra-cellular-therapies-bloomberg-news-reports-2025-01-12/",
+      "review_status": "earlier_disclosure_found_before_definitive_announcement"
     },
     {
       "event_id": "SAGE:2025-06-16",
@@ -241,7 +266,14 @@
       "jump_cause": "ma_news",
       "jump_cause_detail": "Supernus $8.50(+CVR) deal Jun 16; Reuters attributes +35% to M&A. Earlier Biogen offer/process is before measured window.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.reuters.com/business/healthcare-pharmaceuticals/supernus-pharma-acquire-sage-therapeutics-up-795-million-deal-2025-06-16/"
+      "news_locator": "https://www.reuters.com/business/healthcare-pharmaceuticals/supernus-pharma-acquire-sage-therapeutics-up-795-million-deal-2025-06-16/",
+      "review_status": "prior_competing_bid_public"
     }
+  ],
+  "deepened_timestamps": [
+    "ONXX",
+    "MAXR",
+    "RETA",
+    "VAL"
   ]
 }
