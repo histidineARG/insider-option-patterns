@@ -25,7 +25,8 @@ REVIEW_FIELDS = (
     'first_public_lower_utc', 'first_public_upper_utc',
     'announcement_session', 'issuer_cik', 'issuer', 'eligibility', 'date_verified',
     'discovery_basis',
-    'price_action_vetting_status', 'price_action_notes', 'price_action_hazards')
+    'price_action_vetting_status', 'price_action_notes', 'price_action_hazards',
+    'jump_cause', 'jump_cause_detail', 'news_filter', 'news_locator')
 
 
 def inputs(root):
