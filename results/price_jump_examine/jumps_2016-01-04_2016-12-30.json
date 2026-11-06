@@ -7072,14 +7072,16 @@
     "vol_ratio": 5.312020210974205,
     "cik": "0001171662",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GTS?date=2016-02-18&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "IM",
@@ -19403,14 +19405,16 @@
     "vol_ratio": 7.08362635265898,
     "cik": "0001111863",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stocks/SWIR?date=2016-05-06",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "WHZT",
@@ -25227,14 +25231,16 @@
     "vol_ratio": 4.881536836112947,
     "cik": "0001466301",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://endpoints.news/what-pdufa-date-clovis-shares-surge-as-parps-get-trendy-on-wall-street/",
+    "news_detail": "PARP peer Tesaro niraparib PFS news bounce; rociletinib CRL already flagged. Sector, not company keep 2/3/4."
   },
   {
     "symbol": "PCYG",
@@ -27541,14 +27547,16 @@
     "vol_ratio": 11.947300469105672,
     "cik": "0001346830",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CARA?date=2016-07-22&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SNTA",
@@ -34440,14 +34448,16 @@
     "vol_ratio": 2.4489736569105967,
     "cik": "0001590895",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CZR?date=2016-09-21&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified/restructuring, not keep 2/3/4."
   },
   {
     "symbol": "GALT",
@@ -34838,15 +34848,17 @@
     "prev_volume": 14670078.0,
     "vol_ratio": 13.006818845816634,
     "cik": "0001418091",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_rumor",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.cnbc.com/2016/09/23/twitter-surges-more-than-20-amid-potential-sale-report.html",
+    "news_detail": "CNBC/Reuters: Twitter exploring sale; talks with Google, Salesforce et al. Confirmed M&A rumor keep."
   },
   {
     "symbol": "BATS",
