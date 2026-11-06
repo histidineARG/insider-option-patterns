@@ -295,7 +295,11 @@
     "jump_cause": "ma_rumor",
     "jump_cause_detail": "Same-day midday Air Liquide talks rumor then definitive; jump is M&A not earnings.",
     "news_filter": "keep_ma_contaminated",
-    "news_locator": "https://247wallst.com/industrials/2015/11/17/airgas-to-become-part-of-air-liquide/"
+    "news_locator": "https://247wallst.com/industrials/2015/11/17/airgas-to-become-part-of-air-liquide/",
+    "earlier_source": "https://www.streetinsider.com/Hot+M+and+A/Air+Liquide+Said+in+Talks+to+Acquire+Airgas+%28ARG%29/11084006.html",
+    "earlier_locator": "StreetInsider November 17, 2015 12:23 p.m. EST (updated 12:27 p.m.) Air Liquide talks",
+    "earlier_public_lower_utc": "2015-11-17T17:23:00Z",
+    "earlier_public_upper_utc": "2015-11-17T17:27:00Z"
   },
   {
     "symbol": "AVXS",
@@ -316,7 +320,7 @@
     "identity_source": "https://data.sec.gov/submissions/CIK0001652923.json",
     "identity_locator": "EDGAR issuer AveXis, Inc. CIK 0001652923; prior cohort CIK 1509928 resolved to LyonRoss Liquid Strategies Fund Ltd.",
     "earlier_public_date_upper": "2018-02-26",
-    "earlier_public_date_lower": null,
+    "earlier_public_date_lower": "2018-02-26",
     "earlier_public_session": "unknown",
     "earlier_source": "https://www.genengnews.com/news/novartis-to-acquire-gene-therapy-developer-avexis-for-8-7b/",
     "earlier_locator": "GEN April 9 deal story cites AveXis on February 26, 2018 takeover-targets list",
@@ -360,7 +364,9 @@
     "jump_cause": "ma_news",
     "jump_cause_detail": "Novartis $218/share deal Apr 9; jump is M&A. Prior takeover-target list is unresolved process, not earnings/trial catalyst for this jump.",
     "news_filter": "keep_ma_contaminated",
-    "news_locator": "https://www.foxbusiness.com/markets/why-avexis-inc-stock-is-soaring-today"
+    "news_locator": "https://www.foxbusiness.com/markets/why-avexis-inc-stock-is-soaring-today",
+    "earlier_public_lower_utc": "2018-02-26T00:00:00Z",
+    "earlier_public_upper_utc": "2018-02-26T23:59:59Z"
   },
   {
     "symbol": "BEAM",
@@ -1095,7 +1101,7 @@
     "eligibility": "target_evidence_reviewed",
     "issuer_cik": "1712923",
     "earlier_public_date_upper": "2020-08-10",
-    "earlier_public_date_lower": null,
+    "earlier_public_date_lower": "2020-08-10",
     "review_status": "prior_strategic_process_requires_scope_review",
     "locator": "Paragraphs 34-35; public end of strategic review August 10, 2020, and renewed private talks May 29, 2021",
     "finding": "An older publicly disclosed strategic process ended without agreement. Whether the later transaction represents a new disclosure episode requires an explicit review; an old process alone does not establish a 2021 leak.",
@@ -1145,7 +1151,11 @@
     "jump_cause": "ma_news",
     "jump_cause_detail": "Goldman Sachs all-stock deal Sep 15; Motley Fool attributes +53% to M&A. Prior process flag retained separately.",
     "news_filter": "keep_ma_contaminated",
-    "news_locator": "https://www.fool.com/investing/2021/09/15/why-greensky-stock-soared-53-today/"
+    "news_locator": "https://www.fool.com/investing/2021/09/15/why-greensky-stock-soared-53-today/",
+    "earlier_public_session": "unknown",
+    "earlier_locator": "Older publicly disclosed strategic process ended without agreement ~2020-08-10; new-episode scope unresolved",
+    "earlier_public_lower_utc": "2020-08-10T00:00:00Z",
+    "earlier_public_upper_utc": "2020-08-10T23:59:59Z"
   },
   {
     "symbol": "HNZ",
@@ -1976,7 +1986,7 @@
     "identity_source": "https://data.sec.gov/submissions/CIK0001695357.json",
     "identity_locator": "EDGAR issuer Provention Bio, Inc. CIK 0001695357; prior cohort CIK 1698991 resolved to Accel Entertainment, Inc.",
     "earlier_public_date_upper": "2022-10-04",
-    "earlier_public_date_lower": null,
+    "earlier_public_date_lower": "2022-10-04",
     "earlier_public_session": "unknown",
     "earlier_source": "https://www.biospace.com/provention-and-sanofi-ink-co-promotion-deal-ahead-of-potential-approval-of-t1d-treatment",
     "earlier_locator": "Public Sanofi co-promotion and ROFN beginning October 4, 2022",
@@ -2022,7 +2032,9 @@
     "jump_cause": "ma_news",
     "jump_cause_detail": "Sanofi $25 tender Mar 13; Reuters/BioSpace attribute ~+260% to M&A. Prior Sanofi commercial relationship is not this jump\u2019s catalyst.",
     "news_filter": "keep_ma_contaminated",
-    "news_locator": "https://www.reuters.com/markets/deals/frances-sanofi-acquire-us-based-provention-bio-29-bln-2023-03-13/"
+    "news_locator": "https://www.reuters.com/markets/deals/frances-sanofi-acquire-us-based-provention-bio-29-bln-2023-03-13/",
+    "earlier_public_lower_utc": "2022-10-04T00:00:00Z",
+    "earlier_public_upper_utc": "2022-10-04T23:59:59Z"
   },
   {
     "symbol": "RETA",
@@ -2543,7 +2555,7 @@
     "eligibility": "target_evidence_reviewed",
     "issuer_cik": "1207074",
     "earlier_public_date_upper": "2020-08-30",
-    "earlier_public_date_lower": null,
+    "earlier_public_date_lower": "2020-08-30",
     "earlier_public_session": "unknown",
     "review_status": "earlier_rumors_exist_start_unknown",
     "locator": "Background of the Merger; August 30 inquiry about market rumors and September 10 pre-open release",
@@ -2592,7 +2604,10 @@
     "jump_cause": "ma_news",
     "jump_cause_detail": "BPEA $51.35 cash deal Sep 10; Motley Fool attributes +24% to M&A. Prior unsolicited process noted in release.",
     "news_filter": "keep_ma_contaminated",
-    "news_locator": "https://www.fool.com/investing/2020/09/10/why-virtusa-stock-just-jumped-24/"
+    "news_locator": "https://www.fool.com/investing/2020/09/10/why-virtusa-stock-just-jumped-24/",
+    "earlier_locator": "Filing notes Aug 30 counterparty rumor inquiry; first public rumor clock unresolved",
+    "earlier_public_lower_utc": "2020-08-30T00:00:00Z",
+    "earlier_public_upper_utc": "2020-08-30T23:59:59Z"
   },
   {
     "symbol": "XRTX",

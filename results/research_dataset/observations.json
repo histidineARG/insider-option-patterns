@@ -282,8 +282,8 @@
   {
     "symbol": "ABB",
     "qdate": "2019-02-19",
-    "training_label": null,
-    "label_status": "incomplete_outcome_registry",
+    "training_label": 0,
+    "label_status": "negative_from_complete_scoped_outcome_review",
     "selection": "outcome_independent_stockquote_sample",
     "instrument_classification": "unreviewed",
     "stockdate_sampling_weight": 10747.8,
@@ -13999,7 +13999,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "entry_proxy_not_strictly_before_earlier_disclosure_date"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14059,7 +14059,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14119,7 +14119,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14179,7 +14179,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14239,7 +14239,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14299,7 +14299,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14359,7 +14359,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14419,7 +14419,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14479,7 +14479,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14539,7 +14539,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14599,7 +14599,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14659,7 +14659,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14719,7 +14719,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14779,7 +14779,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14839,7 +14839,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14899,7 +14899,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -14959,7 +14959,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15019,7 +15019,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15079,7 +15079,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15139,7 +15139,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15199,7 +15199,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15259,7 +15259,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15319,7 +15319,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15379,7 +15379,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15439,7 +15439,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15499,7 +15499,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15559,7 +15559,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15619,7 +15619,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15679,7 +15679,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -15739,7 +15739,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "AVXS:2018-04-09": "earlier_public_process_start_unresolved"
+      "AVXS:2018-04-09": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60011,7 +60011,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60071,7 +60071,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60131,7 +60131,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60191,7 +60191,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60251,7 +60251,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60311,7 +60311,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60371,7 +60371,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60431,7 +60431,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60491,7 +60491,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60551,7 +60551,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60611,7 +60611,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60671,7 +60671,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60731,7 +60731,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60791,7 +60791,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60851,7 +60851,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60911,7 +60911,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -60971,7 +60971,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61031,7 +61031,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61091,7 +61091,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61151,7 +61151,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61211,7 +61211,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61271,7 +61271,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61331,7 +61331,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61391,7 +61391,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61451,7 +61451,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61511,7 +61511,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61571,7 +61571,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61631,7 +61631,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61691,7 +61691,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -61751,7 +61751,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "GSKY:2021-09-15": "earlier_public_process_start_unresolved"
+      "GSKY:2021-09-15": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107089,7 +107089,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107149,7 +107149,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107209,7 +107209,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107269,7 +107269,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107329,7 +107329,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107389,7 +107389,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107449,7 +107449,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107509,7 +107509,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107569,7 +107569,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107629,7 +107629,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107689,7 +107689,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107749,7 +107749,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107809,7 +107809,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107869,7 +107869,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107929,7 +107929,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -107989,7 +107989,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108049,7 +108049,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108109,7 +108109,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108169,7 +108169,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108229,7 +108229,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108289,7 +108289,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108349,7 +108349,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108409,7 +108409,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108469,7 +108469,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108529,7 +108529,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108589,7 +108589,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108649,7 +108649,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108709,7 +108709,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108769,7 +108769,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -108829,7 +108829,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "PRVB:2023-03-13": "earlier_public_process_start_unresolved"
+      "PRVB:2023-03-13": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140154,7 +140154,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140214,7 +140214,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140274,7 +140274,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140334,7 +140334,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140394,7 +140394,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140454,7 +140454,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140514,7 +140514,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140574,7 +140574,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140634,7 +140634,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140694,7 +140694,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140754,7 +140754,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140814,7 +140814,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140874,7 +140874,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140934,7 +140934,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -140994,7 +140994,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141054,7 +141054,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141114,7 +141114,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141174,7 +141174,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141234,7 +141234,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141294,7 +141294,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141354,7 +141354,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141414,7 +141414,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "first_disclosure_review_pending"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141474,7 +141474,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "entry_proxy_not_strictly_before_earlier_disclosure_date"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141534,7 +141534,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141594,7 +141594,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141654,7 +141654,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141714,7 +141714,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141774,7 +141774,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141834,7 +141834,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
@@ -141894,7 +141894,7 @@
     "vendor_delivery_timing_verified": false,
     "quote_eligibility_verified": false,
     "disclosure_diagnostics": {
-      "VRTU:2020-09-10": "earlier_public_process_start_unresolved"
+      "VRTU:2020-09-10": "at_or_after_known_earlier_disclosure_boundary"
     },
     "outcome_event_ids": [],
     "research_eligible": false,
