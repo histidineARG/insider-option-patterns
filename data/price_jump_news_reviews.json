@@ -3292,6 +3292,206 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/ICAD?date=2014-07-16&view=daily"
+    },
+    {
+      "symbol": "NOAH",
+      "qdate": "2013-05-28",
+      "close_return": 0.2193,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/NOAH?date=2013-05-28&view=daily"
+    },
+    {
+      "symbol": "ISSC",
+      "qdate": "2014-02-11",
+      "close_return": 0.2193,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ISSC?date=2014-02-11&view=daily"
+    },
+    {
+      "symbol": "ORMP",
+      "qdate": "2014-01-27",
+      "close_return": 0.219,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ORMP?date=2014-01-27&view=daily"
+    },
+    {
+      "symbol": "CRUS",
+      "qdate": "2014-12-15",
+      "close_return": 0.2187,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR (likely earnings/sector). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CRUS?date=2014-12-15&view=daily"
+    },
+    {
+      "symbol": "SWIR",
+      "qdate": "2016-05-06",
+      "close_return": 0.2186,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stocks/SWIR?date=2016-05-06"
+    },
+    {
+      "symbol": "CLVS",
+      "qdate": "2016-06-29",
+      "close_return": 0.2184,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "PARP peer Tesaro niraparib PFS news bounce; rociletinib CRL already flagged. Sector, not company keep 2/3/4.",
+      "locator": "https://endpoints.news/what-pdufa-date-clovis-shares-surge-as-parps-get-trendy-on-wall-street/"
+    },
+    {
+      "symbol": "RDNT",
+      "qdate": "2014-05-09",
+      "close_return": 0.218,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/RDNT?date=2014-05-09&view=daily"
+    },
+    {
+      "symbol": "CARA",
+      "qdate": "2016-07-22",
+      "close_return": 0.218,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CARA?date=2016-07-22&view=daily"
+    },
+    {
+      "symbol": "CRTO",
+      "qdate": "2014-11-05",
+      "close_return": 0.2179,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CRTO?date=2014-11-05&view=daily"
+    },
+    {
+      "symbol": "SGMO",
+      "qdate": "2015-09-10",
+      "close_return": 0.2171,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SGMO?date=2015-09-10&view=daily"
+    },
+    {
+      "symbol": "VISN",
+      "qdate": "2014-07-28",
+      "close_return": 0.2167,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Strategic partnership with Huawei for mass-transit WiFi. Partnership, not keep 2/3/4.",
+      "locator": "https://www.prnewswire.com/news-releases/visionchina-media-partners-with-huawei-to-expedite-national-mass-transit-wifi-network-expansion-268877081.html"
+    },
+    {
+      "symbol": "CALA",
+      "qdate": "2015-07-17",
+      "close_return": 0.2163,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CALA?date=2015-07-17&view=daily"
+    },
+    {
+      "symbol": "HRTX",
+      "qdate": "2015-09-23",
+      "close_return": 0.216,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/HRTX?date=2015-09-23&view=daily"
+    },
+    {
+      "symbol": "GTS",
+      "qdate": "2016-02-18",
+      "close_return": 0.2155,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/GTS?date=2016-02-18&view=daily"
+    },
+    {
+      "symbol": "BJRI",
+      "qdate": "2014-03-06",
+      "close_return": 0.2155,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/BJRI?date=2014-03-06&view=daily"
+    },
+    {
+      "symbol": "ODP",
+      "qdate": "2015-02-03",
+      "close_return": 0.2149,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "WSJ: Staples and Office Depot in advanced merger talks. Confirmed M&A rumor keep.",
+      "locator": "https://money.cnn.com/2015/02/03/investing/staples-office-depot-merger/index.html"
+    },
+    {
+      "symbol": "RMTI",
+      "qdate": "2014-11-04",
+      "close_return": 0.2149,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR ahead of Nov Triferic AdCom/earnings. Unclassified, not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1041024/000117184314005418/exh_991.htm"
+    },
+    {
+      "symbol": "CZR",
+      "qdate": "2016-09-21",
+      "close_return": 0.2144,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified/restructuring, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CZR?date=2016-09-21&view=daily"
+    },
+    {
+      "symbol": "TWTR",
+      "qdate": "2016-09-23",
+      "close_return": 0.2142,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "CNBC/Reuters: Twitter exploring sale; talks with Google, Salesforce et al. Confirmed M&A rumor keep.",
+      "locator": "https://www.cnbc.com/2016/09/23/twitter-surges-more-than-20-amid-potential-sale-report.html"
+    },
+    {
+      "symbol": "MGI",
+      "qdate": "2015-05-06",
+      "close_return": 0.2141,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/MGI?date=2015-05-06&view=daily"
     }
   ]
 }
