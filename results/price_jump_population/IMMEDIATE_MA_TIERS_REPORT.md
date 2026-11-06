@@ -106,3 +106,47 @@ In 2013–2019, calendar-consecutive ≥20% close jumps with an open gap also �
 - Filing-proximate ≥20% leads and `mafromnews` show still larger candidate pools, especially 2015–2017 news and 2018+ filing proximity — with weaker confirmation.
 - Post-2016 collapse in dated local deal tables is a **coverage hole**, not evidence the market shrank to 2 premium deals/year.
 
+## Continuation: widen dated confirmation + EDGAR-backed density
+
+### Source/timing-confirmed price/volume reactions (after announcement-date reviews)
+
+Verified announcement date/session reviews were added for SFD, BEAM, FMI, PCP, ARG, AFFX (and OMX date corrected). Confirmed_price_volume_reaction count is now **28** (was 22). Immediate ≥20% among them: **22**.
+
+| Year | Confirmed timed reactions | Of which immediate ≥20% |
+| ---: | ---: | ---: |
+| 2013 | 3 | 2 |
+| 2014 | 2 | 1 |
+| 2015 | 4 | 3 |
+| 2016 | 6 | 3 |
+| 2017 | 1 | 1 |
+| 2018 | 2 | 2 |
+| 2019 | 2 | 2 |
+| 2020 | 1 | 1 |
+| 2021 | 2 | 2 |
+| 2022 | 2 | 2 |
+| 2023 | 3 | 3 |
+
+Still awaiting date/timing review among market passes: **16**.
+
+**OMX lesson:** correcting the announcement to the verified 2013-02-20 intraday release removes the ≥15%% close-to-close screen print (reaction close −7%% vs 2013-02-19). The large print was **2013-02-19**, i.e. before the Business Wire release — earlier public/leak price action relative to the official announcement.
+
+### EDGAR merger-filing candidates with symbols — pre-proxy max session jump
+
+| Year | Candidates w/ symbol | With local quotes | Max jump ≥15% in 180d pre-proxy | Max jump ≥20% |
+| ---: | ---: | ---: | ---: | ---: |
+| 2013 | 23 | 12 | 3 | 1 |
+| 2014 | 37 | 22 | 4 | 2 |
+| 2015 | 34 | 17 | 7 | 6 |
+| 2016 | 48 | 15 | 7 | 3 |
+| 2017 | 49 | 19 | 6 | 6 |
+| 2018 | 108 | 42 | 19 | 13 |
+| 2019 | 79 | 26 | 14 | 10 |
+| 2020 | 83 | 26 | 12 | 6 |
+| 2021 | 289 | 182 | 90 | 71 |
+| 2022 | 256 | 156 | 100 | 83 |
+| 2023 | 215 | 142 | 99 | 76 |
+| 2024 | 229 | 146 | 78 | 58 |
+
+EDGAR-with-symbol counts are **already ≥20 in every year 2013–2024** in `edgar_candidates_enriched_all.csv`. Quote coverage for older delisted names is incomplete (e.g. 2013: 23 candidates, only 12 with local quotes), which suppresses early-year ≥20%% tallies. From 2018 onward, filing-backed issuers with a ≥20%% pre-proxy session jump are routinely **≥10/year**, and **70+/year** in 2021–2023.
+
+See also `EDGAR_PREPROXY_JUMP_REPORT.md`.

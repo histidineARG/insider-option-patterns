@@ -33,14 +33,15 @@ LOCAL_EXCLUSIONS={
 
 def candidates(root):
     rows=[]
-    for r in csv.DictReader((root/'data/m_and_a/local_maevent_all.csv').open()):
-        symbol=r['symbol'].strip().upper()
-        if not symbol or not r['announcedate'] or r['announcedate']<'2013-01-01':continue
-        rows.append(dict(symbol=symbol,announcement_date=r['announcedate'],
-                         issuer=r['acquiree'],source='optiondb.maevent:'+r['maid'],
-                         announcement_session='unknown',date_verified=False,
-                         eligibility='excluded' if symbol in LOCAL_EXCLUSIONS else 'candidate',
-                         exclusion_reason=LOCAL_EXCLUSIONS.get(symbol,'')))
+    with (root/'data/m_and_a/local_maevent_all.csv').open() as fh:
+        for r in csv.DictReader(fh):
+            symbol=r['symbol'].strip().upper()
+            if not symbol or not r['announcedate'] or r['announcedate']<'2013-01-01':continue
+            rows.append(dict(symbol=symbol,announcement_date=r['announcedate'],
+                             issuer=r['acquiree'],source='optiondb.maevent:'+r['maid'],
+                             announcement_session='unknown',date_verified=False,
+                             eligibility='excluded' if symbol in LOCAL_EXCLUSIONS else 'candidate',
+                             exclusion_reason=LOCAL_EXCLUSIONS.get(symbol,'')))
     for r in json.loads((root/'data/sec_cases.json').read_text())['cases']:
         if r['id'] not in MA_CASES or not r['event_date_verified']:continue
         rows.append(dict(symbol=r['symbol'],announcement_date=r['event_date'],
@@ -78,6 +79,30 @@ def candidates(root):
                            timing_source=review['announcement_timing_source'],
                            timing_locator=review['announcement_timing_locator'],
                            timing_review_notes=review.get('notes',''))
+    # Correct wrong local dates and attach verified sessions without inventing deals.
+    date_reviews=root/'data/m_and_a/announcement_date_reviews.json'
+    if date_reviews.exists():
+        for review in json.loads(date_reviews.read_text())['reviews']:
+            symbol=review['symbol']
+            new_date=review['announcement_date']
+            prior=review.get('prior_candidate_date')
+            row=None
+            if prior:
+                row=merged.pop((symbol, prior), None)
+            if row is None:
+                row=merged.get((symbol, new_date))
+            if row is None:
+                continue
+            row.update(announcement_date=new_date,
+                       announcement_session=review['announcement_session'],
+                       timing_source=review['announcement_timing_source'],
+                       timing_locator=review['announcement_timing_locator'],
+                       timing_review_notes=review.get('notes',''),
+                       date_verified=bool(review.get('date_verified', True)),
+                       eligibility='target_evidence_reviewed')
+            if review.get('issuer'):
+                row['issuer']=review['issuer']
+            merged[(symbol, new_date)]=row
     return sorted(merged.values(),key=lambda r:(r['announcement_date'],r['symbol']))
 
 

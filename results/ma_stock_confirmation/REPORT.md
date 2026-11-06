@@ -2,7 +2,7 @@
 
 Screened 88 dated target candidates from local maevent records, extracted SEC cases and reviewed M&A examples. This does not cover all 9,465 merger filing documents: those filing dates are not verified announcement dates.
 
-**45 candidates pass the market screen; 22 also have reviewed announcement dates and session timing.**
+**44 candidates pass the market screen; 28 also have reviewed announcement dates and session timing.**
 
 Rules: reaction-session close / immediately preceding market-session close − 1 ≥ 15%; reaction-session volume / average volume of the preceding 20 calendar trading sessions ≥ 2.0×. The reaction session is the announcement trading date for pre-open/intraday releases, the next session for after-close releases, and the next session for nontrading-day releases. Current-session volume is excluded from the baseline.
 
@@ -13,9 +13,15 @@ Missing previous quotes or any of the required 20 baseline sessions prevent pric
 | Target | Announcement date | Reaction session | Close return | Volume / prior 20-session mean |
 |---|---|---|---:|---:|
 | HNZ | 2013-02-14 | 2013-02-14 | 19.87% | 43.06× |
+| SFD | 2013-05-29 | 2013-05-29 | 28.42% | 36.00× |
 | ONXX | 2013-06-30 | 2013-07-01 | 51.27% | 17.92× |
+| BEAM | 2014-01-13 | 2014-01-13 | 24.56% | 63.43× |
 | CNQR | 2014-09-18 | 2014-09-19 | 17.64% | 41.84× |
+| FMI | 2015-01-12 | 2015-01-12 | 95.32% | 30.41× |
 | KRFT | 2015-03-25 | 2015-03-25 | 35.58% | 37.12× |
+| PCP | 2015-08-10 | 2015-08-10 | 19.10% | 12.31× |
+| ARG | 2015-11-17 | 2015-11-17 | 29.36% | 11.98× |
+| AFFX | 2016-01-08 | 2016-01-11 | 51.57% | 147.52× |
 | ADT | 2016-02-16 | 2016-02-16 | 47.53% | 22.49× |
 | AFOP | 2016-04-07 | 2016-04-08 | 19.34% | 45.92× |
 | LNKD | 2016-06-13 | 2016-06-13 | 46.64% | 15.37× |
@@ -39,18 +45,11 @@ Missing previous quotes or any of the required 20 baseline sessions prevent pric
 
 | Target | Candidate announcement date | Reaction session | Close return | Volume multiple |
 |---|---|---|---:|---:|
-| OMX | 2013-02-18 | 2013-02-19 | 20.93% | 10.75× |
-| SFD | 2013-05-29 | 2013-05-29 | 28.42% | 36.00× |
 | XRTX | 2013-12-23 | 2013-12-23 | 27.27% | 53.56× |
-| BEAM | 2014-01-13 | 2014-01-13 | 24.56% | 63.43× |
 | ZLC | 2014-02-19 | 2014-02-19 | 40.31% | 60.41× |
 | SUSS | 2014-04-28 | 2014-04-28 | 36.28% | 17.20× |
-| FMI | 2015-01-12 | 2015-01-12 | 95.32% | 30.41× |
 | POZN | 2015-06-08 | 2015-06-08 | 18.94% | 13.85× |
-| PCP | 2015-08-10 | 2015-08-10 | 19.10% | 12.31× |
 | KLAC | 2015-10-21 | 2015-10-21 | 18.79% | 13.27× |
-| ARG | 2015-11-17 | 2015-11-17 | 29.36% | 11.98× |
-| AFFX | 2016-01-11 | 2016-01-11 | 51.57% | 147.52× |
 | RSE | 2016-01-19 | 2016-01-19 | 29.73% | 24.70× |
 | ALR | 2016-02-01 | 2016-02-01 | 45.46% | 24.01× |
 | CSCD | 2016-02-04 | 2016-02-04 | 32.26% | 24.28× |

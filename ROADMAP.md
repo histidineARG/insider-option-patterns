@@ -42,6 +42,8 @@ Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
 
 ## Next actions
 
+- Expand dated public-target coverage via `data/m_and_a/announcement_date_reviews.json` for remaining market-pass candidates; keep leak-vs-official-announcement distinctions (see OMX).
+- Use EDGAR-with-symbol pre-proxy jump census as a discovery bound, not as training labels.
 - Prefer first-disclosure deepening on events whose price-action status is `jump_ok` (or ADS/source-conflict variants that still have clean session math).
 - Persist any newly found earlier-disclosure boundaries into overrides and regenerate price-action + observation audits.
 - Expand scoped outcome-coverage reviews only when a complete source-backed negative search protocol exists.
