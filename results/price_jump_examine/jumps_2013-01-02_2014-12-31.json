@@ -3556,14 +3556,16 @@
     "vol_ratio": 2.401933050447902,
     "cik": "0001113148",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2013/02/19/why-infinity-pharmaceuticals-shares-soared.aspx",
+    "news_detail": "Morgan Stanley overweight initiation on IPI-145 hopes. Analyst, not keep 2/3/4."
   },
   {
     "symbol": "KVPHQ",
@@ -7301,14 +7303,16 @@
     "vol_ratio": 4.753982359136388,
     "cik": "0000867773",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SPWR?date=2013-04-09&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SPWR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "STP",
@@ -9167,14 +9171,16 @@
     "vol_ratio": 5.981377255421288,
     "cik": "0001121484",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/OIS?date=2013-04-30&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for OIS. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "PTIE",
@@ -9990,14 +9996,16 @@
     "vol_ratio": 2.3948275862068966,
     "cik": "0001508844",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/PVG?date=2013-05-08&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for PVG. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "WTI",
@@ -13974,14 +13982,16 @@
     "vol_ratio": 8.800479739569948,
     "cik": "0001335258",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/LYV?date=2013-06-12&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for LYV. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "TSTC",
@@ -22692,14 +22702,16 @@
     "vol_ratio": 3.3727652355474356,
     "cik": "0001041024",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/RMTI?date=2013-09-27&view=daily",
+    "news_detail": "Triferic Phase III already reported earlier Sep; no clear same-day keep PR."
   },
   {
     "symbol": "TXCC",
@@ -24470,14 +24482,16 @@
     "vol_ratio": 5.362204724409449,
     "cik": "0000749660",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ICAD?date=2013-10-18&view=daily",
+    "news_detail": "No same-day FDA/trial keep PR (prior clearances earlier 2013). Unclassified."
   },
   {
     "symbol": "MEET",
@@ -33298,14 +33312,16 @@
     "vol_ratio": 5.5268292682926825,
     "cik": "0001477246",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SANW?date=2014-01-21&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SANW. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SMT",
@@ -35055,14 +35071,16 @@
     "vol_ratio": 4.807737860244769,
     "cik": "0001270073",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ICPT?date=2014-02-07&view=daily",
+    "news_detail": "Continuation of Jan 9 FLINT NASH rally; no same-day trial/M&A keep PR."
   },
   {
     "symbol": "LQDT",
@@ -36688,14 +36706,16 @@
     "vol_ratio": 7.392141453831041,
     "cik": "0001133416",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GALT?date=2014-02-25&view=daily",
+    "news_detail": "Patent/enthusiasm move; no confirmed same-day trial/M&A keep PR."
   },
   {
     "symbol": "INFI",
@@ -38043,15 +38063,17 @@
     "prev_volume": 1514700.0,
     "vol_ratio": 7.311810919654057,
     "cik": "0001001233",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.bloomberg.com/news/articles/2014-03-06/sangamo-rises-to-highest-value-in-13-years-on-hiv-treatment-data",
+    "news_detail": "NEJM Phase 1 SB-728-T HIV gene-editing data (CCR5 ZFN); functional control signals. Class-3 trial keep."
   },
   {
     "symbol": "BIG",
@@ -40543,14 +40565,16 @@
     "vol_ratio": 2.4211777132294694,
     "cik": "0001270073",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ICPT?date=2014-04-22&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ICPT. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "IDRA",
@@ -41752,14 +41776,16 @@
     "vol_ratio": 5.203968253968254,
     "cik": "0001527636",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ATHM?date=2014-05-12&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ATHM. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "AXDX",
@@ -42791,14 +42817,16 @@
     "vol_ratio": 5.289655172413793,
     "cik": "0001441693",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MBII?date=2014-05-27&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for MBII. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "PRAN",
@@ -43064,14 +43092,16 @@
     "vol_ratio": 2.833215796897038,
     "cik": "0001385867",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/COUP?date=2014-06-02&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for COUP. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "TCO",
@@ -50501,15 +50531,17 @@
     "prev_volume": 782611.0,
     "vol_ratio": 8.128380510879607,
     "cik": "0001802768",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/897075/000117184314004492/newsrelease.htm",
+    "news_detail": "Androxal Phase III ZA-304 met dual primary endpoints; FDA Type B Pre-NDA meeting scheduled. Class-3 trial/NDA-path keep."
   },
   {
     "symbol": "JNS",
@@ -50886,14 +50918,16 @@
     "vol_ratio": 2.1779189298379493,
     "cik": "0001463172",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ZEN?date=2014-10-03&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ZEN. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CHGS",
@@ -54568,14 +54602,16 @@
     "vol_ratio": 4.917806843621342,
     "cik": "0001297830",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/JRJC?date=2014-11-10&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for JRJC. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LIOX",

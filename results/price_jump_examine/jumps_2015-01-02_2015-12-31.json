@@ -8141,14 +8141,16 @@
     "vol_ratio": 4.071937422121654,
     "cik": "0000855654",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2015/03/23/why-immunogen-inc-is-soaring-higher-today.aspx",
+    "news_detail": "Takeda ADC technology license ($20M upfront). Partnership/license, not keep 2/3/4."
   },
   {
     "symbol": "NYMX",
@@ -12998,14 +13000,16 @@
     "vol_ratio": 5.4846012599042835,
     "cik": "0001466301",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CLVS?date=2015-05-14&view=daily",
+    "news_detail": "Rociletinib NEJM was late Apr; no clear same-day May 14 keep PR."
   },
   {
     "symbol": "ONTY",
@@ -14713,14 +14717,16 @@
     "vol_ratio": 2.0090795546281206,
     "cik": "0001410098",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CRMD?date=2015-06-01&view=daily",
+    "news_detail": "Neutrolin post-marketing surveillance poster at ERA-EDTA. Not pivotal trial keep."
   },
   {
     "symbol": "OMG",
@@ -15840,14 +15846,16 @@
     "vol_ratio": 2.3647860620035868,
     "cik": "0001604464",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://investors.atarabio.com/news-events/press-releases/detail/27/atara-biotherapeutics-exercises-exclusive-license-to-t-cell",
+    "news_detail": "Exercised MSK exclusive license to T-cell programs. Partnership/license, not keep 2/3/4."
   },
   {
     "symbol": "TRAK",
@@ -17955,14 +17963,16 @@
     "vol_ratio": 5.76649605195381,
     "cik": "0001496671",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CALA?date=2015-07-21&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR (Phase I data earlier June). Unclassified."
   },
   {
     "symbol": "CZR",
@@ -25739,14 +25749,16 @@
     "vol_ratio": 2.5561070005300963,
     "cik": "0001610466",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SHLX?date=2015-09-30&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SHLX. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "VLP",
@@ -34260,15 +34272,17 @@
     "prev_volume": 449208.0,
     "vol_ratio": 2.936953482573774,
     "cik": "0001270073",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_rumor",
+    "cause_class": "2_ma_rumor",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.nasdaq.com/articles/mid-afternoon-market-update-dow-surges-over-200-points-intercept-pharma-shares-climb",
+    "news_detail": "Same-day Shire/multi-bidder acquisition rumor drove ICPT; BioCentury confirms. Keep-2 M&A rumor."
   },
   {
     "symbol": "MBLX",
