@@ -22,3 +22,7 @@ This is **not** a count of M&A deals. It measures how common +15%/+20% session m
 
 Versus the rough estimate “>~20 premium public-target M&A deals/year”: raw +20% session prints are orders of magnitude more common, so stockquote alone cannot confirm that estimate as M&A counts. Local verified M&A tables remain sparse after 2016.
 
+For **confirmed M&A only** (verified public-target events + reviewed cohort), see
+[CONFIRMED_MA_REPORT.md](CONFIRMED_MA_REPORT.md): at most a handful of confirmed
+events per year in the local registry, with timed ≥20% reaction counts typically 0–3/year.
+
