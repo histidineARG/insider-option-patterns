@@ -5,7 +5,7 @@ Primary-source findings overlay the preserved earlier snapshots. Additional cand
 | Event | Price change | Price status | Valid feature days | Days with quote candidates | Review status |
 | --- | ---: | ---: | ---: | ---: | --- |
 | ADT:2016-02-16 | 47.53% | price_qualified | 30 | 25 | announcement_verified_price_source_conflict |
-| AFFX:2016-01-08 | 51.57% | price_qualified | 30 | 1 | announcement_verified_earlier_disclosure_search_deepened |
+| AFFX:2016-01-08 | 51.57% | price_qualified | 30 | 1 | first_public_disclosure_verified |
 | AFOP:2016-04-07 | 19.34% | price_qualified | 30 | 6 | first_public_disclosure_verified |
 | ALR:2016-02-01 | 45.46% | price_qualified | 30 | 6 | announcement_verified_earlier_disclosure_search_deepened |
 | ARG:2015-11-17 | 29.36% | price_qualified | 30 | 17 | earlier_disclosure_found_before_definitive_announcement |
