@@ -24,9 +24,10 @@
       "consideration_notes": "Cash tender/offer consideration per Schedule 14D-9; June 28 media report is disclosure chronology, not consideration.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok_prior_close_may_reflect_earlier_public",
-      "price_action_notes": "status=jump_ok_prior_close_may_reflect_earlier_public; close_return=51.27%; contamination=earlier_public_on_previous_session",
+      "price_action_notes": "status=jump_ok_prior_close_may_reflect_earlier_public; close_return=51.27%; open_gap=52.76%; drift5d=6.10%; drift20d=-9.04%; vol20=17.92x; contamination=earlier_public_on_previous_session; path=reaction_mostly_overnight_gap",
       "price_action_hazards": [
-        "earlier_public_on_previous_session"
+        "earlier_public_on_previous_session",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -53,9 +54,11 @@
       "consideration_notes": "Cash merger; earlier public sale-report conflict is a disclosure issue, not a share-class issue.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok_earlier_public_before_measured_window",
-      "price_action_notes": "status=jump_ok_earlier_public_before_measured_window; close_return=17.64%; contamination=earlier_public_strictly_before_previous_session",
+      "price_action_notes": "status=jump_ok_earlier_public_before_measured_window; close_return=17.64%; open_gap=18.30%; drift5d=-2.71%; drift20d=7.27%; vol20=41.84x; contamination=earlier_public_strictly_before_previous_session; path=earlier_public_upper_session_abs_ge_5pct,reaction_mostly_overnight_gap",
       "price_action_hazards": [
-        "earlier_public_strictly_before_previous_session"
+        "earlier_public_strictly_before_previous_session",
+        "earlier_public_upper_session_abs_ge_5pct",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -77,8 +80,10 @@
       "consideration_notes": "Merger consideration includes special dividend mechanics; special dividend is not a pre-announcement realized trading receipt.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=35.58%",
-      "price_action_hazards": []
+      "price_action_notes": "status=jump_ok; close_return=35.58%; open_gap=32.81%; drift5d=-0.60%; drift20d=-4.29%; vol20=37.12x; path=reaction_mostly_overnight_gap",
+      "price_action_hazards": [
+        "reaction_mostly_overnight_gap"
+      ]
     },
     {
       "symbol": "ADT",
@@ -101,9 +106,11 @@
       "identity_source": "https://data.sec.gov/submissions/CIK0001546640.json",
       "cik_verified": true,
       "price_action_vetting_status": "jump_ok_price_source_conflict",
-      "price_action_notes": "status=jump_ok_price_source_conflict; close_return=47.53%; hazards=price_source_conflict",
+      "price_action_notes": "status=jump_ok_price_source_conflict; close_return=47.53%; open_gap=51.17%; drift5d=-3.93%; drift20d=-11.55%; vol20=22.49x; path=ge_10pct_single_day_move_in_pre20,reaction_mostly_overnight_gap; hazards=price_source_conflict",
       "price_action_hazards": [
-        "price_source_conflict"
+        "price_source_conflict",
+        "ge_10pct_single_day_move_in_pre20",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -128,9 +135,10 @@
       "consideration_notes": "Cash take-private; earlier rumor chronology remains unresolved separately.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok_prior_process_unresolved",
-      "price_action_notes": "status=jump_ok_prior_process_unresolved; close_return=24.49%; contamination=unresolved_earlier_process_on_or_before_previous_session",
+      "price_action_notes": "status=jump_ok_prior_process_unresolved; close_return=24.49%; open_gap=24.64%; drift5d=1.78%; drift20d=0.82%; vol20=35.57x; contamination=unresolved_earlier_process_on_or_before_previous_session; path=reaction_mostly_overnight_gap",
       "price_action_hazards": [
-        "unresolved_earlier_process_on_or_before_previous_session"
+        "unresolved_earlier_process_on_or_before_previous_session",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -154,9 +162,12 @@
       "consideration_notes": "Cash acquisition; prior 2020 strategic-review process is a disclosure-scope issue, not share-class.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok_prior_process_unresolved",
-      "price_action_notes": "status=jump_ok_prior_process_unresolved; close_return=53.15%; contamination=unresolved_earlier_process_on_or_before_previous_session",
+      "price_action_notes": "status=jump_ok_prior_process_unresolved; close_return=53.15%; open_gap=51.99%; drift5d=-3.60%; drift20d=1.04%; vol20=22.66x; contamination=unresolved_earlier_process_on_or_before_previous_session; path=previous_session_abs_move_ge_5pct,ge_10pct_single_day_move_in_pre20,reaction_mostly_overnight_gap",
       "price_action_hazards": [
-        "unresolved_earlier_process_on_or_before_previous_session"
+        "unresolved_earlier_process_on_or_before_previous_session",
+        "previous_session_abs_move_ge_5pct",
+        "ge_10pct_single_day_move_in_pre20",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -181,9 +192,10 @@
       "consideration_notes": "Cash deal; alleged July 27 speculation item is disclosure chronology, not consideration.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok_prior_close_may_reflect_earlier_public",
-      "price_action_notes": "status=jump_ok_prior_close_may_reflect_earlier_public; close_return=54.02%; contamination=earlier_public_on_previous_session",
+      "price_action_notes": "status=jump_ok_prior_close_may_reflect_earlier_public; close_return=54.02%; open_gap=51.72%; drift5d=-1.42%; drift20d=9.84%; vol20=23.21x; contamination=earlier_public_on_previous_session; path=reaction_mostly_overnight_gap",
       "price_action_hazards": [
-        "earlier_public_on_previous_session"
+        "earlier_public_on_previous_session",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -205,9 +217,10 @@
       "identity_source": "https://data.sec.gov/submissions/CIK0001795579.json",
       "cik_verified": true,
       "price_action_vetting_status": "jump_ok_ads_security",
-      "price_action_notes": "status=jump_ok_ads_security; close_return=69.27%; hazards=ads_or_ordinary_share_comparison_hazard",
+      "price_action_notes": "status=jump_ok_ads_security; close_return=69.27%; open_gap=70.16%; drift5d=1.04%; drift20d=14.97%; path=reaction_mostly_overnight_gap; hazards=ads_or_ordinary_share_comparison_hazard",
       "price_action_hazards": [
-        "ads_or_ordinary_share_comparison_hazard"
+        "ads_or_ordinary_share_comparison_hazard",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -230,8 +243,11 @@
       "consideration_notes": "Cash $72.50 per common share. Preferred redemption is post-announcement and not a pre-announcement trading receipt.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=19.87%",
-      "price_action_hazards": []
+      "price_action_notes": "status=jump_ok; close_return=19.87%; open_gap=19.81%; drift5d=-0.48%; drift20d=2.14%; vol20=43.06x; offer_prem=19.87%; path=reaction_mostly_overnight_gap,reaction_close_at_or_above_cash_offer",
+      "price_action_hazards": [
+        "reaction_mostly_overnight_gap",
+        "reaction_close_at_or_above_cash_offer"
+      ]
     },
     {
       "symbol": "AFOP",
@@ -253,8 +269,10 @@
       "consideration_notes": "Cash tender $18.50 per share.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=19.34%",
-      "price_action_hazards": []
+      "price_action_notes": "status=jump_ok; close_return=19.34%; open_gap=19.21%; drift5d=4.53%; drift20d=19.38%; vol20=45.92x; offer_prem=19.66%; path=reaction_mostly_overnight_gap",
+      "price_action_hazards": [
+        "reaction_mostly_overnight_gap"
+      ]
     },
     {
       "symbol": "LNKD",
@@ -276,8 +294,10 @@
       "identity_source": "https://data.sec.gov/submissions/CIK0001271024.json",
       "cik_verified": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=46.64%",
-      "price_action_hazards": []
+      "price_action_notes": "status=jump_ok; close_return=46.64%; open_gap=48.22%; drift5d=-2.95%; drift20d=3.29%; vol20=15.37x; offer_prem=49.53%; path=reaction_mostly_overnight_gap",
+      "price_action_hazards": [
+        "reaction_mostly_overnight_gap"
+      ]
     },
     {
       "symbol": "JOY",
@@ -299,9 +319,10 @@
       "consideration_notes": "Cash acquisition at $28.30 per share per settled order.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=19.75%; hazards=issuer_identity_was_corrected",
+      "price_action_notes": "status=jump_ok; close_return=19.75%; open_gap=17.45%; drift5d=-0.04%; drift20d=8.08%; vol20=9.06x; offer_prem=20.17%; path=reaction_mostly_overnight_gap; hazards=issuer_identity_was_corrected",
       "price_action_hazards": [
-        "issuer_identity_was_corrected"
+        "issuer_identity_was_corrected",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -324,9 +345,10 @@
       "consideration_notes": "Cash acquisition by Sibanye; complaint dates pre-market-open December 9, 2016 announcement.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=17.98%; hazards=issuer_identity_was_corrected",
+      "price_action_notes": "status=jump_ok; close_return=17.98%; open_gap=19.14%; drift5d=-2.26%; drift20d=-1.54%; vol20=21.82x; path=reaction_mostly_overnight_gap; hazards=issuer_identity_was_corrected",
       "price_action_hazards": [
-        "issuer_identity_was_corrected"
+        "issuer_identity_was_corrected",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -349,9 +371,10 @@
       "consideration_notes": "Mixed cash ($54.00) and Gartner stock (0.2284 share) per merger agreement; stock leg is not a pre-announcement receipt.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=20.92%; hazards=issuer_identity_was_corrected",
+      "price_action_notes": "status=jump_ok; close_return=20.92%; open_gap=24.39%; drift5d=2.06%; drift20d=7.47%; vol20=24.71x; path=reaction_mostly_overnight_gap; hazards=issuer_identity_was_corrected",
       "price_action_hazards": [
-        "issuer_identity_was_corrected"
+        "issuer_identity_was_corrected",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -374,9 +397,10 @@
       "consideration_notes": "Cash acquisition at $105 per share per complaint narrative.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=61.89%; hazards=issuer_identity_was_corrected",
+      "price_action_notes": "status=jump_ok; close_return=61.89%; open_gap=62.55%; drift5d=2.23%; drift20d=19.52%; vol20=35.96x; offer_prem=63.78%; path=reaction_mostly_overnight_gap; hazards=issuer_identity_was_corrected",
       "price_action_hazards": [
-        "issuer_identity_was_corrected"
+        "issuer_identity_was_corrected",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -399,9 +423,10 @@
       "consideration_notes": "All-cash take-private valued around $1.7 billion per complaint narrative.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=29.25%; hazards=issuer_identity_was_corrected",
+      "price_action_notes": "status=jump_ok; close_return=29.25%; open_gap=25.54%; drift5d=1.38%; drift20d=7.42%; vol20=33.79x; path=reaction_mostly_overnight_gap; hazards=issuer_identity_was_corrected",
       "price_action_hazards": [
-        "issuer_identity_was_corrected"
+        "issuer_identity_was_corrected",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -423,9 +448,10 @@
       "consideration_notes": "Cash acquisition (~$3B equity value per litigation release); market-session timing of December 2 release remains incomplete in the release summary.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=105.98%; hazards=issuer_identity_was_corrected",
+      "price_action_notes": "status=jump_ok; close_return=105.98%; open_gap=105.31%; drift5d=0.56%; vol20=79.25x; path=reaction_mostly_overnight_gap; hazards=issuer_identity_was_corrected",
       "price_action_hazards": [
-        "issuer_identity_was_corrected"
+        "issuer_identity_was_corrected",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -448,9 +474,11 @@
       "consideration_notes": "Lumentum cash-and-stock agreement announced January 19, 2021; later topped by II-VI. Do not confuse announcement consideration with later II-VI terms.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=29.65%; hazards=issuer_identity_was_corrected",
+      "price_action_notes": "status=jump_ok; close_return=29.65%; open_gap=30.73%; drift5d=-12.58%; drift20d=8.06%; vol20=25.12x; path=ge_10pct_single_day_move_in_pre20,reaction_mostly_overnight_gap; hazards=issuer_identity_was_corrected",
       "price_action_hazards": [
-        "issuer_identity_was_corrected"
+        "issuer_identity_was_corrected",
+        "ge_10pct_single_day_move_in_pre20",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -473,8 +501,10 @@
       "consideration_notes": "Cash offer $46 per share per complaint narrative.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=100.85%",
-      "price_action_hazards": []
+      "price_action_notes": "status=jump_ok; close_return=100.85%; open_gap=100.94%; drift5d=-2.86%; drift20d=-3.82%; offer_prem=105.08%; path=reaction_mostly_overnight_gap",
+      "price_action_hazards": [
+        "reaction_mostly_overnight_gap"
+      ]
     },
     {
       "symbol": "MAXR",
@@ -501,9 +531,11 @@
       "identity_source": "https://data.sec.gov/submissions/CIK0001121142.json",
       "cik_verified": true,
       "price_action_vetting_status": "jump_ok_same_day_earlier_disclosure",
-      "price_action_notes": "status=jump_ok_same_day_earlier_disclosure; close_return=124.81%; contamination=earlier_public_same_calendar_day_as_reaction",
+      "price_action_notes": "status=jump_ok_same_day_earlier_disclosure; close_return=124.81%; open_gap=120.09%; drift5d=-5.64%; drift20d=-8.04%; vol20=34.99x; contamination=earlier_public_same_calendar_day_as_reaction; path=ge_10pct_single_day_move_in_pre20,reaction_mostly_overnight_gap",
       "price_action_hazards": [
-        "earlier_public_same_calendar_day_as_reaction"
+        "earlier_public_same_calendar_day_as_reaction",
+        "ge_10pct_single_day_move_in_pre20",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -526,8 +558,10 @@
       "identity_source": "https://data.sec.gov/submissions/CIK0001375151.json",
       "cik_verified": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=65.73%",
-      "price_action_hazards": []
+      "price_action_notes": "status=jump_ok; close_return=65.73%; open_gap=66.82%; drift5d=-0.57%; drift20d=11.87%; vol20=47.52x; offer_prem=66.24%; path=reaction_mostly_overnight_gap",
+      "price_action_hazards": [
+        "reaction_mostly_overnight_gap"
+      ]
     },
     {
       "symbol": "AVXS",
@@ -554,9 +588,10 @@
       "consideration_notes": "Cash tender $218/share; Outside Date extension can raise to $225. Not a pre-announcement receipt.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok_prior_process_unresolved",
-      "price_action_notes": "status=jump_ok_prior_process_unresolved; close_return=81.57%; contamination=unresolved_earlier_process_on_or_before_previous_session",
+      "price_action_notes": "status=jump_ok_prior_process_unresolved; close_return=81.57%; open_gap=81.00%; drift5d=-6.21%; drift20d=-13.44%; vol20=38.00x; offer_prem=88.08%; contamination=unresolved_earlier_process_on_or_before_previous_session; path=reaction_mostly_overnight_gap",
       "price_action_hazards": [
-        "unresolved_earlier_process_on_or_before_previous_session"
+        "unresolved_earlier_process_on_or_before_previous_session",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -584,9 +619,12 @@
       "consideration_notes": "All-cash $25.00; builds on existing Sanofi equity stake from co-promotion arrangements.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok_prior_process_unresolved",
-      "price_action_notes": "status=jump_ok_prior_process_unresolved; close_return=259.70%; contamination=unresolved_earlier_process_on_or_before_previous_session",
+      "price_action_notes": "status=jump_ok_prior_process_unresolved; close_return=259.70%; open_gap=259.40%; drift5d=-18.09%; drift20d=-28.19%; vol20=29.60x; offer_prem=273.13%; contamination=unresolved_earlier_process_on_or_before_previous_session; path=previous_session_abs_move_ge_5pct,earlier_public_upper_session_abs_ge_5pct,reaction_mostly_overnight_gap",
       "price_action_hazards": [
-        "unresolved_earlier_process_on_or_before_previous_session"
+        "unresolved_earlier_process_on_or_before_previous_session",
+        "previous_session_abs_move_ge_5pct",
+        "earlier_public_upper_session_abs_ge_5pct",
+        "reaction_mostly_overnight_gap"
       ]
     },
     {
@@ -611,8 +649,10 @@
       "consideration_notes": "All-cash $31.26 per share equity value about $10.1B per contemporaneous coverage.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=82.63%",
-      "price_action_hazards": []
+      "price_action_notes": "status=jump_ok; close_return=82.63%; open_gap=81.82%; drift5d=5.59%; drift20d=8.08%; vol20=13.01x; offer_prem=94.65%; path=reaction_mostly_overnight_gap",
+      "price_action_hazards": [
+        "reaction_mostly_overnight_gap"
+      ]
     }
   ],
   "additional_candidates": [
@@ -641,8 +681,13 @@
       "consideration_notes": "All-cash $132 per share per acquirer release.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok",
-      "price_action_notes": "status=jump_ok; close_return=34.07%",
-      "price_action_hazards": []
+      "price_action_notes": "status=jump_ok; close_return=34.07%; open_gap=34.87%; drift5d=12.62%; drift20d=14.15%; vol20=52.46x; offer_prem=39.14%; path=strong_5d_pre_drift_ge_10pct,previous_session_abs_move_ge_5pct,ge_10pct_single_day_move_in_pre20,reaction_mostly_overnight_gap",
+      "price_action_hazards": [
+        "strong_5d_pre_drift_ge_10pct",
+        "previous_session_abs_move_ge_5pct",
+        "ge_10pct_single_day_move_in_pre20",
+        "reaction_mostly_overnight_gap"
+      ]
     },
     {
       "symbol": "SAGE",
@@ -672,9 +717,12 @@
       "consideration_notes": "Supernus cash acquisition; competing Biogen bid was already public on 2025-01-10.",
       "corporate_action_items_reviewed": true,
       "price_action_vetting_status": "jump_ok_earlier_public_before_measured_window",
-      "price_action_notes": "status=jump_ok_earlier_public_before_measured_window; close_return=35.37%; contamination=earlier_public_strictly_before_previous_session",
+      "price_action_notes": "status=jump_ok_earlier_public_before_measured_window; close_return=35.37%; open_gap=35.67%; drift5d=-2.19%; drift20d=1.36%; vol20=40.39x; contamination=earlier_public_strictly_before_previous_session; path=earlier_public_lower_session_abs_ge_5pct,earlier_public_upper_session_abs_ge_5pct,reaction_mostly_overnight_gap",
       "price_action_hazards": [
-        "earlier_public_strictly_before_previous_session"
+        "earlier_public_strictly_before_previous_session",
+        "earlier_public_lower_session_abs_ge_5pct",
+        "earlier_public_upper_session_abs_ge_5pct",
+        "reaction_mostly_overnight_gap"
       ]
     }
   ]

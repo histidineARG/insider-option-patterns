@@ -57,8 +57,11 @@ checklist without auto-marking any event complete:
 [corporate-action checklist](results/corporate_action_review/REPORT.md).
 `python3 price_action_vet.py` recomputes stored close-to-close jumps, checks
 reaction-session calendar mapping, and flags earlier-public contamination plus
-ADS/price-source hazards without rewriting prices:
-[price-action vetting](results/price_action_vet/REPORT.md).
+ADS/price-source hazards without rewriting prices.
+`python3 price_action_vet.py --deep` requeries OHLCV windows and adds
+pre-announcement drift, previous-session moves, gap/volume structure,
+earlier-public session returns, post-move fade, and cash-offer premium
+comparisons: [price-action vetting](results/price_action_vet/REPORT.md).
 
 Run `python3 research_dataset.py` for the time-safe observation table with
 ten-session outcome boundaries, disclosure diagnostics, and purged chronological
