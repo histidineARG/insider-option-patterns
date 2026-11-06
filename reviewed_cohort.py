@@ -17,6 +17,7 @@ REVIEW_FIELDS = (
     'review_status', 'finding', 'locator', 'source', 'timing_source', 'timing_locator',
     'earlier_public_date_lower', 'earlier_public_date_upper', 'earlier_public_session',
     'earlier_source', 'earlier_locator', 'conflicting_source', 'conflicting_locator',
+    'identity_source', 'identity_locator',
     'first_public_disclosure_verified', 'corporate_action_review_complete',
     'announcement_session', 'issuer_cik', 'issuer', 'eligibility', 'date_verified',
     'discovery_basis')

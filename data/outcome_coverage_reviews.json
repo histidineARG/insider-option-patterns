@@ -1,5 +1,17 @@
 {
   "as_of": "2026-11-06",
   "scope": "No complete symbol/date acquisition-outcome review has been established. Empty reviews intentionally certify no negatives.",
+  "complete_review_requires": [
+    "Explicit symbol and exchange-session window from feature close through the tenth subsequent session close.",
+    "Verified historical security identity for that symbol across the window, including ticker changes, share class, and ADS terms.",
+    "Documented search method with source locator (registry query, filing search, or named primary sources).",
+    "Statement that no qualifying public-target acquisition announcement with a measured >=15% close-to-close reaction was found inside the window.",
+    "Retention of any borderline public processes, rumors, or non-qualifying deals as unresolved rather than negative.",
+    "review.complete set true only after the above are satisfied; incomplete searches never invent label 0."
+  ],
+  "review_record_fields": [
+    "symbol", "start_utc", "end_utc", "complete", "source", "locator",
+    "security_identity_verified", "search_method", "qualifying_events_found", "notes"
+  ],
   "reviews": []
 }

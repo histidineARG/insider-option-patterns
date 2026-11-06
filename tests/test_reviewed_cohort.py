@@ -23,9 +23,11 @@ class ReviewedCohortTests(unittest.TestCase):
                      price_jump_at_least_15pct=True, training_label_ready=True)]))
             (root/'data/event_review_overrides.json').write_text(json.dumps(dict(
                 events=[dict(symbol='XYZ', announcement_date='2020-01-02',
-                             review_status='conflict')], additional_candidates=[])))
+                             review_status='conflict', issuer_cik='999')],
+                additional_candidates=[])))
             row = inputs(root)[0]
             self.assertEqual(row['review_status'], 'conflict')
+            self.assertEqual(row['issuer_cik'], '999')
             self.assertFalse(row['training_label_ready'])
             self.assertNotIn('price_jump_at_least_15pct', row)
 

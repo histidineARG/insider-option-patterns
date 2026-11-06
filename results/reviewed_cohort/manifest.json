@@ -3,10 +3,10 @@
   "feature_rows": 780,
   "review_status_counts": {
     "announcement_verified_price_source_conflict": 1,
-    "announcement_verified_earlier_disclosure_search_incomplete": 17,
+    "announcement_verified_earlier_disclosure_search_incomplete": 16,
+    "announcement_verified_issuer_identity_corrected": 2,
     "announcement_verified_ads_terms_reviewed": 1,
     "conflicting_primary_disclosure_dates": 1,
-    "announcement_verified_issuer_identity_pending": 1,
     "prior_strategic_process_requires_scope_review": 1,
     "earlier_disclosure_time_unresolved": 2,
     "prior_competing_bid_public": 1,
@@ -17,7 +17,7 @@
   },
   "training_ready_events": 0,
   "source_sha256": {
-    "data/event_review_overrides.json": "40cd61ef6253e99278ef591bed6da2d6f9dca3151bb21be318d1adc1c978ed03",
+    "data/event_review_overrides.json": "df1f8ba1047be273cd776bd0725c9145854473882e8d9b71e79cb38a6d662906",
     "results/research_cohort/event_cohort.json": "9b743c7a79226e4d326976f00c9ae4ec9b2b0f7d9b2a0dae568095cfc72a1a1f",
     "data/calendar/nyse_sessions.json": "69f0ebd15bcea7e2e41609421c37ac8ab56a128709ff3476015239bd2e926fcd"
   },

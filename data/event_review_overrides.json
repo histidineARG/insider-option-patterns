@@ -130,12 +130,14 @@
       "first_public_disclosure_verified": false, "corporate_action_review_complete": false
     },
     {
-      "symbol": "BIVV", "announcement_date": "2018-01-22", "issuer_cik": "1685840",
+      "symbol": "BIVV", "announcement_date": "2018-01-22", "issuer_cik": "1681689",
       "announcement_session": "before_open",
-      "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
+      "review_status": "announcement_verified_issuer_identity_corrected",
       "source": "https://www.sec.gov/litigation/complaints/2019/comp24500.pdf",
       "locator": "Amended complaint; Sanofi/Bioverativ announcement before NASDAQ open January 22, 2018",
-      "finding": "The amended complaint dates the Sanofi acquisition announcement before the NASDAQ open on January 22, 2018, and treats preceding option trading as based on nonpublic information. Bioverativ had traded separately since its 2017 Biogen spin-off; issuer-identity and broader media review remain incomplete.",
+      "identity_source": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001681689",
+      "identity_locator": "EDGAR issuer Bioverativ Inc. CIK 0001681689; prior cohort CIK 1685840 was KiwiVenture Partners II, LLC",
+      "finding": "The amended complaint dates the Sanofi acquisition announcement before the NASDAQ open on January 22, 2018. Correct issuer CIK is 0001681689 (Bioverativ Inc.), not the previously stored 1685840. Regular-way NASDAQ trading as BIVV began February 2, 2017 after the Biogen spin-off. Broader media search remains incomplete; corporate-action review is not complete.",
       "first_public_disclosure_verified": false, "corporate_action_review_complete": false
     },
     {
@@ -156,12 +158,14 @@
       "first_public_disclosure_verified": false, "corporate_action_review_complete": false
     },
     {
-      "symbol": "COHR", "announcement_date": "2021-01-19", "issuer_cik": "2186",
+      "symbol": "COHR", "announcement_date": "2021-01-19", "issuer_cik": "21510",
       "announcement_session": "before_open",
-      "review_status": "announcement_verified_issuer_identity_pending",
+      "review_status": "announcement_verified_issuer_identity_corrected",
       "source": "https://www.sec.gov/files/litigation/complaints/2022/comp-pr2022-129-bhardwaj.pdf",
       "locator": "Complaint; January 18 evening signing and January 19 pre-market-open Lumentum announcement",
-      "finding": "The complaint dates signing on the evening of January 18, 2021, and the Lumentum/Coherent announcement before market open on January 19. This is the 2021 Coherent issuer, not later post-combination listings. Broader media search for earlier public reports remains incomplete.",
+      "identity_source": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021510",
+      "identity_locator": "EDGAR issuer Coherent Inc. CIK 0000021510; prior cohort CIK 2186 was BK Technologies Corp",
+      "finding": "The complaint dates signing on the evening of January 18, 2021, and the Lumentum/Coherent announcement before market open on January 19. Correct issuer CIK is 0000021510 (Coherent Inc.). Later, II-VI completed acquiring Coherent Inc. on July 1, 2022, and on September 8, 2022 II-VI renamed to Coherent Corp. and began trading as COHR—so post-2022 COHR quotes are a different issuer than this January 2021 target. Broader media search remains incomplete; corporate-action review is not complete.",
       "first_public_disclosure_verified": false, "corporate_action_review_complete": false
     },
     {
