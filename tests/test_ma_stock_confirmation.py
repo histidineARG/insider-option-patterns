@@ -75,5 +75,42 @@ class StockConfirmationTests(unittest.TestCase):
             self.assertIn(('AFFX', '2016-01-08'), rows)
             self.assertEqual(rows[('AFFX', '2016-01-08')]['announcement_session'], 'after_close')
 
+    def test_announcement_date_reviews_block_unsolicited_and_unresolved(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            ma = root / 'data/m_and_a'
+            ma.mkdir(parents=True)
+            (ma / 'local_maevent_all.csv').write_text(
+                'maid,symbol,announcedate,acquiree,acquirer\n'
+                '1,ODP,2021-01-11,ODP,Staples\n'
+                '2,TUMI,2016-03-03,Tumi,Samsonite\n'
+                '3,RSE,2016-01-19,Rouse,Brookfield\n')
+            (root / 'data/sec_cases.json').write_text(json.dumps(dict(cases=[])))
+            (ma / 'reviewed_event_examples.json').write_text(json.dumps(dict(events=[])))
+            (ma / 'announcement_date_reviews.json').write_text(json.dumps(dict(reviews=[
+                dict(symbol='ODP', prior_candidate_date='2021-01-11',
+                     announcement_date='2021-01-11', announcement_session='unknown',
+                     announcement_timing_source='https://example.test/odp',
+                     announcement_timing_locator='test', date_verified=True,
+                     deal_status='unsolicited_proposal',
+                     confirmation_blocked_reason='not_definitive_agreement'),
+                dict(symbol='TUMI', prior_candidate_date='2016-03-03',
+                     announcement_date='2016-03-03', announcement_session='unknown',
+                     announcement_timing_source='https://example.test/tumi',
+                     announcement_timing_locator='test', date_verified=False,
+                     confirmation_blocked_reason='rumor_vs_definitive_announcement_unresolved'),
+                dict(symbol='RSE', prior_candidate_date='2016-01-19',
+                     announcement_date='2016-01-19', announcement_session='before_open',
+                     announcement_timing_source='https://example.test/rse',
+                     announcement_timing_locator='test', date_verified=True,
+                     deal_status='unsolicited_proposal'),
+            ])))
+            rows = { (r['symbol'], r['announcement_date']): r for r in candidates(root) }
+            self.assertFalse(rows[('ODP', '2021-01-11')]['date_verified'])
+            self.assertEqual(rows[('ODP', '2021-01-11')]['deal_status'], 'unsolicited_proposal')
+            self.assertFalse(rows[('TUMI', '2016-03-03')]['date_verified'])
+            self.assertFalse(rows[('RSE', '2016-01-19')]['date_verified'])
+            self.assertEqual(rows[('RSE', '2016-01-19')]['deal_status'], 'unsolicited_proposal')
+
 
 if __name__=='__main__':unittest.main()
