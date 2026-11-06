@@ -6,8 +6,8 @@
   "cause_class_counts": {
     "sub_5": 1398,
     "1_earnings": 288,
-    "unclassified_other": 142,
-    "unclassified": 805,
+    "unclassified_other": 153,
+    "unclassified": 794,
     "2_ma_rumor_or_news": 27,
     "3_biotech_trial": 37,
     "etf": 28,
@@ -16,8 +16,8 @@
   "news_filter_counts": {
     "drop_sub_5": 1398,
     "drop_earnings": 288,
-    "drop_other_not_234": 142,
-    "pending_news_review": 805,
+    "drop_other_not_234": 153,
+    "pending_news_review": 794,
     "keep": 64,
     "drop_etf": 28,
     "drop_no_option": 19

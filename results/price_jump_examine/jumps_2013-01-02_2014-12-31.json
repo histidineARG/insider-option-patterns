@@ -960,14 +960,16 @@
     "vol_ratio": 3.495663271335051,
     "cik": "0001067491",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/INFY?date=2013-01-11&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Infosys. Unclassified/earnings-sector, not keep 2/3/4."
   },
   {
     "symbol": "REDF",
@@ -2669,14 +2671,16 @@
     "vol_ratio": 5.671649619722004,
     "cik": "0001590895",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CZR?date=2013-02-07&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Caesars. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "DV",
@@ -23599,14 +23603,16 @@
     "vol_ratio": 3.695876288659794,
     "cik": "0000749660",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ICAD?date=2013-10-10&view=daily",
+    "news_detail": "No confirmed same-day keep PR for iCAD. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "NEWN",
@@ -27546,14 +27552,16 @@
     "vol_ratio": 6.5256609642301715,
     "cik": "0001157762",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CAAS?date=2013-11-13&view=daily",
+    "news_detail": "No confirmed same-day keep PR for China Automotive Systems. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ELOS",
@@ -29358,14 +29366,16 @@
     "vol_ratio": 7.493573264781491,
     "cik": "0000873303",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SRPT?date=2013-12-12&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Sarepta on this date. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "UNS",
@@ -32660,14 +32670,16 @@
     "vol_ratio": 27.166959578207383,
     "cik": "0001297830",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/JRJC?date=2014-01-15&view=daily",
+    "news_detail": "No confirmed same-day keep PR for China Finance Online. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "KNDI",
@@ -33886,14 +33898,16 @@
     "vol_ratio": 9.58859595340282,
     "cik": "0001361983",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ORBC?date=2014-01-28&view=daily",
+    "news_detail": "No confirmed same-day keep PR for ORBCOMM. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SIMO",
@@ -34835,14 +34849,16 @@
     "vol_ratio": 4.852936910804931,
     "cik": "0000879407",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ARWR?date=2014-02-07&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Arrowhead. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ATHN",
@@ -44100,14 +44116,16 @@
     "vol_ratio": 18.975498742241587,
     "cik": "0000107263",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/WMB?date=2014-06-16&view=daily",
+    "news_detail": "No confirmed same-day definitive keep PR for Williams (ETP talks were private). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "BIOL",
@@ -53977,14 +53995,16 @@
     "vol_ratio": 4.625056817148779,
     "cik": "0001338940",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/PERI?date=2014-11-06&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Perion. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SWIR",
@@ -57436,14 +57456,16 @@
     "vol_ratio": 4.064349315297596,
     "cik": "0001575793",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/WATT?date=2014-12-24&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Energous. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ANFI",
