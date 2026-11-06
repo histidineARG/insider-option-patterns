@@ -10506,14 +10506,16 @@
     "vol_ratio": 2.5441520423627,
     "cik": "0000893538",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2016/03/04/oil-stocks-short-sellers-got-scorched-today.aspx",
+    "news_detail": "Oil-price rebound / energy short-squeeze sector rally. Commodity/macro, not keep 2/3/4."
   },
   {
     "symbol": "SPN",
@@ -15466,14 +15468,16 @@
     "vol_ratio": 13.78777374017839,
     "cik": "0001041514",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/1041514/000106299316008881/exhibit99-1.htm",
+    "news_detail": "Net1 announced ~$107.7M IFC equity subscription (~18% stake at $10.79). Financing/strategic equity investment, not keep 2/3/4."
   },
   {
     "symbol": "AUMN",
@@ -23750,14 +23754,16 @@
     "vol_ratio": 16.366571337263665,
     "cik": "0001124140",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/2016/06/14/why-exact-sciences-stock-is-soaring-265-today.aspx",
+    "news_detail": "Leaked/early USPSTF final colorectal screening guidelines including Cologuard (JAMA). Guideline/coverage catalyst, not trial/M&A/tech under keep 2/3/4."
   },
   {
     "symbol": "LNCOQ",
@@ -25094,14 +25100,16 @@
     "vol_ratio": 15.777224378686293,
     "cik": "0001326732",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://investors.xencor.com/news-releases/news-release-details/xencor-announces-strategic-collaboration-bispecific-programs",
+    "news_detail": "Novartis collaboration/license on bispecifics ($150M upfront, up to $2.41B milestones). Partnership/license (Item 1.01), not M&A of Xencor under keep-2."
   },
   {
     "symbol": "BBEPQ",
@@ -28665,15 +28673,17 @@
     "prev_volume": 849642.0,
     "vol_ratio": 24.650774090734686,
     "cik": "0000874015",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/2016/08/01/why-ionis-pharmaceuticals-inc-skyrocked-higher-tod.aspx",
+    "news_detail": "Nusinersen met primary endpoint at interim Phase 3 ENDEAR in infantile-onset SMA; Biogen exercised option and paid $75M license fee. Class-3 biotech trial success."
   },
   {
     "symbol": "MCEP",
@@ -28834,14 +28844,16 @@
     "vol_ratio": 16.120986672772148,
     "cik": "0001100397",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.amgen.com/newsroom/press-releases/2016/08/amgen-and-advaxis-enter-global-cancer-immunotherapies-collaboration",
+    "news_detail": "Amgen global collaboration/license for preclinical ADXS-NEO: $40M upfront plus $25M equity purchase and milestones. Partnership/license + minority stake, not keep 2/3/4."
   },
   {
     "symbol": "CARB",
@@ -33881,15 +33893,17 @@
     "prev_volume": 391335.0,
     "vol_ratio": 13.958644128432162,
     "cik": "0001837997",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_news",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://investor.caesars.com/news-releases/news-release-details/eldorado-resorts-enters-definitive-agreement-acquire-isle-capri",
+    "news_detail": "Eldorado Resorts definitive agreement to acquire Isle of Capri for $23/share cash or 1.638 ERI shares (~$1.7B incl. debt, ~36% premium). Note cik2symbol may not match historical Isle of Capri CIK."
   },
   {
     "symbol": "NWBO",
@@ -42168,14 +42182,16 @@
     "vol_ratio": 3.5965450553880527,
     "cik": "0001255474",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.cnbc.com/2016/11/30/fracking-stocks-opec-just-injected-life-into-companies.html",
+    "news_detail": "OPEC production-cut agreement; oil/E&P short-squeeze rally. Commodity/macro move, not keep 2/3/4."
   },
   {
     "symbol": "ESINQ",

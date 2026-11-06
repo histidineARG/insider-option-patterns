@@ -1,7 +1,7 @@
 {
   "as_of": "2026-11-06",
   "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
-  "tranche": "ge50_complete_plus_ge30_partial_2013_2016",
+  "tranche": "ge30_clear_final18",
   "reviews": [
     {
       "symbol": "ERII",
@@ -1022,6 +1022,366 @@
       "news_filter": "keep",
       "detail": "Phase 2a Jakafi+capecitabine in advanced pancreatic cancer: predefined subgroup 6-month survival 42% vs 11% chemo alone.",
       "locator": "https://www.reuters.com/article/idUSBRE97K0HY20130821/"
+    },
+    {
+      "symbol": "EXAS",
+      "qdate": "2016-06-14",
+      "close_return": 0.334,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Leaked/early USPSTF final colorectal screening guidelines including Cologuard (JAMA). Guideline/coverage catalyst, not trial/M&A/tech under keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/2016/06/14/why-exact-sciences-stock-is-soaring-265-today.aspx"
+    },
+    {
+      "symbol": "FOLD",
+      "qdate": "2015-03-19",
+      "close_return": 0.333,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA Type C and EMA Rapporteur meetings: accelerate migalastat MAA to 2Q15 full approval path and plan U.S. Subpart H NDA 2H15 for Fabry monotherapy. Class-3 clinical/regulatory.",
+      "locator": "https://ir.amicusrx.com/news-releases/news-release-details/amicus-therapeutics-provides-positive-global-regulatory-updates"
+    },
+    {
+      "symbol": "COUP",
+      "qdate": "2014-11-05",
+      "close_return": 0.332,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Coupons.com Q3 earnings: rev +47% to $58.5M, raised FY guidance. Earnings/guidance, not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1115128/000114420414064969/v393112_ex99-1.htm"
+    },
+    {
+      "symbol": "ANIK",
+      "qdate": "2014-02-26",
+      "close_return": 0.332,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA approved Monovisc single-injection OA knee viscosupplement; DePuy Mitek U.S. marketing with $5M first-sale milestone. Class-3 approval.",
+      "locator": "https://ir.anika.com/FDA-Approves-MONOVISC-R-,-A-New-Single-Injection-Treatment-for-Treatment-of-Pain-Due-to-Osteoarthritis-of-the-Knee"
+    },
+    {
+      "symbol": "AER",
+      "qdate": "2013-12-16",
+      "close_return": 0.331,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "AerCap definitive agreement to acquire AIG's ILFC for ~$5.4B cash+stock ($3B cash + ~97.6M AER shares). Acquirer M&A is class-2.",
+      "locator": "https://www.aercap.com/news-media/press-releases/detail/297/aercap-to-acquire-international-lease-finance-corporation"
+    },
+    {
+      "symbol": "ASYS",
+      "qdate": "2015-12-21",
+      "close_return": 0.33,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Solar equipment name rally in week of ITC extension / order buzz; no keep-2/3/4 company catalyst identified for session.",
+      "locator": "https://www.amtechsystems.com/investors/press-releases/detail/70/amtech-systems-announces-stock-repurchase-program"
+    },
+    {
+      "symbol": "RMTI",
+      "qdate": "2013-09-05",
+      "close_return": 0.325,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 3 CRUISE-2: SFP met primary Hb and key secondary endpoints for iron deficiency in hemodialysis CKD; NDA path.",
+      "locator": "https://finance.yahoo.com/news/rockwell-medical-announces-sfp-meets-114500419.html"
+    },
+    {
+      "symbol": "VIPS",
+      "qdate": "2014-03-04",
+      "close_return": 0.324,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Vipshop Q4 earnings beat and raised 1Q guidance. Earnings/guidance, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2014/03/04/why-zynga-inc-isis-pharmaceuticals-and-vipshop-hol.aspx"
+    },
+    {
+      "symbol": "PRTA",
+      "qdate": "2015-03-20",
+      "close_return": 0.323,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 1 SAD PRX002 Parkinson's: safe/tolerated; up to 96% mean reduction free serum alpha-synuclein after single dose (8-K 8.01).",
+      "locator": "https://www.fool.com/investing/general/2015/03/20/why-prothena-corporation-is-soaring-higher-today.aspx"
+    },
+    {
+      "symbol": "GWPH",
+      "qdate": "2014-04-22",
+      "close_return": 0.322,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Morgan Stanley Overweight initiation ($103 PT) plus media buzz. Analyst initiation, not keep 2/3/4.",
+      "locator": "https://www.benzinga.com/analyst-ratings/analyst-color/14/04/4487181/gw-pharma-soars-35-on-initiation-from-morgan-stanley-bul"
+    },
+    {
+      "symbol": "BLUE",
+      "qdate": "2014-06-16",
+      "close_return": 0.321,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Early LentiGlobin gene therapy data in beta-thalassemia: patients weaned off transfusions; hemoglobin production observed.",
+      "locator": "http://www.marketwatch.com/story/bluebird-bio-jumps-64-on-early-gene-therapy-data-2014-06-16"
+    },
+    {
+      "symbol": "XNCR",
+      "qdate": "2016-06-28",
+      "close_return": 0.321,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Novartis collaboration/license on bispecifics ($150M upfront, up to $2.41B milestones). Partnership/license (Item 1.01), not M&A of Xencor under keep-2.",
+      "locator": "https://investors.xencor.com/news-releases/news-release-details/xencor-announces-strategic-collaboration-bispecific-programs"
+    },
+    {
+      "symbol": "LEAF",
+      "qdate": "2015-03-03",
+      "close_return": 0.32,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Springleaf definitive agreement to acquire Citi's OneMain Financial for $4.25B cash. Acquirer M&A is class-2. Note: modern cik2symbol may map OneMain/LEAF reuse.",
+      "locator": "https://www.reuters.com/article/onemainfinancial-ma-springleaf-hldgs-idINL4N0W542K20150303/"
+    },
+    {
+      "symbol": "TZOO",
+      "qdate": "2015-04-16",
+      "close_return": 0.32,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q1 earnings beat (EPS $0.13 vs $0.08); 8-K Item 2.02 same day. Earnings, not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1133311/000113331115000015/form8-k33115.htm"
+    },
+    {
+      "symbol": "SM",
+      "qdate": "2016-03-03",
+      "close_return": 0.318,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Oil-price rebound / energy short-squeeze sector rally. Commodity/macro, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2016/03/04/oil-stocks-short-sellers-got-scorched-today.aspx"
+    },
+    {
+      "symbol": "ADXS",
+      "qdate": "2015-12-16",
+      "close_return": 0.316,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA lifted clinical holds on axalimogene filolisbac, ADXS-PSA, and ADXS-HER2 INDs; trials to resume with risk-mitigation. Class-3 clinical/regulatory.",
+      "locator": "https://www.reuters.com/article/business/healthcare-pharmaceuticals/fda-lifts-clinical-hold-on-advaxis-cancer-compounds-idUSKBN0TZ1YT/"
+    },
+    {
+      "symbol": "IMMR",
+      "qdate": "2013-03-07",
+      "close_return": 0.314,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Multi-year Samsung TouchSense/haptics license plus raised 2013 revenue guidance. Commercial license (Item 1.01), not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1058811/000119312513095043/d498693d8k.htm"
+    },
+    {
+      "symbol": "MRGE",
+      "qdate": "2015-08-06",
+      "close_return": 0.312,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "IBM agreed to acquire Merge Healthcare for $7.13/share cash (~$1B).",
+      "locator": "https://www.reuters.com/article/business/ibm-to-buy-merge-healthcare-in-1-billion-deal-idUSKCN0QB1ML/"
+    },
+    {
+      "symbol": "CBIO",
+      "qdate": "2015-08-31",
+      "close_return": 0.3111,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Post Targacept/Catalyst reverse-merger listing under CBIO (completed ~Aug 20 with reverse split/pre-closing dividend). Mid-session float/listing noise after corporate action, not same-day M&A target, biotech trial, or tech breakthrough keep.",
+      "locator": "https://ir.catalystbiosciences.com/news-releases/news-release-details/catalyst-biosciences-completes-merger-targacept-and-creates"
+    },
+    {
+      "symbol": "HALO",
+      "qdate": "2013-03-22",
+      "close_return": 0.3093,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Baxter/Halozyme: EMA CHMP positive opinion for HyQvia (IGSC + rHuPH20) as immunodeficiency replacement therapy; class-3 regulatory success.",
+      "locator": "https://www.prnewswire.com/news-releases/baxter-and-halozyme-announce-positive-opinion-for-hyqvia-for-treatment-of-primary-and-secondary-immunodeficiencies-in-the-european-union-199521491.html"
+    },
+    {
+      "symbol": "ADXS",
+      "qdate": "2016-08-02",
+      "close_return": 0.3081,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Amgen global collaboration/license for preclinical ADXS-NEO: $40M upfront plus $25M equity purchase and milestones. Partnership/license + minority stake, not keep 2/3/4.",
+      "locator": "https://www.amgen.com/newsroom/press-releases/2016/08/amgen-and-advaxis-enter-global-cancer-immunotherapies-collaboration"
+    },
+    {
+      "symbol": "FOE",
+      "qdate": "2013-03-04",
+      "close_return": 0.3077,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "A. Schulman publicly disclosed unsolicited $6.50/share half-cash/half-stock proposal to acquire Ferro (~$855M EV) after prior board rejection; confirmed M&A proposal/rumor keep.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/87565/000008756513000007/shlm20130304newsrelease.htm"
+    },
+    {
+      "symbol": "NTWK",
+      "qdate": "2015-12-21",
+      "close_return": 0.3062,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "NetSol signed >$100M NFS Ascent implementation/maintenance contract (Daimler Financial Services multi-country). Commercial software contract, not keep 2/3/4.",
+      "locator": "https://ir.netsoltech.com/press-releases/detail/3007/netsol-technologies-signs-contract-to-implement-nfs"
+    },
+    {
+      "symbol": "ETSY",
+      "qdate": "2015-07-17",
+      "close_return": 0.306,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Rally after Google earnings-call mention that Etsy saw deep-linking traffic boost; amplified by short covering. Analyst/partner commentary, not keep 2/3/4.",
+      "locator": "https://www.reuters.com/article/idUSKCN0PR1WA20150717/"
+    },
+    {
+      "symbol": "UEPS",
+      "qdate": "2016-04-11",
+      "close_return": 0.305,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Net1 announced ~$107.7M IFC equity subscription (~18% stake at $10.79). Financing/strategic equity investment, not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1041514/000106299316008881/exhibit99-1.htm"
+    },
+    {
+      "symbol": "MNST",
+      "qdate": "2014-08-15",
+      "close_return": 0.3048,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Coca-Cola definitive strategic partnership: ~16.7% equity stake for ~$2.15B cash plus energy/non-energy brand swap and distribution alliance. Minority stake/partnership, not keep-class takeout/trial/breakthrough.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/865752/000110465914061175/0001104659-14-061175.txt"
+    },
+    {
+      "symbol": "ESI",
+      "qdate": "2013-04-25",
+      "close_return": 0.3046,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "ITT Educational Q1 earnings beat (EPS/revenue vs consensus) with softer new-student enrollment decline; earnings reaction. Note cik2symbol may not match historical ITT Educational CIK.",
+      "locator": "https://www.fool.com/investing/general/2013/04/25/why-itt-education-shares-popped.aspx"
+    },
+    {
+      "symbol": "HIMX",
+      "qdate": "2013-07-22",
+      "close_return": 0.3037,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Google agreed to invest in Himax Display subsidiary (initial ~6.3% preferred, option to ~14.8%) for LCOS capacity tied to Google Glass. Minority stake in sub / partnership investment, not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1342338/000117184313002856/newsrelease.htm"
+    },
+    {
+      "symbol": "UTHR",
+      "qdate": "2013-12-23",
+      "close_return": 0.3036,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA approved Orenitram (oral treprostinil) for PAH after prior complete responses; first oral prostacyclin analogue approval. Class-3 regulatory success; stock reacted Mon Dec 23 to Fri Dec 20 approval.",
+      "locator": "https://ir.unither.com/press-releases/2013/12-20-2013-095453841"
+    },
+    {
+      "symbol": "ADXS",
+      "qdate": "2014-12-22",
+      "close_return": 0.303,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Closed ~$16.7M registered direct financing (~3.9M shares at $4.25) led by Adage (~19% stake) with T. Rowe; financing/stake build, not keep 2/3/4.",
+      "locator": "https://www.biospace.com/advaxis-inc-completes-17-million-financing"
+    },
+    {
+      "symbol": "BLDP",
+      "qdate": "2014-03-10",
+      "close_return": 0.303,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Fuel-cell peer rally spillover after Plug Power Walmart GenDrive momentum; no Ballard-specific M&A/trial/breakthrough same session. Sector momentum, not keep 2/3/4.",
+      "locator": "https://www.cantechletter.com/2014/03/ballard-power-hydrogenics-bring-canadian-content-fuel-cell-stock-rally/"
+    },
+    {
+      "symbol": "WLL",
+      "qdate": "2016-11-30",
+      "close_return": 0.3028,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "OPEC production-cut agreement; oil/E&P short-squeeze rally. Commodity/macro move, not keep 2/3/4.",
+      "locator": "https://www.cnbc.com/2016/11/30/fracking-stocks-opec-just-injected-life-into-companies.html"
+    },
+    {
+      "symbol": "GDP",
+      "qdate": "2014-04-14",
+      "close_return": 0.3022,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Goodrich announced strong Blades 33H-1 Tuscaloosa Marine Shale well results (~1,270 BOE/d peak); operational well/commodity news with short cover, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2014/04/14/why-goodrich-petroleum-webmd-and-edwards-lifescien.aspx"
+    },
+    {
+      "symbol": "IONS",
+      "qdate": "2016-08-01",
+      "close_return": 0.3022,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Nusinersen met primary endpoint at interim Phase 3 ENDEAR in infantile-onset SMA; Biogen exercised option and paid $75M license fee. Class-3 biotech trial success.",
+      "locator": "https://www.fool.com/investing/2016/08/01/why-ionis-pharmaceuticals-inc-skyrocked-higher-tod.aspx"
+    },
+    {
+      "symbol": "ISLE",
+      "qdate": "2016-09-19",
+      "close_return": 0.3018,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Eldorado Resorts definitive agreement to acquire Isle of Capri for $23/share cash or 1.638 ERI shares (~$1.7B incl. debt, ~36% premium). Note cik2symbol may not match historical Isle of Capri CIK.",
+      "locator": "https://investor.caesars.com/news-releases/news-release-details/eldorado-resorts-enters-definitive-agreement-acquire-isle-capri"
+    },
+    {
+      "symbol": "PLUG",
+      "qdate": "2014-03-07",
+      "close_return": 0.3003,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Continued fuel-cell rally on prior Walmart GenDrive expansion plus CEO profitability commentary; same-week 8-K was equity offering underwriting. Momentum/financing, not keep 2/3/4.",
+      "locator": "https://blog.stocktwits.com/three-fuel-cell-stocks-on-fire-d432e8c0220e"
     }
   ]
 }
