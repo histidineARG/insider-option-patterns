@@ -1,0 +1,1612 @@
+[
+  {
+    "symbol": "AAPL",
+    "qdate": "2024-04-10",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AAPL",
+    "qdate": "2024-07-12",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AAPL",
+    "qdate": "2024-07-26",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AAPL",
+    "qdate": "2024-08-29",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AAPL",
+    "qdate": "2024-11-01",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AAPL",
+    "qdate": "2025-01-31",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AAPL",
+    "qdate": "2025-04-16",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AAPL",
+    "qdate": "2025-10-21",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AAPL",
+    "qdate": "2025-12-17",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AAPL",
+    "qdate": "2025-12-30",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "ACET",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "ACUT",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "ADCT",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "ALFUW",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "ALKS",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "ALLY",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AMLP",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AMPH",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AMSF",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "APLMW",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "APMSF",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "APT",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "ARKF",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "AVLV",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "BAH",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "BBN",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "BHE",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "BIOYF",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "BKCH",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "BKD",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "BSWGF",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "BUI",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "BY",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "BYRN",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "C.AYA",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "C.CAPG",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "C.EDV",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "C.ETC",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "C.MIDB",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "C.RS",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "C.RUDB",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "C.S",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "C.SLT",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "C.TA",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "C.WGX",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "C.ZWGD",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CABPF",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CACC",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CALT",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CCTC",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CGIE",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CIB",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CIFRW",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CLKFF",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CMPR",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "COLD",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "COOP",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CPG",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CSF",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CTFMS",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "CUBB",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "DATWY",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "DFAT",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "DMTKQ",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "DON",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "DRN",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "DTEAF",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "DVN",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "DXYN",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "EATV",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "EEMX",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "EGF",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "EGLE",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "EIG",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "EL",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "EPR",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "ETHT",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "EUBG",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "EVN",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FBIO",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FC",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FDNI",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FGMCR",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FIVE",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FLUT",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FNDB",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FRSAF",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FSHPR",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FSUMF",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FSV",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FTXH",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FXP",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "FYBR",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "GE",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "GHYB",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "GIGB",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "GILD",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "GLBE",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "GORO",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "GRRR",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "GVLMF",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "HGTY",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "HOKCY",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "HONDW",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "HPTO",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "HTZ",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "IBUY",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "IIPR",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "IQV",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "ITM",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "IVZ",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "IWV",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "JDSEF",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "JIAXF",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "JMIA",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "JXHLY",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "KMLM",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "KRKKF",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "KTOS",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "LANC",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "LBRT",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "LOBEF",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "LOIMF",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "LUNR",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MAYNF",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MDTWF",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MLN",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MMS",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MSFT",
+    "qdate": "2024-04-10",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MSFT",
+    "qdate": "2024-07-12",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MSFT",
+    "qdate": "2024-07-26",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MSFT",
+    "qdate": "2024-08-29",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MSFT",
+    "qdate": "2024-11-01",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MSFT",
+    "qdate": "2025-01-31",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MSFT",
+    "qdate": "2025-04-16",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MSFT",
+    "qdate": "2025-10-21",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MSFT",
+    "qdate": "2025-12-17",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "MSFT",
+    "qdate": "2025-12-30",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "NANC",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "NEXNY",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "NMAX",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "NMKBP",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "NPKYY",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "NRGV",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "NSLYF",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "NTAP",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "OCCIM",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "ODDS",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "ON",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "OSPN",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "OTLC",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "PARAA",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "PCCE",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "PDFS",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "PDSB",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "PELIU",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "PEZ",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "PILL",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "PKE",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "POSC",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "PRH",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "PSA-G",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "PSBKF",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "QEMM",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "QQQ",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "QUBT",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "RDACU",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "RDNT",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "REFR",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "REXR",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "RJF-B",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "RRVAS",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "RRX",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "RTACW",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SBLK",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SCCFF",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SGRY",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SHEN",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SHLS",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SIJ",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SITC",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SJT",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SKIL",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SKIN",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SMMD",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SPESG",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SPOT",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SPY",
+    "qdate": "2024-04-10",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SPY",
+    "qdate": "2024-07-12",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SPY",
+    "qdate": "2024-07-26",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SPY",
+    "qdate": "2024-08-29",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SPY",
+    "qdate": "2024-11-01",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SPY",
+    "qdate": "2025-01-31",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SPY",
+    "qdate": "2025-04-16",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SPY",
+    "qdate": "2025-10-21",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SPY",
+    "qdate": "2025-12-17",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SPY",
+    "qdate": "2025-12-30",
+    "role": "control",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SQNS",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "STLFF",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "STLNF",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "STNG",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SUHJF",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SVXY",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "SZNTF",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "THNCF",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "TILL",
+    "qdate": "2025-12-30",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "TMCI",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "TRFK",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "TSLS",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "TTI",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "TUSK",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "UCAR",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "UGRO",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "UNFI",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "UTHR",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "VAL",
+    "qdate": "2025-01-31",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "VB",
+    "qdate": "2024-04-10",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "VMCWF",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "VRME",
+    "qdate": "2025-04-16",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "VSAT",
+    "qdate": "2024-07-26",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "VTS",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "VVX",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "VXRT",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "WAL",
+    "qdate": "2024-11-01",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "WPRT",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "WSEWF",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "WU",
+    "qdate": "2024-07-12",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "XMMO",
+    "qdate": "2024-08-29",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "YASKY",
+    "qdate": "2025-10-21",
+    "role": "sample",
+    "optiondaily": "absent",
+    "optiondaily3": "absent"
+  },
+  {
+    "symbol": "YPF",
+    "qdate": "2025-12-17",
+    "role": "sample",
+    "optiondaily": "present",
+    "optiondaily3": "absent"
+  }
+]

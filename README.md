@@ -50,6 +50,14 @@ without database access; see the [background audit](results/background_sample/RE
 The expanded pilot contains 1,300 stock-days across 65 dates, with 1,181 usable
 observations.
 
+Run `python3 option_coverage_probe.py` for bounded, read-only checks of sampled
+symbols and three control symbols in both option tables (2024 onward by default).
+The [saved probe](results/option_coverage_probe/REPORT.md) finds all controls on
+every sampled date, while the stockquote frame expands from roughly 6,000 to
+22,000–24,000 symbols in 2025. None of the missing sampled chains were recovered
+from `optiondaily3`. This supports investigating the broader sampling frame;
+it does not rule out partial ingestion gaps or establish historical option listings.
+
 The current descriptive rules surfaced alerts in 10/23 event windows and 52/1181
 sampled background stock-days at 100 calls and 3× baseline; at 500 calls and 5×,
 8/23 and 25/1181. These are not recall or false-positive estimates: event labels
