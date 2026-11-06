@@ -4,17 +4,29 @@
   "n_jumps": 2146,
   "n_with_cik": 1004,
   "cause_class_counts": {
-    "unclassified": 2040,
-    "1_earnings": 106
+    "sub_5": 1266,
+    "unclassified": 623,
+    "1_earnings": 224,
+    "unclassified_other": 2,
+    "etf": 25,
+    "2_ma_rumor_or_news": 2,
+    "3_biotech_trial": 4
   },
   "news_filter_counts": {
-    "pending_news_review": 2040,
-    "drop_earnings": 106
+    "drop_sub_5": 1266,
+    "pending_news_review": 623,
+    "drop_earnings": 224,
+    "drop_other_not_234": 2,
+    "drop_etf": 25,
+    "keep": 6
   },
-  "policy": "keep 2,3,4; drop 1 (earnings via EDGAR 8-K Item 2.02)",
+  "policy": "keep 2,3,4; drop 1 (earnings via EDGAR 8-K Item 2.02); hard-drop sub_$5, ETF/ETN denylist, no_option",
   "notes": [
     "Jumps are NYSE-calendar consecutive close-to-close with volume \u22652\u00d7 prior session.",
     "drop_earnings requires a mapped CIK and an Item 2.02 acceptance whose reaction session equals qdate.",
-    "Unclassified jumps still need news review for classes 2/3/4; absence of Item 2.02 is not proof of non-earnings."
+    "drop_sub_5 uses prev_close < $5; drop_etf uses data/event_review_overrides.json etf_etn_denylist.",
+    "drop_no_option requires absence from both optiondaily and optiondaily3 on qdate.",
+    "Manual reviews in data/price_jump_news_reviews.json overlay pending rows; earnings still wins.",
+    "Unclassified pending rows still need news review for classes 2/3/4."
   ]
 }

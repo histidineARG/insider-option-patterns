@@ -1,0 +1,5474 @@
+[
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "1996-09-06",
+    "acceptance_datetime": "1996-09-06T04:00:00.000Z",
+    "report_date": "1996-08-19",
+    "accession": "0000891618-96-001965",
+    "primary_document": "",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5; accession=0000891618-96-001965"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "1999-05-06",
+    "acceptance_datetime": "1999-05-06T04:00:00.000Z",
+    "report_date": "1999-05-05",
+    "accession": "0000818033-99-000027",
+    "primary_document": "",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5,7; accession=0000818033-99-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "2",
+    "filing_date": "2000-08-09",
+    "acceptance_datetime": "2000-08-09T04:00:00.000Z",
+    "report_date": "2000-07-25",
+    "accession": "0000818033-00-000010",
+    "primary_document": "0001.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2; accession=0000818033-00-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "2",
+    "filing_date": "2001-05-14",
+    "acceptance_datetime": "2001-05-14T04:00:00.000Z",
+    "report_date": "2001-05-09",
+    "accession": "0000818033-01-500012",
+    "primary_document": "appa8k.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2; accession=0000818033-01-500012"
+  },
+  {
+    "form": "8-K",
+    "items": "4",
+    "filing_date": "2001-12-19",
+    "acceptance_datetime": "2001-12-19T20:18:30.000Z",
+    "report_date": "2001-12-12",
+    "accession": "0000818033-01-500025",
+    "primary_document": "appa8kaccnts.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=4; accession=0000818033-01-500025"
+  },
+  {
+    "form": "8-K",
+    "items": "2",
+    "filing_date": "2003-02-28",
+    "acceptance_datetime": "2003-02-28T18:43:23.000Z",
+    "report_date": "2003-02-13",
+    "accession": "0000818033-03-000002",
+    "primary_document": "appa8k21303.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2; accession=0000818033-03-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-05-05",
+    "acceptance_datetime": "2003-05-02T23:35:20.000Z",
+    "report_date": "2003-03-31",
+    "accession": "0000818033-03-000010",
+    "primary_document": "appa8k050503.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7,9; accession=0000818033-03-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2003-08-04",
+    "acceptance_datetime": "2003-08-01T21:53:41.000Z",
+    "report_date": "2003-06-30",
+    "accession": "0000818033-03-000031",
+    "primary_document": "appa8k080403.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=12,7; accession=0000818033-03-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2003-11-07",
+    "acceptance_datetime": "2003-11-07T01:34:56.000Z",
+    "report_date": "2003-09-30",
+    "accession": "0000818033-03-000042",
+    "primary_document": "appa8k110703.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=12,7; accession=0000818033-03-000042"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-03-12",
+    "acceptance_datetime": "2004-03-12T00:03:14.000Z",
+    "report_date": "2003-12-31",
+    "accession": "0000818033-04-000008",
+    "primary_document": "appa8k031104.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=12,7; accession=0000818033-04-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-04-28",
+    "acceptance_datetime": "2004-04-27T23:16:24.000Z",
+    "report_date": "2004-03-31",
+    "accession": "0000818033-04-000016",
+    "primary_document": "appa8k042704.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=12,7; accession=0000818033-04-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2004-05-05",
+    "acceptance_datetime": "2004-05-04T23:58:28.000Z",
+    "report_date": "2003-05-04",
+    "accession": "0000818033-04-000020",
+    "primary_document": "appa8k050404.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5; accession=0000818033-04-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2004-06-25",
+    "acceptance_datetime": "2004-06-25T19:14:39.000Z",
+    "report_date": "2004-06-25",
+    "accession": "0000818033-04-000062",
+    "primary_document": "appa8k062504.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5,7; accession=0000818033-04-000062"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2004-08-12",
+    "acceptance_datetime": "2004-08-12T01:10:01.000Z",
+    "report_date": "2004-08-11",
+    "accession": "0000818033-04-000064",
+    "primary_document": "appa8k081204.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5,7; accession=0000818033-04-000064"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-08-12",
+    "acceptance_datetime": "2004-08-12T01:23:13.000Z",
+    "report_date": "2004-03-31",
+    "accession": "0000818033-04-000066",
+    "primary_document": "appa8k081204e.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=12,7; accession=0000818033-04-000066"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2004-09-21",
+    "acceptance_datetime": "2004-09-21T19:10:57.000Z",
+    "report_date": "2004-09-21",
+    "accession": "0000818033-04-000088",
+    "primary_document": "appa8k092104.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01; accession=0000818033-04-000088"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2004-11-15",
+    "acceptance_datetime": "2004-11-12T23:23:21.000Z",
+    "report_date": "2004-09-30",
+    "accession": "0000818033-04-000091",
+    "primary_document": "appa8k111504.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-04-000091"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-03-10",
+    "acceptance_datetime": "2005-03-10T00:52:43.000Z",
+    "report_date": "2004-12-31",
+    "accession": "0000818033-05-000002",
+    "primary_document": "appa8k031005.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-05-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2005-03-29",
+    "acceptance_datetime": "2005-03-29T21:18:02.000Z",
+    "report_date": "2005-03-23",
+    "accession": "0000818033-05-000023",
+    "primary_document": "appa8k032905.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01; accession=0000818033-05-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-05-10",
+    "acceptance_datetime": "2005-05-09T23:10:21.000Z",
+    "report_date": "2005-03-31",
+    "accession": "0000818033-05-000028",
+    "primary_document": "appa8k051005.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-05-000028"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2005-08-08",
+    "acceptance_datetime": "2005-08-05T23:06:02.000Z",
+    "report_date": "2005-06-30",
+    "accession": "0000818033-05-000058",
+    "primary_document": "appa8k080805.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02; accession=0000818033-05-000058"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2005-08-24",
+    "acceptance_datetime": "2005-08-24T21:26:11.000Z",
+    "report_date": "2005-08-23",
+    "accession": "0000818033-05-000081",
+    "primary_document": "appa8k082305.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01; accession=0000818033-05-000081"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-11-02",
+    "acceptance_datetime": "2005-11-02T01:36:17.000Z",
+    "report_date": "2005-09-30",
+    "accession": "0000818033-05-000085",
+    "primary_document": "appa8k110205.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-05-000085"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01",
+    "filing_date": "2005-11-16",
+    "acceptance_datetime": "2005-11-16T01:20:40.000Z",
+    "report_date": "2005-11-11",
+    "accession": "0000818033-05-000104",
+    "primary_document": "appa8k111605.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01; accession=0000818033-05-000104"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-01-18",
+    "acceptance_datetime": "2006-01-18T19:17:57.000Z",
+    "report_date": "2006-01-18",
+    "accession": "0000818033-06-000006",
+    "primary_document": "appa8knasdaq.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0000818033-06-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01",
+    "filing_date": "2006-01-20",
+    "acceptance_datetime": "2006-01-20T18:39:45.000Z",
+    "report_date": "2006-01-18",
+    "accession": "0000818033-06-000008",
+    "primary_document": "appa8kpaulcap21.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,2.01; accession=0000818033-06-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01,9.01",
+    "filing_date": "2006-02-01",
+    "acceptance_datetime": "2006-02-01T21:46:36.000Z",
+    "report_date": "2006-01-26",
+    "accession": "0000818033-06-000011",
+    "primary_document": "appa8k020106.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=4.01,9.01; accession=0000818033-06-000011"
+  },
+  {
+    "form": "8-K/A",
+    "items": "4.01,9.01",
+    "filing_date": "2006-02-06",
+    "acceptance_datetime": "2006-02-06T19:54:49.000Z",
+    "report_date": "2006-01-26",
+    "accession": "0000818033-06-000015",
+    "primary_document": "appa8ka020606.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=4.01,9.01; accession=0000818033-06-000015"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-03-15",
+    "acceptance_datetime": "2006-03-15T01:04:54.000Z",
+    "report_date": "2005-12-31",
+    "accession": "0000818033-06-000017",
+    "primary_document": "appa8k031506.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-06-000017"
+  },
+  {
+    "form": "8-K/A",
+    "items": "4.01,9.01",
+    "filing_date": "2006-04-05",
+    "acceptance_datetime": "2006-04-05T21:03:48.000Z",
+    "report_date": "2006-03-31",
+    "accession": "0000818033-06-000033",
+    "primary_document": "appa8k040506.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=4.01,9.01; accession=0000818033-06-000033"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-05-10",
+    "acceptance_datetime": "2006-05-10T19:48:38.000Z",
+    "report_date": "2006-03-31",
+    "accession": "0000818033-06-000039",
+    "primary_document": "appa8k051006.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-06-000039"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2006-06-06",
+    "acceptance_datetime": "2006-06-05T23:00:20.000Z",
+    "report_date": "2006-05-31",
+    "accession": "0000818033-06-000065",
+    "primary_document": "appa8k060506.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01; accession=0000818033-06-000065"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-08-08",
+    "acceptance_datetime": "2006-08-07T22:49:46.000Z",
+    "report_date": "2006-06-30",
+    "accession": "0000818033-06-000070",
+    "primary_document": "appa8k080806.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-06-000070"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2006-08-14",
+    "acceptance_datetime": "2006-08-14T17:56:28.000Z",
+    "report_date": "2006-08-08",
+    "accession": "0000818033-06-000075",
+    "primary_document": "appa8k081406a.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0000818033-06-000075"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-08-24",
+    "acceptance_datetime": "2006-08-24T18:31:25.000Z",
+    "report_date": "2006-08-18",
+    "accession": "0000818033-06-000094",
+    "primary_document": "appa8k082106.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0000818033-06-000094"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2006-08-29",
+    "acceptance_datetime": "2006-08-28T21:34:38.000Z",
+    "report_date": "2006-08-22",
+    "accession": "0000818033-06-000095",
+    "primary_document": "appa8kgordon.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0000818033-06-000095"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02",
+    "filing_date": "2006-09-28",
+    "acceptance_datetime": "2006-09-28T16:56:06.000Z",
+    "report_date": "2006-09-27",
+    "accession": "0000818033-06-000098",
+    "primary_document": "appa8k092806.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,5.02; accession=0000818033-06-000098"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-10-03",
+    "acceptance_datetime": "2006-10-03T17:33:21.000Z",
+    "report_date": "2006-10-01",
+    "accession": "0000818033-06-000102",
+    "primary_document": "appa8k100306.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0000818033-06-000102"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2006-10-10",
+    "acceptance_datetime": "2006-10-10T14:05:56.000Z",
+    "report_date": "2006-10-09",
+    "accession": "0000818033-06-000104",
+    "primary_document": "appa8k100906.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0000818033-06-000104"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-11-07",
+    "acceptance_datetime": "2006-11-06T23:45:22.000Z",
+    "report_date": "2006-09-30",
+    "accession": "0000818033-06-000110",
+    "primary_document": "appa8k110706.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-06-000110"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2006-11-20",
+    "acceptance_datetime": "2006-11-20T18:16:37.000Z",
+    "report_date": "2006-11-20",
+    "accession": "0000818033-06-000114",
+    "primary_document": "appa8k112006.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0000818033-06-000114"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,5.03,9.01",
+    "filing_date": "2006-12-19",
+    "acceptance_datetime": "2006-12-19T22:21:21.000Z",
+    "report_date": "2006-12-15",
+    "accession": "0000818033-06-000121",
+    "primary_document": "appa8k121906.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,3.03,5.03,9.01; accession=0000818033-06-000121"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-03-07",
+    "acceptance_datetime": "2007-03-06T23:50:56.000Z",
+    "report_date": "2006-12-31",
+    "accession": "0000818033-07-000004",
+    "primary_document": "appa8k030707.txt",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-07-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-05-08",
+    "acceptance_datetime": "2007-05-07T22:13:39.000Z",
+    "report_date": "2007-03-31",
+    "accession": "0000818033-07-000008",
+    "primary_document": "appa8k050807.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-07-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2007-05-15",
+    "acceptance_datetime": "2007-05-15T17:07:35.000Z",
+    "report_date": "2007-05-09",
+    "accession": "0000818033-07-000012",
+    "primary_document": "appa8k051507.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,9.01; accession=0000818033-07-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-05-30",
+    "acceptance_datetime": "2007-05-30T17:32:22.000Z",
+    "report_date": "2007-05-29",
+    "accession": "0000818033-07-000026",
+    "primary_document": "appa8k053007.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0000818033-07-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-06-25",
+    "acceptance_datetime": "2007-06-25T16:59:58.000Z",
+    "report_date": "2007-06-25",
+    "accession": "0000818033-07-000029",
+    "primary_document": "appa8k062507.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0000818033-07-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-08-01",
+    "acceptance_datetime": "2007-07-31T22:46:10.000Z",
+    "report_date": "2007-06-30",
+    "accession": "0000818033-07-000031",
+    "primary_document": "appa8k080107.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-07-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-10-02",
+    "acceptance_datetime": "2007-10-01T23:09:29.000Z",
+    "report_date": "2007-10-01",
+    "accession": "0000818033-07-000038",
+    "primary_document": "appa8k100107.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0000818033-07-000038"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2007-11-14",
+    "acceptance_datetime": "2007-11-13T22:37:39.000Z",
+    "report_date": "2007-11-13",
+    "accession": "0000818033-07-000040",
+    "primary_document": "appa8k111307.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02; accession=0000818033-07-000040"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2007-11-15",
+    "acceptance_datetime": "2007-11-14T22:59:21.000Z",
+    "report_date": "2007-11-14",
+    "accession": "0000818033-07-000044",
+    "primary_document": "appa8ka111407.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=9.01; accession=0000818033-07-000044"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2007-12-17",
+    "acceptance_datetime": "2007-12-14T23:21:18.000Z",
+    "report_date": "2007-12-14",
+    "accession": "0000818033-07-000048",
+    "primary_document": "appa8k121407.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01; accession=0000818033-07-000048"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2008-01-15",
+    "acceptance_datetime": "2008-01-15T22:18:43.000Z",
+    "report_date": "2008-01-14",
+    "accession": "0000818033-08-000006",
+    "primary_document": "appa8k011508.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0000818033-08-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-01-24",
+    "acceptance_datetime": "2008-01-24T19:16:30.000Z",
+    "report_date": "2008-01-18",
+    "accession": "0000818033-08-000009",
+    "primary_document": "appa8k012408.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0000818033-08-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-03-13",
+    "acceptance_datetime": "2008-03-13T17:27:04.000Z",
+    "report_date": "2007-12-31",
+    "accession": "0000818033-08-000011",
+    "primary_document": "appa8k031308.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-08-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-05-15",
+    "acceptance_datetime": "2008-05-15T16:46:25.000Z",
+    "report_date": "2008-05-15",
+    "accession": "0000818033-08-000013",
+    "primary_document": "appa8k051508.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-08-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2008-07-09",
+    "acceptance_datetime": "2008-07-09T20:03:16.000Z",
+    "report_date": "2008-07-07",
+    "accession": "0000818033-08-000024",
+    "primary_document": "appa8k070808.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0000818033-08-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-08-14",
+    "acceptance_datetime": "2008-08-14T17:06:43.000Z",
+    "report_date": "2008-08-14",
+    "accession": "0000818033-08-000029",
+    "primary_document": "appa8k081408.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-08-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,9.01",
+    "filing_date": "2008-10-07",
+    "acceptance_datetime": "2008-10-07T18:17:57.000Z",
+    "report_date": "2008-10-01",
+    "accession": "0001193125-08-207296",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,3.03,9.01; accession=0001193125-08-207296"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,2.05,5.02,9.01",
+    "filing_date": "2008-11-05",
+    "acceptance_datetime": "2008-11-05T22:16:06.000Z",
+    "report_date": "2008-11-03",
+    "accession": "0001193125-08-226074",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,2.05,5.02,9.01; accession=0001193125-08-226074"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-02-09",
+    "acceptance_datetime": "2009-02-09T22:05:26.000Z",
+    "report_date": "2009-02-08",
+    "accession": "0001193125-09-022642",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001193125-09-022642"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2009-02-25",
+    "acceptance_datetime": "2009-02-25T17:48:28.000Z",
+    "report_date": "2009-02-23",
+    "accession": "0001193125-09-037154",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-09-037154"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-04-01",
+    "acceptance_datetime": "2009-04-01T16:46:19.000Z",
+    "report_date": "2009-03-31",
+    "accession": "0001193125-09-070379",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-09-070379"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2009-04-08",
+    "acceptance_datetime": "2009-04-08T16:40:11.000Z",
+    "report_date": "2009-04-02",
+    "accession": "0001193125-09-075389",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,9.01; accession=0001193125-09-075389"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-04-10",
+    "acceptance_datetime": "2009-04-10T16:28:56.000Z",
+    "report_date": "2009-04-07",
+    "accession": "0001193125-09-077050",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001193125-09-077050"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-05-15",
+    "acceptance_datetime": "2009-05-15T19:51:37.000Z",
+    "report_date": "2009-05-14",
+    "accession": "0000818033-09-000008",
+    "primary_document": "appa8k051409.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-09-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2009-05-20",
+    "acceptance_datetime": "2009-05-20T17:24:43.000Z",
+    "report_date": "2009-05-18",
+    "accession": "0001193125-09-115586",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01; accession=0001193125-09-115586"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2009-06-02",
+    "acceptance_datetime": "2009-06-02T19:17:03.000Z",
+    "report_date": "2009-05-29",
+    "accession": "0000818033-09-000021",
+    "primary_document": "appa8k052909.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01; accession=0000818033-09-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2009-06-03",
+    "acceptance_datetime": "2009-06-03T19:24:09.000Z",
+    "report_date": "2009-06-03",
+    "accession": "0000818033-09-000023",
+    "primary_document": "appa8k060309.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01; accession=0000818033-09-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2009-07-20",
+    "acceptance_datetime": "2009-07-20T20:06:11.000Z",
+    "report_date": "2009-07-17",
+    "accession": "0000818033-09-000029",
+    "primary_document": "appa8k071709.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,9.01; accession=0000818033-09-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-07-20",
+    "acceptance_datetime": "2009-07-20T20:44:15.000Z",
+    "report_date": "2009-07-17",
+    "accession": "0000818033-09-000031",
+    "primary_document": "appa8k071709a.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0000818033-09-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-08-05",
+    "acceptance_datetime": "2009-08-05T19:16:37.000Z",
+    "report_date": "2009-08-04",
+    "accession": "0000818033-09-000033",
+    "primary_document": "appa8k080409.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-09-000033"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2009-09-18",
+    "acceptance_datetime": "2009-09-18T20:37:38.000Z",
+    "report_date": "2009-09-11",
+    "accession": "0000818033-09-000035",
+    "primary_document": "appa8k091109.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0000818033-09-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2009-09-21",
+    "acceptance_datetime": "2009-09-21T15:54:10.000Z",
+    "report_date": "2009-09-15",
+    "accession": "0000818033-09-000037",
+    "primary_document": "appa8k091509.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,9.01; accession=0000818033-09-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2009-09-30",
+    "acceptance_datetime": "2009-09-30T20:58:21.000Z",
+    "report_date": "2009-09-29",
+    "accession": "0000818033-09-000039",
+    "primary_document": "appa8k09292009.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.02; accession=0000818033-09-000039"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,8.01,9.01",
+    "filing_date": "2009-10-22",
+    "acceptance_datetime": "2009-10-22T20:44:43.000Z",
+    "report_date": "2009-10-19",
+    "accession": "0000818033-09-000041",
+    "primary_document": "appa8k101909.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,3.02,8.01,9.01; accession=0000818033-09-000041"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2009-10-28",
+    "acceptance_datetime": "2009-10-28T18:01:30.000Z",
+    "report_date": "2009-10-28",
+    "accession": "0000818033-09-000043",
+    "primary_document": "appa8k102809.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,9.01; accession=0000818033-09-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-11-16",
+    "acceptance_datetime": "2009-11-16T20:24:21.000Z",
+    "report_date": "2009-11-16",
+    "accession": "0000818033-09-000047",
+    "primary_document": "appa8k111609.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-09-000047"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2009-11-24",
+    "acceptance_datetime": "2009-11-24T18:54:52.000Z",
+    "report_date": "2009-11-19",
+    "accession": "0001193125-09-241182",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,9.01; accession=0001193125-09-241182"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2010-01-11",
+    "acceptance_datetime": "2010-01-11T18:19:23.000Z",
+    "report_date": "2010-01-07",
+    "accession": "0000818033-10-000002",
+    "primary_document": "appa8k010710.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01; accession=0000818033-10-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2010-01-11",
+    "acceptance_datetime": "2010-01-11T18:53:27.000Z",
+    "report_date": "2010-01-11",
+    "accession": "0000818033-10-000004",
+    "primary_document": "appa8k011110.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01; accession=0000818033-10-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-02-19",
+    "acceptance_datetime": "2010-02-19T16:10:42.000Z",
+    "report_date": "2010-02-17",
+    "accession": "0000818033-10-000006",
+    "primary_document": "appa8k021710.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0000818033-10-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-03-15",
+    "acceptance_datetime": "2010-03-15T18:20:33.000Z",
+    "report_date": "2010-03-15",
+    "accession": "0000818033-10-000026",
+    "primary_document": "appa8k031510.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-10-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2010-03-19",
+    "acceptance_datetime": "2010-03-19T16:53:25.000Z",
+    "report_date": "2010-03-19",
+    "accession": "0000818033-10-000028",
+    "primary_document": "appa8k031810.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01; accession=0000818033-10-000028"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-05-17",
+    "acceptance_datetime": "2010-05-17T20:56:49.000Z",
+    "report_date": "2010-05-17",
+    "accession": "0000818033-10-000030",
+    "primary_document": "appa8k051710.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-10-000030"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2010-05-20",
+    "acceptance_datetime": "2010-05-20T20:33:14.000Z",
+    "report_date": "2010-05-18",
+    "accession": "0000818033-10-000032",
+    "primary_document": "appa8k052010.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,9.01; accession=0000818033-10-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2010-05-24",
+    "acceptance_datetime": "2010-05-24T16:09:50.000Z",
+    "report_date": "2010-05-20",
+    "accession": "0000818033-10-000034",
+    "primary_document": "appa8k052010.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0000818033-10-000034"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.02",
+    "filing_date": "2010-05-25",
+    "acceptance_datetime": "2010-05-25T18:05:41.000Z",
+    "report_date": "2010-05-20",
+    "accession": "0000818033-10-000036",
+    "primary_document": "appa8kaappa052510.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0000818033-10-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2010-06-01",
+    "acceptance_datetime": "2010-06-01T16:47:25.000Z",
+    "report_date": "2010-05-25",
+    "accession": "0000818033-10-000048",
+    "primary_document": "appa8k052510.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0000818033-10-000048"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-08-16",
+    "acceptance_datetime": "2010-08-16T20:55:53.000Z",
+    "report_date": "2010-08-16",
+    "accession": "0000818033-10-000058",
+    "primary_document": "appa8k081610.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-10-000058"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-11-15",
+    "acceptance_datetime": "2010-11-15T22:00:08.000Z",
+    "report_date": "2010-11-15",
+    "accession": "0000818033-10-000060",
+    "primary_document": "appa8k111510.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-10-000060"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2010-11-22",
+    "acceptance_datetime": "2010-11-22T20:08:08.000Z",
+    "report_date": "2010-11-17",
+    "accession": "0001193125-10-266275",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,9.01; accession=0001193125-10-266275"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,8.01,9.01",
+    "filing_date": "2011-02-09",
+    "acceptance_datetime": "2011-02-09T22:16:20.000Z",
+    "report_date": "2011-02-09",
+    "accession": "0000818033-11-000002",
+    "primary_document": "appa8k020911.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,8.01,9.01; accession=0000818033-11-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2011-02-28",
+    "acceptance_datetime": "2011-02-28T21:41:39.000Z",
+    "report_date": "2011-02-23",
+    "accession": "0000818033-11-000006",
+    "primary_document": "appa8k022811.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0000818033-11-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-03-29",
+    "acceptance_datetime": "2011-03-29T14:56:02.000Z",
+    "report_date": "2011-03-28",
+    "accession": "0000818033-11-000008",
+    "primary_document": "appa8k032811.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-11-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2011-04-04",
+    "acceptance_datetime": "2011-04-04T18:34:21.000Z",
+    "report_date": "2011-04-04",
+    "accession": "0000818033-11-000010",
+    "primary_document": "appa8k033011.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,9.01; accession=0000818033-11-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-04-19",
+    "acceptance_datetime": "2011-04-19T21:11:07.000Z",
+    "report_date": "2011-04-19",
+    "accession": "0000818033-11-000012",
+    "primary_document": "appa8k041911.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0000818033-11-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,3.03,5.02,8.01,9.01",
+    "filing_date": "2011-04-28",
+    "acceptance_datetime": "2011-04-28T20:49:23.000Z",
+    "report_date": "2011-04-24",
+    "accession": "0001193125-11-115399",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,3.02,3.03,5.02,8.01,9.01; accession=0001193125-11-115399"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-05-18",
+    "acceptance_datetime": "2011-05-18T16:40:11.000Z",
+    "report_date": "2011-05-16",
+    "accession": "0000818033-11-000014",
+    "primary_document": "appa8k051611.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-11-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2011-05-31",
+    "acceptance_datetime": "2011-05-31T21:01:02.000Z",
+    "report_date": "2011-05-24",
+    "accession": "0001193125-11-154873",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.02; accession=0001193125-11-154873"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01",
+    "filing_date": "2011-06-02",
+    "acceptance_datetime": "2011-06-02T17:52:56.000Z",
+    "report_date": "2011-06-02",
+    "accession": "0000818033-11-000016",
+    "primary_document": "appa8k060211.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01; accession=0000818033-11-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,5.03,5.07,8.01,9.01",
+    "filing_date": "2011-06-30",
+    "acceptance_datetime": "2011-06-30T21:19:59.000Z",
+    "report_date": "2011-06-29",
+    "accession": "0001193125-11-179119",
+    "primary_document": "d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,3.02,5.03,5.07,8.01,9.01; accession=0001193125-11-179119"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2011-08-03",
+    "acceptance_datetime": "2011-08-03T21:19:02.000Z",
+    "report_date": "2011-07-28",
+    "accession": "0000818033-11-000030",
+    "primary_document": "appa8k072811.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0000818033-11-000030"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-08-09",
+    "acceptance_datetime": "2011-08-09T20:17:25.000Z",
+    "report_date": "2011-08-08",
+    "accession": "0000818033-11-000032",
+    "primary_document": "appa8k080811.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000818033-11-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-09-20",
+    "acceptance_datetime": "2011-09-19T23:44:30.000Z",
+    "report_date": "2011-09-19",
+    "accession": "0001193125-11-251610",
+    "primary_document": "d234176d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-11-251610"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-11-07",
+    "acceptance_datetime": "2011-11-07T19:52:03.000Z",
+    "report_date": "2011-11-07",
+    "accession": "0001193125-11-299522",
+    "primary_document": "d251757d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-11-299522"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,8.01,9.01",
+    "filing_date": "2012-03-26",
+    "acceptance_datetime": "2012-03-26T12:01:04.000Z",
+    "report_date": "2012-03-26",
+    "accession": "0001193125-12-130816",
+    "primary_document": "d323486d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,5.02,8.01,9.01; accession=0001193125-12-130816"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-03-26",
+    "acceptance_datetime": "2012-03-26T12:03:55.000Z",
+    "report_date": "2012-03-26",
+    "accession": "0001193125-12-130826",
+    "primary_document": "d323470d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-130826"
+  },
+  {
+    "form": "8-K/A",
+    "items": "8.01,9.01",
+    "filing_date": "2012-03-26",
+    "acceptance_datetime": "2012-03-26T16:54:00.000Z",
+    "report_date": "2012-03-26",
+    "accession": "0001193125-12-131475",
+    "primary_document": "d323470d8ka.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-131475"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-05-10",
+    "acceptance_datetime": "2012-05-10T19:20:59.000Z",
+    "report_date": "2012-05-10",
+    "accession": "0001193125-12-225209",
+    "primary_document": "d351259d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-225209"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2012-05-30",
+    "acceptance_datetime": "2012-05-30T18:32:00.000Z",
+    "report_date": "2012-05-29",
+    "accession": "0001193125-12-253111",
+    "primary_document": "d360873d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0001193125-12-253111"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-06-04",
+    "acceptance_datetime": "2012-06-04T17:33:24.000Z",
+    "report_date": "2012-05-31",
+    "accession": "0001193125-12-258375",
+    "primary_document": "d362430d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-258375"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2012-06-22",
+    "acceptance_datetime": "2012-06-22T19:50:59.000Z",
+    "report_date": "2012-06-18",
+    "accession": "0001193125-12-280448",
+    "primary_document": "d371198d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001193125-12-280448"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-07-03",
+    "acceptance_datetime": "2012-07-03T17:28:17.000Z",
+    "report_date": "2012-06-29",
+    "accession": "0001193125-12-293405",
+    "primary_document": "d376366d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-293405"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-07-12",
+    "acceptance_datetime": "2012-07-12T10:10:59.000Z",
+    "report_date": "2012-07-10",
+    "accession": "0001193125-12-300258",
+    "primary_document": "d377759d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-300258"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,8.01,9.01",
+    "filing_date": "2012-07-25",
+    "acceptance_datetime": "2012-07-25T13:25:56.000Z",
+    "report_date": "2012-07-25",
+    "accession": "0001193125-12-313606",
+    "primary_document": "d383918d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,3.02,8.01,9.01; accession=0001193125-12-313606"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2012-07-31",
+    "acceptance_datetime": "2012-07-31T12:31:00.000Z",
+    "report_date": "2012-07-30",
+    "accession": "0001193125-12-324403",
+    "primary_document": "d388385d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001193125-12-324403"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-08-02",
+    "acceptance_datetime": "2012-08-02T12:31:04.000Z",
+    "report_date": "2012-08-02",
+    "accession": "0001193125-12-330441",
+    "primary_document": "d390716d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-330441"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-09-10",
+    "acceptance_datetime": "2012-09-10T20:25:59.000Z",
+    "report_date": "2012-09-10",
+    "accession": "0001193125-12-386632",
+    "primary_document": "d409442d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-386632"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-10-01",
+    "acceptance_datetime": "2012-10-01T17:56:59.000Z",
+    "report_date": "2012-09-28",
+    "accession": "0001193125-12-410940",
+    "primary_document": "d419480d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-410940"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-10-17",
+    "acceptance_datetime": "2012-10-17T16:57:30.000Z",
+    "report_date": "2012-10-16",
+    "accession": "0001193125-12-425643",
+    "primary_document": "d425552d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-425643"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-10-19",
+    "acceptance_datetime": "2012-10-19T15:50:55.000Z",
+    "report_date": "2012-10-18",
+    "accession": "0001193125-12-428244",
+    "primary_document": "d426995d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-428244"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-11-05",
+    "acceptance_datetime": "2012-11-05T19:35:02.000Z",
+    "report_date": "2012-11-05",
+    "accession": "0001193125-12-451438",
+    "primary_document": "d433366d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-451438"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-12-14",
+    "acceptance_datetime": "2012-12-14T16:34:15.000Z",
+    "report_date": "2012-12-13",
+    "accession": "0001193125-12-502817",
+    "primary_document": "d454272d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-502817"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-12-18",
+    "acceptance_datetime": "2012-12-18T18:08:04.000Z",
+    "report_date": "2012-12-17",
+    "accession": "0001193125-12-506176",
+    "primary_document": "d456464d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-506176"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-01-04",
+    "acceptance_datetime": "2013-01-04T21:18:11.000Z",
+    "report_date": "2012-12-28",
+    "accession": "0001193125-13-003781",
+    "primary_document": "d461948d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001193125-13-003781"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-01-07",
+    "acceptance_datetime": "2013-01-07T11:10:55.000Z",
+    "report_date": "2013-01-07",
+    "accession": "0001193125-13-004366",
+    "primary_document": "d462570d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-004366"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2013-03-05",
+    "acceptance_datetime": "2013-03-05T21:55:24.000Z",
+    "report_date": "2013-02-28",
+    "accession": "0001193125-13-091886",
+    "primary_document": "d496976d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001193125-13-091886"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-03-28",
+    "acceptance_datetime": "2013-03-28T21:19:26.000Z",
+    "report_date": "2013-03-28",
+    "accession": "0001193125-13-132663",
+    "primary_document": "d512062d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-132663"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,5.02",
+    "filing_date": "2013-05-06",
+    "acceptance_datetime": "2013-05-03T23:29:55.000Z",
+    "report_date": "2013-05-01",
+    "accession": "0001193125-13-199674",
+    "primary_document": "d531805d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.02,5.02; accession=0001193125-13-199674"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-05-10",
+    "acceptance_datetime": "2013-05-10T18:44:50.000Z",
+    "report_date": "2013-05-10",
+    "accession": "0001193125-13-213686",
+    "primary_document": "d537497d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-213686"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2013-06-13",
+    "acceptance_datetime": "2013-06-13T18:50:53.000Z",
+    "report_date": "2013-06-12",
+    "accession": "0001193125-13-257569",
+    "primary_document": "d553618d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0001193125-13-257569"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-07-09",
+    "acceptance_datetime": "2013-07-09T10:07:00.000Z",
+    "report_date": "2013-07-09",
+    "accession": "0001193125-13-285313",
+    "primary_document": "d565664d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-285313"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-08-12",
+    "acceptance_datetime": "2013-08-12T10:13:53.000Z",
+    "report_date": "2013-08-08",
+    "accession": "0001193125-13-329877",
+    "primary_document": "d581802d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-329877"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-08-16",
+    "acceptance_datetime": "2013-08-16T20:15:29.000Z",
+    "report_date": "2013-08-12",
+    "accession": "0001193125-13-338296",
+    "primary_document": "d587508d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001193125-13-338296"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2013-09-25",
+    "acceptance_datetime": "2013-09-25T17:17:19.000Z",
+    "report_date": "2013-09-19",
+    "accession": "0001193125-13-378144",
+    "primary_document": "d602836d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0001193125-13-378144"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-11-01",
+    "acceptance_datetime": "2013-11-01T20:02:06.000Z",
+    "report_date": "2013-10-29",
+    "accession": "0001193125-13-422991",
+    "primary_document": "d619824d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001193125-13-422991"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2013-11-12",
+    "acceptance_datetime": "2013-11-12T13:31:39.000Z",
+    "report_date": "2013-11-12",
+    "accession": "0001193125-13-437116",
+    "primary_document": "d626911d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-13-437116"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2013-11-22",
+    "acceptance_datetime": "2013-11-22T21:24:07.000Z",
+    "report_date": "2013-11-20",
+    "accession": "0001193125-13-451370",
+    "primary_document": "d632321d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-13-451370"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,8.01,9.01",
+    "filing_date": "2014-01-13",
+    "acceptance_datetime": "2014-01-13T19:38:01.000Z",
+    "report_date": "2014-01-10",
+    "accession": "0001193125-14-009260",
+    "primary_document": "d659835d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,5.03,8.01,9.01; accession=0001193125-14-009260"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-01-17",
+    "acceptance_datetime": "2014-01-17T21:17:54.000Z",
+    "report_date": "2014-01-17",
+    "accession": "0001193125-14-014540",
+    "primary_document": "d661825d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01; accession=0001193125-14-014540"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-03-05",
+    "acceptance_datetime": "2014-03-05T19:30:37.000Z",
+    "report_date": "2014-03-05",
+    "accession": "0001193125-14-084235",
+    "primary_document": "d686210d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-084235"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-05-08",
+    "acceptance_datetime": "2014-05-08T20:00:29.000Z",
+    "report_date": "2014-05-08",
+    "accession": "0001299933-14-000725",
+    "primary_document": "htm_49787.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-14-000725"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-05-15",
+    "acceptance_datetime": "2014-05-15T17:26:49.000Z",
+    "report_date": "2014-05-14",
+    "accession": "0001193125-14-200731",
+    "primary_document": "d726242d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-14-200731"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2014-05-29",
+    "acceptance_datetime": "2014-05-29T21:11:37.000Z",
+    "report_date": "2014-05-27",
+    "accession": "0001193125-14-217467",
+    "primary_document": "d735526d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0001193125-14-217467"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-06-02",
+    "acceptance_datetime": "2014-06-02T12:04:57.000Z",
+    "report_date": "2014-06-02",
+    "accession": "0001193125-14-221035",
+    "primary_document": "d737947d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-14-221035"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-06-19",
+    "acceptance_datetime": "2014-06-19T21:29:43.000Z",
+    "report_date": "2014-06-17",
+    "accession": "0001299933-14-000960",
+    "primary_document": "htm_50023.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001299933-14-000960"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2014-06-27",
+    "acceptance_datetime": "2014-06-27T20:59:55.000Z",
+    "report_date": "2014-06-25",
+    "accession": "0001193125-14-253471",
+    "primary_document": "d750687d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-14-253471"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-08-04",
+    "acceptance_datetime": "2014-08-04T16:35:33.000Z",
+    "report_date": "2014-08-04",
+    "accession": "0001299933-14-001193",
+    "primary_document": "htm_50257.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-14-001193"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2014-11-06",
+    "acceptance_datetime": "2014-11-06T21:24:25.000Z",
+    "report_date": "2014-11-06",
+    "accession": "0001299933-14-001715",
+    "primary_document": "htm_50781.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001299933-14-001715"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-12-10",
+    "acceptance_datetime": "2014-12-10T12:01:56.000Z",
+    "report_date": "2014-12-10",
+    "accession": "0001193125-14-438238",
+    "primary_document": "d835210d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-14-438238"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-12-30",
+    "acceptance_datetime": "2014-12-30T21:38:43.000Z",
+    "report_date": "2014-12-16",
+    "accession": "0001299933-14-001981",
+    "primary_document": "htm_51054.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01; accession=0001299933-14-001981"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-01-15",
+    "acceptance_datetime": "2015-01-15T21:43:35.000Z",
+    "report_date": "2015-01-11",
+    "accession": "0001299933-15-000075",
+    "primary_document": "htm_51132.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001299933-15-000075"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-03-13",
+    "acceptance_datetime": "2015-03-13T19:50:49.000Z",
+    "report_date": "2015-03-13",
+    "accession": "0001299933-15-000392",
+    "primary_document": "htm_51448.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-15-000392"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-03-19",
+    "acceptance_datetime": "2015-03-19T12:16:08.000Z",
+    "report_date": "2015-03-19",
+    "accession": "0001193125-15-097744",
+    "primary_document": "d894174d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-15-097744"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-04-02",
+    "acceptance_datetime": "2015-04-02T17:41:28.000Z",
+    "report_date": "2015-04-02",
+    "accession": "0001299933-15-000504",
+    "primary_document": "htm_51560.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-15-000504"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-04-28",
+    "acceptance_datetime": "2015-04-28T20:53:16.000Z",
+    "report_date": "2015-04-22",
+    "accession": "0001299933-15-000656",
+    "primary_document": "htm_51707.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001299933-15-000656"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-05-08",
+    "acceptance_datetime": "2015-05-08T17:42:44.000Z",
+    "report_date": "2015-05-08",
+    "accession": "0001299933-15-000736",
+    "primary_document": "htm_51788.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-15-000736"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-05-13",
+    "acceptance_datetime": "2015-05-13T14:01:03.000Z",
+    "report_date": "2015-05-12",
+    "accession": "0001193125-15-185125",
+    "primary_document": "d925609d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-15-185125"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-05-14",
+    "acceptance_datetime": "2015-05-14T18:16:15.000Z",
+    "report_date": "2015-05-14",
+    "accession": "0001299933-15-000773",
+    "primary_document": "htm_51825.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-15-000773"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-05-28",
+    "acceptance_datetime": "2015-05-28T21:24:04.000Z",
+    "report_date": "2015-05-28",
+    "accession": "0001193125-15-204379",
+    "primary_document": "d925937d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-15-204379"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-05-29",
+    "acceptance_datetime": "2015-05-29T20:18:05.000Z",
+    "report_date": "2015-05-27",
+    "accession": "0001193125-15-206694",
+    "primary_document": "d933496d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-15-206694"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-06-09",
+    "acceptance_datetime": "2015-06-09T20:11:21.000Z",
+    "report_date": "2015-06-09",
+    "accession": "0001299933-15-000923",
+    "primary_document": "htm_51976.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-15-000923"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-06-10",
+    "acceptance_datetime": "2015-06-10T20:40:27.000Z",
+    "report_date": "2015-06-10",
+    "accession": "0001299933-15-000928",
+    "primary_document": "htm_51981.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0001299933-15-000928"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-06-11",
+    "acceptance_datetime": "2015-06-11T19:44:06.000Z",
+    "report_date": "2015-06-09",
+    "accession": "0001193125-15-220512",
+    "primary_document": "d941412d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0001193125-15-220512"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-06-16",
+    "acceptance_datetime": "2015-06-16T17:51:35.000Z",
+    "report_date": "2015-06-15",
+    "accession": "0001299933-15-000953",
+    "primary_document": "htm_52006.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-15-000953"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2015-07-01",
+    "acceptance_datetime": "2015-07-01T20:00:07.000Z",
+    "report_date": "2015-06-29",
+    "accession": "0001193125-15-242979",
+    "primary_document": "d18681d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.03,9.01; accession=0001193125-15-242979"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-07-21",
+    "acceptance_datetime": "2015-07-21T17:41:22.000Z",
+    "report_date": "2015-07-17",
+    "accession": "0001299933-15-001118",
+    "primary_document": "htm_52173.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-15-001118"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-07-24",
+    "acceptance_datetime": "2015-07-24T16:29:53.000Z",
+    "report_date": "2015-07-23",
+    "accession": "0001299933-15-001143",
+    "primary_document": "htm_52198.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-15-001143"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-08-07",
+    "acceptance_datetime": "2015-08-07T18:10:56.000Z",
+    "report_date": "2015-08-07",
+    "accession": "0001299933-15-001221",
+    "primary_document": "htm_52276.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-15-001221"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-09-18",
+    "acceptance_datetime": "2015-09-18T12:11:13.000Z",
+    "report_date": "2015-09-18",
+    "accession": "0001299933-15-001364",
+    "primary_document": "htm_52416.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-15-001364"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-09-23",
+    "acceptance_datetime": "2015-09-22T22:48:04.000Z",
+    "report_date": "2015-09-22",
+    "accession": "0001193125-15-325677",
+    "primary_document": "d46378d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-15-325677"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-09-29",
+    "acceptance_datetime": "2015-09-28T22:26:26.000Z",
+    "report_date": "2015-09-28",
+    "accession": "0001299933-15-001414",
+    "primary_document": "htm_52466.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-15-001414"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2015-10-13",
+    "acceptance_datetime": "2015-10-13T18:56:27.000Z",
+    "report_date": "2015-10-12",
+    "accession": "0001299933-15-001471",
+    "primary_document": "htm_52523.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0001299933-15-001471"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-11-06",
+    "acceptance_datetime": "2015-11-06T19:40:07.000Z",
+    "report_date": "2015-11-06",
+    "accession": "0001299933-15-001619",
+    "primary_document": "htm_52673.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-15-001619"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-01-11",
+    "acceptance_datetime": "2016-01-11T14:01:41.000Z",
+    "report_date": "2016-01-11",
+    "accession": "0001193125-16-425869",
+    "primary_document": "d121046d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-425869"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-01-15",
+    "acceptance_datetime": "2016-01-15T14:14:21.000Z",
+    "report_date": "2016-01-15",
+    "accession": "0001299933-16-001925",
+    "primary_document": "htm_52985.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-16-001925"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2016-01-22",
+    "acceptance_datetime": "2016-01-22T21:12:08.000Z",
+    "report_date": "2016-01-18",
+    "accession": "0001193125-16-435665",
+    "primary_document": "d120452d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.03,9.01; accession=0001193125-16-435665"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,5.02",
+    "filing_date": "2016-01-29",
+    "acceptance_datetime": "2016-01-29T22:30:06.000Z",
+    "report_date": "2016-01-26",
+    "accession": "0001193125-16-444438",
+    "primary_document": "d49362d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,5.02; accession=0001193125-16-444438"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-19",
+    "acceptance_datetime": "2016-02-19T16:11:44.000Z",
+    "report_date": "2016-02-19",
+    "accession": "0001299933-16-002083",
+    "primary_document": "htm_53149.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-16-002083"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-02-29",
+    "acceptance_datetime": "2016-02-29T21:55:22.000Z",
+    "report_date": "2016-02-29",
+    "accession": "0001299933-16-002118",
+    "primary_document": "htm_53184.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-16-002118"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-03-03",
+    "acceptance_datetime": "2016-03-03T16:16:17.000Z",
+    "report_date": "2016-03-03",
+    "accession": "0001299933-16-002136",
+    "primary_document": "htm_53202.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-16-002136"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2016-04-15",
+    "acceptance_datetime": "2016-04-15T20:30:50.000Z",
+    "report_date": "2016-04-11",
+    "accession": "0001299933-16-002299",
+    "primary_document": "htm_53366.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0001299933-16-002299"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-04-18",
+    "acceptance_datetime": "2016-04-18T21:21:14.000Z",
+    "report_date": "2016-04-18",
+    "accession": "0001299933-16-002300",
+    "primary_document": "htm_53367.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-16-002300"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-05-05",
+    "acceptance_datetime": "2016-05-05T20:12:07.000Z",
+    "report_date": "2016-05-05",
+    "accession": "0001299933-16-002409",
+    "primary_document": "htm_53471.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-16-002409"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2016-06-22",
+    "acceptance_datetime": "2016-06-22T20:15:32.000Z",
+    "report_date": "2016-06-21",
+    "accession": "0001193125-16-628925",
+    "primary_document": "d387015d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,5.07; accession=0001193125-16-628925"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-08-01",
+    "acceptance_datetime": "2016-08-01T10:11:04.000Z",
+    "report_date": "2016-08-01",
+    "accession": "0001193125-16-665566",
+    "primary_document": "d236274d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-665566"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-08-08",
+    "acceptance_datetime": "2016-08-08T20:11:06.000Z",
+    "report_date": "2016-08-08",
+    "accession": "0001299933-16-002845",
+    "primary_document": "htm_53910.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-16-002845"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-08-10",
+    "acceptance_datetime": "2016-08-10T12:42:35.000Z",
+    "report_date": "2016-08-09",
+    "accession": "0001193125-16-677624",
+    "primary_document": "d240921d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-677624"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2016-08-10",
+    "acceptance_datetime": "2016-08-10T20:03:48.000Z",
+    "report_date": "2016-08-05",
+    "accession": "0001299933-16-002856",
+    "primary_document": "htm_53921.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,2.03; accession=0001299933-16-002856"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2016-09-30",
+    "acceptance_datetime": "2016-09-30T21:16:55.000Z",
+    "report_date": "2016-09-30",
+    "accession": "0001193125-16-727752",
+    "primary_document": "d455525d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001193125-16-727752"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2016-10-20",
+    "acceptance_datetime": "2016-10-20T11:22:17.000Z",
+    "report_date": "2016-10-18",
+    "accession": "0001299933-16-003085",
+    "primary_document": "htm_54151.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,2.03; accession=0001299933-16-003085"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-11-08",
+    "acceptance_datetime": "2016-11-08T21:23:09.000Z",
+    "report_date": "2016-11-08",
+    "accession": "0001299933-16-003175",
+    "primary_document": "htm_54241.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-16-003175"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-01-04",
+    "acceptance_datetime": "2017-01-04T21:14:29.000Z",
+    "report_date": "2017-01-04",
+    "accession": "0001193125-17-001819",
+    "primary_document": "d325812d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-17-001819"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2017-01-24",
+    "acceptance_datetime": "2017-01-24T14:18:55.000Z",
+    "report_date": "2017-01-18",
+    "accession": "0001193125-17-015969",
+    "primary_document": "d332511d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-17-015969"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-02-23",
+    "acceptance_datetime": "2017-02-23T21:32:12.000Z",
+    "report_date": "2017-02-23",
+    "accession": "0001299933-17-000191",
+    "primary_document": "htm_54629.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-17-000191"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2017-03-17",
+    "acceptance_datetime": "2017-03-17T20:16:15.000Z",
+    "report_date": "2017-03-15",
+    "accession": "0001299933-17-000263",
+    "primary_document": "htm_54700.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001299933-17-000263"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-04-03",
+    "acceptance_datetime": "2017-04-03T16:23:53.000Z",
+    "report_date": "2017-03-31",
+    "accession": "0001299933-17-000319",
+    "primary_document": "htm_54756.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001299933-17-000319"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2017-04-24",
+    "acceptance_datetime": "2017-04-24T20:15:01.000Z",
+    "report_date": "2017-04-24",
+    "accession": "0001299933-17-000402",
+    "primary_document": "htm_54841.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001299933-17-000402"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-05-10",
+    "acceptance_datetime": "2017-05-10T12:03:52.000Z",
+    "report_date": "2017-05-10",
+    "accession": "0001299933-17-000469",
+    "primary_document": "htm_54910.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-17-000469"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2017-06-13",
+    "acceptance_datetime": "2017-06-13T20:02:03.000Z",
+    "report_date": "2017-06-12",
+    "accession": "0001193125-17-202432",
+    "primary_document": "d413846d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0001193125-17-202432"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-08-09",
+    "acceptance_datetime": "2017-08-09T20:13:12.000Z",
+    "report_date": "2017-08-09",
+    "accession": "0001193125-17-252789",
+    "primary_document": "d398795d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-17-252789"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-08-09",
+    "acceptance_datetime": "2017-08-09T20:25:16.000Z",
+    "report_date": "2017-08-09",
+    "accession": "0001299933-17-000820",
+    "primary_document": "htm_55243.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-17-000820"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-10-26",
+    "acceptance_datetime": "2017-10-26T12:40:28.000Z",
+    "report_date": "2017-10-26",
+    "accession": "0001299933-17-001079",
+    "primary_document": "htm_55489.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-17-001079"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-11-06",
+    "acceptance_datetime": "2017-11-06T13:33:42.000Z",
+    "report_date": "2017-11-06",
+    "accession": "0001299933-17-001115",
+    "primary_document": "htm_55525.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-17-001115"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-11-09",
+    "acceptance_datetime": "2017-11-09T21:11:11.000Z",
+    "report_date": "2017-11-09",
+    "accession": "0001193125-17-338771",
+    "primary_document": "d490826d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-17-338771"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2017-12-07",
+    "acceptance_datetime": "2017-12-07T14:10:56.000Z",
+    "report_date": "2017-12-04",
+    "accession": "0001193125-17-363424",
+    "primary_document": "d504723d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-17-363424"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2018-01-08",
+    "acceptance_datetime": "2018-01-08T13:41:05.000Z",
+    "report_date": "2018-01-08",
+    "accession": "0001193125-18-005163",
+    "primary_document": "d522181d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-18-005163"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-27",
+    "acceptance_datetime": "2018-02-27T21:22:40.000Z",
+    "report_date": "2018-02-27",
+    "accession": "0001299933-18-000208",
+    "primary_document": "htm_55922.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-18-000208"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-03-19",
+    "acceptance_datetime": "2018-03-19T12:06:03.000Z",
+    "report_date": "2018-03-19",
+    "accession": "0001193125-18-086721",
+    "primary_document": "d534167d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-18-086721"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2018-04-03",
+    "acceptance_datetime": "2018-04-03T20:06:03.000Z",
+    "report_date": "2018-03-28",
+    "accession": "0001193125-18-106207",
+    "primary_document": "d535296d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-18-106207"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-05-10",
+    "acceptance_datetime": "2018-05-10T12:35:43.000Z",
+    "report_date": "2018-05-10",
+    "accession": "0001299933-18-000414",
+    "primary_document": "htm_56139.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-18-000414"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-06-21",
+    "acceptance_datetime": "2018-06-21T12:11:04.000Z",
+    "report_date": "2018-06-21",
+    "accession": "0001193125-18-198673",
+    "primary_document": "d611150d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-18-198673"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-06-22",
+    "acceptance_datetime": "2018-06-22T21:10:58.000Z",
+    "report_date": "2018-06-18",
+    "accession": "0001193125-18-201200",
+    "primary_document": "d761705d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0001193125-18-201200"
+  },
+  {
+    "form": "8-K/A",
+    "items": "8.01,9.01",
+    "filing_date": "2018-06-25",
+    "acceptance_datetime": "2018-06-25T20:01:59.000Z",
+    "report_date": "2018-06-21",
+    "accession": "0001193125-18-202464",
+    "primary_document": "d601588d8ka.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-202464"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2018-06-28",
+    "acceptance_datetime": "2018-06-28T20:33:25.000Z",
+    "report_date": "2018-06-25",
+    "accession": "0001193125-18-207684",
+    "primary_document": "d801224d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-18-207684"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-08-08",
+    "acceptance_datetime": "2018-08-08T12:41:04.000Z",
+    "report_date": "2018-08-08",
+    "accession": "0001193125-18-242059",
+    "primary_document": "d593458d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-242059"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-11-07",
+    "acceptance_datetime": "2018-11-07T21:16:08.000Z",
+    "report_date": "2018-11-07",
+    "accession": "0001193125-18-320928",
+    "primary_document": "d650874d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-320928"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-12-31",
+    "acceptance_datetime": "2018-12-31T13:36:37.000Z",
+    "report_date": "2018-12-31",
+    "accession": "0001193125-18-361750",
+    "primary_document": "d675951d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-361750"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-01-03",
+    "acceptance_datetime": "2019-01-03T13:35:35.000Z",
+    "report_date": "2019-01-03",
+    "accession": "0001193125-19-001151",
+    "primary_document": "d682701d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-19-001151"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2019-01-07",
+    "acceptance_datetime": "2019-01-07T13:36:33.000Z",
+    "report_date": "2019-01-07",
+    "accession": "0001193125-19-003247",
+    "primary_document": "d651146d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-19-003247"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-02-05",
+    "acceptance_datetime": "2019-02-05T21:35:32.000Z",
+    "report_date": "2019-02-02",
+    "accession": "0001193125-19-028339",
+    "primary_document": "d671362d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001193125-19-028339"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2019-02-08",
+    "acceptance_datetime": "2019-02-08T21:05:33.000Z",
+    "report_date": "2019-02-07",
+    "accession": "0001193125-19-032236",
+    "primary_document": "d699071d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.03,9.01; accession=0001193125-19-032236"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-22",
+    "acceptance_datetime": "2019-02-22T13:40:32.000Z",
+    "report_date": "2019-02-22",
+    "accession": "0001193125-19-047774",
+    "primary_document": "d711590d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-047774"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-02-26",
+    "acceptance_datetime": "2019-02-26T21:10:32.000Z",
+    "report_date": "2019-02-26",
+    "accession": "0001193125-19-051944",
+    "primary_document": "d712457d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-19-051944"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-03-11",
+    "acceptance_datetime": "2019-03-11T12:39:02.000Z",
+    "report_date": "2019-03-11",
+    "accession": "0001193125-19-070125",
+    "primary_document": "d671098d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-19-070125"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-04-01",
+    "acceptance_datetime": "2019-04-01T12:35:33.000Z",
+    "report_date": "2019-04-01",
+    "accession": "0001193125-19-093695",
+    "primary_document": "d657748d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-19-093695"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-05-01",
+    "acceptance_datetime": "2019-05-01T12:06:55.000Z",
+    "report_date": "2019-05-01",
+    "accession": "0001193125-19-130962",
+    "primary_document": "d739627d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-19-130962"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-09",
+    "acceptance_datetime": "2019-05-09T12:35:32.000Z",
+    "report_date": "2019-05-09",
+    "accession": "0001193125-19-142329",
+    "primary_document": "d739275d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-142329"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-05-14",
+    "acceptance_datetime": "2019-05-14T12:35:32.000Z",
+    "report_date": "2019-05-14",
+    "accession": "0001193125-19-146046",
+    "primary_document": "d718016d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-19-146046"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-05-21",
+    "acceptance_datetime": "2019-05-21T13:15:32.000Z",
+    "report_date": "2019-05-21",
+    "accession": "0001193125-19-152334",
+    "primary_document": "d752659d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-19-152334"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2019-06-19",
+    "acceptance_datetime": "2019-06-19T20:05:32.000Z",
+    "report_date": "2019-06-18",
+    "accession": "0001193125-19-176468",
+    "primary_document": "d765292d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0001193125-19-176468"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,8.01",
+    "filing_date": "2019-07-17",
+    "acceptance_datetime": "2019-07-17T12:30:33.000Z",
+    "report_date": "2019-07-15",
+    "accession": "0001193125-19-195218",
+    "primary_document": "d763796d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,8.01; accession=0001193125-19-195218"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-08-05",
+    "acceptance_datetime": "2019-08-05T12:40:38.000Z",
+    "report_date": "2019-08-05",
+    "accession": "0001564590-19-028536",
+    "primary_document": "hrtx-8k_20190805.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-19-028536"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-08-20",
+    "acceptance_datetime": "2019-08-20T12:35:56.000Z",
+    "report_date": "2019-08-20",
+    "accession": "0001564590-19-032608",
+    "primary_document": "hrtx-8k_20190820.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001564590-19-032608"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-10-01",
+    "acceptance_datetime": "2019-10-01T12:42:22.000Z",
+    "report_date": "2019-10-01",
+    "accession": "0001564590-19-036000",
+    "primary_document": "hrtx-8k_20191001.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-19-036000"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2019-10-01",
+    "acceptance_datetime": "2019-10-01T20:16:04.000Z",
+    "report_date": "2019-10-01",
+    "accession": "0001564590-19-036090",
+    "primary_document": "hrtx-8k_20191001.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0001564590-19-036090"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2019-10-01",
+    "acceptance_datetime": "2019-10-01T20:25:41.000Z",
+    "report_date": "2019-10-01",
+    "accession": "0001564590-19-036093",
+    "primary_document": "hrtx-8k_20191001.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0001564590-19-036093"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2019-10-02",
+    "acceptance_datetime": "2019-10-02T11:57:49.000Z",
+    "report_date": "2019-10-02",
+    "accession": "0001564590-19-036139",
+    "primary_document": "hrtx-8k_20191002.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001564590-19-036139"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2019-10-08",
+    "acceptance_datetime": "2019-10-08T20:01:44.000Z",
+    "report_date": "2019-10-03",
+    "accession": "0001193125-19-264451",
+    "primary_document": "d828061d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-19-264451"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-10-22",
+    "acceptance_datetime": "2019-10-22T12:42:08.000Z",
+    "report_date": "2019-10-22",
+    "accession": "0001564590-19-037287",
+    "primary_document": "hrtx-8k_20191022.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-19-037287"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-10-28",
+    "acceptance_datetime": "2019-10-28T12:41:10.000Z",
+    "report_date": "2019-10-28",
+    "accession": "0001564590-19-038027",
+    "primary_document": "hrtx-8k_20191028.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-19-038027"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-11-12",
+    "acceptance_datetime": "2019-11-12T13:40:55.000Z",
+    "report_date": "2019-11-12",
+    "accession": "0001564590-19-042630",
+    "primary_document": "hrtx-8k_20191112.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-19-042630"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-12-03",
+    "acceptance_datetime": "2019-12-03T12:41:12.000Z",
+    "report_date": "2019-12-03",
+    "accession": "0001564590-19-045076",
+    "primary_document": "hrtx-8k_20191203.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-19-045076"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-12-16",
+    "acceptance_datetime": "2019-12-16T21:15:50.000Z",
+    "report_date": "2019-12-16",
+    "accession": "0001564590-19-046060",
+    "primary_document": "hrtx-8k_20191216.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001564590-19-046060"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2019-12-20",
+    "acceptance_datetime": "2019-12-20T21:06:34.000Z",
+    "report_date": "2019-12-19",
+    "accession": "0001564590-19-046547",
+    "primary_document": "hrtx-8k_20191219.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001564590-19-046547"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2020-01-13",
+    "acceptance_datetime": "2020-01-13T13:41:21.000Z",
+    "report_date": "2020-01-13",
+    "accession": "0001564590-20-000917",
+    "primary_document": "hrtx-8k_20200113.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001564590-20-000917"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-02-19",
+    "acceptance_datetime": "2020-02-19T21:37:23.000Z",
+    "report_date": "2020-02-18",
+    "accession": "0001564590-20-005303",
+    "primary_document": "hrtx-8k_20200218.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-20-005303"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-03-02",
+    "acceptance_datetime": "2020-03-02T12:44:03.000Z",
+    "report_date": "2020-03-02",
+    "accession": "0001564590-20-007971",
+    "primary_document": "hrtx-8k_20200302.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-20-007971"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-05-06",
+    "acceptance_datetime": "2020-05-06T13:10:46.000Z",
+    "report_date": "2020-05-06",
+    "accession": "0001564590-20-021571",
+    "primary_document": "hrtx-8k_20200506.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-20-021571"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-05-18",
+    "acceptance_datetime": "2020-05-18T13:11:53.000Z",
+    "report_date": "2020-05-18",
+    "accession": "0001564590-20-025913",
+    "primary_document": "hrtx-8k_20200518.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-20-025913"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-06-04",
+    "acceptance_datetime": "2020-06-04T13:14:21.000Z",
+    "report_date": "2020-06-04",
+    "accession": "0001564590-20-028307",
+    "primary_document": "hrtx-8k_20200604.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001564590-20-028307"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2020-06-18",
+    "acceptance_datetime": "2020-06-18T20:06:09.000Z",
+    "report_date": "2020-06-17",
+    "accession": "0001564590-20-029788",
+    "primary_document": "hrtx-8k_20200617.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0001564590-20-029788"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-06-29",
+    "acceptance_datetime": "2020-06-29T20:06:13.000Z",
+    "report_date": "2020-06-29",
+    "accession": "0001564590-20-031058",
+    "primary_document": "hrtx-8k_20200629.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-20-031058"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-07-16",
+    "acceptance_datetime": "2020-07-16T12:40:15.000Z",
+    "report_date": "2020-07-16",
+    "accession": "0001564590-20-032445",
+    "primary_document": "hrtx-8k_20200716.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-20-032445"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-07-24",
+    "acceptance_datetime": "2020-07-24T12:40:28.000Z",
+    "report_date": "2020-07-24",
+    "accession": "0001564590-20-033338",
+    "primary_document": "hrtx-8k_20200724.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-20-033338"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-08-05",
+    "acceptance_datetime": "2020-08-05T20:10:25.000Z",
+    "report_date": "2020-08-05",
+    "accession": "0001564590-20-036807",
+    "primary_document": "hrtx-8k_20200805.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-20-036807"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-08-05",
+    "acceptance_datetime": "2020-08-05T20:25:32.000Z",
+    "report_date": "2020-08-04",
+    "accession": "0001564590-20-036849",
+    "primary_document": "hrtx-8k_20200804.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001564590-20-036849"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-09-08",
+    "acceptance_datetime": "2020-09-08T12:41:30.000Z",
+    "report_date": "2020-09-08",
+    "accession": "0001564590-20-042727",
+    "primary_document": "hrtx-8k_20200908.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-20-042727"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-09-16",
+    "acceptance_datetime": "2020-09-16T12:40:26.000Z",
+    "report_date": "2020-09-16",
+    "accession": "0001564590-20-043657",
+    "primary_document": "hrtx-8k_20200916.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001564590-20-043657"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-09-28",
+    "acceptance_datetime": "2020-09-28T12:41:33.000Z",
+    "report_date": "2020-09-28",
+    "accession": "0001564590-20-044749",
+    "primary_document": "hrtx-8k_20200928.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-20-044749"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-10-13",
+    "acceptance_datetime": "2020-10-13T12:30:20.000Z",
+    "report_date": "2020-10-13",
+    "accession": "0001564590-20-046256",
+    "primary_document": "hrtx-8k_20201013.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001564590-20-046256"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-11-05",
+    "acceptance_datetime": "2020-11-05T13:40:36.000Z",
+    "report_date": "2020-11-05",
+    "accession": "0001564590-20-050909",
+    "primary_document": "hrtx-8k_20201105.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-20-050909"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-11-13",
+    "acceptance_datetime": "2020-11-13T13:40:21.000Z",
+    "report_date": "2020-11-13",
+    "accession": "0001564590-20-053742",
+    "primary_document": "hrtx-8k_20201113.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-20-053742"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2021-01-11",
+    "acceptance_datetime": "2021-01-11T13:40:22.000Z",
+    "report_date": "2021-01-11",
+    "accession": "0001564590-21-000771",
+    "primary_document": "hrtx-8k_20210111.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001564590-21-000771"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-01-21",
+    "acceptance_datetime": "2021-01-21T13:40:24.000Z",
+    "report_date": "2021-01-21",
+    "accession": "0001564590-21-001687",
+    "primary_document": "hrtx-8k_20210121.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001564590-21-001687"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-24",
+    "acceptance_datetime": "2021-02-24T13:40:46.000Z",
+    "report_date": "2021-02-24",
+    "accession": "0001564590-21-007839",
+    "primary_document": "hrtx-8k_20210224.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-21-007839"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-05-10",
+    "acceptance_datetime": "2021-05-10T12:40:22.000Z",
+    "report_date": "2021-05-10",
+    "accession": "0001564590-21-025793",
+    "primary_document": "hrtx-8k_20210510.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-21-025793"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-05-13",
+    "acceptance_datetime": "2021-05-13T12:25:43.000Z",
+    "report_date": "2021-05-13",
+    "accession": "0001564590-21-027241",
+    "primary_document": "hrtx-8k_20210513.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-21-027241"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,9.01",
+    "filing_date": "2021-05-25",
+    "acceptance_datetime": "2021-05-25T13:04:42.000Z",
+    "report_date": "2021-05-24",
+    "accession": "0001564590-21-029621",
+    "primary_document": "hrtx-8k_20210524.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,2.03,3.02,9.01; accession=0001564590-21-029621"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2021-06-17",
+    "acceptance_datetime": "2021-06-17T20:05:43.000Z",
+    "report_date": "2021-06-17",
+    "accession": "0001564590-21-033349",
+    "primary_document": "hrtx-8k_20210617.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0001564590-21-033349"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01,9.01",
+    "filing_date": "2021-08-02",
+    "acceptance_datetime": "2021-08-02T20:31:00.000Z",
+    "report_date": "2021-08-02",
+    "accession": "0001564590-21-039796",
+    "primary_document": "hrtx-8k_20210802.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=4.01,9.01; accession=0001564590-21-039796"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-08-09",
+    "acceptance_datetime": "2021-08-09T12:10:38.000Z",
+    "report_date": "2021-08-09",
+    "accession": "0001564590-21-042359",
+    "primary_document": "hrtx-8k_20210809.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-21-042359"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-09-24",
+    "acceptance_datetime": "2021-09-24T12:30:14.000Z",
+    "report_date": "2021-09-20",
+    "accession": "0001564590-21-048772",
+    "primary_document": "hrtx-8k_20210920.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001564590-21-048772"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-10-04",
+    "acceptance_datetime": "2021-10-04T12:40:21.000Z",
+    "report_date": "2021-10-04",
+    "accession": "0001564590-21-049889",
+    "primary_document": "hrtx-8k_20211004.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-21-049889"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-03",
+    "acceptance_datetime": "2021-11-03T20:05:47.000Z",
+    "report_date": "2021-11-03",
+    "accession": "0001564590-21-053940",
+    "primary_document": "hrtx-8k_20211103.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-21-053940"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-11-18",
+    "acceptance_datetime": "2021-11-18T12:40:15.000Z",
+    "report_date": "2021-11-18",
+    "accession": "0001564590-21-057541",
+    "primary_document": "hrtx-8k_20211118.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-21-057541"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-12-09",
+    "acceptance_datetime": "2021-12-09T13:05:15.000Z",
+    "report_date": "2021-12-09",
+    "accession": "0001564590-21-059819",
+    "primary_document": "hrtx-8k_20211209.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-21-059819"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-02-28",
+    "acceptance_datetime": "2022-02-28T21:05:55.000Z",
+    "report_date": "2022-02-28",
+    "accession": "0001564590-22-007608",
+    "primary_document": "hrtx-8k_20220228.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-22-007608"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-03-17",
+    "acceptance_datetime": "2022-03-17T12:45:16.000Z",
+    "report_date": "2022-03-17",
+    "accession": "0001564590-22-010729",
+    "primary_document": "hrtx-8k_20220317.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-22-010729"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-03-25",
+    "acceptance_datetime": "2022-03-25T12:40:27.000Z",
+    "report_date": "2022-03-25",
+    "accession": "0001564590-22-011751",
+    "primary_document": "hrtx-8k_20220325.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001564590-22-011751"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-05-09",
+    "acceptance_datetime": "2022-05-09T20:10:26.000Z",
+    "report_date": "2022-05-09",
+    "accession": "0001564590-22-018871",
+    "primary_document": "hrtx-8k_20220509.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-22-018871"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2022-05-25",
+    "acceptance_datetime": "2022-05-25T20:31:03.000Z",
+    "report_date": "2022-05-24",
+    "accession": "0001564590-22-021277",
+    "primary_document": "hrtx-8k_20220524.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0001564590-22-021277"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-06-14",
+    "acceptance_datetime": "2022-06-14T12:40:15.000Z",
+    "report_date": "2022-06-14",
+    "accession": "0001564590-22-023137",
+    "primary_document": "hrtx-8k_20220614.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001564590-22-023137"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05,9.01",
+    "filing_date": "2022-06-30",
+    "acceptance_datetime": "2022-06-30T12:40:16.000Z",
+    "report_date": "2022-06-27",
+    "accession": "0001564590-22-024885",
+    "primary_document": "hrtx-8k_20220627.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.05,9.01; accession=0001564590-22-024885"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-08-09",
+    "acceptance_datetime": "2022-08-09T12:20:40.000Z",
+    "report_date": "2022-08-09",
+    "accession": "0001564590-22-028597",
+    "primary_document": "hrtx-8k_20220809.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-22-028597"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2022-08-10",
+    "acceptance_datetime": "2022-08-10T20:46:33.000Z",
+    "report_date": "2022-08-08",
+    "accession": "0001193125-22-217430",
+    "primary_document": "d281159d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0001193125-22-217430"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-09-19",
+    "acceptance_datetime": "2022-09-19T12:00:54.000Z",
+    "report_date": "2022-09-16",
+    "accession": "0001564590-22-031836",
+    "primary_document": "hrtx-8k_20220916.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001564590-22-031836"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-11-08",
+    "acceptance_datetime": "2022-11-08T21:10:37.000Z",
+    "report_date": "2022-11-08",
+    "accession": "0001564590-22-037038",
+    "primary_document": "hrtx-8k_20221108.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001564590-22-037038"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-12-29",
+    "acceptance_datetime": "2022-12-29T14:10:31.000Z",
+    "report_date": "2022-12-29",
+    "accession": "0000950170-22-027082",
+    "primary_document": "hrtx-20221229.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950170-22-027082"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2023-01-09",
+    "acceptance_datetime": "2023-01-09T13:40:48.000Z",
+    "report_date": "2023-01-09",
+    "accession": "0000950170-23-000458",
+    "primary_document": "hrtx-20230109.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-23-000458"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,7.01,9.01",
+    "filing_date": "2023-02-22",
+    "acceptance_datetime": "2023-02-22T14:05:34.000Z",
+    "report_date": "2023-02-21",
+    "accession": "0001193125-23-044236",
+    "primary_document": "d457589d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,5.02,7.01,9.01; accession=0001193125-23-044236"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-03-06",
+    "acceptance_datetime": "2023-03-06T14:11:09.000Z",
+    "report_date": "2023-03-06",
+    "accession": "0000950170-23-006139",
+    "primary_document": "hrtx-20230306.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950170-23-006139"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-03-13",
+    "acceptance_datetime": "2023-03-13T13:11:45.000Z",
+    "report_date": "2023-03-13",
+    "accession": "0000950170-23-007473",
+    "primary_document": "hrtx-20230313.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950170-23-007473"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-03-23",
+    "acceptance_datetime": "2023-03-23T20:10:49.000Z",
+    "report_date": "2023-03-23",
+    "accession": "0000950170-23-009489",
+    "primary_document": "hrtx-20230323.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-23-009489"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2023-04-03",
+    "acceptance_datetime": "2023-04-03T13:10:48.000Z",
+    "report_date": "2023-03-30",
+    "accession": "0000950170-23-011487",
+    "primary_document": "hrtx-20230330.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950170-23-011487"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2023-04-20",
+    "acceptance_datetime": "2023-04-20T13:10:39.000Z",
+    "report_date": "2023-04-18",
+    "accession": "0000950170-23-013583",
+    "primary_document": "hrtx-20230418.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950170-23-013583"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-11",
+    "acceptance_datetime": "2023-05-11T20:06:11.000Z",
+    "report_date": "2023-05-11",
+    "accession": "0000950170-23-021213",
+    "primary_document": "hrtx-20230511.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-23-021213"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,5.07,9.01",
+    "filing_date": "2023-06-12",
+    "acceptance_datetime": "2023-06-12T13:10:34.000Z",
+    "report_date": "2023-06-06",
+    "accession": "0000950170-23-027374",
+    "primary_document": "hrtx-20230606.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,5.03,5.07,9.01; accession=0000950170-23-027374"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2023-06-23",
+    "acceptance_datetime": "2023-06-23T20:19:08.000Z",
+    "report_date": "2023-06-16",
+    "accession": "0000950170-23-029646",
+    "primary_document": "hrtx-20230616.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950170-23-029646"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,5.02,7.01,9.01",
+    "filing_date": "2023-07-24",
+    "acceptance_datetime": "2023-07-24T13:12:58.000Z",
+    "report_date": "2023-07-21",
+    "accession": "0001193125-23-191942",
+    "primary_document": "d527822d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,3.02,5.02,7.01,9.01; accession=0001193125-23-191942"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-08-14",
+    "acceptance_datetime": "2023-08-14T20:11:12.000Z",
+    "report_date": "2023-08-14",
+    "accession": "0000950170-23-042414",
+    "primary_document": "hrtx-20230814.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-23-042414"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-11-14",
+    "acceptance_datetime": "2023-11-14T21:10:11.000Z",
+    "report_date": "2023-11-14",
+    "accession": "0000950170-23-063702",
+    "primary_document": "hrtx-20231114.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-23-063702"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-12-21",
+    "acceptance_datetime": "2023-12-21T22:25:54.000Z",
+    "report_date": "2023-12-20",
+    "accession": "0001193125-23-301337",
+    "primary_document": "d96206d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001193125-23-301337"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2023-12-22",
+    "acceptance_datetime": "2023-12-22T21:30:04.000Z",
+    "report_date": "2023-12-18",
+    "accession": "0001193125-23-302150",
+    "primary_document": "d668785d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01; accession=0001193125-23-302150"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2024-01-11",
+    "acceptance_datetime": "2024-01-11T21:07:01.000Z",
+    "report_date": "2024-01-05",
+    "accession": "0001193125-24-006600",
+    "primary_document": "d636605d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-24-006600"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-01-24",
+    "acceptance_datetime": "2024-01-24T13:01:00.000Z",
+    "report_date": "2024-01-23",
+    "accession": "0001193125-24-013587",
+    "primary_document": "d626508d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-013587"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-03-12",
+    "acceptance_datetime": "2024-03-12T20:10:09.000Z",
+    "report_date": "2024-03-12",
+    "accession": "0000950170-24-029926",
+    "primary_document": "hrtx-20240312.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-24-029926"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2024-03-21",
+    "acceptance_datetime": "2024-03-21T20:32:01.000Z",
+    "report_date": "2024-03-18",
+    "accession": "0001193125-24-073897",
+    "primary_document": "d801406d8k.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02; accession=0001193125-24-073897"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-05-07",
+    "acceptance_datetime": "2024-05-07T12:05:13.000Z",
+    "report_date": "2024-05-07",
+    "accession": "0000950170-24-053963",
+    "primary_document": "hrtx-20240507.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-24-053963"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-05-29",
+    "acceptance_datetime": "2024-05-29T12:05:11.000Z",
+    "report_date": "2024-05-29",
+    "accession": "0000950170-24-065636",
+    "primary_document": "hrtx-20240529.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950170-24-065636"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,5.07,9.01",
+    "filing_date": "2024-06-18",
+    "acceptance_datetime": "2024-06-18T20:43:16.000Z",
+    "report_date": "2024-06-13",
+    "accession": "0000950170-24-074952",
+    "primary_document": "hrtx-20240613.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,5.03,5.07,9.01; accession=0000950170-24-074952"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-07-02",
+    "acceptance_datetime": "2024-07-02T12:44:34.000Z",
+    "report_date": "2024-07-02",
+    "accession": "0000950170-24-080026",
+    "primary_document": "hrtx-20240702.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950170-24-080026"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-08-06",
+    "acceptance_datetime": "2024-08-06T20:05:13.000Z",
+    "report_date": "2024-08-06",
+    "accession": "0000950170-24-091769",
+    "primary_document": "hrtx-20240806.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-24-091769"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01",
+    "filing_date": "2024-11-04",
+    "acceptance_datetime": "2024-11-04T22:09:40.000Z",
+    "report_date": "2024-11-04",
+    "accession": "0000950170-24-120902",
+    "primary_document": "hrtx-20241104.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,7.01; accession=0000950170-24-120902"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-11-12",
+    "acceptance_datetime": "2024-11-12T13:06:35.000Z",
+    "report_date": "2024-11-12",
+    "accession": "0000950170-24-124626",
+    "primary_document": "hrtx-20241112.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-24-124626"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-12-03",
+    "acceptance_datetime": "2024-12-03T22:15:07.000Z",
+    "report_date": "2024-12-03",
+    "accession": "0000950170-24-132874",
+    "primary_document": "hrtx-20241203.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01; accession=0000950170-24-132874"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-12-23",
+    "acceptance_datetime": "2024-12-23T21:05:08.000Z",
+    "report_date": "2024-12-23",
+    "accession": "0000950170-24-139569",
+    "primary_document": "hrtx-20241223.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950170-24-139569"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2025-02-20",
+    "acceptance_datetime": "2025-02-20T18:51:19.000Z",
+    "report_date": "2025-02-13",
+    "accession": "0000950170-25-023958",
+    "primary_document": "hrtx-20250213.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950170-25-023958"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-02-27",
+    "acceptance_datetime": "2025-02-27T12:45:09.000Z",
+    "report_date": "2025-02-27",
+    "accession": "0000950170-25-028372",
+    "primary_document": "hrtx-20250227.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-25-028372"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2025-04-29",
+    "acceptance_datetime": "2025-04-28T22:56:16.000Z",
+    "report_date": "2025-04-28",
+    "accession": "0000950170-25-059479",
+    "primary_document": "hrtx-20250428.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950170-25-059479"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-05-06",
+    "acceptance_datetime": "2025-05-06T11:30:08.000Z",
+    "report_date": "2025-05-06",
+    "accession": "0000950170-25-063967",
+    "primary_document": "hrtx-20250506.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950170-25-063967"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-05-06",
+    "acceptance_datetime": "2025-05-06T11:45:11.000Z",
+    "report_date": "2025-05-06",
+    "accession": "0000950170-25-063973",
+    "primary_document": "hrtx-20250506.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950170-25-063973"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2025-06-18",
+    "acceptance_datetime": "2025-06-17T22:17:55.000Z",
+    "report_date": "2025-06-12",
+    "accession": "0000950170-25-087555",
+    "primary_document": "hrtx-20250612.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0000950170-25-087555"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,2.03,3.02,8.01,9.01",
+    "filing_date": "2025-08-08",
+    "acceptance_datetime": "2025-08-08T11:45:30.000Z",
+    "report_date": "2025-08-08",
+    "accession": "0000950170-25-105474",
+    "primary_document": "hrtx-20250808.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,2.02,2.03,3.02,8.01,9.01; accession=0000950170-25-105474"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2025-08-12",
+    "acceptance_datetime": "2025-08-12T20:35:32.000Z",
+    "report_date": "2025-08-06",
+    "accession": "0000950170-25-107404",
+    "primary_document": "hrtx-20250806.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01; accession=0000950170-25-107404"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.03,8.01,9.01",
+    "filing_date": "2025-08-12",
+    "acceptance_datetime": "2025-08-12T20:45:30.000Z",
+    "report_date": "2025-08-08",
+    "accession": "0000950170-25-107416",
+    "primary_document": "hrtx-20250808.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,5.03,8.01,9.01; accession=0000950170-25-107416"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,5.03,8.01,9.01",
+    "filing_date": "2025-08-15",
+    "acceptance_datetime": "2025-08-15T11:45:32.000Z",
+    "report_date": "2025-08-13",
+    "accession": "0000950170-25-109234",
+    "primary_document": "hrtx-20250813.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,3.03,5.03,8.01,9.01; accession=0000950170-25-109234"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2025-08-28",
+    "acceptance_datetime": "2025-08-28T21:02:14.000Z",
+    "report_date": "2025-08-22",
+    "accession": "0000950170-25-112048",
+    "primary_document": "hrtx-20250822.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950170-25-112048"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2025-10-15",
+    "acceptance_datetime": "2025-10-15T20:09:10.000Z",
+    "report_date": "2025-10-15",
+    "accession": "0001193125-25-240253",
+    "primary_document": "hrtx-20251015.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07,9.01; accession=0001193125-25-240253"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2025-10-29",
+    "acceptance_datetime": "2025-10-29T20:05:33.000Z",
+    "report_date": "2025-10-27",
+    "accession": "0001193125-25-256300",
+    "primary_document": "hrtx-20251027.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-25-256300"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-11-04",
+    "acceptance_datetime": "2025-11-04T13:00:28.000Z",
+    "report_date": "2025-11-04",
+    "accession": "0001193125-25-263617",
+    "primary_document": "hrtx-20251104.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-25-263617"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2026-01-09",
+    "acceptance_datetime": "2026-01-09T18:08:24.000Z",
+    "report_date": "2026-01-09",
+    "accession": "0001193125-26-008631",
+    "primary_document": "hrtx-20260109.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-26-008631"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-02-26",
+    "acceptance_datetime": "2026-02-26T13:00:26.000Z",
+    "report_date": "2026-02-26",
+    "accession": "0001193125-26-073502",
+    "primary_document": "hrtx-20260226.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-26-073502"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2026-04-06",
+    "acceptance_datetime": "2026-04-06T12:30:11.000Z",
+    "report_date": "2026-04-03",
+    "accession": "0001193125-26-142947",
+    "primary_document": "hrtx-20260403.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-26-142947"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-05-11",
+    "acceptance_datetime": "2026-05-11T12:00:16.000Z",
+    "report_date": "2026-05-11",
+    "accession": "0001193125-26-215752",
+    "primary_document": "hrtx-20260511.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-26-215752"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2026-06-02",
+    "acceptance_datetime": "2026-06-02T21:15:12.000Z",
+    "report_date": "2026-06-02",
+    "accession": "0001193125-26-253851",
+    "primary_document": "hrtx-20260602.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-26-253851"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2026-06-16",
+    "acceptance_datetime": "2026-06-16T18:49:30.000Z",
+    "report_date": "2026-06-11",
+    "accession": "0001193125-26-272388",
+    "primary_document": "hrtx-20260611.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=5.07; accession=0001193125-26-272388"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2026-06-25",
+    "acceptance_datetime": "2026-06-25T21:00:14.000Z",
+    "report_date": "2026-06-25",
+    "accession": "0001193125-26-282988",
+    "primary_document": "hrtx-20260625.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=3.01,9.01; accession=0001193125-26-282988"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-08-10",
+    "acceptance_datetime": "2026-08-10T12:00:16.000Z",
+    "report_date": "2026-08-10",
+    "accession": "0001193125-26-341300",
+    "primary_document": "hrtx-20260810.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-26-341300"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,9.01",
+    "filing_date": "2026-08-14",
+    "acceptance_datetime": "2026-08-14T20:30:17.000Z",
+    "report_date": "2026-08-13",
+    "accession": "0001193125-26-352403",
+    "primary_document": "hrtx-20260813.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,3.03,9.01; accession=0001193125-26-352403"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2026-09-29",
+    "acceptance_datetime": "2026-09-29T21:00:13.000Z",
+    "report_date": "2026-09-23",
+    "accession": "0001193125-26-407728",
+    "primary_document": "hrtx-20260923.htm",
+    "cik": "0000818033",
+    "issuer_name": "HERON THERAPEUTICS, INC. /DE/",
+    "tickers": [
+      "HRTX"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000818033.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-26-407728"
+  }
+]

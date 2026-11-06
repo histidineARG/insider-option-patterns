@@ -1,0 +1,140 @@
+{
+  "windows": [
+    {
+      "start": "2013-01-02",
+      "end": "2014-12-31"
+    },
+    {
+      "start": "2015-01-02",
+      "end": "2015-12-31"
+    },
+    {
+      "start": "2016-01-04",
+      "end": "2016-12-30"
+    }
+  ],
+  "n_jumps": 6609,
+  "news_filter_counts": {
+    "drop_sub_5": 3604,
+    "drop_earnings": 723,
+    "pending_news_review": 2160,
+    "keep": 31,
+    "drop_etf": 65,
+    "drop_no_option": 19,
+    "drop_other_not_234": 7
+  },
+  "cause_class_counts": {
+    "sub_5": 3604,
+    "1_earnings": 723,
+    "unclassified": 2160,
+    "2_ma_rumor_or_news": 6,
+    "etf": 65,
+    "no_option": 19,
+    "3_biotech_trial": 24,
+    "unclassified_other": 7,
+    "4_tech_breakthrough": 1
+  },
+  "n_queue_ge50": 5,
+  "n_first_batch": 0,
+  "manifests": [
+    {
+      "start": "2013-01-02",
+      "end": "2014-12-31",
+      "n_jumps": 2744,
+      "n_with_cik": 1194,
+      "cause_class_counts": {
+        "sub_5": 1398,
+        "1_earnings": 288,
+        "unclassified": 996,
+        "2_ma_rumor_or_news": 3,
+        "etf": 28,
+        "no_option": 19,
+        "3_biotech_trial": 10,
+        "unclassified_other": 2
+      },
+      "news_filter_counts": {
+        "drop_sub_5": 1398,
+        "drop_earnings": 288,
+        "pending_news_review": 996,
+        "keep": 13,
+        "drop_etf": 28,
+        "drop_no_option": 19,
+        "drop_other_not_234": 2
+      },
+      "policy": "keep 2,3,4; drop 1 (earnings via EDGAR 8-K Item 2.02); hard-drop sub_$5, ETF/ETN denylist, no_option",
+      "notes": [
+        "Jumps are NYSE-calendar consecutive close-to-close with volume \u22652\u00d7 prior session.",
+        "drop_earnings requires a mapped CIK and an Item 2.02 acceptance whose reaction session equals qdate.",
+        "drop_sub_5 uses prev_close < $5; drop_etf uses data/event_review_overrides.json etf_etn_denylist.",
+        "drop_no_option requires absence from both optiondaily and optiondaily3 on qdate.",
+        "Manual reviews in data/price_jump_news_reviews.json overlay pending rows; earnings still wins.",
+        "Unclassified pending rows still need news review for classes 2/3/4."
+      ]
+    },
+    {
+      "start": "2015-01-02",
+      "end": "2015-12-31",
+      "n_jumps": 1719,
+      "n_with_cik": 777,
+      "cause_class_counts": {
+        "unclassified": 541,
+        "sub_5": 940,
+        "1_earnings": 211,
+        "unclassified_other": 3,
+        "etf": 12,
+        "4_tech_breakthrough": 1,
+        "2_ma_rumor_or_news": 1,
+        "3_biotech_trial": 10
+      },
+      "news_filter_counts": {
+        "pending_news_review": 541,
+        "drop_sub_5": 940,
+        "drop_earnings": 211,
+        "drop_other_not_234": 3,
+        "drop_etf": 12,
+        "keep": 12
+      },
+      "policy": "keep 2,3,4; drop 1 (earnings via EDGAR 8-K Item 2.02); hard-drop sub_$5, ETF/ETN denylist, no_option",
+      "notes": [
+        "Jumps are NYSE-calendar consecutive close-to-close with volume \u22652\u00d7 prior session.",
+        "drop_earnings requires a mapped CIK and an Item 2.02 acceptance whose reaction session equals qdate.",
+        "drop_sub_5 uses prev_close < $5; drop_etf uses data/event_review_overrides.json etf_etn_denylist.",
+        "drop_no_option requires absence from both optiondaily and optiondaily3 on qdate.",
+        "Manual reviews in data/price_jump_news_reviews.json overlay pending rows; earnings still wins.",
+        "Unclassified pending rows still need news review for classes 2/3/4."
+      ]
+    },
+    {
+      "start": "2016-01-04",
+      "end": "2016-12-30",
+      "n_jumps": 2146,
+      "n_with_cik": 1004,
+      "cause_class_counts": {
+        "sub_5": 1266,
+        "unclassified": 623,
+        "1_earnings": 224,
+        "unclassified_other": 2,
+        "etf": 25,
+        "2_ma_rumor_or_news": 2,
+        "3_biotech_trial": 4
+      },
+      "news_filter_counts": {
+        "drop_sub_5": 1266,
+        "pending_news_review": 623,
+        "drop_earnings": 224,
+        "drop_other_not_234": 2,
+        "drop_etf": 25,
+        "keep": 6
+      },
+      "policy": "keep 2,3,4; drop 1 (earnings via EDGAR 8-K Item 2.02); hard-drop sub_$5, ETF/ETN denylist, no_option",
+      "notes": [
+        "Jumps are NYSE-calendar consecutive close-to-close with volume \u22652\u00d7 prior session.",
+        "drop_earnings requires a mapped CIK and an Item 2.02 acceptance whose reaction session equals qdate.",
+        "drop_sub_5 uses prev_close < $5; drop_etf uses data/event_review_overrides.json etf_etn_denylist.",
+        "drop_no_option requires absence from both optiondaily and optiondaily3 on qdate.",
+        "Manual reviews in data/price_jump_news_reviews.json overlay pending rows; earnings still wins.",
+        "Unclassified pending rows still need news review for classes 2/3/4."
+      ]
+    }
+  ]
+}

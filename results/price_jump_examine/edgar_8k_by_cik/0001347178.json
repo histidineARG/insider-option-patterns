@@ -1,0 +1,4914 @@
+[
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-04-21",
+    "acceptance_datetime": "2006-04-21T19:04:07.000Z",
+    "report_date": "2006-04-21",
+    "accession": "0000950135-06-002542",
+    "primary_document": "b60530vpe8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950135-06-002542"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-05-18",
+    "acceptance_datetime": "2006-05-18T14:30:47.000Z",
+    "report_date": "2006-05-18",
+    "accession": "0001275287-06-002894",
+    "primary_document": "vp5930.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001275287-06-002894"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2006-07-07",
+    "acceptance_datetime": "2006-07-06T22:50:45.000Z",
+    "report_date": "2006-07-06",
+    "accession": "0001275287-06-003472",
+    "primary_document": "vp6292.txt",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001275287-06-003472"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2006-07-19",
+    "acceptance_datetime": "2006-07-19T19:11:45.000Z",
+    "report_date": "2006-07-19",
+    "accession": "0000950135-06-004347",
+    "primary_document": "b61666vpe8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950135-06-004347"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-08-03",
+    "acceptance_datetime": "2006-08-03T11:50:15.000Z",
+    "report_date": "2006-08-03",
+    "accession": "0001275287-06-004093",
+    "primary_document": "vp6678.txt",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001275287-06-004093"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-08-30",
+    "acceptance_datetime": "2006-08-30T11:36:44.000Z",
+    "report_date": "2006-08-30",
+    "accession": "0001275287-06-004612",
+    "primary_document": "vp7030.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001275287-06-004612"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2006-09-12",
+    "acceptance_datetime": "2006-09-12T20:55:19.000Z",
+    "report_date": "2006-09-07",
+    "accession": "0001275287-06-004760",
+    "primary_document": "vp7158.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0001275287-06-004760"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-11-02",
+    "acceptance_datetime": "2006-11-02T12:25:41.000Z",
+    "report_date": "2006-11-02",
+    "accession": "0001275287-06-005686",
+    "primary_document": "vp7740.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001275287-06-005686"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2006-11-09",
+    "acceptance_datetime": "2006-11-09T02:07:35.000Z",
+    "report_date": "2006-11-08",
+    "accession": "0000950135-06-006793",
+    "primary_document": "b63028vpe8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0000950135-06-006793"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-11-15",
+    "acceptance_datetime": "2006-11-15T12:15:47.000Z",
+    "report_date": "2006-11-15",
+    "accession": "0001275287-06-006069",
+    "primary_document": "vp7964.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001275287-06-006069"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-12-07",
+    "acceptance_datetime": "2006-12-07T11:01:26.000Z",
+    "report_date": "2006-12-07",
+    "accession": "0001275287-06-006375",
+    "primary_document": "vp8182.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001275287-06-006375"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-01-19",
+    "acceptance_datetime": "2007-01-19T22:04:03.000Z",
+    "report_date": "2006-01-19",
+    "accession": "0000950133-07-000170",
+    "primary_document": "w29211e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950133-07-000170"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-01-22",
+    "acceptance_datetime": "2007-01-22T11:07:15.000Z",
+    "report_date": "2007-01-22",
+    "accession": "0001275287-07-000213",
+    "primary_document": "vp8605.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001275287-07-000213"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-01-31",
+    "acceptance_datetime": "2007-01-31T22:12:41.000Z",
+    "report_date": "2007-01-30",
+    "accession": "0000950135-07-000454",
+    "primary_document": "b63955vpe8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0000950135-07-000454"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-02-07",
+    "acceptance_datetime": "2007-02-07T11:19:55.000Z",
+    "report_date": "2007-02-07",
+    "accession": "0001275287-07-000562",
+    "primary_document": "vp8848.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001275287-07-000562"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-04-25",
+    "acceptance_datetime": "2007-04-25T10:30:28.000Z",
+    "report_date": "2007-04-25",
+    "accession": "0001144204-07-020464",
+    "primary_document": "v072511_8k.txt",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001144204-07-020464"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-05-01",
+    "acceptance_datetime": "2007-05-01T10:31:02.000Z",
+    "report_date": "2007-05-01",
+    "accession": "0001144204-07-021735",
+    "primary_document": "v073243_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001144204-07-021735"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-06-05",
+    "acceptance_datetime": "2007-06-05T21:05:44.000Z",
+    "report_date": "2007-06-05",
+    "accession": "0001144204-07-030404",
+    "primary_document": "v077656_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0001144204-07-030404"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2007-07-27",
+    "acceptance_datetime": "2007-07-27T18:50:09.000Z",
+    "report_date": "2007-07-24",
+    "accession": "0000950135-07-004497",
+    "primary_document": "b66307vpe8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.03,9.01; accession=0000950135-07-004497"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-08-02",
+    "acceptance_datetime": "2007-08-02T10:19:26.000Z",
+    "report_date": "2007-08-02",
+    "accession": "0001144204-07-039749",
+    "primary_document": "v082719_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001144204-07-039749"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-09-27",
+    "acceptance_datetime": "2007-09-27T13:01:07.000Z",
+    "report_date": "2007-09-27",
+    "accession": "0001144204-07-051310",
+    "primary_document": "v088785_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001144204-07-051310"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-10-29",
+    "acceptance_datetime": "2007-10-27T01:19:10.000Z",
+    "report_date": "2007-10-23",
+    "accession": "0000950135-07-006421",
+    "primary_document": "b67314vpe8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950135-07-006421"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-10-31",
+    "acceptance_datetime": "2007-10-30T22:07:08.000Z",
+    "report_date": "2007-10-30",
+    "accession": "0001144204-07-057168",
+    "primary_document": "v091874_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001144204-07-057168"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-10-31",
+    "acceptance_datetime": "2007-10-31T19:58:09.000Z",
+    "report_date": "2007-10-31",
+    "accession": "0001144204-07-057359",
+    "primary_document": "v091996_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001144204-07-057359"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-11-02",
+    "acceptance_datetime": "2007-11-02T11:01:56.000Z",
+    "report_date": "2007-11-02",
+    "accession": "0001144204-07-057742",
+    "primary_document": "v092228_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001144204-07-057742"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-11-08",
+    "acceptance_datetime": "2007-11-08T12:05:00.000Z",
+    "report_date": "2007-11-08",
+    "accession": "0001144204-07-059040",
+    "primary_document": "v092988_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001144204-07-059040"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-12-13",
+    "acceptance_datetime": "2007-12-13T00:28:15.000Z",
+    "report_date": "2007-12-12",
+    "accession": "0001144204-07-067246",
+    "primary_document": "v097120_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001144204-07-067246"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-02-14",
+    "acceptance_datetime": "2008-02-14T12:02:59.000Z",
+    "report_date": "2008-02-14",
+    "accession": "0001144204-08-008833",
+    "primary_document": "v103573_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001144204-08-008833"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-04-01",
+    "acceptance_datetime": "2008-04-01T10:53:41.000Z",
+    "report_date": "2007-04-01",
+    "accession": "0000950133-08-001378",
+    "primary_document": "w53062e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950133-08-001378"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-05-01",
+    "acceptance_datetime": "2008-05-01T11:03:27.000Z",
+    "report_date": "2008-05-01",
+    "accession": "0001144204-08-025339",
+    "primary_document": "v112400_8-k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001144204-08-025339"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-05-07",
+    "acceptance_datetime": "2008-05-06T22:35:10.000Z",
+    "report_date": "2008-05-06",
+    "accession": "0000950133-08-001816",
+    "primary_document": "w57498e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950133-08-001816"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-06-05",
+    "acceptance_datetime": "2008-06-05T11:01:01.000Z",
+    "report_date": "2008-06-05",
+    "accession": "0001144204-08-033737",
+    "primary_document": "v116585_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-033737"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-06-26",
+    "acceptance_datetime": "2008-06-26T10:34:11.000Z",
+    "report_date": "2008-06-26",
+    "accession": "0001144204-08-036752",
+    "primary_document": "v118296_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-036752"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2008-07-28",
+    "acceptance_datetime": "2008-07-28T11:00:48.000Z",
+    "report_date": "2008-07-28",
+    "accession": "0001144204-08-042064",
+    "primary_document": "v120947_8-k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001144204-08-042064"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-08-05",
+    "acceptance_datetime": "2008-08-05T10:32:26.000Z",
+    "report_date": "2008-08-05",
+    "accession": "0001144204-08-043773",
+    "primary_document": "v121887_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001144204-08-043773"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,5.03,8.01,9.01",
+    "filing_date": "2008-09-25",
+    "acceptance_datetime": "2008-09-25T21:23:56.000Z",
+    "report_date": "2008-09-25",
+    "accession": "0000950133-08-003238",
+    "primary_document": "w67418ae8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,3.03,5.03,8.01,9.01; accession=0000950133-08-003238"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-10-30",
+    "acceptance_datetime": "2008-10-30T11:00:41.000Z",
+    "report_date": "2008-10-30",
+    "accession": "0001144204-08-060113",
+    "primary_document": "v130154_8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001144204-08-060113"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-12-01",
+    "acceptance_datetime": "2008-12-01T21:03:50.000Z",
+    "report_date": "2008-12-01",
+    "accession": "0000950133-08-003987",
+    "primary_document": "w71830e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0000950133-08-003987"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05,5.02,5.03,9.01",
+    "filing_date": "2008-12-17",
+    "acceptance_datetime": "2008-12-17T21:55:08.000Z",
+    "report_date": "2008-12-16",
+    "accession": "0000950133-08-004078",
+    "primary_document": "w72005e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.05,5.02,5.03,9.01; accession=0000950133-08-004078"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-02-11",
+    "acceptance_datetime": "2009-02-11T17:13:34.000Z",
+    "report_date": "2009-02-11",
+    "accession": "0000950133-09-000284",
+    "primary_document": "w72698e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950133-09-000284"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-02-23",
+    "acceptance_datetime": "2009-02-23T22:18:59.000Z",
+    "report_date": "2009-02-23",
+    "accession": "0000950133-09-000415",
+    "primary_document": "w72888ae8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950133-09-000415"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-04-29",
+    "acceptance_datetime": "2009-04-29T16:28:25.000Z",
+    "report_date": "2009-04-29",
+    "accession": "0000950133-09-001290",
+    "primary_document": "w73817e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950133-09-001290"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-05-07",
+    "acceptance_datetime": "2009-05-07T00:16:56.000Z",
+    "report_date": "2009-05-06",
+    "accession": "0000950133-09-001470",
+    "primary_document": "w73944e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950133-09-001470"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-05-07",
+    "acceptance_datetime": "2009-05-07T18:53:38.000Z",
+    "report_date": "2009-05-07",
+    "accession": "0000950133-09-001492",
+    "primary_document": "w73965e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950133-09-001492"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-05-18",
+    "acceptance_datetime": "2009-05-18T20:57:53.000Z",
+    "report_date": "2009-05-18",
+    "accession": "0000950133-09-001704",
+    "primary_document": "w74174e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950133-09-001704"
+  },
+  {
+    "form": "8-K/A",
+    "items": "8.01",
+    "filing_date": "2009-05-19",
+    "acceptance_datetime": "2009-05-19T21:23:50.000Z",
+    "report_date": "2009-05-18",
+    "accession": "0000950133-09-001722",
+    "primary_document": "w74198e8vkza.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0000950133-09-001722"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-05-21",
+    "acceptance_datetime": "2009-05-21T00:06:12.000Z",
+    "report_date": "2009-05-20",
+    "accession": "0000950133-09-001734",
+    "primary_document": "w74193e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950133-09-001734"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-05-27",
+    "acceptance_datetime": "2009-05-27T17:33:11.000Z",
+    "report_date": "2009-05-22",
+    "accession": "0000950133-09-001787",
+    "primary_document": "w74277e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0000950133-09-001787"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-05-29",
+    "acceptance_datetime": "2009-05-29T20:58:48.000Z",
+    "report_date": "2009-05-29",
+    "accession": "0000950133-09-001827",
+    "primary_document": "w74322e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950133-09-001827"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-06-09",
+    "acceptance_datetime": "2009-06-09T01:07:45.000Z",
+    "report_date": "2009-06-08",
+    "accession": "0000950123-09-012331",
+    "primary_document": "w74406e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-09-012331"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-08-10",
+    "acceptance_datetime": "2009-08-10T20:11:13.000Z",
+    "report_date": "2009-08-10",
+    "accession": "0000950123-09-032881",
+    "primary_document": "w75273e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-09-032881"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2009-10-14",
+    "acceptance_datetime": "2009-10-14T21:27:48.000Z",
+    "report_date": "2009-10-12",
+    "accession": "0000950123-09-050409",
+    "primary_document": "w75919e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950123-09-050409"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-11-02",
+    "acceptance_datetime": "2009-11-02T21:04:51.000Z",
+    "report_date": "2009-11-02",
+    "accession": "0000950123-09-056228",
+    "primary_document": "w76116e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-09-056228"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-12-01",
+    "acceptance_datetime": "2009-12-01T18:03:57.000Z",
+    "report_date": "2009-12-01",
+    "accession": "0000950123-09-067174",
+    "primary_document": "w76472e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-09-067174"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,5.02,9.01",
+    "filing_date": "2009-12-22",
+    "acceptance_datetime": "2009-12-22T22:07:28.000Z",
+    "report_date": "2009-12-17",
+    "accession": "0000950123-09-072759",
+    "primary_document": "w76711e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,3.03,5.02,9.01; accession=0000950123-09-072759"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2010-01-11",
+    "acceptance_datetime": "2010-01-11T22:14:35.000Z",
+    "report_date": "2010-01-07",
+    "accession": "0000950123-10-001728",
+    "primary_document": "w76883e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0000950123-10-001728"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-02-16",
+    "acceptance_datetime": "2010-02-16T12:54:28.000Z",
+    "report_date": "2010-02-16",
+    "accession": "0000950123-10-012807",
+    "primary_document": "w77351e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-012807"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-03-09",
+    "acceptance_datetime": "2010-03-09T20:31:08.000Z",
+    "report_date": "2010-03-09",
+    "accession": "0000950123-10-022536",
+    "primary_document": "w77636e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950123-10-022536"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2010-03-10",
+    "acceptance_datetime": "2010-03-10T22:15:23.000Z",
+    "report_date": "2010-03-10",
+    "accession": "0000950123-10-023150",
+    "primary_document": "w77667e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-10-023150"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-03-25",
+    "acceptance_datetime": "2010-03-25T20:15:53.000Z",
+    "report_date": "2010-03-24",
+    "accession": "0000950123-10-028248",
+    "primary_document": "w77893e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0000950123-10-028248"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2010-04-19",
+    "acceptance_datetime": "2010-04-19T20:34:22.000Z",
+    "report_date": "2010-04-15",
+    "accession": "0000950123-10-035902",
+    "primary_document": "w78139e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950123-10-035902"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2010-04-20",
+    "acceptance_datetime": "2010-04-20T21:14:47.000Z",
+    "report_date": "2010-04-15",
+    "accession": "0000950123-10-036315",
+    "primary_document": "w78154e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950123-10-036315"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-05-04",
+    "acceptance_datetime": "2010-05-04T12:11:19.000Z",
+    "report_date": "2010-05-04",
+    "accession": "0000950123-10-043173",
+    "primary_document": "w78335e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-043173"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2010-06-07",
+    "acceptance_datetime": "2010-06-07T20:42:40.000Z",
+    "report_date": "2010-06-03",
+    "accession": "0000950123-10-056318",
+    "primary_document": "w78707e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07,9.01; accession=0000950123-10-056318"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2010-07-01",
+    "acceptance_datetime": "2010-07-01T11:59:42.000Z",
+    "report_date": "2010-07-01",
+    "accession": "0000950123-10-062976",
+    "primary_document": "w79027e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950123-10-062976"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-07-09",
+    "acceptance_datetime": "2010-07-09T20:15:38.000Z",
+    "report_date": "2010-07-07",
+    "accession": "0000950123-10-064616",
+    "primary_document": "w79121e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0000950123-10-064616"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-08-05",
+    "acceptance_datetime": "2010-08-05T13:07:13.000Z",
+    "report_date": "2010-08-05",
+    "accession": "0000950123-10-072994",
+    "primary_document": "w79429e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-072994"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-10-07",
+    "acceptance_datetime": "2010-10-07T11:01:41.000Z",
+    "report_date": "2010-10-07",
+    "accession": "0000950123-10-091919",
+    "primary_document": "w80038e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950123-10-091919"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-11-03",
+    "acceptance_datetime": "2010-11-03T11:34:41.000Z",
+    "report_date": "2010-11-03",
+    "accession": "0000950123-10-099793",
+    "primary_document": "w80330e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-099793"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2010-11-12",
+    "acceptance_datetime": "2010-11-12T12:37:52.000Z",
+    "report_date": "2010-11-12",
+    "accession": "0000950123-10-104499",
+    "primary_document": "w80495e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950123-10-104499"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-11-15",
+    "acceptance_datetime": "2010-11-15T14:34:53.000Z",
+    "report_date": "2010-11-15",
+    "accession": "0000950123-10-105345",
+    "primary_document": "w80515e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950123-10-105345"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-12-17",
+    "acceptance_datetime": "2010-12-17T21:43:06.000Z",
+    "report_date": "2010-12-16",
+    "accession": "0000950123-10-114647",
+    "primary_document": "w80930e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0000950123-10-114647"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-02-10",
+    "acceptance_datetime": "2011-02-10T13:42:46.000Z",
+    "report_date": "2011-02-10",
+    "accession": "0000950123-11-011422",
+    "primary_document": "w81563e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-011422"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-05-09",
+    "acceptance_datetime": "2011-05-09T17:58:32.000Z",
+    "report_date": "2011-05-05",
+    "accession": "0000950123-11-047261",
+    "primary_document": "w82733e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-047261"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2011-06-09",
+    "acceptance_datetime": "2011-06-09T12:30:33.000Z",
+    "report_date": "2011-06-09",
+    "accession": "0000950123-11-057709",
+    "primary_document": "w83083e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950123-11-057709"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01",
+    "filing_date": "2011-06-17",
+    "acceptance_datetime": "2011-06-17T20:30:29.000Z",
+    "report_date": "2011-06-16",
+    "accession": "0000950123-11-059876",
+    "primary_document": "w83205e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07,8.01; accession=0000950123-11-059876"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2011-07-27",
+    "acceptance_datetime": "2011-07-27T12:33:07.000Z",
+    "report_date": "2011-07-25",
+    "accession": "0000950123-11-068711",
+    "primary_document": "w83802e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01; accession=0000950123-11-068711"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-08-04",
+    "acceptance_datetime": "2011-08-04T11:01:39.000Z",
+    "report_date": "2011-08-04",
+    "accession": "0000950123-11-072562",
+    "primary_document": "w83900e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-072562"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2011-09-08",
+    "acceptance_datetime": "2011-09-08T20:26:05.000Z",
+    "report_date": "2011-09-08",
+    "accession": "0000950123-11-083429",
+    "primary_document": "w84243e8vk.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950123-11-083429"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-11-04",
+    "acceptance_datetime": "2011-11-04T11:01:34.000Z",
+    "report_date": "2011-11-04",
+    "accession": "0001193125-11-296209",
+    "primary_document": "d251737d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-11-296209"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-12-09",
+    "acceptance_datetime": "2011-12-09T22:05:41.000Z",
+    "report_date": "2011-12-06",
+    "accession": "0001193125-11-336782",
+    "primary_document": "d268218d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-11-336782"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2011-12-27",
+    "acceptance_datetime": "2011-12-27T22:01:25.000Z",
+    "report_date": "2011-12-22",
+    "accession": "0001193125-11-352999",
+    "primary_document": "d273758d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-11-352999"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2011-12-30",
+    "acceptance_datetime": "2011-12-30T12:00:54.000Z",
+    "report_date": "2011-12-27",
+    "accession": "0001193125-11-355962",
+    "primary_document": "d276072d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.02; accession=0001193125-11-355962"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2012-01-20",
+    "acceptance_datetime": "2012-01-20T22:01:33.000Z",
+    "report_date": "2012-01-18",
+    "accession": "0001193125-12-018798",
+    "primary_document": "d286357d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-12-018798"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-01-26",
+    "acceptance_datetime": "2012-01-26T12:00:56.000Z",
+    "report_date": "2012-01-26",
+    "accession": "0001193125-12-024207",
+    "primary_document": "d288350d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-12-024207"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-02-14",
+    "acceptance_datetime": "2012-02-14T12:15:35.000Z",
+    "report_date": "2012-02-14",
+    "accession": "0001193125-12-058296",
+    "primary_document": "d301385d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-058296"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2012-04-16",
+    "acceptance_datetime": "2012-04-16T11:29:37.000Z",
+    "report_date": "2012-04-12",
+    "accession": "0001193125-12-163540",
+    "primary_document": "d335167d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-12-163540"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-05-08",
+    "acceptance_datetime": "2012-05-08T11:05:26.000Z",
+    "report_date": "2012-05-08",
+    "accession": "0001193125-12-216603",
+    "primary_document": "d348710d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-216603"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2012-05-30",
+    "acceptance_datetime": "2012-05-30T21:01:42.000Z",
+    "report_date": "2012-05-24",
+    "accession": "0001193125-12-253648",
+    "primary_document": "d360358d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-12-253648"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2012-06-18",
+    "acceptance_datetime": "2012-06-18T11:11:33.000Z",
+    "report_date": "2012-06-14",
+    "accession": "0001193125-12-273030",
+    "primary_document": "d368468d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001193125-12-273030"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.02",
+    "filing_date": "2012-06-26",
+    "acceptance_datetime": "2012-06-26T11:00:46.000Z",
+    "report_date": "2012-06-14",
+    "accession": "0001193125-12-282980",
+    "primary_document": "d372872d8ka.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-12-282980"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-08-02",
+    "acceptance_datetime": "2012-08-02T11:07:00.000Z",
+    "report_date": "2012-08-02",
+    "accession": "0001193125-12-330235",
+    "primary_document": "d389920d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-330235"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2012-09-17",
+    "acceptance_datetime": "2012-09-14T23:00:45.000Z",
+    "report_date": "2012-09-12",
+    "accession": "0001193125-12-392797",
+    "primary_document": "d412225d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-12-392797"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2012-10-10",
+    "acceptance_datetime": "2012-10-10T21:25:55.000Z",
+    "report_date": "2012-10-08",
+    "accession": "0001193125-12-420049",
+    "primary_document": "d422603d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-12-420049"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-10-15",
+    "acceptance_datetime": "2012-10-15T11:01:03.000Z",
+    "report_date": "2012-10-15",
+    "accession": "0001193125-12-422556",
+    "primary_document": "d424647d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-12-422556"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-11-07",
+    "acceptance_datetime": "2012-11-07T12:00:40.000Z",
+    "report_date": "2012-11-07",
+    "accession": "0001193125-12-455811",
+    "primary_document": "d435734d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-455811"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-12-14",
+    "acceptance_datetime": "2012-12-14T01:52:10.000Z",
+    "report_date": "2012-12-13",
+    "accession": "0001193125-12-502182",
+    "primary_document": "d453016d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-502182"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2012-12-18",
+    "acceptance_datetime": "2012-12-18T12:09:34.000Z",
+    "report_date": "2012-12-18",
+    "accession": "0001193125-12-505668",
+    "primary_document": "d455530d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-12-505668"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2012-12-26",
+    "acceptance_datetime": "2012-12-26T21:30:35.000Z",
+    "report_date": "2012-12-19",
+    "accession": "0001193125-12-514933",
+    "primary_document": "d458768d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-12-514933"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-01-23",
+    "acceptance_datetime": "2013-01-23T11:30:37.000Z",
+    "report_date": "2013-01-23",
+    "accession": "0001193125-13-019945",
+    "primary_document": "d472083d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-019945"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-01-31",
+    "acceptance_datetime": "2013-01-31T12:01:07.000Z",
+    "report_date": "2013-01-31",
+    "accession": "0001193125-13-030984",
+    "primary_document": "d476950d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-030984"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-02-12",
+    "acceptance_datetime": "2013-02-12T12:08:55.000Z",
+    "report_date": "2013-02-12",
+    "accession": "0001193125-13-050131",
+    "primary_document": "d483036d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-050131"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-03-14",
+    "acceptance_datetime": "2013-03-14T20:54:57.000Z",
+    "report_date": "2013-03-14",
+    "accession": "0001193125-13-107600",
+    "primary_document": "d503397d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-107600"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-03-25",
+    "acceptance_datetime": "2013-03-25T11:01:17.000Z",
+    "report_date": "2013-03-25",
+    "accession": "0001193125-13-123182",
+    "primary_document": "d508752d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-123182"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2013-04-29",
+    "acceptance_datetime": "2013-04-29T10:46:27.000Z",
+    "report_date": "2013-04-25",
+    "accession": "0001193125-13-179730",
+    "primary_document": "d527706d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-13-179730"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-05-09",
+    "acceptance_datetime": "2013-05-09T11:02:02.000Z",
+    "report_date": "2013-05-09",
+    "accession": "0001193125-13-209020",
+    "primary_document": "d535045d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-209020"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2013-06-21",
+    "acceptance_datetime": "2013-06-20T23:01:00.000Z",
+    "report_date": "2013-06-20",
+    "accession": "0001193125-13-266148",
+    "primary_document": "d557151d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001193125-13-266148"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-07-30",
+    "acceptance_datetime": "2013-07-30T11:00:36.000Z",
+    "report_date": "2013-07-29",
+    "accession": "0001193125-13-308574",
+    "primary_document": "d574195d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-308574"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-07-31",
+    "acceptance_datetime": "2013-07-31T11:00:34.000Z",
+    "report_date": "2013-07-31",
+    "accession": "0001193125-13-311413",
+    "primary_document": "d576525d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-311413"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-08-06",
+    "acceptance_datetime": "2013-08-06T21:21:32.000Z",
+    "report_date": "2013-08-06",
+    "accession": "0001193125-13-321931",
+    "primary_document": "d579526d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-321931"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2013-08-07",
+    "acceptance_datetime": "2013-08-07T20:08:33.000Z",
+    "report_date": "2013-08-07",
+    "accession": "0001193125-13-324158",
+    "primary_document": "d579778d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-13-324158"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-11-07",
+    "acceptance_datetime": "2013-11-07T12:01:35.000Z",
+    "report_date": "2013-11-07",
+    "accession": "0001193125-13-431396",
+    "primary_document": "d623822d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-431396"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-11-15",
+    "acceptance_datetime": "2013-11-15T12:01:33.000Z",
+    "report_date": "2013-11-14",
+    "accession": "0001193125-13-443014",
+    "primary_document": "d629356d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-443014"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-12-04",
+    "acceptance_datetime": "2013-12-04T12:01:33.000Z",
+    "report_date": "2013-12-02",
+    "accession": "0001193125-13-461301",
+    "primary_document": "d639366d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-13-461301"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-12-05",
+    "acceptance_datetime": "2013-12-05T22:02:05.000Z",
+    "report_date": "2013-12-02",
+    "accession": "0001193125-13-463687",
+    "primary_document": "d641828d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-13-463687"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2014-01-28",
+    "acceptance_datetime": "2014-01-28T12:00:36.000Z",
+    "report_date": "2014-01-24",
+    "accession": "0001193125-14-023128",
+    "primary_document": "d665292d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01; accession=0001193125-14-023128"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-01-31",
+    "acceptance_datetime": "2014-01-31T22:21:08.000Z",
+    "report_date": "2014-01-31",
+    "accession": "0001193125-14-031226",
+    "primary_document": "d668253d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-14-031226"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-02-13",
+    "acceptance_datetime": "2014-02-13T12:04:35.000Z",
+    "report_date": "2014-02-13",
+    "accession": "0001193125-14-049534",
+    "primary_document": "d676812d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-049534"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2014-03-21",
+    "acceptance_datetime": "2014-03-21T11:01:01.000Z",
+    "report_date": "2014-03-18",
+    "accession": "0001193125-14-109143",
+    "primary_document": "d697029d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01; accession=0001193125-14-109143"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-04-10",
+    "acceptance_datetime": "2014-04-10T11:01:00.000Z",
+    "report_date": "2014-04-09",
+    "accession": "0001193125-14-137790",
+    "primary_document": "d708376d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-14-137790"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-05-08",
+    "acceptance_datetime": "2014-05-08T11:06:00.000Z",
+    "report_date": "2014-05-08",
+    "accession": "0001193125-14-188625",
+    "primary_document": "d721978d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-188625"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2014-05-22",
+    "acceptance_datetime": "2014-05-22T20:30:40.000Z",
+    "report_date": "2014-05-22",
+    "accession": "0001193125-14-209862",
+    "primary_document": "d733409d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001193125-14-209862"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-06-03",
+    "acceptance_datetime": "2014-06-03T11:00:33.000Z",
+    "report_date": "2014-06-03",
+    "accession": "0001193125-14-223182",
+    "primary_document": "d737246d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-14-223182"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-06-04",
+    "acceptance_datetime": "2014-06-04T11:00:31.000Z",
+    "report_date": "2014-06-04",
+    "accession": "0001193125-14-224663",
+    "primary_document": "d736532d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-14-224663"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-06-10",
+    "acceptance_datetime": "2014-06-10T15:25:00.000Z",
+    "report_date": "2014-06-10",
+    "accession": "0001193125-14-231480",
+    "primary_document": "d739824d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-14-231480"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-06-16",
+    "acceptance_datetime": "2014-06-16T11:01:33.000Z",
+    "report_date": "2014-06-16",
+    "accession": "0001193125-14-236887",
+    "primary_document": "d741861d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-14-236887"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-07-17",
+    "acceptance_datetime": "2014-07-17T12:22:38.000Z",
+    "report_date": "2014-07-17",
+    "accession": "0001193125-14-271092",
+    "primary_document": "d758627d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-14-271092"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-08-07",
+    "acceptance_datetime": "2014-08-07T11:00:58.000Z",
+    "report_date": "2014-08-07",
+    "accession": "0001193125-14-299388",
+    "primary_document": "d771522d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-299388"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,8.01,9.01",
+    "filing_date": "2014-09-22",
+    "acceptance_datetime": "2014-09-22T11:02:00.000Z",
+    "report_date": "2014-09-18",
+    "accession": "0001193125-14-347653",
+    "primary_document": "d792436d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.03,8.01,9.01; accession=0001193125-14-347653"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-10-27",
+    "acceptance_datetime": "2014-10-27T11:06:54.000Z",
+    "report_date": "2014-10-27",
+    "accession": "0001193125-14-382260",
+    "primary_document": "d810112d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-382260"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-10-28",
+    "acceptance_datetime": "2014-10-28T20:08:37.000Z",
+    "report_date": "2014-10-28",
+    "accession": "0001193125-14-385025",
+    "primary_document": "d810708d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-14-385025"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.03,8.01,9.01",
+    "filing_date": "2014-10-29",
+    "acceptance_datetime": "2014-10-29T13:59:01.000Z",
+    "report_date": "2014-10-29",
+    "accession": "0001193125-14-386374",
+    "primary_document": "d810667d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,5.03,8.01,9.01; accession=0001193125-14-386374"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-11-03",
+    "acceptance_datetime": "2014-11-03T21:29:02.000Z",
+    "report_date": "2014-11-03",
+    "accession": "0001193125-14-394117",
+    "primary_document": "d814980d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-14-394117"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-12-05",
+    "acceptance_datetime": "2014-12-05T21:30:53.000Z",
+    "report_date": "2014-12-04",
+    "accession": "0001193125-14-434909",
+    "primary_document": "d836164d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-14-434909"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,9.01",
+    "filing_date": "2014-12-22",
+    "acceptance_datetime": "2014-12-22T21:06:04.000Z",
+    "report_date": "2014-12-22",
+    "accession": "0001193125-14-450562",
+    "primary_document": "d841064d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,1.02,9.01; accession=0001193125-14-450562"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-12-31",
+    "acceptance_datetime": "2014-12-31T14:15:53.000Z",
+    "report_date": "2014-12-31",
+    "accession": "0001193125-14-457748",
+    "primary_document": "d844419d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-14-457748"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-02-19",
+    "acceptance_datetime": "2015-02-19T12:01:07.000Z",
+    "report_date": "2015-02-19",
+    "accession": "0001193125-15-053401",
+    "primary_document": "d875159d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-053401"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-03-04",
+    "acceptance_datetime": "2015-03-04T22:16:52.000Z",
+    "report_date": "2015-03-04",
+    "accession": "0001193125-15-076997",
+    "primary_document": "d886800d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-15-076997"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-03-20",
+    "acceptance_datetime": "2015-03-20T20:16:33.000Z",
+    "report_date": "2015-03-16",
+    "accession": "0001193125-15-100194",
+    "primary_document": "d892831d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-15-100194"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-04-24",
+    "acceptance_datetime": "2015-04-24T12:30:38.000Z",
+    "report_date": "2015-04-24",
+    "accession": "0001193125-15-145319",
+    "primary_document": "d914021d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-15-145319"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-05-05",
+    "acceptance_datetime": "2015-05-05T21:16:33.000Z",
+    "report_date": "2015-05-05",
+    "accession": "0001193125-15-172370",
+    "primary_document": "d921530d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-15-172370"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-05-06",
+    "acceptance_datetime": "2015-05-06T20:28:00.000Z",
+    "report_date": "2015-05-06",
+    "accession": "0001193125-15-174610",
+    "primary_document": "d922478d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-174610"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-06-18",
+    "acceptance_datetime": "2015-06-18T20:16:29.000Z",
+    "report_date": "2015-06-18",
+    "accession": "0001193125-15-227321",
+    "primary_document": "d944840d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001193125-15-227321"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-07-07",
+    "acceptance_datetime": "2015-07-07T20:35:33.000Z",
+    "report_date": "2015-07-07",
+    "accession": "0001193125-15-246826",
+    "primary_document": "d41689d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-15-246826"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-07-29",
+    "acceptance_datetime": "2015-07-29T20:09:00.000Z",
+    "report_date": "2015-07-29",
+    "accession": "0001193125-15-268258",
+    "primary_document": "d41571d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-268258"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-09-15",
+    "acceptance_datetime": "2015-09-15T11:16:05.000Z",
+    "report_date": "2015-09-15",
+    "accession": "0001193125-15-319979",
+    "primary_document": "d27879d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-15-319979"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-10-14",
+    "acceptance_datetime": "2015-10-14T10:06:01.000Z",
+    "report_date": "2015-10-13",
+    "accession": "0001193125-15-343152",
+    "primary_document": "d51966d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-15-343152"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-11-03",
+    "acceptance_datetime": "2015-11-03T21:12:58.000Z",
+    "report_date": "2015-11-03",
+    "accession": "0001193125-15-364310",
+    "primary_document": "d25374d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-364310"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-11-23",
+    "acceptance_datetime": "2015-11-23T12:01:06.000Z",
+    "report_date": "2015-11-19",
+    "accession": "0001193125-15-384286",
+    "primary_document": "d62354d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-15-384286"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,8.01,9.01",
+    "filing_date": "2015-12-21",
+    "acceptance_datetime": "2015-12-21T21:30:34.000Z",
+    "report_date": "2015-12-17",
+    "accession": "0001193125-15-409169",
+    "primary_document": "d106778d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,5.03,8.01,9.01; accession=0001193125-15-409169"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-12-22",
+    "acceptance_datetime": "2015-12-22T22:01:53.000Z",
+    "report_date": "2015-12-22",
+    "accession": "0001193125-15-410944",
+    "primary_document": "d104167d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-15-410944"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2016-01-11",
+    "acceptance_datetime": "2016-01-11T12:02:00.000Z",
+    "report_date": "2016-01-11",
+    "accession": "0001193125-16-425704",
+    "primary_document": "d102010d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-16-425704"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2016-02-04",
+    "acceptance_datetime": "2016-02-04T14:02:37.000Z",
+    "report_date": "2016-02-02",
+    "accession": "0001193125-16-450055",
+    "primary_document": "d125062d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-16-450055"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-10",
+    "acceptance_datetime": "2016-02-10T21:06:05.000Z",
+    "report_date": "2016-02-10",
+    "accession": "0001193125-16-457562",
+    "primary_document": "d131912d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-457562"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2016-03-25",
+    "acceptance_datetime": "2016-03-25T20:32:33.000Z",
+    "report_date": "2016-03-23",
+    "accession": "0001193125-16-518218",
+    "primary_document": "d167889d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-16-518218"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2016-04-04",
+    "acceptance_datetime": "2016-04-04T11:02:00.000Z",
+    "report_date": "2016-03-30",
+    "accession": "0001193125-16-528534",
+    "primary_document": "d169445d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-16-528534"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-05-04",
+    "acceptance_datetime": "2016-05-04T20:18:18.000Z",
+    "report_date": "2016-05-04",
+    "accession": "0001193125-16-577628",
+    "primary_document": "d185847d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-577628"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2016-05-12",
+    "acceptance_datetime": "2016-05-12T20:31:15.000Z",
+    "report_date": "2016-05-06",
+    "accession": "0001193125-16-588943",
+    "primary_document": "d165015d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01; accession=0001193125-16-588943"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-05-26",
+    "acceptance_datetime": "2016-05-26T20:45:10.000Z",
+    "report_date": "2016-05-26",
+    "accession": "0001193125-16-604386",
+    "primary_document": "d177229d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-604386"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-06-15",
+    "acceptance_datetime": "2016-06-15T11:15:58.000Z",
+    "report_date": "2016-06-15",
+    "accession": "0001193125-16-621864",
+    "primary_document": "d211205d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-621864"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2016-06-16",
+    "acceptance_datetime": "2016-06-16T21:00:08.000Z",
+    "report_date": "2016-06-16",
+    "accession": "0001193125-16-623741",
+    "primary_document": "d213257d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001193125-16-623741"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2016-06-24",
+    "acceptance_datetime": "2016-06-24T20:59:03.000Z",
+    "report_date": "2016-06-20",
+    "accession": "0001193125-16-631642",
+    "primary_document": "d203246d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01; accession=0001193125-16-631642"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-07-27",
+    "acceptance_datetime": "2016-07-27T20:05:55.000Z",
+    "report_date": "2016-07-27",
+    "accession": "0001193125-16-659965",
+    "primary_document": "d352706d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-659965"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-08-01",
+    "acceptance_datetime": "2016-08-01T11:10:54.000Z",
+    "report_date": "2016-08-01",
+    "accession": "0001193125-16-665636",
+    "primary_document": "d186896d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-665636"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-08-25",
+    "acceptance_datetime": "2016-08-25T20:02:02.000Z",
+    "report_date": "2016-08-25",
+    "accession": "0001193125-16-691637",
+    "primary_document": "d247181d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-691637"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2016-10-24",
+    "acceptance_datetime": "2016-10-24T20:33:54.000Z",
+    "report_date": "2016-10-24",
+    "accession": "0001193125-16-745144",
+    "primary_document": "d269710d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-16-745144"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-11-02",
+    "acceptance_datetime": "2016-11-02T20:06:55.000Z",
+    "report_date": "2016-11-02",
+    "accession": "0001193125-16-757029",
+    "primary_document": "d265288d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-757029"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2016-12-08",
+    "acceptance_datetime": "2016-12-08T12:01:02.000Z",
+    "report_date": "2016-12-07",
+    "accession": "0001193125-16-787968",
+    "primary_document": "d310230d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-16-787968"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2016-12-19",
+    "acceptance_datetime": "2016-12-19T21:31:03.000Z",
+    "report_date": "2016-12-15",
+    "accession": "0001193125-16-797319",
+    "primary_document": "d333639d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-16-797319"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2017-01-09",
+    "acceptance_datetime": "2017-01-09T12:06:02.000Z",
+    "report_date": "2017-01-09",
+    "accession": "0001193125-17-005089",
+    "primary_document": "d286103d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-17-005089"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-02-15",
+    "acceptance_datetime": "2017-02-15T21:05:56.000Z",
+    "report_date": "2017-02-15",
+    "accession": "0001193125-17-045222",
+    "primary_document": "d344500d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-045222"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-03-06",
+    "acceptance_datetime": "2017-03-06T21:05:56.000Z",
+    "report_date": "2017-03-01",
+    "accession": "0001193125-17-071584",
+    "primary_document": "d359146d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-17-071584"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-03-13",
+    "acceptance_datetime": "2017-03-13T21:22:02.000Z",
+    "report_date": "2017-03-08",
+    "accession": "0001193125-17-080533",
+    "primary_document": "d350121d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-17-080533"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-05-02",
+    "acceptance_datetime": "2017-05-02T20:10:58.000Z",
+    "report_date": "2017-05-02",
+    "accession": "0001193125-17-153977",
+    "primary_document": "d377886d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-153977"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2017-06-15",
+    "acceptance_datetime": "2017-06-15T20:31:03.000Z",
+    "report_date": "2017-06-15",
+    "accession": "0001193125-17-204735",
+    "primary_document": "d397533d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001193125-17-204735"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-08-02",
+    "acceptance_datetime": "2017-08-02T20:06:04.000Z",
+    "report_date": "2017-08-02",
+    "accession": "0001193125-17-245790",
+    "primary_document": "d426904d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-245790"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-09-13",
+    "acceptance_datetime": "2017-09-13T21:01:48.000Z",
+    "report_date": "2017-09-13",
+    "accession": "0001193125-17-283910",
+    "primary_document": "d362084d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-17-283910"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2017-10-18",
+    "acceptance_datetime": "2017-10-18T11:02:05.000Z",
+    "report_date": "2017-10-17",
+    "accession": "0001193125-17-312166",
+    "primary_document": "d467624d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-17-312166"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-11-07",
+    "acceptance_datetime": "2017-11-07T21:06:55.000Z",
+    "report_date": "2017-11-07",
+    "accession": "0001193125-17-335725",
+    "primary_document": "d489474d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-335725"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2018-01-08",
+    "acceptance_datetime": "2018-01-08T13:01:03.000Z",
+    "report_date": "2018-01-07",
+    "accession": "0001193125-18-005088",
+    "primary_document": "d521878d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-18-005088"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-14",
+    "acceptance_datetime": "2018-02-14T21:10:46.000Z",
+    "report_date": "2018-02-14",
+    "accession": "0001193125-18-045592",
+    "primary_document": "d529362d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-045592"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-03-01",
+    "acceptance_datetime": "2018-03-01T22:01:04.000Z",
+    "report_date": "2018-02-28",
+    "accession": "0001193125-18-067498",
+    "primary_document": "d525366d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-18-067498"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-03-05",
+    "acceptance_datetime": "2018-03-05T12:16:03.000Z",
+    "report_date": "2018-03-05",
+    "accession": "0001193125-18-069569",
+    "primary_document": "d544496d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-069569"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-03-14",
+    "acceptance_datetime": "2018-03-14T20:09:03.000Z",
+    "report_date": "2018-03-14",
+    "accession": "0001193125-18-082311",
+    "primary_document": "d507656d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-082311"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2018-03-16",
+    "acceptance_datetime": "2018-03-16T10:06:03.000Z",
+    "report_date": "2018-03-15",
+    "accession": "0001193125-18-084723",
+    "primary_document": "d481175d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-18-084723"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-03-26",
+    "acceptance_datetime": "2018-03-26T11:01:03.000Z",
+    "report_date": "2018-03-23",
+    "accession": "0001193125-18-094957",
+    "primary_document": "d361071d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-18-094957"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-04-13",
+    "acceptance_datetime": "2018-04-13T20:02:02.000Z",
+    "report_date": "2018-04-13",
+    "accession": "0001193125-18-116868",
+    "primary_document": "d754260d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-116868"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-04-23",
+    "acceptance_datetime": "2018-04-23T21:01:05.000Z",
+    "report_date": "2018-04-18",
+    "accession": "0001193125-18-126931",
+    "primary_document": "d573891d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-18-126931"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-04-25",
+    "acceptance_datetime": "2018-04-25T21:01:02.000Z",
+    "report_date": "2018-04-24",
+    "accession": "0001193125-18-131571",
+    "primary_document": "d575316d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-18-131571"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-05-02",
+    "acceptance_datetime": "2018-05-02T20:07:03.000Z",
+    "report_date": "2018-05-02",
+    "accession": "0001193125-18-148659",
+    "primary_document": "d768551d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-148659"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-05-23",
+    "acceptance_datetime": "2018-05-23T20:01:56.000Z",
+    "report_date": "2018-05-23",
+    "accession": "0001193125-18-172007",
+    "primary_document": "d564013d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-172007"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,3.03,9.01",
+    "filing_date": "2018-06-01",
+    "acceptance_datetime": "2018-06-01T20:28:55.000Z",
+    "report_date": "2018-06-01",
+    "accession": "0001193125-18-181813",
+    "primary_document": "d409743d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,1.02,3.03,9.01; accession=0001193125-18-181813"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-06-13",
+    "acceptance_datetime": "2018-06-13T20:02:57.000Z",
+    "report_date": "2018-06-13",
+    "accession": "0001193125-18-191618",
+    "primary_document": "d594993d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001193125-18-191618"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-08-01",
+    "acceptance_datetime": "2018-08-01T20:19:09.000Z",
+    "report_date": "2018-08-01",
+    "accession": "0001193125-18-234959",
+    "primary_document": "d585083d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-234959"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-08-14",
+    "acceptance_datetime": "2018-08-14T21:24:05.000Z",
+    "report_date": "2018-08-14",
+    "accession": "0001193125-18-248669",
+    "primary_document": "d560370d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-248669"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-10-04",
+    "acceptance_datetime": "2018-10-04T20:31:05.000Z",
+    "report_date": "2018-10-03",
+    "accession": "0001193125-18-293314",
+    "primary_document": "d625217d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-18-293314"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-11-07",
+    "acceptance_datetime": "2018-11-07T21:06:04.000Z",
+    "report_date": "2018-11-07",
+    "accession": "0001193125-18-320885",
+    "primary_document": "d635392d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-320885"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-12-03",
+    "acceptance_datetime": "2018-12-03T21:32:05.000Z",
+    "report_date": "2018-12-03",
+    "accession": "0001193125-18-341161",
+    "primary_document": "d666078d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-341161"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-12-10",
+    "acceptance_datetime": "2018-12-10T21:31:57.000Z",
+    "report_date": "2018-12-10",
+    "accession": "0001193125-18-346177",
+    "primary_document": "d666968d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-346177"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-02-06",
+    "acceptance_datetime": "2019-02-06T11:07:00.000Z",
+    "report_date": "2019-02-05",
+    "accession": "0001193125-19-028756",
+    "primary_document": "d696277d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-19-028756"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-13",
+    "acceptance_datetime": "2019-02-13T21:09:33.000Z",
+    "report_date": "2019-02-13",
+    "accession": "0001193125-19-037960",
+    "primary_document": "d693590d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-037960"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-03-01",
+    "acceptance_datetime": "2019-03-01T13:30:32.000Z",
+    "report_date": "2019-02-27",
+    "accession": "0001193125-19-059344",
+    "primary_document": "d711450d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-19-059344"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2019-04-24",
+    "acceptance_datetime": "2019-04-24T20:36:03.000Z",
+    "report_date": "2019-04-23",
+    "accession": "0001193125-19-117199",
+    "primary_document": "d724895d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-19-117199"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-04-30",
+    "acceptance_datetime": "2019-04-30T12:30:55.000Z",
+    "report_date": "2019-03-14",
+    "accession": "0001193125-19-127449",
+    "primary_document": "d734663d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-19-127449"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-01",
+    "acceptance_datetime": "2019-05-01T20:05:57.000Z",
+    "report_date": "2019-05-01",
+    "accession": "0001193125-19-132921",
+    "primary_document": "d741135d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-132921"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-05-09",
+    "acceptance_datetime": "2019-05-09T20:32:02.000Z",
+    "report_date": "2019-05-06",
+    "accession": "0001193125-19-143034",
+    "primary_document": "d737520d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-19-143034"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-06-10",
+    "acceptance_datetime": "2019-06-10T20:32:00.000Z",
+    "report_date": "2019-06-07",
+    "accession": "0001193125-19-169261",
+    "primary_document": "d763181d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-19-169261"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2019-06-13",
+    "acceptance_datetime": "2019-06-13T20:32:00.000Z",
+    "report_date": "2019-06-13",
+    "accession": "0001193125-19-172528",
+    "primary_document": "d764946d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001193125-19-172528"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-07-16",
+    "acceptance_datetime": "2019-07-16T21:25:02.000Z",
+    "report_date": "2019-07-16",
+    "accession": "0001193125-19-194896",
+    "primary_document": "d777733d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-19-194896"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-07-22",
+    "acceptance_datetime": "2019-07-22T12:35:03.000Z",
+    "report_date": "2019-07-22",
+    "accession": "0001193125-19-198589",
+    "primary_document": "d777565d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-19-198589"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-07-31",
+    "acceptance_datetime": "2019-07-31T20:05:56.000Z",
+    "report_date": "2019-07-31",
+    "accession": "0001193125-19-208676",
+    "primary_document": "d782710d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-208676"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-08-19",
+    "acceptance_datetime": "2019-08-19T11:09:39.000Z",
+    "report_date": "2019-08-16",
+    "accession": "0001193125-19-224024",
+    "primary_document": "d782062d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-19-224024"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2019-10-28",
+    "acceptance_datetime": "2019-10-28T20:55:49.000Z",
+    "report_date": "2019-10-22",
+    "accession": "0001193125-19-276286",
+    "primary_document": "d825479d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-19-276286"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-11-06",
+    "acceptance_datetime": "2019-11-06T21:06:03.000Z",
+    "report_date": "2019-11-06",
+    "accession": "0001193125-19-285883",
+    "primary_document": "d823147d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-285883"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-01-13",
+    "acceptance_datetime": "2020-01-13T22:19:09.000Z",
+    "report_date": "2020-01-13",
+    "accession": "0001193125-20-006403",
+    "primary_document": "d864410d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-006403"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-01-21",
+    "acceptance_datetime": "2020-01-21T21:08:11.000Z",
+    "report_date": "2020-01-15",
+    "accession": "0001193125-20-011029",
+    "primary_document": "d877078d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-20-011029"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-02-03",
+    "acceptance_datetime": "2020-02-03T11:15:10.000Z",
+    "report_date": "2020-01-31",
+    "accession": "0001193125-20-022109",
+    "primary_document": "d821524d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-022109"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2020-02-19",
+    "acceptance_datetime": "2020-02-19T11:12:40.000Z",
+    "report_date": "2020-02-14",
+    "accession": "0001193125-20-041266",
+    "primary_document": "d885396d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-20-041266"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-02-20",
+    "acceptance_datetime": "2020-02-20T21:30:49.000Z",
+    "report_date": "2020-02-18",
+    "accession": "0001193125-20-043567",
+    "primary_document": "d885263d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-20-043567"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-02-25",
+    "acceptance_datetime": "2020-02-25T21:07:09.000Z",
+    "report_date": "2020-02-25",
+    "accession": "0001193125-20-048323",
+    "primary_document": "d892944d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-048323"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-02-26",
+    "acceptance_datetime": "2020-02-26T13:54:44.000Z",
+    "report_date": "2020-02-25",
+    "accession": "0001193125-20-049300",
+    "primary_document": "d892669d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-049300"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-03-03",
+    "acceptance_datetime": "2020-03-03T21:30:40.000Z",
+    "report_date": "2020-02-26",
+    "accession": "0001193125-20-060483",
+    "primary_document": "d895174d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-20-060483"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2020-03-13",
+    "acceptance_datetime": "2020-03-13T21:17:10.000Z",
+    "report_date": "2020-03-12",
+    "accession": "0001193125-20-073086",
+    "primary_document": "d861516d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-20-073086"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-05-06",
+    "acceptance_datetime": "2020-05-06T20:16:44.000Z",
+    "report_date": "2020-05-06",
+    "accession": "0001193125-20-134914",
+    "primary_document": "d849498d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-134914"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-05-13",
+    "acceptance_datetime": "2020-05-13T11:43:46.000Z",
+    "report_date": "2020-05-13",
+    "accession": "0001193125-20-141074",
+    "primary_document": "d928518d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-141074"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-05-26",
+    "acceptance_datetime": "2020-05-26T11:11:50.000Z",
+    "report_date": "2020-05-26",
+    "accession": "0001347178-20-000018",
+    "primary_document": "vnda-20200526.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001347178-20-000018"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2020-06-11",
+    "acceptance_datetime": "2020-06-11T20:06:15.000Z",
+    "report_date": "2020-06-11",
+    "accession": "0001193125-20-166634",
+    "primary_document": "d909706d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001193125-20-166634"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2020-07-29",
+    "acceptance_datetime": "2020-07-29T20:20:45.000Z",
+    "report_date": "2020-07-27",
+    "accession": "0001193125-20-202550",
+    "primary_document": "d15027d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-20-202550"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-08-05",
+    "acceptance_datetime": "2020-08-05T20:06:02.000Z",
+    "report_date": "2020-08-05",
+    "accession": "0001347178-20-000022",
+    "primary_document": "vnda-20200805.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001347178-20-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-08-18",
+    "acceptance_datetime": "2020-08-18T21:18:32.000Z",
+    "report_date": "2020-08-18",
+    "accession": "0001193125-20-223727",
+    "primary_document": "d89375d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-223727"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-10-28",
+    "acceptance_datetime": "2020-10-28T20:05:56.000Z",
+    "report_date": "2020-10-28",
+    "accession": "0001347178-20-000027",
+    "primary_document": "vnda-20201028.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001347178-20-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-12-02",
+    "acceptance_datetime": "2020-12-02T12:02:01.000Z",
+    "report_date": "2020-12-01",
+    "accession": "0001193125-20-307818",
+    "primary_document": "d65775d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-307818"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-10",
+    "acceptance_datetime": "2021-02-10T21:08:39.000Z",
+    "report_date": "2021-02-10",
+    "accession": "0001347178-21-000002",
+    "primary_document": "vnda-20210210.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001347178-21-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-02-25",
+    "acceptance_datetime": "2021-02-25T12:01:31.000Z",
+    "report_date": "2021-02-24",
+    "accession": "0001193125-21-055675",
+    "primary_document": "d75499d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-21-055675"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-05-05",
+    "acceptance_datetime": "2021-05-05T20:06:11.000Z",
+    "report_date": "2021-05-05",
+    "accession": "0001347178-21-000013",
+    "primary_document": "vnda-20210505.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001347178-21-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01",
+    "filing_date": "2021-06-10",
+    "acceptance_datetime": "2021-06-10T21:01:59.000Z",
+    "report_date": "2021-06-10",
+    "accession": "0001347178-21-000021",
+    "primary_document": "vnda-20210610.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07,8.01; accession=0001347178-21-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-07-28",
+    "acceptance_datetime": "2021-07-28T20:08:01.000Z",
+    "report_date": "2021-07-28",
+    "accession": "0001347178-21-000025",
+    "primary_document": "vnda-20210728.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001347178-21-000025"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-10-08",
+    "acceptance_datetime": "2021-10-08T20:07:02.000Z",
+    "report_date": "2021-10-06",
+    "accession": "0001193125-21-295465",
+    "primary_document": "d238861d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-21-295465"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-03",
+    "acceptance_datetime": "2021-11-03T20:08:38.000Z",
+    "report_date": "2021-11-03",
+    "accession": "0001347178-21-000030",
+    "primary_document": "vnda-20211103.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001347178-21-000030"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2022-01-14",
+    "acceptance_datetime": "2022-01-14T21:05:55.000Z",
+    "report_date": "2022-01-13",
+    "accession": "0001193125-22-009851",
+    "primary_document": "d232708d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-22-009851"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-02-04",
+    "acceptance_datetime": "2022-02-04T12:07:55.000Z",
+    "report_date": "2022-02-04",
+    "accession": "0001193125-22-027687",
+    "primary_document": "d302458d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-027687"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-02-23",
+    "acceptance_datetime": "2022-02-23T21:10:00.000Z",
+    "report_date": "2022-02-23",
+    "accession": "0001628280-22-003504",
+    "primary_document": "vnda-20220223.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-22-003504"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2022-03-01",
+    "acceptance_datetime": "2022-03-01T21:06:40.000Z",
+    "report_date": "2022-02-28",
+    "accession": "0001193125-22-061308",
+    "primary_document": "d287693d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-22-061308"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-05-05",
+    "acceptance_datetime": "2022-05-05T20:21:21.000Z",
+    "report_date": "2022-05-05",
+    "accession": "0001628280-22-012673",
+    "primary_document": "vnda-20220505.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-22-012673"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2022-06-16",
+    "acceptance_datetime": "2022-06-16T20:16:28.000Z",
+    "report_date": "2022-06-16",
+    "accession": "0001347178-22-000003",
+    "primary_document": "vnda-20220616.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001347178-22-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-08-03",
+    "acceptance_datetime": "2022-08-03T20:12:04.000Z",
+    "report_date": "2022-08-03",
+    "accession": "0001628280-22-020607",
+    "primary_document": "vnda-20220803.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-22-020607"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-11-02",
+    "acceptance_datetime": "2022-11-02T20:08:26.000Z",
+    "report_date": "2022-11-02",
+    "accession": "0001628280-22-027812",
+    "primary_document": "vnda-20221102.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-22-027812"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-12-14",
+    "acceptance_datetime": "2022-12-14T11:06:04.000Z",
+    "report_date": "2022-12-13",
+    "accession": "0001193125-22-304290",
+    "primary_document": "d313448d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-304290"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-12-16",
+    "acceptance_datetime": "2022-12-16T22:16:19.000Z",
+    "report_date": "2022-12-14",
+    "accession": "0001193125-22-307491",
+    "primary_document": "d427700d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-307491"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2022-12-23",
+    "acceptance_datetime": "2022-12-23T00:22:03.000Z",
+    "report_date": "2022-12-22",
+    "accession": "0001193125-22-311271",
+    "primary_document": "d291472d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-22-311271"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-02-08",
+    "acceptance_datetime": "2023-02-08T21:09:22.000Z",
+    "report_date": "2023-02-08",
+    "accession": "0001628280-23-002764",
+    "primary_document": "vnda-20230208.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-23-002764"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-02-17",
+    "acceptance_datetime": "2023-02-17T21:31:04.000Z",
+    "report_date": "2023-02-16",
+    "accession": "0001193125-23-042033",
+    "primary_document": "d464691d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-23-042033"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2023-03-13",
+    "acceptance_datetime": "2023-03-13T13:25:24.000Z",
+    "report_date": "2023-03-13",
+    "accession": "0001628280-23-007646",
+    "primary_document": "vnda-20230313.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01; accession=0001628280-23-007646"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2023-03-17",
+    "acceptance_datetime": "2023-03-17T11:05:26.000Z",
+    "report_date": "2023-03-15",
+    "accession": "0001628280-23-008386",
+    "primary_document": "vnda-20230315.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0001628280-23-008386"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-03",
+    "acceptance_datetime": "2023-05-03T20:05:45.000Z",
+    "report_date": "2023-05-03",
+    "accession": "0001628280-23-015206",
+    "primary_document": "vnda-20230503.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-23-015206"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-05-11",
+    "acceptance_datetime": "2023-05-11T11:01:03.000Z",
+    "report_date": "2023-05-10",
+    "accession": "0001193125-23-141366",
+    "primary_document": "d499050d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-23-141366"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2023-06-08",
+    "acceptance_datetime": "2023-06-08T20:40:13.000Z",
+    "report_date": "2023-06-08",
+    "accession": "0001628280-23-021539",
+    "primary_document": "vnda-20230608.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001628280-23-021539"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-07-27",
+    "acceptance_datetime": "2023-07-27T20:06:07.000Z",
+    "report_date": "2023-07-27",
+    "accession": "0001628280-23-025916",
+    "primary_document": "vnda-20230727.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-23-025916"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2023-08-21",
+    "acceptance_datetime": "2023-08-21T21:13:59.000Z",
+    "report_date": "2023-08-16",
+    "accession": "0001193125-23-217063",
+    "primary_document": "d544298d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01; accession=0001193125-23-217063"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-11-08",
+    "acceptance_datetime": "2023-11-08T21:05:59.000Z",
+    "report_date": "2023-11-08",
+    "accession": "0001628280-23-037827",
+    "primary_document": "vnda-20231108.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-23-037827"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,8.01,9.01",
+    "filing_date": "2023-12-07",
+    "acceptance_datetime": "2023-12-07T22:19:31.000Z",
+    "report_date": "2023-12-07",
+    "accession": "0001193125-23-290779",
+    "primary_document": "d635973d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,2.01,8.01,9.01; accession=0001193125-23-290779"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2023-12-15",
+    "acceptance_datetime": "2023-12-15T21:15:59.000Z",
+    "report_date": "2023-12-13",
+    "accession": "0001193125-23-296659",
+    "primary_document": "d35023d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.03,9.01; accession=0001193125-23-296659"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-02-05",
+    "acceptance_datetime": "2024-02-05T21:34:05.000Z",
+    "report_date": "2024-02-05",
+    "accession": "0001193125-24-024112",
+    "primary_document": "d772316d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-024112"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-07",
+    "acceptance_datetime": "2024-02-07T21:07:08.000Z",
+    "report_date": "2024-02-07",
+    "accession": "0001628280-24-003693",
+    "primary_document": "vnda-20240207.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-24-003693"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2024-02-16",
+    "acceptance_datetime": "2024-02-16T21:31:12.000Z",
+    "report_date": "2023-12-07",
+    "accession": "0001193125-24-038517",
+    "primary_document": "d620689d8ka.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=9.01; accession=0001193125-24-038517"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2024-02-21",
+    "acceptance_datetime": "2024-02-21T21:32:11.000Z",
+    "report_date": "2024-02-16",
+    "accession": "0001193125-24-041514",
+    "primary_document": "d796267d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-24-041514"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-03-07",
+    "acceptance_datetime": "2024-03-07T21:31:09.000Z",
+    "report_date": "2024-03-06",
+    "accession": "0001193125-24-062241",
+    "primary_document": "d764198d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-062241"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-04-03",
+    "acceptance_datetime": "2024-04-03T20:32:00.000Z",
+    "report_date": "2024-04-02",
+    "accession": "0001193125-24-086031",
+    "primary_document": "d819383d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-086031"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,5.03,8.01,9.01",
+    "filing_date": "2024-04-17",
+    "acceptance_datetime": "2024-04-17T21:19:33.000Z",
+    "report_date": "2024-04-17",
+    "accession": "0001193125-24-099251",
+    "primary_document": "d795618d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,3.03,5.03,8.01,9.01; accession=0001193125-24-099251"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,9.01",
+    "filing_date": "2024-05-03",
+    "acceptance_datetime": "2024-05-03T20:02:04.000Z",
+    "report_date": "2024-05-03",
+    "accession": "0001193125-24-130668",
+    "primary_document": "d833979d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,3.03,9.01; accession=0001193125-24-130668"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-05-07",
+    "acceptance_datetime": "2024-05-07T20:51:10.000Z",
+    "report_date": "2024-05-07",
+    "accession": "0001193125-24-133252",
+    "primary_document": "d810702d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-133252"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-05-08",
+    "acceptance_datetime": "2024-05-08T20:06:04.000Z",
+    "report_date": "2024-05-08",
+    "accession": "0001628280-24-021658",
+    "primary_document": "vnda-20240508.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-24-021658"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2024-05-20",
+    "acceptance_datetime": "2024-05-20T21:26:51.000Z",
+    "report_date": "2024-05-17",
+    "accession": "0001628280-24-024405",
+    "primary_document": "vnda-20240517.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001628280-24-024405"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.07",
+    "filing_date": "2024-05-24",
+    "acceptance_datetime": "2024-05-24T20:31:28.000Z",
+    "report_date": "2024-05-17",
+    "accession": "0001628280-24-025241",
+    "primary_document": "vnda-20240517.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001628280-24-025241"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-05-24",
+    "acceptance_datetime": "2024-05-24T20:49:41.000Z",
+    "report_date": "2024-05-24",
+    "accession": "0001628280-24-025254",
+    "primary_document": "vnda-20240524.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001628280-24-025254"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-06-06",
+    "acceptance_datetime": "2024-06-06T20:30:57.000Z",
+    "report_date": "2024-06-06",
+    "accession": "0001193125-24-156117",
+    "primary_document": "d824540d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-24-156117"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-06-13",
+    "acceptance_datetime": "2024-06-13T20:38:04.000Z",
+    "report_date": "2024-06-13",
+    "accession": "0001193125-24-160755",
+    "primary_document": "d843445d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-160755"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-06-20",
+    "acceptance_datetime": "2024-06-20T20:59:37.000Z",
+    "report_date": "2024-06-19",
+    "accession": "0001193125-24-164545",
+    "primary_document": "d844822d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-164545"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-07-31",
+    "acceptance_datetime": "2024-07-31T20:05:32.000Z",
+    "report_date": "2024-07-31",
+    "accession": "0001628280-24-033743",
+    "primary_document": "vnda-20240731.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-24-033743"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,9.01",
+    "filing_date": "2024-08-08",
+    "acceptance_datetime": "2024-08-08T11:29:01.000Z",
+    "report_date": "2024-08-07",
+    "accession": "0001193125-24-196481",
+    "primary_document": "d862724d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=1.01,3.03,9.01; accession=0001193125-24-196481"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-09-19",
+    "acceptance_datetime": "2024-09-19T12:10:32.000Z",
+    "report_date": "2024-09-19",
+    "accession": "0001193125-24-221784",
+    "primary_document": "d809647d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-221784"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2024-10-03",
+    "acceptance_datetime": "2024-10-03T21:00:32.000Z",
+    "report_date": "2024-10-02",
+    "accession": "0001193125-24-232306",
+    "primary_document": "d828148d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.03,9.01; accession=0001193125-24-232306"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-10-15",
+    "acceptance_datetime": "2024-10-15T12:00:01.000Z",
+    "report_date": "2024-10-14",
+    "accession": "0001193125-24-237220",
+    "primary_document": "d840698d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-237220"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-11-06",
+    "acceptance_datetime": "2024-11-06T21:16:52.000Z",
+    "report_date": "2024-11-06",
+    "accession": "0001628280-24-045724",
+    "primary_document": "vnda-20241106.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-24-045724"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2025-01-27",
+    "acceptance_datetime": "2025-01-27T13:22:15.000Z",
+    "report_date": "2025-01-25",
+    "accession": "0001193125-25-012740",
+    "primary_document": "d869105d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01; accession=0001193125-25-012740"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-02-13",
+    "acceptance_datetime": "2025-02-13T21:08:05.000Z",
+    "report_date": "2025-02-13",
+    "accession": "0001628280-25-005406",
+    "primary_document": "vnda-20250213.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-25-005406"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-02-20",
+    "acceptance_datetime": "2025-02-20T21:46:12.000Z",
+    "report_date": "2025-02-18",
+    "accession": "0001193125-25-030780",
+    "primary_document": "d935984d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001193125-25-030780"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2025-03-17",
+    "acceptance_datetime": "2025-03-17T13:15:11.000Z",
+    "report_date": "2025-03-14",
+    "accession": "0001193125-25-055287",
+    "primary_document": "d938957d8k.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01; accession=0001193125-25-055287"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-05-07",
+    "acceptance_datetime": "2025-05-07T20:07:33.000Z",
+    "report_date": "2025-05-07",
+    "accession": "0001628280-25-023154",
+    "primary_document": "vnda-20250507.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-25-023154"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2025-06-05",
+    "acceptance_datetime": "2025-06-05T20:32:45.000Z",
+    "report_date": "2025-06-05",
+    "accession": "0001628280-25-029678",
+    "primary_document": "vnda-20250605.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001628280-25-029678"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-07-31",
+    "acceptance_datetime": "2025-07-31T11:34:48.000Z",
+    "report_date": "2025-07-31",
+    "accession": "0001628280-25-036843",
+    "primary_document": "vnda-20250731.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-25-036843"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-10-01",
+    "acceptance_datetime": "2025-10-01T21:10:10.000Z",
+    "report_date": "2025-10-01",
+    "accession": "0001628280-25-043489",
+    "primary_document": "vnda-20251001.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001628280-25-043489"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-10-29",
+    "acceptance_datetime": "2025-10-29T20:08:14.000Z",
+    "report_date": "2025-10-29",
+    "accession": "0001628280-25-047112",
+    "primary_document": "vnda-20251029.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-25-047112"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-11-28",
+    "acceptance_datetime": "2025-11-28T12:06:24.000Z",
+    "report_date": "2025-11-28",
+    "accession": "0001628280-25-054225",
+    "primary_document": "vnda-20251128.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001628280-25-054225"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-12-04",
+    "acceptance_datetime": "2025-12-04T21:39:04.000Z",
+    "report_date": "2025-12-04",
+    "accession": "0001628280-25-055393",
+    "primary_document": "vnda-20251204.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001628280-25-055393"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-12-31",
+    "acceptance_datetime": "2025-12-30T23:45:43.000Z",
+    "report_date": "2025-12-30",
+    "accession": "0001628280-25-059155",
+    "primary_document": "vnda-20251230.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001628280-25-059155"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2026-01-08",
+    "acceptance_datetime": "2026-01-08T12:09:31.000Z",
+    "report_date": "2026-01-07",
+    "accession": "0001628280-26-001273",
+    "primary_document": "vnda-20260107.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001628280-26-001273"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-02-11",
+    "acceptance_datetime": "2026-02-11T21:05:22.000Z",
+    "report_date": "2026-02-11",
+    "accession": "0001628280-26-007256",
+    "primary_document": "vnda-20260211.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-26-007256"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2026-02-19",
+    "acceptance_datetime": "2026-02-19T21:31:34.000Z",
+    "report_date": "2026-02-18",
+    "accession": "0001628280-26-009805",
+    "primary_document": "vnda-20260218.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0001628280-26-009805"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2026-02-23",
+    "acceptance_datetime": "2026-02-23T12:00:24.000Z",
+    "report_date": "2026-02-20",
+    "accession": "0001628280-26-010376",
+    "primary_document": "vnda-20260220.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=8.01,9.01; accession=0001628280-26-010376"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2026-03-10",
+    "acceptance_datetime": "2026-03-10T20:47:06.000Z",
+    "report_date": "2026-03-10",
+    "accession": "0001628280-26-016516",
+    "primary_document": "vnda-20260310.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=7.01; accession=0001628280-26-016516"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-04-02",
+    "acceptance_datetime": "2026-04-02T20:30:32.000Z",
+    "report_date": "2026-03-29",
+    "accession": "0001628280-26-023222",
+    "primary_document": "vnda-20260329.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02; accession=0001628280-26-023222"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2026-04-22",
+    "acceptance_datetime": "2026-04-22T21:23:06.000Z",
+    "report_date": "2026-04-22",
+    "accession": "0001628280-26-026642",
+    "primary_document": "vnda-20260422.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.02,9.01; accession=0001628280-26-026642"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-05-06",
+    "acceptance_datetime": "2026-05-06T20:06:17.000Z",
+    "report_date": "2026-05-06",
+    "accession": "0001628280-26-031241",
+    "primary_document": "vnda-20260506.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-26-031241"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2026-06-05",
+    "acceptance_datetime": "2026-06-05T20:38:13.000Z",
+    "report_date": "2026-06-04",
+    "accession": "0001628280-26-041298",
+    "primary_document": "vnda-20260604.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=5.07; accession=0001628280-26-041298"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-08-05",
+    "acceptance_datetime": "2026-08-05T20:04:48.000Z",
+    "report_date": "2026-08-05",
+    "accession": "0001628280-26-053308",
+    "primary_document": "vnda-20260805.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-26-053308"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-10-28",
+    "acceptance_datetime": "2026-10-28T20:07:24.000Z",
+    "report_date": "2026-10-28",
+    "accession": "0001628280-26-067886",
+    "primary_document": "vnda-20261028.htm",
+    "cik": "0001347178",
+    "issuer_name": "Vanda Pharmaceuticals Inc.",
+    "tickers": [
+      "VNDA"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001347178.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-26-067886"
+  }
+]

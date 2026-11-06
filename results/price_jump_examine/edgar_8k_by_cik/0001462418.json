@@ -1,0 +1,4214 @@
+[
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2009-08-13",
+    "acceptance_datetime": "2009-08-13T21:30:59.000Z",
+    "report_date": "2009-08-07",
+    "accession": "0000950123-09-034795",
+    "primary_document": "g20198e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0000950123-09-034795"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01,9.01",
+    "filing_date": "2009-09-25",
+    "acceptance_datetime": "2009-09-25T19:04:05.000Z",
+    "report_date": "2009-09-22",
+    "accession": "0000950123-09-046074",
+    "primary_document": "g20652e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=4.01,9.01; accession=0000950123-09-046074"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-09-25",
+    "acceptance_datetime": "2009-09-25T19:06:27.000Z",
+    "report_date": "2009-09-22",
+    "accession": "0000950123-09-046077",
+    "primary_document": "g20654e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0000950123-09-046077"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-11-12",
+    "acceptance_datetime": "2009-11-12T11:04:32.000Z",
+    "report_date": "2009-11-11",
+    "accession": "0000950123-09-061070",
+    "primary_document": "g21205e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-09-061070"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-01-28",
+    "acceptance_datetime": "2010-01-28T14:32:19.000Z",
+    "report_date": "2010-01-25",
+    "accession": "0000950123-10-005956",
+    "primary_document": "g21901e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0000950123-10-005956"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,3.02,9.01",
+    "filing_date": "2010-02-18",
+    "acceptance_datetime": "2010-02-18T17:16:55.000Z",
+    "report_date": "2010-02-12",
+    "accession": "0000950123-10-014019",
+    "primary_document": "g22075e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,2.01,3.02,9.01; accession=0000950123-10-014019"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-03-15",
+    "acceptance_datetime": "2010-03-15T19:53:13.000Z",
+    "report_date": "2010-03-10",
+    "accession": "0000950123-10-024656",
+    "primary_document": "g22449e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-024656"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-04-14",
+    "acceptance_datetime": "2010-04-14T20:27:38.000Z",
+    "report_date": "2010-04-09",
+    "accession": "0000950123-10-034838",
+    "primary_document": "g22918e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0000950123-10-034838"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2010-04-27",
+    "acceptance_datetime": "2010-04-27T20:24:16.000Z",
+    "report_date": "2010-02-12",
+    "accession": "0000950123-10-038841",
+    "primary_document": "g23096e8vkza.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=9.01; accession=0000950123-10-038841"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-05-13",
+    "acceptance_datetime": "2010-05-13T14:26:45.000Z",
+    "report_date": "2010-05-12",
+    "accession": "0000950123-10-048791",
+    "primary_document": "g23413e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-048791"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2010-05-25",
+    "acceptance_datetime": "2010-05-25T18:28:28.000Z",
+    "report_date": "2010-05-19",
+    "accession": "0000950123-10-052737",
+    "primary_document": "g23583e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,5.07; accession=0000950123-10-052737"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-08-02",
+    "acceptance_datetime": "2010-08-02T14:38:24.000Z",
+    "report_date": "2010-07-29",
+    "accession": "0000950123-10-070906",
+    "primary_document": "g24197e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-070906"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-10-28",
+    "acceptance_datetime": "2010-10-28T16:09:19.000Z",
+    "report_date": "2010-10-28",
+    "accession": "0000950123-10-097239",
+    "primary_document": "g25017e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-097239"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-02-17",
+    "acceptance_datetime": "2011-02-17T16:51:42.000Z",
+    "report_date": "2011-02-17",
+    "accession": "0000950123-11-015033",
+    "primary_document": "c12801e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-015033"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-04-28",
+    "acceptance_datetime": "2011-04-28T17:10:47.000Z",
+    "report_date": "2011-04-28",
+    "accession": "0000950123-11-040762",
+    "primary_document": "c16114e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-040762"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2011-05-23",
+    "acceptance_datetime": "2011-05-23T13:25:23.000Z",
+    "report_date": "2011-05-18",
+    "accession": "0000950123-11-052805",
+    "primary_document": "c17781e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,5.07; accession=0000950123-11-052805"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-07-28",
+    "acceptance_datetime": "2011-07-28T14:10:07.000Z",
+    "report_date": "2011-07-28",
+    "accession": "0000950123-11-069301",
+    "primary_document": "c20509e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-069301"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2011-08-16",
+    "acceptance_datetime": "2011-08-16T20:14:19.000Z",
+    "report_date": "2011-08-10",
+    "accession": "0000950123-11-077958",
+    "primary_document": "c21536e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950123-11-077958"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.07",
+    "filing_date": "2011-10-11",
+    "acceptance_datetime": "2011-10-11T15:57:42.000Z",
+    "report_date": "2011-05-18",
+    "accession": "0000950123-11-089408",
+    "primary_document": "c23225e8vkza.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0000950123-11-089408"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-10-27",
+    "acceptance_datetime": "2011-10-27T14:29:56.000Z",
+    "report_date": "2011-10-27",
+    "accession": "0000950123-11-092293",
+    "primary_document": "c23722e8vk.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-092293"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-02-16",
+    "acceptance_datetime": "2012-02-16T14:57:02.000Z",
+    "report_date": "2012-02-16",
+    "accession": "0001193125-12-064551",
+    "primary_document": "d302123d8k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-064551"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-02-23",
+    "acceptance_datetime": "2012-02-23T14:53:53.000Z",
+    "report_date": "2012-02-22",
+    "accession": "0001193125-12-074243",
+    "primary_document": "d303555d8k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-12-074243"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-02-28",
+    "acceptance_datetime": "2012-02-28T20:46:55.000Z",
+    "report_date": "2012-02-28",
+    "accession": "0001193125-12-085050",
+    "primary_document": "d308331d8k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-085050"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-03-16",
+    "acceptance_datetime": "2012-03-16T17:36:06.000Z",
+    "report_date": "2012-03-13",
+    "accession": "0001193125-12-119255",
+    "primary_document": "d316454d8k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-12-119255"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-04-26",
+    "acceptance_datetime": "2012-04-26T14:56:54.000Z",
+    "report_date": "2012-04-26",
+    "accession": "0001193125-12-184469",
+    "primary_document": "d340970d8k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-184469"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2012-05-17",
+    "acceptance_datetime": "2012-05-17T17:05:02.000Z",
+    "report_date": "2012-05-16",
+    "accession": "0001193125-12-237841",
+    "primary_document": "d355519d8k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001193125-12-237841"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-05-23",
+    "acceptance_datetime": "2012-05-23T12:04:59.000Z",
+    "report_date": "2012-05-23",
+    "accession": "0001193125-12-244284",
+    "primary_document": "d357025d8k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-12-244284"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-07-26",
+    "acceptance_datetime": "2012-07-26T13:31:21.000Z",
+    "report_date": "2012-07-26",
+    "accession": "0001104659-12-051231",
+    "primary_document": "a12-16940_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-12-051231"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2012-08-16",
+    "acceptance_datetime": "2012-08-16T17:28:28.000Z",
+    "report_date": "2012-08-10",
+    "accession": "0001104659-12-058385",
+    "primary_document": "a12-18388_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-12-058385"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-08-20",
+    "acceptance_datetime": "2012-08-20T19:01:15.000Z",
+    "report_date": "2012-08-14",
+    "accession": "0001104659-12-058892",
+    "primary_document": "a12-18661_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-12-058892"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2012-10-05",
+    "acceptance_datetime": "2012-10-05T18:04:19.000Z",
+    "report_date": "2012-10-01",
+    "accession": "0001104659-12-067822",
+    "primary_document": "a12-23132_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-12-067822"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-10-25",
+    "acceptance_datetime": "2012-10-25T13:30:36.000Z",
+    "report_date": "2012-10-25",
+    "accession": "0001104659-12-071047",
+    "primary_document": "a12-25020_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-12-071047"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2012-12-03",
+    "acceptance_datetime": "2012-12-03T15:43:00.000Z",
+    "report_date": "2012-11-27",
+    "accession": "0001104659-12-081391",
+    "primary_document": "a12-28283_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001104659-12-081391"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-12-06",
+    "acceptance_datetime": "2012-12-06T22:20:40.000Z",
+    "report_date": "2012-12-06",
+    "accession": "0001104659-12-082501",
+    "primary_document": "a12-28848_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-12-082501"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-12-12",
+    "acceptance_datetime": "2012-12-12T22:20:33.000Z",
+    "report_date": "2012-12-12",
+    "accession": "0001104659-12-083648",
+    "primary_document": "a12-29286_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-12-083648"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-12-26",
+    "acceptance_datetime": "2012-12-26T20:23:57.000Z",
+    "report_date": "2012-12-24",
+    "accession": "0001104659-12-086194",
+    "primary_document": "a12-30154_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-12-086194"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,9.01",
+    "filing_date": "2012-12-28",
+    "acceptance_datetime": "2012-12-28T22:04:37.000Z",
+    "report_date": "2012-12-21",
+    "accession": "0001104659-12-086792",
+    "primary_document": "a12-30299_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,2.01,9.01; accession=0001104659-12-086792"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2012-12-31",
+    "acceptance_datetime": "2012-12-31T18:09:51.000Z",
+    "report_date": "2012-12-27",
+    "accession": "0001104659-12-086884",
+    "primary_document": "a12-30289_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-12-086884"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-02-13",
+    "acceptance_datetime": "2013-02-13T14:30:52.000Z",
+    "report_date": "2013-02-13",
+    "accession": "0001104659-13-009952",
+    "primary_document": "a13-4942_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-009952"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2013-03-13",
+    "acceptance_datetime": "2013-03-13T11:59:49.000Z",
+    "report_date": "2013-03-13",
+    "accession": "0001104659-13-019941",
+    "primary_document": "a13-7356_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-13-019941"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,9.01",
+    "filing_date": "2013-04-04",
+    "acceptance_datetime": "2013-04-04T19:57:54.000Z",
+    "report_date": "2013-03-29",
+    "accession": "0001104659-13-027096",
+    "primary_document": "a13-9447_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,2.01,9.01; accession=0001104659-13-027096"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2013-04-18",
+    "acceptance_datetime": "2013-04-18T20:26:29.000Z",
+    "report_date": "2013-04-12",
+    "accession": "0001104659-13-030648",
+    "primary_document": "a13-10270_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-13-030648"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-04-24",
+    "acceptance_datetime": "2013-04-24T15:54:11.000Z",
+    "report_date": "2013-04-24",
+    "accession": "0001104659-13-032059",
+    "primary_document": "a13-10682_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-13-032059"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-04-25",
+    "acceptance_datetime": "2013-04-25T13:21:00.000Z",
+    "report_date": "2013-04-25",
+    "accession": "0001104659-13-032742",
+    "primary_document": "a13-10682_28k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-032742"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2013-04-25",
+    "acceptance_datetime": "2013-04-25T16:59:16.000Z",
+    "report_date": "2013-04-25",
+    "accession": "0001104659-13-032873",
+    "primary_document": "a13-10821_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-13-032873"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,2.01,9.01",
+    "filing_date": "2013-04-29",
+    "acceptance_datetime": "2013-04-26T23:20:18.000Z",
+    "report_date": "2013-04-12",
+    "accession": "0001104659-13-033681",
+    "primary_document": "a13-10951_18ka.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,2.01,9.01; accession=0001104659-13-033681"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2013-05-13",
+    "acceptance_datetime": "2013-05-13T20:35:58.000Z",
+    "report_date": "2013-05-07",
+    "accession": "0001104659-13-040816",
+    "primary_document": "a13-12097_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001104659-13-040816"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2013-05-17",
+    "acceptance_datetime": "2013-05-17T12:43:55.000Z",
+    "report_date": "2013-05-15",
+    "accession": "0001104659-13-042667",
+    "primary_document": "a13-12700_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001104659-13-042667"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2013-06-12",
+    "acceptance_datetime": "2013-06-12T17:54:35.000Z",
+    "report_date": "2013-03-29",
+    "accession": "0001104659-13-048590",
+    "primary_document": "a13-14675_18ka.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=9.01; accession=0001104659-13-048590"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2013-06-26",
+    "acceptance_datetime": "2013-06-26T19:57:38.000Z",
+    "report_date": "2013-04-12",
+    "accession": "0001104659-13-051577",
+    "primary_document": "a13-15481_18ka.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=9.01; accession=0001104659-13-051577"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-07-25",
+    "acceptance_datetime": "2013-07-25T13:59:41.000Z",
+    "report_date": "2013-07-25",
+    "accession": "0001104659-13-056518",
+    "primary_document": "a13-16973_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-056518"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2013-08-21",
+    "acceptance_datetime": "2013-08-21T12:34:26.000Z",
+    "report_date": "2013-08-19",
+    "accession": "0001104659-13-065226",
+    "primary_document": "a13-18970_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001104659-13-065226"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2013-09-23",
+    "acceptance_datetime": "2013-09-23T11:50:17.000Z",
+    "report_date": "2013-09-23",
+    "accession": "0001104659-13-071501",
+    "primary_document": "a13-21124_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-13-071501"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-10-24",
+    "acceptance_datetime": "2013-10-24T10:24:39.000Z",
+    "report_date": "2013-10-24",
+    "accession": "0001104659-13-077455",
+    "primary_document": "a13-22623_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-077455"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,9.01",
+    "filing_date": "2013-11-20",
+    "acceptance_datetime": "2013-11-20T14:30:01.000Z",
+    "report_date": "2013-11-15",
+    "accession": "0001104659-13-085917",
+    "primary_document": "a13-24511_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.01,9.01; accession=0001104659-13-085917"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2013-11-25",
+    "acceptance_datetime": "2013-11-25T14:17:53.000Z",
+    "report_date": "2013-11-25",
+    "accession": "0001104659-13-086756",
+    "primary_document": "a13-25026_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-13-086756"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-11-27",
+    "acceptance_datetime": "2013-11-27T21:19:38.000Z",
+    "report_date": "2013-11-27",
+    "accession": "0001104659-13-087507",
+    "primary_document": "a13-25294_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-13-087507"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2013-12-03",
+    "acceptance_datetime": "2013-12-03T13:37:09.000Z",
+    "report_date": "2013-12-03",
+    "accession": "0001104659-13-088007",
+    "primary_document": "a13-25538_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-13-088007"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2013-12-11",
+    "acceptance_datetime": "2013-12-11T12:54:22.000Z",
+    "report_date": "2013-12-09",
+    "accession": "0001104659-13-089540",
+    "primary_document": "a13-26066_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001104659-13-089540"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2014-01-30",
+    "acceptance_datetime": "2014-01-30T21:58:07.000Z",
+    "report_date": "2013-11-15",
+    "accession": "0001104659-14-005304",
+    "primary_document": "a14-3911_18ka.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=9.01; accession=0001104659-14-005304"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-02-13",
+    "acceptance_datetime": "2014-02-13T12:30:58.000Z",
+    "report_date": "2014-02-13",
+    "accession": "0001104659-14-009389",
+    "primary_document": "a14-5421_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-009389"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2014-03-03",
+    "acceptance_datetime": "2014-03-03T21:12:57.000Z",
+    "report_date": "2014-02-28",
+    "accession": "0001104659-14-015352",
+    "primary_document": "a14-7235_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001104659-14-015352"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-03-10",
+    "acceptance_datetime": "2014-03-10T10:48:05.000Z",
+    "report_date": "2014-03-10",
+    "accession": "0001104659-14-017649",
+    "primary_document": "a14-7686_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-14-017649"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-04-24",
+    "acceptance_datetime": "2014-04-24T10:26:57.000Z",
+    "report_date": "2014-04-24",
+    "accession": "0001104659-14-029693",
+    "primary_document": "a14-10931_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-029693"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-04-29",
+    "acceptance_datetime": "2014-04-29T01:35:03.000Z",
+    "report_date": "2014-04-24",
+    "accession": "0001104659-14-031448",
+    "primary_document": "a14-11363_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-14-031448"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2014-05-27",
+    "acceptance_datetime": "2014-05-27T20:01:24.000Z",
+    "report_date": "2014-05-21",
+    "accession": "0001104659-14-041659",
+    "primary_document": "a14-13629_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001104659-14-041659"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-05-28",
+    "acceptance_datetime": "2014-05-28T16:16:42.000Z",
+    "report_date": "2014-05-21",
+    "accession": "0001104659-14-041903",
+    "primary_document": "a14-13747_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01; accession=0001104659-14-041903"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-06-17",
+    "acceptance_datetime": "2014-06-17T11:59:41.000Z",
+    "report_date": "2014-06-17",
+    "accession": "0001104659-14-046376",
+    "primary_document": "a14-15230_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-14-046376"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-07-21",
+    "acceptance_datetime": "2014-07-21T16:07:20.000Z",
+    "report_date": "2014-07-21",
+    "accession": "0001104659-14-052411",
+    "primary_document": "a14-17447_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-14-052411"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-07-24",
+    "acceptance_datetime": "2014-07-24T11:22:52.000Z",
+    "report_date": "2014-07-24",
+    "accession": "0001104659-14-053121",
+    "primary_document": "a14-17580_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-053121"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2014-08-06",
+    "acceptance_datetime": "2014-08-05T22:39:44.000Z",
+    "report_date": "2014-08-01",
+    "accession": "0001104659-14-057043",
+    "primary_document": "a14-18279_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001104659-14-057043"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-08-26",
+    "acceptance_datetime": "2014-08-26T13:05:38.000Z",
+    "report_date": "2014-08-26",
+    "accession": "0001104659-14-063014",
+    "primary_document": "a14-19982_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-14-063014"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-09-02",
+    "acceptance_datetime": "2014-09-02T10:31:24.000Z",
+    "report_date": "2014-09-02",
+    "accession": "0001104659-14-064098",
+    "primary_document": "a14-20251_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-14-064098"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-09-16",
+    "acceptance_datetime": "2014-09-16T16:59:10.000Z",
+    "report_date": "2014-09-16",
+    "accession": "0001104659-14-066523",
+    "primary_document": "a14-21031_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-14-066523"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-10-23",
+    "acceptance_datetime": "2014-10-23T11:50:37.000Z",
+    "report_date": "2014-10-23",
+    "accession": "0001104659-14-073205",
+    "primary_document": "a14-22709_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-073205"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-11-12",
+    "acceptance_datetime": "2014-11-12T12:28:24.000Z",
+    "report_date": "2014-11-12",
+    "accession": "0001104659-14-079323",
+    "primary_document": "a14-24266_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-14-079323"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-11-24",
+    "acceptance_datetime": "2014-11-24T13:22:23.000Z",
+    "report_date": "2014-11-24",
+    "accession": "0001104659-14-082849",
+    "primary_document": "a14-25054_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-14-082849"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-12-02",
+    "acceptance_datetime": "2014-12-02T12:24:43.000Z",
+    "report_date": "2014-12-02",
+    "accession": "0001104659-14-084262",
+    "primary_document": "a14-25345_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-14-084262"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2014-12-22",
+    "acceptance_datetime": "2014-12-22T14:21:57.000Z",
+    "report_date": "2014-12-20",
+    "accession": "0001104659-14-088093",
+    "primary_document": "a14-26602_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-14-088093"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-01-16",
+    "acceptance_datetime": "2015-01-16T15:47:42.000Z",
+    "report_date": "2015-01-16",
+    "accession": "0001104659-15-002823",
+    "primary_document": "a15-2620_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-15-002823"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2015-01-20",
+    "acceptance_datetime": "2015-01-20T13:32:18.000Z",
+    "report_date": "2015-01-16",
+    "accession": "0001104659-15-003134",
+    "primary_document": "a15-2739_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001104659-15-003134"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2015-01-30",
+    "acceptance_datetime": "2015-01-30T21:15:24.000Z",
+    "report_date": "2015-01-30",
+    "accession": "0001104659-15-005696",
+    "primary_document": "a15-3376_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001104659-15-005696"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-03-02",
+    "acceptance_datetime": "2015-03-02T21:12:02.000Z",
+    "report_date": "2015-03-02",
+    "accession": "0001104659-15-015799",
+    "primary_document": "a15-5701_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-015799"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2015-04-21",
+    "acceptance_datetime": "2015-04-21T20:09:05.000Z",
+    "report_date": "2015-04-15",
+    "accession": "0001104659-15-029038",
+    "primary_document": "a15-9505_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-15-029038"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-04-23",
+    "acceptance_datetime": "2015-04-23T11:59:22.000Z",
+    "report_date": "2015-04-23",
+    "accession": "0001104659-15-029535",
+    "primary_document": "a15-9505_28k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-029535"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2015-05-26",
+    "acceptance_datetime": "2015-05-26T21:28:52.000Z",
+    "report_date": "2015-05-19",
+    "accession": "0001104659-15-040782",
+    "primary_document": "a15-12715_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-15-040782"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-05-27",
+    "acceptance_datetime": "2015-05-27T20:20:22.000Z",
+    "report_date": "2015-05-20",
+    "accession": "0001104659-15-041212",
+    "primary_document": "a15-12715_28k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001104659-15-041212"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-06-10",
+    "acceptance_datetime": "2015-06-10T12:35:04.000Z",
+    "report_date": "2015-06-10",
+    "accession": "0001104659-15-044453",
+    "primary_document": "a15-13710_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-15-044453"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-07-23",
+    "acceptance_datetime": "2015-07-23T11:14:48.000Z",
+    "report_date": "2015-07-23",
+    "accession": "0001104659-15-052722",
+    "primary_document": "a15-16026_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-052722"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,8.01,9.01",
+    "filing_date": "2015-07-23",
+    "acceptance_datetime": "2015-07-23T11:15:32.000Z",
+    "report_date": "2015-07-17",
+    "accession": "0001104659-15-052724",
+    "primary_document": "a15-16045_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=3.02,8.01,9.01; accession=0001104659-15-052724"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2015-08-03",
+    "acceptance_datetime": "2015-08-03T12:10:25.000Z",
+    "report_date": "2015-08-03",
+    "accession": "0001410578-15-000271",
+    "primary_document": "a15-16793_18k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01; accession=0001410578-15-000271"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,8.01,9.01",
+    "filing_date": "2015-10-13",
+    "acceptance_datetime": "2015-10-13T11:16:35.000Z",
+    "report_date": "2015-10-13",
+    "accession": "0001628280-15-007643",
+    "primary_document": "a8-kfiled2015x10x13.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=3.02,8.01,9.01; accession=0001628280-15-007643"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-10-22",
+    "acceptance_datetime": "2015-10-22T11:07:24.000Z",
+    "report_date": "2015-10-22",
+    "accession": "0001628280-15-007773",
+    "primary_document": "a8-k2015q3earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-15-007773"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-29",
+    "acceptance_datetime": "2016-02-29T15:46:22.000Z",
+    "report_date": "2016-02-29",
+    "accession": "0001628280-16-011888",
+    "primary_document": "form8-kfilingextensionande.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-16-011888"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-03-02",
+    "acceptance_datetime": "2016-03-02T21:13:53.000Z",
+    "report_date": "2016-03-02",
+    "accession": "0001628280-16-012163",
+    "primary_document": "form8-kpressrelease03_02x2.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001628280-16-012163"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-03-10",
+    "acceptance_datetime": "2016-03-10T12:32:27.000Z",
+    "report_date": "2016-03-10",
+    "accession": "0001628280-16-012541",
+    "primary_document": "a8-k2015q4earningsrelease3.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-16-012541"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01,9.01",
+    "filing_date": "2016-03-28",
+    "acceptance_datetime": "2016-03-28T11:26:22.000Z",
+    "report_date": "2016-03-28",
+    "accession": "0001628280-16-013134",
+    "primary_document": "form8-k20160328item41chang.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=4.01,9.01; accession=0001628280-16-013134"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-04-28",
+    "acceptance_datetime": "2016-04-28T10:56:07.000Z",
+    "report_date": "2016-04-28",
+    "accession": "0001628280-16-014873",
+    "primary_document": "a8-k2016q1earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-16-014873"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-05-10",
+    "acceptance_datetime": "2016-05-10T12:59:49.000Z",
+    "report_date": "2016-05-10",
+    "accession": "0001628280-16-016006",
+    "primary_document": "a8-k201605investorpresenta.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001628280-16-016006"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2016-05-24",
+    "acceptance_datetime": "2016-05-24T15:24:19.000Z",
+    "report_date": "2016-05-24",
+    "accession": "0001628280-16-016638",
+    "primary_document": "a8-kitem507annualmeeting.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001628280-16-016638"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-07-21",
+    "acceptance_datetime": "2016-07-21T12:22:20.000Z",
+    "report_date": "2016-07-21",
+    "accession": "0001628280-16-017684",
+    "primary_document": "a8-k2016q2earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-16-017684"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2016-08-02",
+    "acceptance_datetime": "2016-08-02T16:01:12.000Z",
+    "report_date": "2016-08-02",
+    "accession": "0001628280-16-018256",
+    "primary_document": "a2016088-kitem701.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01; accession=0001628280-16-018256"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2016-08-22",
+    "acceptance_datetime": "2016-08-22T12:41:45.000Z",
+    "report_date": "2016-08-22",
+    "accession": "0001462418-16-000005",
+    "primary_document": "a2016-088xkitem507sharehol.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07,9.01; accession=0001462418-16-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2016-08-24",
+    "acceptance_datetime": "2016-08-24T12:23:54.000Z",
+    "report_date": "2016-08-24",
+    "accession": "0001462418-16-000007",
+    "primary_document": "a8-krestrictedstockagreeme.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,9.01; accession=0001462418-16-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-10-03",
+    "acceptance_datetime": "2016-10-03T13:15:23.000Z",
+    "report_date": "2016-10-03",
+    "accession": "0001462418-16-000009",
+    "primary_document": "form8-k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-16-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-10-27",
+    "acceptance_datetime": "2016-10-27T12:14:47.000Z",
+    "report_date": "2016-10-27",
+    "accession": "0001462418-16-000013",
+    "primary_document": "a8-k2016q3earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-16-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-11-09",
+    "acceptance_datetime": "2016-11-09T13:57:49.000Z",
+    "report_date": "2016-11-09",
+    "accession": "0001462418-16-000018",
+    "primary_document": "asps8-k201611investorpresent.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-16-000018"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-02-16",
+    "acceptance_datetime": "2017-02-16T13:34:37.000Z",
+    "report_date": "2017-02-16",
+    "accession": "0001462418-17-000007",
+    "primary_document": "a8-k2016q4earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-17-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2017-04-13",
+    "acceptance_datetime": "2017-04-13T21:21:21.000Z",
+    "report_date": "2017-04-13",
+    "accession": "0001462418-17-000010",
+    "primary_document": "form8-k20170413.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,9.01; accession=0001462418-17-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-04-27",
+    "acceptance_datetime": "2017-04-27T11:47:12.000Z",
+    "report_date": "2017-04-27",
+    "accession": "0001462418-17-000016",
+    "primary_document": "a8-k2017q1earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-17-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-05-08",
+    "acceptance_datetime": "2017-05-08T12:27:55.000Z",
+    "report_date": "2017-05-08",
+    "accession": "0001462418-17-000019",
+    "primary_document": "a8-k20170508announcement.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-17-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2017-05-23",
+    "acceptance_datetime": "2017-05-23T17:27:06.000Z",
+    "report_date": "2017-05-23",
+    "accession": "0001462418-17-000021",
+    "primary_document": "a8-k201705annualmeeting.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001462418-17-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-08-09",
+    "acceptance_datetime": "2017-08-09T11:01:05.000Z",
+    "report_date": "2017-08-09",
+    "accession": "0001462418-17-000027",
+    "primary_document": "a8-k2017q2earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-17-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2017-08-09",
+    "acceptance_datetime": "2017-08-09T13:03:28.000Z",
+    "report_date": "2017-08-09",
+    "accession": "0001462418-17-000029",
+    "primary_document": "a8-k20170809announcement.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,9.01; accession=0001462418-17-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2017-08-28",
+    "acceptance_datetime": "2017-08-28T10:48:54.000Z",
+    "report_date": "2017-08-28",
+    "accession": "0001462418-17-000031",
+    "primary_document": "a8-k20170828announcement.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001462418-17-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-08-28",
+    "acceptance_datetime": "2017-08-28T14:10:01.000Z",
+    "report_date": "2017-08-28",
+    "accession": "0001462418-17-000033",
+    "primary_document": "a8-k20170828presentation.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-17-000033"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-10-26",
+    "acceptance_datetime": "2017-10-26T10:59:44.000Z",
+    "report_date": "2017-10-26",
+    "accession": "0001462418-17-000040",
+    "primary_document": "a8-k2017q3earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-17-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2017-12-07",
+    "acceptance_datetime": "2017-12-07T17:48:13.000Z",
+    "report_date": "2017-12-07",
+    "accession": "0001462418-17-000044",
+    "primary_document": "a8-k20171207sstlamendment.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001462418-17-000044"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2018-01-12",
+    "acceptance_datetime": "2018-01-12T21:08:01.000Z",
+    "report_date": "2018-01-12",
+    "accession": "0001462418-18-000002",
+    "primary_document": "a8-k20180112.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01; accession=0001462418-18-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2018-02-01",
+    "acceptance_datetime": "2018-02-01T13:56:03.000Z",
+    "report_date": "2018-02-01",
+    "accession": "0001462418-18-000004",
+    "primary_document": "a8-k20180201.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01; accession=0001462418-18-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-02-16",
+    "acceptance_datetime": "2018-02-16T21:22:49.000Z",
+    "report_date": "2018-02-16",
+    "accession": "0001462418-18-000006",
+    "primary_document": "a8-k20180216.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-18-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-22",
+    "acceptance_datetime": "2018-02-22T12:27:51.000Z",
+    "report_date": "2018-02-22",
+    "accession": "0001462418-18-000012",
+    "primary_document": "a8-k2017q4earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-18-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-03-14",
+    "acceptance_datetime": "2018-03-14T12:52:37.000Z",
+    "report_date": "2018-03-14",
+    "accession": "0001462418-18-000014",
+    "primary_document": "a8-k20180314.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-18-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,7.01,9.01",
+    "filing_date": "2018-04-04",
+    "acceptance_datetime": "2018-04-04T13:52:00.000Z",
+    "report_date": "2018-04-04",
+    "accession": "0001462418-18-000016",
+    "primary_document": "a8-k20170404.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,1.02,2.03,7.01,9.01; accession=0001462418-18-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-04-26",
+    "acceptance_datetime": "2018-04-26T11:11:41.000Z",
+    "report_date": "2018-04-26",
+    "accession": "0001462418-18-000022",
+    "primary_document": "a8-k2018q1earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-18-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2018-05-15",
+    "acceptance_datetime": "2018-05-15T20:41:09.000Z",
+    "report_date": "2018-05-15",
+    "accession": "0001462418-18-000024",
+    "primary_document": "a8-k20180515.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01; accession=0001462418-18-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-05-18",
+    "acceptance_datetime": "2018-05-18T20:34:22.000Z",
+    "report_date": "2018-05-18",
+    "accession": "0001462418-18-000026",
+    "primary_document": "a8-k20180518.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001462418-18-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-06-05",
+    "acceptance_datetime": "2018-06-05T16:25:35.000Z",
+    "report_date": "2018-06-05",
+    "accession": "0001462418-18-000029",
+    "primary_document": "a8-k20180605.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-18-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-07-26",
+    "acceptance_datetime": "2018-07-26T11:11:32.000Z",
+    "report_date": "2018-07-26",
+    "accession": "0001462418-18-000034",
+    "primary_document": "a8-k2018q2earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-18-000034"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2018-08-09",
+    "acceptance_datetime": "2018-08-09T11:51:30.000Z",
+    "report_date": "2018-08-09",
+    "accession": "0001462418-18-000036",
+    "primary_document": "a8-k20180809.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,9.01; accession=0001462418-18-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-08-29",
+    "acceptance_datetime": "2018-08-29T20:57:06.000Z",
+    "report_date": "2018-08-29",
+    "accession": "0001462418-18-000041",
+    "primary_document": "a8-k20180829.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-18-000041"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2018-08-31",
+    "acceptance_datetime": "2018-08-31T21:26:57.000Z",
+    "report_date": "2018-08-31",
+    "accession": "0001462418-18-000044",
+    "primary_document": "a8-k20180831pressrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001462418-18-000044"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2018-09-28",
+    "acceptance_datetime": "2018-09-28T16:24:01.000Z",
+    "report_date": "2018-09-28",
+    "accession": "0001462418-18-000046",
+    "primary_document": "a8-k20180925specialmeeting.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07,9.01; accession=0001462418-18-000046"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01",
+    "filing_date": "2018-10-19",
+    "acceptance_datetime": "2018-10-19T21:09:53.000Z",
+    "report_date": "2018-10-19",
+    "accession": "0001462418-18-000049",
+    "primary_document": "a8-k20181019departureofoff.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,7.01; accession=0001462418-18-000049"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-10-25",
+    "acceptance_datetime": "2018-10-25T11:59:57.000Z",
+    "report_date": "2018-10-25",
+    "accession": "0001462418-18-000054",
+    "primary_document": "a8-k2018q3earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-18-000054"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-11-09",
+    "acceptance_datetime": "2018-11-09T22:07:27.000Z",
+    "report_date": "2018-11-09",
+    "accession": "0001462418-18-000058",
+    "primary_document": "a8-k20181109amendmentofemp.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-18-000058"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-11-26",
+    "acceptance_datetime": "2018-11-26T14:21:25.000Z",
+    "report_date": "2018-11-26",
+    "accession": "0001462418-18-000061",
+    "primary_document": "a8-k20181115discontinuatio.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-18-000061"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2019-02-26",
+    "acceptance_datetime": "2019-02-26T11:48:25.000Z",
+    "report_date": "2019-02-26",
+    "accession": "0001462418-19-000005",
+    "primary_document": "a8-k20190226ocwenagreement.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01; accession=0001462418-19-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-26",
+    "acceptance_datetime": "2019-02-26T11:53:28.000Z",
+    "report_date": "2019-02-26",
+    "accession": "0001462418-19-000007",
+    "primary_document": "a8-k2018q4earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-19-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-03-22",
+    "acceptance_datetime": "2019-03-22T21:04:08.000Z",
+    "report_date": "2019-03-22",
+    "accession": "0001462418-19-000011",
+    "primary_document": "a8-k20190322officerchanges.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-19-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-03-27",
+    "acceptance_datetime": "2019-03-27T20:50:04.000Z",
+    "report_date": "2019-03-27",
+    "accession": "0001462418-19-000013",
+    "primary_document": "a8-k20190327boardchanges.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-19-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-03-29",
+    "acceptance_datetime": "2019-03-29T13:15:51.000Z",
+    "report_date": "2019-03-29",
+    "accession": "0001462418-19-000017",
+    "primary_document": "a8-k20190329saleoffinancia.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-19-000017"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-04-25",
+    "acceptance_datetime": "2019-04-25T10:49:24.000Z",
+    "report_date": "2019-04-25",
+    "accession": "0001462418-19-000023",
+    "primary_document": "a8-k2019q1earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-19-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01",
+    "filing_date": "2019-05-24",
+    "acceptance_datetime": "2019-05-24T20:34:01.000Z",
+    "report_date": "2019-05-24",
+    "accession": "0001462418-19-000026",
+    "primary_document": "a8-k20190523annualmeetingr.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07,8.01; accession=0001462418-19-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-07-01",
+    "acceptance_datetime": "2019-07-01T15:45:04.000Z",
+    "report_date": "2019-07-01",
+    "accession": "0001462418-19-000031",
+    "primary_document": "a8-k20190628saleoffinancia.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-19-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-07-25",
+    "acceptance_datetime": "2019-07-25T10:50:51.000Z",
+    "report_date": "2019-07-25",
+    "accession": "0001462418-19-000036",
+    "primary_document": "a8-k2019q2earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-19-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-09-25",
+    "acceptance_datetime": "2019-09-25T15:43:36.000Z",
+    "report_date": "2019-09-25",
+    "accession": "0001462418-19-000043",
+    "primary_document": "a8-k20190903pointillist.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-19-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-10-08",
+    "acceptance_datetime": "2019-10-08T15:23:54.000Z",
+    "report_date": "2019-10-08",
+    "accession": "0001462418-19-000045",
+    "primary_document": "a8-k20191008ownerscom.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-19-000045"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-10-11",
+    "acceptance_datetime": "2019-10-11T20:15:23.000Z",
+    "report_date": "2019-10-11",
+    "accession": "0001462418-19-000047",
+    "primary_document": "a8-k20191110.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-19-000047"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-10-24",
+    "acceptance_datetime": "2019-10-24T11:01:36.000Z",
+    "report_date": "2019-10-24",
+    "accession": "0001462418-19-000053",
+    "primary_document": "a8-k2019q3earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-19-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-01-30",
+    "acceptance_datetime": "2020-01-30T21:32:03.000Z",
+    "report_date": "2020-01-30",
+    "accession": "0001462418-20-000002",
+    "primary_document": "a8-k20200128.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-20-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-03-04",
+    "acceptance_datetime": "2020-03-04T21:26:52.000Z",
+    "report_date": "2020-03-04",
+    "accession": "0001462418-20-000008",
+    "primary_document": "a8-k20200302.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-20-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-03-05",
+    "acceptance_datetime": "2020-03-05T21:01:32.000Z",
+    "report_date": "2020-03-05",
+    "accession": "0001462418-20-000015",
+    "primary_document": "a8-k2019q4earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-20-000015"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01",
+    "filing_date": "2020-04-06",
+    "acceptance_datetime": "2020-04-06T21:18:19.000Z",
+    "report_date": "2020-04-06",
+    "accession": "0001462418-20-000030",
+    "primary_document": "a8-k20200406xcovidx19.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,7.01; accession=0001462418-20-000030"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-04-30",
+    "acceptance_datetime": "2020-04-30T10:56:45.000Z",
+    "report_date": "2020-04-30",
+    "accession": "0001462418-20-000036",
+    "primary_document": "a8-k2020q1earningsrelease.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-20-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2020-05-22",
+    "acceptance_datetime": "2020-05-22T20:17:33.000Z",
+    "report_date": "2020-05-22",
+    "accession": "0001462418-20-000040",
+    "primary_document": "a8-k20200522annualmeetingr.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001462418-20-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-08-06",
+    "acceptance_datetime": "2020-08-06T11:18:52.000Z",
+    "report_date": "2020-08-06",
+    "accession": "0001462418-20-000055",
+    "primary_document": "a8-k2020q2earningsrele.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-20-000055"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01",
+    "filing_date": "2020-10-02",
+    "acceptance_datetime": "2020-10-02T21:16:18.000Z",
+    "report_date": "2020-10-02",
+    "accession": "0001462418-20-000059",
+    "primary_document": "asps-20201002.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,7.01; accession=0001462418-20-000059"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-10-29",
+    "acceptance_datetime": "2020-10-29T10:49:09.000Z",
+    "report_date": "2020-10-29",
+    "accession": "0001462418-20-000068",
+    "primary_document": "asps-20201029.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-20-000068"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-02-26",
+    "acceptance_datetime": "2021-02-26T21:01:46.000Z",
+    "report_date": "2021-02-26",
+    "accession": "0001462418-21-000002",
+    "primary_document": "asps-20210226.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-21-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-03-11",
+    "acceptance_datetime": "2021-03-11T12:03:09.000Z",
+    "report_date": "2021-03-11",
+    "accession": "0001462418-21-000007",
+    "primary_document": "asps-20210311.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-21-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-03-11",
+    "acceptance_datetime": "2021-03-11T21:35:31.000Z",
+    "report_date": "2021-03-11",
+    "accession": "0001462418-21-000010",
+    "primary_document": "asps-20210311.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-21-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2021-05-06",
+    "acceptance_datetime": "2021-05-06T13:12:26.000Z",
+    "report_date": "2021-05-06",
+    "accession": "0001462418-21-000012",
+    "primary_document": "asps-20210506.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,9.01; accession=0001462418-21-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-05-07",
+    "acceptance_datetime": "2021-05-07T20:31:34.000Z",
+    "report_date": "2021-05-07",
+    "accession": "0001462418-21-000014",
+    "primary_document": "asps-20210507.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-21-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-05-10",
+    "acceptance_datetime": "2021-05-10T11:01:15.000Z",
+    "report_date": "2021-05-10",
+    "accession": "0001462418-21-000018",
+    "primary_document": "asps-20210510.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-21-000018"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2021-05-18",
+    "acceptance_datetime": "2021-05-18T20:28:40.000Z",
+    "report_date": "2021-05-18",
+    "accession": "0001462418-21-000021",
+    "primary_document": "asps-20210518.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001462418-21-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2021-06-23",
+    "acceptance_datetime": "2021-06-23T14:48:13.000Z",
+    "report_date": "2021-06-23",
+    "accession": "0001462418-21-000025",
+    "primary_document": "asps-20210623.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001462418-21-000025"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-07-29",
+    "acceptance_datetime": "2021-07-29T11:10:23.000Z",
+    "report_date": "2021-07-29",
+    "accession": "0001462418-21-000032",
+    "primary_document": "asps-20210729.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-21-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2021-10-07",
+    "acceptance_datetime": "2021-10-07T12:30:40.000Z",
+    "report_date": "2021-10-07",
+    "accession": "0001462418-21-000038",
+    "primary_document": "asps-20211007.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001462418-21-000038"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-04",
+    "acceptance_datetime": "2021-11-04T11:55:56.000Z",
+    "report_date": "2021-11-04",
+    "accession": "0001462418-21-000044",
+    "primary_document": "asps-20211104.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-21-000044"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,2.01,5.02,7.01,9.01",
+    "filing_date": "2021-12-01",
+    "acceptance_datetime": "2021-12-01T15:41:27.000Z",
+    "report_date": "2021-12-01",
+    "accession": "0001462418-21-000052",
+    "primary_document": "asps-20211201.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.02,2.01,5.02,7.01,9.01; accession=0001462418-21-000052"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-12-23",
+    "acceptance_datetime": "2021-12-23T21:20:10.000Z",
+    "report_date": "2021-12-23",
+    "accession": "0001462418-21-000057",
+    "primary_document": "asps-20211223.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-21-000057"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-03-03",
+    "acceptance_datetime": "2022-03-03T12:01:59.000Z",
+    "report_date": "2022-03-03",
+    "accession": "0001462418-22-000006",
+    "primary_document": "asps-20220303.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-22-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2022-03-07",
+    "acceptance_datetime": "2022-03-07T14:32:24.000Z",
+    "report_date": "2022-03-07",
+    "accession": "0001462418-22-000011",
+    "primary_document": "asps-20220307.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,9.01; accession=0001462418-22-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2022-04-15",
+    "acceptance_datetime": "2022-04-15T14:21:33.000Z",
+    "report_date": "2022-04-15",
+    "accession": "0001462418-22-000013",
+    "primary_document": "asps-20220415.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01; accession=0001462418-22-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-04-28",
+    "acceptance_datetime": "2022-04-28T11:07:50.000Z",
+    "report_date": "2022-04-28",
+    "accession": "0001462418-22-000019",
+    "primary_document": "asps-20220428.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-22-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2022-05-18",
+    "acceptance_datetime": "2022-05-18T21:07:23.000Z",
+    "report_date": "2022-05-18",
+    "accession": "0001462418-22-000023",
+    "primary_document": "asps-20220518.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001462418-22-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01,9.01",
+    "filing_date": "2022-05-27",
+    "acceptance_datetime": "2022-05-27T21:01:07.000Z",
+    "report_date": "2022-05-27",
+    "accession": "0001462418-22-000026",
+    "primary_document": "asps-20220527.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=4.01,9.01; accession=0001462418-22-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-06-22",
+    "acceptance_datetime": "2022-06-22T21:03:42.000Z",
+    "report_date": "2022-06-22",
+    "accession": "0001462418-22-000029",
+    "primary_document": "asps-20220622.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-22-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-07-28",
+    "acceptance_datetime": "2022-07-28T10:59:06.000Z",
+    "report_date": "2022-07-28",
+    "accession": "0001462418-22-000036",
+    "primary_document": "asps-20220728.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-22-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01",
+    "filing_date": "2022-08-22",
+    "acceptance_datetime": "2022-08-22T21:12:44.000Z",
+    "report_date": "2022-08-22",
+    "accession": "0001462418-22-000039",
+    "primary_document": "asps-20220822.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=4.01; accession=0001462418-22-000039"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-11-03",
+    "acceptance_datetime": "2022-11-03T11:19:29.000Z",
+    "report_date": "2022-11-03",
+    "accession": "0001462418-22-000048",
+    "primary_document": "asps-20221103.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-22-000048"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-12-12",
+    "acceptance_datetime": "2022-12-12T21:24:33.000Z",
+    "report_date": "2022-12-12",
+    "accession": "0001462418-22-000054",
+    "primary_document": "asps-20221212_d2.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01,9.01; accession=0001462418-22-000054"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,9.01",
+    "filing_date": "2023-02-03",
+    "acceptance_datetime": "2023-02-03T14:32:15.000Z",
+    "report_date": "2023-02-03",
+    "accession": "0001462418-23-000006",
+    "primary_document": "asps-20230203.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,2.02,9.01; accession=0001462418-23-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,8.01,9.01",
+    "filing_date": "2023-02-10",
+    "acceptance_datetime": "2023-02-09T23:07:32.000Z",
+    "report_date": "2023-02-09",
+    "accession": "0001462418-23-000008",
+    "primary_document": "asps-20230209.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,7.01,8.01,9.01; accession=0001462418-23-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2023-02-10",
+    "acceptance_datetime": "2023-02-10T13:54:02.000Z",
+    "report_date": "2023-02-10",
+    "accession": "0001462418-23-000010",
+    "primary_document": "asps-20230210.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001462418-23-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-02-14",
+    "acceptance_datetime": "2023-02-14T21:14:29.000Z",
+    "report_date": "2023-02-14",
+    "accession": "0001462418-23-000014",
+    "primary_document": "asps-20230214.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-23-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,7.01,9.01",
+    "filing_date": "2023-02-21",
+    "acceptance_datetime": "2023-02-21T21:18:24.000Z",
+    "report_date": "2023-02-21",
+    "accession": "0001462418-23-000019",
+    "primary_document": "asps-20230221.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,3.02,7.01,9.01; accession=0001462418-23-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-03-30",
+    "acceptance_datetime": "2023-03-30T11:10:38.000Z",
+    "report_date": "2023-03-30",
+    "accession": "0001462418-23-000025",
+    "primary_document": "asps-20230330.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-23-000025"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-04-27",
+    "acceptance_datetime": "2023-04-27T11:05:13.000Z",
+    "report_date": "2023-04-27",
+    "accession": "0001462418-23-000032",
+    "primary_document": "asps-20230427.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-23-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2023-05-17",
+    "acceptance_datetime": "2023-05-17T16:35:41.000Z",
+    "report_date": "2023-05-17",
+    "accession": "0001462418-23-000035",
+    "primary_document": "asps-20230517.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001462418-23-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-05-24",
+    "acceptance_datetime": "2023-05-24T11:20:20.000Z",
+    "report_date": "2023-05-24",
+    "accession": "0001462418-23-000038",
+    "primary_document": "asps-20230524.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-23-000038"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-07-27",
+    "acceptance_datetime": "2023-07-27T11:27:21.000Z",
+    "report_date": "2023-07-27",
+    "accession": "0001462418-23-000048",
+    "primary_document": "asps-20230727.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-23-000048"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2023-09-07",
+    "acceptance_datetime": "2023-09-07T20:03:18.000Z",
+    "report_date": "2023-09-07",
+    "accession": "0001462418-23-000054",
+    "primary_document": "asps-20230907.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001462418-23-000054"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-09-07",
+    "acceptance_datetime": "2023-09-07T20:05:56.000Z",
+    "report_date": "2023-09-07",
+    "accession": "0001462418-23-000055",
+    "primary_document": "asps-20230907.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-23-000055"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2023-09-08",
+    "acceptance_datetime": "2023-09-08T14:13:33.000Z",
+    "report_date": "2023-09-08",
+    "accession": "0001462418-23-000060",
+    "primary_document": "asps-20230908.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001462418-23-000060"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-09-12",
+    "acceptance_datetime": "2023-09-12T15:56:50.000Z",
+    "report_date": "2023-09-12",
+    "accession": "0001462418-23-000064",
+    "primary_document": "asps-20230912.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-23-000064"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-09-12",
+    "acceptance_datetime": "2023-09-12T19:19:58.000Z",
+    "report_date": "2023-09-12",
+    "accession": "0001462418-23-000066",
+    "primary_document": "asps-20230912.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-23-000066"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,9.01",
+    "filing_date": "2023-09-12",
+    "acceptance_datetime": "2023-09-12T20:03:05.000Z",
+    "report_date": "2023-09-12",
+    "accession": "0001462418-23-000068",
+    "primary_document": "asps-20230912.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.02,9.01; accession=0001462418-23-000068"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-10-26",
+    "acceptance_datetime": "2023-10-26T11:02:02.000Z",
+    "report_date": "2023-10-26",
+    "accession": "0001462418-23-000076",
+    "primary_document": "asps-20231026.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-23-000076"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-11-03",
+    "acceptance_datetime": "2023-11-03T20:01:05.000Z",
+    "report_date": "2023-11-03",
+    "accession": "0001462418-23-000079",
+    "primary_document": "asps-20231103.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-23-000079"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-11-15",
+    "acceptance_datetime": "2023-11-15T21:01:45.000Z",
+    "report_date": "2023-11-15",
+    "accession": "0001462418-23-000082",
+    "primary_document": "asps-20231115.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-23-000082"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-03-07",
+    "acceptance_datetime": "2024-03-07T12:04:28.000Z",
+    "report_date": "2024-03-07",
+    "accession": "0001462418-24-000011",
+    "primary_document": "asps-20240307.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-24-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-04-25",
+    "acceptance_datetime": "2024-04-25T11:03:47.000Z",
+    "report_date": "2024-04-25",
+    "accession": "0001462418-24-000020",
+    "primary_document": "asps-20240425.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-24-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-05-21",
+    "acceptance_datetime": "2024-05-21T20:05:32.000Z",
+    "report_date": "2024-05-21",
+    "accession": "0001462418-24-000024",
+    "primary_document": "asps-20240521.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-24-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2024-05-30",
+    "acceptance_datetime": "2024-05-30T20:07:33.000Z",
+    "report_date": "2024-05-30",
+    "accession": "0001462418-24-000027",
+    "primary_document": "asps-20240530.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001462418-24-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-07-25",
+    "acceptance_datetime": "2024-07-25T11:01:22.000Z",
+    "report_date": "2024-07-25",
+    "accession": "0001462418-24-000037",
+    "primary_document": "asps-20240725.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-24-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-10-24",
+    "acceptance_datetime": "2024-10-24T11:02:40.000Z",
+    "report_date": "2024-10-24",
+    "accession": "0001462418-24-000047",
+    "primary_document": "asps-20241024.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-24-000047"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2024-12-17",
+    "acceptance_datetime": "2024-12-17T02:44:26.000Z",
+    "report_date": "2024-12-16",
+    "accession": "0001462418-24-000052",
+    "primary_document": "asps-20241216.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001462418-24-000052"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01",
+    "filing_date": "2024-12-23",
+    "acceptance_datetime": "2024-12-23T22:20:26.000Z",
+    "report_date": "2024-12-23",
+    "accession": "0001462418-24-000057",
+    "primary_document": "asps-20241223.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=3.01; accession=0001462418-24-000057"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-01-30",
+    "acceptance_datetime": "2025-01-30T21:44:17.000Z",
+    "report_date": "2025-01-24",
+    "accession": "0001104659-25-007624",
+    "primary_document": "tm254950d1_8k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001104659-25-007624"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-02-04",
+    "acceptance_datetime": "2025-02-04T21:34:20.000Z",
+    "report_date": "2025-02-04",
+    "accession": "0001104659-25-009151",
+    "primary_document": "tm255494d1_8k.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-25-009151"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2025-02-18",
+    "acceptance_datetime": "2025-02-18T21:01:22.000Z",
+    "report_date": "2025-02-18",
+    "accession": "0001462418-25-000006",
+    "primary_document": "asps-20250218.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,5.07; accession=0001462418-25-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "3.03,5.03,9.01",
+    "filing_date": "2025-02-24",
+    "acceptance_datetime": "2025-02-24T21:42:56.000Z",
+    "report_date": "2025-02-18",
+    "accession": "0001462418-25-000019",
+    "primary_document": "asps-20250218.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=3.03,5.03,9.01; accession=0001462418-25-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,3.02,7.01,9.01",
+    "filing_date": "2025-02-25",
+    "acceptance_datetime": "2025-02-25T22:19:29.000Z",
+    "report_date": "2025-02-19",
+    "accession": "0001462418-25-000025",
+    "primary_document": "asps-20250219.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,1.02,2.03,3.02,7.01,9.01; accession=0001462418-25-000025"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-02-28",
+    "acceptance_datetime": "2025-02-28T21:02:32.000Z",
+    "report_date": "2025-02-28",
+    "accession": "0001462418-25-000031",
+    "primary_document": "asps-20250228.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02; accession=0001462418-25-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-03-13",
+    "acceptance_datetime": "2025-03-13T11:17:18.000Z",
+    "report_date": "2025-03-13",
+    "accession": "0001462418-25-000040",
+    "primary_document": "asps-20250313.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-25-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01",
+    "filing_date": "2025-03-13",
+    "acceptance_datetime": "2025-03-13T19:13:01.000Z",
+    "report_date": "2025-03-12",
+    "accession": "0001462418-25-000043",
+    "primary_document": "asps-20250312.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=3.01; accession=0001462418-25-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2025-04-02",
+    "acceptance_datetime": "2025-04-02T13:30:25.000Z",
+    "report_date": "2025-03-31",
+    "accession": "0001462418-25-000065",
+    "primary_document": "asps-20250331.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001462418-25-000065"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-05-01",
+    "acceptance_datetime": "2025-05-01T11:03:56.000Z",
+    "report_date": "2025-05-01",
+    "accession": "0001462418-25-000074",
+    "primary_document": "asps-20250501.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-25-000074"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-05-06",
+    "acceptance_datetime": "2025-05-06T16:08:31.000Z",
+    "report_date": "2025-05-06",
+    "accession": "0001462418-25-000078",
+    "primary_document": "asps-20250506.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=8.01,9.01; accession=0001462418-25-000078"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,7.01,9.01",
+    "filing_date": "2025-05-13",
+    "acceptance_datetime": "2025-05-13T16:17:36.000Z",
+    "report_date": "2025-05-13",
+    "accession": "0001462418-25-000080",
+    "primary_document": "asps-20250513.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07,7.01,9.01; accession=0001462418-25-000080"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2025-05-23",
+    "acceptance_datetime": "2025-05-23T11:41:47.000Z",
+    "report_date": "2025-05-23",
+    "accession": "0001462418-25-000085",
+    "primary_document": "asps-20250523.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-25-000085"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-07-24",
+    "acceptance_datetime": "2025-07-24T11:03:33.000Z",
+    "report_date": "2025-07-24",
+    "accession": "0001462418-25-000091",
+    "primary_document": "asps-20250724.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-25-000091"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01",
+    "filing_date": "2025-08-04",
+    "acceptance_datetime": "2025-08-04T15:19:58.000Z",
+    "report_date": "2025-08-04",
+    "accession": "0001462418-25-000094",
+    "primary_document": "asps-20250804.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,8.01; accession=0001462418-25-000094"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.07,7.01,9.01",
+    "filing_date": "2025-08-08",
+    "acceptance_datetime": "2025-08-08T21:17:14.000Z",
+    "report_date": "2025-05-13",
+    "accession": "0001462418-25-000098",
+    "primary_document": "asps-20250513.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07,7.01,9.01; accession=0001462418-25-000098"
+  },
+  {
+    "form": "8-K/A",
+    "items": "7.01,9.01",
+    "filing_date": "2025-08-08",
+    "acceptance_datetime": "2025-08-08T21:19:03.000Z",
+    "report_date": "2025-05-23",
+    "accession": "0001462418-25-000099",
+    "primary_document": "asps-20250523.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=7.01,9.01; accession=0001462418-25-000099"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-10-23",
+    "acceptance_datetime": "2025-10-23T11:05:38.000Z",
+    "report_date": "2025-10-23",
+    "accession": "0001462418-25-000111",
+    "primary_document": "asps-20251023.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-25-000111"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,8.01",
+    "filing_date": "2026-02-18",
+    "acceptance_datetime": "2026-02-18T22:12:42.000Z",
+    "report_date": "2026-02-11",
+    "accession": "0001462418-26-000009",
+    "primary_document": "asps-20260211.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.02,7.01,8.01; accession=0001462418-26-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-03-04",
+    "acceptance_datetime": "2026-03-04T12:13:23.000Z",
+    "report_date": "2026-03-04",
+    "accession": "0001462418-26-000020",
+    "primary_document": "asps-20260304.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-26-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-04-23",
+    "acceptance_datetime": "2026-04-23T11:05:02.000Z",
+    "report_date": "2026-04-23",
+    "accession": "0001462418-26-000032",
+    "primary_document": "asps-20260423.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-26-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2026-05-20",
+    "acceptance_datetime": "2026-05-20T18:00:41.000Z",
+    "report_date": "2026-05-20",
+    "accession": "0001462418-26-000036",
+    "primary_document": "asps-20260520.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=5.07; accession=0001462418-26-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-07-23",
+    "acceptance_datetime": "2026-07-23T11:04:57.000Z",
+    "report_date": "2026-07-23",
+    "accession": "0001462418-26-000047",
+    "primary_document": "asps-20260723.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-26-000047"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-10-29",
+    "acceptance_datetime": "2026-10-29T11:02:30.000Z",
+    "report_date": "2026-10-29",
+    "accession": "0001462418-26-000055",
+    "primary_document": "asps-20261029.htm",
+    "cik": "0001462418",
+    "issuer_name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+    "tickers": [
+      "ASPS",
+      "ASPSW",
+      "ASPSZ"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001462418.json",
+    "locator": "8-K items=2.02,9.01; accession=0001462418-26-000055"
+  }
+]
