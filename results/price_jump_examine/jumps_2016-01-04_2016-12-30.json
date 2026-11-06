@@ -14511,14 +14511,16 @@
     "vol_ratio": 5.173277901225719,
     "cik": "0001578453",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/DLNG?date=2016-03-31&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for DLNG. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SC",
@@ -16459,14 +16461,16 @@
     "vol_ratio": 6.490933692000463,
     "cik": "0000855658",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/LSCC?date=2016-04-13&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for LSCC. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "NORNQ",
@@ -37549,14 +37553,16 @@
     "vol_ratio": 3.43801293333597,
     "cik": "0001089872",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GAIA?date=2016-10-31&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for GAIA. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "INTX",
@@ -37803,14 +37809,16 @@
     "vol_ratio": 18.637473417228662,
     "cik": "0000855658",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/LSCC?date=2016-11-03&view=daily",
+    "news_detail": "Lattice Semiconductor post-election semis rally / no confirmed keep 2/3/4 PR."
   },
   {
     "symbol": "OESX",
@@ -38055,14 +38063,16 @@
     "vol_ratio": 3.8648916173643255,
     "cik": "0000874015",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/IONS?date=2016-11-07&view=daily",
+    "news_detail": "Ionis/post-election biotech rally; no confirmed company keep 2/3/4 PR."
   },
   {
     "symbol": "MFIN",
@@ -43842,14 +43852,16 @@
     "vol_ratio": 2.5434853513938718,
     "cik": "0001302362",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MTL?date=2016-12-12&view=daily",
+    "news_detail": "Mechel commodity/steel move; not keep 2/3/4."
   },
   {
     "symbol": "EXXIQ",
