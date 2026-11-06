@@ -1,7 +1,7 @@
 {
   "as_of": "2016-12-31",
   "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
-  "tranche": "ge15_first20",
+  "tranche": "ge15_second20",
   "reviews": [
     {
       "symbol": "ERII",
@@ -4412,6 +4412,206 @@
       "news_filter": "drop_other_not_234",
       "detail": "Golar LNG shipping/LNG commodity move; no confirmed keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/GLNG?date=2015-05-05&view=daily"
+    },
+    {
+      "symbol": "DMRC",
+      "qdate": "2016-01-12",
+      "close_return": 0.1958,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Digimarc retail watermark/New Seasons adoption chatter; commercial adoption, not keep-4 tech breakthrough / keep 2/3.",
+      "locator": "https://exa.ai/library/markets/stock/DMRC?date=2016-01-12&view=daily"
+    },
+    {
+      "symbol": "MMS",
+      "qdate": "2014-02-06",
+      "close_return": 0.1958,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Maximus. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/MMS?date=2014-02-06&view=daily"
+    },
+    {
+      "symbol": "CSTE",
+      "qdate": "2014-02-12",
+      "close_return": 0.1955,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Caesarstone. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CSTE?date=2014-02-12&view=daily"
+    },
+    {
+      "symbol": "DQ",
+      "qdate": "2013-04-09",
+      "close_return": 0.1954,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Daqo New Energy solar sector move; commodity/sector, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/DQ?date=2013-04-09&view=daily"
+    },
+    {
+      "symbol": "CVU",
+      "qdate": "2016-05-23",
+      "close_return": 0.1951,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for CPI Aero. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CVU?date=2016-05-23&view=daily"
+    },
+    {
+      "symbol": "FORM",
+      "qdate": "2014-09-02",
+      "close_return": 0.1946,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for FormFactor (Cascade deal was 2016 and FormFactor was acquirer). Unclassified/not target keep-2.",
+      "locator": "https://exa.ai/library/markets/stock/FORM?date=2014-09-02&view=daily"
+    },
+    {
+      "symbol": "PLL",
+      "qdate": "2015-05-12",
+      "close_return": 0.1944,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Danaher definitive agreement to acquire Pall for $127.20/share cash. Target M&A keep-2.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/313616/000119312515185890/d925751d8k.htm"
+    },
+    {
+      "symbol": "IMH",
+      "qdate": "2016-02-04",
+      "close_return": 0.194,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Impac Mortgage. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/IMH?date=2016-02-04&view=daily"
+    },
+    {
+      "symbol": "AKBA",
+      "qdate": "2016-12-20",
+      "close_return": 0.194,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Otsuka collaboration/license for vadadustat (Phase 3 funding partnership). Partnership/financing, not keep 2/3/4.",
+      "locator": "https://ir.akebia.com/news-releases/news-release-details/akebia-and-otsuka-pharmaceutical-announce-collaboration-develop"
+    },
+    {
+      "symbol": "ONE",
+      "qdate": "2013-11-07",
+      "close_return": 0.194,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Higher One. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ONE?date=2013-11-07&view=daily"
+    },
+    {
+      "symbol": "GTS",
+      "qdate": "2015-11-05",
+      "close_return": 0.1938,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Triple-S. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/GTS?date=2015-11-05&view=daily"
+    },
+    {
+      "symbol": "SRNE",
+      "qdate": "2015-06-22",
+      "close_return": 0.1938,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for Sorrento (same-day biotech analyst tape). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SRNE?date=2015-06-22&view=daily"
+    },
+    {
+      "symbol": "SMLP",
+      "qdate": "2015-12-11",
+      "close_return": 0.1935,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Summit Midstream sponsor support / dropdown financing plan. Financing/MLP structure, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2015/12/11/why-finisar-summit-midstream-partners-and-corning.aspx"
+    },
+    {
+      "symbol": "COLL",
+      "qdate": "2016-09-22",
+      "close_return": 0.1934,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Collegium (Xtampza approved Apr 2016). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/COLL?date=2016-09-22&view=daily"
+    },
+    {
+      "symbol": "SFUN",
+      "qdate": "2013-07-16",
+      "close_return": 0.1931,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Fang/SouFun. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SFUN?date=2013-07-16&view=daily"
+    },
+    {
+      "symbol": "COTY",
+      "qdate": "2015-06-16",
+      "close_return": 0.1931,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day definitive keep PR for Coty (P&G beauty deal announced later Jul 2015). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/COTY?date=2015-06-16&view=daily"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2016-04-06",
+      "close_return": 0.193,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Sarepta (eteplirsen AdCom was Apr 25; approval Sep 19). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SRPT?date=2016-04-06&view=daily"
+    },
+    {
+      "symbol": "CONN",
+      "qdate": "2015-11-02",
+      "close_return": 0.1929,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Conn's. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CONN?date=2015-11-02&view=daily"
+    },
+    {
+      "symbol": "AGIO",
+      "qdate": "2014-09-26",
+      "close_return": 0.1929,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Agios. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/AGIO?date=2014-09-26&view=daily"
+    },
+    {
+      "symbol": "LL",
+      "qdate": "2016-06-17",
+      "close_return": 0.1927,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Lumber Liquidators. Unclassified/litigation-sector, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/LL?date=2016-06-17&view=daily"
     }
   ]
 }

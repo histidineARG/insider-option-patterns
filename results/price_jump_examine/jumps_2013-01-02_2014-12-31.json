@@ -7151,14 +7151,16 @@
     "vol_ratio": 2.7319034852546915,
     "cik": "0001477641",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/DQ?date=2013-04-09&view=daily",
+    "news_detail": "Daqo New Energy solar sector move; commodity/sector, not keep 2/3/4."
   },
   {
     "symbol": "FSLR",
@@ -15991,14 +15993,16 @@
     "vol_ratio": 4.2740615297770255,
     "cik": "0001294404",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SFUN?date=2013-07-16&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Fang/SouFun. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SHFL",
@@ -26747,14 +26751,16 @@
     "vol_ratio": 32.73509015256588,
     "cik": "0001722380",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ONE?date=2013-11-07&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Higher One. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ACET",
@@ -34672,14 +34678,16 @@
     "vol_ratio": 3.4143583019177184,
     "cik": "0001032220",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MMS?date=2014-02-06&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Maximus. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "MTRX",
@@ -35390,14 +35398,16 @@
     "vol_ratio": 2.400514138817481,
     "cik": "0001504379",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CSTE?date=2014-02-12&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Caesarstone. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CTRL",
@@ -48627,14 +48637,16 @@
     "vol_ratio": 5.950391449698981,
     "cik": "0001039399",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/FORM?date=2014-09-02&view=daily",
+    "news_detail": "No confirmed same-day keep PR for FormFactor (Cascade deal was 2016 and FormFactor was acquirer). Unclassified/not target keep-2."
   },
   {
     "symbol": "CBLI",
@@ -50294,14 +50306,16 @@
     "vol_ratio": 3.968369512621629,
     "cik": "0001439222",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/AGIO?date=2014-09-26&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Agios. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LIWA",

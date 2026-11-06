@@ -731,14 +731,16 @@
     "vol_ratio": 2.829494213554277,
     "cik": "0001438231",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/DMRC?date=2016-01-12&view=daily",
+    "news_detail": "Digimarc retail watermark/New Seasons adoption chatter; commercial adoption, not keep-4 tech breakthrough / keep 2/3."
   },
   {
     "symbol": "SFYWQ",
@@ -4321,14 +4323,16 @@
     "vol_ratio": 2.90446666375584,
     "cik": "0001000298",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/IMH?date=2016-02-04&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Impac Mortgage. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "VHC",
@@ -15051,14 +15055,16 @@
     "vol_ratio": 9.405991252228873,
     "cik": "0000873303",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SRPT?date=2016-04-06&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Sarepta (eteplirsen AdCom was Apr 25; approval Sep 19). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "UNXL",
@@ -21106,14 +21112,16 @@
     "vol_ratio": 3.7715996578272026,
     "cik": "0000889348",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CVU?date=2016-05-23&view=daily",
+    "news_detail": "No confirmed same-day keep PR for CPI Aero. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SOL",
@@ -24316,14 +24324,16 @@
     "vol_ratio": 10.9812158570624,
     "cik": "0001396033",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/LL?date=2016-06-17&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Lumber Liquidators. Unclassified/litigation-sector, not keep 2/3/4."
   },
   {
     "symbol": "PQ",
@@ -34668,14 +34678,16 @@
     "vol_ratio": 2.31371137916916,
     "cik": "0001267565",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/COLL?date=2016-09-22&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Collegium (Xtampza approved Apr 2016). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "HTCH",
@@ -44358,14 +44370,16 @@
     "vol_ratio": 24.167208736100008,
     "cik": "0001517022",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://ir.akebia.com/news-releases/news-release-details/akebia-and-otsuka-pharmaceutical-announce-collaboration-develop",
+    "news_detail": "Otsuka collaboration/license for vadadustat (Phase 3 funding partnership). Partnership/financing, not keep 2/3/4."
   },
   {
     "symbol": "CNAT",

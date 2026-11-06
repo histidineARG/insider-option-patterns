@@ -12760,15 +12760,17 @@
     "prev_volume": 268308.0,
     "vol_ratio": 28.356605095636358,
     "cik": "0001728205",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_news",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/313616/000119312515185890/d925751d8k.htm",
+    "news_detail": "Danaher definitive agreement to acquire Pall for $127.20/share cash. Target M&A keep-2."
   },
   {
     "symbol": "DSCO",
@@ -16015,14 +16017,16 @@
     "vol_ratio": 7.692266308291742,
     "cik": "0001024305",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/COTY?date=2015-06-16&view=daily",
+    "news_detail": "No confirmed same-day definitive keep PR for Coty (P&G beauty deal announced later Jul 2015). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "KYTH",
@@ -16311,14 +16315,16 @@
     "vol_ratio": 5.751046190769156,
     "cik": "0000850261",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SRNE?date=2015-06-22&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for Sorrento (same-day biotech analyst tape). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "WLT",
@@ -29731,14 +29737,16 @@
     "vol_ratio": 3.4664479807651447,
     "cik": "0001223389",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CONN?date=2015-11-02&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Conn's. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CTCT",
@@ -30808,14 +30816,16 @@
     "vol_ratio": 3.2525919027201797,
     "cik": "0001171662",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GTS?date=2015-11-05&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Triple-S. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ITG",
@@ -34081,14 +34091,16 @@
     "vol_ratio": 2.8995280291519316,
     "cik": "0001549922",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2015/12/11/why-finisar-summit-midstream-partners-and-corning.aspx",
+    "news_detail": "Summit Midstream sponsor support / dropdown financing plan. Financing/MLP structure, not keep 2/3/4."
   },
   {
     "symbol": "RUN",
