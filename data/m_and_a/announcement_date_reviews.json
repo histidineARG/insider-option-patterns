@@ -1,0 +1,80 @@
+{
+  "as_of": "2026-11-06",
+  "scope": "Primary-source announcement date/session reviews for market-pass candidates that previously lacked verified timing. Corrections replace wrong local maevent dates when prior_candidate_date is set.",
+  "reviews": [
+    {
+      "symbol": "OMX",
+      "prior_candidate_date": "2013-02-18",
+      "announcement_date": "2013-02-20",
+      "announcement_session": "intraday",
+      "announcement_timing_source": "https://www.businesswire.com/news/home/20130220006026/en/OfficeMax-and-Office-Depot-Announce-Merger-of-Equals-to-Create-18-Billion-Global-Office-Solutions-Company",
+      "announcement_timing_locator": "Business Wire timestamp February 20, 2013 09:42 AM ET; SEC 425 filing same day",
+      "issuer": "OfficeMax",
+      "notes": "Local maevent date 2013-02-18 was not the joint press-release date. Stockquote shows the ≥15% print on 2013-02-19 (prior close 10.75 → 13.00); the official 2013-02-20 intraday announcement session closes down vs 2013-02-19. Treat 2013-02-19 as earlier-public/leak price action relative to the verified release.",
+      "earlier_public_date_lower": "2013-02-19",
+      "earlier_public_date_upper": "2013-02-19",
+      "date_verified": true
+    },
+    {
+      "symbol": "SFD",
+      "prior_candidate_date": "2013-05-29",
+      "announcement_date": "2013-05-29",
+      "announcement_session": "before_open",
+      "announcement_timing_source": "https://www.sec.gov/Archives/edgar/data/91388/000119312513239664/d545921dex991.htm",
+      "announcement_timing_locator": "Joint press release May 29, 2013; conference call 8:30 a.m. EDT same day",
+      "issuer": "Smithfield Foods",
+      "date_verified": true
+    },
+    {
+      "symbol": "BEAM",
+      "prior_candidate_date": "2014-01-13",
+      "announcement_date": "2014-01-13",
+      "announcement_session": "before_open",
+      "announcement_timing_source": "https://www.suntory.com/news/2014/11942.html",
+      "announcement_timing_locator": "Suntory/Beam joint release dated January 13, 2014; premium vs January 10 close",
+      "issuer": "Beam Inc.",
+      "date_verified": true
+    },
+    {
+      "symbol": "FMI",
+      "prior_candidate_date": "2015-01-12",
+      "announcement_date": "2015-01-12",
+      "announcement_session": "before_open",
+      "announcement_timing_source": "https://www.sec.gov/Archives/edgar/data/1488613/000119312515007167/d850129dex994.htm",
+      "announcement_timing_locator": "Foundation Medicine/Roche release January 12, 2015; conference call 8:30 a.m. ET",
+      "issuer": "Foundation Medicine",
+      "date_verified": true
+    },
+    {
+      "symbol": "PCP",
+      "prior_candidate_date": "2015-08-10",
+      "announcement_date": "2015-08-10",
+      "announcement_session": "before_open",
+      "announcement_timing_source": "https://www.globenewswire.com/news-release/2015/08/10/759226/2215/en/Berkshire-Hathaway-Inc-to-Acquire-Precision-Castparts-Corp-for-235-Per-Share-in-Cash.html",
+      "announcement_timing_locator": "GlobeNewswire August 10, 2015 07:00 ET",
+      "issuer": "Precision Castparts",
+      "date_verified": true
+    },
+    {
+      "symbol": "ARG",
+      "prior_candidate_date": "2015-11-17",
+      "announcement_date": "2015-11-17",
+      "announcement_session": "intraday",
+      "announcement_timing_source": "https://www.sec.gov/Archives/edgar/data/804212/000119312515379879/d25596d8k.htm",
+      "announcement_timing_locator": "Airgas 8-K: press release issued November 17, 2015; contemporaneous coverage midday/afternoon ET",
+      "issuer": "Airgas",
+      "date_verified": true
+    },
+    {
+      "symbol": "AFFX",
+      "prior_candidate_date": "2016-01-11",
+      "announcement_date": "2016-01-08",
+      "announcement_session": "after_close",
+      "announcement_timing_source": "https://ir.thermofisher.com/investors/news-events/news/news-details/2016/Thermo-Fisher-Scientific-to-Acquire-Affymetrix-2016-1-8/default.aspx",
+      "announcement_timing_locator": "Thermo Fisher/Affymetrix release January 8, 2016; GenomeWeb notes after the close Friday; Monday January 11 is the reaction session",
+      "issuer": "Affymetrix",
+      "notes": "Local maevent stored the Monday reaction date; corrected to Friday after-close announcement.",
+      "date_verified": true
+    }
+  ]
+}
