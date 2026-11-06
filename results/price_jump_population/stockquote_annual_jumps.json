@@ -1,0 +1,235 @@
+{
+  "definition": "NYSE-calendar consecutive close-to-close return in stockquote: session close / previous NYSE session close - 1. Not an M&A confirmation.",
+  "annual_jumps": [
+    {
+      "y": 2013,
+      "ge15": 2010,
+      "ge20": 1083,
+      "ge20_vol2x_prev": 799,
+      "uniq_ge20": 548
+    },
+    {
+      "y": 2014,
+      "ge15": 1958,
+      "ge20": 1027,
+      "ge20_vol2x_prev": 679,
+      "uniq_ge20": 579
+    },
+    {
+      "y": 2015,
+      "ge15": 2980,
+      "ge20": 1586,
+      "ge20_vol2x_prev": 967,
+      "uniq_ge20": 722
+    },
+    {
+      "y": 2016,
+      "ge15": 3729,
+      "ge20": 1991,
+      "ge20_vol2x_prev": 1185,
+      "uniq_ge20": 767
+    },
+    {
+      "y": 2017,
+      "ge15": 2217,
+      "ge20": 1191,
+      "ge20_vol2x_prev": 884,
+      "uniq_ge20": 620
+    },
+    {
+      "y": 2018,
+      "ge15": 2326,
+      "ge20": 1198,
+      "ge20_vol2x_prev": 874,
+      "uniq_ge20": 656
+    },
+    {
+      "y": 2019,
+      "ge15": 3078,
+      "ge20": 1668,
+      "ge20_vol2x_prev": 1122,
+      "uniq_ge20": 795
+    },
+    {
+      "y": 2020,
+      "ge15": 10615,
+      "ge20": 5369,
+      "ge20_vol2x_prev": 2598,
+      "uniq_ge20": 1980
+    },
+    {
+      "y": 2021,
+      "ge15": 4128,
+      "ge20": 2104,
+      "ge20_vol2x_prev": 1552,
+      "uniq_ge20": 1051
+    },
+    {
+      "y": 2022,
+      "ge15": 6412,
+      "ge20": 3042,
+      "ge20_vol2x_prev": 2001,
+      "uniq_ge20": 1437
+    },
+    {
+      "y": 2023,
+      "ge15": 6847,
+      "ge20": 3825,
+      "ge20_vol2x_prev": 2393,
+      "uniq_ge20": 1410
+    },
+    {
+      "y": 2024,
+      "ge15": 18189,
+      "ge20": 12971,
+      "ge20_vol2x_prev": 5927,
+      "uniq_ge20": 4733
+    },
+    {
+      "y": 2025,
+      "ge15": 68207,
+      "ge20": 50561,
+      "ge20_vol2x_prev": 19035,
+      "uniq_ge20": 9251
+    }
+  ],
+  "gap_structure_among_ge20": [
+    {
+      "y": 2013,
+      "ge20": 1083,
+      "ge20_open_gap_ge15": 356,
+      "ge20_open_gap_ge20": 285
+    },
+    {
+      "y": 2014,
+      "ge20": 1027,
+      "ge20_open_gap_ge15": 351,
+      "ge20_open_gap_ge20": 288
+    },
+    {
+      "y": 2015,
+      "ge20": 1586,
+      "ge20_open_gap_ge15": 454,
+      "ge20_open_gap_ge20": 357
+    },
+    {
+      "y": 2016,
+      "ge20": 1991,
+      "ge20_open_gap_ge15": 528,
+      "ge20_open_gap_ge20": 420
+    },
+    {
+      "y": 2017,
+      "ge20": 1191,
+      "ge20_open_gap_ge15": 411,
+      "ge20_open_gap_ge20": 329
+    },
+    {
+      "y": 2018,
+      "ge20": 1198,
+      "ge20_open_gap_ge15": 354,
+      "ge20_open_gap_ge20": 259
+    },
+    {
+      "y": 2019,
+      "ge20": 1668,
+      "ge20_open_gap_ge15": 498,
+      "ge20_open_gap_ge20": 400
+    },
+    {
+      "y": 2020,
+      "ge20": 5369,
+      "ge20_open_gap_ge15": 1355,
+      "ge20_open_gap_ge20": 1024
+    },
+    {
+      "y": 2021,
+      "ge20": 2104,
+      "ge20_open_gap_ge15": 709,
+      "ge20_open_gap_ge20": 575
+    },
+    {
+      "y": 2022,
+      "ge20": 3042,
+      "ge20_open_gap_ge15": 859,
+      "ge20_open_gap_ge20": 673
+    },
+    {
+      "y": 2023,
+      "ge20": 3825,
+      "ge20_open_gap_ge15": 1095,
+      "ge20_open_gap_ge20": 906
+    },
+    {
+      "y": 2024,
+      "ge20": 12971,
+      "ge20_open_gap_ge15": 6279,
+      "ge20_open_gap_ge20": 5859
+    },
+    {
+      "y": 2025,
+      "ge20": 50561,
+      "ge20_open_gap_ge15": 28930,
+      "ge20_open_gap_ge20": 27493
+    }
+  ],
+  "quoted_universe": [
+    {
+      "y": 2013,
+      "symbols": 5096
+    },
+    {
+      "y": 2014,
+      "symbols": 4777
+    },
+    {
+      "y": 2015,
+      "symbols": 4849
+    },
+    {
+      "y": 2016,
+      "symbols": 4836
+    },
+    {
+      "y": 2017,
+      "symbols": 4701
+    },
+    {
+      "y": 2018,
+      "symbols": 4688
+    },
+    {
+      "y": 2019,
+      "symbols": 4630
+    },
+    {
+      "y": 2020,
+      "symbols": 4834
+    },
+    {
+      "y": 2021,
+      "symbols": 5999
+    },
+    {
+      "y": 2022,
+      "symbols": 6387
+    },
+    {
+      "y": 2023,
+      "symbols": 6428
+    },
+    {
+      "y": 2024,
+      "symbols": 28089
+    },
+    {
+      "y": 2025,
+      "symbols": 32633
+    }
+  ],
+  "notes": [
+    "These are all large one-session moves (earnings, FDA, short squeezes, M&A, etc.).",
+    "A negotiated ~20% deal premium is related to but not identical to a one-session +20% jump.",
+    "Estimate of >20 premium public M&A/year is a hypothesis; this census only confirms large quote moves are abundant."
+  ]
+}
