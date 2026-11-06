@@ -495,15 +495,17 @@
     "prev_volume": 2790368.0,
     "vol_ratio": 2.4543024432619642,
     "cik": "0001159036",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/1159036/000115903615000011/exh99z1_pr7jan2015.htm",
+    "news_detail": "Analyst day interim Study 202 PEGPH20+gem/Abraxane in metastatic pancreatic cancer; plans for registration study discussion with FDA. Class-3 trial keep."
   },
   {
     "symbol": "MOSY",
@@ -3681,14 +3683,16 @@
     "vol_ratio": 4.6022151515123895,
     "cik": "0001223389",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://hfbusiness.com/hfbnow/ArticlePage/2138/cid/15",
+    "news_detail": "Reported 4Q net sales $350.5M / January comps update. Sales/earnings, not keep 2/3/4."
   },
   {
     "symbol": "DNDNQ",
@@ -28005,14 +28009,16 @@
     "vol_ratio": 14.577408842945724,
     "cik": "0001077183",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://ir.neogenomics.com/news-events/press-releases/detail/55/neogenomics-signs-definitive-agreement-to-acquire-clarient-inc",
+    "news_detail": "NeoGenomics as buyer agreed to acquire Clarient from GE for ~$275M cash/stock/preferred. Acquirer deal, not target M&A keep."
   },
   {
     "symbol": "SWI",
@@ -28679,14 +28685,16 @@
     "vol_ratio": 2.5595936551980185,
     "cik": "0001439222",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www-biocentury-com.proxy.lib.umich.edu/article/272678/agios-rises-in-advance-of-ag-120-presentation",
+    "news_detail": "Announced upcoming AACR-NCI-EORTC plenary for AG-120 Phase 1 solid-tumor data (abstract later); anticipation not a readout keep."
   },
   {
     "symbol": "FELE",
@@ -29754,14 +29762,16 @@
     "vol_ratio": 2.4146299580920583,
     "cik": "0001266806",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://labusinessjournal.com/finance/stocks/stocks-rise-second-sight-soars-truecar-brakes/",
+    "news_detail": "No confirmed same-day company PR; biotech/sector bounce with short interest. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "HTCH",
@@ -34197,14 +34207,16 @@
     "vol_ratio": 9.24262597319444,
     "cik": "0001396033",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.usatoday.com/story/money/2015/12/15/lumber-liquidators-soars-short-seller-reverses-position/77358488/",
+    "news_detail": "Whitney Tilson covered short after concluding management likely unaware of formaldehyde issue. Short-covering/media, not keep 2/3/4."
   },
   {
     "symbol": "VRX",

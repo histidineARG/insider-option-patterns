@@ -28792,14 +28792,16 @@
     "vol_ratio": 11.400828237656293,
     "cik": "0001492674",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.genomeweb.com/molecular-diagnostics/t2-biosystems-q2-revenues-impacted-recent-test-cartridge-shipment-hold",
+    "news_detail": "Q2 earnings: revenue +75% to $990k; said T2Candida cartridge invalid-result hold resolved. Earnings, not keep 2/3/4."
   },
   {
     "symbol": "FLTX",
@@ -42148,14 +42150,16 @@
     "vol_ratio": 2.712194011157919,
     "cik": "0000893538",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.cnbc.com/2016/11/30/drilling-stocks-are-rising-as-oil-leaps-on-hopes-of-an-opec-deal.html",
+    "news_detail": "OPEC agreed ~1.2M bpd production cut; WTI jumped ~10% and E&Ps rallied broadly. Commodity/sector, not keep 2/3/4."
   },
   {
     "symbol": "SN",
@@ -43013,14 +43017,16 @@
     "vol_ratio": 2.6443557327169374,
     "cik": "0001114995",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.geekwire.com/2016/impinj-raises-another-39m-stock-continues-rise/",
+    "news_detail": "Closed follow-on equity offering (~$38.7M net). Financing, not keep 2/3/4."
   },
   {
     "symbol": "PIOI",

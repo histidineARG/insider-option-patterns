@@ -1,7 +1,7 @@
 {
   "as_of": "2026-11-06",
   "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
-  "tranche": "ge25_clear_remaining31",
+  "tranche": "ge20_first20",
   "reviews": [
     {
       "symbol": "ERII",
@@ -2292,6 +2292,206 @@
       "news_filter": "drop_other_not_234",
       "detail": "Completed $100M common offering at $5.35 and elected Vernon Hill II chairman. Financing/governance, not keep 2/3/4.",
       "locator": "https://www.sec.gov/Archives/edgar/data/834285/000095015916000819/exhibit99-1.htm"
+    },
+    {
+      "symbol": "VNDA",
+      "qdate": "2013-06-11",
+      "close_return": 0.2498,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Baker Bros 13G stake boost / momentum; FDA NDA priority for tasimelteon came Jul 29. No same-day keep catalyst.",
+      "locator": "https://www.insidermonkey.com/blog/baker-bros-advisors-boosts-stake-in-vanda-pharmaceuticals-inc-vnda-167035/"
+    },
+    {
+      "symbol": "SM",
+      "qdate": "2016-11-30",
+      "close_return": 0.2491,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "OPEC agreed ~1.2M bpd production cut; WTI jumped ~10% and E&Ps rallied broadly. Commodity/sector, not keep 2/3/4.",
+      "locator": "https://www.cnbc.com/2016/11/30/drilling-stocks-are-rising-as-oil-leaps-on-hopes-of-an-opec-deal.html"
+    },
+    {
+      "symbol": "SNMX",
+      "qdate": "2014-02-12",
+      "close_return": 0.2487,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed company keep PR; Needham conference / momentum breakout chatter. Unclassified, not keep 2/3/4.",
+      "locator": "https://www.siliconinvestor.com/readmsgs.aspx?batchsize=10&batchtype=Next&msgnum=181&subjectid=55596"
+    },
+    {
+      "symbol": "EYES",
+      "qdate": "2015-11-02",
+      "close_return": 0.2483,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day company PR; biotech/sector bounce with short interest. Unclassified, not keep 2/3/4.",
+      "locator": "https://labusinessjournal.com/finance/stocks/stocks-rise-second-sight-soars-truecar-brakes/"
+    },
+    {
+      "symbol": "AGIO",
+      "qdate": "2015-10-27",
+      "close_return": 0.2481,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Announced upcoming AACR-NCI-EORTC plenary for AG-120 Phase 1 solid-tumor data (abstract later); anticipation not a readout keep.",
+      "locator": "https://www-biocentury-com.proxy.lib.umich.edu/article/272678/agios-rises-in-advance-of-ag-120-presentation"
+    },
+    {
+      "symbol": "HALO",
+      "qdate": "2013-06-28",
+      "close_return": 0.248,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "CHMP positive opinion for Roche Herceptin SC using Halozyme rHuPH20. Class-3 regulatory keep.",
+      "locator": "https://www.prnewswire.com/news-releases/halozyme-announces-positive-opinion-from-chmp-on-roches-herceptin-sc-for-european-approval-213522111.html"
+    },
+    {
+      "symbol": "LL",
+      "qdate": "2015-12-15",
+      "close_return": 0.2468,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Whitney Tilson covered short after concluding management likely unaware of formaldehyde issue. Short-covering/media, not keep 2/3/4.",
+      "locator": "https://www.usatoday.com/story/money/2015/12/15/lumber-liquidators-soars-short-seller-reverses-position/77358488/"
+    },
+    {
+      "symbol": "RPRX",
+      "qdate": "2013-02-21",
+      "close_return": 0.2466,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA written guidance: complete Androxal ZA-301 as planned; allow additional ZA-302 enrollment; SPA intact. Class-3 trial-path keep.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/897075/000117184313000672/newsrelease.htm"
+    },
+    {
+      "symbol": "NEO",
+      "qdate": "2015-10-21",
+      "close_return": 0.2465,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "NeoGenomics as buyer agreed to acquire Clarient from GE for ~$275M cash/stock/preferred. Acquirer deal, not target M&A keep.",
+      "locator": "https://ir.neogenomics.com/news-events/press-releases/detail/55/neogenomics-signs-definitive-agreement-to-acquire-clarient-inc"
+    },
+    {
+      "symbol": "BEAM",
+      "qdate": "2014-01-13",
+      "close_return": 0.2456,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Suntory definitive agreement to acquire Beam Inc for $83.50/share cash (~$16B incl. debt). Note cik2symbol may not match historical Beam CIK.",
+      "locator": "https://www.businesswire.com/news/home/20140113005816/en/3110084/Suntory-Holdings-Acquire-Beam-16-Billion-Transaction"
+    },
+    {
+      "symbol": "CRTX",
+      "qdate": "2013-02-20",
+      "close_return": 0.2455,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Majority owner Chiesi proposed take-private of remaining Cornerstone shares at $6.40\u2013$6.70 cash. Confirmed M&A proposal keep.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1145404/000129993313000359/exhibit1.htm"
+    },
+    {
+      "symbol": "KIRK",
+      "qdate": "2014-11-20",
+      "close_return": 0.2454,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q3 sales +10.4%, comps +6.3%, raised FY EPS guide. Earnings, not keep 2/3/4.",
+      "locator": "https://www.b2i.us/profiles/investor/ResLibraryView.asp?BzID=2097&Category=2068&GoTopage=19&ResLibraryID=73973"
+    },
+    {
+      "symbol": "PI",
+      "qdate": "2016-12-07",
+      "close_return": 0.2451,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Closed follow-on equity offering (~$38.7M net). Financing, not keep 2/3/4.",
+      "locator": "https://www.geekwire.com/2016/impinj-raises-another-39m-stock-continues-rise/"
+    },
+    {
+      "symbol": "ARWR",
+      "qdate": "2014-03-05",
+      "close_return": 0.2446,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Deutsche Bank and RBC initiated Buy/Outperform coverage on ARC-520 HBV story. Analyst initiations, not keep 2/3/4.",
+      "locator": "https://www.investors.com/news/technology/arwr-stock-soars-on-two-initiation-reports/"
+    },
+    {
+      "symbol": "HALO",
+      "qdate": "2015-01-07",
+      "close_return": 0.2445,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Analyst day interim Study 202 PEGPH20+gem/Abraxane in metastatic pancreatic cancer; plans for registration study discussion with FDA. Class-3 trial keep.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1159036/000115903615000011/exh99z1_pr7jan2015.htm"
+    },
+    {
+      "symbol": "CONN",
+      "qdate": "2015-02-05",
+      "close_return": 0.2444,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Reported 4Q net sales $350.5M / January comps update. Sales/earnings, not keep 2/3/4.",
+      "locator": "https://hfbusiness.com/hfbnow/ArticlePage/2138/cid/15"
+    },
+    {
+      "symbol": "ZSL",
+      "qdate": "2013-04-15",
+      "close_return": 0.2444,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "ProShares UltraShort Silver leveraged ETF commodity move; hard-drop ETF class if missed by denylist. Not keep 2/3/4.",
+      "locator": "https://www.proshares.com/funds/zsl.html"
+    },
+    {
+      "symbol": "GDOT",
+      "qdate": "2014-09-24",
+      "close_return": 0.2439,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Nationwide Walmart exclusive GoBank checking-account launch. Partnership/product launch, not keep 2/3/4.",
+      "locator": "https://ir.greendot.com/news-releases/news-release-details/green-dots-gobank-checking-account-launches-exclusively-walmart"
+    },
+    {
+      "symbol": "TTOO",
+      "qdate": "2016-08-01",
+      "close_return": 0.2438,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q2 earnings: revenue +75% to $990k; said T2Candida cartridge invalid-result hold resolved. Earnings, not keep 2/3/4.",
+      "locator": "https://www.genomeweb.com/molecular-diagnostics/t2-biosystems-q2-revenues-impacted-recent-test-cartridge-shipment-hold"
+    },
+    {
+      "symbol": "RNA",
+      "qdate": "2014-01-16",
+      "close_return": 0.2437,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "JPMorgan: further drisapersen clinical analyses (younger patients / 96-week extension 6MWT differences) and path to explore re-dosing with regulators. Class-3 trial keep.",
+      "locator": "https://www.biospace.com/prosensa-holding-n-v-reports-initial-findings-from-the-further-clinical-data-analyses-of-drisapersen-for-the-treatment-of-duchenne-muscular-dystrophy"
     }
   ]
 }
