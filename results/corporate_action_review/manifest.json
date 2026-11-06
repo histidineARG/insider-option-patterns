@@ -1,11 +1,11 @@
 {
-  "events": 26,
-  "ready_to_mark_complete": 26,
-  "marked_complete": 26,
+  "events": 45,
+  "ready_to_mark_complete": 45,
+  "marked_complete": 45,
   "blocker_counts": {},
   "source_sha256": {
-    "results/reviewed_cohort/events.json": "ef809d3c5215ab551db6ae7138b4c4a40ead295ce0451418739ffcd5ad54abf5",
-    "data/event_review_overrides.json": "4a7f2f357b595a53f0b8849da01348cb022ca7f1b0bfadfb75fe78819ab97db6"
+    "results/reviewed_cohort/events.json": "0acd25234c4117cbfd9aee6ce8014391e02be09a5c2be5bcce620176acec5c37",
+    "data/event_review_overrides.json": "dffecbe859c68e9d0df21171165835633b1dba4da3e5103aae085053985beb29"
   },
   "notes": [
     "Checklist readiness is not corporate_action_review_complete.",
