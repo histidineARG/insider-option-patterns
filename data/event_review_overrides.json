@@ -51,7 +51,7 @@
       "locator": "Background of the Merger; September 2 Bloomberg sale report",
       "conflicting_source": "https://www.sec.gov/files/litigation/complaints/2016/comp23571.pdf",
       "conflicting_locator": "Paragraph 36 gives September 3 at approximately 4:07 p.m. EDT",
-      "finding": "The proxy dates the public sale report to September 2 after close, while the SEC complaint dates it September 3. Use the earlier boundary for conservative disclosure contamination; do not silently resolve the conflict.",
+      "finding": "Primary sources conflict on the first public sale-exploration stamp: Seattle Times (originally published Sep 2, 2014 7:13 p.m.) and GeekWire (Sep 2 ~1:31\u20131:49 p.m.) cover a Bloomberg sale-exploration report with after-hours jump, while the SEC complaint dates Bloomberg online publication to approximately 4:07 p.m. EDT September 3, 2014. Retain Sep 2\u20133 as the earlier-public bound without silently resolving the conflict. September 18 definitive SAP deal is later. Jump-cause: M&A rumor/news (ignore earnings). first_public_disclosure_verified remains false.",
       "first_public_disclosure_verified": false,
       "corporate_action_review_complete": true,
       "identity_source": "https://data.sec.gov/submissions/CIK0001066026.json",
@@ -72,7 +72,12 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "Bloomberg Sep 2/3 2014 sale-exploration report (SAP/Oracle); Sep 18 definitive is later. Measured window after earlier sale rumor.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.reuters.com/article/idUSKBN0GX2H720140902/"
+      "news_locator": "https://www.reuters.com/article/idUSKBN0GX2H720140902/",
+      "earlier_public_lower_utc": "2014-09-02T20:13:00Z",
+      "earlier_public_upper_utc": "2014-09-03T20:07:00Z",
+      "earlier_source": "https://www.sec.gov/files/litigation/complaints/2016/comp-pr2016-121.pdf",
+      "earlier_locator": "SEC complaint \u00b636 Bloomberg ~4:07 p.m. EDT Sep 3, 2014; Seattle Times/GeekWire Sep 2 after-hours coverage (conflict retained)",
+      "training_label_ready": false
     },
     {
       "symbol": "KRFT",
@@ -764,7 +769,7 @@
       "locator": "AbbVie ImmunoGen acquisition conference call listed 11/30/23 8:00 a.m. CST",
       "timing_source": "https://investors.abbvie.com/news-releases/news-release-details/abbvie-acquire-immunogen-including-its-flagship-cancer-therapy",
       "timing_locator": "November 30, 2023 joint acquisition release",
-      "finding": "Betaville published a public bid-rumour alert on ImmunoGen on 24 October 2023 (~5:37 p.m. local site stamp), weeks before the November 30, 2023 AbbVie definitive announcement and conference call (8:00 a.m. CST). November 30 is therefore not the first known public M&A-related disclosure for IMGN. Proxy/background later describes a multi-bidder process; do not treat the measured November 30 jump as a clean first-disclosure reaction. Source: https://www.betaville.co.uk/betaville-intelligence/duj59f58",
+      "finding": "Betaville published a public ImmunoGen bid-rumour alert on 24 October 2023 (5:37 p.m. site-local stamp), weeks before the November 30, 2023 AbbVie definitive. November 30 is therefore not the first known public M&A-related disclosure. Proxy later describes multi-party process including October bids. Jump-cause: M&A rumor/news (ignore earnings). first_public_disclosure_verified remains false.",
       "first_public_disclosure_verified": false,
       "corporate_action_review_complete": true,
       "identity_source": "https://data.sec.gov/submissions/CIK0000855654.json",
@@ -789,7 +794,12 @@
       "jump_cause": "ma_news",
       "jump_cause_detail": "AbbVie $31.26 deal Nov 30; CNBC attributes +83% to M&A. Earlier Oct process/bids are before measured window.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.cnbc.com/2023/11/30/biotech-stocks-jump-on-abbvie-deal-to-buy-cancer-drugmaker-immunogen.html"
+      "news_locator": "https://www.cnbc.com/2023/11/30/biotech-stocks-jump-on-abbvie-deal-to-buy-cancer-drugmaker-immunogen.html",
+      "earlier_public_lower_utc": "2023-10-24T16:37:00Z",
+      "earlier_public_upper_utc": "2023-10-24T21:37:00Z",
+      "earlier_source": "https://www.betaville.co.uk/betaville-intelligence/duj59f58",
+      "earlier_locator": "Betaville RARE ALERT Tuesday 24 October 2023 5:37 pm (site-local stamp)",
+      "training_label_ready": false
     }
   ],
   "additional_candidates": [
@@ -854,8 +864,8 @@
       "earlier_public_date_upper": "2025-01-10",
       "earlier_public_session": "unknown",
       "review_status": "prior_competing_bid_public",
-      "earlier_source": "https://www.sec.gov/Archives/edgar/data/1597553/000119312525004907/d907988dex993.htm",
-      "earlier_locator": "Sage confirms public Biogen acquisition proposal January 10, 2025",
+      "earlier_source": "https://endpoints.news/biogen-offers-to-buy-sage-therapeutics-for-469m/",
+      "earlier_locator": "Endpoints January 10, 2025 6:58 p.m. EST; Biogen Schedule 13D / Sage confirmation same evening",
       "first_public_disclosure_verified": false,
       "corporate_action_review_complete": true,
       "discovery_basis": "Acquirer primary release, independent of local option activity",
@@ -875,11 +885,14 @@
         "earlier_public_upper_session_abs_ge_5pct",
         "reaction_mostly_overnight_gap"
       ],
-      "finding": "",
+      "finding": "Biogen\u2019s unsolicited nonbinding $7.22/share proposal became public Friday evening January 10, 2025 (Endpoints 6:58 p.m. EST; Schedule 13D / Sage confirmation), with extended-hours jump. That prior competing public bid process precedes the June 16, 2025 Supernus definitive; June 16 is not the first public M&A disclosure for SAGE. Jump-cause for June jump: M&A news (ignore earnings). first_public_disclosure_verified remains false.",
       "jump_cause": "ma_news",
       "jump_cause_detail": "Supernus $8.50(+CVR) deal Jun 16; Reuters attributes +35% to M&A. Earlier Biogen offer/process is before measured window.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.reuters.com/business/healthcare-pharmaceuticals/supernus-pharma-acquire-sage-therapeutics-up-795-million-deal-2025-06-16/"
+      "news_locator": "https://www.reuters.com/business/healthcare-pharmaceuticals/supernus-pharma-acquire-sage-therapeutics-up-795-million-deal-2025-06-16/",
+      "earlier_public_lower_utc": "2025-01-10T23:58:00Z",
+      "earlier_public_upper_utc": "2025-01-10T23:58:00Z",
+      "training_label_ready": false
     },
     {
       "symbol": "SFD",
@@ -1486,7 +1499,7 @@
       "timing_source": "https://news.alaskaair.com/newsroom/alaska-air-group-to-acquire-virgin-america-creating-west-coasts-premier-carrier/",
       "timing_locator": "Alaska/Virgin release April 4, 2016; call 8:30 a.m. ET",
       "review_status": "earlier_disclosure_found_before_definitive_announcement",
-      "finding": "Bloomberg reported in the week before March 28, 2016 that Virgin America was working with advisers on a sale; on March 28 CNBC/Bloomberg reported JetBlue and Alaska bids, with VA shares jumping. The April 4 definitive Alaska announcement is therefore not the first public M&A disclosure. Measured jump uses the prior close before April 4, so earlier sale-process reports sit strictly before the measured window. Sources: https://www.cnbc.com/2016/03/28/virgin-america-jumps-on-potential-bids-from-jetblue-alaska-air.html ; https://www.bloomberg.com/news/articles/2016-03-28/virgin-america-said-to-attract-jetblue-alaska-air-takeover-bids",
+      "finding": "Bloomberg reported in the week before March 28, 2016 that Virgin America was working with advisers on a sale (CNBC/Motley Fool place that earlier process report about a week prior, ~Mar 21\u201323). On March 28 Bloomberg (12:45 p.m. MDT) and CNBC (3:35 p.m. EDT) reported JetBlue and Alaska bids with VA shares jumping. The April 4 definitive Alaska announcement is therefore not the first public M&A disclosure. Jump-cause: M&A rumor/news (ignore earnings). first_public_disclosure_verified remains false.",
       "first_public_disclosure_verified": false,
       "corporate_action_review_complete": true,
       "discovery_basis": "Confirmed public-target price/volume reaction from dated M&A announcement review; independent of option-pattern selection.",
@@ -1515,7 +1528,12 @@
       "jump_cause": "ma_rumor",
       "jump_cause_detail": "Bloomberg/CNBC Mar 28 JetBlue/Alaska bids; Apr 4 Alaska definitive. Earlier public before measured window.",
       "news_filter": "keep_ma_contaminated",
-      "news_locator": "https://www.cnbc.com/2016/03/28/virgin-america-jumps-on-potential-bids-from-jetblue-alaska-air.html"
+      "news_locator": "https://www.cnbc.com/2016/03/28/virgin-america-jumps-on-potential-bids-from-jetblue-alaska-air.html",
+      "earlier_public_lower_utc": "2016-03-21T00:00:00Z",
+      "earlier_public_upper_utc": "2016-03-28T18:45:00Z",
+      "earlier_source": "https://www.bloomberg.com/news/articles/2016-03-28/virgin-america-said-to-attract-jetblue-alaska-air-takeover-bids",
+      "earlier_locator": "Bloomberg sale-process week of Mar 21\u201328; Mar 28 12:45 p.m. MDT JetBlue/Alaska bids report; CNBC 3:35 p.m. EDT",
+      "training_label_ready": false
     },
     {
       "symbol": "GNCMA",

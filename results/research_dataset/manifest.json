@@ -1,29 +1,30 @@
 {
-  "observations": 2080,
+  "observations": 2650,
   "outcome_followup_proxy": "2025-06-16",
   "label_status_counts": {
-    "incomplete_outcome_registry": 1760,
+    "incomplete_outcome_registry": 2139,
     "insufficient_calendar_or_followup": 69,
-    "candidate_or_disclosure_review_unresolved": 251
+    "candidate_or_disclosure_review_unresolved": 441,
+    "negative_from_complete_scoped_outcome_review": 1
   },
   "partition_counts": {
     "validation": 450,
-    "train": 1120,
+    "train": 1690,
     "development_audit": 510
   },
   "purge_reason_counts": {
     "feature_or_outcome_window_crosses_partition": 83
   },
-  "feature_coverage_ready": 1894,
+  "feature_coverage_ready": 2461,
   "research_eligible": 0,
   "known_positive_labels": 0,
-  "known_negative_labels": 0,
+  "known_negative_labels": 1,
   "source_sha256": {
-    "results/reviewed_cohort/features.json": "cc9bbe334a5d163638ce0c457e8b8538611cf68a8c637eaa38453b4abedf8f3e",
+    "results/reviewed_cohort/features.json": "f197f0f35507af2e0c8578ee76c17d059b9b20310912d5dbc0a26c4dec8f30ea",
     "results/background_sample/observations.json": "a8c954176260b85789aa6f6d53437c4095f1e363e5075dc44468483cc9a74aeb",
-    "results/reviewed_cohort/events.json": "9f499bb20fd9891d1c9a5422f26ff023d325c21096e09dc5202949e7252987b9",
+    "results/reviewed_cohort/events.json": "7bfb03183d8f8cf45b78ebd4fe7ef852480d5118758f2c1adb1ed29384bba865",
     "data/evaluation_protocol.json": "ce5dc34342acd35742d8b523757bbf115ccf6c0fb5a694a59284b9f1dda6fdce",
-    "data/outcome_coverage_reviews.json": "7ebb2ff0014409d609b372b8a4050056123f9315b2b4c77eeff8b22b4d99f20c"
+    "data/outcome_coverage_reviews.json": "4823b82846c9626f564f0ad8e5bf8b8a8dcd0d6b591c426e9936e0381b30f819"
   },
   "gates": [
     "Incomplete first-disclosure, corporate-action, and security identity review.",
