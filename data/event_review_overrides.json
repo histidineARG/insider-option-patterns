@@ -1,6 +1,6 @@
 {
   "reviewed_as_of": "2026-11-06",
-  "scope": "Primary-source chronology findings; incomplete review is not evidence of no earlier disclosure. Original snapshots remain preserved. Jump-cause search for \u226515% reactions prioritizes M&A rumor/news and biotech-trial/tech-breakthrough catalysts and ignores earnings. first_public_disclosure_verified requires a bounded first-public UTC interval; training_label_ready remains separately gated.",
+  "scope": "Primary-source chronology findings; incomplete review is not evidence of no earlier disclosure. Jump-cause news filter for \u226515% reactions prioritizes M&A rumor/news and biotech-trial/tech-breakthrough catalysts and ignores earnings. Contaminated events may still be kept as M&A after news filter while first_public_disclosure_verified stays false when earlier public M&A news exists. training_label_ready remains separately gated.",
   "events": [
     {
       "symbol": "ONXX",
@@ -28,7 +28,11 @@
       "price_action_hazards": [
         "earlier_public_on_previous_session",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_rumor",
+      "jump_cause_detail": "Financial Post Amgen $120 bid report ~Jun 28 after-close; Jun 30 issuer response. Measured jump includes rumor then response.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://financialpost.com/news/amgen-circles-onyx-pharmaceuticals-with-eye-to-a-deal-at-us120-a-share/"
     },
     {
       "symbol": "CNQR",
@@ -59,7 +63,11 @@
         "earlier_public_strictly_before_previous_session",
         "earlier_public_upper_session_abs_ge_5pct",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_rumor",
+      "jump_cause_detail": "Bloomberg Sep 2/3 2014 sale-exploration report (SAP/Oracle); Sep 18 definitive is later. Measured window after earlier sale rumor.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.reuters.com/article/idUSKBN0GX2H720140902/"
     },
     {
       "symbol": "KRFT",
@@ -87,7 +95,11 @@
       "price_action_hazards": [
         "earlier_public_on_previous_session",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_rumor",
+      "jump_cause_detail": "WSJ/Bloomberg Mar 24 after-close 3G\u2013Kraft talks; Mar 25 definitive Heinz/Kraft. Prior close already embeds rumor.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.usatoday.com/story/money/business/2015/03/24/kraft-3g-capital/70406484/"
     },
     {
       "symbol": "ADT",
@@ -147,7 +159,11 @@
       "price_action_hazards": [
         "unresolved_earlier_process_on_or_before_previous_session",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "BPEA $51.35 cash deal Sep 10; Motley Fool attributes +24% to M&A. Prior unsolicited process noted in release.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.fool.com/investing/2020/09/10/why-virtusa-stock-just-jumped-24/"
     },
     {
       "symbol": "GSKY",
@@ -176,7 +192,11 @@
         "previous_session_abs_move_ge_5pct",
         "ge_10pct_single_day_move_in_pre20",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Goldman Sachs all-stock deal Sep 15; Motley Fool attributes +53% to M&A. Prior process flag retained separately.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.fool.com/investing/2021/09/15/why-greensky-stock-soared-53-today/"
     },
     {
       "symbol": "RETA",
@@ -204,7 +224,11 @@
       "price_action_hazards": [
         "earlier_public_on_previous_session",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_rumor",
+      "jump_cause_detail": "Bloomberg Law Biogen-considering report then Jul 28 definitive; Investopedia attributes +54% to M&A. Prior-close may reflect rumor.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.investopedia.com/biogen-buys-reata-pharmaceuticals-7567176"
     },
     {
       "symbol": "CALT",
@@ -437,7 +461,11 @@
       "price_action_hazards": [
         "earlier_public_between_previous_and_reaction",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_rumor",
+      "jump_cause_detail": "Bloomberg/WSJ Jan 21 evening Sanofi near-deal; Jan 22 definitive. Gap may include prior evening rumor.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.bloomberg.com/news/articles/2018-01-22/sanofi-said-to-near-11-5-billion-deal-for-bioverativ-wsj-says"
     },
     {
       "symbol": "EFII",
@@ -525,7 +553,11 @@
         "earlier_public_between_previous_and_reaction",
         "ge_10pct_single_day_move_in_pre20",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Lumentum deal announced Jan 19 (agreement Jan 18); Business Insider/AP attribute +33% to M&A. Later II-VI bidding war is post-event.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://markets.businessinsider.com/news/stocks/coherent-stock-skyrockets-lumentum-announces-multi-billion-acquisition-2021-1-1029982858"
     },
     {
       "symbol": "KAMN",
@@ -586,7 +618,11 @@
         "earlier_public_same_calendar_day_as_reaction",
         "ge_10pct_single_day_move_in_pre20",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_rumor",
+      "jump_cause_detail": "Same-day WSJ then Advent definitive; InvestorPlace/Reuters attribute +120% to M&A.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://investorplace.com/2022/12/why-is-maxar-technologies-maxr-stock-up-120-today/"
     },
     {
       "symbol": "ZGNX",
@@ -646,7 +682,11 @@
       "price_action_hazards": [
         "unresolved_earlier_process_on_or_before_previous_session",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Novartis $218/share deal Apr 9; jump is M&A. Prior takeover-target list is unresolved process, not earnings/trial catalyst for this jump.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.foxbusiness.com/markets/why-avexis-inc-stock-is-soaring-today"
     },
     {
       "symbol": "PRVB",
@@ -679,7 +719,11 @@
         "previous_session_abs_move_ge_5pct",
         "earlier_public_upper_session_abs_ge_5pct",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Sanofi $25 tender Mar 13; Reuters/BioSpace attribute ~+260% to M&A. Prior Sanofi commercial relationship is not this jump\u2019s catalyst.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.reuters.com/markets/deals/frances-sanofi-acquire-us-based-provention-bio-29-bln-2023-03-13/"
     },
     {
       "symbol": "IMGN",
@@ -712,7 +756,11 @@
         "earlier_public_lower_session_abs_ge_5pct",
         "earlier_public_upper_session_abs_ge_5pct",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "AbbVie $31.26 deal Nov 30; CNBC attributes +83% to M&A. Earlier Oct process/bids are before measured window.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.cnbc.com/2023/11/30/biotech-stocks-jump-on-abbvie-deal-to-buy-cancer-drugmaker-immunogen.html"
     }
   ],
   "additional_candidates": [
@@ -752,7 +800,11 @@
         "previous_session_abs_move_ge_5pct",
         "ge_10pct_single_day_move_in_pre20",
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "jump_cause": "ma_rumor",
+      "jump_cause_detail": "Bloomberg Jan 12 J&J exploring bid; Jan 13 definitive. Gap may include prior-day rumor.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.reuters.com/business/healthcare-pharmaceuticals/jj-explores-bid-intra-cellular-therapies-bloomberg-news-reports-2025-01-12/"
     },
     {
       "symbol": "SAGE",
@@ -789,7 +841,11 @@
         "earlier_public_upper_session_abs_ge_5pct",
         "reaction_mostly_overnight_gap"
       ],
-      "finding": ""
+      "finding": "",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Supernus $8.50(+CVR) deal Jun 16; Reuters attributes +35% to M&A. Earlier Biogen offer/process is before measured window.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.reuters.com/business/healthcare-pharmaceuticals/supernus-pharma-acquire-sage-therapeutics-up-795-million-deal-2025-06-16/"
     },
     {
       "symbol": "SFD",
@@ -1056,7 +1112,11 @@
       "identity_source": "https://data.sec.gov/submissions/CIK0000079958.json",
       "share_class_notes": "NYSE common stock PCP (Precision Castparts Corp.).",
       "post_event_ticker_notes": "Precision Castparts delisted after Berkshire close; no later unrelated PCP reincarnation identified.",
-      "consideration_notes": "All-cash Berkshire acquisition ($235.00 per share class of consideration per definitive announcement)."
+      "consideration_notes": "All-cash Berkshire acquisition ($235.00 per share class of consideration per definitive announcement).",
+      "jump_cause": "ma_rumor",
+      "jump_cause_detail": "WSJ/Fortune Aug 9 Berkshire\u2013Precision talks; Aug 10 definitive. Gap may include weekend rumor.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://fortune.com/2015/08/09/warren-buffetts-berkshire-hathaway-nears-precision-castparts/"
     },
     {
       "symbol": "KLAC",
@@ -1124,7 +1184,11 @@
       "identity_source": "https://data.sec.gov/submissions/CIK0000804212.json",
       "share_class_notes": "NYSE common stock ARG (Airgas, Inc.).",
       "post_event_ticker_notes": "Airgas delisted after Air Liquide close; no later unrelated ARG reincarnation identified for this review.",
-      "consideration_notes": "All-cash Air Liquide acquisition (definitive consideration per merger agreement / contemporaneous coverage)."
+      "consideration_notes": "All-cash Air Liquide acquisition (definitive consideration per merger agreement / contemporaneous coverage).",
+      "jump_cause": "ma_rumor",
+      "jump_cause_detail": "Same-day midday Air Liquide talks rumor then definitive; jump is M&A not earnings.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://247wallst.com/industrials/2015/11/17/airgas-to-become-part-of-air-liquide/"
     },
     {
       "symbol": "AFFX",
@@ -1327,7 +1391,11 @@
       "identity_source": "https://data.sec.gov/submissions/CIK0000102741.json",
       "share_class_notes": "NYSE common stock VAL (The Valspar Corporation) at announcement.",
       "post_event_ticker_notes": "Valspar delisted after Sherwin-Williams close. Later NYSE VAL is Valaris Limited (offshore drilling)\u2014unrelated reincarnation; do not mix quotes.",
-      "consideration_notes": "All-cash $113.00 per share Sherwin-Williams acquisition (with specified antitrust divestiture price-adjustment mechanics in the merger agreement)."
+      "consideration_notes": "All-cash $113.00 per share Sherwin-Williams acquisition (with specified antitrust divestiture price-adjustment mechanics in the merger agreement).",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Sherwin-Williams $113 cash deal announced Mar 20 2016 (Sunday); Mon jump. Earlier-public bound retained from prior review.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.startribune.com/valspar-shares-jump-sharply-in-early-trading-after-sherwin-williams-takeover/372882771"
     },
     {
       "symbol": "RKUS",
@@ -1399,7 +1467,11 @@
       "identity_source": "https://data.sec.gov/submissions/CIK0001614436.json",
       "share_class_notes": "NASDAQ common stock VA (Virgin America Inc.).",
       "post_event_ticker_notes": "Virgin America delisted after Alaska Air close. Later VA tickers (e.g., SPACs/other issuers) are unrelated; do not mix quotes with this 2016 airline episode.",
-      "consideration_notes": "All-cash $57.00 per share Alaska Air Group acquisition."
+      "consideration_notes": "All-cash $57.00 per share Alaska Air Group acquisition.",
+      "jump_cause": "ma_rumor",
+      "jump_cause_detail": "Bloomberg/CNBC Mar 28 JetBlue/Alaska bids; Apr 4 Alaska definitive. Earlier public before measured window.",
+      "news_filter": "keep_ma_contaminated",
+      "news_locator": "https://www.cnbc.com/2016/03/28/virgin-america-jumps-on-potential-bids-from-jetblue-alaska-air.html"
     },
     {
       "symbol": "GNCMA",

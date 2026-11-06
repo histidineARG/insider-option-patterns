@@ -43,7 +43,7 @@ Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
 ## Next actions
 
 - Dated public-target confirmation stands at 41 confirmed price+volume reactions (3 market passes still blocked: TUMI rumor/official unresolved; RSE/ODP unsolicited proposals).
-- Reviewed cohort now 45 events with corporate-action/identity checklists complete. Clean `jump_ok` = 25; `first_public_disclosure_verified` = 27; `training_label_ready` = 0.
+- Reviewed cohort now 45 events with corporate-action/identity checklists complete. Clean `jump_ok` = 25; `first_public_disclosure_verified` = 27; `training_label_ready` = 0. News jump-cause filter on the other 18: all kept as M&A-contaminated (0 dropped as earnings/trial/breakthrough); see `results/news_jump_filter/`.
 - Use EDGAR-with-symbol pre-proxy jump census as a discovery bound, not as training labels.
 - Expand scoped outcome-coverage reviews only when a complete source-backed negative search protocol exists.
 - Do not authorize population metrics, threshold selection, or trading simulation while gates remain blocked.
