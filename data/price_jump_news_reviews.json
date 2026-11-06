@@ -1,7 +1,7 @@
 {
   "as_of": "2016-12-31",
   "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
-  "tranche": "ge15_eighth40",
+  "tranche": "ge15_ninth40",
   "reviews": [
     {
       "symbol": "ERII",
@@ -6412,6 +6412,406 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep-2/3/4 PR for SEDG. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/SEDG?date=2015-12-16&view=daily"
+    },
+    {
+      "symbol": "SGMO",
+      "qdate": "2014-03-06",
+      "close_return": 0.1708,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "NEJM Phase 1 SB-728-T HIV gene-editing data (CCR5 ZFN); functional control signals. Class-3 trial keep.",
+      "locator": "https://www.bloomberg.com/news/articles/2014-03-06/sangamo-rises-to-highest-value-in-13-years-on-hiv-treatment-data"
+    },
+    {
+      "symbol": "ATRA",
+      "qdate": "2015-06-15",
+      "close_return": 0.1706,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Exercised MSK exclusive license to T-cell programs. Partnership/license, not keep 2/3/4.",
+      "locator": "https://investors.atarabio.com/news-events/press-releases/detail/27/atara-biotherapeutics-exercises-exclusive-license-to-t-cell"
+    },
+    {
+      "symbol": "SPWR",
+      "qdate": "2013-04-09",
+      "close_return": 0.1706,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for SPWR. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SPWR?date=2013-04-09&view=daily"
+    },
+    {
+      "symbol": "GALT",
+      "qdate": "2014-02-25",
+      "close_return": 0.1705,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Patent/enthusiasm move; no confirmed same-day trial/M&A keep PR.",
+      "locator": "https://exa.ai/library/markets/stock/GALT?date=2014-02-25&view=daily"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2016-03-17",
+      "close_return": 0.1704,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "FDA AdCom reschedule was Mar 14; Mar 17 move tied to residual/insider buying chatter. Not clear same-day keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SRPT?date=2016-03-17&view=daily"
+    },
+    {
+      "symbol": "ICPT",
+      "qdate": "2014-02-07",
+      "close_return": 0.1704,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Continuation of Jan 9 FLINT NASH rally; no same-day trial/M&A keep PR.",
+      "locator": "https://exa.ai/library/markets/stock/ICPT?date=2014-02-07&view=daily"
+    },
+    {
+      "symbol": "CRMD",
+      "qdate": "2015-06-01",
+      "close_return": 0.1697,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Neutrolin post-marketing surveillance poster at ERA-EDTA. Not pivotal trial keep.",
+      "locator": "https://exa.ai/library/markets/stock/CRMD?date=2015-06-01&view=daily"
+    },
+    {
+      "symbol": "SANW",
+      "qdate": "2014-01-21",
+      "close_return": 0.1696,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for SANW. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SANW?date=2014-01-21&view=daily"
+    },
+    {
+      "symbol": "RPRX",
+      "qdate": "2014-09-26",
+      "close_return": 0.1696,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Androxal Phase III ZA-304 met dual primary endpoints; FDA Type B Pre-NDA meeting scheduled. Class-3 trial/NDA-path keep.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/897075/000117184314004492/newsrelease.htm"
+    },
+    {
+      "symbol": "PVG",
+      "qdate": "2013-05-08",
+      "close_return": 0.1694,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for PVG. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/PVG?date=2013-05-08&view=daily"
+    },
+    {
+      "symbol": "TK",
+      "qdate": "2016-02-18",
+      "close_return": 0.1694,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for TK. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/TK?date=2016-02-18&view=daily"
+    },
+    {
+      "symbol": "RMTI",
+      "qdate": "2013-09-27",
+      "close_return": 0.1694,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Triferic Phase III already reported earlier Sep; no clear same-day keep PR.",
+      "locator": "https://exa.ai/library/markets/stock/RMTI?date=2013-09-27&view=daily"
+    },
+    {
+      "symbol": "CONN",
+      "qdate": "2016-09-21",
+      "close_return": 0.1693,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for CONN. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CONN?date=2016-09-21&view=daily"
+    },
+    {
+      "symbol": "ATHM",
+      "qdate": "2014-05-12",
+      "close_return": 0.1692,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for ATHM. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ATHM?date=2014-05-12&view=daily"
+    },
+    {
+      "symbol": "ABEO",
+      "qdate": "2016-10-18",
+      "close_return": 0.1691,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "EMA orphan designation for ABO-102 Sanfilippo gene therapy (ongoing Phase 1/2). Class-3 EMA/trial-path keep.",
+      "locator": "https://investors.abeonatherapeutics.com/news-events/press-releases/detail/54/abeona-therapeutics-receives-orphan-drug-designation-in-the-european-union-for-abo-102-gene-therapy-in-sanfilippo-syndrome-type-a"
+    },
+    {
+      "symbol": "CLF",
+      "qdate": "2016-11-09",
+      "close_return": 0.1691,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Post-election steel/materials rally. Macro/sector, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CLF?date=2016-11-09&view=daily"
+    },
+    {
+      "symbol": "JRJC",
+      "qdate": "2014-11-10",
+      "close_return": 0.1688,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for JRJC. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/JRJC?date=2014-11-10&view=daily"
+    },
+    {
+      "symbol": "NXPI",
+      "qdate": "2016-09-29",
+      "close_return": 0.1688,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor",
+      "news_filter": "keep",
+      "detail": "WSJ/CNBC: Qualcomm in talks to acquire NXP (>$30B). Confirmed M&A rumor keep-2.",
+      "locator": "https://www.cnbc.com/2016/09/29/qualcomm-said-to-be-in-talks-to-acquire-nxp-.html"
+    },
+    {
+      "symbol": "EW",
+      "qdate": "2016-04-04",
+      "close_return": 0.1686,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "ACC Partner II Sapien 3 intermediate-risk TAVR data superior vs surgery on mortality/stroke. Class-3 trial keep.",
+      "locator": "https://fortune.com/2016/04/04/edwards-lifesci-all-time-high/"
+    },
+    {
+      "symbol": "CALA",
+      "qdate": "2015-07-21",
+      "close_return": 0.1686,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR (Phase I data earlier June). Unclassified.",
+      "locator": "https://exa.ai/library/markets/stock/CALA?date=2015-07-21&view=daily"
+    },
+    {
+      "symbol": "ICAD",
+      "qdate": "2013-10-18",
+      "close_return": 0.1686,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No same-day FDA/trial keep PR (prior clearances earlier 2013). Unclassified.",
+      "locator": "https://exa.ai/library/markets/stock/ICAD?date=2013-10-18&view=daily"
+    },
+    {
+      "symbol": "ICPT",
+      "qdate": "2015-12-15",
+      "close_return": 0.1685,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor",
+      "news_filter": "keep",
+      "detail": "Same-day Shire/multi-bidder acquisition rumor drove ICPT; BioCentury confirms. Keep-2 M&A rumor.",
+      "locator": "https://www.nasdaq.com/articles/mid-afternoon-market-update-dow-surges-over-200-points-intercept-pharma-shares-climb"
+    },
+    {
+      "symbol": "COUP",
+      "qdate": "2014-06-02",
+      "close_return": 0.1685,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for COUP. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/COUP?date=2014-06-02&view=daily"
+    },
+    {
+      "symbol": "ZEN",
+      "qdate": "2014-10-03",
+      "close_return": 0.1684,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for ZEN. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ZEN?date=2014-10-03&view=daily"
+    },
+    {
+      "symbol": "LYV",
+      "qdate": "2013-06-12",
+      "close_return": 0.1684,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for LYV. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/LYV?date=2013-06-12&view=daily"
+    },
+    {
+      "symbol": "HSY",
+      "qdate": "2016-06-30",
+      "close_return": 0.1683,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_news",
+      "news_filter": "keep",
+      "detail": "Confirmed Mondelez ~$23B/$107 cash-stock bid; Hershey board rejected same day. Confirmed M&A proposal keep-2.",
+      "locator": "https://www.reuters.com/article/business/hershey-rejects-23-billion-mondelez-takeover-offer-idUSKCN0ZG24M/"
+    },
+    {
+      "symbol": "CNCE",
+      "qdate": "2016-11-09",
+      "close_return": 0.1683,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Post-election biotech/pharma rally on drug-pricing relief. Macro/sector, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CNCE?date=2016-11-09&view=daily"
+    },
+    {
+      "symbol": "AMRC",
+      "qdate": "2016-03-02",
+      "close_return": 0.1683,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for AMRC. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/AMRC?date=2016-03-02&view=daily"
+    },
+    {
+      "symbol": "DV",
+      "qdate": "2016-08-19",
+      "close_return": 0.1682,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for DV. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/DV?date=2016-08-19&view=daily"
+    },
+    {
+      "symbol": "PFSI",
+      "qdate": "2016-08-04",
+      "close_return": 0.1681,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for PFSI. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/PFSI?date=2016-08-04&view=daily"
+    },
+    {
+      "symbol": "IMGN",
+      "qdate": "2015-03-23",
+      "close_return": 0.168,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Takeda ADC technology license ($20M upfront). Partnership/license, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2015/03/23/why-immunogen-inc-is-soaring-higher-today.aspx"
+    },
+    {
+      "symbol": "ICPT",
+      "qdate": "2014-04-22",
+      "close_return": 0.1679,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for ICPT. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ICPT?date=2014-04-22&view=daily"
+    },
+    {
+      "symbol": "SHLX",
+      "qdate": "2015-09-30",
+      "close_return": 0.1679,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for SHLX. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SHLX?date=2015-09-30&view=daily"
+    },
+    {
+      "symbol": "CAAS",
+      "qdate": "2016-11-28",
+      "close_return": 0.1678,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for CAAS. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CAAS?date=2016-11-28&view=daily"
+    },
+    {
+      "symbol": "INFI",
+      "qdate": "2013-02-19",
+      "close_return": 0.1676,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Morgan Stanley overweight initiation on IPI-145 hopes. Analyst, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2013/02/19/why-infinity-pharmaceuticals-shares-soared.aspx"
+    },
+    {
+      "symbol": "OIS",
+      "qdate": "2013-04-30",
+      "close_return": 0.1675,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for OIS. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/OIS?date=2013-04-30&view=daily"
+    },
+    {
+      "symbol": "CLVS",
+      "qdate": "2015-05-14",
+      "close_return": 0.1674,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Rociletinib NEJM was late Apr; no clear same-day May 14 keep PR.",
+      "locator": "https://exa.ai/library/markets/stock/CLVS?date=2015-05-14&view=daily"
+    },
+    {
+      "symbol": "CSTE",
+      "qdate": "2016-08-03",
+      "close_return": 0.1674,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for CSTE. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CSTE?date=2016-08-03&view=daily"
+    },
+    {
+      "symbol": "MGNX",
+      "qdate": "2016-05-18",
+      "close_return": 0.1674,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Janssen collaboration/license for preclinical MGD015. Partnership, not keep 2/3/4.",
+      "locator": "https://ir.macrogenics.com/news-releases/news-release-details/macrogenics-enters-collaboration-and-license-agreement-janssen-0"
+    },
+    {
+      "symbol": "MBII",
+      "qdate": "2014-05-27",
+      "close_return": 0.1674,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for MBII. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/MBII?date=2014-05-27&view=daily"
     }
   ]
 }
