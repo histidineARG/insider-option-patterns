@@ -3450,14 +3450,16 @@
     "vol_ratio": 2.436409363198333,
     "cik": "0000319655",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://markets.financialcontent.com/stocks/quote/historical?Language=english%2F1000&Month=2&Range=3&Symbol=321%3A968278&Year=2016",
+    "news_detail": "Royalty trust move with oil bounce; no confirmed keep PR. Commodity, not keep 2/3/4."
   },
   {
     "symbol": "SNE",
@@ -11179,14 +11181,16 @@
     "vol_ratio": 2.028413975449826,
     "cik": "0001458891",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/NE?date=2016-03-04&view=daily",
+    "news_detail": "Offshore/oil rally on OPEC freeze talk. Commodity, not keep 2/3/4."
   },
   {
     "symbol": "NM",
@@ -23020,15 +23024,17 @@
     "prev_volume": 3493465.0,
     "vol_ratio": 5.407662306621077,
     "cik": "0000873303",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/2016/06/07/why-sarepta-therapeutics-shares-skyrocketed-today.aspx",
+    "news_detail": "FDA requested dystrophin biopsy data from eteplirsen confirmatory study (accelerated-approval path). Class-3 FDA-path keep."
   },
   {
     "symbol": "AUMN",
@@ -41760,14 +41766,16 @@
     "vol_ratio": 2.7998978770374348,
     "cik": "0000732834",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CLR?date=2016-11-30&view=daily",
+    "news_detail": "OPEC production-cut agreement day / oil rally. Commodity/policy, not keep 2/3/4."
   },
   {
     "symbol": "CPE",
@@ -43956,14 +43964,16 @@
     "vol_ratio": 3.332284243944278,
     "cik": "0001840292",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://app.hedgeye.com/insights/56040-athenahealth-why-it-s-up-20-today-and-why-40-upside-may-remain",
+    "news_detail": "Investor Day: strong 2017 guidance and bookings outlook. Guidance/earnings, not keep 2/3/4."
   },
   {
     "symbol": "CBIO",
