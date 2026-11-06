@@ -1,0 +1,20 @@
+{
+  "start": "2015-01-02",
+  "end": "2015-01-31",
+  "n_jumps": 138,
+  "n_with_cik": 57,
+  "cause_class_counts": {
+    "unclassified": 124,
+    "1_earnings": 14
+  },
+  "news_filter_counts": {
+    "pending_news_review": 124,
+    "drop_earnings": 14
+  },
+  "policy": "keep 2,3,4; drop 1 (earnings via EDGAR 8-K Item 2.02)",
+  "notes": [
+    "Jumps are NYSE-calendar consecutive close-to-close with volume \u22652\u00d7 prior session.",
+    "drop_earnings requires a mapped CIK and an Item 2.02 acceptance whose reaction session equals qdate.",
+    "Unclassified jumps still need news review for classes 2/3/4; absence of Item 2.02 is not proof of non-earnings."
+  ]
+}

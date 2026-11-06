@@ -1,0 +1,26 @@
+{
+  "as_of": "2026-11-06",
+  "scope": "Manual news reviews for unclassified ≥15% jumps after EDGAR Item 2.02 earnings drops. Keep only classes 2/3/4; do not invent keeps for other catalysts.",
+  "reviews": [
+    {
+      "symbol": "ERII",
+      "qdate": "2015-10-20",
+      "close_return": 1.9756,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Schlumberger VorTeq 15-year licensing agreement announced ~Oct 19 after-close / Oct 20 reaction. Commercial license, not M&A target, biotech trial, or product breakthrough under keep 2/3/4.",
+      "locator": "https://ir.energyrecovery.com/news-events/press-releases/detail/153/energy-recovery-signs-15-year-license-with-schlumberger-to"
+    },
+    {
+      "symbol": "GENE",
+      "qdate": "2015-01-29",
+      "close_return": 1.82,
+      "jump_cause": "tech_breakthrough",
+      "cause_class": "4_tech_breakthrough",
+      "news_filter": "keep",
+      "detail": "Genetic Technologies ASX/6-K: up to six new breast centers to offer BREVAGenplus; product commercialization expansion. Kept as class 4 (tech/product breakthrough), not earnings (no Item 2.02 match).",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1166272/000110465915005408/0001104659-15-005408.txt"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "n_ciks_requested": 420,
+  "n_ciks_ok": 364,
+  "n_filings": 24616,
+  "n_errors": 0,
+  "notes": [
+    "Item 2.02 is the EDGAR earnings-results disclosure used for class-1 drops.",
+    "Acceptance datetime is the public EDGAR stamp; map to NYSE reaction session separately.",
+    "Cached per-CIK under results/edgar_earnings_calendar/by_cik/."
+  ]
+}
