@@ -2526,14 +2526,16 @@
     "vol_ratio": 12.621632221161601,
     "cik": "0001091907",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/WWE?date=2015-01-27&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for WWE (network/media). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ABMD",
@@ -14919,14 +14921,16 @@
     "vol_ratio": 3.3385982357823223,
     "cik": "0001040161",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/PXLW?date=2015-06-03&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Pixelworks. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "RVNC",
@@ -15003,14 +15007,16 @@
     "vol_ratio": 4.916101715074098,
     "cik": "0001837620",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/VISN?date=2015-06-03&view=daily",
+    "news_detail": "No confirmed same-day keep PR for VisionChina. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "IMH",
@@ -15194,14 +15200,16 @@
     "vol_ratio": 2.4378618741025524,
     "cik": "0001046327",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/RNWK?date=2015-06-05&view=daily",
+    "news_detail": "No confirmed same-day keep PR for RealNetworks. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SHOS",
@@ -16808,14 +16816,16 @@
     "vol_ratio": 20.3040287821038,
     "cik": "0001176309",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ORMP?date=2015-07-02&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Oramed. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "XOOM",
@@ -20790,14 +20800,16 @@
     "vol_ratio": 3.32039171935044,
     "cik": "0000354963",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SHEN?date=2015-08-11&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Shenandoah Telecommunications. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "VTNR",
@@ -36081,14 +36093,16 @@
     "vol_ratio": 4.0859154078955315,
     "cik": "0001021162",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/TGI?date=2015-12-29&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Triumph Group. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "BIOD",
