@@ -49,6 +49,10 @@ or press-time evidence for every candidate. Quote-candidate counts are diagnosti
 zero events are training-ready until first-disclosure and corporate-action reviews
 pass.
 
+Run `python3 cik_audit.py` to compare stored issuer CIKs with `data.sec.gov`
+submissions metadata; see [CIK audit](results/cik_audit/REPORT.md). Suspicious
+name mismatches are diagnostics for review overrides, not automatic label changes.
+
 Run `python3 research_dataset.py` for the time-safe observation table with
 ten-session outcome boundaries, disclosure diagnostics, and purged chronological
 partitions frozen in `data/evaluation_protocol.json`. See the
