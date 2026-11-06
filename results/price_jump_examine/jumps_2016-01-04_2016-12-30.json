@@ -11257,14 +11257,16 @@
     "vol_ratio": 3.8438406623855004,
     "cik": "0001171486",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/NRP?date=2016-03-04&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for NRP. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "RIG",
@@ -12630,14 +12632,16 @@
     "vol_ratio": 2.752947976878613,
     "cik": "0001499543",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/NOAH?date=2016-03-11&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for NOAH. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "GWPH",
@@ -12737,14 +12741,16 @@
     "vol_ratio": 2.0372526802708877,
     "cik": "0001375151",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ZGNX?date=2016-03-14&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ZGNX. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "DDD",
@@ -20704,14 +20710,16 @@
     "vol_ratio": 2.5902240795180274,
     "cik": "0000919012",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/AEO?date=2016-05-19&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for AEO. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "BBEP",
@@ -23956,14 +23964,16 @@
     "vol_ratio": 3.0386792543804666,
     "cik": "0001082324",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/VHC?date=2016-06-14&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for VHC. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "AEGR",
@@ -25119,14 +25129,16 @@
     "vol_ratio": 2.466169112177769,
     "cik": "0001593034",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ENDP?date=2016-06-28&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ENDP. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "FUEL",
@@ -34356,14 +34368,16 @@
     "vol_ratio": 5.477634432787623,
     "cik": "0001434868",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ESPR?date=2016-09-20&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ESPR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "GALE",
@@ -35143,14 +35157,16 @@
     "vol_ratio": 2.8611161044918854,
     "cik": "0001631761",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/YRD?date=2016-09-27&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for YRD. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "AREX",
@@ -38867,14 +38883,16 @@
     "vol_ratio": 2.4378428489604556,
     "cik": "0001559053",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/PRTA?date=2016-11-09&view=daily",
+    "news_detail": "Prothena post-election biotech rally; no confirmed company keep 2/3/4."
   },
   {
     "symbol": "RVNC",
@@ -38953,14 +38971,16 @@
     "vol_ratio": 9.347847185964056,
     "cik": "0001032033",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SLM?date=2016-11-09&view=daily",
+    "news_detail": "SLM post-election financials rally; macro/sector, not keep 2/3/4."
   },
   {
     "symbol": "SPPI",
