@@ -4,19 +4,16 @@
     "symbol": "ADT",
     "announcement_date": "2016-02-16",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
       "share_class_or_ads_terms_recorded": true,
       "no_unresolved_split_or_ticker_change_in_feature_window": true,
       "post_event_ticker_reincarnation_checked": true,
       "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -24,23 +21,16 @@
     "symbol": "AFOP",
     "announcement_date": "2016-04-07",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date",
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -56,7 +46,7 @@
       "consideration_special_items_recorded": true
     },
     "blockers": [],
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "ready_to_mark_complete": true,
     "notes": null
   },
@@ -73,7 +63,7 @@
       "consideration_special_items_recorded": true
     },
     "blockers": [],
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "ready_to_mark_complete": true,
     "notes": null
   },
@@ -84,19 +74,14 @@
     "checks": {
       "issuer_cik_matches_edgar": true,
       "ticker_maps_to_issuer_on_announcement_date": true,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -112,7 +97,7 @@
       "consideration_special_items_recorded": true
     },
     "blockers": [],
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "ready_to_mark_complete": true,
     "notes": null
   },
@@ -123,19 +108,14 @@
     "checks": {
       "issuer_cik_matches_edgar": true,
       "ticker_maps_to_issuer_on_announcement_date": true,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -175,7 +155,7 @@
       "consideration_special_items_recorded": true
     },
     "blockers": [],
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "ready_to_mark_complete": true,
     "notes": null
   },
@@ -186,19 +166,14 @@
     "checks": {
       "issuer_cik_matches_edgar": true,
       "ticker_maps_to_issuer_on_announcement_date": true,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -230,23 +205,16 @@
     "symbol": "HNZ",
     "announcement_date": "2013-02-14",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date",
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -304,19 +272,14 @@
     "checks": {
       "issuer_cik_matches_edgar": true,
       "ticker_maps_to_issuer_on_announcement_date": true,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -372,19 +335,16 @@
     "symbol": "LNKD",
     "announcement_date": "2016-06-13",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
       "share_class_or_ads_terms_recorded": true,
       "no_unresolved_split_or_ticker_change_in_feature_window": true,
       "post_event_ticker_reincarnation_checked": true,
       "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -392,19 +352,16 @@
     "symbol": "MAXR",
     "announcement_date": "2022-12-16",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
       "share_class_or_ads_terms_recorded": true,
       "no_unresolved_split_or_ticker_change_in_feature_window": true,
       "post_event_ticker_reincarnation_checked": true,
       "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -444,7 +401,7 @@
       "consideration_special_items_recorded": true
     },
     "blockers": [],
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "ready_to_mark_complete": true,
     "notes": null
   },
@@ -503,19 +460,14 @@
     "checks": {
       "issuer_cik_matches_edgar": true,
       "ticker_maps_to_issuer_on_announcement_date": true,
-      "share_class_or_ads_terms_recorded": false,
-      "no_unresolved_split_or_ticker_change_in_feature_window": false,
-      "post_event_ticker_reincarnation_checked": false,
-      "consideration_special_items_recorded": false
+      "share_class_or_ads_terms_recorded": true,
+      "no_unresolved_split_or_ticker_change_in_feature_window": true,
+      "post_event_ticker_reincarnation_checked": true,
+      "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "share_class_or_ads_terms_recorded",
-      "no_unresolved_split_or_ticker_change_in_feature_window",
-      "post_event_ticker_reincarnation_checked",
-      "consideration_special_items_recorded"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   },
   {
@@ -547,19 +499,16 @@
     "symbol": "ZGNX",
     "announcement_date": "2022-01-19",
     "checks": {
-      "issuer_cik_matches_edgar": false,
-      "ticker_maps_to_issuer_on_announcement_date": false,
+      "issuer_cik_matches_edgar": true,
+      "ticker_maps_to_issuer_on_announcement_date": true,
       "share_class_or_ads_terms_recorded": true,
       "no_unresolved_split_or_ticker_change_in_feature_window": true,
       "post_event_ticker_reincarnation_checked": true,
       "consideration_special_items_recorded": true
     },
-    "blockers": [
-      "issuer_cik_matches_edgar",
-      "ticker_maps_to_issuer_on_announcement_date"
-    ],
-    "corporate_action_review_complete": false,
-    "ready_to_mark_complete": false,
+    "blockers": [],
+    "corporate_action_review_complete": true,
+    "ready_to_mark_complete": true,
     "notes": null
   }
 ]

@@ -1,18 +1,18 @@
 {
   "events": 26,
-  "ready_to_mark_complete": 5,
-  "marked_complete": 0,
+  "ready_to_mark_complete": 16,
+  "marked_complete": 16,
   "blocker_counts": {
-    "issuer_cik_matches_edgar": 16,
-    "ticker_maps_to_issuer_on_announcement_date": 16,
-    "share_class_or_ads_terms_recorded": 17,
-    "no_unresolved_split_or_ticker_change_in_feature_window": 17,
-    "post_event_ticker_reincarnation_checked": 17,
-    "consideration_special_items_recorded": 17
+    "issuer_cik_matches_edgar": 10,
+    "ticker_maps_to_issuer_on_announcement_date": 10,
+    "share_class_or_ads_terms_recorded": 10,
+    "no_unresolved_split_or_ticker_change_in_feature_window": 10,
+    "post_event_ticker_reincarnation_checked": 10,
+    "consideration_special_items_recorded": 10
   },
   "source_sha256": {
-    "results/reviewed_cohort/events.json": "5e17680296bc040a52945cb9caa4035ff507840119671b48cf54f302cb81935e",
-    "data/event_review_overrides.json": "ebfb793d14a504832a415a7d175b53d225551b255c81d352fd2c612d9c117648"
+    "results/reviewed_cohort/events.json": "9f499bb20fd9891d1c9a5422f26ff023d325c21096e09dc5202949e7252987b9",
+    "data/event_review_overrides.json": "1b8cfbf2608f8aa973cb424d47ffba7e342df6e06aa70838cb7d61c71538c329"
   },
   "notes": [
     "Checklist readiness is not corporate_action_review_complete.",

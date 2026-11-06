@@ -16,7 +16,7 @@
     "conflicting_locator": "Paragraph 10 quotes prior close 26.40 versus local 26.87",
     "finding": "The contemporaneous proxy's rounded offer premium is compatible with the local prior close. A later complaint instead quotes 26.40. Preserve the disagreement; no correction to raw prices is inferred. This is the 2016 issuer, not the later ADT listing.",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "event_id": "ADT:2016-02-16",
     "training_label_ready": false,
     "reaction_date": "2016-02-16",
@@ -47,7 +47,9 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "This is the 2016 ADT Corporation issuer (CIK 1546640), not the later ADT Inc. listing that reused ADT.",
     "consideration_notes": "Cash deal; proxy cites approximate 56% offer premium. Price-source conflict with later complaint preserved.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "identity_source": "https://data.sec.gov/submissions/CIK0001546640.json",
+    "cik_verified": true
   },
   {
     "symbol": "AFOP",
@@ -62,7 +64,7 @@
     "event_id": "AFOP:2016-04-07",
     "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2016-04-08",
     "previous_session": "2016-04-07",
@@ -89,7 +91,15 @@
     "price_qualification_status": "price_qualified",
     "finding": "Schedule 14D-9 Background states Corning and AFOP issued the joint press release after the close of trading on April 7, 2016, and does not cite an earlier media leak. The stockholder rights plan is described as not triggered by the Offer; corporate-action and broader media review remain incomplete.",
     "locator": "Background of the Transactions; April 7 after-close joint press release",
-    "issuer_cik": "1122342"
+    "issuer_cik": "1122342",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001122342.json",
+    "cik_verified": true,
+    "share_class_notes": "NASDAQ common stock AFOP with stockholder rights plan; Offer does not trigger the plan per 14D-9.",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "AFOP delisted after Corning close; no later unrelated AFOP reincarnation identified.",
+    "consideration_notes": "Cash tender $18.50 per share.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "AVXS",
@@ -104,7 +114,7 @@
     "event_id": "AVXS:2018-04-09",
     "review_status": "prior_takeover_speculation_public",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2018-04-09",
     "previous_session": "2018-04-06",
@@ -159,7 +169,7 @@
     "event_id": "BIVV:2018-01-22",
     "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2018-01-22",
     "previous_session": "2018-01-19",
@@ -209,7 +219,7 @@
     "event_id": "BOLD:2019-12-02",
     "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2019-12-03",
     "previous_session": "2019-12-02",
@@ -238,7 +248,13 @@
     "locator": "Litigation Release 25660; December 2, 2019 Audentes/Astellas public announcement",
     "issuer_cik": "1628738",
     "identity_source": "https://data.sec.gov/submissions/CIK0001628738.json",
-    "identity_locator": "EDGAR issuer Audentes Therapeutics, Inc. CIK 0001628738; prior cohort CIK 1628736 resolved to Eureka Restaurant Holdings, LLC"
+    "identity_locator": "EDGAR issuer Audentes Therapeutics, Inc. CIK 0001628738; prior cohort CIK 1628736 resolved to Eureka Restaurant Holdings, LLC",
+    "share_class_notes": "NASDAQ common stock BOLD (Audentes Therapeutics, Inc., CIK 1628738).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Audentes delisted after Astellas close; corrected CIK from Eureka Restaurant 1628736 to 1628738.",
+    "consideration_notes": "Cash acquisition (~$3B equity value per litigation release); market-session timing of December 2 release remains incomplete in the release summary.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "CALT",
@@ -255,7 +271,7 @@
     "locator": "Offer announcement; ADS representation and consideration",
     "finding": "US-listed ADSs represent two Swedish common shares. SEK 208 per ordinary share is SEK 416 per ADS, with USD conversion at settlement. Do not compare local ADS prices directly with ordinary-share SEK consideration.",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "event_id": "CALT:2024-05-28",
     "training_label_ready": false,
     "reaction_date": "2024-05-28",
@@ -299,7 +315,7 @@
     "event_id": "CEB:2017-01-05",
     "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2017-01-05",
     "previous_session": "2017-01-04",
@@ -328,7 +344,13 @@
     "locator": "Complaint; Gartner/CEB announcement before market open January 5, 2017",
     "issuer_cik": "1066104",
     "identity_source": "https://data.sec.gov/submissions/CIK0001066104.json",
-    "identity_locator": "EDGAR issuer CEB Inc. CIK 0001066104; prior cohort CIK 1035990 resolved to SAMET ROGER H"
+    "identity_locator": "EDGAR issuer CEB Inc. CIK 0001066104; prior cohort CIK 1035990 resolved to SAMET ROGER H",
+    "share_class_notes": "NYSE common stock CEB (CEB Inc., CIK 1066104).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "CEB became a Gartner subsidiary after April 2017 close; ticker CEB retired. Corrected CIK from person filer 1035990 to 1066104.",
+    "consideration_notes": "Mixed cash ($54.00) and Gartner stock (0.2284 share) per merger agreement; stock leg is not a pre-announcement receipt.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "CNQR",
@@ -390,7 +412,7 @@
     "event_id": "COHR:2021-01-19",
     "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2021-01-19",
     "previous_session": "2021-01-15",
@@ -440,7 +462,7 @@
     "event_id": "EFII:2019-04-15",
     "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2019-04-15",
     "previous_session": "2019-04-12",
@@ -469,7 +491,13 @@
     "locator": "Complaint; Siris/EFII announcement before market open April 15, 2019",
     "issuer_cik": "867374",
     "identity_source": "https://data.sec.gov/submissions/CIK0000867374.json",
-    "identity_locator": "EDGAR issuer ELECTRONICS FOR IMAGING INC CIK 0000867374; prior cohort CIK 864240 resolved to SYPRIS SOLUTIONS INC"
+    "identity_locator": "EDGAR issuer ELECTRONICS FOR IMAGING INC CIK 0000867374; prior cohort CIK 864240 resolved to SYPRIS SOLUTIONS INC",
+    "share_class_notes": "NASDAQ common stock EFII (Electronics For Imaging Inc., CIK 867374).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "EFI delisted after Siris affiliate take-private; corrected CIK from Sypris 864240 to 867374.",
+    "consideration_notes": "All-cash take-private valued around $1.7 billion per complaint narrative.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "GSKY",
@@ -528,7 +556,7 @@
     "event_id": "HNZ:2013-02-14",
     "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2013-02-14",
     "previous_session": "2013-02-13",
@@ -555,7 +583,15 @@
     "price_qualification_status": "price_qualified",
     "finding": "Proxy Background separates February 13 execution from the February 14 pre-open joint press release and notes leak risk during diligence without citing an earlier public report. Preferred-share redemption is a post-announcement corporate action and is not a pre-announcement trading receipt. Exhaustive media search for earlier public reports remains incomplete.",
     "locator": "Background of the Merger; February 13 signing and February 14 pre-NYSE-open joint release",
-    "issuer_cik": "46640"
+    "issuer_cik": "46640",
+    "identity_source": "https://data.sec.gov/submissions/CIK0000046640.json",
+    "cik_verified": true,
+    "share_class_notes": "NYSE common stock of H.J. Heinz Company; preferred series separately redeemed post-announcement.",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Heinz later combined into Kraft Heinz; CIK 46640 now shows Kraft Heinz Foods Co with former name HEINZ H J CO.",
+    "consideration_notes": "Cash $72.50 per common share. Preferred redemption is post-announcement and not a pre-announcement trading receipt.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "IMGN",
@@ -654,7 +690,7 @@
     "event_id": "JOY:2016-07-21",
     "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2016-07-21",
     "previous_session": "2016-07-20",
@@ -683,7 +719,13 @@
     "locator": "Order findings; Komatsu announcement before trading opened July 21, 2016",
     "issuer_cik": "801898",
     "identity_source": "https://data.sec.gov/submissions/CIK0000801898.json",
-    "identity_locator": "EDGAR issuer JOY GLOBAL INC CIK 0000801898; prior cohort CIK 854800 resolved to Tingo Group, Inc."
+    "identity_locator": "EDGAR issuer JOY GLOBAL INC CIK 0000801898; prior cohort CIK 854800 resolved to Tingo Group, Inc.",
+    "share_class_notes": "NYSE common stock JOY (Joy Global Inc., CIK 801898).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Joy Global delisted after Komatsu close April 2017. Stored CIK was previously confused with later Tingo Group; corrected to 801898.",
+    "consideration_notes": "Cash acquisition at $28.30 per share per settled order.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "KAMN",
@@ -778,7 +820,7 @@
     "event_id": "LNKD:2016-06-13",
     "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2016-06-13",
     "previous_session": "2016-06-10",
@@ -811,7 +853,9 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "LinkedIn delisted after Microsoft close; no later unrelated LNKD reincarnation identified.",
     "consideration_notes": "All-cash $196.00; dual-class voting control noted in proxy Background.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "identity_source": "https://data.sec.gov/submissions/CIK0001271024.json",
+    "cik_verified": true
   },
   {
     "symbol": "MAXR",
@@ -826,7 +870,7 @@
     "event_id": "MAXR:2022-12-16",
     "review_status": "earlier_disclosure_time_unresolved",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2022-12-16",
     "previous_session": "2022-12-15",
@@ -864,7 +908,9 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "Maxar delisted after 2023 close; no later unrelated COHR-style ticker reuse identified for MAXR.",
     "consideration_notes": "All-cash consideration; no special dividend or CVR in the announcement terms reviewed.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "identity_source": "https://data.sec.gov/submissions/CIK0001121142.json",
+    "cik_verified": true
   },
   {
     "symbol": "ONXX",
@@ -924,7 +970,7 @@
     "event_id": "PRVB:2023-03-13",
     "review_status": "prior_strategic_relationship_public",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2023-03-13",
     "previous_session": "2023-03-10",
@@ -1069,7 +1115,7 @@
     "event_id": "SWC:2016-12-09",
     "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2016-12-09",
     "previous_session": "2016-12-08",
@@ -1098,7 +1144,13 @@
     "locator": "Complaint; December 9, 2016 pre-market-open Sibanye acquisition announcement",
     "issuer_cik": "931948",
     "identity_source": "https://data.sec.gov/submissions/CIK0000931948.json",
-    "identity_locator": "EDGAR issuer STILLWATER MINING CO /DE/ CIK 0000931948; prior cohort CIK 1018870 resolved to missing/404 CIK"
+    "identity_locator": "EDGAR issuer STILLWATER MINING CO /DE/ CIK 0000931948; prior cohort CIK 1018870 resolved to missing/404 CIK",
+    "share_class_notes": "NYSE common stock SWC (Stillwater Mining Co /DE/, CIK 931948).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Stillwater delisted after Sibanye close May 2017; no later unrelated SWC reincarnation identified.",
+    "consideration_notes": "Cash acquisition by Sibanye; complaint dates pre-market-open December 9, 2016 announcement.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "VRTU",
@@ -1158,7 +1210,7 @@
     "event_id": "ZGNX:2022-01-19",
     "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
-    "corporate_action_review_complete": false,
+    "corporate_action_review_complete": true,
     "training_label_ready": false,
     "reaction_date": "2022-01-19",
     "previous_session": "2022-01-18",
@@ -1191,6 +1243,8 @@
     "reincarnation_reviewed": true,
     "post_event_ticker_notes": "Zogenix delisted after UCB close; no later unrelated ZGNX reincarnation identified.",
     "consideration_notes": "Cash $26.00 plus $2.00 CVR contingent on EU LGS orphan approval by end-2023; CVR is not a pre-announcement trading receipt.",
-    "corporate_action_items_reviewed": true
+    "corporate_action_items_reviewed": true,
+    "identity_source": "https://data.sec.gov/submissions/CIK0001375151.json",
+    "cik_verified": true
   }
 ]
