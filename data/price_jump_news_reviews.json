@@ -822,6 +822,206 @@
       "news_filter": "drop_other_not_234",
       "detail": "Biogen Idec collaboration/license on ZFP gene editing for sickle cell/beta-thalassemia ($20M upfront, ~$294M milestones). Partnership/license (Item 1.01), not M&A of Sangamo under keep-2.",
       "locator": "https://www.fool.com/investing/general/2014/01/09/why-intercept-pharmaceuticals-sangamo-biosciences.aspx"
+    },
+    {
+      "symbol": "CZR",
+      "qdate": "2013-02-08",
+      "close_return": 0.381,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "NJ Gov. Christie conditional support for Atlantic City online gambling legalization; sector-wide gaming rally. Political/regulatory industry catalyst, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2013/02/08/why-gaming-stocks-popped.aspx"
+    },
+    {
+      "symbol": "STMP",
+      "qdate": "2015-11-06",
+      "close_return": 0.381,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q3 earnings beat (rev +37%, non-GAAP EPS +62%) plus raised FY guidance; Endicia close timing update. Earnings/guidance reaction (no Item 2.02 auto-drop), not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2015/11/06/stampscom-inc-stock-soars-on-huge-third-quarter-re.aspx"
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2013-06-10",
+      "close_return": 0.38,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "China MIIT approved Kandi-Geely EV sedan for subsidies/road use. Product regulatory/commercial approval, not M&A, biotech trial, or tech breakthrough under keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2013/06/10/5-chinese-stocks-that-soared-last-week-2.aspx"
+    },
+    {
+      "symbol": "SAGE",
+      "qdate": "2016-07-12",
+      "close_return": 0.373,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 2 SAGE-547 severe PPD: primary HAM-D endpoint met at 60h (p=0.008); 70% remission vs placebo; effect maintained to day 30.",
+      "locator": "https://www.cnbc.com/2016/07/12/sage-therapeutics-shares-soar-on-positive-postpartum-depression-drug-results.html"
+    },
+    {
+      "symbol": "STZ",
+      "qdate": "2013-02-14",
+      "close_return": 0.372,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Revised AB InBev/Modelo deal: Constellation to buy Piedras Negras brewery and perpetual U.S. Corona/Modelo rights for $2.9B and take full Crown ownership. Acquirer M&A/asset purchase is class-2.",
+      "locator": "https://ir.cbrands.com/news-events/press-releases/detail/129/anheuser-busch-inbev-and-constellation-brands-announce-revised-agreement-for-complete-divestiture-of-u-s-business-of-grupo-modelo"
+    },
+    {
+      "symbol": "MOVE",
+      "qdate": "2014-09-30",
+      "close_return": 0.371,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "News Corp agreed to acquire Move Inc (realtor.com) for $21/share cash (~$950M).",
+      "locator": "https://newscorp.com/2014/09/30/news-corp-to-acquire-move-inc-2/"
+    },
+    {
+      "symbol": "KPTI",
+      "qdate": "2016-08-30",
+      "close_return": 0.367,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Jefferies upgrade to Buy plus company call previewing upcoming myeloma plans; STORM Phase 2b top-line reported later (Sep 6). Analyst/upgrade day, not keep 2/3/4 readout.",
+      "locator": "https://www.fool.com/investing/2016/08/30/why-karyopharm-therapeutics-inc-shares-are-soaring.aspx"
+    },
+    {
+      "symbol": "TEX",
+      "qdate": "2016-01-26",
+      "close_return": 0.366,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Terex confirmed unsolicited non-binding Zoomlion proposal at $30/share cash amid pending Konecranes combo. Company-confirmed M&A proposal is class-2.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/97216/000009721616000228/exh99-1f8k01262016.htm"
+    },
+    {
+      "symbol": "HCC",
+      "qdate": "2015-06-10",
+      "close_return": 0.364,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Tokio Marine definitive agreement to acquire HCC Insurance for $78/share cash (~$7.5B). Note: modern cik2symbol may map a different HCC issuer.",
+      "locator": "https://www.tokiomarinehd.com/en/ir/event/presentation/2015/h10q7e00000027ug-att/Joint_Press_Release_20150610.pdf"
+    },
+    {
+      "symbol": "BOLT",
+      "qdate": "2014-09-04",
+      "close_return": 0.362,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Teledyne definitive agreement to acquire Bolt Technology for $22/share cash (~$171M). Note: modern cik2symbol may map a different BOLT issuer.",
+      "locator": "https://www.teledyne.com/en-us/news/Pages/Teledyne-to-Acquire-Bolt-Technology-Corporation.aspx"
+    },
+    {
+      "symbol": "EXAS",
+      "qdate": "2014-10-10",
+      "close_return": 0.358,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "CMS final Medicare NCD for Cologuard plus preliminary $502 reimbursement. Coverage/reimbursement for already-approved test, not trial/M&A/tech under keep 2/3/4.",
+      "locator": "https://www.genomeweb.com/clinical-genomics/cms-finalizes-ncd-exacts-cologuard-issues-preliminary-pricing-line-company-propo"
+    },
+    {
+      "symbol": "VISN",
+      "qdate": "2015-07-09",
+      "close_return": 0.35,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Broad China/ADR rebound after A-share rescue measures (Shanghai +~6%). Macro/sector bounce, not keep 2/3/4.",
+      "locator": "https://www.marketwatch.com/story/china-gains-gather-pace-2015-07-09"
+    },
+    {
+      "symbol": "BTU",
+      "qdate": "2015-10-06",
+      "close_return": 0.344,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Coal/commodity sector bounce on weaker USD; Peabody led coal names. Commodity/macro, not keep 2/3/4.",
+      "locator": "https://investorplace.com/2015/10/e-du-pont-de-nemours-co-dd-peabody-energy-corporation-btu-pmc-sierra-inc-pmcs-3-todays-best-stocks/"
+    },
+    {
+      "symbol": "ESI",
+      "qdate": "2014-12-05",
+      "close_return": 0.344,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Heavily shorted ITT Educational bounce tied to Cerberus $100M term-loan liquidity relief. Financing/short-squeeze, not keep 2/3/4.",
+      "locator": "https://www.pleaseactaccordingly.com/the-library/ESI"
+    },
+    {
+      "symbol": "LXU",
+      "qdate": "2016-05-12",
+      "close_return": 0.343,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "LSB selling Climate Control Business to NIBE for $364M cash to cut debt. Divisional asset sale, not takeout of LXU under keep-2.",
+      "locator": "https://investors.lsbindustries.com/news-releases/news-release-details/lsb-industries-inc-sell-climate-control-business-nibe-industrier"
+    },
+    {
+      "symbol": "SCTY",
+      "qdate": "2015-12-16",
+      "close_return": 0.341,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Congress agreed to extend solar investment tax credit; broad solar-sector rally. Policy/tax subsidy, not keep 2/3/4.",
+      "locator": "https://www.marketwatch.com/story/solarcity-stars-in-scorching-solar-sector-as-tax-break-saved-2015-12-16"
+    },
+    {
+      "symbol": "MOMO",
+      "qdate": "2016-04-06",
+      "close_return": 0.341,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "13D: Alibaba affiliates joined Momo going-private buyer group (CEO Tang proposal). Confirmed privatization/M&A financing news is class-2.",
+      "locator": "https://www.businesstimes.com.sg/companies-markets/consumer-healthcare/alibaba-joins-momo-buyout-group-sparking-record-rally-us"
+    },
+    {
+      "symbol": "GCI",
+      "qdate": "2013-06-13",
+      "close_return": 0.34,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Gannett definitive agreement to acquire Belo for $13.75/share cash (~$1.5B equity / $2.2B EV). Acquirer M&A announcement is class-2. Note: modern cik2symbol may map a different GCI issuer.",
+      "locator": "https://www.reuters.com/article/us-belo-gannett-idUSBRE95C0G320130613/"
+    },
+    {
+      "symbol": "MEG",
+      "qdate": "2013-06-06",
+      "close_return": 0.337,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Media General all-stock merger with New Young Broadcasting (Young shareholders ~67.5%). Class-2 M&A combination. Note: modern cik2symbol may map a different MEG issuer.",
+      "locator": "https://www.reuters.com/article/business/media-general-to-merge-with-privately-held-new-young-broadcasting-idUSBRE9550UD/"
+    },
+    {
+      "symbol": "INCY",
+      "qdate": "2013-08-21",
+      "close_return": 0.335,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 2a Jakafi+capecitabine in advanced pancreatic cancer: predefined subgroup 6-month survival 42% vs 11% chemo alone.",
+      "locator": "https://www.reuters.com/article/idUSBRE97K0HY20130821/"
     }
   ]
 }
