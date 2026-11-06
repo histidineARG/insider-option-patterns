@@ -15,6 +15,12 @@ class CorporateActionReviewTests(unittest.TestCase):
             reincarnation_reviewed=True, consideration_notes='cash'))
         self.assertTrue(row['ready_to_mark_complete'])
         self.assertFalse(row['corporate_action_review_complete'])
+        marked = evaluate(dict(row, corporate_action_review_complete=True,
+                               symbol='XYZ', announcement_date='2020-01-02',
+                               issuer_cik='1', identity_source='https://example.test',
+                               share_class_notes='common', split_ticker_change_reviewed=True,
+                               reincarnation_reviewed=True, consideration_notes='cash'))
+        self.assertTrue(marked['corporate_action_review_complete'])
 
     def test_missing_share_class_remains_a_blocker(self):
         row = evaluate(dict(symbol='XYZ', announcement_date='2020-01-02', issuer_cik='1',

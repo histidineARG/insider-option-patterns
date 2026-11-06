@@ -44,7 +44,8 @@ def evaluate(event, ledger_row=None):
         announcement_date=review['announcement_date'],
         checks=checks,
         blockers=blockers,
-        corporate_action_review_complete=False,  # never auto-complete
+        # Reflect overlay judgment only; this tool never flips the flag itself.
+        corporate_action_review_complete=bool(review.get('corporate_action_review_complete')),
         ready_to_mark_complete=len(blockers) == 0,
         notes=review.get('corporate_action_notes'),
     )
