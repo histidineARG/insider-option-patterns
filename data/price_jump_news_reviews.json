@@ -1,7 +1,7 @@
 {
   "as_of": "2026-11-06",
   "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
-  "tranche": "ge20_first20",
+  "tranche": "ge20_second20",
   "reviews": [
     {
       "symbol": "ERII",
@@ -2492,6 +2492,206 @@
       "news_filter": "keep",
       "detail": "JPMorgan: further drisapersen clinical analyses (younger patients / 96-week extension 6MWT differences) and path to explore re-dosing with regulators. Class-3 trial keep.",
       "locator": "https://www.biospace.com/prosensa-holding-n-v-reports-initial-findings-from-the-further-clinical-data-analyses-of-drisapersen-for-the-treatment-of-duchenne-muscular-dystrophy"
+    },
+    {
+      "symbol": "MSB",
+      "qdate": "2015-08-10",
+      "close_return": 0.2436,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Iron-ore royalty trust bounce with broader commodities/oil rebound; no company keep catalyst. Commodity/sector, not keep 2/3/4.",
+      "locator": "https://www.cnbc.com/2015/08/10/us-stocks-open-higher-amid-greece-dealmaking.html"
+    },
+    {
+      "symbol": "PACB",
+      "qdate": "2016-02-02",
+      "close_return": 0.2434,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Reuters: Roche approached Pacific Biosciences about acquisition; talks stalled on price. Confirmed M&A rumor keep.",
+      "locator": "https://www.reuters.com/article/idUSL2N15H2F7/"
+    },
+    {
+      "symbol": "TZOO",
+      "qdate": "2013-01-24",
+      "close_return": 0.2431,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q4 revenue beat ($37M vs ~$35.5M est) despite EPS drop. Earnings, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2013/01/24/why-travelzoo-shares-took-flight.aspx"
+    },
+    {
+      "symbol": "NVAX",
+      "qdate": "2015-08-11",
+      "close_return": 0.2431,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Positive Phase 2 RSV F vaccine in older adults: 44% efficacy vs symptomatic RSV, 46% vs LRTI; first active RSV vaccine efficacy signal. Class-3 keep.",
+      "locator": "https://ir.novavax.com/press-releases/2015-08-10-Novavax-Announces-Positive-Top-Line-Data-from-Phase-2-RSV-F-Protein-Vaccine-Clinical-Trial-in-Older-Adults"
+    },
+    {
+      "symbol": "ESI",
+      "qdate": "2015-02-03",
+      "close_return": 0.2429,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "BlackRock 13G disclosed ~5.4% stake. Ownership filing, not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/922475/000108636415001553/0001086364-15-001553.txt"
+    },
+    {
+      "symbol": "WPRT",
+      "qdate": "2014-05-02",
+      "close_return": 0.2428,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q1 revenue +39% to $41.9M, narrowed loss, FY revenue guide $175\u2013185M. Earnings, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2014/05/02/why-westport-innovations-inc-shares-skyrocketed.aspx"
+    },
+    {
+      "symbol": "CSIQ",
+      "qdate": "2014-08-13",
+      "close_return": 0.2427,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q2 earnings beat: revenue $623.8M, EPS $0.95 vs ~$0.58 est; raised Q3 guide. Earnings, not keep 2/3/4.",
+      "locator": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-reports-second-quarter-2014-results"
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2013-06-17",
+      "close_return": 0.2424,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Hangzhou EV-sharing program groundbreaking; 5k\u201310k Kandi vehicles year-one. Sales/ops, not keep 2/3/4.",
+      "locator": "https://www.yahoo.com/news/kandi-shares-jump-news-ev-143818872.html"
+    },
+    {
+      "symbol": "SCTY",
+      "qdate": "2013-05-13",
+      "close_return": 0.2424,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q1 earnings/call; Goldman >$500M lease financing announced May 16. Earnings session, not keep 2/3/4.",
+      "locator": "https://qz.com/85330/goldman-sachs-makes-a-500-million-bet-on-elon-musks-solar-business"
+    },
+    {
+      "symbol": "NGL",
+      "qdate": "2016-04-22",
+      "close_return": 0.2412,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "$200M Oaktree convertible preferred + temporary 39% distribution cut. Financing/capital structure, not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1504461/000150446116000005/exhibit991preferredunittra.htm"
+    },
+    {
+      "symbol": "GRUB",
+      "qdate": "2016-07-28",
+      "close_return": 0.2411,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q2 beat: revenue $120.2M (+37%), non-GAAP EPS $0.23. Earnings, not keep 2/3/4.",
+      "locator": "https://www.foxbusiness.com/markets/why-grubhub-stock-is-rocketing-higher-today"
+    },
+    {
+      "symbol": "CVI",
+      "qdate": "2016-11-09",
+      "close_return": 0.2408,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Post-election refining rally on Trump RFS/RIN deregulation hopes. Policy/sector, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/2016/11/09/trumps-win-fuels-a-massive-rally-in-refining-stock.aspx"
+    },
+    {
+      "symbol": "CPSI",
+      "qdate": "2015-11-25",
+      "close_return": 0.2406,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "CPSI as buyer agreed to acquire Healthland for $250M cash/stock. Acquirer deal, not target M&A keep.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1169445/000116944515000016/exhibit991-pressrelease.htm"
+    },
+    {
+      "symbol": "ATHN",
+      "qdate": "2013-10-18",
+      "close_return": 0.2404,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q3 results: revenue +43% to $151.5M; held FY EPS guide. Earnings, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2013/10/18/why-athenahealth-inc-shares-skyrocketed.aspx"
+    },
+    {
+      "symbol": "MBI",
+      "qdate": "2013-03-04",
+      "close_return": 0.2396,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "NY court dismissed BofA/SocGen suit challenging 2009 restructuring. Litigation win, not keep 2/3/4.",
+      "locator": "https://www.reuters.com/article/breakingviews/mbia-wins-end-to-banks-lawsuit-over-restructuring-idUSBRE9230YV/"
+    },
+    {
+      "symbol": "OSUR",
+      "qdate": "2015-05-18",
+      "close_return": 0.2391,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR; Nasdaq Hep Testing Day bell/promo was May 19. Unclassified, not keep 2/3/4.",
+      "locator": "https://www.wsnewspublishers.com/mondays-stocks-buzz-harvest-natural-resources-inc-nysehnr-orasure-technologies-inc-nasdaqosur-state-street-corp-nysestt-franklin-universal-trust-nyseft/157954/"
+    },
+    {
+      "symbol": "ACAD",
+      "qdate": "2013-03-21",
+      "close_return": 0.2391,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "AAN presentation of full Phase 3 -020 pimavanserin PDP data confirming primary/secondary efficacy endpoints. Class-3 trial keep.",
+      "locator": "https://acadia.com/en-us/media/news-releases/acadia-announces-presentation-data-its-pivotal-phase-iii"
+    },
+    {
+      "symbol": "NEON",
+      "qdate": "2013-07-10",
+      "close_return": 0.2386,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "First design win / license with undisclosed Tier-One South Korea consumer-electronics OEM. Partnership/design-win, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2013/09/05/why-neonode-shares-popped.aspx"
+    },
+    {
+      "symbol": "NOAH",
+      "qdate": "2013-08-09",
+      "close_return": 0.2385,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Oppenheimer upgrade to Outperform/$18 plus raised 2013 profit guide. Analyst/guidance, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2013/08/09/why-noah-holdings-shares-soared.aspx"
+    },
+    {
+      "symbol": "TA",
+      "qdate": "2016-06-15",
+      "close_return": 0.2382,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "WSJ: board rejected Golden Gate Capital $14/share Dec bid; PE still interested. Confirmed M&A proposal/rumor keep.",
+      "locator": "https://www.fool.com/investing/2016/06/15/why-travelcenters-of-america-stock-jumped-today.aspx"
     }
   ]
 }

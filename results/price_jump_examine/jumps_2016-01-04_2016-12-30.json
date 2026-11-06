@@ -3779,15 +3779,17 @@
     "prev_volume": 2025950.0,
     "vol_ratio": 4.230688319060194,
     "cik": "0001299130",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_rumor",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.reuters.com/article/idUSL2N15H2F7/",
+    "news_detail": "Reuters: Roche approached Pacific Biosciences about acquisition; talks stalled on price. Confirmed M&A rumor keep."
   },
   {
     "symbol": "VBLT",
@@ -17464,14 +17466,16 @@
     "vol_ratio": 11.972496647181073,
     "cik": "0001504461",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/1504461/000150446116000005/exhibit991preferredunittra.htm",
+    "news_detail": "$200M Oaktree convertible preferred + temporary 39% distribution cut. Financing/capital structure, not keep 2/3/4."
   },
   {
     "symbol": "AVXL",
@@ -23972,15 +23976,17 @@
     "prev_volume": 230563.0,
     "vol_ratio": 20.30913025940849,
     "cik": "0001378453",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_rumor",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/2016/06/15/why-travelcenters-of-america-stock-jumped-today.aspx",
+    "news_detail": "WSJ: board rejected Golden Gate Capital $14/share Dec bid; PE still interested. Confirmed M&A proposal/rumor keep."
   },
   {
     "symbol": "VMEM",
@@ -28286,14 +28292,16 @@
     "vol_ratio": 4.5969895623700765,
     "cik": "0001792627",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.foxbusiness.com/markets/why-grubhub-stock-is-rocketing-higher-today",
+    "news_detail": "Q2 beat: revenue $120.2M (+37%), non-GAAP EPS $0.23. Earnings, not keep 2/3/4."
   },
   {
     "symbol": "N",
@@ -39114,14 +39122,16 @@
     "vol_ratio": 5.222836944166982,
     "cik": "0001376139",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/2016/11/09/trumps-win-fuels-a-massive-rally-in-refining-stock.aspx",
+    "news_detail": "Post-election refining rally on Trump RFS/RIN deregulation hopes. Policy/sector, not keep 2/3/4."
   },
   {
     "symbol": "CVRR",
