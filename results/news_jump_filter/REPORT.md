@@ -40,3 +40,5 @@ None of these jumps are attributed to earnings. All remain blocked for clean fir
 - **BIVV**: Bloomberg/Endpoints Sunday evening 2018-01-21.
 - **COHR**: WSJ/Fox ~22:13 ET 2021-01-18 holiday talks.
 - **ITCI**: Bloomberg 2025-01-12 16:20 EST Sunday exploring-bid.
+
+- **CNQR/VA/IMGN/SAGE**: earlier-public UTC bounds stamped (CNQR Sep 2–3 conflict retained).

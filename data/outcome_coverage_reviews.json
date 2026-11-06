@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-06",
-  "scope": "No complete symbol/date acquisition-outcome review has been established. Empty reviews intentionally certify no negatives.",
+  "scope": "Scoped symbol/date acquisition-outcome reviews that can certify background negatives. Empty or incomplete reviews intentionally certify no negatives. complete=true only after identity, search method, and no qualifying public-target >=15% reaction are documented.",
   "complete_review_requires": [
     "Explicit symbol and exchange-session window from feature close through the tenth subsequent session close.",
     "Verified historical security identity for that symbol across the window, including ticker changes, share class, and ADS terms.",
@@ -10,8 +10,36 @@
     "review.complete set true only after the above are satisfied; incomplete searches never invent label 0."
   ],
   "review_record_fields": [
-    "symbol", "start_utc", "end_utc", "complete", "source", "locator",
-    "security_identity_verified", "search_method", "qualifying_events_found", "notes"
+    "symbol",
+    "start_utc",
+    "end_utc",
+    "complete",
+    "source",
+    "locator",
+    "security_identity_verified",
+    "search_method",
+    "qualifying_events_found",
+    "notes"
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "symbol": "CSCO",
+      "start_utc": "2016-02-24T21:00:00+00:00",
+      "end_utc": "2016-03-09T21:00:00+00:00",
+      "complete": true,
+      "source": "https://data.sec.gov/submissions/CIK0000858877.json",
+      "locator": "Background observation CSCO:2016-02-24; outcome sessions 2016-02-25..2016-03-09; identity CIK 0000858877 Cisco Systems, Inc. ticker CSCO Nasdaq; news search Feb\u2013Mar 2016 Cisco as public M&A target; stockquote close-to-close audit in-window",
+      "security_identity_verified": true,
+      "search_method": "1) Confirm historical identity via SEC submissions CIK0000858877 (name Cisco Systems, Inc.; tickers=['CSCO']; exchanges include Nasdaq) with continuous CSCO stockquote rows spanning the window. 2) News/search for contemporaneous reports of CSCO as a public acquisition/takeover target with a measured >=15% close-to-close reaction inside 2016-02-25..2016-03-09 (ignore earnings; Cisco-as-acquirer deals are non-qualifying for this target-outcome definition). 3) Audit optiondb.stockquote consecutive-session closes from feature close 2016-02-24 through 2016-03-09 for any >=15% close-to-close move.",
+      "qualifying_events_found": [],
+      "notes": "In-window news shows Cisco as acquirer (CliQr announced ~2016-03-01; Leaba ~2016-03-02) and earlier Feb 3 Jasper / Feb 10 earnings-buyback move outside this outcome window\u2014not CSCO as public target. Max absolute close-to-close return inside the audited window is +2.48% on 2016-03-01. No qualifying public-target acquisition announcement with >=15% reaction found. No borderline CSCO-as-target rumor retained as unresolved for this window.",
+      "observation_id": "CSCO:2016-02-24",
+      "max_abs_close_return_in_window": 0.0248,
+      "max_abs_close_return_session": "2016-03-01",
+      "non_qualifying_related_news": [
+        "Cisco intent to acquire CliQr (~2016-03-01) \u2014 acquirer, not target",
+        "Cisco intent to acquire Leaba (~2016-03-02) \u2014 acquirer, not target"
+      ]
+    }
+  ]
 }
