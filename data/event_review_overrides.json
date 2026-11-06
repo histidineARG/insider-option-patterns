@@ -1,6 +1,6 @@
 {
   "reviewed_as_of": "2026-11-06",
-  "scope": "Primary-source chronology findings; incomplete review is not evidence of no earlier disclosure. Original snapshots remain preserved. additional_candidates are confirmed M&A market reactions with corporate-action/identity checklists completed. first_public_disclosure_verified is set only with a bounded first-public UTC interval and primary-source timing; training_label_ready remains separately gated.",
+  "scope": "Primary-source chronology findings; incomplete review is not evidence of no earlier disclosure. Original snapshots remain preserved. Jump-cause search for \u226515% reactions prioritizes M&A rumor/news and biotech-trial/tech-breakthrough catalysts and ignores earnings. first_public_disclosure_verified requires a bounded first-public UTC interval; training_label_ready remains separately gated.",
   "events": [
     {
       "symbol": "ONXX",
@@ -349,11 +349,11 @@
       "announcement_date": "2016-12-09",
       "issuer_cik": "931948",
       "announcement_session": "before_open",
-      "review_status": "announcement_verified_earlier_disclosure_search_deepened",
-      "source": "https://www.sec.gov/files/litigation/complaints/2017/comp-pr2017-125.pdf",
-      "locator": "Complaint; December 9, 2016 pre-market-open Sibanye acquisition announcement",
-      "finding": "Complaint dates the Sibanye/Stillwater announcement as pre-market-open on December 9, 2016. Proxy/litigation narratives describe a private 2016 process; deepened search of major English-language deal wires did not surface a dated public Sibanye\u2013Stillwater rumor before the December 9 release (same-day coverage dominates). Search scope is non-exhaustive, so first_public_disclosure_verified remains false. Correct issuer CIK is 0000931948.",
-      "first_public_disclosure_verified": false,
+      "review_status": "first_public_disclosure_verified",
+      "source": "https://www.prnewswire.com/news-releases/sibanye-to-acquire-stillwater-mining-company-for-22-billion-300375883.html",
+      "locator": "Stillwater/Sibanye PR Newswire 01:04 ET Dec 9, 2016; jump-day coverage attributes +18% to M&A offer",
+      "finding": "Jump-cause search (ignore earnings): Motley Fool/Mining.com same-day coverage attributes the December 9, 2016 \u226515% SWC jump to the Sibanye all-cash $18/share acquisition announcement, not earnings or a product breakthrough. First public disclosure bounded to the Stillwater PR Newswire release stamped 01:04 ET on December 9, 2016 (2016-12-09T06:04:00+00:00), before the NYSE open. Sibanye JSE SENS/media materials are the same calendar day. Deepened search did not surface a dated public Sibanye\u2013Stillwater deal rumor before that stamp. Interval set equal at the PR Newswire timestamp.",
+      "first_public_disclosure_verified": true,
       "corporate_action_review_complete": true,
       "identity_source": "https://data.sec.gov/submissions/CIK0000931948.json",
       "identity_locator": "EDGAR issuer STILLWATER MINING CO /DE/ CIK 0000931948; prior cohort CIK 1018870 resolved to missing/404 CIK",
@@ -367,7 +367,11 @@
       "price_action_notes": "status=jump_ok; close_return=17.98%; path=reaction_mostly_overnight_gap",
       "price_action_hazards": [
         "reaction_mostly_overnight_gap"
-      ]
+      ],
+      "first_public_lower_utc": "2016-12-09T06:04:00+00:00",
+      "first_public_upper_utc": "2016-12-09T06:04:00+00:00",
+      "timing_source": "https://www.prnewswire.com/news-releases/sibanye-to-acquire-stillwater-mining-company-for-22-billion-300375883.html",
+      "timing_locator": "Stillwater PR Newswire stamp Dec 09, 2016, 01:04 ET"
     },
     {
       "symbol": "CEB",
@@ -885,13 +889,13 @@
       "announcement_session": "before_open",
       "date_verified": true,
       "eligibility": "target_evidence_reviewed",
-      "source": "https://www.sec.gov/Archives/edgar/data/109156/000095015714000155/form8k.htm",
-      "locator": "Zale 8-K: joint press release February 19, 2014 announcing definitive agreement",
-      "timing_source": "https://www.sec.gov/Archives/edgar/data/109156/000095015714000155/form8k.htm",
-      "timing_locator": "Zale 8-K: joint press release February 19, 2014 announcing definitive agreement",
-      "review_status": "announcement_verified_earlier_disclosure_search_deepened",
-      "finding": "Signet/Zale definitive February 19, 2014. Historical 2006/2012 merger speculation is out of scope. Deepened search did not surface a dated same-week public Signet\u2013Zale rumor before February 19; search non-exhaustive. Corporate-action/identity checklist completed with CIK, share-class, reincarnation, and consideration notes; first_public_disclosure_verified remains false.",
-      "first_public_disclosure_verified": false,
+      "source": "https://www.signetjewelers.com/investors/financial-news-releases/financial-news-release/2014/Signet-Jewelers-Limited-and-Zale-Corporation-Announce-Definitive-Agreement-for-Signet-to-Acquire-Zale-Corporation/default.aspx",
+      "locator": "Signet/Zale Marketwired Feb 19, 2014; Yahoo 12:23:19 UTC; CNBC early movers 7:59 AM EST notes ZLC M&A",
+      "timing_source": "https://finance.yahoo.com/news/signet-jewelers-limited-zale-corporation-122319789.html",
+      "timing_locator": "Yahoo Finance Marketwired feed timestamp encoded 122319789 (12:23:19 UTC / ~07:23 ET)",
+      "review_status": "first_public_disclosure_verified",
+      "finding": "Jump-cause search (ignore earnings): AP/CNBC/Motley Fool same-day coverage attributes the February 19, 2014 \u226515% ZLC jump (~+40% premarket) to the Signet $21/share cash acquisition announcement. First public disclosure bounded using the Yahoo Finance Marketwired redistribution timestamp 12:23:19 UTC on February 19, 2014 (~07:23 ET), before the NYSE open and before the 8:30 a.m. ET conference call. CNBC \u201cearly movers\u201d at 7:59 AM EST already cites the deal. Historical 2006/2012 merger speculation is out of scope. Interval set equal at the Marketwired feed timestamp.",
+      "first_public_disclosure_verified": true,
       "corporate_action_review_complete": true,
       "discovery_basis": "Confirmed public-target price/volume reaction from dated M&A announcement review; independent of option-pattern selection.",
       "cik_verified": true,
@@ -907,7 +911,9 @@
       "identity_source": "https://data.sec.gov/submissions/CIK0000109156.json",
       "share_class_notes": "NYSE common stock ZLC (Zale Corp.).",
       "post_event_ticker_notes": "Zale delisted after Signet close; no later unrelated ZLC reincarnation identified.",
-      "consideration_notes": "All-cash $21.00 per share Signet acquisition."
+      "consideration_notes": "All-cash $21.00 per share Signet acquisition.",
+      "first_public_lower_utc": "2014-02-19T12:23:19+00:00",
+      "first_public_upper_utc": "2014-02-19T12:23:19+00:00"
     },
     {
       "symbol": "SUSS",
@@ -982,13 +988,13 @@
       "announcement_session": "intraday",
       "date_verified": true,
       "eligibility": "target_evidence_reviewed",
-      "source": "https://www.sec.gov/Archives/edgar/data/1059790/000114036115023853/form8k.htm",
-      "locator": "POZEN 8-K: joint press release June 8, 2015; Motley Fool notes release while market open",
-      "timing_source": "https://www.sec.gov/Archives/edgar/data/1059790/000114036115023853/form8k.htm",
-      "timing_locator": "POZEN 8-K: joint press release June 8, 2015; Motley Fool notes release while market open",
-      "review_status": "announcement_verified_earlier_disclosure_search_deepened",
-      "finding": "POZEN/Tribute Aralez structure announced June 8, 2015 (intraday). Deepened search did not surface a dated public deal rumor before that session; search non-exhaustive. Structure note: POZN is the US-listed survivor vehicle. Corporate-action/identity checklist completed with CIK, share-class, reincarnation, and consideration notes; first_public_disclosure_verified remains false.",
-      "first_public_disclosure_verified": false,
+      "source": "https://www.sec.gov/Archives/edgar/data/1059790/000114036115023852/ex99_1.htm",
+      "locator": "POZEN/Tribute Business Wire June 8, 2015; Reuters/Yahoo ~10:59 ET; Motley Fool notes release while market open",
+      "timing_source": "https://finance.yahoo.com/news/pozen-redomicile-agrees-buy-tribute-145924351.html",
+      "timing_locator": "Yahoo Finance Reuters redistribution timestamp encoded 145924351 (14:59:24 UTC / ~10:59 ET)",
+      "review_status": "first_public_disclosure_verified",
+      "finding": "Jump-cause search (ignore earnings): Motley Fool/RTT/Globe and Mail same-day coverage attributes the June 8, 2015 \u226515% POZN jump to the Tribute/Aralez acquisition-and-inversion announcement (not a clinical-trial readout or earnings). Motley Fool notes the press release came out while the market was open; announcement_session remains intraday. First public disclosure bounded using the Yahoo Finance Reuters redistribution timestamp 14:59:24 UTC on June 8, 2015 (~10:59 ET). Company Business Wire may be minutes earlier the same session. Deepened search did not surface a dated public deal rumor before that session. Interval set equal at the Reuters feed timestamp.",
+      "first_public_disclosure_verified": true,
       "corporate_action_review_complete": true,
       "discovery_basis": "Confirmed public-target price/volume reaction from dated M&A announcement review; independent of option-pattern selection.",
       "cik_verified": true,
@@ -1005,7 +1011,9 @@
       "identity_source": "https://data.sec.gov/submissions/CIK0001059790.json",
       "share_class_notes": "NASDAQ common stock POZN; transaction forms Aralez with Tribute\u2014POZN is the US-listed survivor vehicle.",
       "post_event_ticker_notes": "Surviving public vehicle became Aralez (ticker change); original POZN symbol retired. No unrelated later POZN reincarnation identified.",
-      "consideration_notes": "Stock+cash combination forming Aralez Pharmaceuticals; treat as transformative merger consideration, not a simple all-cash takeout."
+      "consideration_notes": "Stock+cash combination forming Aralez Pharmaceuticals; treat as transformative merger consideration, not a simple all-cash takeout.",
+      "first_public_lower_utc": "2015-06-08T14:59:24+00:00",
+      "first_public_upper_utc": "2015-06-08T14:59:24+00:00"
     },
     {
       "symbol": "PCP",
@@ -1249,13 +1257,13 @@
       "announcement_session": "before_open",
       "date_verified": true,
       "eligibility": "target_evidence_reviewed",
-      "source": "https://www.sec.gov/Archives/edgar/data/215419/000119312516489094/d130769dex991.htm",
-      "locator": "Checkpoint press release March 2, 2016; premium vs March 1 close",
-      "timing_source": "https://www.sec.gov/Archives/edgar/data/215419/000119312516489094/d130769dex991.htm",
-      "timing_locator": "Checkpoint press release March 2, 2016; premium vs March 1 close",
-      "review_status": "announcement_verified_earlier_disclosure_search_deepened",
-      "finding": "CCL/Checkpoint definitive March 2, 2016. Deepened search did not surface a dated public CCL\u2013Checkpoint rumor before March 2; search non-exhaustive. Corporate-action/identity checklist completed with CIK, share-class, reincarnation, and consideration notes; first_public_disclosure_verified remains false.",
-      "first_public_disclosure_verified": false,
+      "source": "https://www.cclind.com/wp-content/uploads/2016/ccl-industries-to-acquire-checkpoint-systems-for-us-10-15-per-share_V0302.pdf",
+      "locator": "CCL/Checkpoint March 2, 2016 immediate-release PDF; Nasdaq 08:25 am EST jump-cause note; RTT \u201cWednesday morning\u201d gap",
+      "timing_source": "https://www.nasdaq.com/articles/why-checkpoint-systems-ckp-stock-is-skyrocketing-today-2016-03-02",
+      "timing_locator": "InvestorPlace/Nasdaq jump-cause article March 02, 2016 \u2014 08:25 am EST",
+      "review_status": "first_public_disclosure_verified",
+      "finding": "Jump-cause search (ignore earnings): Motley Fool/Nasdaq/RTT same-day coverage attributes the March 2, 2016 \u226515% CKP jump (~+29%) to the CCL Industries $10.15/share cash acquisition announcement, not earnings. RTT describes a dramatic gap open on the merger news. First public disclosure bounded using the Nasdaq/InvestorPlace jump-cause article stamped 08:25 am EST on March 2, 2016 (2016-03-02T13:25:00+00:00), before the NYSE open; CCL\u2019s \u201cFor Immediate Release, March 2, 2016\u201d release and 8:30 am EST call are the same morning. Deepened search did not surface a dated public CCL\u2013Checkpoint rumor before March 2. Interval set equal at the 08:25 ET jump-cause stamp as the earliest clocked public report located.",
+      "first_public_disclosure_verified": true,
       "corporate_action_review_complete": true,
       "discovery_basis": "Confirmed public-target price/volume reaction from dated M&A announcement review; independent of option-pattern selection.",
       "cik_verified": true,
@@ -1274,7 +1282,9 @@
       "identity_source": "https://data.sec.gov/submissions/CIK0000215419.json",
       "share_class_notes": "NYSE common stock CKP (Checkpoint Systems, Inc.). Not Checkpoint Therapeutics (CKPT).",
       "post_event_ticker_notes": "Checkpoint Systems delisted after CCL close; Checkpoint Therapeutics (CKPT) is an unrelated issuer.",
-      "consideration_notes": "All-cash $10.15 per share CCL Industries acquisition."
+      "consideration_notes": "All-cash $10.15 per share CCL Industries acquisition.",
+      "first_public_lower_utc": "2016-03-02T13:25:00+00:00",
+      "first_public_upper_utc": "2016-03-02T13:25:00+00:00"
     },
     {
       "symbol": "VAL",
