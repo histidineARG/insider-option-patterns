@@ -4,7 +4,7 @@ Primary-source findings overlay the preserved earlier snapshots. Additional cand
 
 | Event | Price change | Price status | Valid feature days | Days with quote candidates | Review status |
 | --- | ---: | ---: | ---: | ---: | --- |
-| ADT:2016-02-16 | 47.53% | price_qualified | 30 | 25 | announcement_verified_price_source_conflict |
+| ADT:2016-02-16 | 47.53% | price_qualified | 30 | 25 | first_public_disclosure_verified |
 | AFFX:2016-01-08 | 51.57% | price_qualified | 30 | 1 | first_public_disclosure_verified |
 | AFOP:2016-04-07 | 19.34% | price_qualified | 30 | 6 | first_public_disclosure_verified |
 | ALR:2016-02-01 | 45.46% | price_qualified | 30 | 6 | first_public_disclosure_verified |
@@ -13,7 +13,7 @@ Primary-source findings overlay the preserved earlier snapshots. Additional cand
 | BEAM:2014-01-13 | 24.56% | price_qualified | 30 | 24 | first_public_disclosure_verified |
 | BIVV:2018-01-22 | 61.89% | price_qualified | 30 | 20 | earlier_disclosure_found_before_definitive_announcement |
 | BOLD:2019-12-02 | 105.98% | price_qualified | 10 | 2 | first_public_disclosure_verified |
-| CALT:2024-05-28 | 69.27% | price_qualified | 30 | 0 | announcement_verified_ads_terms_reviewed |
+| CALT:2024-05-28 | 69.27% | price_qualified | 30 | 0 | first_public_disclosure_verified |
 | CEB:2017-01-05 | 20.92% | price_qualified | 30 | 1 | first_public_disclosure_verified |
 | CKP:2016-03-02 | 29.28% | price_qualified | 30 | 0 | first_public_disclosure_verified |
 | CNQR:2014-09-18 | 17.64% | price_qualified | 30 | 22 | conflicting_primary_disclosure_dates |
