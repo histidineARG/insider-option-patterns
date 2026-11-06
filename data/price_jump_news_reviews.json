@@ -1,7 +1,7 @@
 {
   "as_of": "2016-12-31",
   "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
-  "tranche": "ge15_third20",
+  "tranche": "ge15_fourth20",
   "reviews": [
     {
       "symbol": "ERII",
@@ -4812,6 +4812,206 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR for Alnylam on this date. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/ALNY?date=2014-10-13&view=daily"
+    },
+    {
+      "symbol": "EGRX",
+      "qdate": "2016-11-02",
+      "close_return": 0.1897,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Eagle Pharmaceuticals (post-election sector possible). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/EGRX?date=2016-11-02&view=daily"
+    },
+    {
+      "symbol": "DVAX",
+      "qdate": "2016-10-03",
+      "close_return": 0.1897,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Dynavax disclosed FDA information requests on Heplisav-B BLA aligned with expectations ahead of Dec 15 PDUFA; regulatory-path keep-3.",
+      "locator": "https://investorplace.com/2016/10/dynavax-technologies-corporation-dvax-stock/"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2013-12-12",
+      "close_return": 0.1895,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Sarepta on this date. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SRPT?date=2013-12-12&view=daily"
+    },
+    {
+      "symbol": "CAAS",
+      "qdate": "2013-11-13",
+      "close_return": 0.1893,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for China Automotive Systems. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CAAS?date=2013-11-13&view=daily"
+    },
+    {
+      "symbol": "EBS",
+      "qdate": "2016-12-09",
+      "close_return": 0.1892,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Emergent BARDA NuThrax contract award (govt procurement/funding). Contract/financing, not keep 2/3/4.",
+      "locator": "https://www.rttnews.com/2698344/depo-wins-patent-suit-ebs-surges-on-barda-funding-regn-s-eylea-combo-fails.aspx"
+    },
+    {
+      "symbol": "RVNC",
+      "qdate": "2016-09-16",
+      "close_return": 0.1889,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Revance. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/RVNC?date=2016-09-16&view=daily"
+    },
+    {
+      "symbol": "AMSC",
+      "qdate": "2015-04-21",
+      "close_return": 0.1886,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for American Superconductor. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/AMSC?date=2015-04-21&view=daily"
+    },
+    {
+      "symbol": "INFY",
+      "qdate": "2013-01-11",
+      "close_return": 0.1882,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Infosys. Unclassified/earnings-sector, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/INFY?date=2013-01-11&view=daily"
+    },
+    {
+      "symbol": "SRNE",
+      "qdate": "2015-07-16",
+      "close_return": 0.1881,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Sorrento. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SRNE?date=2015-07-16&view=daily"
+    },
+    {
+      "symbol": "ICAD",
+      "qdate": "2013-10-10",
+      "close_return": 0.188,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for iCAD. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ICAD?date=2013-10-10&view=daily"
+    },
+    {
+      "symbol": "NGL",
+      "qdate": "2016-02-16",
+      "close_return": 0.188,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "NGL Energy Partners midstream/oil move; commodity/MLP, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/NGL?date=2016-02-16&view=daily"
+    },
+    {
+      "symbol": "ORBC",
+      "qdate": "2014-01-28",
+      "close_return": 0.1879,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for ORBCOMM. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ORBC?date=2014-01-28&view=daily"
+    },
+    {
+      "symbol": "WMB",
+      "qdate": "2014-06-16",
+      "close_return": 0.1874,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day definitive keep PR for Williams (ETP talks were private). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/WMB?date=2014-06-16&view=daily"
+    },
+    {
+      "symbol": "ICON",
+      "qdate": "2016-03-07",
+      "close_return": 0.1872,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Iconix. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ICON?date=2016-03-07&view=daily"
+    },
+    {
+      "symbol": "WATT",
+      "qdate": "2014-12-24",
+      "close_return": 0.187,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Energous. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/WATT?date=2014-12-24&view=daily"
+    },
+    {
+      "symbol": "JRJC",
+      "qdate": "2014-01-15",
+      "close_return": 0.1868,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for China Finance Online. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/JRJC?date=2014-01-15&view=daily"
+    },
+    {
+      "symbol": "PERI",
+      "qdate": "2014-11-06",
+      "close_return": 0.1868,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Perion. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/PERI?date=2014-11-06&view=daily"
+    },
+    {
+      "symbol": "ARWR",
+      "qdate": "2014-02-07",
+      "close_return": 0.1864,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Arrowhead. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ARWR?date=2014-02-07&view=daily"
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2015-10-19",
+      "close_return": 0.1864,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Kandi. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/KNDI?date=2015-10-19&view=daily"
+    },
+    {
+      "symbol": "CZR",
+      "qdate": "2013-02-07",
+      "close_return": 0.1861,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Caesars. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CZR?date=2013-02-07&view=daily"
     }
   ]
 }

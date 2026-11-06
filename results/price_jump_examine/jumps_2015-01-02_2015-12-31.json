@@ -10445,14 +10445,16 @@
     "vol_ratio": 7.178033908770486,
     "cik": "0000880807",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/AMSC?date=2015-04-21&view=daily",
+    "news_detail": "No confirmed same-day keep PR for American Superconductor. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "BIOD",
@@ -17538,14 +17540,16 @@
     "vol_ratio": 2.328172600746356,
     "cik": "0000850261",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SRNE?date=2015-07-16&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Sorrento. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "TEAR",
@@ -27801,14 +27805,16 @@
     "vol_ratio": 4.131588216376806,
     "cik": "0001316517",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/KNDI?date=2015-10-19&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Kandi. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LDKYQ",

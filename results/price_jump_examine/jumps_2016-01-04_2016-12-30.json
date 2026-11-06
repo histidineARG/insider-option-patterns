@@ -6370,14 +6370,16 @@
     "vol_ratio": 2.1523782415753177,
     "cik": "0001504461",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/NGL?date=2016-02-16&view=daily",
+    "news_detail": "NGL Energy Partners midstream/oil move; commodity/MLP, not keep 2/3/4."
   },
   {
     "symbol": "SB",
@@ -11488,14 +11490,16 @@
     "vol_ratio": 3.251957123298111,
     "cik": "0000857737",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ICON?date=2016-03-07&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Iconix. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "NVIV",
@@ -33962,14 +33966,16 @@
     "vol_ratio": 5.532218435817299,
     "cik": "0001479290",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/RVNC?date=2016-09-16&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Revance. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CYH",
@@ -35533,15 +35539,17 @@
     "prev_volume": 1280768.0,
     "vol_ratio": 4.5520125424745155,
     "cik": "0001029142",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://investorplace.com/2016/10/dynavax-technologies-corporation-dvax-stock/",
+    "news_detail": "Dynavax disclosed FDA information requests on Heplisav-B BLA aligned with expectations ahead of Dec 15 PDUFA; regulatory-path keep-3."
   },
   {
     "symbol": "FVE",
@@ -37646,14 +37654,16 @@
     "vol_ratio": 4.485471644343118,
     "cik": "0000827871",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/EGRX?date=2016-11-02&view=daily",
+    "news_detail": "No confirmed same-day keep PR for Eagle Pharmaceuticals (post-election sector possible). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ENPH",
@@ -43620,14 +43630,16 @@
     "vol_ratio": 6.143223393282671,
     "cik": "0001367644",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.rttnews.com/2698344/depo-wins-patent-suit-ebs-surges-on-barda-funding-regn-s-eylea-combo-fails.aspx",
+    "news_detail": "Emergent BARDA NuThrax contract award (govt procurement/funding). Contract/financing, not keep 2/3/4."
   },
   {
     "symbol": "INVN",
