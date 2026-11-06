@@ -1556,14 +1556,16 @@
     "vol_ratio": 4.428364811978901,
     "cik": "0001590714",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ESI?date=2013-01-24&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ESI. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "FDML",
@@ -2614,14 +2616,16 @@
     "vol_ratio": 7.246038961038961,
     "cik": "0000814585",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MBI?date=2013-02-06&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for MBI. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SCHSQ",
@@ -8353,14 +8357,16 @@
     "vol_ratio": 2.0164983164983163,
     "cik": "0001104506",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/INSM?date=2013-04-24&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for INSM. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "JKS",
@@ -9810,14 +9816,16 @@
     "vol_ratio": 2.6849458048976316,
     "cik": "0001099590",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MELI?date=2013-05-07&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for MELI. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "NLS",
@@ -10824,14 +10832,16 @@
     "vol_ratio": 3.6124595469255665,
     "cik": "0001590714",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ESI?date=2013-05-14&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ESI. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "RVLT",
@@ -12386,14 +12396,16 @@
     "vol_ratio": 5.254316473694901,
     "cik": "0001347178",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/VNDA?date=2013-05-24&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for VNDA. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ZIOP",
@@ -24639,14 +24651,16 @@
     "vol_ratio": 16.129557522123893,
     "cik": "0000949157",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CENX?date=2013-10-22&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for CENX. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CSII",
@@ -24660,14 +24674,16 @@
     "vol_ratio": 25.082125603864736,
     "cik": "0001180145",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CSII?date=2013-10-22&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for CSII. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CSUN",
@@ -28968,14 +28984,16 @@
     "vol_ratio": 11.932558139534883,
     "cik": "0000100591",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/AGX?date=2013-12-06&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for AGX. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "BLDP",
@@ -29520,14 +29538,16 @@
     "vol_ratio": 4.099868593955322,
     "cik": "0001427925",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ACRX?date=2013-12-16&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ACRX. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "AER",
@@ -31237,14 +31257,16 @@
     "vol_ratio": 2.527504793863854,
     "cik": "0001297830",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/JRJC?date=2014-01-03&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for JRJC. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LCAV",
@@ -35928,14 +35950,16 @@
     "vol_ratio": 3.6544117647058822,
     "cik": "0001204413",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/PCOM?date=2014-02-18&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for PCOM. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "PRAN",
@@ -38829,14 +38853,16 @@
     "vol_ratio": 5.739501953125,
     "cik": "0001337298",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/FF?date=2014-03-18&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for FF. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "FLML",
@@ -39832,14 +39858,16 @@
     "vol_ratio": 4.3737704918032785,
     "cik": "0001837620",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/VISN?date=2014-04-08&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for VISN. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CTCT",
@@ -44271,14 +44299,16 @@
     "vol_ratio": 4.283688879525081,
     "cik": "0001265107",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SCTY?date=2014-06-17&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SCTY. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SMSI",
@@ -46055,14 +46085,16 @@
     "vol_ratio": 7.73064294668975,
     "cik": "0001055726",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/INO?date=2014-07-23&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for INO. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ISRG",
@@ -48872,14 +48904,16 @@
     "vol_ratio": 4.569849391609206,
     "cik": "0000750004",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SGMS?date=2014-09-04&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SGMS. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "UTIW",
@@ -49082,14 +49116,16 @@
     "vol_ratio": 6.975870905835683,
     "cik": "0001036044",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/INVE?date=2014-09-08&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for INVE. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "MGAM",
