@@ -40,6 +40,100 @@
         "Cisco intent to acquire CliQr (~2016-03-01) \u2014 acquirer, not target",
         "Cisco intent to acquire Leaba (~2016-03-02) \u2014 acquirer, not target"
       ]
+    },
+    {
+      "symbol": "BA",
+      "observation_id": "BA:2018-07-19",
+      "start_utc": "2018-07-19T20:00:00+00:00",
+      "end_utc": "2018-08-02T20:00:00+00:00",
+      "complete": true,
+      "source": "https://data.sec.gov/submissions/CIK0000012927.json",
+      "locator": "Background BA:2018-07-19; outcome 2018-07-20..2018-08-02; CIK 0000012927 Boeing Co NYSE BA",
+      "security_identity_verified": true,
+      "search_method": "SEC identity CIK0000012927 (BOEING CO; tickers include BA; NYSE). News search Jul\u2013Aug 2018 for BA as public acquisition/takeover target with measured >=15% close-to-close reaction in 2018-07-20..2018-08-02 (ignore earnings; BA-as-acquirer/JV news is non-qualifying). Audit optiondb.stockquote closes feature close through outcome_end for >=15% moves.",
+      "qualifying_events_found": [],
+      "notes": "In-window/near-window coverage is Boeing as acquirer/JV partner (Embraer commercial JV; KLX) and supplier Arconic takeover talk\u2014not BA as public target. Max abs close-to-close in window +2.66% on 2018-07-30. No qualifying public-target >=15% reaction found.",
+      "max_abs_close_return_in_window": 0.0266,
+      "max_abs_close_return_session": "2018-07-30",
+      "non_qualifying_related_news": [
+        "Boeing/Embraer commercial JV (BA as buyer/partner)",
+        "KLX acquisition (BA as acquirer)"
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "observation_id": "ORCL:2021-03-04",
+      "start_utc": "2021-03-04T21:00:00+00:00",
+      "end_utc": "2021-03-18T20:00:00+00:00",
+      "complete": true,
+      "source": "https://data.sec.gov/submissions/CIK0001341439.json",
+      "locator": "Background ORCL:2021-03-04; outcome 2021-03-05..2021-03-18; CIK 0001341439 Oracle Corp NYSE ORCL",
+      "security_identity_verified": true,
+      "search_method": "SEC identity CIK0001341439 (ORACLE CORP; ORCL; NYSE). News search Mar 2021 for ORCL as public M&A target with >=15% close-to-close reaction in 2021-03-05..2021-03-18 (ignore earnings/analyst upgrades). Audit stockquote closes in-window.",
+      "qualifying_events_found": [],
+      "notes": "In-window catalysts are Barclays upgrade / cloud re-rating and upcoming earnings\u2014not ORCL as takeover target. Prior TikTok partnership narrative is outside/non-target. Max abs close-to-close +6.65% on 2021-03-05. No qualifying public-target >=15% reaction found.",
+      "max_abs_close_return_in_window": 0.0665,
+      "max_abs_close_return_session": "2021-03-05",
+      "non_qualifying_related_news": [
+        "Barclays overweight upgrade ~2021-03-05",
+        "Fiscal Q3 earnings ~2021-03-10"
+      ]
+    },
+    {
+      "symbol": "WFC",
+      "observation_id": "WFC:2021-03-04",
+      "start_utc": "2021-03-04T21:00:00+00:00",
+      "end_utc": "2021-03-18T20:00:00+00:00",
+      "complete": true,
+      "source": "https://data.sec.gov/submissions/CIK0000072971.json",
+      "locator": "Background WFC:2021-03-04; outcome 2021-03-05..2021-03-18; CIK 0000072971 Wells Fargo NYSE WFC",
+      "security_identity_verified": true,
+      "search_method": "SEC identity CIK0000072971 (WELLS FARGO & COMPANY/MN; WFC; NYSE). News search Mar 2021 for WFC as public acquisition/takeover target with >=15% reaction in 2021-03-05..2021-03-18. Asset-sale / unit-sale stories where WFC is seller are non-qualifying for public-target definition. Audit stockquote closes.",
+      "qualifying_events_found": [],
+      "notes": "No WFC-as-target takeover news in window. Later Mar 23 Computershare purchase of WFC corporate-trust unit is outside window and is WFC as seller. Max abs close-to-close +3.80% on 2021-03-10. No qualifying public-target >=15% reaction found.",
+      "max_abs_close_return_in_window": 0.038,
+      "max_abs_close_return_session": "2021-03-10",
+      "non_qualifying_related_news": [
+        "Computershare buy of WFC corporate trust announced ~2021-03-23 (outside window; WFC seller)"
+      ]
+    },
+    {
+      "symbol": "SLB",
+      "observation_id": "SLB:2023-04-26",
+      "start_utc": "2023-04-26T20:00:00+00:00",
+      "end_utc": "2023-05-10T20:00:00+00:00",
+      "complete": true,
+      "source": "https://data.sec.gov/submissions/CIK0000087347.json",
+      "locator": "Background SLB:2023-04-26; outcome 2023-04-27..2023-05-10; CIK 0000087347 SLB Limited NYSE SLB",
+      "security_identity_verified": true,
+      "search_method": "SEC identity CIK0000087347 (SLB LIMITED/NV; SLB; NYSE). News search Apr\u2013May 2023 for SLB as public M&A target with >=15% reaction in 2023-04-27..2023-05-10 (ignore earnings; SLB-as-acquirer speculation non-qualifying). Audit stockquote closes.",
+      "qualifying_events_found": [],
+      "notes": "In-window coverage is Q1 earnings/energy cycle and speculative commentary that SLB might buy Weatherford/Oceaneering (SLB as potential acquirer)\u2014not SLB as public target. Gyrodata close was Feb 2023 (outside). Max abs close-to-close +6.04% on 2023-05-02. No qualifying public-target >=15% reaction found.",
+      "max_abs_close_return_in_window": 0.0604,
+      "max_abs_close_return_session": "2023-05-02",
+      "non_qualifying_related_news": [
+        "Q1 2023 earnings ~2023-04-21",
+        "Commentary SLB might buy Weatherford/Oceaneering (acquirer speculation)"
+      ]
+    },
+    {
+      "symbol": "GE",
+      "observation_id": "GE:2024-07-26",
+      "start_utc": "2024-07-26T20:00:00+00:00",
+      "end_utc": "2024-08-09T20:00:00+00:00",
+      "complete": true,
+      "source": "https://data.sec.gov/submissions/CIK0000040545.json",
+      "locator": "Background GE:2024-07-26; outcome 2024-07-29..2024-08-09; CIK 0000040545 GENERAL ELECTRIC CO ticker GE NYSE (post-April 2024 spin GE Aerospace common continues as GE)",
+      "security_identity_verified": true,
+      "search_method": "SEC identity CIK0000040545 (GENERAL ELECTRIC CO; GE; NYSE) for the post-spin GE Aerospace common that continues under ticker GE. News search Jul\u2013Aug 2024 for GE as public acquisition/takeover target with >=15% reaction in 2024-07-29..2024-08-09 (ignore earnings; GE/GE HealthCare/GE Vernova as acquirer of other firms is non-qualifying). Audit stockquote closes for symbol GE.",
+      "qualifying_events_found": [],
+      "notes": "In-window catalysts are GE Aerospace earnings/guidance (~2024-07-23) and later Satavia/HealthCare AI bolt-ons where GE entities are acquirers\u2014not GE as public target. Max abs close-to-close +5.58% on 2024-08-02. No qualifying public-target >=15% reaction found.",
+      "max_abs_close_return_in_window": 0.0558,
+      "max_abs_close_return_session": "2024-08-02",
+      "non_qualifying_related_news": [
+        "GE Aerospace Q2 earnings/raise ~2024-07-23",
+        "GE Aerospace Satavia deal late Aug (acquirer; mostly outside)"
+      ]
     }
   ]
 }
