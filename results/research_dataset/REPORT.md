@@ -1,6 +1,6 @@
 # Time-safe observation and label audit
 
-2650 distinct stock-days; 0 verified positives, 1 certified negatives. Unknown labels remain null.
+2650 distinct stock-days; 0 verified positives, 6 certified negatives. Unknown labels remain null.
 
 Feature history is the preceding 20 exchange sessions. Outcomes run after the feature close through the close of the tenth subsequent exchange session. Entry uses the next-session close as a conservative timing proxy, never an asserted fill.
 

@@ -2,10 +2,10 @@
   "observations": 2650,
   "outcome_followup_proxy": "2025-06-16",
   "label_status_counts": {
-    "incomplete_outcome_registry": 2139,
+    "incomplete_outcome_registry": 2134,
     "insufficient_calendar_or_followup": 69,
     "candidate_or_disclosure_review_unresolved": 441,
-    "negative_from_complete_scoped_outcome_review": 1
+    "negative_from_complete_scoped_outcome_review": 6
   },
   "partition_counts": {
     "validation": 450,
@@ -18,13 +18,13 @@
   "feature_coverage_ready": 2461,
   "research_eligible": 0,
   "known_positive_labels": 0,
-  "known_negative_labels": 1,
+  "known_negative_labels": 6,
   "source_sha256": {
     "results/reviewed_cohort/features.json": "f197f0f35507af2e0c8578ee76c17d059b9b20310912d5dbc0a26c4dec8f30ea",
     "results/background_sample/observations.json": "a8c954176260b85789aa6f6d53437c4095f1e363e5075dc44468483cc9a74aeb",
     "results/reviewed_cohort/events.json": "7bfb03183d8f8cf45b78ebd4fe7ef852480d5118758f2c1adb1ed29384bba865",
     "data/evaluation_protocol.json": "ce5dc34342acd35742d8b523757bbf115ccf6c0fb5a694a59284b9f1dda6fdce",
-    "data/outcome_coverage_reviews.json": "4823b82846c9626f564f0ad8e5bf8b8a8dcd0d6b591c426e9936e0381b30f819"
+    "data/outcome_coverage_reviews.json": "799859e790732224371b5cf0eb357c60cd7ff385e527e7ccca2de654b18c99de"
   },
   "gates": [
     "Incomplete first-disclosure, corporate-action, and security identity review.",
