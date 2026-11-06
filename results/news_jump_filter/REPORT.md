@@ -34,3 +34,9 @@ None of these jumps are attributed to earnings. All remain blocked for clean fir
 - **RETA**: verified Bloomberg Law 2023-07-28 ~06:58 ET; alleged Jul 27 item timestamp still unverified.
 - **VAL**: WSJ/Dow Jones scoop timeline 2016-03-20 12:43/12:55 Sunday.
 - Still **0** `first_public_disclosure_verified` / **0** training-ready among these 18.
+
+- **KRFT**: WSJ 2015-03-24 20:50 ET after close → reclass to gap (prior close clean of print).
+- **PCP**: CNBC 2015-08-08 15:48 EDT weekend WSJ nearing-deal.
+- **BIVV**: Bloomberg/Endpoints Sunday evening 2018-01-21.
+- **COHR**: WSJ/Fox ~22:13 ET 2021-01-18 holiday talks.
+- **ITCI**: Bloomberg 2025-01-12 16:20 EST Sunday exploring-bid.
