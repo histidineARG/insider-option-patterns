@@ -1,0 +1,59 @@
+{
+  "observations": 2080,
+  "blocked_gates": [
+    "verified_outcome_labels",
+    "historical_security_identity",
+    "complete_population_frame",
+    "natural_prevalence_or_valid_sampling_design",
+    "vendor_delivery_timing",
+    "passed_coverage_audit"
+  ],
+  "population_evaluation_authorized": false,
+  "test_authorized": false,
+  "logistic_status": "blocked_by_evidence_gates",
+  "logistic_weights": null,
+  "event_recall": {
+    "eligible_events": 0,
+    "events_with_timely_episode": null,
+    "recall": null
+  },
+  "fixed_rule_summary": [
+    {
+      "rule": "volume_100_ratio_3",
+      "min_otm_call_volume": 100,
+      "min_ratio20": 3,
+      "eligible_observations": 1861,
+      "alert_observations": 113,
+      "alert_episodes": 84,
+      "labeled_observations": 0,
+      "labeled_alert_observations": 0,
+      "population_metrics_authorized": false
+    },
+    {
+      "rule": "volume_500_ratio_5",
+      "min_otm_call_volume": 500,
+      "min_ratio20": 5,
+      "eligible_observations": 1861,
+      "alert_observations": 48,
+      "alert_episodes": 40,
+      "labeled_observations": 0,
+      "labeled_alert_observations": 0,
+      "population_metrics_authorized": false
+    },
+    {
+      "rule": "volume_1000_ratio_10",
+      "min_otm_call_volume": 1000,
+      "min_ratio20": 10,
+      "eligible_observations": 1861,
+      "alert_observations": 17,
+      "alert_episodes": 15,
+      "labeled_observations": 0,
+      "labeled_alert_observations": 0,
+      "population_metrics_authorized": false
+    }
+  ],
+  "source_sha256": {
+    "results/research_dataset/observations.json": "c5d71cd214b87ae168a19e752af9e9584059f69a97b4129b75973343b11fef97",
+    "data/evaluation_protocol.json": "ce5dc34342acd35742d8b523757bbf115ccf6c0fb5a694a59284b9f1dda6fdce"
+  }
+}

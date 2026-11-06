@@ -1,0 +1,4 @@
+rule,min_otm_call_volume,min_ratio20,eligible_observations,alert_observations,alert_episodes,labeled_observations,labeled_alert_observations,population_metrics_authorized
+volume_100_ratio_3,100,3,1861,113,84,0,0,False
+volume_500_ratio_5,500,5,1861,48,40,0,0,False
+volume_1000_ratio_10,1000,10,1861,17,15,0,0,False

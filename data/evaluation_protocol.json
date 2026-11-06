@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "frozen_at": "2026-11-06",
+  "prediction_horizon_sessions": 10,
+  "baseline_sessions": 20,
+  "decision_timing": "Feature session close plus vendor delivery; actual vendor delay is unverified, so execution readiness remains false.",
+  "outcome_boundary": "After feature-session close through the close of the tenth subsequent exchange session, inclusive. Same-day after-close news is not an executable positive for next-session-close entry.",
+  "entry_proxy": "Next exchange-session close strictly before the earliest verified disclosure bound. This is a timing proxy, not a fill.",
+  "partitions": [
+    {"name": "train", "start": "2013-01-01", "end": "2019-12-31"},
+    {"name": "validation", "start": "2020-01-01", "end": "2022-12-31"},
+    {"name": "development_audit", "start": "2023-01-01", "end": "2025-12-31"},
+    {"name": "reserved_test", "start": "2026-01-01", "end": "2026-12-31"}
+  ],
+  "test_authorized": false,
+  "test_status": "Reserved candidate period; source coverage and sufficient outcome follow-up have not passed audit. No model selection or evaluation may consume this partition.",
+  "prior_exposure": "2013-2025 exploratory rule aggregates and event windows were inspected. Development audit is not an untouched final test. 2026 source coverage counts have been inspected, but no 2026 option features or model outcomes have been selected for this protocol.",
+  "purge_rule": "Purge an observation if its full baseline-through-outcome interval crosses its partition bounds. Purge all observations linked to an event appearing in more than one partition.",
+  "fixed_rules": [[100, 3], [500, 5], [1000, 10]],
+  "episode_cooldown_sessions": 10,
+  "logistic_features": ["log1p_otm_call_volume", "log1p_otm_mean20", "call_share", "top_otm_call_share", "zero_volume_baseline"],
+  "logistic_l2": 0.01,
+  "logistic_iterations": 2000,
+  "logistic_learning_rate": 0.1,
+  "probability_thresholds": [0.1, 0.25, 0.5, 0.75, 0.9],
+  "bootstrap_replicates": 500,
+  "bootstrap_seed": 1984,
+  "population_evaluation_requires": ["verified_outcome_labels", "historical_security_identity", "complete_population_frame", "natural_prevalence_or_valid_sampling_design", "vendor_delivery_timing", "passed_coverage_audit"]
+}

@@ -1,0 +1,1570 @@
+[
+  {
+    "symbol": "ABB",
+    "start": "2019-02-19",
+    "end": "2019-02-19",
+    "observation_ids": [
+      "ABB:2019-02-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ADCT",
+    "start": "2024-07-12",
+    "end": "2024-07-12",
+    "observation_ids": [
+      "ADCT:2024-07-12"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ADT",
+    "start": "2016-01-07",
+    "end": "2016-01-07",
+    "observation_ids": [
+      "ADT:2016-01-07"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ADT",
+    "start": "2016-02-02",
+    "end": "2016-02-05",
+    "observation_ids": [
+      "ADT:2016-02-02",
+      "ADT:2016-02-05"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "AFOP",
+    "start": "2016-03-21",
+    "end": "2016-04-05",
+    "observation_ids": [
+      "AFOP:2016-03-21",
+      "AFOP:2016-03-22",
+      "AFOP:2016-03-30",
+      "AFOP:2016-04-04",
+      "AFOP:2016-04-05"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ALK",
+    "start": "2015-07-01",
+    "end": "2015-07-01",
+    "observation_ids": [
+      "ALK:2015-07-01"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ALLO",
+    "start": "2020-02-19",
+    "end": "2020-02-19",
+    "observation_ids": [
+      "ALLO:2020-02-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ALLY",
+    "start": "2024-08-29",
+    "end": "2024-08-29",
+    "observation_ids": [
+      "ALLY:2024-08-29"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "APPH",
+    "start": "2021-03-04",
+    "end": "2021-03-04",
+    "observation_ids": [
+      "APPH:2021-03-04"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "AVXS",
+    "start": "2018-03-13",
+    "end": "2018-03-19",
+    "observation_ids": [
+      "AVXS:2018-03-13",
+      "AVXS:2018-03-16",
+      "AVXS:2018-03-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "AXDX",
+    "start": "2017-09-19",
+    "end": "2017-09-19",
+    "observation_ids": [
+      "AXDX:2017-09-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "BITA",
+    "start": "2014-08-26",
+    "end": "2014-08-26",
+    "observation_ids": [
+      "BITA:2014-08-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "BIVV",
+    "start": "2017-12-14",
+    "end": "2017-12-14",
+    "observation_ids": [
+      "BIVV:2017-12-14"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "BIVV",
+    "start": "2018-01-12",
+    "end": "2018-01-19",
+    "observation_ids": [
+      "BIVV:2018-01-12",
+      "BIVV:2018-01-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "BXC",
+    "start": "2020-02-19",
+    "end": "2020-02-19",
+    "observation_ids": [
+      "BXC:2020-02-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "CEB",
+    "start": "2016-11-28",
+    "end": "2016-11-28",
+    "observation_ids": [
+      "CEB:2016-11-28"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "CEB",
+    "start": "2017-01-04",
+    "end": "2017-01-04",
+    "observation_ids": [
+      "CEB:2017-01-04"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "CI",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
+    "observation_ids": [
+      "CI:2018-04-20"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "CNQR",
+    "start": "2014-08-06",
+    "end": "2014-08-18",
+    "observation_ids": [
+      "CNQR:2014-08-06",
+      "CNQR:2014-08-15",
+      "CNQR:2014-08-18"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "CNQR",
+    "start": "2014-09-05",
+    "end": "2014-09-17",
+    "observation_ids": [
+      "CNQR:2014-09-05",
+      "CNQR:2014-09-09",
+      "CNQR:2014-09-17"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "COHR",
+    "start": "2020-12-04",
+    "end": "2020-12-18",
+    "observation_ids": [
+      "COHR:2020-12-04",
+      "COHR:2020-12-18"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "COHR",
+    "start": "2021-01-06",
+    "end": "2021-01-11",
+    "observation_ids": [
+      "COHR:2021-01-06",
+      "COHR:2021-01-11"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "COL",
+    "start": "2014-03-03",
+    "end": "2014-03-03",
+    "observation_ids": [
+      "COL:2014-03-03"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "CPRI",
+    "start": "2023-07-19",
+    "end": "2023-07-19",
+    "observation_ids": [
+      "CPRI:2023-07-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "DATA",
+    "start": "2013-07-11",
+    "end": "2013-07-11",
+    "observation_ids": [
+      "DATA:2013-07-11"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "DBD",
+    "start": "2018-08-13",
+    "end": "2018-08-13",
+    "observation_ids": [
+      "DBD:2018-08-13"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "DPS",
+    "start": "2015-10-05",
+    "end": "2015-10-05",
+    "observation_ids": [
+      "DPS:2015-10-05"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "DRNA",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
+    "observation_ids": [
+      "DRNA:2018-04-20"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "DRTX",
+    "start": "2014-08-26",
+    "end": "2014-08-26",
+    "observation_ids": [
+      "DRTX:2014-08-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ECL",
+    "start": "2019-03-06",
+    "end": "2019-03-06",
+    "observation_ids": [
+      "ECL:2019-03-06"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "EFII",
+    "start": "2019-03-26",
+    "end": "2019-03-26",
+    "observation_ids": [
+      "EFII:2019-03-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "FDN",
+    "start": "2021-11-24",
+    "end": "2021-11-24",
+    "observation_ids": [
+      "FDN:2021-11-24"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "FIS",
+    "start": "2022-10-19",
+    "end": "2022-10-19",
+    "observation_ids": [
+      "FIS:2022-10-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "GIII",
+    "start": "2022-12-02",
+    "end": "2022-12-02",
+    "observation_ids": [
+      "GIII:2022-12-02"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "GM",
+    "start": "2013-04-24",
+    "end": "2013-04-24",
+    "observation_ids": [
+      "GM:2013-04-24"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "GSKY",
+    "start": "2021-08-03",
+    "end": "2021-08-17",
+    "observation_ids": [
+      "GSKY:2021-08-03",
+      "GSKY:2021-08-06",
+      "GSKY:2021-08-17"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "GSKY",
+    "start": "2021-09-08",
+    "end": "2021-09-14",
+    "observation_ids": [
+      "GSKY:2021-09-08",
+      "GSKY:2021-09-09",
+      "GSKY:2021-09-13",
+      "GSKY:2021-09-14"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "GWRE",
+    "start": "2019-03-06",
+    "end": "2019-03-06",
+    "observation_ids": [
+      "GWRE:2019-03-06"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ICPT",
+    "start": "2023-04-26",
+    "end": "2023-04-26",
+    "observation_ids": [
+      "ICPT:2023-04-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "IMGN",
+    "start": "2023-10-24",
+    "end": "2023-10-26",
+    "observation_ids": [
+      "IMGN:2023-10-24",
+      "IMGN:2023-10-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "IMGN",
+    "start": "2023-11-29",
+    "end": "2023-11-29",
+    "observation_ids": [
+      "IMGN:2023-11-29"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "IO",
+    "start": "2016-03-29",
+    "end": "2016-03-29",
+    "observation_ids": [
+      "IO:2016-03-29"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ITCI",
+    "start": "2024-11-26",
+    "end": "2024-11-26",
+    "observation_ids": [
+      "ITCI:2024-11-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ITCI",
+    "start": "2024-12-18",
+    "end": "2024-12-18",
+    "observation_ids": [
+      "ITCI:2024-12-18"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ITCI",
+    "start": "2025-01-10",
+    "end": "2025-01-10",
+    "observation_ids": [
+      "ITCI:2025-01-10"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "JOY",
+    "start": "2016-07-15",
+    "end": "2016-07-15",
+    "observation_ids": [
+      "JOY:2016-07-15"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "KEY",
+    "start": "2013-03-07",
+    "end": "2013-03-07",
+    "observation_ids": [
+      "KEY:2013-03-07"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "KRFT",
+    "start": "2015-02-13",
+    "end": "2015-02-13",
+    "observation_ids": [
+      "KRFT:2015-02-13"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "KRFT",
+    "start": "2015-03-03",
+    "end": "2015-03-10",
+    "observation_ids": [
+      "KRFT:2015-03-03",
+      "KRFT:2015-03-05",
+      "KRFT:2015-03-10"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "LCII",
+    "start": "2021-03-04",
+    "end": "2021-03-04",
+    "observation_ids": [
+      "LCII:2021-03-04"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "MAXR",
+    "start": "2022-11-22",
+    "end": "2022-11-23",
+    "observation_ids": [
+      "MAXR:2022-11-22",
+      "MAXR:2022-11-23"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "MAXR",
+    "start": "2022-12-12",
+    "end": "2022-12-12",
+    "observation_ids": [
+      "MAXR:2022-12-12"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "MTOR",
+    "start": "2013-09-20",
+    "end": "2013-09-20",
+    "observation_ids": [
+      "MTOR:2013-09-20"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "NBR",
+    "start": "2013-07-11",
+    "end": "2013-07-11",
+    "observation_ids": [
+      "NBR:2013-07-11"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "NXTD",
+    "start": "2021-07-26",
+    "end": "2021-07-26",
+    "observation_ids": [
+      "NXTD:2021-07-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ONXX",
+    "start": "2013-06-28",
+    "end": "2013-06-28",
+    "observation_ids": [
+      "ONXX:2013-06-28"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "OSPN",
+    "start": "2024-04-10",
+    "end": "2024-04-10",
+    "observation_ids": [
+      "OSPN:2024-04-10"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "PBYI",
+    "start": "2019-02-19",
+    "end": "2019-02-19",
+    "observation_ids": [
+      "PBYI:2019-02-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "PTX",
+    "start": "2017-07-13",
+    "end": "2017-07-13",
+    "observation_ids": [
+      "PTX:2017-07-13"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "PVH",
+    "start": "2014-08-26",
+    "end": "2014-08-26",
+    "observation_ids": [
+      "PVH:2014-08-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "R",
+    "start": "2013-04-24",
+    "end": "2013-04-24",
+    "observation_ids": [
+      "R:2013-04-24"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "RETA",
+    "start": "2023-06-22",
+    "end": "2023-06-22",
+    "observation_ids": [
+      "RETA:2023-06-22"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "RETA",
+    "start": "2023-07-24",
+    "end": "2023-07-27",
+    "observation_ids": [
+      "RETA:2023-07-24",
+      "RETA:2023-07-27"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "RIO",
+    "start": "2016-10-28",
+    "end": "2016-10-28",
+    "observation_ids": [
+      "RIO:2016-10-28"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "SAGE",
+    "start": "2025-05-16",
+    "end": "2025-05-16",
+    "observation_ids": [
+      "SAGE:2025-05-16"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "SAGE",
+    "start": "2025-06-05",
+    "end": "2025-06-05",
+    "observation_ids": [
+      "SAGE:2025-06-05"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "SBLK",
+    "start": "2024-08-29",
+    "end": "2024-08-29",
+    "observation_ids": [
+      "SBLK:2024-08-29"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "SFM",
+    "start": "2019-02-19",
+    "end": "2019-02-19",
+    "observation_ids": [
+      "SFM:2019-02-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "SJI",
+    "start": "2018-07-19",
+    "end": "2018-07-19",
+    "observation_ids": [
+      "SJI:2018-07-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "SMMT",
+    "start": "2021-06-29",
+    "end": "2021-06-29",
+    "observation_ids": [
+      "SMMT:2021-06-29"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "SNCR",
+    "start": "2014-01-17",
+    "end": "2014-01-17",
+    "observation_ids": [
+      "SNCR:2014-01-17"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "SOYB",
+    "start": "2023-04-26",
+    "end": "2023-04-26",
+    "observation_ids": [
+      "SOYB:2023-04-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "SPYG",
+    "start": "2020-02-04",
+    "end": "2020-02-04",
+    "observation_ids": [
+      "SPYG:2020-02-04"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "SWC",
+    "start": "2016-11-01",
+    "end": "2016-11-01",
+    "observation_ids": [
+      "SWC:2016-11-01"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "SWC",
+    "start": "2016-11-17",
+    "end": "2016-12-07",
+    "observation_ids": [
+      "SWC:2016-11-17",
+      "SWC:2016-11-23",
+      "SWC:2016-12-06",
+      "SWC:2016-12-07"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "TTC",
+    "start": "2017-08-10",
+    "end": "2017-08-10",
+    "observation_ids": [
+      "TTC:2017-08-10"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "URBN",
+    "start": "2021-06-29",
+    "end": "2021-06-29",
+    "observation_ids": [
+      "URBN:2021-06-29"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "VIAV",
+    "start": "2017-08-16",
+    "end": "2017-08-16",
+    "observation_ids": [
+      "VIAV:2017-08-16"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "VRTU",
+    "start": "2020-09-09",
+    "end": "2020-09-09",
+    "observation_ids": [
+      "VRTU:2020-09-09"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "WE",
+    "start": "2023-07-19",
+    "end": "2023-07-19",
+    "observation_ids": [
+      "WE:2023-07-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "WRBY",
+    "start": "2022-12-02",
+    "end": "2022-12-02",
+    "observation_ids": [
+      "WRBY:2022-12-02"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "XXIA",
+    "start": "2013-03-07",
+    "end": "2013-03-07",
+    "observation_ids": [
+      "XXIA:2013-03-07"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ZGNX",
+    "start": "2021-12-14",
+    "end": "2021-12-31",
+    "observation_ids": [
+      "ZGNX:2021-12-14",
+      "ZGNX:2021-12-20",
+      "ZGNX:2021-12-31"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ZTO",
+    "start": "2019-05-01",
+    "end": "2019-05-01",
+    "observation_ids": [
+      "ZTO:2019-05-01"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ABB",
+    "start": "2019-02-19",
+    "end": "2019-02-19",
+    "observation_ids": [
+      "ABB:2019-02-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "ADT",
+    "start": "2016-01-07",
+    "end": "2016-01-07",
+    "observation_ids": [
+      "ADT:2016-01-07"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "ADT",
+    "start": "2016-02-05",
+    "end": "2016-02-05",
+    "observation_ids": [
+      "ADT:2016-02-05"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "AFOP",
+    "start": "2016-03-21",
+    "end": "2016-04-04",
+    "observation_ids": [
+      "AFOP:2016-03-21",
+      "AFOP:2016-03-30",
+      "AFOP:2016-04-04"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "ALK",
+    "start": "2015-07-01",
+    "end": "2015-07-01",
+    "observation_ids": [
+      "ALK:2015-07-01"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "APPH",
+    "start": "2021-03-04",
+    "end": "2021-03-04",
+    "observation_ids": [
+      "APPH:2021-03-04"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "AVXS",
+    "start": "2018-03-13",
+    "end": "2018-03-16",
+    "observation_ids": [
+      "AVXS:2018-03-13",
+      "AVXS:2018-03-16"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "AXDX",
+    "start": "2017-09-19",
+    "end": "2017-09-19",
+    "observation_ids": [
+      "AXDX:2017-09-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "BIVV",
+    "start": "2018-01-12",
+    "end": "2018-01-12",
+    "observation_ids": [
+      "BIVV:2018-01-12"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "BXC",
+    "start": "2020-02-19",
+    "end": "2020-02-19",
+    "observation_ids": [
+      "BXC:2020-02-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "CNQR",
+    "start": "2014-08-15",
+    "end": "2014-08-15",
+    "observation_ids": [
+      "CNQR:2014-08-15"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "COHR",
+    "start": "2021-01-11",
+    "end": "2021-01-11",
+    "observation_ids": [
+      "COHR:2021-01-11"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "CPRI",
+    "start": "2023-07-19",
+    "end": "2023-07-19",
+    "observation_ids": [
+      "CPRI:2023-07-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "DATA",
+    "start": "2013-07-11",
+    "end": "2013-07-11",
+    "observation_ids": [
+      "DATA:2013-07-11"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "DBD",
+    "start": "2018-08-13",
+    "end": "2018-08-13",
+    "observation_ids": [
+      "DBD:2018-08-13"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "DRNA",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
+    "observation_ids": [
+      "DRNA:2018-04-20"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "GM",
+    "start": "2013-04-24",
+    "end": "2013-04-24",
+    "observation_ids": [
+      "GM:2013-04-24"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "GSKY",
+    "start": "2021-09-08",
+    "end": "2021-09-14",
+    "observation_ids": [
+      "GSKY:2021-09-08",
+      "GSKY:2021-09-09",
+      "GSKY:2021-09-13",
+      "GSKY:2021-09-14"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "GWRE",
+    "start": "2019-03-06",
+    "end": "2019-03-06",
+    "observation_ids": [
+      "GWRE:2019-03-06"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "IMGN",
+    "start": "2023-10-24",
+    "end": "2023-10-24",
+    "observation_ids": [
+      "IMGN:2023-10-24"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "IMGN",
+    "start": "2023-11-29",
+    "end": "2023-11-29",
+    "observation_ids": [
+      "IMGN:2023-11-29"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "JOY",
+    "start": "2016-07-15",
+    "end": "2016-07-15",
+    "observation_ids": [
+      "JOY:2016-07-15"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "KEY",
+    "start": "2013-03-07",
+    "end": "2013-03-07",
+    "observation_ids": [
+      "KEY:2013-03-07"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "KRFT",
+    "start": "2015-03-10",
+    "end": "2015-03-10",
+    "observation_ids": [
+      "KRFT:2015-03-10"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "MAXR",
+    "start": "2022-11-22",
+    "end": "2022-11-23",
+    "observation_ids": [
+      "MAXR:2022-11-22",
+      "MAXR:2022-11-23"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "MTOR",
+    "start": "2013-09-20",
+    "end": "2013-09-20",
+    "observation_ids": [
+      "MTOR:2013-09-20"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "NBR",
+    "start": "2013-07-11",
+    "end": "2013-07-11",
+    "observation_ids": [
+      "NBR:2013-07-11"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "NXTD",
+    "start": "2021-07-26",
+    "end": "2021-07-26",
+    "observation_ids": [
+      "NXTD:2021-07-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "PTX",
+    "start": "2017-07-13",
+    "end": "2017-07-13",
+    "observation_ids": [
+      "PTX:2017-07-13"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "PVH",
+    "start": "2014-08-26",
+    "end": "2014-08-26",
+    "observation_ids": [
+      "PVH:2014-08-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "R",
+    "start": "2013-04-24",
+    "end": "2013-04-24",
+    "observation_ids": [
+      "R:2013-04-24"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "RETA",
+    "start": "2023-07-24",
+    "end": "2023-07-24",
+    "observation_ids": [
+      "RETA:2023-07-24"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "RIO",
+    "start": "2016-10-28",
+    "end": "2016-10-28",
+    "observation_ids": [
+      "RIO:2016-10-28"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "SBLK",
+    "start": "2024-08-29",
+    "end": "2024-08-29",
+    "observation_ids": [
+      "SBLK:2024-08-29"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "SFM",
+    "start": "2019-02-19",
+    "end": "2019-02-19",
+    "observation_ids": [
+      "SFM:2019-02-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "SPYG",
+    "start": "2020-02-04",
+    "end": "2020-02-04",
+    "observation_ids": [
+      "SPYG:2020-02-04"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "SWC",
+    "start": "2016-12-06",
+    "end": "2016-12-07",
+    "observation_ids": [
+      "SWC:2016-12-06",
+      "SWC:2016-12-07"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "WRBY",
+    "start": "2022-12-02",
+    "end": "2022-12-02",
+    "observation_ids": [
+      "WRBY:2022-12-02"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "ZGNX",
+    "start": "2021-12-31",
+    "end": "2021-12-31",
+    "observation_ids": [
+      "ZGNX:2021-12-31"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "ZTO",
+    "start": "2019-05-01",
+    "end": "2019-05-01",
+    "observation_ids": [
+      "ZTO:2019-05-01"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "ADT",
+    "start": "2016-01-07",
+    "end": "2016-01-07",
+    "observation_ids": [
+      "ADT:2016-01-07"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "ADT",
+    "start": "2016-02-05",
+    "end": "2016-02-05",
+    "observation_ids": [
+      "ADT:2016-02-05"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "AFOP",
+    "start": "2016-03-30",
+    "end": "2016-03-30",
+    "observation_ids": [
+      "AFOP:2016-03-30"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "AVXS",
+    "start": "2018-03-13",
+    "end": "2018-03-16",
+    "observation_ids": [
+      "AVXS:2018-03-13",
+      "AVXS:2018-03-16"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "DRNA",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
+    "observation_ids": [
+      "DRNA:2018-04-20"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "GSKY",
+    "start": "2021-09-13",
+    "end": "2021-09-14",
+    "observation_ids": [
+      "GSKY:2021-09-13",
+      "GSKY:2021-09-14"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "GWRE",
+    "start": "2019-03-06",
+    "end": "2019-03-06",
+    "observation_ids": [
+      "GWRE:2019-03-06"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "KEY",
+    "start": "2013-03-07",
+    "end": "2013-03-07",
+    "observation_ids": [
+      "KEY:2013-03-07"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "MAXR",
+    "start": "2022-11-23",
+    "end": "2022-11-23",
+    "observation_ids": [
+      "MAXR:2022-11-23"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "NXTD",
+    "start": "2021-07-26",
+    "end": "2021-07-26",
+    "observation_ids": [
+      "NXTD:2021-07-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "RETA",
+    "start": "2023-07-24",
+    "end": "2023-07-24",
+    "observation_ids": [
+      "RETA:2023-07-24"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "RIO",
+    "start": "2016-10-28",
+    "end": "2016-10-28",
+    "observation_ids": [
+      "RIO:2016-10-28"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "SBLK",
+    "start": "2024-08-29",
+    "end": "2024-08-29",
+    "observation_ids": [
+      "SBLK:2024-08-29"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "SPYG",
+    "start": "2020-02-04",
+    "end": "2020-02-04",
+    "observation_ids": [
+      "SPYG:2020-02-04"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "ZGNX",
+    "start": "2021-12-31",
+    "end": "2021-12-31",
+    "observation_ids": [
+      "ZGNX:2021-12-31"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  }
+]

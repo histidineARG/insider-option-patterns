@@ -47,14 +47,14 @@
     "symbol": "AFOP",
     "announcement_date": "2016-04-07",
     "issuer": "Alliance Fiber Optic Products",
-    "source": "https://www.sec.gov/Archives/edgar/data/1122342/000094787116001105/ss1443652_ex99a5a.htm",
+    "source": "https://www.sec.gov/Archives/edgar/data/1122342/000104746916012420/a2228358zsc14d9.htm",
     "announcement_session": "after_close",
     "timing_source": "https://www.sec.gov/Archives/edgar/data/1122342/000104746916012420/a2228358zsc14d9.htm",
     "timing_locator": "Background of the Transactions: joint press release issued after close of trading on April 7, 2016",
     "date_verified": true,
     "eligibility": "target_evidence_reviewed",
     "event_id": "AFOP:2016-04-07",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -80,20 +80,23 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 6,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "Schedule 14D-9 Background states Corning and AFOP issued the joint press release after the close of trading on April 7, 2016, and does not cite an earlier media leak. The stockholder rights plan is described as not triggered by the Offer; corporate-action and broader media review remain incomplete.",
+    "locator": "Background of the Transactions; April 7 after-close joint press release",
+    "issuer_cik": "1122342"
   },
   {
     "symbol": "AVXS",
     "announcement_date": "2018-04-09",
     "issuer": "AveXis",
-    "source": "https://www.novartis.com/news/media-releases/novartis-enters-agreement-acquire-avexis-inc-usd-87-bn-transform-care-sma-and-expand-position-gene-therapy-and-neuroscience-leader",
+    "source": "https://www.globenewswire.com/news-release/2018/04/09/1466641/0/en/AveXis-Enters-into-Agreement-to-be-Acquired-by-Novartis-for-USD-218-per-share-or-USD-8-7-billion.html",
     "announcement_session": "before_open",
     "timing_source": "https://www.globenewswire.com/news-release/2018/04/09/1466641/0/en/AveXis-Enters-Agreement-to-be-Acquired-by-Novartis-AG-for-8-7-billion.html",
     "timing_locator": "Issuer-originated release publication header: April 9, 2018, 00:45 ET",
     "date_verified": true,
     "eligibility": "target_evidence_reviewed",
     "event_id": "AVXS:2018-04-09",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -119,7 +122,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 13,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "The AveXis release is time-stamped 00:45 ET on April 9, 2018, before the open. Premium language references the April 6 close. Exhaustive media search for earlier public reports and corporate-action review remain incomplete.",
+    "locator": "GlobeNewswire stamp April 09, 2018 00:45 ET",
+    "issuer_cik": "1509928"
   },
   {
     "symbol": "BIVV",
@@ -132,7 +138,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "BIVV:2018-01-22",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -158,7 +164,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 20,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "The amended complaint dates the Sanofi acquisition announcement before the NASDAQ open on January 22, 2018, and treats preceding option trading as based on nonpublic information. Bioverativ had traded separately since its 2017 Biogen spin-off; issuer-identity and broader media review remain incomplete.",
+    "locator": "Amended complaint; Sanofi/Bioverativ announcement before NASDAQ open January 22, 2018",
+    "issuer_cik": "1685840"
   },
   {
     "symbol": "BOLD",
@@ -171,7 +180,7 @@
     "timing_locator": "Issuer press release timestamp December 2, 2019 6:01pm EST",
     "eligibility": "target_evidence_reviewed",
     "event_id": "BOLD:2019-12-02",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -197,7 +206,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 10,
     "days_with_usable_quote_candidates": 2,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "The litigation release identifies a December 2, 2019 public acquisition announcement for Audentes (BOLD). Market-session timing relative to the open is not stated in the release summary. Earlier-disclosure media search and corporate-action review remain incomplete.",
+    "locator": "Litigation Release 25660; December 2, 2019 Audentes/Astellas public announcement",
+    "issuer_cik": "1628736"
   },
   {
     "symbol": "CALT",
@@ -248,7 +260,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "CEB:2017-01-05",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -274,7 +286,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 1,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "The complaint states CEB and Gartner announced the definitive merger before the market opened on January 5, 2017. Negotiations described as nonpublic through early January. Exhaustive search for earlier public reports and corporate-action identity checks remain incomplete.",
+    "locator": "Complaint; Gartner/CEB announcement before market open January 5, 2017",
+    "issuer_cik": "1035990"
   },
   {
     "symbol": "CNQR",
@@ -334,7 +349,7 @@
     "timing_locator": "Joint release announces same-day transaction call at 08:30 ET; before-open session inferred from schedule, exact publication time not verified",
     "eligibility": "target_evidence_reviewed",
     "event_id": "COHR:2021-01-19",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_issuer_identity_pending",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -360,7 +375,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 29,
     "days_with_usable_quote_candidates": 13,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "The complaint dates signing on the evening of January 18, 2021, and the Lumentum/Coherent announcement before market open on January 19. This is the 2021 Coherent issuer, not later post-combination listings. Broader media search for earlier public reports remains incomplete.",
+    "locator": "Complaint; January 18 evening signing and January 19 pre-market-open Lumentum announcement",
+    "issuer_cik": "2186"
   },
   {
     "symbol": "EFII",
@@ -373,7 +391,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "EFII:2019-04-15",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -399,7 +417,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 2,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "The complaint dates the Siris affiliate acquisition announcement before market open on April 15, 2019. Pipeline and tip facts are alleged as nonpublic beforehand. No earlier public rumor date is established; corporate-action review remains incomplete.",
+    "locator": "Complaint; Siris/EFII announcement before market open April 15, 2019",
+    "issuer_cik": "864240"
   },
   {
     "symbol": "GSKY",
@@ -449,14 +470,14 @@
     "symbol": "HNZ",
     "announcement_date": "2013-02-14",
     "issuer": "H.J. Heinz",
-    "source": "optiondb.maevent:533; https://www.sec.gov/newsroom/press-releases/2013-219",
+    "source": "https://www.sec.gov/Archives/edgar/data/46640/000119312513128058/d491866ddefm14a.htm",
     "announcement_session": "before_open",
     "date_verified": true,
     "timing_source": "https://www.sec.gov/Archives/edgar/data/46640/000119312513128058/d491866ddefm14a.htm",
     "timing_locator": "Background: joint press release issued before NYSE opening February 14, 2013",
     "eligibility": "target_evidence_reviewed",
     "event_id": "HNZ:2013-02-14",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -482,20 +503,23 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 10,
     "days_with_usable_quote_candidates": 2,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "Proxy Background separates February 13 execution from the February 14 pre-open joint press release and notes leak risk during diligence without citing an earlier public report. Preferred-share redemption is a post-announcement corporate action and is not a pre-announcement trading receipt. Exhaustive media search for earlier public reports remains incomplete.",
+    "locator": "Background of the Merger; February 13 signing and February 14 pre-NYSE-open joint release",
+    "issuer_cik": "46640"
   },
   {
     "symbol": "IMGN",
     "announcement_date": "2023-11-30",
     "issuer": "ImmunoGen",
-    "source": "https://investors.abbvie.com/news-releases/news-release-details/abbvie-acquire-immunogen-including-its-flagship-cancer-therapy",
+    "source": "https://investors.abbvie.com/events/event-details/abbvie-immunogen-acquisition-conference-call",
     "announcement_session": "before_open",
-    "timing_source": "https://investors.abbvie.com/events/event-details/abbvie-immunogen-acquisition-conference-call",
-    "timing_locator": "Issuer transaction conference call at 08:00 CST (09:00 EST); before-open session inferred from call schedule, exact publication time not verified",
+    "timing_source": "https://investors.abbvie.com/news-releases/news-release-details/abbvie-acquire-immunogen-including-its-flagship-cancer-therapy",
+    "timing_locator": "November 30, 2023 joint acquisition release",
     "date_verified": true,
     "eligibility": "target_evidence_reviewed",
     "event_id": "IMGN:2023-11-30",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -521,7 +545,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 28,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "AbbVie scheduled the acquisition conference call for 8:00 a.m. CST on November 30, 2023, before the US cash equity open. Exhaustive media search for earlier public reports and corporate-action review remain incomplete.",
+    "locator": "AbbVie ImmunoGen acquisition conference call listed 11/30/23 8:00 a.m. CST",
+    "issuer_cik": "855654"
   },
   {
     "symbol": "ITCI",
@@ -576,7 +603,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "JOY:2016-07-21",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -602,7 +629,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 30,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "The settled order states Komatsu announced the Joy Global acquisition before trading opened on July 21, 2016. It does not identify an earlier public rumor. Allegations and findings in enforcement papers are not a substitute for a complete first-disclosure media review or corporate-action check.",
+    "locator": "Order findings; Komatsu announcement before trading opened July 21, 2016",
+    "issuer_cik": "854800"
   },
   {
     "symbol": "KAMN",
@@ -615,7 +645,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "KAMN:2024-01-19",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -637,7 +667,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 22,
     "days_with_usable_quote_candidates": 0,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "The complaint dates the Arcline offer announcement to the morning of January 19, 2024. Codename Project Safeguard facts are alleged as nonpublic beforehand. Exact open-relative timestamp and broader media search remain incomplete; corporate-action review is open.",
+    "locator": "Complaint; morning of January 19, 2024 Arcline/Kaman announcement",
+    "issuer_cik": "54381"
   },
   {
     "symbol": "KRFT",
@@ -692,7 +725,7 @@
     "date_verified": true,
     "eligibility": "target_evidence_reviewed",
     "event_id": "LNKD:2016-06-13",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -718,7 +751,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 30,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "Proxy Background dates the Microsoft/LinkedIn joint press release prior to the June 13 NYSE open and uses June 10 as the last trading day before public announcement. No earlier public rumor date is established in that Background narrative; broader media search remains incomplete.",
+    "locator": "Background of the Merger; June 11 agreement and June 13 pre-NYSE-open joint release",
+    "issuer_cik": "1271024"
   },
   {
     "symbol": "MAXR",
@@ -731,7 +767,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "MAXR:2022-12-16",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -757,7 +793,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 19,
     "days_with_usable_quote_candidates": 26,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "The settled order dates the Maxar acquisition press release to approximately 7:00 a.m. Eastern on December 16, 2022, before the open. Tip facts are treated as nonpublic beforehand. Broader media search and corporate-action review remain incomplete.",
+    "locator": "Order findings; press release approximately 7:00 a.m. Eastern December 16, 2022",
+    "issuer_cik": "1121142"
   },
   {
     "symbol": "ONXX",
@@ -808,14 +847,14 @@
     "symbol": "PRVB",
     "announcement_date": "2023-03-13",
     "issuer": "Provention Bio",
-    "source": "https://www.sanofi.com/en/media-room/press-releases/2023/2023-03-13-06-00-00-2625367",
+    "source": "https://www.globenewswire.com/news-release/2023/03/13/2625367/0/en/Press-Release-Sanofi-to-acquire-Provention-Bio-Inc-adding-a-first-in-class-therapy-in-type-1-diabetes-to-its-pipeline.html",
     "announcement_session": "before_open",
     "timing_source": "https://www.globenewswire.com/news-release/2023/03/13/2625367/0/en/Press-Release-Sanofi-to-acquire-Provention-Bio-adding-to-portfolio-TZIELD-the-first-disease-modifying-treatment-for-the-delay-of-Stage-3-type-1-diabetes-T1D.html",
     "timing_locator": "Issuer-originated release publication header: March 13, 2023, 02:00 ET",
     "date_verified": true,
     "eligibility": "target_evidence_reviewed",
     "event_id": "PRVB:2023-03-13",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -841,7 +880,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 24,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "The Sanofi/Provention Bio release is time-stamped 02:00 ET on March 13, 2023, before the open. Broader media search for earlier public reports and corporate-action review remain incomplete.",
+    "locator": "GlobeNewswire stamp March 13, 2023 02:00 ET",
+    "issuer_cik": "1698991"
   },
   {
     "symbol": "RETA",
@@ -944,7 +986,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "SWC:2016-12-09",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -970,7 +1012,10 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 23,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "The complaint dates the Sibanye/Stillwater acquisition announcement as pre-market-open on December 9, 2016. No earlier public disclosure date is established there. Complaint allegations are unverified as to chronology completeness; corporate-action review remains open.",
+    "locator": "Complaint; December 9, 2016 pre-market-open Sibanye acquisition announcement",
+    "issuer_cik": "1018870"
   },
   {
     "symbol": "VRTU",
@@ -1028,7 +1073,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "ZGNX:2022-01-19",
-    "review_status": "first_disclosure_and_corporate_action_review_pending",
+    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -1054,6 +1099,9 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 23,
     "days_with_usable_quote_candidates": 11,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "finding": "The complaint dates the UCB/Zogenix press release to approximately 1:00 a.m. on January 19, 2022. Same-day after-close entry proxies on January 18 cannot precede that overnight disclosure. Broader media search and corporate-action review remain incomplete.",
+    "locator": "Complaint; UCB press release approximately 1:00 a.m. January 19, 2022",
+    "issuer_cik": "1375151"
   }
 ]

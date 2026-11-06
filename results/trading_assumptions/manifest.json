@@ -1,0 +1,32 @@
+{
+  "assumptions": {
+    "version": 1,
+    "frozen_at": "2026-11-06",
+    "signal_availability": "Feature session close plus vendor delivery. Actual historical vendor delay is unverified, so no observation is marked execution-ready.",
+    "entry": "Earliest considered entry is the next exchange-session close strictly before the earliest verified disclosure bound. This is a timing proxy, not a fill.",
+    "option_selection": "Candidate contracts must satisfy the fixed research quote screen recorded in the reviewed-cohort manifest. Multipliers, deliverables, and adjusted contracts remain unverified; midpoint fills are not assumed.",
+    "cost_model": "When usable bid/ask quotes exist, buy at ask and sell at bid. Absent a usable quote, the trade is non-executable rather than filled at last trade or midpoint.",
+    "holding_period": "Hold until the earlier of the verified disclosure reaction session or the close of the tenth subsequent exchange session after the feature date. No intraday exit is claimed.",
+    "position_sizing": "Unit notional per episode for diagnostics only. Capital limits and simultaneous position caps are unspecified until population evaluation is authorized.",
+    "exclusions": [
+      "No fill when vendor delivery timing is unverified.",
+      "No fill when quote eligibility or contract multiplier is unverified.",
+      "No fill when disclosure chronology remains unresolved.",
+      "No short premium strategies in this protocol version."
+    ]
+  },
+  "blocked_gates": [
+    "population_evaluation_unauthorized",
+    "no_research_eligible_observations",
+    "no_verified_executable_positives",
+    "vendor_delivery_timing_unverified",
+    "contract_deliverables_unverified"
+  ],
+  "trading_simulation_authorized": false,
+  "simulated_trades": 0,
+  "net_return": null,
+  "source_sha256": {
+    "results/evaluation/manifest.json": "2131df622480df9502e3c0e21ae31b6223d0ee889606ff3013e4cf52d8b966e2",
+    "results/research_dataset/manifest.json": "a40c77c9fae154097d2747d8e27b385dc0142bc8bbe7ab095d20532e54860d0a"
+  }
+}

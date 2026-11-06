@@ -7,23 +7,22 @@ Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
 - Calendar-aware event features, price-only candidate cohort, and outcome-independent background pilot.
 - Coverage audits: stockquote expands on 2024-11-04; historical frame membership explains most of the sampled 2025 option-coverage difference.
 - Fixed-rule descriptive counts; no reliable negative labels or population accuracy estimates.
+- Evidence-overlay cohort with primary-source chronology findings for all 26 price-qualified candidates.
+- Time-safe observation table, frozen chronological partitions, gated evaluation interfaces, and conservative trading assumptions.
 
 ## Active work
 
-1. Review primary-source disclosure chronology and security identity; retain uncertainty and earlier rumors separately from definitive agreements.
-2. Audit historical option coverage and quote eligibility using information available on each observation date.
-3. Build time-safe ten-session labels with unknown outcomes preserved, plus an auditable observation funnel.
-4. Specify chronological partitions and purge overlapping feature/outcome windows. Previously explored years cannot be described as an untouched test.
-5. Implement gated fixed-rule/logistic evaluation with event grouping, alert episodes, and clustered uncertainty; execute only on defensible labels and populations.
-6. Specify and implement conservative trading assumptions where EOD quotes support them; separate conditional event case studies from population performance.
+1. Deepen first-disclosure media search and complete corporate-action / security-identity reviews until events can become training-ready.
+2. Build complete scoped outcome reviews that can certify background negatives without inventing them.
+3. Audit historical option listing eligibility and vendor delivery timing using information available on each observation date.
+4. Keep population metrics and trading simulation blocked until evidence gates pass; reserved 2026 remains unauthorized.
 
 ## Current task, gap, and target
 
 - Task: connect primary-source event chronology to time-safe feature/label construction, then implement chronological evaluation and trading gates.
-- Completed in this checkpoint: eight event-specific source reviews; earlier public information recorded for ONXX, CNQR, VRTU, RETA, and the competing SAGE bid; CNQR primary-source date conflict and ADT price-source conflict preserved; CALT ADS terms identified.
-- Expanded cohort: ITCI and SAGE added from acquirer releases independently of option activity. All 26 candidates satisfy the measured >=15% price rule; 780 pre-event stock-days extracted with fixed quote-candidate diagnostics.
-- Gap: zero events are training-ready. Sixteen original candidates still lack the new detailed disclosure/corporate-action review. Other reviews identify unresolved timing, identity, corporate-action, or prior-public-process questions. No complete outcome registry certifies background negatives; quote delivery timing and contract deliverables remain unverified.
-- Next target: an auditable observation table with ten-session outcome boundaries, explicit disclosure contamination and unknown labels, followed by purged chronological partitions. Implement model/evaluation interfaces without manufacturing labels or claiming an untouched test in previously explored years.
+- Completed in this checkpoint: announcement-session or press-time findings recorded for every price-qualified candidate; earlier public information, conflicts, ADS terms, issuer-identity notes, and unresolved searches preserved in `data/event_review_overrides.json`. Offline review overlay refreshes saved events without requerying prices. `research_dataset.py` builds 2,080 distinct stock-days with ten-session outcomes, disclosure diagnostics, and purged partitions; known positives and certified negatives remain zero. `evaluation.py` constructs fixed-rule alert episodes and logistic interfaces but blocks population metrics. `trading_assumptions.py` freezes conservative fill rules and reports blocked trading gates.
+- Gap: zero events are training-ready. No complete outcome registry certifies background negatives. Quote delivery timing and contract deliverables remain unverified. Reserved 2026 has no extracted observations and is not authorized.
+- Next target: complete corporate-action and first-disclosure verification for a subset that can support executable positives; begin scoped negative-outcome reviews only with auditable source locators; keep evaluation gated.
 - Completion target: evidence-supported evaluation and conservative trading results only after event, population, timing, and tradability gates pass. Otherwise report exact blocked gates and finish independent implementation work.
 
 ## Decisions
@@ -43,6 +42,7 @@ Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
 
 ## Next actions
 
-- Review the 24 price-qualified events for earlier disclosure and chronology errors first.
-- Persist review evidence and feed it into label construction rather than maintaining disconnected notes.
-- Implement downstream contracts and tests while keeping real-data evaluation gated by evidence.
+- Finish corporate-action and security-identity review for announcement-verified events, starting with cases that already have precise press timestamps.
+- Persist any newly found earlier-disclosure boundaries into overrides and regenerate the observation audit.
+- Expand scoped outcome-coverage reviews only when a complete source-backed negative search protocol exists.
+- Do not authorize population metrics, threshold selection, or trading simulation while gates remain blocked.
