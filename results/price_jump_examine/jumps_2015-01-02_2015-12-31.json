@@ -12194,15 +12194,17 @@
     "prev_volume": 2673506.0,
     "vol_ratio": 12.554253104350616,
     "cik": "0001345016",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_rumor",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.reuters.com/article/business/consumer-review-website-operator-yelp-exploring-sale-wsj-idUSL4N0XY5UE/",
+    "news_detail": "WSJ: Yelp exploring a sale that could fetch >$3.5B; working with bankers. Confirmed M&A rumor keep."
   },
   {
     "symbol": "ALDR",
@@ -20828,14 +20830,16 @@
     "vol_ratio": 6.5279619098627935,
     "cik": "0000097216",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://investors.terex.com/news/news-details/2015/Terex-and-Konecranes-to-Combine-in-an-All-Stock-Merger/default.aspx",
+    "news_detail": "All-stock merger of equals with Konecranes; TEX shareholders ~60%. Combination/acquirer-side, not target M&A keep."
   },
   {
     "symbol": "ADXS",
@@ -24684,15 +24688,17 @@
     "prev_volume": 335913.0,
     "vol_ratio": 4.806220658325221,
     "cik": "0001001316",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.rttnews.com/2554182/tg-therapeutics-inc-tgtx-is-rising-on-fda-agreement.aspx",
+    "news_detail": "FDA SPA agreement for Phase 3 UNITY-CLL of TG-1101+TGR-1202. Class-3 trial/FDA-path keep."
   },
   {
     "symbol": "DSS",
@@ -24769,14 +24775,16 @@
     "vol_ratio": 15.846932872544231,
     "cik": "0001594805",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.bloomberg.com/news/articles/2015-09-17/amazon-teams-with-shopify-to-help-merchants-set-up-online-stores",
+    "news_detail": "Amazon partnership to help merchants set up online stores. Partnership, not keep 2/3/4."
   },
   {
     "symbol": "DSCO",
@@ -25865,14 +25873,16 @@
     "vol_ratio": 3.215645628229942,
     "cik": "0001174922",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.afr.com/markets/equity-markets/wynn-surges-on-bets-china-to-boost-macau-gaming-sector-20151003-gk0fqc",
+    "news_detail": "Report China plans steps to revive Macau gaming. Policy/commodity-like sector, not keep 2/3/4."
   },
   {
     "symbol": "XNPT",

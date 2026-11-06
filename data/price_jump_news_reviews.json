@@ -2892,6 +2892,206 @@
       "news_filter": "drop_other_not_234",
       "detail": "Raised 2014 deployment guide to 475\u2013525 MW plus Q3 operating metrics. Guidance/ops, not keep 2/3/4.",
       "locator": "https://www.fool.com/investing/general/2013/10/11/why-solarcity-shares-soared.aspx"
+    },
+    {
+      "symbol": "BRP",
+      "qdate": "2014-10-23",
+      "close_return": 0.2304,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "BAM non-binding proposal to buy remaining ~30% BRP shares at $23 cash. Confirmed M&A proposal keep.",
+      "locator": "https://www.brookfieldresidential.com/press-releases-events-and-webcasts-landing/brookfield-residential-responds-to-brookfield-asset-managements-proposal"
+    },
+    {
+      "symbol": "YELP",
+      "qdate": "2015-05-07",
+      "close_return": 0.23,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "WSJ: Yelp exploring a sale that could fetch >$3.5B; working with bankers. Confirmed M&A rumor keep.",
+      "locator": "https://www.reuters.com/article/business/consumer-review-website-operator-yelp-exploring-sale-wsj-idUSL4N0XY5UE/"
+    },
+    {
+      "symbol": "BIG",
+      "qdate": "2014-03-07",
+      "close_return": 0.2297,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q4 earnings beat plus $125M buyback. Earnings/financing, not keep 2/3/4.",
+      "locator": "https://www.investors.com/news/big-lots-shares-rise-on-earnings-amid-turnaround/"
+    },
+    {
+      "symbol": "SHOP",
+      "qdate": "2015-09-17",
+      "close_return": 0.2297,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Amazon partnership to help merchants set up online stores. Partnership, not keep 2/3/4.",
+      "locator": "https://www.bloomberg.com/news/articles/2015-09-17/amazon-teams-with-shopify-to-help-merchants-set-up-online-stores"
+    },
+    {
+      "symbol": "SJT",
+      "qdate": "2016-01-29",
+      "close_return": 0.2292,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Royalty trust move with oil bounce; no confirmed keep PR. Commodity, not keep 2/3/4.",
+      "locator": "https://markets.financialcontent.com/stocks/quote/historical?Language=english%2F1000&Month=2&Range=3&Symbol=321%3A968278&Year=2016"
+    },
+    {
+      "symbol": "CLR",
+      "qdate": "2016-11-30",
+      "close_return": 0.2288,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "OPEC production-cut agreement day / oil rally. Commodity/policy, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/CLR?date=2016-11-30&view=daily"
+    },
+    {
+      "symbol": "RMTI",
+      "qdate": "2013-09-13",
+      "close_return": 0.2284,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 3 CRUISE-2 SFP/Triferic met primary/key secondary endpoints in dialysis anemia. Class-3 trial keep.",
+      "locator": "https://www.biocentury.com/article/269903/rockwell-gains-on-more-phase-iii-anemia-data"
+    },
+    {
+      "symbol": "ATHN",
+      "qdate": "2016-12-15",
+      "close_return": 0.2283,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Investor Day: strong 2017 guidance and bookings outlook. Guidance/earnings, not keep 2/3/4.",
+      "locator": "https://app.hedgeye.com/insights/56040-athenahealth-why-it-s-up-20-today-and-why-40-upside-may-remain"
+    },
+    {
+      "symbol": "ALC",
+      "qdate": "2013-02-26",
+      "close_return": 0.2278,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "TPG definitive merger: $12.00 Class A / $12.90 Class B cash. Class-2 M&A keep.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/929994/000095015713000096/form-8k.htm"
+    },
+    {
+      "symbol": "BCPC",
+      "qdate": "2014-04-01",
+      "close_return": 0.2276,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Balchem as buyer agreed to acquire SensoryEffects for $567M cash. Acquirer deal, not target M&A keep.",
+      "locator": "https://www.fool.com/investing/general/2014/04/01/why-providence-service-balchem-and-castlight-healt.aspx"
+    },
+    {
+      "symbol": "WYNN",
+      "qdate": "2015-10-02",
+      "close_return": 0.2274,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Report China plans steps to revive Macau gaming. Policy/commodity-like sector, not keep 2/3/4.",
+      "locator": "https://www.afr.com/markets/equity-markets/wynn-surges-on-bets-china-to-boost-macau-gaming-sector-20151003-gk0fqc"
+    },
+    {
+      "symbol": "CZR",
+      "qdate": "2014-11-12",
+      "close_return": 0.2271,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "CEOC debt-restructuring / REIT conversion plan disclosed. Financing/restructuring, not keep 2/3/4.",
+      "locator": "https://www.dailyregister.com/20141118/business/caesars-shares-are-going-bonkers-czr/"
+    },
+    {
+      "symbol": "GALT",
+      "qdate": "2014-08-27",
+      "close_return": 0.2271,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR; bounce after prior Phase 1 NASH selloff. Unclassified, not keep 2/3/4.",
+      "locator": "https://investor.galectintherapeutics.com/news-releases/news-release-details/galectin-therapeutics-issues-statement-gr-md-02-development"
+    },
+    {
+      "symbol": "TEX",
+      "qdate": "2015-08-11",
+      "close_return": 0.2268,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "All-stock merger of equals with Konecranes; TEX shareholders ~60%. Combination/acquirer-side, not target M&A keep.",
+      "locator": "https://investors.terex.com/news/news-details/2015/Terex-and-Konecranes-to-Combine-in-an-All-Stock-Merger/default.aspx"
+    },
+    {
+      "symbol": "NE",
+      "qdate": "2016-03-04",
+      "close_return": 0.2263,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Offshore/oil rally on OPEC freeze talk. Commodity, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/NE?date=2016-03-04&view=daily"
+    },
+    {
+      "symbol": "TGTX",
+      "qdate": "2015-09-17",
+      "close_return": 0.2261,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA SPA agreement for Phase 3 UNITY-CLL of TG-1101+TGR-1202. Class-3 trial/FDA-path keep.",
+      "locator": "https://www.rttnews.com/2554182/tg-therapeutics-inc-tgtx-is-rising-on-fda-agreement.aspx"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2016-06-07",
+      "close_return": 0.2255,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA requested dystrophin biopsy data from eteplirsen confirmatory study (accelerated-approval path). Class-3 FDA-path keep.",
+      "locator": "https://www.fool.com/investing/2016/06/07/why-sarepta-therapeutics-shares-skyrocketed-today.aspx"
+    },
+    {
+      "symbol": "TRNX",
+      "qdate": "2013-08-07",
+      "close_return": 0.2253,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q2 results plus in-line FY guidance. Earnings, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2013/08/07/why-tornier-nv-shares-soared.aspx"
+    },
+    {
+      "symbol": "CRTO",
+      "qdate": "2014-08-29",
+      "close_return": 0.2251,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "French media: Publicis in talks to buy Criteo (later denied). Confirmed M&A rumor keep.",
+      "locator": "https://www.reuters.com/article/idUSKBN0GT1O920140829/"
+    },
+    {
+      "symbol": "LIN",
+      "qdate": "2014-03-21",
+      "close_return": 0.2248,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Media General definitive deal to acquire LIN Media (~$27.82/share, $1.6B). Class-2 M&A keep.",
+      "locator": "https://www.reuters.com/article/lifestyle/media-general-to-buy-lin-media-for-16-billion-idUSBREA2K0S7/"
     }
   ]
 }
