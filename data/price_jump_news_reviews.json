@@ -552,6 +552,276 @@
       "news_filter": "drop_other_not_234",
       "detail": "Volkswagen Truck & Bus $256M investment for 16.6% stake plus strategic alliance. Minority stake/alliance, not definitive takeout of Navistar.",
       "locator": "https://www.cnbc.com/2016/09/06/volkswagen-takes-256-million-navistar-stake-in-trucks-push.html"
+    },
+    {
+      "symbol": "CGEN",
+      "qdate": "2013-08-05",
+      "close_return": 0.445,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Bayer collaboration/license for two antibody cancer immunotherapies ($10M upfront, >$500M milestones). Partnership/license, not M&A of Compugen, trial readout, or tech breakthrough under keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2013/08/05/why-compugen-shares-skyrocketed.aspx"
+    },
+    {
+      "symbol": "CRC",
+      "qdate": "2016-11-30",
+      "close_return": 0.444,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "OPEC agreed ~1.2M bpd production cut; oil/E&P sector rally. Commodity/macro move, not keep 2/3/4.",
+      "locator": "https://valley.labusinessjournal.com/technology/energy/california-resources-rises-44-percent-opec-news/"
+    },
+    {
+      "symbol": "MMYT",
+      "qdate": "2016-10-18",
+      "close_return": 0.444,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "MakeMyTrip agreed to acquire/combine with ibibo Group (Naspers/Tencent) in all-stock deal; Naspers/Tencent become ~40% of MMYT. Acquirer M&A announcement is class-2.",
+      "locator": "https://www.reuters.com/article/world/makemytrip-expands-in-fast-growing-market-with-ibibo-buy-idUSKCN12I1RY/"
+    },
+    {
+      "symbol": "VNDA",
+      "qdate": "2013-07-30",
+      "close_return": 0.442,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA accepted tasimelteon NDA and granted priority review for Non-24 in totally blind; PDUFA 2014-01-31; AdCom tentatively 2013-11-14. Class-3 clinical/regulatory path milestone (8-K 8.01 same session).",
+      "locator": "https://www.prnewswire.com/news-releases/fda-accepts-tasimelteon-new-drug-application-for-priority-review-in-the-treatment-of-non-24-hour-disorder-in-the-totally-blind-217482571.html"
+    },
+    {
+      "symbol": "GOL",
+      "qdate": "2016-03-03",
+      "close_return": 0.432,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Brazil provisional measure raising foreign airline ownership cap 20%\u219249%; capital-structure/regulatory relief speculation, not keep 2/3/4.",
+      "locator": "https://oglobo.globo.com/economia/negocios/acoes-da-gol-disparam-apos-aumento-de-participacao-estrangeira-em-aereas-18786930"
+    },
+    {
+      "symbol": "PTCT",
+      "qdate": "2016-04-15",
+      "close_return": 0.432,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "NICE recommended Translarna (ataluren) for ambulatory nmDMD in England under managed-access agreement with NHS. Class-3 clinical/regulatory access success.",
+      "locator": "https://www.prnewswire.com/news-releases/nice-recommends-translarna-ataluren-for-the-treatment-of-patients-with-nonsense-mutation-duchenne-muscular-dystrophy-in-england-300252224.html"
+    },
+    {
+      "symbol": "CXW",
+      "qdate": "2016-11-09",
+      "close_return": 0.431,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Post-election rebound after Trump win; investors priced reversal of Obama DOJ private-prison phase-out. Political/macro, not keep 2/3/4.",
+      "locator": "https://www.cnbc.com/2016/11/09/prison-stocks-are-flying-on-trump-victory.html"
+    },
+    {
+      "symbol": "OMER",
+      "qdate": "2014-10-30",
+      "close_return": 0.431,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "CMS granted Omidria transitional pass-through reimbursement status. Commercial/reimbursement catalyst, not trial success, M&A, or tech breakthrough under keep 2/3/4.",
+      "locator": "https://www.prnewswire.com/news/omeros-corporation/?page=2"
+    },
+    {
+      "symbol": "RAD",
+      "qdate": "2015-10-27",
+      "close_return": 0.426,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Walgreens Boots Alliance agreed to acquire Rite Aid for $9/share cash (~$9.4B equity / $17.2B EV incl. debt); WSJ talks during session, definitive deal same day AH.",
+      "locator": "https://www.reuters.com/article/2015/10/27/us-rite-aid-m-a-walgreens-boots-idUSKCN0SL2D020151027/"
+    },
+    {
+      "symbol": "INSM",
+      "qdate": "2014-06-18",
+      "close_return": 0.426,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA granted Arikayce Breakthrough Therapy Designation for treatment-refractory NTM lung disease based on Phase 2 findings; 8-K 8.01 same session. Class-3 clinical/regulatory.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1104506/000110465914046644/a14-15617_18k.htm"
+    },
+    {
+      "symbol": "CEQP",
+      "qdate": "2016-04-21",
+      "close_return": 0.421,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "50/50 Stagecoach Gas JV with Con Edison; ConEd pays ~$975M for 50% of Crestwood Northeast pipeline/storage assets, plus distribution cut. Asset JV/stake sale, not takeout of CEQP under keep-2.",
+      "locator": "https://www.fool.com/investing/general/2016/04/21/why-crestwood-equity-partners-lp-stock-is-rocketin.aspx"
+    },
+    {
+      "symbol": "ASPX",
+      "qdate": "2015-03-30",
+      "close_return": 0.415,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Teva definitive tender offer to acquire Auspex Pharmaceuticals at $101/share cash (~$3.5B equity).",
+      "locator": "https://www.reuters.com/article/business/healthcare-pharmaceuticals/teva-to-buy-us-drug-developer-auspex-pharma-for-35-billion-idUSKBN0MQ12I/"
+    },
+    {
+      "symbol": "CTB",
+      "qdate": "2013-06-12",
+      "close_return": 0.411,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Apollo Tyres definitive agreement to acquire Cooper Tire for $35/share cash (~$2.5B).",
+      "locator": "https://www.reuters.com/article/world/us/indias-apollo-tyres-to-buy-cooper-tire-for-25-bln-idUSL3N0EO2CE/"
+    },
+    {
+      "symbol": "RVNC",
+      "qdate": "2015-10-29",
+      "close_return": 0.406,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "BELMONT Phase 2 interim: RT002 injectable achieved 100% Week-4 response and statistically superior ~6-month duration vs BOTOX Cosmetic; Phase 3 planned 2H16. 8-K 7.01/8.01 same session.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1479290/000119312515357039/d47972dex991.htm"
+    },
+    {
+      "symbol": "GDOT",
+      "qdate": "2015-06-23",
+      "close_return": 0.406,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Renewed 5-year Walmart MoneyCard program agreement plus $150M buyback. Commercial contract renewal (Item 1.01), not M&A takeout/trial/tech under keep 2/3/4.",
+      "locator": "https://www.forbes.com/sites/samanthasharf/2015/06/23/green-dot-shares-jump-30-on-renewed-walmart-partnership/"
+    },
+    {
+      "symbol": "ARRY",
+      "qdate": "2015-01-23",
+      "close_return": 0.405,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Array BioPharma (historical ARRY) agreed to acquire worldwide rights to encorafenib (LGX818) from Novartis. In-license/asset transfer, not M&A of Array as target, trial readout, or tech breakthrough. Note: modern cik2symbol may map a different ARRY issuer.",
+      "locator": "https://bizwest.com/2015/01/23/array-share-price-up-on-new-rights-to-developmental-melanoma-drug/"
+    },
+    {
+      "symbol": "VRTX",
+      "qdate": "2014-06-24",
+      "close_return": 0.404,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "TRAFFIC and TRANSPORT Phase 3: lumacaftor+ivacaftor met primary FEV1 endpoint in F508del homozygous CF; NDA/MAA planned 4Q14.",
+      "locator": "https://investors.vrtx.com/news-releases/news-release-details/two-24-week-phase-3-studies-lumacaftor-combination-ivacaftor-met"
+    },
+    {
+      "symbol": "DVAX",
+      "qdate": "2016-01-07",
+      "close_return": 0.402,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 3 HBV-23 HEPLISAV-B met co-primary safety and superior seroprotection vs Engerix-B (incl. diabetics); BLA resubmission targeted end-1Q16.",
+      "locator": "https://www.fool.com/investing/general/2016/01/07/dynavax-technologies-corporations-stock-bolts-high.aspx"
+    },
+    {
+      "symbol": "WPP",
+      "qdate": "2015-10-13",
+      "close_return": 0.402,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "SCA agreed to acquire Wausau Paper (then NYSE:WPP) for $10.25/share cash (~$513M). Note: modern cik2symbol may map WPP Group/other issuer.",
+      "locator": "https://www.fool.com/investing/general/2015/10/13/why-shares-of-wausau-paper-corp-popped-39-today.aspx"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2014-01-16",
+      "close_return": 0.401,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Eteplirsen Phase IIb 120-week update: continued 6MWT stabilization; 64.9m treatment benefit vs placebo/natural history framing at JPMorgan.",
+      "locator": "https://www.fiercebiotech.com/r-d/sarepta-jumps-on-fresh-optimism-for-an-early-approval"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2014-04-21",
+      "close_return": 0.393,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA guidance supporting potential accelerated-approval NDA for eteplirsen by year-end 2014 plus confirmatory study path; 8-K 8.01 same session.",
+      "locator": "https://investorrelations.sarepta.com/news-releases/news-release-details/sarepta-therapeutics-announces-plans-submit-new-drug-0"
+    },
+    {
+      "symbol": "TXMD",
+      "qdate": "2015-12-08",
+      "close_return": 0.387,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Rejoice Phase 3: TX-004HR vaginal estradiol met all four primary co-endpoints for postmenopausal dyspareunia/VVA; NDA planned 1H16.",
+      "locator": "https://www.fool.com/investing/general/2015/12/08/why-therapeuticsmd-inc-investors-are-rejoicing-tod.aspx"
+    },
+    {
+      "symbol": "ORMP",
+      "qdate": "2015-04-13",
+      "close_return": 0.387,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "First patient enrolled in ORMD-0801 glucose-clamp study; Phase IIb planned. Trial initiation/enrollment, not readout or keep 2/3/4 catalyst.",
+      "locator": "https://www.wsnewspublishers.com/files/154965_346mogokmwkghupuber5xc/"
+    },
+    {
+      "symbol": "LSI",
+      "qdate": "2013-12-16",
+      "close_return": 0.386,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Avago agreed to acquire LSI Corp for $11.15/share cash (~$6.6B). Note: modern cik2symbol may map a different LSI issuer.",
+      "locator": "https://www.reuters.com/article/business/avago-to-buy-storage-chipmaker-lsi-for-6-6-bln-idUSL3N0JV2SO/"
+    },
+    {
+      "symbol": "INVE",
+      "qdate": "2015-04-16",
+      "close_return": 0.385,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Identiv Cisco IoE/physical access-control partnership (iPAM). Commercial partnership, not keep 2/3/4.",
+      "locator": "https://investorplace.com/2015/04/inve-csco-identiv-inc-stocks-soars-on-cisco-systems-inc-deal/"
+    },
+    {
+      "symbol": "OCUL",
+      "qdate": "2016-02-17",
+      "close_return": 0.385,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "FDA meeting feedback on OTX-TP Phase 3 plan for glaucoma/OHT: placebo-controlled design without timolol arm; first Phase 3 planned 3Q16. Class-3 clinical/regulatory path.",
+      "locator": "https://www.fiercebiotech.com/biotech/ocular-therapeutix%E2%84%A2-announces-phase-3-clinical-development-plan-for-otx-tp-an-innovative"
+    },
+    {
+      "symbol": "SGMO",
+      "qdate": "2014-01-09",
+      "close_return": 0.383,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Biogen Idec collaboration/license on ZFP gene editing for sickle cell/beta-thalassemia ($20M upfront, ~$294M milestones). Partnership/license (Item 1.01), not M&A of Sangamo under keep-2.",
+      "locator": "https://www.fool.com/investing/general/2014/01/09/why-intercept-pharmaceuticals-sangamo-biosciences.aspx"
     }
   ]
 }
