@@ -1,0 +1,3122 @@
+[
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-10-22",
+    "acceptance_datetime": "2014-10-22T20:35:49.000Z",
+    "report_date": "2014-10-22",
+    "accession": "0001104659-14-073078",
+    "primary_document": "a14-22833_18k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-073078"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-10-23",
+    "acceptance_datetime": "2014-10-23T10:02:02.000Z",
+    "report_date": "2014-10-23",
+    "accession": "0001104659-14-073169",
+    "primary_document": "a14-22833_28k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-14-073169"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-10-31",
+    "acceptance_datetime": "2014-10-31T13:01:30.000Z",
+    "report_date": "2014-10-31",
+    "accession": "0001104659-14-075435",
+    "primary_document": "a14-23343_18k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-14-075435"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-11-18",
+    "acceptance_datetime": "2014-11-18T21:19:10.000Z",
+    "report_date": "2014-11-17",
+    "accession": "0001104659-14-081676",
+    "primary_document": "a14-24694_18k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02; accession=0001104659-14-081676"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.01,5.02,5.03,9.01",
+    "filing_date": "2014-12-01",
+    "acceptance_datetime": "2014-12-01T22:20:29.000Z",
+    "report_date": "2014-11-24",
+    "accession": "0001104659-14-084170",
+    "primary_document": "a14-25233_18k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,5.01,5.02,5.03,9.01; accession=0001104659-14-084170"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2014-12-02",
+    "acceptance_datetime": "2014-12-02T22:22:43.000Z",
+    "report_date": "2014-12-01",
+    "accession": "0001104659-14-084461",
+    "primary_document": "a14-25493_18k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-14-084461"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2014-12-17",
+    "acceptance_datetime": "2014-12-17T22:21:07.000Z",
+    "report_date": "2014-12-17",
+    "accession": "0001104659-14-087378",
+    "primary_document": "a14-26397_18k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001104659-14-087378"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-01-07",
+    "acceptance_datetime": "2015-01-07T14:25:13.000Z",
+    "report_date": "2015-01-07",
+    "accession": "0001609253-15-000003",
+    "primary_document": "form8-kcrchedge2010515.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-15-000003"
+  },
+  {
+    "form": "8-K/A",
+    "items": "7.01",
+    "filing_date": "2015-01-07",
+    "acceptance_datetime": "2015-01-07T17:09:52.000Z",
+    "report_date": "2015-01-07",
+    "accession": "0001628280-15-000056",
+    "primary_document": "crcform8-kxahedge2.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01; accession=0001628280-15-000056"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2015-02-10",
+    "acceptance_datetime": "2015-02-10T22:12:06.000Z",
+    "report_date": "2015-02-06",
+    "accession": "0001609253-15-000009",
+    "primary_document": "crcform8-kfullvestxdoublet.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,9.01; accession=0001609253-15-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-02-19",
+    "acceptance_datetime": "2015-02-19T21:03:18.000Z",
+    "report_date": "2015-02-19",
+    "accession": "0001609253-15-000012",
+    "primary_document": "form8-kcrcearningsreleasef.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-15-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-03-02",
+    "acceptance_datetime": "2015-03-02T19:09:24.000Z",
+    "report_date": "2015-03-02",
+    "accession": "0001609253-15-000021",
+    "primary_document": "form8-kkehrappointment0302.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02; accession=0001609253-15-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-03-24",
+    "acceptance_datetime": "2015-03-24T00:17:01.000Z",
+    "report_date": "2015-03-23",
+    "accession": "0001628280-15-001895",
+    "primary_document": "crcform8-k43rdannualenergy.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001628280-15-001895"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2015-04-30",
+    "acceptance_datetime": "2015-04-30T20:04:25.000Z",
+    "report_date": "2015-04-30",
+    "accession": "0001609253-15-000056",
+    "primary_document": "form8-kearningsrelease2015.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02; accession=0001609253-15-000056"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-05-12",
+    "acceptance_datetime": "2015-05-12T15:49:38.000Z",
+    "report_date": "2015-05-12",
+    "accession": "0001609253-15-000077",
+    "primary_document": "draftform8-kelectionresult.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.07; accession=0001609253-15-000077"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-06-30",
+    "acceptance_datetime": "2015-06-30T01:35:35.000Z",
+    "report_date": "2015-06-29",
+    "accession": "0001609253-15-000079",
+    "primary_document": "form8-ktudorpickeringholtc.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-15-000079"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-07-13",
+    "acceptance_datetime": "2015-07-13T13:06:13.000Z",
+    "report_date": "2015-07-13",
+    "accession": "0001609253-15-000081",
+    "primary_document": "form8-kjulycorporatepresen.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-15-000081"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-08-06",
+    "acceptance_datetime": "2015-08-06T20:00:16.000Z",
+    "report_date": "2015-08-06",
+    "accession": "0001609253-15-000098",
+    "primary_document": "form8-kcrcearningsrelease2.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-15-000098"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-09-09",
+    "acceptance_datetime": "2015-09-09T00:31:43.000Z",
+    "report_date": "2015-09-08",
+    "accession": "0001609253-15-000136",
+    "primary_document": "form8-kbarclaysenergypower.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-15-000136"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-10-13",
+    "acceptance_datetime": "2015-10-13T14:01:08.000Z",
+    "report_date": "2015-10-13",
+    "accession": "0001609253-15-000142",
+    "primary_document": "form8-kanalystinvestorday1.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-15-000142"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-10-14",
+    "acceptance_datetime": "2015-10-14T14:01:17.000Z",
+    "report_date": "2015-10-14",
+    "accession": "0001609253-15-000146",
+    "primary_document": "form8-kanalystinvestordayp.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-15-000146"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-11-05",
+    "acceptance_datetime": "2015-11-05T21:00:31.000Z",
+    "report_date": "2015-11-05",
+    "accession": "0001609253-15-000165",
+    "primary_document": "form8-kcrcearningsrelease2.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-15-000165"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2015-11-10",
+    "acceptance_datetime": "2015-11-10T20:08:50.000Z",
+    "report_date": "2015-11-04",
+    "accession": "0001609253-15-000168",
+    "primary_document": "form8-kcrcamendedandrestat.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.03,9.01; accession=0001609253-15-000168"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-11-12",
+    "acceptance_datetime": "2015-11-12T22:13:40.000Z",
+    "report_date": "2015-11-12",
+    "accession": "0001609253-15-000170",
+    "primary_document": "form8-kcrcexchangelaunch.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-15-000170"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-11-27",
+    "acceptance_datetime": "2015-11-26T02:19:10.000Z",
+    "report_date": "2015-11-25",
+    "accession": "0001609253-15-000172",
+    "primary_document": "form8-kcrcexchangelaunchii.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-15-000172"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-12-02",
+    "acceptance_datetime": "2015-12-02T15:23:21.000Z",
+    "report_date": "2015-12-02",
+    "accession": "0001609253-15-000174",
+    "primary_document": "form8-kearlybirdpr.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-15-000174"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-12-11",
+    "acceptance_datetime": "2015-12-11T16:45:57.000Z",
+    "report_date": "2015-12-11",
+    "accession": "0001609253-15-000177",
+    "primary_document": "form8-kexpirationfinalresu.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-15-000177"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2015-12-18",
+    "acceptance_datetime": "2015-12-18T00:51:15.000Z",
+    "report_date": "2015-12-17",
+    "accession": "0001609253-15-000179",
+    "primary_document": "form8-kcrcexchangeindenture.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001609253-15-000179"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2016-02-16",
+    "acceptance_datetime": "2016-02-16T19:39:49.000Z",
+    "report_date": "2016-02-11",
+    "accession": "0001609253-16-000184",
+    "primary_document": "form8-kdepartureofdirector.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02; accession=0001609253-16-000184"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2016-02-23",
+    "acceptance_datetime": "2016-02-23T21:38:30.000Z",
+    "report_date": "2016-02-23",
+    "accession": "0001609253-16-000186",
+    "primary_document": "form8-kthirdamendmentcredi.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-16-000186"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01",
+    "filing_date": "2016-02-24",
+    "acceptance_datetime": "2016-02-24T14:16:39.000Z",
+    "report_date": "2016-02-23",
+    "accession": "0001609253-16-000188",
+    "primary_document": "form8-kathirdamendmentcred.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01; accession=0001609253-16-000188"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-29",
+    "acceptance_datetime": "2016-02-29T21:25:42.000Z",
+    "report_date": "2016-02-29",
+    "accession": "0001609253-16-000192",
+    "primary_document": "form8-kcrcearningsreleasef.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-16-000192"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-03-22",
+    "acceptance_datetime": "2016-03-22T21:20:48.000Z",
+    "report_date": "2016-03-22",
+    "accession": "0001609253-16-000202",
+    "primary_document": "crcform8-k44thscotiahoward.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-16-000202"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2016-04-22",
+    "acceptance_datetime": "2016-04-22T20:30:15.000Z",
+    "report_date": "2016-04-22",
+    "accession": "0001609253-16-000204",
+    "primary_document": "form8-kfourthamendmentcred.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-16-000204"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2016-05-05",
+    "acceptance_datetime": "2016-05-05T20:22:16.000Z",
+    "report_date": "2016-05-04",
+    "accession": "0001609253-16-000211",
+    "primary_document": "form8-kcrcearningsrelease2.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001609253-16-000211"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,5.02,5.07",
+    "filing_date": "2016-05-09",
+    "acceptance_datetime": "2016-05-09T21:00:18.000Z",
+    "report_date": "2016-05-09",
+    "accession": "0001609253-16-000217",
+    "primary_document": "a2016annualshareholderresu.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=3.02,5.02,5.07; accession=0001609253-16-000217"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2016-06-03",
+    "acceptance_datetime": "2016-06-03T17:32:27.000Z",
+    "report_date": "2016-06-03",
+    "accession": "0001609253-16-000271",
+    "primary_document": "finaldraft8-kamendedrestat.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.03,9.01; accession=0001609253-16-000271"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-07-01",
+    "acceptance_datetime": "2016-07-01T01:50:32.000Z",
+    "report_date": "2016-06-30",
+    "accession": "0001609253-16-000273",
+    "primary_document": "crcminitender.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-16-000273"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-08-01",
+    "acceptance_datetime": "2016-08-01T11:46:03.000Z",
+    "report_date": "2016-07-28",
+    "accession": "0001609253-16-000279",
+    "primary_document": "form8-kcrctenderlaunch0801.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-16-000279"
+  },
+  {
+    "form": "8-K/A",
+    "items": "7.01,9.01",
+    "filing_date": "2016-08-01",
+    "acceptance_datetime": "2016-08-01T17:05:55.000Z",
+    "report_date": "2016-08-01",
+    "accession": "0001609253-16-000283",
+    "primary_document": "form8acrctenderlaunch.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-16-000283"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-08-04",
+    "acceptance_datetime": "2016-08-04T11:30:48.000Z",
+    "report_date": "2016-08-04",
+    "accession": "0001609253-16-000286",
+    "primary_document": "form8-ksecondqtr2016er.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-16-000286"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2016-08-17",
+    "acceptance_datetime": "2016-08-17T21:27:00.000Z",
+    "report_date": "2016-08-17",
+    "accession": "0001609253-16-000328",
+    "primary_document": "form8-ktrojanearlysettleme.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001609253-16-000328"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2016-08-18",
+    "acceptance_datetime": "2016-08-18T16:18:34.000Z",
+    "report_date": "2016-08-18",
+    "accession": "0001609253-16-000330",
+    "primary_document": "trojanearlysettlement8ka08.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=9.01; accession=0001609253-16-000330"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-09-06",
+    "acceptance_datetime": "2016-09-06T14:34:27.000Z",
+    "report_date": "2016-09-06",
+    "accession": "0001609253-16-000332",
+    "primary_document": "form8-kbarclaysenergypower.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-16-000332"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2016-10-13",
+    "acceptance_datetime": "2016-10-13T20:32:23.000Z",
+    "report_date": "2016-10-13",
+    "accession": "0001609253-16-000334",
+    "primary_document": "form8-ksecuritiesandmarket.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=3.02; accession=0001609253-16-000334"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-11-03",
+    "acceptance_datetime": "2016-11-03T20:30:11.000Z",
+    "report_date": "2016-11-03",
+    "accession": "0001609253-16-000352",
+    "primary_document": "form8kcrc2016pressreleasee.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-16-000352"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-11-16",
+    "acceptance_datetime": "2016-11-16T20:56:27.000Z",
+    "report_date": "2016-11-16",
+    "accession": "0001609253-16-000356",
+    "primary_document": "form8-kbankamericamerrilll.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-16-000356"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-01-04",
+    "acceptance_datetime": "2017-01-04T19:50:48.000Z",
+    "report_date": "2017-01-04",
+    "accession": "0001609253-17-000004",
+    "primary_document": "form8-kgoldmansachsglobale.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-17-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,5.02,8.01,9.01",
+    "filing_date": "2017-02-16",
+    "acceptance_datetime": "2017-02-16T21:19:38.000Z",
+    "report_date": "2017-02-16",
+    "accession": "0001609253-17-000044",
+    "primary_document": "form8-ker6thsloanxmcmahonb.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.02,5.02,8.01,9.01; accession=0001609253-17-000044"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-03-06",
+    "acceptance_datetime": "2017-03-06T16:59:28.000Z",
+    "report_date": "2017-03-06",
+    "accession": "0001609253-17-000053",
+    "primary_document": "form8-kraymondjamesassocia.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-17-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-03-22",
+    "acceptance_datetime": "2017-03-22T14:44:48.000Z",
+    "report_date": "2017-03-22",
+    "accession": "0001609253-17-000055",
+    "primary_document": "form8-kanalystinvestorday0.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-17-000055"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-04-19",
+    "acceptance_datetime": "2017-04-19T11:00:17.000Z",
+    "report_date": "2017-04-19",
+    "accession": "0001609253-17-000058",
+    "primary_document": "form8kmira041117.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-17-000058"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2017-05-01",
+    "acceptance_datetime": "2017-05-01T19:29:50.000Z",
+    "report_date": "2017-05-01",
+    "accession": "0001609253-17-000060",
+    "primary_document": "form8-kfuturecharteramendm.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01; accession=0001609253-17-000060"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-05-04",
+    "acceptance_datetime": "2017-05-04T20:15:30.000Z",
+    "report_date": "2017-05-03",
+    "accession": "0001609253-17-000063",
+    "primary_document": "form8-ker2017q1.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-17-000063"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2017-05-12",
+    "acceptance_datetime": "2017-05-11T22:09:07.000Z",
+    "report_date": "2017-05-11",
+    "accession": "0001609253-17-000081",
+    "primary_document": "form8-kelectionresults0510.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.07; accession=0001609253-17-000081"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-05-24",
+    "acceptance_datetime": "2017-05-24T20:30:17.000Z",
+    "report_date": "2017-05-24",
+    "accession": "0001609253-17-000100",
+    "primary_document": "form8-khavner051917.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02; accession=0001609253-17-000100"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-08-03",
+    "acceptance_datetime": "2017-08-03T20:24:44.000Z",
+    "report_date": "2017-08-03",
+    "accession": "0001609253-17-000127",
+    "primary_document": "form8-ksecondqtr2017er.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-17-000127"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-08-04",
+    "acceptance_datetime": "2017-08-04T21:18:27.000Z",
+    "report_date": "2017-08-04",
+    "accession": "0001609253-17-000130",
+    "primary_document": "form8-kpowersappointment08.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02; accession=0001609253-17-000130"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-11-06",
+    "acceptance_datetime": "2017-11-06T21:26:37.000Z",
+    "report_date": "2017-11-06",
+    "accession": "0001609253-17-000159",
+    "primary_document": "form8-kthirdqtr2017er.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-17-000159"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-11-08",
+    "acceptance_datetime": "2017-11-08T02:58:34.000Z",
+    "report_date": "2017-11-07",
+    "accession": "0001609253-17-000162",
+    "primary_document": "form8kamendmentcreditagree.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-17-000162"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2017-11-13",
+    "acceptance_datetime": "2017-11-10T02:01:45.000Z",
+    "report_date": "2017-11-09",
+    "accession": "0001628280-17-011374",
+    "primary_document": "a201711097thamendment8-kfi.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001628280-17-011374"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2017-11-17",
+    "acceptance_datetime": "2017-11-17T21:19:35.000Z",
+    "report_date": "2017-11-17",
+    "accession": "0001193125-17-346967",
+    "primary_document": "d498080d8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-17-346967"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-01-19",
+    "acceptance_datetime": "2018-01-19T21:47:58.000Z",
+    "report_date": "2018-01-16",
+    "accession": "0001609253-18-000001",
+    "primary_document": "a20180116barnes8-kfinal.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02; accession=0001609253-18-000001"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,8.01,9.01",
+    "filing_date": "2018-02-07",
+    "acceptance_datetime": "2018-02-07T21:17:21.000Z",
+    "report_date": "2018-02-07",
+    "accession": "0001609253-18-000004",
+    "primary_document": "crcform8k2-7x2018.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,3.02,8.01,9.01; accession=0001609253-18-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-26",
+    "acceptance_datetime": "2018-02-26T21:30:19.000Z",
+    "report_date": "2018-02-26",
+    "accession": "0001609253-18-000040",
+    "primary_document": "form8kye2017ander.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-18-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01,9.01",
+    "filing_date": "2018-04-09",
+    "acceptance_datetime": "2018-04-09T21:04:45.000Z",
+    "report_date": "2018-04-09",
+    "accession": "0001609253-18-000051",
+    "primary_document": "form8-kelkhillsacquisition.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=4.01,9.01; accession=0001609253-18-000051"
+  },
+  {
+    "form": "8-K/A",
+    "items": "3.02,8.01,9.01",
+    "filing_date": "2018-04-11",
+    "acceptance_datetime": "2018-04-11T20:47:39.000Z",
+    "report_date": "2018-04-11",
+    "accession": "0001609253-18-000053",
+    "primary_document": "form8-kaelkhillsacquisition.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=3.02,8.01,9.01; accession=0001609253-18-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-05-03",
+    "acceptance_datetime": "2018-05-03T20:31:33.000Z",
+    "report_date": "2018-05-03",
+    "accession": "0001609253-18-000055",
+    "primary_document": "a8k2018q1.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-18-000055"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-05-14",
+    "acceptance_datetime": "2018-05-14T21:14:22.000Z",
+    "report_date": "2018-05-09",
+    "accession": "0001609253-18-000082",
+    "primary_document": "form8-kelectionresultsmay2.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.07; accession=0001609253-18-000082"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-08-02",
+    "acceptance_datetime": "2018-08-02T20:30:55.000Z",
+    "report_date": "2018-08-02",
+    "accession": "0001609253-18-000110",
+    "primary_document": "a20188kpr2018secondqtr.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-18-000110"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2018-08-24",
+    "acceptance_datetime": "2018-08-24T20:18:13.000Z",
+    "report_date": "2018-08-20",
+    "accession": "0001609253-18-000153",
+    "primary_document": "a201808form8kitem101and901.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001609253-18-000153"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2018-09-18",
+    "acceptance_datetime": "2018-09-18T20:53:55.000Z",
+    "report_date": "2018-09-18",
+    "accession": "0001609253-18-000157",
+    "primary_document": "a20180918form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-18-000157"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-10-03",
+    "acceptance_datetime": "2018-10-03T12:23:15.000Z",
+    "report_date": "2018-10-03",
+    "accession": "0001609253-18-000159",
+    "primary_document": "a20181003form8-k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-18-000159"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-11-01",
+    "acceptance_datetime": "2018-11-01T20:23:45.000Z",
+    "report_date": "2018-11-01",
+    "accession": "0001609253-18-000161",
+    "primary_document": "a20181101form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-18-000161"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,9.01",
+    "filing_date": "2018-11-16",
+    "acceptance_datetime": "2018-11-16T22:06:07.000Z",
+    "report_date": "2018-11-16",
+    "accession": "0001609253-18-000171",
+    "primary_document": "a20181116form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,1.02,9.01; accession=0001609253-18-000171"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-27",
+    "acceptance_datetime": "2019-02-27T21:47:28.000Z",
+    "report_date": "2019-02-27",
+    "accession": "0001609253-19-000056",
+    "primary_document": "a20190227form8-k4qandye201.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-19-000056"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-02",
+    "acceptance_datetime": "2019-05-02T20:32:26.000Z",
+    "report_date": "2019-05-02",
+    "accession": "0001609253-19-000063",
+    "primary_document": "a201905028k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-19-000063"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2019-05-14",
+    "acceptance_datetime": "2019-05-13T21:37:26.000Z",
+    "report_date": "2019-05-08",
+    "accession": "0001609253-19-000070",
+    "primary_document": "a20190508form8-k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.07; accession=0001609253-19-000070"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-05-16",
+    "acceptance_datetime": "2019-05-16T21:27:01.000Z",
+    "report_date": "2019-05-08",
+    "accession": "0001609253-19-000090",
+    "primary_document": "a20190508form8-kltip.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02; accession=0001609253-19-000090"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,7.01,9.01",
+    "filing_date": "2019-07-23",
+    "acceptance_datetime": "2019-07-23T10:34:21.000Z",
+    "report_date": "2019-07-22",
+    "accession": "0001609253-19-000118",
+    "primary_document": "a20190722form8-k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=3.02,7.01,9.01; accession=0001609253-19-000118"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-08-01",
+    "acceptance_datetime": "2019-08-01T20:30:17.000Z",
+    "report_date": "2019-08-01",
+    "accession": "0001609253-19-000121",
+    "primary_document": "a201908018k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-19-000121"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2019-09-03",
+    "acceptance_datetime": "2019-09-03T20:47:52.000Z",
+    "report_date": "2019-08-28",
+    "accession": "0001609253-19-000143",
+    "primary_document": "a20190828form8-k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-19-000143"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2019-09-20",
+    "acceptance_datetime": "2019-09-19T22:58:40.000Z",
+    "report_date": "2019-09-19",
+    "accession": "0001609253-19-000145",
+    "primary_document": "a20190919form8-kfd.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01; accession=0001609253-19-000145"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-10-18",
+    "acceptance_datetime": "2019-10-18T20:24:41.000Z",
+    "report_date": "2019-10-18",
+    "accession": "0001609253-19-000147",
+    "primary_document": "a20191018form8-k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-19-000147"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2019-11-01",
+    "acceptance_datetime": "2019-11-01T20:15:45.000Z",
+    "report_date": "2019-11-01",
+    "accession": "0001609253-19-000150",
+    "primary_document": "a20191101form8-k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01; accession=0001609253-19-000150"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-11-04",
+    "acceptance_datetime": "2019-11-04T21:27:43.000Z",
+    "report_date": "2019-10-31",
+    "accession": "0001609253-19-000153",
+    "primary_document": "q38k2019.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-19-000153"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2019-11-20",
+    "acceptance_datetime": "2019-11-20T02:21:00.000Z",
+    "report_date": "2019-11-19",
+    "accession": "0001609253-19-000156",
+    "primary_document": "a20191119form8-k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01; accession=0001609253-19-000156"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,7.01,9.01",
+    "filing_date": "2020-02-21",
+    "acceptance_datetime": "2020-02-21T11:31:41.000Z",
+    "report_date": "2020-02-20",
+    "accession": "0001609253-20-000038",
+    "primary_document": "a20200220form8-k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=3.02,7.01,9.01; accession=0001609253-20-000038"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-02-26",
+    "acceptance_datetime": "2020-02-26T21:33:41.000Z",
+    "report_date": "2020-02-26",
+    "accession": "0001609253-20-000064",
+    "primary_document": "q48k2019.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-20-000064"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-03-05",
+    "acceptance_datetime": "2020-03-05T14:54:30.000Z",
+    "report_date": "2020-03-05",
+    "accession": "0001609253-20-000071",
+    "primary_document": "a20200305form8-k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-20-000071"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-03-10",
+    "acceptance_datetime": "2020-03-10T01:09:49.000Z",
+    "report_date": "2020-03-09",
+    "accession": "0001609253-20-000075",
+    "primary_document": "a20200309item8.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-20-000075"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-03-16",
+    "acceptance_datetime": "2020-03-16T10:31:36.000Z",
+    "report_date": "2020-03-16",
+    "accession": "0001609253-20-000078",
+    "primary_document": "a20200316form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-20-000078"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2020-03-24",
+    "acceptance_datetime": "2020-03-24T20:48:13.000Z",
+    "report_date": "2020-03-20",
+    "accession": "0001609253-20-000080",
+    "primary_document": "a20200320form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,9.01; accession=0001609253-20-000080"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-03-27",
+    "acceptance_datetime": "2020-03-27T21:13:34.000Z",
+    "report_date": "2020-03-27",
+    "accession": "0001609253-20-000090",
+    "primary_document": "a20200327form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-20-000090"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-05-06",
+    "acceptance_datetime": "2020-05-06T20:18:23.000Z",
+    "report_date": "2020-04-30",
+    "accession": "0001609253-20-000094",
+    "primary_document": "a20200430form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-20-000094"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01",
+    "filing_date": "2020-05-11",
+    "acceptance_datetime": "2020-05-11T21:05:08.000Z",
+    "report_date": "2020-05-06",
+    "accession": "0001609253-20-000096",
+    "primary_document": "a202005form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.07,8.01; accession=0001609253-20-000096"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-05-26",
+    "acceptance_datetime": "2020-05-26T20:43:04.000Z",
+    "report_date": "2020-05-19",
+    "accession": "0001609253-20-000098",
+    "primary_document": "a20200519form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02; accession=0001609253-20-000098"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-06-08",
+    "acceptance_datetime": "2020-06-08T12:14:10.000Z",
+    "report_date": "2020-06-02",
+    "accession": "0001609253-20-000100",
+    "primary_document": "a20200602form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-20-000100"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-06-15",
+    "acceptance_datetime": "2020-06-15T12:07:19.000Z",
+    "report_date": "2020-06-12",
+    "accession": "0001609253-20-000102",
+    "primary_document": "a20200612form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-20-000102"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-07-02",
+    "acceptance_datetime": "2020-07-02T20:32:46.000Z",
+    "report_date": "2020-06-30",
+    "accession": "0001609253-20-000108",
+    "primary_document": "a20200630form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-20-000108"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2020-07-08",
+    "acceptance_datetime": "2020-07-08T20:31:13.000Z",
+    "report_date": "2020-07-07",
+    "accession": "0001609253-20-000110",
+    "primary_document": "a20200707form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01; accession=0001609253-20-000110"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2020-07-13",
+    "acceptance_datetime": "2020-07-13T12:25:10.000Z",
+    "report_date": "2020-07-12",
+    "accession": "0001609253-20-000112",
+    "primary_document": "a20200712form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01; accession=0001609253-20-000112"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.03,2.04,7.01,9.01",
+    "filing_date": "2020-07-16",
+    "acceptance_datetime": "2020-07-16T21:13:53.000Z",
+    "report_date": "2020-07-15",
+    "accession": "0001609253-20-000114",
+    "primary_document": "a20200715form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,1.03,2.04,7.01,9.01; accession=0001609253-20-000114"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.01,9.01",
+    "filing_date": "2020-07-17",
+    "acceptance_datetime": "2020-07-17T21:16:32.000Z",
+    "report_date": "2020-07-15",
+    "accession": "0001609253-20-000116",
+    "primary_document": "a20200715aform8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,3.01,9.01; accession=0001609253-20-000116"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-07-24",
+    "acceptance_datetime": "2020-07-24T20:56:19.000Z",
+    "report_date": "2020-07-23",
+    "accession": "0001609253-20-000118",
+    "primary_document": "a20200723form8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-20-000118"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2020-08-18",
+    "acceptance_datetime": "2020-08-18T20:18:59.000Z",
+    "report_date": "2020-08-14",
+    "accession": "0001609253-20-000125",
+    "primary_document": "crc-20200814.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,9.01; accession=0001609253-20-000125"
+  },
+  {
+    "form": "8-K",
+    "items": "1.03,9.01",
+    "filing_date": "2020-10-19",
+    "acceptance_datetime": "2020-10-19T20:29:21.000Z",
+    "report_date": "2020-10-13",
+    "accession": "0001609253-20-000133",
+    "primary_document": "crc-20201013.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.03,9.01; accession=0001609253-20-000133"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,8.01,9.01",
+    "filing_date": "2020-10-27",
+    "acceptance_datetime": "2020-10-27T20:45:08.000Z",
+    "report_date": "2020-10-22",
+    "accession": "0001609253-20-000141",
+    "primary_document": "crc-20201022.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,7.01,8.01,9.01; accession=0001609253-20-000141"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.01,2.03,3.02,3.03,5.01,5.03,9.01",
+    "filing_date": "2020-11-02",
+    "acceptance_datetime": "2020-11-02T21:19:28.000Z",
+    "report_date": "2020-10-27",
+    "accession": "0001609253-20-000193",
+    "primary_document": "crc-20201027.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,1.02,2.01,2.03,3.02,3.03,5.01,5.03,9.01; accession=0001609253-20-000193"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-11-05",
+    "acceptance_datetime": "2020-11-05T21:32:38.000Z",
+    "report_date": "2020-11-05",
+    "accession": "0001609253-20-000210",
+    "primary_document": "crc-20201105.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-20-000210"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2020-11-16",
+    "acceptance_datetime": "2020-11-16T13:05:16.000Z",
+    "report_date": "2020-11-09",
+    "accession": "0001609253-20-000216",
+    "primary_document": "crc-20201109.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01; accession=0001609253-20-000216"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-12-04",
+    "acceptance_datetime": "2020-12-03T23:12:19.000Z",
+    "report_date": "2020-12-03",
+    "accession": "0001609253-20-000223",
+    "primary_document": "crc-20201203.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-20-000223"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-12-07",
+    "acceptance_datetime": "2020-12-07T13:31:59.000Z",
+    "report_date": "2020-12-07",
+    "accession": "0001609253-20-000226",
+    "primary_document": "crc-20201207.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-20-000226"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2020-12-21",
+    "acceptance_datetime": "2020-12-21T21:15:53.000Z",
+    "report_date": "2020-12-21",
+    "accession": "0001609253-20-000230",
+    "primary_document": "crc-20201221.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,9.01; accession=0001609253-20-000230"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2021-01-13",
+    "acceptance_datetime": "2021-01-13T13:41:02.000Z",
+    "report_date": "2021-01-13",
+    "accession": "0001609253-21-000002",
+    "primary_document": "crc-20210113.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001609253-21-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-01-15",
+    "acceptance_datetime": "2021-01-14T23:19:59.000Z",
+    "report_date": "2021-01-14",
+    "accession": "0001609253-21-000007",
+    "primary_document": "crc-20210114.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-21-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,5.02,7.01,9.01",
+    "filing_date": "2021-01-21",
+    "acceptance_datetime": "2021-01-21T21:34:18.000Z",
+    "report_date": "2021-01-20",
+    "accession": "0001609253-21-000010",
+    "primary_document": "crc-20210120.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.03,5.02,7.01,9.01; accession=0001609253-21-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2021-01-22",
+    "acceptance_datetime": "2021-01-22T21:28:02.000Z",
+    "report_date": "2021-01-18",
+    "accession": "0001609253-21-000014",
+    "primary_document": "crc-20210118.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,9.01; accession=0001609253-21-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-03-11",
+    "acceptance_datetime": "2021-03-11T21:18:40.000Z",
+    "report_date": "2021-03-11",
+    "accession": "0001609253-21-000045",
+    "primary_document": "crc-20210311.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-21-000045"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-03-18",
+    "acceptance_datetime": "2021-03-18T12:40:45.000Z",
+    "report_date": "2021-03-18",
+    "accession": "0001609253-21-000053",
+    "primary_document": "crc-20210318.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-21-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2021-03-22",
+    "acceptance_datetime": "2021-03-22T20:32:54.000Z",
+    "report_date": "2021-03-22",
+    "accession": "0001609253-21-000055",
+    "primary_document": "crc-20210322.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001609253-21-000055"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-05-06",
+    "acceptance_datetime": "2021-05-06T20:32:16.000Z",
+    "report_date": "2021-04-30",
+    "accession": "0001609253-21-000066",
+    "primary_document": "crc-20210430.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02; accession=0001609253-21-000066"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2021-05-11",
+    "acceptance_datetime": "2021-05-10T23:58:00.000Z",
+    "report_date": "2021-05-07",
+    "accession": "0001609253-21-000068",
+    "primary_document": "crc-20210507.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-21-000068"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.07,9.01",
+    "filing_date": "2021-05-13",
+    "acceptance_datetime": "2021-05-13T13:06:24.000Z",
+    "report_date": "2021-05-12",
+    "accession": "0001609253-21-000071",
+    "primary_document": "crc-20210512.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,5.07,9.01; accession=0001609253-21-000071"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2021-06-11",
+    "acceptance_datetime": "2021-06-11T20:59:34.000Z",
+    "report_date": "2021-06-08",
+    "accession": "0001609253-21-000087",
+    "primary_document": "crc-20210608.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,9.01; accession=0001609253-21-000087"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-06-14",
+    "acceptance_datetime": "2021-06-14T13:03:14.000Z",
+    "report_date": "2021-06-14",
+    "accession": "0001609253-21-000089",
+    "primary_document": "crc-20210614.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-21-000089"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2021-08-05",
+    "acceptance_datetime": "2021-08-05T20:18:40.000Z",
+    "report_date": "2021-08-05",
+    "accession": "0001609253-21-000100",
+    "primary_document": "crc-20210805.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001609253-21-000100"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-09-09",
+    "acceptance_datetime": "2021-09-09T21:05:21.000Z",
+    "report_date": "2021-09-09",
+    "accession": "0001609253-21-000107",
+    "primary_document": "crc-20210909.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-21-000107"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2021-10-05",
+    "acceptance_datetime": "2021-10-05T17:30:18.000Z",
+    "report_date": "2021-10-05",
+    "accession": "0001609253-21-000109",
+    "primary_document": "crc-20211005.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01; accession=0001609253-21-000109"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-10-06",
+    "acceptance_datetime": "2021-10-06T10:01:11.000Z",
+    "report_date": "2021-10-05",
+    "accession": "0001609253-21-000112",
+    "primary_document": "crc-20211005.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-21-000112"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-12",
+    "acceptance_datetime": "2021-11-12T14:00:28.000Z",
+    "report_date": "2021-11-11",
+    "accession": "0001609253-21-000115",
+    "primary_document": "crc-20211111.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-21-000115"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-12-09",
+    "acceptance_datetime": "2021-12-09T14:00:35.000Z",
+    "report_date": "2021-12-09",
+    "accession": "0001609253-21-000121",
+    "primary_document": "crc-20211209.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-21-000121"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-12-15",
+    "acceptance_datetime": "2021-12-15T21:30:43.000Z",
+    "report_date": "2021-12-14",
+    "accession": "0001609253-21-000124",
+    "primary_document": "crc-20211214.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02; accession=0001609253-21-000124"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2022-02-16",
+    "acceptance_datetime": "2022-02-16T21:50:27.000Z",
+    "report_date": "2022-02-11",
+    "accession": "0001609253-22-000004",
+    "primary_document": "crc-20220211.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-22-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-02-24",
+    "acceptance_datetime": "2022-02-24T14:09:33.000Z",
+    "report_date": "2022-02-24",
+    "accession": "0001609253-22-000008",
+    "primary_document": "crc-20220224.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-22-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-05-05",
+    "acceptance_datetime": "2022-05-05T12:53:00.000Z",
+    "report_date": "2022-05-05",
+    "accession": "0001609253-22-000026",
+    "primary_document": "crc-20220505.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-22-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "3.03,5.02,5.03,5.07,9.01",
+    "filing_date": "2022-05-06",
+    "acceptance_datetime": "2022-05-06T20:29:34.000Z",
+    "report_date": "2022-05-04",
+    "accession": "0001609253-22-000036",
+    "primary_document": "crc-20220504.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=3.03,5.02,5.03,5.07,9.01; accession=0001609253-22-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,8.01,9.01",
+    "filing_date": "2022-08-03",
+    "acceptance_datetime": "2022-08-03T20:28:33.000Z",
+    "report_date": "2022-08-03",
+    "accession": "0001609253-22-000042",
+    "primary_document": "crc-20220803.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,7.01,8.01,9.01; accession=0001609253-22-000042"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-09-01",
+    "acceptance_datetime": "2022-09-01T12:49:52.000Z",
+    "report_date": "2022-08-31",
+    "accession": "0001609253-22-000047",
+    "primary_document": "crc-20220831.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-22-000047"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-11-03",
+    "acceptance_datetime": "2022-11-03T12:58:14.000Z",
+    "report_date": "2022-11-03",
+    "accession": "0001609253-22-000053",
+    "primary_document": "crc-20221103.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-22-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2023-01-27",
+    "acceptance_datetime": "2023-01-27T14:07:05.000Z",
+    "report_date": "2023-01-26",
+    "accession": "0001609253-23-000002",
+    "primary_document": "crc-20230126.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01; accession=0001609253-23-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2023-02-24",
+    "acceptance_datetime": "2023-02-24T12:18:08.000Z",
+    "report_date": "2023-02-24",
+    "accession": "0001609253-23-000015",
+    "primary_document": "crc-20230224.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001609253-23-000015"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,5.07,7.01,9.01",
+    "filing_date": "2023-05-01",
+    "acceptance_datetime": "2023-05-01T20:41:53.000Z",
+    "report_date": "2023-04-28",
+    "accession": "0001609253-23-000034",
+    "primary_document": "crc-20230428.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,5.03,5.07,7.01,9.01; accession=0001609253-23-000034"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-02",
+    "acceptance_datetime": "2023-05-02T12:51:48.000Z",
+    "report_date": "2023-05-01",
+    "accession": "0001609253-23-000037",
+    "primary_document": "crc-20230501.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-23-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2023-06-16",
+    "acceptance_datetime": "2023-06-16T20:15:33.000Z",
+    "report_date": "2023-06-16",
+    "accession": "0001609253-23-000063",
+    "primary_document": "crc-20230616.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,9.01; accession=0001609253-23-000063"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-07-31",
+    "acceptance_datetime": "2023-07-31T21:05:50.000Z",
+    "report_date": "2023-07-31",
+    "accession": "0001609253-23-000073",
+    "primary_document": "crc-20230731.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-23-000073"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-11-01",
+    "acceptance_datetime": "2023-11-01T21:27:29.000Z",
+    "report_date": "2023-11-01",
+    "accession": "0001609253-23-000079",
+    "primary_document": "crc-20231101.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-23-000079"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-01-04",
+    "acceptance_datetime": "2024-01-04T11:02:06.000Z",
+    "report_date": "2024-01-04",
+    "accession": "0001609253-24-000003",
+    "primary_document": "crc-20240104.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-24-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-01-05",
+    "acceptance_datetime": "2024-01-05T18:41:43.000Z",
+    "report_date": "2024-01-05",
+    "accession": "0001609253-24-000005",
+    "primary_document": "crc-20240105.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-24-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-02-07",
+    "acceptance_datetime": "2024-02-07T13:02:39.000Z",
+    "report_date": "2024-02-07",
+    "accession": "0001609253-24-000018",
+    "primary_document": "crc-20240207.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-24-000018"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,8.01,9.01",
+    "filing_date": "2024-02-09",
+    "acceptance_datetime": "2024-02-09T22:07:29.000Z",
+    "report_date": "2024-02-07",
+    "accession": "0001609253-24-000020",
+    "primary_document": "crc-20240207.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,3.02,8.01,9.01; accession=0001609253-24-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2024-02-14",
+    "acceptance_datetime": "2024-02-14T21:33:06.000Z",
+    "report_date": "2024-02-09",
+    "accession": "0001609253-24-000022",
+    "primary_document": "crc-20240209.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-24-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-27",
+    "acceptance_datetime": "2024-02-27T22:17:02.000Z",
+    "report_date": "2024-02-27",
+    "accession": "0001609253-24-000040",
+    "primary_document": "crc-20240227.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-24-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2024-03-08",
+    "acceptance_datetime": "2024-03-08T14:00:21.000Z",
+    "report_date": "2024-03-07",
+    "accession": "0001609253-24-000046",
+    "primary_document": "crc-20240307.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01; accession=0001609253-24-000046"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2024-03-11",
+    "acceptance_datetime": "2024-03-11T21:09:37.000Z",
+    "report_date": "2024-03-08",
+    "accession": "0001609253-24-000048",
+    "primary_document": "crc-20240308.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001609253-24-000048"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-03-26",
+    "acceptance_datetime": "2024-03-26T12:54:25.000Z",
+    "report_date": "2024-03-25",
+    "accession": "0001609253-24-000053",
+    "primary_document": "crc-20240325.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01; accession=0001609253-24-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.07,9.01",
+    "filing_date": "2024-05-07",
+    "acceptance_datetime": "2024-05-07T20:33:33.000Z",
+    "report_date": "2024-05-03",
+    "accession": "0001609253-24-000059",
+    "primary_document": "crc-20240503.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,5.07,9.01; accession=0001609253-24-000059"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-05-09",
+    "acceptance_datetime": "2024-05-09T12:53:49.000Z",
+    "report_date": "2024-05-09",
+    "accession": "0001609253-24-000083",
+    "primary_document": "crc-20240509.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-24-000083"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2024-05-20",
+    "acceptance_datetime": "2024-05-20T11:36:30.000Z",
+    "report_date": "2024-05-20",
+    "accession": "0001193125-24-142231",
+    "primary_document": "d828680d8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001193125-24-142231"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-05-21",
+    "acceptance_datetime": "2024-05-21T20:55:51.000Z",
+    "report_date": "2024-05-21",
+    "accession": "0001609253-24-000090",
+    "primary_document": "crc-20240521.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-24-000090"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2024-06-05",
+    "acceptance_datetime": "2024-06-05T20:30:00.000Z",
+    "report_date": "2024-06-05",
+    "accession": "0001193125-24-155155",
+    "primary_document": "d844238d8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-24-155155"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2024-06-26",
+    "acceptance_datetime": "2024-06-26T20:36:26.000Z",
+    "report_date": "2024-06-26",
+    "accession": "0001609253-24-000097",
+    "primary_document": "crc-20240626.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.07; accession=0001609253-24-000097"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,2.02,2.03,3.02,5.02,8.01,9.01",
+    "filing_date": "2024-07-01",
+    "acceptance_datetime": "2024-07-01T20:32:57.000Z",
+    "report_date": "2024-06-28",
+    "accession": "0001193125-24-173343",
+    "primary_document": "d845209d8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.01,2.02,2.03,3.02,5.02,8.01,9.01; accession=0001193125-24-173343"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-08-06",
+    "acceptance_datetime": "2024-08-06T20:47:40.000Z",
+    "report_date": "2024-08-06",
+    "accession": "0001609253-24-000100",
+    "primary_document": "crc-20240806.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-24-000100"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2024-08-08",
+    "acceptance_datetime": "2024-08-08T13:09:30.000Z",
+    "report_date": "2024-08-08",
+    "accession": "0001193125-24-196569",
+    "primary_document": "d855755d8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001193125-24-196569"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2024-08-22",
+    "acceptance_datetime": "2024-08-22T20:17:00.000Z",
+    "report_date": "2024-08-22",
+    "accession": "0001193125-24-205372",
+    "primary_document": "d822091d8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001193125-24-205372"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-11-05",
+    "acceptance_datetime": "2024-11-05T21:44:46.000Z",
+    "report_date": "2024-11-05",
+    "accession": "0001609253-24-000115",
+    "primary_document": "crc-20241105.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-24-000115"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2024-11-25",
+    "acceptance_datetime": "2024-11-25T14:03:57.000Z",
+    "report_date": "2024-11-19",
+    "accession": "0001609253-24-000125",
+    "primary_document": "crc-20241119.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001609253-24-000125"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-03-03",
+    "acceptance_datetime": "2025-03-03T13:45:12.000Z",
+    "report_date": "2025-03-03",
+    "accession": "0001609253-25-000023",
+    "primary_document": "crc-20250303.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-25-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.07,9.01",
+    "filing_date": "2025-05-06",
+    "acceptance_datetime": "2025-05-06T20:45:53.000Z",
+    "report_date": "2025-05-02",
+    "accession": "0001609253-25-000034",
+    "primary_document": "crc-20250502.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,5.07,9.01; accession=0001609253-25-000034"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01",
+    "filing_date": "2025-06-23",
+    "acceptance_datetime": "2025-06-23T12:54:40.000Z",
+    "report_date": "2025-06-23",
+    "accession": "0001609253-25-000059",
+    "primary_document": "crc-20250623.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,8.01; accession=0001609253-25-000059"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-08-05",
+    "acceptance_datetime": "2025-08-05T20:48:23.000Z",
+    "report_date": "2025-08-05",
+    "accession": "0001609253-25-000066",
+    "primary_document": "crc-20250805.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-25-000066"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2025-09-15",
+    "acceptance_datetime": "2025-09-15T12:02:58.000Z",
+    "report_date": "2025-09-15",
+    "accession": "0001609253-25-000071",
+    "primary_document": "crc-20250915.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=7.01,9.01; accession=0001609253-25-000071"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2025-09-17",
+    "acceptance_datetime": "2025-09-17T20:50:55.000Z",
+    "report_date": "2025-09-14",
+    "accession": "0001609253-25-000076",
+    "primary_document": "crc-20250914.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-25-000076"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,8.01,9.01",
+    "filing_date": "2025-09-24",
+    "acceptance_datetime": "2025-09-24T12:16:43.000Z",
+    "report_date": "2025-09-22",
+    "accession": "0001193125-25-214054",
+    "primary_document": "d175953d8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.02,8.01,9.01; accession=0001193125-25-214054"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-09-24",
+    "acceptance_datetime": "2025-09-24T20:55:07.000Z",
+    "report_date": "2025-09-24",
+    "accession": "0001193125-25-215598",
+    "primary_document": "d13520d8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-25-215598"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2025-10-08",
+    "acceptance_datetime": "2025-10-08T20:07:37.000Z",
+    "report_date": "2025-10-08",
+    "accession": "0001193125-25-234517",
+    "primary_document": "d845351d8k.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-25-234517"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2025-10-31",
+    "acceptance_datetime": "2025-10-31T20:30:18.000Z",
+    "report_date": "2025-10-29",
+    "accession": "0001609253-25-000083",
+    "primary_document": "crc-20251029.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-25-000083"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-11-04",
+    "acceptance_datetime": "2025-11-04T21:45:30.000Z",
+    "report_date": "2025-11-04",
+    "accession": "0001609253-25-000086",
+    "primary_document": "crc-20251104.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-25-000086"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-11-12",
+    "acceptance_datetime": "2025-11-12T14:00:33.000Z",
+    "report_date": "2025-11-10",
+    "accession": "0001609253-25-000104",
+    "primary_document": "crc-20251110.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01; accession=0001609253-25-000104"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,8.01,9.01",
+    "filing_date": "2025-12-18",
+    "acceptance_datetime": "2025-12-18T21:35:20.000Z",
+    "report_date": "2025-12-15",
+    "accession": "0001609253-25-000110",
+    "primary_document": "crc-20251215.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.01,8.01,9.01; accession=0001609253-25-000110"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,9.01",
+    "filing_date": "2026-03-02",
+    "acceptance_datetime": "2026-03-02T13:45:45.000Z",
+    "report_date": "2026-03-02",
+    "accession": "0001609253-26-000049",
+    "primary_document": "crc-20260302.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.01,9.01; accession=0001609253-26-000049"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2026-03-11",
+    "acceptance_datetime": "2026-03-11T13:41:20.000Z",
+    "report_date": "2026-03-11",
+    "accession": "0001609253-26-000073",
+    "primary_document": "crc-20260311.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001609253-26-000073"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2026-03-11",
+    "acceptance_datetime": "2026-03-11T21:26:15.000Z",
+    "report_date": "2026-03-11",
+    "accession": "0001609253-26-000075",
+    "primary_document": "crc-20260311.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-26-000075"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2026-03-16",
+    "acceptance_datetime": "2026-03-16T21:02:14.000Z",
+    "report_date": "2026-03-16",
+    "accession": "0001609253-26-000079",
+    "primary_document": "crc-20260316.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=5.02,9.01; accession=0001609253-26-000079"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2026-03-23",
+    "acceptance_datetime": "2026-03-23T21:04:22.000Z",
+    "report_date": "2026-03-23",
+    "accession": "0001609253-26-000084",
+    "primary_document": "crc-20260323.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001609253-26-000084"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2026-04-17",
+    "acceptance_datetime": "2026-04-17T20:32:14.000Z",
+    "report_date": "2026-04-14",
+    "accession": "0001609253-26-000086",
+    "primary_document": "crc-20260414.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,9.01; accession=0001609253-26-000086"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.07,9.01",
+    "filing_date": "2026-05-05",
+    "acceptance_datetime": "2026-05-05T20:34:59.000Z",
+    "report_date": "2026-04-30",
+    "accession": "0001609253-26-000102",
+    "primary_document": "crc-20260430.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,5.07,9.01; accession=0001609253-26-000102"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2026-06-16",
+    "acceptance_datetime": "2026-06-16T12:24:45.000Z",
+    "report_date": "2026-06-16",
+    "accession": "0001609253-26-000114",
+    "primary_document": "crc-20260616.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001609253-26-000114"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2026-06-16",
+    "acceptance_datetime": "2026-06-16T21:13:28.000Z",
+    "report_date": "2026-06-16",
+    "accession": "0001609253-26-000116",
+    "primary_document": "crc-20260616.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=8.01,9.01; accession=0001609253-26-000116"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2026-06-26",
+    "acceptance_datetime": "2026-06-26T21:00:25.000Z",
+    "report_date": "2026-06-26",
+    "accession": "0001609253-26-000120",
+    "primary_document": "crc-20260626.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001609253-26-000120"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2026-07-14",
+    "acceptance_datetime": "2026-07-14T13:00:34.000Z",
+    "report_date": "2026-07-14",
+    "accession": "0001609253-26-000122",
+    "primary_document": "crc-20260714.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02; accession=0001609253-26-000122"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-08-10",
+    "acceptance_datetime": "2026-08-10T12:06:09.000Z",
+    "report_date": "2026-08-10",
+    "accession": "0001609253-26-000127",
+    "primary_document": "crc-20260810.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-26-000127"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2026-10-13",
+    "acceptance_datetime": "2026-10-13T12:31:23.000Z",
+    "report_date": "2026-10-13",
+    "accession": "0001609253-26-000138",
+    "primary_document": "crc-20261013.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02; accession=0001609253-26-000138"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-11-02",
+    "acceptance_datetime": "2026-11-02T21:45:12.000Z",
+    "report_date": "2026-11-02",
+    "accession": "0001609253-26-000143",
+    "primary_document": "crc-20261102.htm",
+    "cik": "0001609253",
+    "issuer_name": "California Resources Corp",
+    "tickers": [
+      "CRC"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001609253.json",
+    "locator": "8-K items=2.02,9.01; accession=0001609253-26-000143"
+  }
+]

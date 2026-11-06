@@ -1,0 +1,3634 @@
+[
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "1996-07-24",
+    "acceptance_datetime": "1996-07-24T04:00:00.000Z",
+    "report_date": "1996-07-22",
+    "accession": "0000927016-96-000632",
+    "primary_document": "",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5; accession=0000927016-96-000632"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "1996-09-27",
+    "acceptance_datetime": "1996-09-27T04:00:00.000Z",
+    "report_date": "1996-09-25",
+    "accession": "0000927016-96-001208",
+    "primary_document": "",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5; accession=0000927016-96-001208"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "1996-12-16",
+    "acceptance_datetime": "1996-12-16T05:00:00.000Z",
+    "report_date": "1996-12-04",
+    "accession": "0000927016-96-001985",
+    "primary_document": "",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5; accession=0000927016-96-001985"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "1998-02-25",
+    "acceptance_datetime": "1998-02-25T05:00:00.000Z",
+    "report_date": "1998-02-24",
+    "accession": "0001047469-98-007613",
+    "primary_document": "",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5,7; accession=0001047469-98-007613"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "1998-04-07",
+    "acceptance_datetime": "1998-04-07T04:00:00.000Z",
+    "report_date": "1998-04-06",
+    "accession": "0001047469-98-014034",
+    "primary_document": "",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5,7; accession=0001047469-98-014034"
+  },
+  {
+    "form": "8-K",
+    "items": "4,7",
+    "filing_date": "1998-05-12",
+    "acceptance_datetime": "1998-05-12T04:00:00.000Z",
+    "report_date": "1998-05-12",
+    "accession": "0000898437-98-000004",
+    "primary_document": "",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=4,7; accession=0000898437-98-000004"
+  },
+  {
+    "form": "8-K/A",
+    "items": "4",
+    "filing_date": "1998-05-28",
+    "acceptance_datetime": "1998-05-28T04:00:00.000Z",
+    "report_date": "1998-05-28",
+    "accession": "0000898437-98-000008",
+    "primary_document": "",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=4; accession=0000898437-98-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "4,7",
+    "filing_date": "2002-06-10",
+    "acceptance_datetime": "2002-06-10T20:46:08.000Z",
+    "report_date": "2002-06-06",
+    "accession": "0000912057-02-023604",
+    "primary_document": "a2082023z8-k.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=4,7; accession=0000912057-02-023604"
+  },
+  {
+    "form": "8-K/A",
+    "items": "4,7",
+    "filing_date": "2002-06-20",
+    "acceptance_datetime": "2002-06-20T15:48:28.000Z",
+    "report_date": "2002-06-06",
+    "accession": "0000912057-02-024787",
+    "primary_document": "a2082767z8-ka.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=4,7; accession=0000912057-02-024787"
+  },
+  {
+    "form": "8-K",
+    "items": "4",
+    "filing_date": "2002-07-09",
+    "acceptance_datetime": "2002-07-09T16:31:18.000Z",
+    "report_date": "2002-07-02",
+    "accession": "0000912057-02-026710",
+    "primary_document": "a2084084z8-k.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=4; accession=0000912057-02-026710"
+  },
+  {
+    "form": "8-K/A",
+    "items": "4",
+    "filing_date": "2002-07-22",
+    "acceptance_datetime": "2002-07-22T21:18:59.000Z",
+    "report_date": "2002-07-02",
+    "accession": "0000912057-02-028114",
+    "primary_document": "a2084978z8-ka.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=4; accession=0000912057-02-028114"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-01-30",
+    "acceptance_datetime": "2003-01-30T17:40:05.000Z",
+    "report_date": "2003-01-28",
+    "accession": "0001047469-03-003260",
+    "primary_document": "a2102031z8-k.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=7,9; accession=0001047469-03-003260"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-05-06",
+    "acceptance_datetime": "2003-05-06T13:59:59.000Z",
+    "report_date": "2003-05-06",
+    "accession": "0001104659-03-008191",
+    "primary_document": "j0340_8k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=7,9; accession=0001104659-03-008191"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-07-30",
+    "acceptance_datetime": "2003-07-30T20:26:47.000Z",
+    "report_date": "2003-07-30",
+    "accession": "0001104659-03-016151",
+    "primary_document": "a03-1603_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=7,9; accession=0001104659-03-016151"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2003-11-07",
+    "acceptance_datetime": "2003-11-07T14:11:54.000Z",
+    "report_date": "2003-11-06",
+    "accession": "0001104659-03-025048",
+    "primary_document": "a03-4959_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=12,7; accession=0001104659-03-025048"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2003-12-03",
+    "acceptance_datetime": "2003-12-03T21:00:51.000Z",
+    "report_date": "2003-12-02",
+    "accession": "0001104659-03-027713",
+    "primary_document": "a03-5966_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5,7; accession=0001104659-03-027713"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2003-12-24",
+    "acceptance_datetime": "2003-12-24T14:34:02.000Z",
+    "report_date": "2003-12-22",
+    "accession": "0001104659-03-029207",
+    "primary_document": "a03-6531_28k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5,7; accession=0001104659-03-029207"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-02-27",
+    "acceptance_datetime": "2004-02-27T14:42:43.000Z",
+    "report_date": "2004-02-27",
+    "accession": "0001104659-04-005878",
+    "primary_document": "a04-2916_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=12,7; accession=0001104659-04-005878"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-04-29",
+    "acceptance_datetime": "2004-04-29T13:39:29.000Z",
+    "report_date": "2004-04-29",
+    "accession": "0001104659-04-011767",
+    "primary_document": "a04-5053_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=12,7; accession=0001104659-04-011767"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2004-07-27",
+    "acceptance_datetime": "2004-07-27T13:57:02.000Z",
+    "report_date": "2004-07-26",
+    "accession": "0001104659-04-020954",
+    "primary_document": "a04-8271_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5,7; accession=0001104659-04-020954"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-08-11",
+    "acceptance_datetime": "2004-08-11T18:42:45.000Z",
+    "report_date": "2004-08-06",
+    "accession": "0001104659-04-023816",
+    "primary_document": "a04-9340_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=12,7; accession=0001104659-04-023816"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2004-10-05",
+    "acceptance_datetime": "2004-10-05T20:37:47.000Z",
+    "report_date": "2004-09-29",
+    "accession": "0001104659-04-029734",
+    "primary_document": "a04-11245_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001104659-04-029734"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2004-10-28",
+    "acceptance_datetime": "2004-10-28T20:12:27.000Z",
+    "report_date": "2004-10-22",
+    "accession": "0001104659-04-032366",
+    "primary_document": "a04-12289_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001104659-04-032366"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2004-10-29",
+    "acceptance_datetime": "2004-10-29T13:49:31.000Z",
+    "report_date": "2004-10-29",
+    "accession": "0001104659-04-032520",
+    "primary_document": "a04-12318_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-04-032520"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2004-11-19",
+    "acceptance_datetime": "2004-11-19T20:26:20.000Z",
+    "report_date": "2004-11-15",
+    "accession": "0001104659-04-036937",
+    "primary_document": "a04-13952_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001104659-04-036937"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,9.01",
+    "filing_date": "2004-12-20",
+    "acceptance_datetime": "2004-12-20T16:20:42.000Z",
+    "report_date": "2004-12-15",
+    "accession": "0001104659-04-040358",
+    "primary_document": "a04-15063_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,1.02,9.01; accession=0001104659-04-040358"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,5.02",
+    "filing_date": "2004-12-29",
+    "acceptance_datetime": "2004-12-29T21:35:10.000Z",
+    "report_date": "2004-12-23",
+    "accession": "0001104659-04-041503",
+    "primary_document": "a04-15406_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.02,5.02; accession=0001104659-04-041503"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2005-01-26",
+    "acceptance_datetime": "2005-01-26T21:51:09.000Z",
+    "report_date": "2005-01-20",
+    "accession": "0001104659-05-002664",
+    "primary_document": "a05-2234_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01; accession=0001104659-05-002664"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-03-01",
+    "acceptance_datetime": "2005-03-01T22:14:16.000Z",
+    "report_date": "2005-02-23",
+    "accession": "0001104659-05-008963",
+    "primary_document": "a05-4373_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-05-008963"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2005-04-11",
+    "acceptance_datetime": "2005-04-11T21:24:56.000Z",
+    "report_date": "2005-04-05",
+    "accession": "0001104659-05-015964",
+    "primary_document": "a05-6596_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001104659-05-015964"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-04-28",
+    "acceptance_datetime": "2005-04-28T13:01:50.000Z",
+    "report_date": "2005-04-27",
+    "accession": "0001104659-05-018625",
+    "primary_document": "a05-7476_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-05-018625"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2005-07-12",
+    "acceptance_datetime": "2005-07-12T20:24:01.000Z",
+    "report_date": "2005-07-11",
+    "accession": "0001104659-05-032149",
+    "primary_document": "a05-12124_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001104659-05-032149"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-07-27",
+    "acceptance_datetime": "2005-07-27T21:24:42.000Z",
+    "report_date": "2005-07-27",
+    "accession": "0001104659-05-034487",
+    "primary_document": "a05-13735_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-05-034487"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,8.01,9.01",
+    "filing_date": "2005-09-02",
+    "acceptance_datetime": "2005-09-02T20:14:27.000Z",
+    "report_date": "2005-08-31",
+    "accession": "0001104659-05-042719",
+    "primary_document": "a05-15774_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.02,8.01,9.01; accession=0001104659-05-042719"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-10-18",
+    "acceptance_datetime": "2005-10-18T21:15:16.000Z",
+    "report_date": "2005-10-18",
+    "accession": "0001104659-05-049001",
+    "primary_document": "a05-17823_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-05-049001"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2006-01-30",
+    "acceptance_datetime": "2006-01-30T21:40:54.000Z",
+    "report_date": "2006-01-24",
+    "accession": "0001104659-06-004774",
+    "primary_document": "a06-3863_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001104659-06-004774"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-03-02",
+    "acceptance_datetime": "2006-03-02T21:51:42.000Z",
+    "report_date": "2006-03-02",
+    "accession": "0001275287-06-001194",
+    "primary_document": "at5000.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001275287-06-001194"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-04-26",
+    "acceptance_datetime": "2006-04-26T00:36:58.000Z",
+    "report_date": "2006-04-25",
+    "accession": "0001275287-06-002178",
+    "primary_document": "at5538.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001275287-06-002178"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-07-07",
+    "acceptance_datetime": "2006-07-07T20:00:49.000Z",
+    "report_date": "2006-06-30",
+    "accession": "0001275287-06-003482",
+    "primary_document": "at6297.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,9.01; accession=0001275287-06-003482"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-07-25",
+    "acceptance_datetime": "2006-07-25T12:02:05.000Z",
+    "report_date": "2006-07-24",
+    "accession": "0001275287-06-003763",
+    "primary_document": "at6493.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001275287-06-003763"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,5.02",
+    "filing_date": "2006-09-11",
+    "acceptance_datetime": "2006-09-11T20:14:28.000Z",
+    "report_date": "2006-09-08",
+    "accession": "0001104659-06-060409",
+    "primary_document": "a06-19452_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.02,5.02; accession=0001104659-06-060409"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2006-09-27",
+    "acceptance_datetime": "2006-09-27T11:11:11.000Z",
+    "report_date": "2006-09-27",
+    "accession": "0001104659-06-063269",
+    "primary_document": "a06-20274_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-06-063269"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-10-25",
+    "acceptance_datetime": "2006-10-24T22:45:28.000Z",
+    "report_date": "2006-10-24",
+    "accession": "0001275287-06-005384",
+    "primary_document": "at7597.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001275287-06-005384"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2006-11-06",
+    "acceptance_datetime": "2006-11-06T21:30:18.000Z",
+    "report_date": "2006-11-06",
+    "accession": "0001104659-06-071691",
+    "primary_document": "a06-21774_28k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=7.01; accession=0001104659-06-071691"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2006-12-20",
+    "acceptance_datetime": "2006-12-20T19:33:06.000Z",
+    "report_date": "2006-12-14",
+    "accession": "0001104659-06-082805",
+    "primary_document": "a06-26218_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-06-082805"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2007-01-10",
+    "acceptance_datetime": "2007-01-10T21:16:21.000Z",
+    "report_date": "2007-01-04",
+    "accession": "0001104659-07-001857",
+    "primary_document": "a07-1423_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001104659-07-001857"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-02-28",
+    "acceptance_datetime": "2007-02-28T22:28:38.000Z",
+    "report_date": "2007-02-28",
+    "accession": "0001275287-07-001033",
+    "primary_document": "at9167.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001275287-07-001033"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-04-27",
+    "acceptance_datetime": "2007-04-27T00:00:31.000Z",
+    "report_date": "2007-04-26",
+    "accession": "0001144204-07-020924",
+    "primary_document": "v072803_8k.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001144204-07-020924"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-07-24",
+    "acceptance_datetime": "2007-07-24T21:06:57.000Z",
+    "report_date": "2007-07-24",
+    "accession": "0001157523-07-007152",
+    "primary_document": "a5455112.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-07-007152"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-09-19",
+    "acceptance_datetime": "2007-09-19T19:30:46.000Z",
+    "report_date": "2007-09-18",
+    "accession": "0001104659-07-070011",
+    "primary_document": "a07-24233_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-07-070011"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-11-06",
+    "acceptance_datetime": "2007-11-06T13:11:29.000Z",
+    "report_date": "2007-11-05",
+    "accession": "0001157523-07-010788",
+    "primary_document": "a5538039.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-07-010788"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,9.01",
+    "filing_date": "2007-11-21",
+    "acceptance_datetime": "2007-11-21T22:22:34.000Z",
+    "report_date": "2007-11-16",
+    "accession": "0001157523-07-011566",
+    "primary_document": "a5552649.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,1.02,9.01; accession=0001157523-07-011566"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2008-02-06",
+    "acceptance_datetime": "2008-02-06T22:08:32.000Z",
+    "report_date": "2008-01-31",
+    "accession": "0001104659-08-007646",
+    "primary_document": "a08-4802_18k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001104659-08-007646"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-03-05",
+    "acceptance_datetime": "2008-03-05T21:55:06.000Z",
+    "report_date": "2008-03-05",
+    "accession": "0001157523-08-002002",
+    "primary_document": "a5627228.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-08-002002"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,9.01",
+    "filing_date": "2008-04-07",
+    "acceptance_datetime": "2008-04-07T12:46:04.000Z",
+    "report_date": "2008-04-04",
+    "accession": "0001157523-08-002753",
+    "primary_document": "a5650961.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,3.03,9.01; accession=0001157523-08-002753"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-05-01",
+    "acceptance_datetime": "2008-04-30T22:59:07.000Z",
+    "report_date": "2008-04-30",
+    "accession": "0001157523-08-003512",
+    "primary_document": "a5673329.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-08-003512"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-07-23",
+    "acceptance_datetime": "2008-07-22T23:22:49.000Z",
+    "report_date": "2008-07-22",
+    "accession": "0001157523-08-005731",
+    "primary_document": "a5737767.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-08-005731"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-10-22",
+    "acceptance_datetime": "2008-10-22T20:27:30.000Z",
+    "report_date": "2008-10-17",
+    "accession": "0001157523-08-008248",
+    "primary_document": "a5810432.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001157523-08-008248"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-11-03",
+    "acceptance_datetime": "2008-11-03T22:27:15.000Z",
+    "report_date": "2008-11-03",
+    "accession": "0001157523-08-008744",
+    "primary_document": "a5821047.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-08-008744"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-03-05",
+    "acceptance_datetime": "2009-03-05T22:27:15.000Z",
+    "report_date": "2009-03-05",
+    "accession": "0001157523-09-001925",
+    "primary_document": "a5911446.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-09-001925"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-04-30",
+    "acceptance_datetime": "2009-04-29T22:50:36.000Z",
+    "report_date": "2009-04-29",
+    "accession": "0001157523-09-003174",
+    "primary_document": "a5952676.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-09-003174"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2009-05-29",
+    "acceptance_datetime": "2009-05-29T18:53:43.000Z",
+    "report_date": "2009-05-29",
+    "accession": "0001157523-09-004213",
+    "primary_document": "a5976108.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01; accession=0001157523-09-004213"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2009-05-29",
+    "acceptance_datetime": "2009-05-29T21:28:54.000Z",
+    "report_date": "2009-05-26",
+    "accession": "0001157523-09-004223",
+    "primary_document": "a5976241.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001157523-09-004223"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2009-06-11",
+    "acceptance_datetime": "2009-06-11T13:43:26.000Z",
+    "report_date": "2009-06-05",
+    "accession": "0001157523-09-004428",
+    "primary_document": "a5984787.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,9.01; accession=0001157523-09-004428"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-07-22",
+    "acceptance_datetime": "2009-07-22T20:53:45.000Z",
+    "report_date": "2009-07-22",
+    "accession": "0001157523-09-005027",
+    "primary_document": "a6013121.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-09-005027"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-09-14",
+    "acceptance_datetime": "2009-09-14T21:29:04.000Z",
+    "report_date": "2009-09-10",
+    "accession": "0001157523-09-006467",
+    "primary_document": "a6049493.txt",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001157523-09-006467"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-10-27",
+    "acceptance_datetime": "2009-10-27T20:21:12.000Z",
+    "report_date": "2009-10-27",
+    "accession": "0001157523-09-007265",
+    "primary_document": "a6084486.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-09-007265"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,3.02,9.01",
+    "filing_date": "2010-01-06",
+    "acceptance_datetime": "2010-01-06T17:26:24.000Z",
+    "report_date": "2009-12-30",
+    "accession": "0001157523-10-000046",
+    "primary_document": "a6130392.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,2.01,3.02,9.01; accession=0001157523-10-000046"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2010-03-15",
+    "acceptance_datetime": "2010-03-15T18:25:37.000Z",
+    "report_date": "2009-12-30",
+    "accession": "0001157523-10-001560",
+    "primary_document": "a6213680.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=9.01; accession=0001157523-10-001560"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-03-17",
+    "acceptance_datetime": "2010-03-17T10:04:22.000Z",
+    "report_date": "2010-03-16",
+    "accession": "0001157523-10-001613",
+    "primary_document": "a6217573.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-10-001613"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-05-10",
+    "acceptance_datetime": "2010-05-10T21:25:40.000Z",
+    "report_date": "2010-05-10",
+    "accession": "0001157523-10-003035",
+    "primary_document": "a6285006.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-10-003035"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2010-06-09",
+    "acceptance_datetime": "2010-06-09T19:21:59.000Z",
+    "report_date": "2010-06-03",
+    "accession": "0001157523-10-003636",
+    "primary_document": "a6322009.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.07; accession=0001157523-10-003636"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-08-10",
+    "acceptance_datetime": "2010-08-09T22:52:10.000Z",
+    "report_date": "2010-08-09",
+    "accession": "0001157523-10-004949",
+    "primary_document": "a6390973.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-10-004949"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-11-08",
+    "acceptance_datetime": "2010-11-08T22:08:28.000Z",
+    "report_date": "2010-11-08",
+    "accession": "0001157523-10-006736",
+    "primary_document": "a6502954.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-10-006736"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2011-01-24",
+    "acceptance_datetime": "2011-01-24T22:15:46.000Z",
+    "report_date": "2011-01-18",
+    "accession": "0001157523-11-000311",
+    "primary_document": "a6583545.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,9.01; accession=0001157523-11-000311"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-02-15",
+    "acceptance_datetime": "2011-02-15T20:12:32.000Z",
+    "report_date": "2011-02-14",
+    "accession": "0001157523-11-000875",
+    "primary_document": "a6613123.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01,9.01; accession=0001157523-11-000875"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-03-10",
+    "acceptance_datetime": "2011-03-09T23:55:45.000Z",
+    "report_date": "2011-03-09",
+    "accession": "0001157523-11-001491",
+    "primary_document": "a6641878.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-11-001491"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-04-27",
+    "acceptance_datetime": "2011-04-27T11:20:24.000Z",
+    "report_date": "2011-04-26",
+    "accession": "0001157523-11-002296",
+    "primary_document": "a6698774.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01,9.01; accession=0001157523-11-002296"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-05-05",
+    "acceptance_datetime": "2011-05-05T00:57:46.000Z",
+    "report_date": "2011-05-04",
+    "accession": "0001157523-11-002761",
+    "primary_document": "a6710596.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-11-002761"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2011-05-20",
+    "acceptance_datetime": "2011-05-20T18:30:23.000Z",
+    "report_date": "2011-05-20",
+    "accession": "0001157523-11-003297",
+    "primary_document": "a6732630.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01; accession=0001157523-11-003297"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2011-06-10",
+    "acceptance_datetime": "2011-06-10T20:45:51.000Z",
+    "report_date": "2011-06-07",
+    "accession": "0001157523-11-003618",
+    "primary_document": "a6755808.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001157523-11-003618"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-08-04",
+    "acceptance_datetime": "2011-08-04T20:36:18.000Z",
+    "report_date": "2011-08-04",
+    "accession": "0001157523-11-004740",
+    "primary_document": "a6820151.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-11-004740"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-11-02",
+    "acceptance_datetime": "2011-11-02T20:16:49.000Z",
+    "report_date": "2011-11-02",
+    "accession": "0001157523-11-006320",
+    "primary_document": "a50054001.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-11-006320"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2011-12-22",
+    "acceptance_datetime": "2011-12-22T22:26:57.000Z",
+    "report_date": "2011-12-21",
+    "accession": "0001157523-11-007314",
+    "primary_document": "a50115447.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,9.01; accession=0001157523-11-007314"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-03-01",
+    "acceptance_datetime": "2012-02-29T23:05:13.000Z",
+    "report_date": "2012-02-29",
+    "accession": "0001157523-12-001152",
+    "primary_document": "a50187906.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-12-001152"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-05-03",
+    "acceptance_datetime": "2012-05-03T21:21:07.000Z",
+    "report_date": "2012-05-03",
+    "accession": "0001157523-12-002507",
+    "primary_document": "a50264817.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-12-002507"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2012-06-12",
+    "acceptance_datetime": "2012-06-11T22:28:02.000Z",
+    "report_date": "2012-06-07",
+    "accession": "0001157523-12-003280",
+    "primary_document": "a50307140.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.07; accession=0001157523-12-003280"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2012-06-14",
+    "acceptance_datetime": "2012-06-14T21:28:43.000Z",
+    "report_date": "2012-06-12",
+    "accession": "0001157523-12-003332",
+    "primary_document": "a50311733.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01; accession=0001157523-12-003332"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-08-02",
+    "acceptance_datetime": "2012-08-02T18:27:06.000Z",
+    "report_date": "2012-08-02",
+    "accession": "0001157523-12-004178",
+    "primary_document": "a50363300.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-12-004178"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-10-30",
+    "acceptance_datetime": "2012-10-30T20:30:43.000Z",
+    "report_date": "2012-10-30",
+    "accession": "0001157523-12-005524",
+    "primary_document": "a50459552.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-12-005524"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-12-04",
+    "acceptance_datetime": "2012-12-04T22:28:48.000Z",
+    "report_date": "2012-12-04",
+    "accession": "0001157523-12-006286",
+    "primary_document": "a50497803.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01,9.01; accession=0001157523-12-006286"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05",
+    "filing_date": "2012-12-28",
+    "acceptance_datetime": "2012-12-28T22:00:45.000Z",
+    "report_date": "2012-12-28",
+    "accession": "0001157523-12-006486",
+    "primary_document": "a50517884.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.05; accession=0001157523-12-006486"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2013-01-22",
+    "acceptance_datetime": "2013-01-22T14:33:30.000Z",
+    "report_date": "2013-01-17",
+    "accession": "0001157523-13-000193",
+    "primary_document": "a50538545.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001157523-13-000193"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-02-27",
+    "acceptance_datetime": "2013-02-27T22:08:38.000Z",
+    "report_date": "2013-02-27",
+    "accession": "0001157523-13-001094",
+    "primary_document": "a50579124.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-13-001094"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2013-02-28",
+    "acceptance_datetime": "2013-02-28T22:15:21.000Z",
+    "report_date": "2013-02-22",
+    "accession": "0001157523-13-001146",
+    "primary_document": "a50581050.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,9.01; accession=0001157523-13-001146"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-05-02",
+    "acceptance_datetime": "2013-05-01T22:14:58.000Z",
+    "report_date": "2013-05-01",
+    "accession": "0001157523-13-002244",
+    "primary_document": "a50623226.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-13-002244"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2013-06-21",
+    "acceptance_datetime": "2013-06-21T21:29:48.000Z",
+    "report_date": "2013-06-18",
+    "accession": "0001157523-13-003137",
+    "primary_document": "a50657165.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.07,9.01; accession=0001157523-13-003137"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-07-31",
+    "acceptance_datetime": "2013-07-31T20:31:43.000Z",
+    "report_date": "2013-07-31",
+    "accession": "0001157523-13-003754",
+    "primary_document": "a50682022.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-13-003754"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2013-10-02",
+    "acceptance_datetime": "2013-10-02T19:11:23.000Z",
+    "report_date": "2013-09-30",
+    "accession": "0001157523-13-004613",
+    "primary_document": "a50721411.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001157523-13-004613"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-10-30",
+    "acceptance_datetime": "2013-10-30T20:05:50.000Z",
+    "report_date": "2013-10-30",
+    "accession": "0001157523-13-005121",
+    "primary_document": "a50739794.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-13-005121"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2013-12-02",
+    "acceptance_datetime": "2013-12-02T21:10:37.000Z",
+    "report_date": "2013-11-29",
+    "accession": "0001157523-13-005676",
+    "primary_document": "a50760605.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.02; accession=0001157523-13-005676"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-02-26",
+    "acceptance_datetime": "2014-02-26T21:12:27.000Z",
+    "report_date": "2014-02-26",
+    "accession": "0001157523-14-000831",
+    "primary_document": "a50812969.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-14-000831"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-03-13",
+    "acceptance_datetime": "2014-03-13T12:55:35.000Z",
+    "report_date": "2014-03-10",
+    "accession": "0001157523-14-001065",
+    "primary_document": "a50824198.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01,9.01; accession=0001157523-14-001065"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-04-29",
+    "acceptance_datetime": "2014-04-29T20:07:02.000Z",
+    "report_date": "2014-04-29",
+    "accession": "0001157523-14-001679",
+    "primary_document": "a50853821.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-14-001679"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2014-06-06",
+    "acceptance_datetime": "2014-06-06T20:05:47.000Z",
+    "report_date": "2014-06-05",
+    "accession": "0001157523-14-002485",
+    "primary_document": "a50881542.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.07; accession=0001157523-14-002485"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-07-30",
+    "acceptance_datetime": "2014-07-30T20:05:56.000Z",
+    "report_date": "2014-07-30",
+    "accession": "0001157523-14-003122",
+    "primary_document": "a50915267.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-14-003122"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-10-29",
+    "acceptance_datetime": "2014-10-29T20:05:38.000Z",
+    "report_date": "2014-10-29",
+    "accession": "0001157523-14-004177",
+    "primary_document": "a50972098.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-14-004177"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-11-03",
+    "acceptance_datetime": "2014-11-03T21:05:18.000Z",
+    "report_date": "2014-10-28",
+    "accession": "0001171843-14-005177",
+    "primary_document": "f8k_110314.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001171843-14-005177"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-11-13",
+    "acceptance_datetime": "2014-11-13T21:05:53.000Z",
+    "report_date": "2014-11-07",
+    "accession": "0001157523-14-004555",
+    "primary_document": "a50983766.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001157523-14-004555"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-12-02",
+    "acceptance_datetime": "2014-12-02T21:05:21.000Z",
+    "report_date": "2014-11-26",
+    "accession": "0001157523-14-004704",
+    "primary_document": "a50994880.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001157523-14-004704"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2015-02-19",
+    "acceptance_datetime": "2015-02-19T21:05:56.000Z",
+    "report_date": "2015-02-17",
+    "accession": "0001157523-15-000632",
+    "primary_document": "a51043717.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,9.01; accession=0001157523-15-000632"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-02-25",
+    "acceptance_datetime": "2015-02-25T21:05:39.000Z",
+    "report_date": "2015-02-25",
+    "accession": "0001157523-15-000705",
+    "primary_document": "a51047559.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-15-000705"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-06-08",
+    "acceptance_datetime": "2015-06-08T20:05:52.000Z",
+    "report_date": "2015-06-03",
+    "accession": "0001171843-15-003349",
+    "primary_document": "f8k_060815.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.07; accession=0001171843-15-003349"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-07-29",
+    "acceptance_datetime": "2015-07-29T21:01:26.000Z",
+    "report_date": "2015-07-29",
+    "accession": "0001157523-15-002605",
+    "primary_document": "a51152245.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-15-002605"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-10-14",
+    "acceptance_datetime": "2015-10-14T20:05:40.000Z",
+    "report_date": "2015-10-09",
+    "accession": "0001157523-15-003299",
+    "primary_document": "a51201131.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,9.01; accession=0001157523-15-003299"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-10-28",
+    "acceptance_datetime": "2015-10-28T20:08:17.000Z",
+    "report_date": "2015-10-28",
+    "accession": "0001157523-15-003499",
+    "primary_document": "a51211710.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-15-003499"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-10-28",
+    "acceptance_datetime": "2015-10-28T20:10:55.000Z",
+    "report_date": "2015-10-26",
+    "accession": "0001171843-15-005767",
+    "primary_document": "gff8k_102815.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001171843-15-005767"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-12-09",
+    "acceptance_datetime": "2015-12-09T21:10:30.000Z",
+    "report_date": "2015-12-09",
+    "accession": "0001157523-15-004010",
+    "primary_document": "a51240500.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01,9.01; accession=0001157523-15-004010"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,8.01,9.01",
+    "filing_date": "2015-12-09",
+    "acceptance_datetime": "2015-12-09T21:15:31.000Z",
+    "report_date": "2015-12-08",
+    "accession": "0001157523-15-004011",
+    "primary_document": "a51239898.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,5.02,8.01,9.01; accession=0001157523-15-004011"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2016-01-06",
+    "acceptance_datetime": "2016-01-06T21:05:10.000Z",
+    "report_date": "2016-01-01",
+    "accession": "0001171843-16-007080",
+    "primary_document": "gff8k_010616.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001171843-16-007080"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-24",
+    "acceptance_datetime": "2016-02-24T21:06:08.000Z",
+    "report_date": "2016-02-24",
+    "accession": "0001157523-16-004724",
+    "primary_document": "a51286866.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-16-004724"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2016-03-02",
+    "acceptance_datetime": "2016-03-02T21:05:10.000Z",
+    "report_date": "2016-02-26",
+    "accession": "0001171843-16-008314",
+    "primary_document": "f8k_030216.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01; accession=0001171843-16-008314"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2016-04-04",
+    "acceptance_datetime": "2016-04-04T13:05:11.000Z",
+    "report_date": "2016-04-04",
+    "accession": "0001171843-16-008977",
+    "primary_document": "f8k_040416.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001171843-16-008977"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-04-27",
+    "acceptance_datetime": "2016-04-27T20:06:21.000Z",
+    "report_date": "2016-04-27",
+    "accession": "0001157523-16-005265",
+    "primary_document": "a51329845.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-16-005265"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2016-06-06",
+    "acceptance_datetime": "2016-06-06T20:05:14.000Z",
+    "report_date": "2016-06-01",
+    "accession": "0001171843-16-010498",
+    "primary_document": "f8k_060616.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.07; accession=0001171843-16-010498"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-07-27",
+    "acceptance_datetime": "2016-07-27T20:07:50.000Z",
+    "report_date": "2016-07-27",
+    "accession": "0001157523-16-006245",
+    "primary_document": "a51389764.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-16-006245"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-10-26",
+    "acceptance_datetime": "2016-10-26T20:05:23.000Z",
+    "report_date": "2016-10-26",
+    "accession": "0001157523-16-007028",
+    "primary_document": "a51447720.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-16-007028"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2017-01-09",
+    "acceptance_datetime": "2017-01-09T22:00:33.000Z",
+    "report_date": "2016-12-29",
+    "accession": "0001157523-17-000050",
+    "primary_document": "a51490529.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.02; accession=0001157523-17-000050"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-01-27",
+    "acceptance_datetime": "2017-01-27T21:05:12.000Z",
+    "report_date": "2017-01-23",
+    "accession": "0001171843-17-000497",
+    "primary_document": "f8k_012717.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001171843-17-000497"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2017-02-08",
+    "acceptance_datetime": "2017-02-08T21:05:24.000Z",
+    "report_date": "2017-02-02",
+    "accession": "0001171843-17-000756",
+    "primary_document": "f8k_020817.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01; accession=0001171843-17-000756"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-02-15",
+    "acceptance_datetime": "2017-02-15T21:05:38.000Z",
+    "report_date": "2017-02-15",
+    "accession": "0001157523-17-000507",
+    "primary_document": "a51510801.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-17-000507"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01,9.01",
+    "filing_date": "2017-04-28",
+    "acceptance_datetime": "2017-04-28T20:05:13.000Z",
+    "report_date": "2017-04-24",
+    "accession": "0001171843-17-002414",
+    "primary_document": "f8k_042817.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=4.01,9.01; accession=0001171843-17-002414"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-05-03",
+    "acceptance_datetime": "2017-05-03T20:05:47.000Z",
+    "report_date": "2017-05-03",
+    "accession": "0001171843-17-002575",
+    "primary_document": "f8k_050217.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-17-002575"
+  },
+  {
+    "form": "8-K/A",
+    "items": "4.01,9.01",
+    "filing_date": "2017-05-05",
+    "acceptance_datetime": "2017-05-05T20:05:13.000Z",
+    "report_date": "2017-04-24",
+    "accession": "0001171843-17-002729",
+    "primary_document": "f8ka_050517.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=4.01,9.01; accession=0001171843-17-002729"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2017-06-19",
+    "acceptance_datetime": "2017-06-19T20:05:14.000Z",
+    "report_date": "2017-06-13",
+    "accession": "0001171843-17-003690",
+    "primary_document": "f8k_061917.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001171843-17-003690"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2017-07-14",
+    "acceptance_datetime": "2017-07-14T20:05:12.000Z",
+    "report_date": "2017-07-10",
+    "accession": "0001171843-17-004089",
+    "primary_document": "f8k_071417.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,9.01; accession=0001171843-17-004089"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-07-26",
+    "acceptance_datetime": "2017-07-26T20:05:55.000Z",
+    "report_date": "2017-07-26",
+    "accession": "0001157523-17-002100",
+    "primary_document": "a51596920.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-17-002100"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2017-07-27",
+    "acceptance_datetime": "2017-07-27T12:05:13.000Z",
+    "report_date": "2017-07-27",
+    "accession": "0001157523-17-002129",
+    "primary_document": "a51597148.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001157523-17-002129"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-10-25",
+    "acceptance_datetime": "2017-10-25T20:06:22.000Z",
+    "report_date": "2017-10-25",
+    "accession": "0001157523-17-002787",
+    "primary_document": "a51705116.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-17-002787"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-01-02",
+    "acceptance_datetime": "2018-01-02T21:05:12.000Z",
+    "report_date": "2017-12-27",
+    "accession": "0001171843-18-000042",
+    "primary_document": "f8k_010218.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001171843-18-000042"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-21",
+    "acceptance_datetime": "2018-02-21T22:30:32.000Z",
+    "report_date": "2018-02-21",
+    "accession": "0001157523-18-000386",
+    "primary_document": "a51762181.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-18-000386"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2018-03-08",
+    "acceptance_datetime": "2018-03-08T22:17:45.000Z",
+    "report_date": "2018-03-02",
+    "accession": "0001171843-18-001789",
+    "primary_document": "f8k_030818.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001171843-18-001789"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-05-02",
+    "acceptance_datetime": "2018-05-02T20:05:59.000Z",
+    "report_date": "2018-05-02",
+    "accession": "0001157523-18-000944",
+    "primary_document": "a51799996.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-18-000944"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2018-05-29",
+    "acceptance_datetime": "2018-05-29T20:17:33.000Z",
+    "report_date": "2018-05-24",
+    "accession": "0001171843-18-004262",
+    "primary_document": "f8k_052918.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01; accession=0001171843-18-004262"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01,9.01",
+    "filing_date": "2018-06-06",
+    "acceptance_datetime": "2018-06-06T21:05:14.000Z",
+    "report_date": "2018-05-31",
+    "accession": "0001171843-18-004486",
+    "primary_document": "f8k_060618.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.07,8.01,9.01; accession=0001171843-18-004486"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-06-19",
+    "acceptance_datetime": "2018-06-19T20:05:20.000Z",
+    "report_date": "2018-06-19",
+    "accession": "0001157523-18-001308",
+    "primary_document": "a51824698.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01,9.01; accession=0001157523-18-001308"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-07-25",
+    "acceptance_datetime": "2018-07-25T20:06:31.000Z",
+    "report_date": "2018-07-25",
+    "accession": "0001157523-18-001520",
+    "primary_document": "a51842915.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-18-001520"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-09-05",
+    "acceptance_datetime": "2018-09-05T20:05:25.000Z",
+    "report_date": "2018-08-31",
+    "accession": "0001171843-18-006408",
+    "primary_document": "f8k_090518.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001171843-18-006408"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-10-24",
+    "acceptance_datetime": "2018-10-24T12:30:23.000Z",
+    "report_date": "2018-10-23",
+    "accession": "0001171843-18-007138",
+    "primary_document": "f8k_102418.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001171843-18-007138"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-10-24",
+    "acceptance_datetime": "2018-10-24T20:06:07.000Z",
+    "report_date": "2018-10-24",
+    "accession": "0001157523-18-002129",
+    "primary_document": "a51888311.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-18-002129"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-21",
+    "acceptance_datetime": "2019-02-21T21:05:20.000Z",
+    "report_date": "2019-02-21",
+    "accession": "0001157523-19-000413",
+    "primary_document": "a51944222.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-19-000413"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-03-26",
+    "acceptance_datetime": "2019-03-26T20:05:11.000Z",
+    "report_date": "2019-03-25",
+    "accession": "0001171843-19-001983",
+    "primary_document": "f8k_032619.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001171843-19-001983"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2019-04-12",
+    "acceptance_datetime": "2019-04-12T20:05:12.000Z",
+    "report_date": "2019-04-09",
+    "accession": "0001171843-19-002383",
+    "primary_document": "f8k_041219.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,9.01; accession=0001171843-19-002383"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-02",
+    "acceptance_datetime": "2019-05-02T20:06:20.000Z",
+    "report_date": "2019-05-02",
+    "accession": "0001157523-19-001056",
+    "primary_document": "a51978746.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-19-001056"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01",
+    "filing_date": "2019-05-13",
+    "acceptance_datetime": "2019-05-13T20:06:24.000Z",
+    "report_date": "2019-05-02",
+    "accession": "0001171843-19-003311",
+    "primary_document": "f8k_051319.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,8.01; accession=0001171843-19-003311"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2019-06-20",
+    "acceptance_datetime": "2019-06-20T20:05:42.000Z",
+    "report_date": "2019-06-18",
+    "accession": "0001171843-19-004087",
+    "primary_document": "f8k_062019.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001171843-19-004087"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-06-26",
+    "acceptance_datetime": "2019-06-26T20:05:55.000Z",
+    "report_date": "2019-06-20",
+    "accession": "0001171843-19-004182",
+    "primary_document": "f8k_062619.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001171843-19-004182"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-07-10",
+    "acceptance_datetime": "2019-07-10T20:05:40.000Z",
+    "report_date": "2019-07-05",
+    "accession": "0001171843-19-004502",
+    "primary_document": "f8k_071019.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001171843-19-004502"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-07-24",
+    "acceptance_datetime": "2019-07-24T20:06:06.000Z",
+    "report_date": "2019-07-24",
+    "accession": "0001157523-19-001572",
+    "primary_document": "a52017981.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-19-001572"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-10-25",
+    "acceptance_datetime": "2019-10-24T22:38:38.000Z",
+    "report_date": "2019-10-24",
+    "accession": "0001157523-19-002103",
+    "primary_document": "a52117163.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-19-002103"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-01-06",
+    "acceptance_datetime": "2020-01-06T22:04:26.000Z",
+    "report_date": "2020-01-06",
+    "accession": "0001157523-20-000024",
+    "primary_document": "a52154137.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01,9.01; accession=0001157523-20-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-01-07",
+    "acceptance_datetime": "2020-01-07T21:05:15.000Z",
+    "report_date": "2020-01-04",
+    "accession": "0001171843-20-000105",
+    "primary_document": "f8k_010720.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,9.01; accession=0001171843-20-000105"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,8.01,9.01",
+    "filing_date": "2020-01-24",
+    "acceptance_datetime": "2020-01-24T21:05:12.000Z",
+    "report_date": "2020-01-24",
+    "accession": "0001171843-20-000472",
+    "primary_document": "f8k_012320.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.01,8.01,9.01; accession=0001171843-20-000472"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2020-01-30",
+    "acceptance_datetime": "2020-01-30T21:05:11.000Z",
+    "report_date": "2020-01-29",
+    "accession": "0001171843-20-000604",
+    "primary_document": "f8k_013020.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001171843-20-000604"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,8.01,9.01",
+    "filing_date": "2020-02-03",
+    "acceptance_datetime": "2020-02-03T21:30:12.000Z",
+    "report_date": "2020-02-03",
+    "accession": "0001171843-20-000664",
+    "primary_document": "f8k_020320.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.01,8.01,9.01; accession=0001171843-20-000664"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2020-02-14",
+    "acceptance_datetime": "2020-02-14T21:05:11.000Z",
+    "report_date": "2020-02-10",
+    "accession": "0001171843-20-000991",
+    "primary_document": "f8k_021420.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001171843-20-000991"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-02-20",
+    "acceptance_datetime": "2020-02-20T21:05:16.000Z",
+    "report_date": "2020-02-20",
+    "accession": "0001171843-20-001133",
+    "primary_document": "f8k_022020.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-20-001133"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2020-03-02",
+    "acceptance_datetime": "2020-03-02T21:05:13.000Z",
+    "report_date": "2020-02-25",
+    "accession": "0001171843-20-001415",
+    "primary_document": "f8k_030220.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,9.01; accession=0001171843-20-001415"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2020-03-13",
+    "acceptance_datetime": "2020-03-13T20:05:12.000Z",
+    "report_date": "2020-01-24",
+    "accession": "0001171843-20-001712",
+    "primary_document": "f8ka_031320.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=9.01; accession=0001171843-20-001712"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2020-03-13",
+    "acceptance_datetime": "2020-03-13T20:05:17.000Z",
+    "report_date": "2020-02-03",
+    "accession": "0001171843-20-001713",
+    "primary_document": "f8ka_022520.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=9.01; accession=0001171843-20-001713"
+  },
+  {
+    "form": "8-K",
+    "items": "2.03,9.01",
+    "filing_date": "2020-04-08",
+    "acceptance_datetime": "2020-04-08T20:05:12.000Z",
+    "report_date": "2020-04-08",
+    "accession": "0001171843-20-002483",
+    "primary_document": "f8k_040820.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.03,9.01; accession=0001171843-20-002483"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,7.01,9.01",
+    "filing_date": "2020-04-29",
+    "acceptance_datetime": "2020-04-29T20:15:14.000Z",
+    "report_date": "2020-04-23",
+    "accession": "0001171843-20-003020",
+    "primary_document": "f8k_042920.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,5.02,7.01,9.01; accession=0001171843-20-003020"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-05-07",
+    "acceptance_datetime": "2020-05-07T20:06:05.000Z",
+    "report_date": "2020-05-07",
+    "accession": "0001171843-20-003473",
+    "primary_document": "f8k_050720.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-20-003473"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2020-05-08",
+    "acceptance_datetime": "2020-05-07T22:30:11.000Z",
+    "report_date": "2020-05-07",
+    "accession": "0001171843-20-003513",
+    "primary_document": "f8k_050720.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01; accession=0001171843-20-003513"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2020-06-02",
+    "acceptance_datetime": "2020-06-02T20:05:14.000Z",
+    "report_date": "2020-05-27",
+    "accession": "0001171843-20-004133",
+    "primary_document": "f8k_060220.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001171843-20-004133"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2020-06-18",
+    "acceptance_datetime": "2020-06-18T20:05:13.000Z",
+    "report_date": "2020-06-16",
+    "accession": "0001171843-20-004425",
+    "primary_document": "f8k_061820.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001171843-20-004425"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-07-30",
+    "acceptance_datetime": "2020-07-30T22:50:16.000Z",
+    "report_date": "2020-07-30",
+    "accession": "0001171843-20-005415",
+    "primary_document": "f8k_073020.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-20-005415"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2020-08-05",
+    "acceptance_datetime": "2020-08-05T21:04:03.000Z",
+    "report_date": "2020-08-05",
+    "accession": "0001171843-20-005566",
+    "primary_document": "f8k_080520.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001171843-20-005566"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2020-09-08",
+    "acceptance_datetime": "2020-09-08T21:22:01.000Z",
+    "report_date": "2020-09-03",
+    "accession": "0001171843-20-006332",
+    "primary_document": "f8k_090820.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001171843-20-006332"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-10-21",
+    "acceptance_datetime": "2020-10-21T20:10:16.000Z",
+    "report_date": "2020-10-21",
+    "accession": "0001171843-20-007136",
+    "primary_document": "f8k_102120.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01,9.01; accession=0001171843-20-007136"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-11-04",
+    "acceptance_datetime": "2020-11-04T21:11:27.000Z",
+    "report_date": "2020-11-04",
+    "accession": "0001171843-20-007581",
+    "primary_document": "f8k_110420.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-20-007581"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-03-04",
+    "acceptance_datetime": "2021-03-04T21:10:12.000Z",
+    "report_date": "2021-03-04",
+    "accession": "0001171843-21-001546",
+    "primary_document": "f8k_030421.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-21-001546"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-05-06",
+    "acceptance_datetime": "2021-05-06T20:11:11.000Z",
+    "report_date": "2021-05-06",
+    "accession": "0001171843-21-003263",
+    "primary_document": "f8k_050621.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-21-003263"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2021-06-22",
+    "acceptance_datetime": "2021-06-22T20:15:19.000Z",
+    "report_date": "2021-06-16",
+    "accession": "0001171843-21-004469",
+    "primary_document": "f8k_062121.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001171843-21-004469"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-06-30",
+    "acceptance_datetime": "2021-06-30T21:15:18.000Z",
+    "report_date": "2021-06-24",
+    "accession": "0001171843-21-004630",
+    "primary_document": "f8k_063021.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01; accession=0001171843-21-004630"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-08-05",
+    "acceptance_datetime": "2021-08-05T20:11:36.000Z",
+    "report_date": "2021-08-05",
+    "accession": "0001171843-21-005577",
+    "primary_document": "f8k_080521.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-21-005577"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2021-11-01",
+    "acceptance_datetime": "2021-11-01T21:28:45.000Z",
+    "report_date": "2021-10-28",
+    "accession": "0001171843-21-007366",
+    "primary_document": "f8k_110121.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001171843-21-007366"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-04",
+    "acceptance_datetime": "2021-11-04T20:12:01.000Z",
+    "report_date": "2021-11-04",
+    "accession": "0001171843-21-007565",
+    "primary_document": "f8k_110421.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-21-007565"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2021-11-15",
+    "acceptance_datetime": "2021-11-15T12:58:19.000Z",
+    "report_date": "2021-11-12",
+    "accession": "0001171843-21-007914",
+    "primary_document": "f8k_111521.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001171843-21-007914"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-03-08",
+    "acceptance_datetime": "2022-03-08T21:40:49.000Z",
+    "report_date": "2022-03-08",
+    "accession": "0001171843-22-001706",
+    "primary_document": "f8k_030822.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-22-001706"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-05-05",
+    "acceptance_datetime": "2022-05-05T20:10:31.000Z",
+    "report_date": "2022-05-05",
+    "accession": "0001171843-22-003332",
+    "primary_document": "f8k_050522.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-22-003332"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2022-06-10",
+    "acceptance_datetime": "2022-06-10T20:05:14.000Z",
+    "report_date": "2022-06-08",
+    "accession": "0001171843-22-004296",
+    "primary_document": "f8k_060822.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001171843-22-004296"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-08-03",
+    "acceptance_datetime": "2022-08-03T20:10:26.000Z",
+    "report_date": "2022-08-03",
+    "accession": "0001171843-22-005312",
+    "primary_document": "f8k_080322.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-22-005312"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-11-01",
+    "acceptance_datetime": "2022-11-01T21:17:32.000Z",
+    "report_date": "2022-11-01",
+    "accession": "0001171843-22-006969",
+    "primary_document": "f8k_110122.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01,9.01; accession=0001171843-22-006969"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-11-08",
+    "acceptance_datetime": "2022-11-08T21:10:41.000Z",
+    "report_date": "2022-11-08",
+    "accession": "0001171843-22-007233",
+    "primary_document": "f8k_110822.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-22-007233"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-03-06",
+    "acceptance_datetime": "2023-03-06T21:10:44.000Z",
+    "report_date": "2023-03-06",
+    "accession": "0001171843-23-001426",
+    "primary_document": "f8k_030623.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-23-001426"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,7.01,9.01",
+    "filing_date": "2023-04-13",
+    "acceptance_datetime": "2023-04-13T21:20:55.000Z",
+    "report_date": "2023-04-13",
+    "accession": "0001193125-23-100714",
+    "primary_document": "d438476d8k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,5.02,7.01,9.01; accession=0001193125-23-100714"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-04-28",
+    "acceptance_datetime": "2023-04-28T12:00:57.000Z",
+    "report_date": "2023-04-24",
+    "accession": "0001193125-23-124376",
+    "primary_document": "d472000d8k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-23-124376"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-09",
+    "acceptance_datetime": "2023-05-09T20:11:10.000Z",
+    "report_date": "2023-05-09",
+    "accession": "0001171843-23-003096",
+    "primary_document": "f8k_050923.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-23-003096"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2023-06-21",
+    "acceptance_datetime": "2023-06-21T20:50:17.000Z",
+    "report_date": "2023-06-14",
+    "accession": "0001171843-23-004058",
+    "primary_document": "f8k_062123.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001171843-23-004058"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-08-08",
+    "acceptance_datetime": "2023-08-08T20:11:05.000Z",
+    "report_date": "2023-08-08",
+    "accession": "0001171843-23-005107",
+    "primary_document": "f8k_080823.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-23-005107"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-09-21",
+    "acceptance_datetime": "2023-09-21T11:55:16.000Z",
+    "report_date": "2023-09-21",
+    "accession": "0001171843-23-005813",
+    "primary_document": "f8k_092123.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=7.01,9.01; accession=0001171843-23-005813"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-11-02",
+    "acceptance_datetime": "2023-11-02T20:11:11.000Z",
+    "report_date": "2023-11-02",
+    "accession": "0001171843-23-006678",
+    "primary_document": "f8k_110223.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-23-006678"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2024-02-26",
+    "acceptance_datetime": "2024-02-26T14:00:21.000Z",
+    "report_date": "2024-02-24",
+    "accession": "0001171843-24-000972",
+    "primary_document": "f8k_022624.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,9.01; accession=0001171843-24-000972"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-03-13",
+    "acceptance_datetime": "2024-03-13T20:10:13.000Z",
+    "report_date": "2024-03-13",
+    "accession": "0001171843-24-001322",
+    "primary_document": "f8k_031324.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-24-001322"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-05-08",
+    "acceptance_datetime": "2024-05-08T20:10:21.000Z",
+    "report_date": "2024-05-08",
+    "accession": "0001171843-24-002672",
+    "primary_document": "f8k_050824.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-24-002672"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2024-05-08",
+    "acceptance_datetime": "2024-05-08T20:12:53.000Z",
+    "report_date": "2024-05-02",
+    "accession": "0001171843-24-002673",
+    "primary_document": "f8k_050824.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,9.01; accession=0001171843-24-002673"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,7.01,9.01",
+    "filing_date": "2024-05-28",
+    "acceptance_datetime": "2024-05-28T21:04:51.000Z",
+    "report_date": "2024-05-28",
+    "accession": "0001171843-24-003136",
+    "primary_document": "f8k_052824.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,5.02,7.01,9.01; accession=0001171843-24-003136"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2024-07-11",
+    "acceptance_datetime": "2024-07-11T20:15:12.000Z",
+    "report_date": "2024-07-09",
+    "accession": "0001171843-24-003900",
+    "primary_document": "f8k_071124.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.07; accession=0001171843-24-003900"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-08-08",
+    "acceptance_datetime": "2024-08-08T20:10:57.000Z",
+    "report_date": "2024-08-08",
+    "accession": "0001171843-24-004607",
+    "primary_document": "f8k_080824.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-24-004607"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,7.01,9.01",
+    "filing_date": "2024-10-31",
+    "acceptance_datetime": "2024-10-31T11:16:00.000Z",
+    "report_date": "2024-10-31",
+    "accession": "0001171843-24-005922",
+    "primary_document": "f8k_103024.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.01,7.01,9.01; accession=0001171843-24-005922"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-10-31",
+    "acceptance_datetime": "2024-10-31T11:20:36.000Z",
+    "report_date": "2024-10-31",
+    "accession": "0001171843-24-005923",
+    "primary_document": "f8k_103124.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-24-005923"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,7.01,9.01",
+    "filing_date": "2025-03-11",
+    "acceptance_datetime": "2025-03-11T12:00:39.000Z",
+    "report_date": "2025-03-07",
+    "accession": "0001171843-25-001388",
+    "primary_document": "f8k_031025.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.01,7.01,9.01; accession=0001171843-25-001388"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-03-12",
+    "acceptance_datetime": "2025-03-12T20:10:18.000Z",
+    "report_date": "2025-03-12",
+    "accession": "0001171843-25-001437",
+    "primary_document": "f8k_031225.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-25-001437"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-04-10",
+    "acceptance_datetime": "2025-04-10T20:06:05.000Z",
+    "report_date": "2025-04-04",
+    "accession": "0001171843-25-002148",
+    "primary_document": "f8k_041025.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02; accession=0001171843-25-002148"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-05-09",
+    "acceptance_datetime": "2025-05-09T11:20:20.000Z",
+    "report_date": "2025-05-09",
+    "accession": "0001171843-25-003005",
+    "primary_document": "f8k_050925.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-25-003005"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2025-06-24",
+    "acceptance_datetime": "2025-06-24T21:01:26.000Z",
+    "report_date": "2025-06-20",
+    "accession": "0001171843-25-004062",
+    "primary_document": "f8k_062425.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001171843-25-004062"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2025-07-30",
+    "acceptance_datetime": "2025-07-30T11:15:28.000Z",
+    "report_date": "2025-07-30",
+    "accession": "0001171843-25-004809",
+    "primary_document": "f8k_072925.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=7.01,9.01; accession=0001171843-25-004809"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-07-30",
+    "acceptance_datetime": "2025-07-30T11:21:00.000Z",
+    "report_date": "2025-07-30",
+    "accession": "0001171843-25-004810",
+    "primary_document": "f8k_073025.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-25-004810"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2025-11-05",
+    "acceptance_datetime": "2025-11-05T12:20:49.000Z",
+    "report_date": "2025-11-05",
+    "accession": "0001171843-25-007003",
+    "primary_document": "f8k_110525.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001171843-25-007003"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2026-01-08",
+    "acceptance_datetime": "2026-01-08T21:02:04.000Z",
+    "report_date": "2026-01-07",
+    "accession": "0001193125-26-007655",
+    "primary_document": "d136217d8k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001193125-26-007655"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2026-02-26",
+    "acceptance_datetime": "2026-02-26T12:18:31.000Z",
+    "report_date": "2026-02-26",
+    "accession": "0001193125-26-073401",
+    "primary_document": "d106406d8k.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001193125-26-073401"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2026-04-29",
+    "acceptance_datetime": "2026-04-29T11:20:27.000Z",
+    "report_date": "2026-04-24",
+    "accession": "0001171843-26-002799",
+    "primary_document": "f8k_042926.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001171843-26-002799"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2026-06-23",
+    "acceptance_datetime": "2026-06-23T20:05:18.000Z",
+    "report_date": "2026-06-18",
+    "accession": "0001171843-26-004253",
+    "primary_document": "f8k_062326.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001171843-26-004253"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2026-07-14",
+    "acceptance_datetime": "2026-07-14T21:00:16.000Z",
+    "report_date": "2026-07-10",
+    "accession": "0001171843-26-004635",
+    "primary_document": "f8k_071426.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001171843-26-004635"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-07-29",
+    "acceptance_datetime": "2026-07-29T11:20:33.000Z",
+    "report_date": "2026-07-29",
+    "accession": "0001171843-26-004977",
+    "primary_document": "f8k_072926.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-26-004977"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-11-06",
+    "acceptance_datetime": "2026-11-06T12:20:22.000Z",
+    "report_date": "2026-11-06",
+    "accession": "0001171843-26-007211",
+    "primary_document": "f8k_110626.htm",
+    "cik": "0000898437",
+    "issuer_name": "Anika Therapeutics, Inc.",
+    "tickers": [
+      "ANIK"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000898437.json",
+    "locator": "8-K items=2.02,9.01; accession=0001171843-26-007211"
+  }
+]

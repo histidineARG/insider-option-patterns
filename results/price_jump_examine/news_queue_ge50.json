@@ -2,83 +2,12 @@
   "as_of": "2026-11-06",
   "min_close_return": 0.5,
   "min_prev_close": 5.0,
-  "n_queue": 5,
+  "n_queue": 0,
   "n_first_batch": 0,
   "notes": [
     "Queue requires pending_news_review, mapped CIK, has_option, prev_close>=5, close_return>=50%.",
     "hazard_extreme_print (>=100%) excluded from first news batch until EDGAR/news says otherwise."
   ],
-  "queue": [
-    {
-      "symbol": "PBYI",
-      "qdate": "2014-07-23",
-      "cik": "0001401667",
-      "close_return": 2.954429950872438,
-      "prev_close": 59.03,
-      "close": 233.43,
-      "has_option": true,
-      "hazards": [
-        "hazard_extreme_print"
-      ],
-      "cohort_overlap": false,
-      "include_in_first_news_batch": false
-    },
-    {
-      "symbol": "EDR",
-      "qdate": "2014-12-01",
-      "cik": "0001766363",
-      "close_return": 1.981958762886598,
-      "prev_close": 11.64,
-      "close": 34.71,
-      "has_option": true,
-      "hazards": [
-        "hazard_extreme_print"
-      ],
-      "cohort_overlap": false,
-      "include_in_first_news_batch": false
-    },
-    {
-      "symbol": "GWPH",
-      "qdate": "2016-03-14",
-      "cik": "0001351288",
-      "close_return": 1.202548101924077,
-      "prev_close": 38.46,
-      "close": 84.71,
-      "has_option": true,
-      "hazards": [
-        "hazard_extreme_print"
-      ],
-      "cohort_overlap": false,
-      "include_in_first_news_batch": false
-    },
-    {
-      "symbol": "LEAP",
-      "qdate": "2013-07-15",
-      "cik": "0001818346",
-      "close_return": 1.1240601503759398,
-      "prev_close": 7.98,
-      "close": 16.95,
-      "has_option": true,
-      "hazards": [
-        "hazard_extreme_print"
-      ],
-      "cohort_overlap": false,
-      "include_in_first_news_batch": false
-    },
-    {
-      "symbol": "RGLS",
-      "qdate": "2014-10-22",
-      "cik": "0001505512",
-      "close_return": 1.031019202363368,
-      "prev_close": 6.77,
-      "close": 13.75,
-      "has_option": true,
-      "hazards": [
-        "hazard_extreme_print"
-      ],
-      "cohort_overlap": false,
-      "include_in_first_news_batch": false
-    }
-  ],
+  "queue": [],
   "first_batch": []
 }

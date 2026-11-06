@@ -1,0 +1,2450 @@
+[
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2014-02-07",
+    "acceptance_datetime": "2014-02-07T21:41:23.000Z",
+    "report_date": "2014-02-03",
+    "accession": "0001193125-14-040846",
+    "primary_document": "d669989d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-14-040846"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-03-19",
+    "acceptance_datetime": "2014-03-19T11:59:29.000Z",
+    "report_date": "2014-03-19",
+    "accession": "0001193125-14-105274",
+    "primary_document": "d695862d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-105274"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-05-01",
+    "acceptance_datetime": "2014-05-01T11:07:34.000Z",
+    "report_date": "2014-05-01",
+    "accession": "0001193125-14-174462",
+    "primary_document": "d719308d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-174462"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,8.01,9.01",
+    "filing_date": "2014-06-05",
+    "acceptance_datetime": "2014-06-04T21:54:53.000Z",
+    "report_date": "2014-06-04",
+    "accession": "0001193125-14-225969",
+    "primary_document": "d739520d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,1.02,2.03,8.01,9.01; accession=0001193125-14-225969"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2014-07-23",
+    "acceptance_datetime": "2014-07-23T20:42:00.000Z",
+    "report_date": "2014-07-22",
+    "accession": "0001193125-14-277185",
+    "primary_document": "d764027d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-14-277185"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-07-31",
+    "acceptance_datetime": "2014-07-31T11:01:00.000Z",
+    "report_date": "2014-07-31",
+    "accession": "0001193125-14-288212",
+    "primary_document": "d766371d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-288212"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,2.03,9.01",
+    "filing_date": "2014-09-03",
+    "acceptance_datetime": "2014-09-03T20:58:06.000Z",
+    "report_date": "2014-09-03",
+    "accession": "0001193125-14-330717",
+    "primary_document": "d785149d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,2.01,2.03,9.01; accession=0001193125-14-330717"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-10-30",
+    "acceptance_datetime": "2014-10-30T11:20:35.000Z",
+    "report_date": "2014-10-30",
+    "accession": "0001193125-14-388302",
+    "primary_document": "d812165d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-388302"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-11-21",
+    "acceptance_datetime": "2014-11-21T00:26:33.000Z",
+    "report_date": "2014-11-20",
+    "accession": "0001193125-14-420384",
+    "primary_document": "d825375d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-14-420384"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2014-11-28",
+    "acceptance_datetime": "2014-11-26T23:26:30.000Z",
+    "report_date": "2014-11-20",
+    "accession": "0001193125-14-427415",
+    "primary_document": "d826700d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-14-427415"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-12-02",
+    "acceptance_datetime": "2014-12-02T13:33:54.000Z",
+    "report_date": "2014-12-02",
+    "accession": "0001193125-14-430197",
+    "primary_document": "d829551d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-14-430197"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,2.03,8.01,9.01",
+    "filing_date": "2015-01-12",
+    "acceptance_datetime": "2015-01-12T21:44:06.000Z",
+    "report_date": "2015-01-09",
+    "accession": "0001193125-15-008164",
+    "primary_document": "d850503d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,2.01,2.03,8.01,9.01; accession=0001193125-15-008164"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-02-20",
+    "acceptance_datetime": "2015-02-20T11:06:36.000Z",
+    "report_date": "2015-02-19",
+    "accession": "0001193125-15-054875",
+    "primary_document": "d877648d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-15-054875"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-02-20",
+    "acceptance_datetime": "2015-02-20T21:14:35.000Z",
+    "report_date": "2015-02-13",
+    "accession": "0001193125-15-056331",
+    "primary_document": "d875429d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-15-056331"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-02-23",
+    "acceptance_datetime": "2015-02-23T21:02:30.000Z",
+    "report_date": "2015-02-19",
+    "accession": "0001193125-15-058129",
+    "primary_document": "d879051d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-15-058129"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-02-26",
+    "acceptance_datetime": "2015-02-26T12:15:36.000Z",
+    "report_date": "2015-02-26",
+    "accession": "0001193125-15-064025",
+    "primary_document": "d881950d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-064025"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2015-03-02",
+    "acceptance_datetime": "2015-03-02T21:00:52.000Z",
+    "report_date": "2015-02-24",
+    "accession": "0001193125-15-073213",
+    "primary_document": "d882981d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-15-073213"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-03-12",
+    "acceptance_datetime": "2015-03-11T22:01:31.000Z",
+    "report_date": "2015-03-06",
+    "accession": "0001193125-15-087672",
+    "primary_document": "d888431d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-15-087672"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,8.01,9.01",
+    "filing_date": "2015-03-18",
+    "acceptance_datetime": "2015-03-18T20:30:53.000Z",
+    "report_date": "2015-03-18",
+    "accession": "0001193125-15-097020",
+    "primary_document": "d894055d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.01,8.01,9.01; accession=0001193125-15-097020"
+  },
+  {
+    "form": "8-K",
+    "items": "9.01",
+    "filing_date": "2015-04-10",
+    "acceptance_datetime": "2015-04-09T22:32:01.000Z",
+    "report_date": "2015-04-09",
+    "accession": "0001193125-15-124520",
+    "primary_document": "d903843d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=9.01; accession=0001193125-15-124520"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2015-04-10",
+    "acceptance_datetime": "2015-04-10T21:30:00.000Z",
+    "report_date": "2015-04-09",
+    "accession": "0001193125-15-126314",
+    "primary_document": "d905908d8ka.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=9.01; accession=0001193125-15-126314"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-04-30",
+    "acceptance_datetime": "2015-04-30T11:15:36.000Z",
+    "report_date": "2015-04-30",
+    "accession": "0001193125-15-158793",
+    "primary_document": "d919344d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-158793"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-05-22",
+    "acceptance_datetime": "2015-05-22T20:16:02.000Z",
+    "report_date": "2015-05-21",
+    "accession": "0001193125-15-198716",
+    "primary_document": "d930465d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.07; accession=0001193125-15-198716"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-06-02",
+    "acceptance_datetime": "2015-06-02T20:21:09.000Z",
+    "report_date": "2015-05-29",
+    "accession": "0001193125-15-210619",
+    "primary_document": "d937217d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-15-210619"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2015-06-03",
+    "acceptance_datetime": "2015-06-03T12:50:29.000Z",
+    "report_date": "2015-06-03",
+    "accession": "0001193125-15-211316",
+    "primary_document": "d935369d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-15-211316"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,8.01,9.01",
+    "filing_date": "2015-06-15",
+    "acceptance_datetime": "2015-06-15T20:22:06.000Z",
+    "report_date": "2015-06-15",
+    "accession": "0001193125-15-223360",
+    "primary_document": "d942897d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.01,8.01,9.01; accession=0001193125-15-223360"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-07-30",
+    "acceptance_datetime": "2015-07-30T11:20:58.000Z",
+    "report_date": "2015-07-30",
+    "accession": "0001193125-15-269290",
+    "primary_document": "d30111d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-269290"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-10-29",
+    "acceptance_datetime": "2015-10-29T11:02:00.000Z",
+    "report_date": "2015-10-29",
+    "accession": "0001193125-15-357007",
+    "primary_document": "d72924d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-357007"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,8.01,9.01",
+    "filing_date": "2015-12-15",
+    "acceptance_datetime": "2015-12-15T21:16:58.000Z",
+    "report_date": "2015-12-10",
+    "accession": "0001193125-15-403729",
+    "primary_document": "d102282d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,2.01,8.01,9.01; accession=0001193125-15-403729"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-25",
+    "acceptance_datetime": "2016-02-25T12:02:06.000Z",
+    "report_date": "2016-02-25",
+    "accession": "0001193125-16-476866",
+    "primary_document": "d149252d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-476866"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-04-28",
+    "acceptance_datetime": "2016-04-28T11:05:33.000Z",
+    "report_date": "2016-04-28",
+    "accession": "0001193125-16-560984",
+    "primary_document": "d188774d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-560984"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2016-05-31",
+    "acceptance_datetime": "2016-05-31T20:46:03.000Z",
+    "report_date": "2016-05-25",
+    "accession": "0001193125-16-608541",
+    "primary_document": "d198252d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.07; accession=0001193125-16-608541"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-07-28",
+    "acceptance_datetime": "2016-07-28T11:21:03.000Z",
+    "report_date": "2016-07-28",
+    "accession": "0001193125-16-661079",
+    "primary_document": "d234511d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-661079"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-10-27",
+    "acceptance_datetime": "2016-10-27T11:05:32.000Z",
+    "report_date": "2016-10-27",
+    "accession": "0001193125-16-748666",
+    "primary_document": "d277514d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-748666"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-11-23",
+    "acceptance_datetime": "2016-11-23T21:10:38.000Z",
+    "report_date": "2016-11-17",
+    "accession": "0001567619-16-003262",
+    "primary_document": "s001474x4_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001567619-16-003262"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-12-15",
+    "acceptance_datetime": "2016-12-15T21:07:14.000Z",
+    "report_date": "2016-12-12",
+    "accession": "0001567619-16-003359",
+    "primary_document": "s001494x1_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001567619-16-003359"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-02-21",
+    "acceptance_datetime": "2017-02-21T12:06:03.000Z",
+    "report_date": "2017-02-21",
+    "accession": "0001193125-17-049321",
+    "primary_document": "d353995d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-049321"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-04-27",
+    "acceptance_datetime": "2017-04-27T11:05:56.000Z",
+    "report_date": "2017-04-27",
+    "accession": "0001193125-17-140860",
+    "primary_document": "d379327d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-140860"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-05-17",
+    "acceptance_datetime": "2017-05-17T21:03:48.000Z",
+    "report_date": "2017-05-17",
+    "accession": "0001567619-17-001054",
+    "primary_document": "s001709x1_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001567619-17-001054"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2017-05-26",
+    "acceptance_datetime": "2017-05-26T20:30:25.000Z",
+    "report_date": "2017-05-25",
+    "accession": "0001567619-17-001155",
+    "primary_document": "s001725x1_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.07; accession=0001567619-17-001155"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2017-07-18",
+    "acceptance_datetime": "2017-07-18T21:29:45.000Z",
+    "report_date": "2017-07-14",
+    "accession": "0001567619-17-001464",
+    "primary_document": "s001784x1_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,9.01; accession=0001567619-17-001464"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-07-27",
+    "acceptance_datetime": "2017-07-27T11:10:35.000Z",
+    "report_date": "2017-07-27",
+    "accession": "0001193125-17-237352",
+    "primary_document": "d417070d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-237352"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2017-08-11",
+    "acceptance_datetime": "2017-08-11T20:10:34.000Z",
+    "report_date": "2017-08-09",
+    "accession": "0001193125-17-255936",
+    "primary_document": "d395496d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-17-255936"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-10-26",
+    "acceptance_datetime": "2017-10-26T11:22:05.000Z",
+    "report_date": "2017-10-26",
+    "accession": "0001193125-17-320119",
+    "primary_document": "d480092d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-320119"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2018-02-16",
+    "acceptance_datetime": "2018-02-16T22:08:14.000Z",
+    "report_date": "2018-02-16",
+    "accession": "0001140361-18-008845",
+    "primary_document": "s002068x1_form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-18-008845"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-28",
+    "acceptance_datetime": "2018-02-28T12:31:03.000Z",
+    "report_date": "2018-02-28",
+    "accession": "0001193125-18-062124",
+    "primary_document": "d543022d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-062124"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-04-10",
+    "acceptance_datetime": "2018-04-10T21:09:21.000Z",
+    "report_date": "2018-04-05",
+    "accession": "0001140361-18-018062",
+    "primary_document": "s002171x4_form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-18-018062"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-04-13",
+    "acceptance_datetime": "2018-04-13T20:25:50.000Z",
+    "report_date": "2018-04-11",
+    "accession": "0001140361-18-018546",
+    "primary_document": "s002205x1_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-18-018546"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-05-03",
+    "acceptance_datetime": "2018-05-03T10:54:56.000Z",
+    "report_date": "2018-05-03",
+    "accession": "0001193125-18-149477",
+    "primary_document": "d564546d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-149477"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-05-25",
+    "acceptance_datetime": "2018-05-25T20:30:43.000Z",
+    "report_date": "2018-05-24",
+    "accession": "0001140361-18-025743",
+    "primary_document": "s002296x1_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.07; accession=0001140361-18-025743"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-08-02",
+    "acceptance_datetime": "2018-08-02T10:47:04.000Z",
+    "report_date": "2018-08-02",
+    "accession": "0001193125-18-235576",
+    "primary_document": "d541378d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-235576"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-10-31",
+    "acceptance_datetime": "2018-10-31T10:45:43.000Z",
+    "report_date": "2018-10-31",
+    "accession": "0001140361-18-041798",
+    "primary_document": "s002505x1_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-18-041798"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2018-11-29",
+    "acceptance_datetime": "2018-11-29T21:26:45.000Z",
+    "report_date": "2018-11-28",
+    "accession": "0001140361-18-044046",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-18-044046"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,9.01",
+    "filing_date": "2019-02-06",
+    "acceptance_datetime": "2019-02-06T21:15:26.000Z",
+    "report_date": "2019-01-31",
+    "accession": "0001140361-19-002576",
+    "primary_document": "s002655x1_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.01,9.01; accession=0001140361-19-002576"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-27",
+    "acceptance_datetime": "2019-02-27T12:29:03.000Z",
+    "report_date": "2019-02-27",
+    "accession": "0001193125-19-052833",
+    "primary_document": "d703928d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-052833"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-02",
+    "acceptance_datetime": "2019-05-02T10:45:32.000Z",
+    "report_date": "2019-05-02",
+    "accession": "0001193125-19-133785",
+    "primary_document": "d693420d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-133785"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-05-08",
+    "acceptance_datetime": "2019-05-08T20:32:56.000Z",
+    "report_date": "2019-05-03",
+    "accession": "0001193125-19-141480",
+    "primary_document": "d743055d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02; accession=0001193125-19-141480"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01",
+    "filing_date": "2019-05-23",
+    "acceptance_datetime": "2019-05-23T20:14:55.000Z",
+    "report_date": "2019-05-20",
+    "accession": "0001193125-19-155342",
+    "primary_document": "d752613d8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.07,8.01; accession=0001193125-19-155342"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-08-05",
+    "acceptance_datetime": "2019-08-05T21:19:53.000Z",
+    "report_date": "2019-08-05",
+    "accession": "0001140361-19-014243",
+    "primary_document": "nc10003799x2_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-19-014243"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2019-08-06",
+    "acceptance_datetime": "2019-08-06T21:08:02.000Z",
+    "report_date": "2019-08-05",
+    "accession": "0001140361-19-014362",
+    "primary_document": "nc10003799x9_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001140361-19-014362"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2019-09-19",
+    "acceptance_datetime": "2019-09-19T20:49:32.000Z",
+    "report_date": "2019-09-13",
+    "accession": "0001140361-19-016980",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-19-016980"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-09-26",
+    "acceptance_datetime": "2019-09-26T19:10:55.000Z",
+    "report_date": "2019-09-25",
+    "accession": "0001140361-19-017293",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01; accession=0001140361-19-017293"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-10-01",
+    "acceptance_datetime": "2019-09-30T22:08:28.000Z",
+    "report_date": "2019-09-30",
+    "accession": "0001140361-19-017591",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-19-017591"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-10-17",
+    "acceptance_datetime": "2019-10-17T11:46:26.000Z",
+    "report_date": "2019-10-16",
+    "accession": "0001140361-19-018561",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-19-018561"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2019-10-30",
+    "acceptance_datetime": "2019-10-30T01:30:12.000Z",
+    "report_date": "2019-10-29",
+    "accession": "0001140361-19-019336",
+    "primary_document": "nc10003799x19_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001140361-19-019336"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-10-31",
+    "acceptance_datetime": "2019-10-31T10:40:32.000Z",
+    "report_date": "2019-10-31",
+    "accession": "0001140361-19-019463",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-19-019463"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-11-05",
+    "acceptance_datetime": "2019-11-05T00:50:27.000Z",
+    "report_date": "2019-11-04",
+    "accession": "0001140361-19-019743",
+    "primary_document": "nc10003799x25_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01; accession=0001140361-19-019743"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.01,2.03,3.03,5.02,5.03,5.07,9.01",
+    "filing_date": "2019-11-20",
+    "acceptance_datetime": "2019-11-20T11:55:41.000Z",
+    "report_date": "2019-11-14",
+    "accession": "0001140361-19-020986",
+    "primary_document": "nc10003799x30_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,1.02,2.01,2.03,3.03,5.02,5.03,5.07,9.01; accession=0001140361-19-020986"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,8.01,9.01",
+    "filing_date": "2020-01-08",
+    "acceptance_datetime": "2020-01-08T21:47:42.000Z",
+    "report_date": "2020-01-03",
+    "accession": "0001140361-20-000517",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02,5.03,8.01,9.01; accession=0001140361-20-000517"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-01-15",
+    "acceptance_datetime": "2020-01-15T12:06:12.000Z",
+    "report_date": "2020-01-15",
+    "accession": "0001140361-20-000813",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-20-000813"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-02-27",
+    "acceptance_datetime": "2020-02-27T12:52:33.000Z",
+    "report_date": "2020-02-27",
+    "accession": "0001579684-20-000003",
+    "primary_document": "gciq42019earningsrelea.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-20-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-04-01",
+    "acceptance_datetime": "2020-04-01T12:15:13.000Z",
+    "report_date": "2020-04-01",
+    "accession": "0001140361-20-007604",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-20-007604"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2020-04-06",
+    "acceptance_datetime": "2020-04-06T21:27:58.000Z",
+    "report_date": "2020-03-31",
+    "accession": "0001140361-20-008147",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001140361-20-008147"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,5.03,9.01",
+    "filing_date": "2020-04-07",
+    "acceptance_datetime": "2020-04-07T13:28:27.000Z",
+    "report_date": "2020-04-06",
+    "accession": "0001140361-20-008189",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,3.03,5.03,9.01; accession=0001140361-20-008189"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-05-07",
+    "acceptance_datetime": "2020-05-07T12:12:18.000Z",
+    "report_date": "2020-05-07",
+    "accession": "0001579684-20-000010",
+    "primary_document": "gciq12020earningsrelea.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-20-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2020-06-09",
+    "acceptance_datetime": "2020-06-09T20:35:38.000Z",
+    "report_date": "2020-06-08",
+    "accession": "0001140361-20-013420",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.07; accession=0001140361-20-013420"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2020-06-18",
+    "acceptance_datetime": "2020-06-18T21:13:22.000Z",
+    "report_date": "2020-06-18",
+    "accession": "0000950157-20-000770",
+    "primary_document": "form8-k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950157-20-000770"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-08-06",
+    "acceptance_datetime": "2020-08-06T11:28:27.000Z",
+    "report_date": "2020-08-06",
+    "accession": "0001579684-20-000018",
+    "primary_document": "gciq22020earningsrelea.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-20-000018"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-08-06",
+    "acceptance_datetime": "2020-08-06T21:24:30.000Z",
+    "report_date": "2020-08-06",
+    "accession": "0001140361-20-017703",
+    "primary_document": "nt10014115x2_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-20-017703"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2020-09-08",
+    "acceptance_datetime": "2020-09-08T21:24:34.000Z",
+    "report_date": "2020-09-08",
+    "accession": "0001140361-20-019970",
+    "primary_document": "brhc10014980_form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001140361-20-019970"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-11-03",
+    "acceptance_datetime": "2020-11-03T12:19:44.000Z",
+    "report_date": "2020-11-03",
+    "accession": "0001579684-20-000024",
+    "primary_document": "gciq32020earningsrelea.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-20-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-11-18",
+    "acceptance_datetime": "2020-11-18T02:47:27.000Z",
+    "report_date": "2020-11-17",
+    "accession": "0001140361-20-025884",
+    "primary_document": "form8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-20-025884"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,5.02,9.01",
+    "filing_date": "2020-12-22",
+    "acceptance_datetime": "2020-12-22T21:21:43.000Z",
+    "report_date": "2020-12-21",
+    "accession": "0001140361-20-029198",
+    "primary_document": "nc10018164x1_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,1.02,5.02,9.01; accession=0001140361-20-029198"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2020-12-28",
+    "acceptance_datetime": "2020-12-28T22:04:55.000Z",
+    "report_date": "2020-12-21",
+    "accession": "0001140361-20-029621",
+    "primary_document": "brhc10018375_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-20-029621"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-01-19",
+    "acceptance_datetime": "2021-01-19T12:15:24.000Z",
+    "report_date": "2021-01-19",
+    "accession": "0001140361-21-001380",
+    "primary_document": "brhc10018910_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-21-001380"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,8.01,9.01",
+    "filing_date": "2021-02-12",
+    "acceptance_datetime": "2021-02-12T21:35:57.000Z",
+    "report_date": "2021-02-09",
+    "accession": "0001140361-21-004657",
+    "primary_document": "brhc10019967_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,1.02,2.03,8.01,9.01; accession=0001140361-21-004657"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2021-02-16",
+    "acceptance_datetime": "2021-02-16T12:32:57.000Z",
+    "report_date": "2021-02-15",
+    "accession": "0001140361-21-004856",
+    "primary_document": "brhc10020370_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-21-004856"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-02-19",
+    "acceptance_datetime": "2021-02-19T21:15:45.000Z",
+    "report_date": "2021-02-15",
+    "accession": "0001140361-21-005490",
+    "primary_document": "brhc10020526_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02; accession=0001140361-21-005490"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-25",
+    "acceptance_datetime": "2021-02-25T12:07:05.000Z",
+    "report_date": "2021-02-25",
+    "accession": "0001579684-21-000006",
+    "primary_document": "gci-20210225.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-21-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2021-02-26",
+    "acceptance_datetime": "2021-02-26T21:15:20.000Z",
+    "report_date": "2021-02-26",
+    "accession": "0001140361-21-006412",
+    "primary_document": "brhc10020933_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.07; accession=0001140361-21-006412"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-05-07",
+    "acceptance_datetime": "2021-05-07T11:05:31.000Z",
+    "report_date": "2021-05-07",
+    "accession": "0001579684-21-000016",
+    "primary_document": "gci-20210507.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-21-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-05-18",
+    "acceptance_datetime": "2021-05-18T10:01:47.000Z",
+    "report_date": "2021-05-18",
+    "accession": "0001140361-21-017781",
+    "primary_document": "brhc10024748_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-21-017781"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2021-06-08",
+    "acceptance_datetime": "2021-06-08T11:30:20.000Z",
+    "report_date": "2021-06-07",
+    "accession": "0001140361-21-020128",
+    "primary_document": "brhc10025537_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.07; accession=0001140361-21-020128"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2021-07-27",
+    "acceptance_datetime": "2021-07-27T11:00:35.000Z",
+    "report_date": "2021-07-26",
+    "accession": "0001140361-21-025679",
+    "primary_document": "brhc10027221_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001140361-21-025679"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-08-06",
+    "acceptance_datetime": "2021-08-06T11:10:09.000Z",
+    "report_date": "2021-08-06",
+    "accession": "0001579684-21-000030",
+    "primary_document": "gci-20210806.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-21-000030"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-09-27",
+    "acceptance_datetime": "2021-09-27T10:31:17.000Z",
+    "report_date": "2021-09-27",
+    "accession": "0001140361-21-032515",
+    "primary_document": "brhc10029265_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-21-032515"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-10-06",
+    "acceptance_datetime": "2021-10-06T00:24:52.000Z",
+    "report_date": "2021-10-05",
+    "accession": "0001140361-21-033791",
+    "primary_document": "brhc10029648_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-21-033791"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,8.01,9.01",
+    "filing_date": "2021-10-18",
+    "acceptance_datetime": "2021-10-18T20:58:36.000Z",
+    "report_date": "2021-10-15",
+    "accession": "0000950157-21-001105",
+    "primary_document": "form8-k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,1.02,2.03,8.01,9.01; accession=0000950157-21-001105"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-05",
+    "acceptance_datetime": "2021-11-05T11:07:54.000Z",
+    "report_date": "2021-11-05",
+    "accession": "0001579684-21-000040",
+    "primary_document": "gci-20211105.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-21-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-12-23",
+    "acceptance_datetime": "2021-12-23T21:16:11.000Z",
+    "report_date": "2021-12-20",
+    "accession": "0001140361-21-042932",
+    "primary_document": "brhc10032187_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02; accession=0001140361-21-042932"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2022-01-14",
+    "acceptance_datetime": "2022-01-14T21:31:42.000Z",
+    "report_date": "2022-01-13",
+    "accession": "0001140361-22-001731",
+    "primary_document": "brhc10032866_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01; accession=0001140361-22-001731"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2022-02-04",
+    "acceptance_datetime": "2022-02-04T14:13:58.000Z",
+    "report_date": "2022-01-31",
+    "accession": "0000950157-22-000083",
+    "primary_document": "form8-k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0000950157-22-000083"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-02-24",
+    "acceptance_datetime": "2022-02-24T12:07:11.000Z",
+    "report_date": "2022-02-24",
+    "accession": "0001579684-22-000007",
+    "primary_document": "gci-20220224.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-22-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2022-02-25",
+    "acceptance_datetime": "2022-02-25T21:30:45.000Z",
+    "report_date": "2022-02-24",
+    "accession": "0001140361-22-006819",
+    "primary_document": "brhc10034477_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01; accession=0001140361-22-006819"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-04-06",
+    "acceptance_datetime": "2022-04-06T11:45:36.000Z",
+    "report_date": "2022-04-06",
+    "accession": "0001140361-22-013289",
+    "primary_document": "brhc10036100_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-22-013289"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-05-05",
+    "acceptance_datetime": "2022-05-05T11:07:46.000Z",
+    "report_date": "2022-05-05",
+    "accession": "0001579684-22-000017",
+    "primary_document": "gci-20220505.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-22-000017"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-05-19",
+    "acceptance_datetime": "2022-05-19T12:00:23.000Z",
+    "report_date": "2022-05-19",
+    "accession": "0001140361-22-019867",
+    "primary_document": "brhc10037874_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-22-019867"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2022-06-07",
+    "acceptance_datetime": "2022-06-07T20:30:16.000Z",
+    "report_date": "2022-06-06",
+    "accession": "0001140361-22-022214",
+    "primary_document": "brhc10038510_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.07; accession=0001140361-22-022214"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-08-04",
+    "acceptance_datetime": "2022-08-04T11:06:43.000Z",
+    "report_date": "2022-08-04",
+    "accession": "0001579684-22-000027",
+    "primary_document": "gci-20220804.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-22-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2022-08-25",
+    "acceptance_datetime": "2022-08-25T11:00:37.000Z",
+    "report_date": "2022-08-24",
+    "accession": "0001140361-22-030811",
+    "primary_document": "brhc10041218_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01; accession=0001140361-22-030811"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-09-09",
+    "acceptance_datetime": "2022-09-09T11:00:42.000Z",
+    "report_date": "2022-09-09",
+    "accession": "0001140361-22-032824",
+    "primary_document": "brhc10041718_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-22-032824"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-10-05",
+    "acceptance_datetime": "2022-10-05T11:00:35.000Z",
+    "report_date": "2022-10-05",
+    "accession": "0001140361-22-036219",
+    "primary_document": "brhc10042665_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-22-036219"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-11-03",
+    "acceptance_datetime": "2022-11-03T11:06:57.000Z",
+    "report_date": "2022-11-03",
+    "accession": "0001579684-22-000035",
+    "primary_document": "gci-20221103.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-22-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2022-11-09",
+    "acceptance_datetime": "2022-11-09T17:50:20.000Z",
+    "report_date": "2022-11-09",
+    "accession": "0001140361-22-040638",
+    "primary_document": "brhc10043907_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01; accession=0001140361-22-040638"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2022-11-22",
+    "acceptance_datetime": "2022-11-22T14:27:15.000Z",
+    "report_date": "2022-11-21",
+    "accession": "0001140361-22-042684",
+    "primary_document": "brhc10044575_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01; accession=0001140361-22-042684"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-02-03",
+    "acceptance_datetime": "2023-02-03T11:45:32.000Z",
+    "report_date": "2023-02-03",
+    "accession": "0001140361-23-004338",
+    "primary_document": "brhc10047505_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-23-004338"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-02-08",
+    "acceptance_datetime": "2023-02-08T13:30:23.000Z",
+    "report_date": "2023-02-08",
+    "accession": "0001140361-23-005125",
+    "primary_document": "brhc10047561_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-23-005125"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-02-23",
+    "acceptance_datetime": "2023-02-23T12:14:00.000Z",
+    "report_date": "2023-02-23",
+    "accession": "0001579684-23-000011",
+    "primary_document": "gci-20230223.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-23-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01,9.01",
+    "filing_date": "2023-03-13",
+    "acceptance_datetime": "2023-03-13T20:45:36.000Z",
+    "report_date": "2023-03-09",
+    "accession": "0001140361-23-011437",
+    "primary_document": "brhc10049705_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=4.01,9.01; accession=0001140361-23-011437"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-04",
+    "acceptance_datetime": "2023-05-04T11:17:29.000Z",
+    "report_date": "2023-05-04",
+    "accession": "0001579684-23-000021",
+    "primary_document": "gci-20230504.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-23-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "3.03,5.03,9.01",
+    "filing_date": "2023-05-08",
+    "acceptance_datetime": "2023-05-08T11:00:20.000Z",
+    "report_date": "2023-05-05",
+    "accession": "0001140361-23-023327",
+    "primary_document": "brhc20052508_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=3.03,5.03,9.01; accession=0001140361-23-023327"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01",
+    "filing_date": "2023-06-05",
+    "acceptance_datetime": "2023-06-05T21:19:26.000Z",
+    "report_date": "2023-06-05",
+    "accession": "0001140361-23-028418",
+    "primary_document": "brhc20054037_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.07,8.01; accession=0001140361-23-028418"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-06-20",
+    "acceptance_datetime": "2023-06-20T12:03:15.000Z",
+    "report_date": "2023-06-20",
+    "accession": "0001140361-23-030390",
+    "primary_document": "brhc20054612_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-23-030390"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-08-03",
+    "acceptance_datetime": "2023-08-03T11:07:42.000Z",
+    "report_date": "2023-08-03",
+    "accession": "0001579684-23-000031",
+    "primary_document": "gci-20230803.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-23-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-08-10",
+    "acceptance_datetime": "2023-08-10T11:05:25.000Z",
+    "report_date": "2023-08-10",
+    "accession": "0001140361-23-038898",
+    "primary_document": "brhc20057285_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-23-038898"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-08-11",
+    "acceptance_datetime": "2023-08-11T20:17:28.000Z",
+    "report_date": "2023-08-09",
+    "accession": "0001140361-23-039285",
+    "primary_document": "brhc20057284_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02; accession=0001140361-23-039285"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-09-18",
+    "acceptance_datetime": "2023-09-18T11:06:16.000Z",
+    "report_date": "2023-09-18",
+    "accession": "0001140361-23-044234",
+    "primary_document": "ef20010643_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-23-044234"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-11-02",
+    "acceptance_datetime": "2023-11-02T11:07:36.000Z",
+    "report_date": "2023-11-02",
+    "accession": "0001579684-23-000040",
+    "primary_document": "gci-20231102.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-23-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-11-15",
+    "acceptance_datetime": "2023-11-15T21:30:23.000Z",
+    "report_date": "2023-11-15",
+    "accession": "0001140361-23-053450",
+    "primary_document": "ef20014770_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-23-053450"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-22",
+    "acceptance_datetime": "2024-02-22T12:15:41.000Z",
+    "report_date": "2024-02-22",
+    "accession": "0001579684-24-000006",
+    "primary_document": "gci-20240222.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-24-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-03-26",
+    "acceptance_datetime": "2024-03-26T11:15:30.000Z",
+    "report_date": "2024-03-26",
+    "accession": "0001140361-24-015162",
+    "primary_document": "ef20025072_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-24-015162"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-03-29",
+    "acceptance_datetime": "2024-03-29T12:30:23.000Z",
+    "report_date": "2024-03-29",
+    "accession": "0001140361-24-016461",
+    "primary_document": "ef20025487_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-24-016461"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-05-02",
+    "acceptance_datetime": "2024-05-02T11:05:20.000Z",
+    "report_date": "2024-05-02",
+    "accession": "0001579684-24-000029",
+    "primary_document": "gci-20240502.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-24-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "3.03,5.03,5.07,9.01",
+    "filing_date": "2024-06-04",
+    "acceptance_datetime": "2024-06-04T12:06:14.000Z",
+    "report_date": "2024-06-03",
+    "accession": "0001579684-24-000035",
+    "primary_document": "gci-20240603.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=3.03,5.03,5.07,9.01; accession=0001579684-24-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-08-01",
+    "acceptance_datetime": "2024-08-01T11:06:35.000Z",
+    "report_date": "2024-08-01",
+    "accession": "0001579684-24-000043",
+    "primary_document": "gci-20240801.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-24-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2024-08-26",
+    "acceptance_datetime": "2024-08-26T21:03:22.000Z",
+    "report_date": "2024-08-25",
+    "accession": "0001579684-24-000049",
+    "primary_document": "gci-20240825.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,9.01; accession=0001579684-24-000049"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-09-05",
+    "acceptance_datetime": "2024-09-05T12:07:36.000Z",
+    "report_date": "2024-09-05",
+    "accession": "0001579684-24-000052",
+    "primary_document": "gci-20240905.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01,9.01; accession=0001579684-24-000052"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,7.01,9.01",
+    "filing_date": "2024-10-16",
+    "acceptance_datetime": "2024-10-16T20:51:48.000Z",
+    "report_date": "2024-10-15",
+    "accession": "0001140361-24-043565",
+    "primary_document": "ef20037312_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=1.01,2.03,3.02,7.01,9.01; accession=0001140361-24-043565"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-10-31",
+    "acceptance_datetime": "2024-10-31T11:05:39.000Z",
+    "report_date": "2024-10-31",
+    "accession": "0001579684-24-000057",
+    "primary_document": "gci-20241031.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-24-000057"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-02-20",
+    "acceptance_datetime": "2025-02-20T13:06:53.000Z",
+    "report_date": "2025-02-20",
+    "accession": "0001579684-25-000005",
+    "primary_document": "gci-20250220.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-25-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2025-03-18",
+    "acceptance_datetime": "2025-03-18T12:55:22.000Z",
+    "report_date": "2025-03-18",
+    "accession": "0001140361-25-009170",
+    "primary_document": "ef20045543_8k.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001140361-25-009170"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-05-01",
+    "acceptance_datetime": "2025-05-01T12:06:19.000Z",
+    "report_date": "2025-05-01",
+    "accession": "0001579684-25-000029",
+    "primary_document": "gci-20250501.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-25-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2025-06-02",
+    "acceptance_datetime": "2025-06-02T20:39:22.000Z",
+    "report_date": "2025-06-02",
+    "accession": "0001579684-25-000035",
+    "primary_document": "gci-20250602.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.07; accession=0001579684-25-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-07-31",
+    "acceptance_datetime": "2025-07-31T12:07:52.000Z",
+    "report_date": "2025-07-31",
+    "accession": "0001579684-25-000061",
+    "primary_document": "gci-20250731.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-25-000061"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-10-30",
+    "acceptance_datetime": "2025-10-30T12:04:00.000Z",
+    "report_date": "2025-10-30",
+    "accession": "0001579684-25-000075",
+    "primary_document": "gci-20251030.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-25-000075"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,7.01,8.01,9.01",
+    "filing_date": "2025-11-18",
+    "acceptance_datetime": "2025-11-18T12:57:18.000Z",
+    "report_date": "2025-11-14",
+    "accession": "0001579684-25-000083",
+    "primary_document": "tday-20251114.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.03,7.01,8.01,9.01; accession=0001579684-25-000083"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-02-26",
+    "acceptance_datetime": "2026-02-26T13:08:55.000Z",
+    "report_date": "2026-02-26",
+    "accession": "0001579684-26-000008",
+    "primary_document": "tday-20260226.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-26-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-04-30",
+    "acceptance_datetime": "2026-04-30T12:03:11.000Z",
+    "report_date": "2026-04-30",
+    "accession": "0001579684-26-000031",
+    "primary_document": "tday-20260430.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-26-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2026-05-12",
+    "acceptance_datetime": "2026-05-12T12:36:07.000Z",
+    "report_date": "2026-05-05",
+    "accession": "0001579684-26-000037",
+    "primary_document": "tday-20260505.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=7.01; accession=0001579684-26-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2026-06-01",
+    "acceptance_datetime": "2026-06-01T20:31:33.000Z",
+    "report_date": "2026-06-01",
+    "accession": "0001579684-26-000040",
+    "primary_document": "tday-20260601.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.07; accession=0001579684-26-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-08-06",
+    "acceptance_datetime": "2026-08-06T12:01:50.000Z",
+    "report_date": "2026-08-06",
+    "accession": "0001579684-26-000045",
+    "primary_document": "tday-20260806.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-26-000045"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2026-09-15",
+    "acceptance_datetime": "2026-09-15T12:21:32.000Z",
+    "report_date": "2026-09-15",
+    "accession": "0001579684-26-000050",
+    "primary_document": "tday-20260915.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001579684-26-000050"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-11-05",
+    "acceptance_datetime": "2026-11-05T13:08:49.000Z",
+    "report_date": "2026-11-05",
+    "accession": "0001579684-26-000056",
+    "primary_document": "tday-20261105.htm",
+    "cik": "0001579684",
+    "issuer_name": "USA TODAY Co., Inc.",
+    "tickers": [
+      "TDAY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001579684.json",
+    "locator": "8-K items=2.02,9.01; accession=0001579684-26-000056"
+  }
+]

@@ -1,0 +1,4274 @@
+[
+  {
+    "form": "8-K",
+    "items": "1,2,5,7",
+    "filing_date": "2004-06-10",
+    "acceptance_datetime": "2004-06-10T20:06:51.000Z",
+    "report_date": "2004-05-27",
+    "accession": "0001288845-04-000010",
+    "primary_document": "doc1.txt",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1,2,5,7; accession=0001288845-04-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2004-06-14",
+    "acceptance_datetime": "2004-06-14T16:28:08.000Z",
+    "report_date": "2004-06-14",
+    "accession": "0001288845-04-000016",
+    "primary_document": "doc1.txt",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5,7; accession=0001288845-04-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "4,8",
+    "filing_date": "2004-07-15",
+    "acceptance_datetime": "2004-07-15T21:20:46.000Z",
+    "report_date": "2004-07-14",
+    "accession": "0001288845-04-000049",
+    "primary_document": "doc1.txt",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=4,8; accession=0001288845-04-000049"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,2.01,3.02,5.01,5.02,8.01,9.01",
+    "filing_date": "2005-06-16",
+    "acceptance_datetime": "2005-06-16T21:10:59.000Z",
+    "report_date": "2004-05-27",
+    "accession": "0001214782-05-000198",
+    "primary_document": "doc1.txt",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,2.01,3.02,5.01,5.02,8.01,9.01; accession=0001214782-05-000198"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03",
+    "filing_date": "2005-07-12",
+    "acceptance_datetime": "2005-07-12T20:58:51.000Z",
+    "report_date": "2005-07-11",
+    "accession": "0001332277-05-000003",
+    "primary_document": "form8-k.txt",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.03; accession=0001332277-05-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,9.01",
+    "filing_date": "2006-02-09",
+    "acceptance_datetime": "2006-02-09T22:07:23.000Z",
+    "report_date": "2006-02-06",
+    "accession": "0001085037-06-000258",
+    "primary_document": "form8-kfeb806.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=3.02,9.01; accession=0001085037-06-000258"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-02-17",
+    "acceptance_datetime": "2006-02-17T22:27:28.000Z",
+    "report_date": "2006-02-17",
+    "accession": "0001085037-06-000328",
+    "primary_document": "form8kfeb1706.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001085037-06-000328"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,5.01,9.01",
+    "filing_date": "2006-03-13",
+    "acceptance_datetime": "2006-03-13T21:14:14.000Z",
+    "report_date": "2006-03-08",
+    "accession": "0001085037-06-000497",
+    "primary_document": "form8kmar1306.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=2.01,5.01,9.01; accession=0001085037-06-000497"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2006-03-24",
+    "acceptance_datetime": "2006-03-24T22:14:00.000Z",
+    "report_date": "2006-03-24",
+    "accession": "0001085037-06-000609",
+    "primary_document": "form8kmar2406.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001085037-06-000609"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2006-04-10",
+    "acceptance_datetime": "2006-04-10T17:36:24.000Z",
+    "report_date": "2006-04-10",
+    "accession": "0001085037-06-000714",
+    "primary_document": "form8kapr10-06.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.03,9.01; accession=0001085037-06-000714"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2006-10-24",
+    "acceptance_datetime": "2006-10-24T18:44:19.000Z",
+    "report_date": "2006-10-17",
+    "accession": "0001085037-06-002061",
+    "primary_document": "form8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001085037-06-002061"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-11-02",
+    "acceptance_datetime": "2006-11-02T20:37:51.000Z",
+    "report_date": "2006-09-26",
+    "accession": "0001085037-06-002135",
+    "primary_document": "form8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001085037-06-002135"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2006-11-28",
+    "acceptance_datetime": "2006-11-28T22:08:07.000Z",
+    "report_date": "2006-11-23",
+    "accession": "0001085037-06-002353",
+    "primary_document": "form8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0001085037-06-002353"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2007-01-05",
+    "acceptance_datetime": "2007-01-05T17:50:44.000Z",
+    "report_date": "2006-11-23",
+    "accession": "0001085037-07-000028",
+    "primary_document": "form8ka.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0001085037-07-000028"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2007-05-04",
+    "acceptance_datetime": "2007-05-03T22:53:59.000Z",
+    "report_date": "2007-05-02",
+    "accession": "0001085037-07-001000",
+    "primary_document": "form8kpatent.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001085037-07-001000"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2007-05-10",
+    "acceptance_datetime": "2007-05-10T00:17:55.000Z",
+    "report_date": "2007-05-09",
+    "accession": "0001085037-07-001031",
+    "primary_document": "form8kclinicaltraials.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001085037-07-001031"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,9.01",
+    "filing_date": "2007-06-18",
+    "acceptance_datetime": "2007-06-18T16:35:39.000Z",
+    "report_date": "2007-06-15",
+    "accession": "0001085037-07-001440",
+    "primary_document": "form8kprivplacement.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=3.02,9.01; accession=0001085037-07-001440"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-06-19",
+    "acceptance_datetime": "2007-06-19T19:16:05.000Z",
+    "report_date": "2007-06-19",
+    "accession": "0001085037-07-001452",
+    "primary_document": "form8kencorium.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001085037-07-001452"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,9.01",
+    "filing_date": "2007-06-21",
+    "acceptance_datetime": "2007-06-21T21:01:20.000Z",
+    "report_date": "2007-02-12",
+    "accession": "0001085037-07-001482",
+    "primary_document": "form8kconvdeb.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=3.02,9.01; accession=0001085037-07-001482"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2007-08-03",
+    "acceptance_datetime": "2007-08-03T00:10:36.000Z",
+    "report_date": "2007-08-02",
+    "accession": "0001085037-07-001761",
+    "primary_document": "form8kstockoptions.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0001085037-07-001761"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2007-08-03",
+    "acceptance_datetime": "2007-08-03T00:14:11.000Z",
+    "report_date": "2007-08-01",
+    "accession": "0001085037-07-001764",
+    "primary_document": "form8knewofficer.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001085037-07-001764"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,9.01",
+    "filing_date": "2007-08-03",
+    "acceptance_datetime": "2007-08-03T17:02:02.000Z",
+    "report_date": "2007-08-02",
+    "accession": "0001085037-07-001766",
+    "primary_document": "form8kpp.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=3.02,9.01; accession=0001085037-07-001766"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2007-08-14",
+    "acceptance_datetime": "2007-08-13T21:41:28.000Z",
+    "report_date": "2007-08-13",
+    "accession": "0001085037-07-001808",
+    "primary_document": "form8-kclinicaltrials.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001085037-07-001808"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2007-08-28",
+    "acceptance_datetime": "2007-08-27T23:32:21.000Z",
+    "report_date": "2007-08-01",
+    "accession": "0001085037-07-001972",
+    "primary_document": "form8kmgmtagmts.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001085037-07-001972"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2007-09-10",
+    "acceptance_datetime": "2007-09-10T20:01:42.000Z",
+    "report_date": "2007-08-27",
+    "accession": "0001085037-07-002062",
+    "primary_document": "form8kiragmtso.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0001085037-07-002062"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,9.01",
+    "filing_date": "2007-09-12",
+    "acceptance_datetime": "2007-09-12T20:55:39.000Z",
+    "report_date": "2007-09-07",
+    "accession": "0001085037-07-002096",
+    "primary_document": "form8kswisscaps.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=3.02,9.01; accession=0001085037-07-002096"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-10-30",
+    "acceptance_datetime": "2007-10-30T20:21:38.000Z",
+    "report_date": "2007-10-23",
+    "accession": "0001085037-07-002378",
+    "primary_document": "form8klsank.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001085037-07-002378"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2007-11-15",
+    "acceptance_datetime": "2007-11-15T20:50:26.000Z",
+    "report_date": "2007-11-15",
+    "accession": "0001085037-07-002477",
+    "primary_document": "form8kphase1btrial.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001085037-07-002477"
+  },
+  {
+    "form": "8-K",
+    "items": "5.05,9.01",
+    "filing_date": "2007-11-29",
+    "acceptance_datetime": "2007-11-29T19:25:15.000Z",
+    "report_date": "2007-11-29",
+    "accession": "0001085037-07-002577",
+    "primary_document": "form8kcodeofethics.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.05,9.01; accession=0001085037-07-002577"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-01-18",
+    "acceptance_datetime": "2008-01-18T18:42:03.000Z",
+    "report_date": "2008-01-17",
+    "accession": "0001085037-08-000077",
+    "primary_document": "form8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001085037-08-000077"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2008-02-01",
+    "acceptance_datetime": "2008-02-01T00:56:25.000Z",
+    "report_date": "2008-01-18",
+    "accession": "0001062993-08-000379",
+    "primary_document": "form8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001062993-08-000379"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-03-12",
+    "acceptance_datetime": "2008-03-12T21:03:44.000Z",
+    "report_date": "2008-03-11",
+    "accession": "0001144204-08-014793",
+    "primary_document": "v106554_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-014793"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-03-18",
+    "acceptance_datetime": "2008-03-18T19:34:37.000Z",
+    "report_date": "2008-03-18",
+    "accession": "0001144204-08-016106",
+    "primary_document": "v107327_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-016106"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01,9.01",
+    "filing_date": "2008-04-04",
+    "acceptance_datetime": "2008-04-04T19:57:28.000Z",
+    "report_date": "2008-03-31",
+    "accession": "0001144204-08-020697",
+    "primary_document": "v109786_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=4.01,9.01; accession=0001144204-08-020697"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-04-14",
+    "acceptance_datetime": "2008-04-14T14:14:02.000Z",
+    "report_date": "2008-04-14",
+    "accession": "0001144204-08-021950",
+    "primary_document": "v110570_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-021950"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-04-17",
+    "acceptance_datetime": "2008-04-17T14:14:11.000Z",
+    "report_date": "2008-04-17",
+    "accession": "0001144204-08-022922",
+    "primary_document": "v110988_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-022922"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2008-05-07",
+    "acceptance_datetime": "2008-05-07T20:35:16.000Z",
+    "report_date": "2008-05-01",
+    "accession": "0001144204-08-026643",
+    "primary_document": "v113050_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001144204-08-026643"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-06-12",
+    "acceptance_datetime": "2008-06-12T21:24:27.000Z",
+    "report_date": "2008-06-06",
+    "accession": "0001144204-08-034928",
+    "primary_document": "v117259_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-034928"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2008-07-02",
+    "acceptance_datetime": "2008-07-02T21:08:19.000Z",
+    "report_date": "2008-04-27",
+    "accession": "0001144204-08-038259",
+    "primary_document": "v119063_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001144204-08-038259"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2008-07-15",
+    "acceptance_datetime": "2008-07-15T15:44:51.000Z",
+    "report_date": "2008-07-14",
+    "accession": "0001144204-08-039980",
+    "primary_document": "v119924_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0001144204-08-039980"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-07-22",
+    "acceptance_datetime": "2008-07-22T16:23:22.000Z",
+    "report_date": "2008-07-17",
+    "accession": "0001144204-08-041070",
+    "primary_document": "v120245_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001144204-08-041070"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-07-23",
+    "acceptance_datetime": "2008-07-23T16:05:58.000Z",
+    "report_date": "2008-07-23",
+    "accession": "0001144204-08-041299",
+    "primary_document": "v120621_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-041299"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-08-06",
+    "acceptance_datetime": "2008-08-06T15:11:29.000Z",
+    "report_date": "2008-08-06",
+    "accession": "0001144204-08-044060",
+    "primary_document": "v122113_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-044060"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-09-09",
+    "acceptance_datetime": "2008-09-09T17:22:38.000Z",
+    "report_date": "2008-09-09",
+    "accession": "0001144204-08-051860",
+    "primary_document": "v125877_8-k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-051860"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-09-17",
+    "acceptance_datetime": "2008-09-16T21:32:57.000Z",
+    "report_date": "2008-09-16",
+    "accession": "0001144204-08-053126",
+    "primary_document": "v126593_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-053126"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-09-24",
+    "acceptance_datetime": "2008-09-24T21:08:57.000Z",
+    "report_date": "2008-09-24",
+    "accession": "0001144204-08-054393",
+    "primary_document": "v127205_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-054393"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-10-23",
+    "acceptance_datetime": "2008-10-23T19:52:37.000Z",
+    "report_date": "2008-10-23",
+    "accession": "0001144204-08-059035",
+    "primary_document": "v129580_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-059035"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2008-11-06",
+    "acceptance_datetime": "2008-11-06T15:47:37.000Z",
+    "report_date": "2008-11-02",
+    "accession": "0001144204-08-061420",
+    "primary_document": "v130691_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001144204-08-061420"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-11-14",
+    "acceptance_datetime": "2008-11-14T21:13:27.000Z",
+    "report_date": "2008-11-14",
+    "accession": "0001144204-08-064407",
+    "primary_document": "v132453_8-k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-08-064407"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2009-01-07",
+    "acceptance_datetime": "2009-01-07T19:56:53.000Z",
+    "report_date": "2009-01-07",
+    "accession": "0001144204-09-000703",
+    "primary_document": "v136444_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001144204-09-000703"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-02-04",
+    "acceptance_datetime": "2009-02-04T20:25:24.000Z",
+    "report_date": "2009-02-04",
+    "accession": "0001144204-09-005203",
+    "primary_document": "v138817_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-09-005203"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-02-23",
+    "acceptance_datetime": "2009-02-23T21:57:07.000Z",
+    "report_date": "2009-02-19",
+    "accession": "0001144204-09-010470",
+    "primary_document": "v141111_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001144204-09-010470"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-03-26",
+    "acceptance_datetime": "2009-03-26T14:34:51.000Z",
+    "report_date": "2009-03-26",
+    "accession": "0001144204-09-016206",
+    "primary_document": "v144015_8-k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-09-016206"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2009-04-22",
+    "acceptance_datetime": "2009-04-22T14:58:32.000Z",
+    "report_date": "2009-04-22",
+    "accession": "0001144204-09-021782",
+    "primary_document": "v146873_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001144204-09-021782"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2009-04-22",
+    "acceptance_datetime": "2009-04-22T17:42:49.000Z",
+    "report_date": "2009-04-22",
+    "accession": "0001144204-09-021807",
+    "primary_document": "v146855_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001144204-09-021807"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-05-06",
+    "acceptance_datetime": "2009-05-06T14:58:07.000Z",
+    "report_date": "2009-05-06",
+    "accession": "0001144204-09-024287",
+    "primary_document": "v148221_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-09-024287"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-06-10",
+    "acceptance_datetime": "2009-06-10T14:26:03.000Z",
+    "report_date": "2009-06-10",
+    "accession": "0001144204-09-031809",
+    "primary_document": "v152026_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-09-031809"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2009-07-09",
+    "acceptance_datetime": "2009-07-09T14:12:32.000Z",
+    "report_date": "2009-07-09",
+    "accession": "0001144204-09-036593",
+    "primary_document": "v154436_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001144204-09-036593"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-07-21",
+    "acceptance_datetime": "2009-07-21T14:39:08.000Z",
+    "report_date": "2009-07-21",
+    "accession": "0001144204-09-038048",
+    "primary_document": "v155196_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-09-038048"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-08-04",
+    "acceptance_datetime": "2009-08-04T14:16:04.000Z",
+    "report_date": "2009-08-04",
+    "accession": "0001144204-09-040174",
+    "primary_document": "v156328_8-k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-09-040174"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-08-19",
+    "acceptance_datetime": "2009-08-19T12:34:08.000Z",
+    "report_date": "2009-08-19",
+    "accession": "0001144204-09-044486",
+    "primary_document": "v158563_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-09-044486"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-08-25",
+    "acceptance_datetime": "2009-08-25T13:36:24.000Z",
+    "report_date": "2009-08-25",
+    "accession": "0001144204-09-045449",
+    "primary_document": "v158987_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-09-045449"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2009-09-03",
+    "acceptance_datetime": "2009-09-03T14:36:33.000Z",
+    "report_date": "2009-09-03",
+    "accession": "0001144204-09-046988",
+    "primary_document": "v159747_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001144204-09-046988"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-09-09",
+    "acceptance_datetime": "2009-09-09T11:02:25.000Z",
+    "report_date": "2009-09-09",
+    "accession": "0001144204-09-047595",
+    "primary_document": "v160039_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-09-047595"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-10-21",
+    "acceptance_datetime": "2009-10-21T10:05:32.000Z",
+    "report_date": "2009-10-21",
+    "accession": "0001144204-09-053856",
+    "primary_document": "v163352_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-09-053856"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-12-22",
+    "acceptance_datetime": "2009-12-22T11:56:51.000Z",
+    "report_date": "2009-12-22",
+    "accession": "0001144204-09-065756",
+    "primary_document": "v169653_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-09-065756"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-01-04",
+    "acceptance_datetime": "2010-01-04T11:16:22.000Z",
+    "report_date": "2010-01-04",
+    "accession": "0001144204-10-000013",
+    "primary_document": "v170371_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "9.01",
+    "filing_date": "2010-01-06",
+    "acceptance_datetime": "2010-01-06T16:18:40.000Z",
+    "report_date": "2010-01-06",
+    "accession": "0001144204-10-000589",
+    "primary_document": "v170680_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=9.01; accession=0001144204-10-000589"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-01-11",
+    "acceptance_datetime": "2010-01-11T20:01:09.000Z",
+    "report_date": "2010-01-11",
+    "accession": "0001144204-10-001347",
+    "primary_document": "v171037_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-001347"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-01-20",
+    "acceptance_datetime": "2010-01-20T11:33:44.000Z",
+    "report_date": "2010-01-20",
+    "accession": "0001144204-10-002586",
+    "primary_document": "v171767_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-002586"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-02-11",
+    "acceptance_datetime": "2010-02-11T11:09:27.000Z",
+    "report_date": "2010-02-11",
+    "accession": "0001144204-10-006581",
+    "primary_document": "v173962_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-006581"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-02-17",
+    "acceptance_datetime": "2010-02-17T14:43:09.000Z",
+    "report_date": "2010-02-17",
+    "accession": "0001144204-10-008549",
+    "primary_document": "v174800_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-008549"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-05-06",
+    "acceptance_datetime": "2010-05-06T15:46:54.000Z",
+    "report_date": "2010-05-06",
+    "accession": "0001144204-10-024872",
+    "primary_document": "v183731_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-024872"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2010-05-21",
+    "acceptance_datetime": "2010-05-21T11:42:33.000Z",
+    "report_date": "2010-05-21",
+    "accession": "0001144204-10-029448",
+    "primary_document": "v186147_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02,9.01; accession=0001144204-10-029448"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-05-27",
+    "acceptance_datetime": "2010-05-27T19:12:04.000Z",
+    "report_date": "2010-05-27",
+    "accession": "0001144204-10-030679",
+    "primary_document": "v186834_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-030679"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2010-06-03",
+    "acceptance_datetime": "2010-06-03T12:02:55.000Z",
+    "report_date": "2010-06-03",
+    "accession": "0001144204-10-031549",
+    "primary_document": "v187283_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001144204-10-031549"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-06-09",
+    "acceptance_datetime": "2010-06-09T13:55:54.000Z",
+    "report_date": "2010-06-09",
+    "accession": "0001144204-10-032498",
+    "primary_document": "v187773_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-032498"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-06-16",
+    "acceptance_datetime": "2010-06-16T10:06:26.000Z",
+    "report_date": "2010-06-16",
+    "accession": "0001144204-10-033672",
+    "primary_document": "v188381_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-033672"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2010-06-18",
+    "acceptance_datetime": "2010-06-18T10:06:58.000Z",
+    "report_date": "2010-06-18",
+    "accession": "0001144204-10-034052",
+    "primary_document": "v188580_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001144204-10-034052"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-06-29",
+    "acceptance_datetime": "2010-06-29T12:55:01.000Z",
+    "report_date": "2010-06-29",
+    "accession": "0001144204-10-035498",
+    "primary_document": "v189404_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-035498"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2010-07-14",
+    "acceptance_datetime": "2010-07-14T16:15:12.000Z",
+    "report_date": "2010-07-14",
+    "accession": "0001144204-10-037801",
+    "primary_document": "v190580_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001144204-10-037801"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2010-08-23",
+    "acceptance_datetime": "2010-08-23T12:35:03.000Z",
+    "report_date": "2010-08-23",
+    "accession": "0001144204-10-046003",
+    "primary_document": "v194946_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001144204-10-046003"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-09-08",
+    "acceptance_datetime": "2010-09-08T12:43:21.000Z",
+    "report_date": "2010-09-08",
+    "accession": "0001144204-10-048468",
+    "primary_document": "v196183_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-048468"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-09-16",
+    "acceptance_datetime": "2010-09-16T15:57:49.000Z",
+    "report_date": "2010-09-16",
+    "accession": "0001144204-10-049633",
+    "primary_document": "v196838_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-049633"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-10-27",
+    "acceptance_datetime": "2010-10-27T10:14:22.000Z",
+    "report_date": "2010-10-27",
+    "accession": "0001144204-10-055632",
+    "primary_document": "v200077_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-055632"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-11-16",
+    "acceptance_datetime": "2010-11-16T17:37:55.000Z",
+    "report_date": "2010-11-16",
+    "accession": "0001144204-10-061282",
+    "primary_document": "v202942_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-061282"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-12-01",
+    "acceptance_datetime": "2010-12-01T20:37:52.000Z",
+    "report_date": "2010-12-01",
+    "accession": "0001144204-10-064295",
+    "primary_document": "v204350_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-064295"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02",
+    "filing_date": "2010-12-27",
+    "acceptance_datetime": "2010-12-27T11:37:22.000Z",
+    "report_date": "2010-12-27",
+    "accession": "0001144204-10-068259",
+    "primary_document": "v206564_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02; accession=0001144204-10-068259"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-12-27",
+    "acceptance_datetime": "2010-12-27T11:40:06.000Z",
+    "report_date": "2010-12-27",
+    "accession": "0001144204-10-068261",
+    "primary_document": "v206565_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-10-068261"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2011-01-26",
+    "acceptance_datetime": "2011-01-26T16:55:40.000Z",
+    "report_date": "2011-01-26",
+    "accession": "0001144204-11-004086",
+    "primary_document": "v209064_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01; accession=0001144204-11-004086"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2011-02-15",
+    "acceptance_datetime": "2011-02-15T18:56:54.000Z",
+    "report_date": "2011-02-15",
+    "accession": "0001144204-11-008954",
+    "primary_document": "v211575_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-11-008954"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2011-02-28",
+    "acceptance_datetime": "2011-02-28T12:47:39.000Z",
+    "report_date": "2011-02-28",
+    "accession": "0001144204-11-011254",
+    "primary_document": "v212913_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.07; accession=0001144204-11-011254"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2011-02-28",
+    "acceptance_datetime": "2011-02-28T17:31:13.000Z",
+    "report_date": "2011-02-28",
+    "accession": "0001144204-11-011367",
+    "primary_document": "v212961_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001144204-11-011367"
+  },
+  {
+    "form": "8-K",
+    "items": "3.03,5.03,9.01",
+    "filing_date": "2011-03-14",
+    "acceptance_datetime": "2011-03-14T10:30:38.000Z",
+    "report_date": "2011-03-14",
+    "accession": "0001144204-11-014430",
+    "primary_document": "v214530_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=3.03,5.03,9.01; accession=0001144204-11-014430"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-03-28",
+    "acceptance_datetime": "2011-03-28T16:00:09.000Z",
+    "report_date": "2011-03-28",
+    "accession": "0001144204-11-017474",
+    "primary_document": "v216243_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001144204-11-017474"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,2.01,8.01,9.01",
+    "filing_date": "2011-04-06",
+    "acceptance_datetime": "2011-04-06T12:16:30.000Z",
+    "report_date": "2011-04-06",
+    "accession": "0001144204-11-020363",
+    "primary_document": "v217687_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.02,2.01,8.01,9.01; accession=0001144204-11-020363"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2011-05-12",
+    "acceptance_datetime": "2011-05-12T12:23:39.000Z",
+    "report_date": "2011-05-12",
+    "accession": "0001144204-11-028358",
+    "primary_document": "v222186_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-11-028358"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2011-05-18",
+    "acceptance_datetime": "2011-05-18T16:47:10.000Z",
+    "report_date": "2011-05-18",
+    "accession": "0001144204-11-030797",
+    "primary_document": "v223287_8k.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001144204-11-030797"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2011-06-22",
+    "acceptance_datetime": "2011-06-22T18:54:02.000Z",
+    "report_date": "2011-06-22",
+    "accession": "0001178913-11-001789",
+    "primary_document": "zk1110067.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001178913-11-001789"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-09-12",
+    "acceptance_datetime": "2011-09-12T10:05:01.000Z",
+    "report_date": "2011-09-12",
+    "accession": "0001178913-11-002552",
+    "primary_document": "zk1110409.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001178913-11-002552"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-09-15",
+    "acceptance_datetime": "2011-09-15T13:41:11.000Z",
+    "report_date": "2011-09-15",
+    "accession": "0001178913-11-002626",
+    "primary_document": "zk1110433.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001178913-11-002626"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-09-27",
+    "acceptance_datetime": "2011-09-27T18:33:09.000Z",
+    "report_date": "2011-09-27",
+    "accession": "0001178913-11-002717",
+    "primary_document": "zk1110480.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001178913-11-002717"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2011-10-25",
+    "acceptance_datetime": "2011-10-25T13:59:06.000Z",
+    "report_date": "2011-10-25",
+    "accession": "0001178913-11-002856",
+    "primary_document": "zk1110541.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001178913-11-002856"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-01-13",
+    "acceptance_datetime": "2012-01-13T11:50:56.000Z",
+    "report_date": "2012-01-13",
+    "accession": "0001178913-12-000127",
+    "primary_document": "zk1210895.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001178913-12-000127"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-01-24",
+    "acceptance_datetime": "2012-01-24T19:24:51.000Z",
+    "report_date": "2012-01-24",
+    "accession": "0001178913-12-000200",
+    "primary_document": "zk1210929.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001178913-12-000200"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-02-07",
+    "acceptance_datetime": "2012-02-07T18:51:05.000Z",
+    "report_date": "2012-02-07",
+    "accession": "0001178913-12-000303",
+    "primary_document": "zk1210979.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001178913-12-000303"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-05-09",
+    "acceptance_datetime": "2012-05-09T10:05:49.000Z",
+    "report_date": "2012-05-09",
+    "accession": "0001178913-12-001361",
+    "primary_document": "zk1211445.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001178913-12-001361"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2012-07-26",
+    "acceptance_datetime": "2012-07-26T17:31:59.000Z",
+    "report_date": "2012-07-26",
+    "accession": "0001178913-12-002064",
+    "primary_document": "zk1211765.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.07; accession=0001178913-12-002064"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,5.02",
+    "filing_date": "2012-08-28",
+    "acceptance_datetime": "2012-08-28T21:17:23.000Z",
+    "report_date": "2012-08-28",
+    "accession": "0001178913-12-002432",
+    "primary_document": "zk1211934.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02,5.02; accession=0001178913-12-002432"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,3.02",
+    "filing_date": "2012-09-27",
+    "acceptance_datetime": "2012-09-27T15:17:22.000Z",
+    "report_date": "2012-09-27",
+    "accession": "0001178913-12-002747",
+    "primary_document": "zk1212074.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02; accession=0001178913-12-002747"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,5.02",
+    "filing_date": "2012-09-27",
+    "acceptance_datetime": "2012-09-27T20:27:17.000Z",
+    "report_date": "2012-09-27",
+    "accession": "0001178913-12-002757",
+    "primary_document": "zk1212077.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02,5.02; accession=0001178913-12-002757"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02",
+    "filing_date": "2012-11-05",
+    "acceptance_datetime": "2012-11-05T20:29:26.000Z",
+    "report_date": "2012-11-05",
+    "accession": "0001178913-12-003041",
+    "primary_document": "zk1212206.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,5.02; accession=0001178913-12-003041"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02",
+    "filing_date": "2012-11-09",
+    "acceptance_datetime": "2012-11-08T22:53:10.000Z",
+    "report_date": "2012-11-08",
+    "accession": "0001178913-12-003085",
+    "primary_document": "zk1212231.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02; accession=0001178913-12-003085"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02",
+    "filing_date": "2012-12-04",
+    "acceptance_datetime": "2012-12-04T21:02:46.000Z",
+    "report_date": "2012-12-04",
+    "accession": "0001178913-12-003372",
+    "primary_document": "zk1212356.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02; accession=0001178913-12-003372"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2013-01-02",
+    "acceptance_datetime": "2013-01-02T18:23:37.000Z",
+    "report_date": "2013-01-02",
+    "accession": "0001178913-13-000019",
+    "primary_document": "zk1312465.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001178913-13-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2013-01-11",
+    "acceptance_datetime": "2013-01-11T15:08:30.000Z",
+    "report_date": "2013-01-11",
+    "accession": "0001178913-13-000074",
+    "primary_document": "zk1312489.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001178913-13-000074"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-01-22",
+    "acceptance_datetime": "2013-01-22T21:35:33.000Z",
+    "report_date": "2013-01-22",
+    "accession": "0001178913-13-000127",
+    "primary_document": "zk1312516.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001178913-13-000127"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2013-02-01",
+    "acceptance_datetime": "2013-02-01T12:57:18.000Z",
+    "report_date": "2013-02-01",
+    "accession": "0001178913-13-000205",
+    "primary_document": "zk1312552.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.03,9.01; accession=0001178913-13-000205"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-02-07",
+    "acceptance_datetime": "2013-02-07T14:43:00.000Z",
+    "report_date": "2013-02-07",
+    "accession": "0001178913-13-000289",
+    "primary_document": "zk1312587.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001178913-13-000289"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2013-04-11",
+    "acceptance_datetime": "2013-04-11T15:19:59.000Z",
+    "report_date": "2013-04-11",
+    "accession": "0001178913-13-001064",
+    "primary_document": "zk1312944.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001178913-13-001064"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2013-04-16",
+    "acceptance_datetime": "2013-04-16T17:59:25.000Z",
+    "report_date": "2013-04-16",
+    "accession": "0001178913-13-001098",
+    "primary_document": "zk1312943.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02,9.01; accession=0001178913-13-001098"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-05-24",
+    "acceptance_datetime": "2013-05-24T14:26:20.000Z",
+    "report_date": "2013-05-24",
+    "accession": "0001178913-13-001617",
+    "primary_document": "zk1313167.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001178913-13-001617"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2013-05-30",
+    "acceptance_datetime": "2013-05-30T19:14:05.000Z",
+    "report_date": "2013-05-30",
+    "accession": "0001178913-13-001676",
+    "primary_document": "zk1313208.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001178913-13-001676"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2013-07-11",
+    "acceptance_datetime": "2013-07-11T13:20:48.000Z",
+    "report_date": "2013-07-11",
+    "accession": "0001178913-13-002048",
+    "primary_document": "zk1313376.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001178913-13-002048"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-08-01",
+    "acceptance_datetime": "2013-08-01T10:49:06.000Z",
+    "report_date": "2013-08-01",
+    "accession": "0001178913-13-002213",
+    "primary_document": "zk1313456.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001178913-13-002213"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2013-12-26",
+    "acceptance_datetime": "2013-12-26T14:21:08.000Z",
+    "report_date": "2013-12-26",
+    "accession": "0001178913-13-003713",
+    "primary_document": "zk1314125.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001178913-13-003713"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-01-30",
+    "acceptance_datetime": "2014-01-30T16:30:26.000Z",
+    "report_date": "2014-01-30",
+    "accession": "0001178913-14-000295",
+    "primary_document": "zk1414298.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001178913-14-000295"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2014-02-12",
+    "acceptance_datetime": "2014-02-12T20:15:33.000Z",
+    "report_date": "2014-02-12",
+    "accession": "0001178913-14-000493",
+    "primary_document": "zk1414375.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001178913-14-000493"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2014-04-24",
+    "acceptance_datetime": "2014-04-24T18:38:47.000Z",
+    "report_date": "2014-04-24",
+    "accession": "0001178913-14-001382",
+    "primary_document": "zk1414793.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001178913-14-001382"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2014-07-23",
+    "acceptance_datetime": "2014-07-23T19:30:02.000Z",
+    "report_date": "2014-07-23",
+    "accession": "0001178913-14-002374",
+    "primary_document": "zk1415282.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01; accession=0001178913-14-002374"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01,9.01",
+    "filing_date": "2014-07-28",
+    "acceptance_datetime": "2014-07-28T15:27:03.000Z",
+    "report_date": "2014-07-28",
+    "accession": "0001178913-14-002429",
+    "primary_document": "zk1415308.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.07,8.01,9.01; accession=0001178913-14-002429"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-09-08",
+    "acceptance_datetime": "2014-09-08T19:44:03.000Z",
+    "report_date": "2014-09-08",
+    "accession": "0001178913-14-002868",
+    "primary_document": "zk1415513.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001178913-14-002868"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-10-23",
+    "acceptance_datetime": "2014-10-23T14:10:22.000Z",
+    "report_date": "2014-10-23",
+    "accession": "0001178913-14-003217",
+    "primary_document": "zk1415671.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001178913-14-003217"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-11-03",
+    "acceptance_datetime": "2014-11-03T11:01:42.000Z",
+    "report_date": "2014-11-03",
+    "accession": "0001178913-14-003310",
+    "primary_document": "zk1415721.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001178913-14-003310"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2014-11-04",
+    "acceptance_datetime": "2014-11-04T14:10:20.000Z",
+    "report_date": "2014-11-04",
+    "accession": "0001178913-14-003337",
+    "primary_document": "zk1415729.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0001178913-14-003337"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-12-02",
+    "acceptance_datetime": "2014-12-02T12:17:35.000Z",
+    "report_date": "2014-12-02",
+    "accession": "0001178913-14-003770",
+    "primary_document": "zk1415928.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001178913-14-003770"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-01-28",
+    "acceptance_datetime": "2015-01-28T18:47:00.000Z",
+    "report_date": "2015-01-28",
+    "accession": "0001178913-15-000218",
+    "primary_document": "zk1516119.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001178913-15-000218"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-04-28",
+    "acceptance_datetime": "2015-04-28T19:14:38.000Z",
+    "report_date": "2015-04-28",
+    "accession": "0001178913-15-001352",
+    "primary_document": "zk1516651.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001178913-15-001352"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-05-27",
+    "acceptance_datetime": "2015-05-27T10:02:50.000Z",
+    "report_date": "2015-05-27",
+    "accession": "0001178913-15-001786",
+    "primary_document": "zk1516844.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001178913-15-001786"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-06-05",
+    "acceptance_datetime": "2015-06-05T17:14:27.000Z",
+    "report_date": "2015-06-04",
+    "accession": "0001178913-15-001951",
+    "primary_document": "zk1516913.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001178913-15-001951"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-07-02",
+    "acceptance_datetime": "2015-07-02T20:34:48.000Z",
+    "report_date": "2015-07-02",
+    "accession": "0001213900-15-004923",
+    "primary_document": "f8k070215_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001213900-15-004923"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-07-07",
+    "acceptance_datetime": "2015-07-07T13:16:01.000Z",
+    "report_date": "2015-07-03",
+    "accession": "0001213900-15-004973",
+    "primary_document": "f8k070315_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-15-004973"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-08-12",
+    "acceptance_datetime": "2015-08-12T12:11:08.000Z",
+    "report_date": "2015-08-11",
+    "accession": "0001213900-15-005964",
+    "primary_document": "f8k081115_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.07; accession=0001213900-15-005964"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-09-03",
+    "acceptance_datetime": "2015-09-03T13:12:36.000Z",
+    "report_date": "2015-09-03",
+    "accession": "0001213900-15-006741",
+    "primary_document": "f8k090315_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-15-006741"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-10-15",
+    "acceptance_datetime": "2015-10-15T19:50:50.000Z",
+    "report_date": "2015-10-15",
+    "accession": "0001213900-15-007717",
+    "primary_document": "f8k101515_oramedpharm.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-15-007717"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-10-26",
+    "acceptance_datetime": "2015-10-26T21:02:15.000Z",
+    "report_date": "2015-10-22",
+    "accession": "0001213900-15-007918",
+    "primary_document": "f8k102215_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-15-007918"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02",
+    "filing_date": "2015-11-30",
+    "acceptance_datetime": "2015-11-30T21:13:56.000Z",
+    "report_date": "2015-11-30",
+    "accession": "0001213900-15-009164",
+    "primary_document": "f8k113015_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.02; accession=0001213900-15-009164"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-12-28",
+    "acceptance_datetime": "2015-12-28T21:31:38.000Z",
+    "report_date": "2015-12-28",
+    "accession": "0001213900-15-009748",
+    "primary_document": "f8k122115_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-15-009748"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-01-06",
+    "acceptance_datetime": "2016-01-06T15:08:04.000Z",
+    "report_date": "2016-01-06",
+    "accession": "0001213900-16-009924",
+    "primary_document": "f8k010616_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001213900-16-009924"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-01-14",
+    "acceptance_datetime": "2016-01-14T20:05:09.000Z",
+    "report_date": "2016-01-14",
+    "accession": "0001213900-16-010146",
+    "primary_document": "f8k011416_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001213900-16-010146"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2016-01-20",
+    "acceptance_datetime": "2016-01-20T19:07:51.000Z",
+    "report_date": "2016-01-13",
+    "accession": "0001213900-16-010289",
+    "primary_document": "f8k011316_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-16-010289"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2016-05-04",
+    "acceptance_datetime": "2016-05-04T12:33:55.000Z",
+    "report_date": "2016-05-04",
+    "accession": "0001213900-16-012965",
+    "primary_document": "f8k050416_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01; accession=0001213900-16-012965"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2016-05-18",
+    "acceptance_datetime": "2016-05-18T14:55:36.000Z",
+    "report_date": "2016-05-18",
+    "accession": "0001213900-16-013579",
+    "primary_document": "f8k051816_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-16-013579"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-05-23",
+    "acceptance_datetime": "2016-05-23T21:12:38.000Z",
+    "report_date": "2016-05-23",
+    "accession": "0001213900-16-013751",
+    "primary_document": "f8k052316_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001213900-16-013751"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2016-06-16",
+    "acceptance_datetime": "2016-06-16T14:18:39.000Z",
+    "report_date": "2016-06-13",
+    "accession": "0001213900-16-014271",
+    "primary_document": "f8k061316_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01; accession=0001213900-16-014271"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2016-07-27",
+    "acceptance_datetime": "2016-07-27T14:14:36.000Z",
+    "report_date": "2016-07-24",
+    "accession": "0001213900-16-015282",
+    "primary_document": "f8k072416_oramedpharmaceutic.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01; accession=0001213900-16-015282"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2016-07-28",
+    "acceptance_datetime": "2016-07-28T20:32:17.000Z",
+    "report_date": "2016-07-28",
+    "accession": "0001213900-16-015359",
+    "primary_document": "f8k072816_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001213900-16-015359"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2016-08-05",
+    "acceptance_datetime": "2016-08-05T16:34:11.000Z",
+    "report_date": "2016-08-02",
+    "accession": "0001213900-16-015564",
+    "primary_document": "f8k080216_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01; accession=0001213900-16-015564"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2016-08-31",
+    "acceptance_datetime": "2016-08-31T20:24:19.000Z",
+    "report_date": "2016-08-30",
+    "accession": "0001213900-16-016514",
+    "primary_document": "f8k083016_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02,5.07; accession=0001213900-16-016514"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-03-21",
+    "acceptance_datetime": "2017-03-21T13:27:58.000Z",
+    "report_date": "2017-03-20",
+    "accession": "0001213900-17-002634",
+    "primary_document": "f8k032017_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001213900-17-002634"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-04-10",
+    "acceptance_datetime": "2017-04-10T21:08:19.000Z",
+    "report_date": "2017-04-10",
+    "accession": "0001178913-17-001105",
+    "primary_document": "zk1719804.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001178913-17-001105"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2017-06-08",
+    "acceptance_datetime": "2017-06-08T12:00:25.000Z",
+    "report_date": "2017-06-08",
+    "accession": "0001178913-17-001764",
+    "primary_document": "zk1720110.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01; accession=0001178913-17-001764"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2017-07-21",
+    "acceptance_datetime": "2017-07-20T22:12:42.000Z",
+    "report_date": "2017-07-18",
+    "accession": "0001213900-17-007808",
+    "primary_document": "f8k071817_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02,9.01; accession=0001213900-17-007808"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2017-09-05",
+    "acceptance_datetime": "2017-09-05T18:47:40.000Z",
+    "report_date": "2017-08-31",
+    "accession": "0001213900-17-009427",
+    "primary_document": "f8k083117b_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-17-009427"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2017-09-05",
+    "acceptance_datetime": "2017-09-05T20:00:33.000Z",
+    "report_date": "2017-08-30",
+    "accession": "0001213900-17-009429",
+    "primary_document": "f8k083017a_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.07,9.01; accession=0001213900-17-009429"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2018-02-20",
+    "acceptance_datetime": "2018-02-20T19:04:13.000Z",
+    "report_date": "2018-02-14",
+    "accession": "0001213900-18-002084",
+    "primary_document": "f8k021418_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01; accession=0001213900-18-002084"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2018-07-05",
+    "acceptance_datetime": "2018-07-05T20:10:21.000Z",
+    "report_date": "2018-07-02",
+    "accession": "0001213900-18-008780",
+    "primary_document": "f8k070218_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-18-008780"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-08-30",
+    "acceptance_datetime": "2018-08-30T20:51:04.000Z",
+    "report_date": "2018-08-28",
+    "accession": "0001213900-18-011939",
+    "primary_document": "f8k082818_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.07; accession=0001213900-18-011939"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-09-17",
+    "acceptance_datetime": "2018-09-17T15:59:44.000Z",
+    "report_date": "2018-09-17",
+    "accession": "0001213900-18-012630",
+    "primary_document": "f8k091718_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-18-012630"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-11-08",
+    "acceptance_datetime": "2018-11-08T22:02:44.000Z",
+    "report_date": "2018-11-04",
+    "accession": "0001213900-18-015178",
+    "primary_document": "f8k110418_oramedpharm.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-18-015178"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-12-14",
+    "acceptance_datetime": "2018-12-14T13:04:06.000Z",
+    "report_date": "2018-12-11",
+    "accession": "0001213900-18-017333",
+    "primary_document": "f8k121118_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-18-017333"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-03-13",
+    "acceptance_datetime": "2019-03-13T21:00:12.000Z",
+    "report_date": "2019-03-11",
+    "accession": "0001213900-19-004051",
+    "primary_document": "f8k031119_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-19-004051"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-03-28",
+    "acceptance_datetime": "2019-03-28T20:56:34.000Z",
+    "report_date": "2019-03-25",
+    "accession": "0001213900-19-005120",
+    "primary_document": "f8k032519_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-19-005120"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2019-04-16",
+    "acceptance_datetime": "2019-04-16T21:00:26.000Z",
+    "report_date": "2019-04-12",
+    "accession": "0001213900-19-006512",
+    "primary_document": "f8k041219_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.02; accession=0001213900-19-006512"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-05-16",
+    "acceptance_datetime": "2019-05-16T21:09:58.000Z",
+    "report_date": "2019-05-13",
+    "accession": "0001213900-19-009033",
+    "primary_document": "f8k051319_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-19-009033"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-07-01",
+    "acceptance_datetime": "2019-07-01T19:18:11.000Z",
+    "report_date": "2019-06-25",
+    "accession": "0001213900-19-011856",
+    "primary_document": "f8k062519_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-19-011856"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-07-29",
+    "acceptance_datetime": "2019-07-29T10:07:31.000Z",
+    "report_date": "2019-07-23",
+    "accession": "0001213900-19-013773",
+    "primary_document": "f8k072319_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-19-013773"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-08-21",
+    "acceptance_datetime": "2019-08-21T21:27:44.000Z",
+    "report_date": "2019-08-18",
+    "accession": "0001213900-19-016472",
+    "primary_document": "f8k081819_oramedpharm.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-19-016472"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,5.07,9.01",
+    "filing_date": "2019-09-05",
+    "acceptance_datetime": "2019-09-05T20:41:40.000Z",
+    "report_date": "2019-08-29",
+    "accession": "0001213900-19-017287",
+    "primary_document": "f8k082919_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,5.02,5.07,9.01; accession=0001213900-19-017287"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-11-12",
+    "acceptance_datetime": "2019-11-12T12:04:12.000Z",
+    "report_date": "2019-11-12",
+    "accession": "0001213900-19-022717",
+    "primary_document": "f8k111219_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-19-022717"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-12-06",
+    "acceptance_datetime": "2019-12-05T22:44:49.000Z",
+    "report_date": "2019-12-05",
+    "accession": "0001213900-19-025444",
+    "primary_document": "f8k120519_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-19-025444"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2020-02-26",
+    "acceptance_datetime": "2020-02-26T13:03:28.000Z",
+    "report_date": "2020-02-26",
+    "accession": "0001213900-20-004778",
+    "primary_document": "ea119019-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-20-004778"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-02-28",
+    "acceptance_datetime": "2020-02-28T18:10:45.000Z",
+    "report_date": "2020-02-27",
+    "accession": "0001213900-20-005018",
+    "primary_document": "ea119125-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-20-005018"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2020-04-09",
+    "acceptance_datetime": "2020-04-09T20:42:45.000Z",
+    "report_date": "2020-04-09",
+    "accession": "0001213900-20-008913",
+    "primary_document": "ea120570-8k_oramedphar.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-20-008913"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2020-07-15",
+    "acceptance_datetime": "2020-07-15T13:16:30.000Z",
+    "report_date": "2020-07-15",
+    "accession": "0001213900-20-017505",
+    "primary_document": "ea124140-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-20-017505"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,8.01,9.01",
+    "filing_date": "2020-08-04",
+    "acceptance_datetime": "2020-08-04T13:00:15.000Z",
+    "report_date": "2020-08-03",
+    "accession": "0001213900-20-020031",
+    "primary_document": "ea124938-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02,5.07,8.01,9.01; accession=0001213900-20-020031"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2020-08-27",
+    "acceptance_datetime": "2020-08-27T20:33:35.000Z",
+    "report_date": "2020-08-21",
+    "accession": "0001213900-20-024016",
+    "primary_document": "ea126124-8k_oramedphar.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01; accession=0001213900-20-024016"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-09-09",
+    "acceptance_datetime": "2020-09-09T20:13:37.000Z",
+    "report_date": "2020-09-02",
+    "accession": "0001213900-20-025857",
+    "primary_document": "ea126629-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-20-025857"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-09-18",
+    "acceptance_datetime": "2020-09-18T20:05:24.000Z",
+    "report_date": "2020-09-16",
+    "accession": "0001213900-20-027361",
+    "primary_document": "ea127043-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-20-027361"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-10-22",
+    "acceptance_datetime": "2020-10-22T20:05:27.000Z",
+    "report_date": "2020-10-22",
+    "accession": "0001213900-20-032805",
+    "primary_document": "ea128733-8k_oramedpharmaceut.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001213900-20-032805"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-12-01",
+    "acceptance_datetime": "2020-12-01T22:23:45.000Z",
+    "report_date": "2020-12-01",
+    "accession": "0001213900-20-040263",
+    "primary_document": "ea130765-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-20-040263"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2020-12-02",
+    "acceptance_datetime": "2020-12-02T13:43:05.000Z",
+    "report_date": "2020-12-02",
+    "accession": "0001213900-20-040364",
+    "primary_document": "ea130845-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-20-040364"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2021-02-04",
+    "acceptance_datetime": "2021-02-04T21:51:40.000Z",
+    "report_date": "2021-02-04",
+    "accession": "0001213900-21-006805",
+    "primary_document": "ea134696-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01; accession=0001213900-21-006805"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,8.01,9.01",
+    "filing_date": "2021-03-19",
+    "acceptance_datetime": "2021-03-19T13:06:10.000Z",
+    "report_date": "2021-03-18",
+    "accession": "0001213900-21-016531",
+    "primary_document": "ea137929-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,7.01,8.01,9.01; accession=0001213900-21-016531"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-03-23",
+    "acceptance_datetime": "2021-03-23T11:36:46.000Z",
+    "report_date": "2021-03-23",
+    "accession": "0001213900-21-017117",
+    "primary_document": "ea138249-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-21-017117"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-05-10",
+    "acceptance_datetime": "2021-05-10T20:15:08.000Z",
+    "report_date": "2021-05-06",
+    "accession": "0001213900-21-025365",
+    "primary_document": "ea140432-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-21-025365"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-05-25",
+    "acceptance_datetime": "2021-05-25T20:05:30.000Z",
+    "report_date": "2021-05-23",
+    "accession": "0001213900-21-029048",
+    "primary_document": "ea141640-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-21-029048"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2021-06-16",
+    "acceptance_datetime": "2021-06-16T20:18:21.000Z",
+    "report_date": "2021-06-16",
+    "accession": "0001213900-21-032720",
+    "primary_document": "ea142779-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-21-032720"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.03,8.01,9.01",
+    "filing_date": "2021-07-15",
+    "acceptance_datetime": "2021-07-15T20:15:55.000Z",
+    "report_date": "2021-07-14",
+    "accession": "0001213900-21-037056",
+    "primary_document": "ea144233-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,5.03,8.01,9.01; accession=0001213900-21-037056"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-08-02",
+    "acceptance_datetime": "2021-08-02T20:30:11.000Z",
+    "report_date": "2021-07-25",
+    "accession": "0001213900-21-039829",
+    "primary_document": "ea145120-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-21-039829"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-08-05",
+    "acceptance_datetime": "2021-08-05T11:01:31.000Z",
+    "report_date": "2021-08-05",
+    "accession": "0001213900-21-040394",
+    "primary_document": "ea145255-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001213900-21-040394"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2021-08-31",
+    "acceptance_datetime": "2021-08-31T20:15:21.000Z",
+    "report_date": "2021-08-30",
+    "accession": "0001213900-21-045898",
+    "primary_document": "ea146694-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.07; accession=0001213900-21-045898"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,9.01",
+    "filing_date": "2021-09-01",
+    "acceptance_datetime": "2021-09-01T12:25:40.000Z",
+    "report_date": "2021-08-26",
+    "accession": "0001213900-21-046043",
+    "primary_document": "ea146699-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,1.02,9.01; accession=0001213900-21-046043"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-10-29",
+    "acceptance_datetime": "2021-10-29T12:33:56.000Z",
+    "report_date": "2021-10-29",
+    "accession": "0001213900-21-055258",
+    "primary_document": "ea149583-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-21-055258"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2021-11-04",
+    "acceptance_datetime": "2021-11-04T21:17:50.000Z",
+    "report_date": "2021-11-03",
+    "accession": "0001213900-21-056803",
+    "primary_document": "ea149991-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-21-056803"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-12-07",
+    "acceptance_datetime": "2021-12-07T22:15:17.000Z",
+    "report_date": "2021-12-07",
+    "accession": "0001213900-21-063984",
+    "primary_document": "ea151907-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001213900-21-063984"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-12-08",
+    "acceptance_datetime": "2021-12-08T13:00:26.000Z",
+    "report_date": "2021-12-07",
+    "accession": "0001213900-21-064085",
+    "primary_document": "ea151917-8k_oramedpharm.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-21-064085"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-01-12",
+    "acceptance_datetime": "2022-01-12T14:41:37.000Z",
+    "report_date": "2022-01-12",
+    "accession": "0001213900-22-001660",
+    "primary_document": "ea153897-8k_oramedpharm.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001213900-22-001660"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03",
+    "filing_date": "2022-02-28",
+    "acceptance_datetime": "2022-02-28T22:00:30.000Z",
+    "report_date": "2022-02-28",
+    "accession": "0001213900-22-009794",
+    "primary_document": "ea156262-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.03; accession=0001213900-22-009794"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2022-04-04",
+    "acceptance_datetime": "2022-04-04T12:25:56.000Z",
+    "report_date": "2022-03-30",
+    "accession": "0001213900-22-017667",
+    "primary_document": "ea157933-8k_oramedphar.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-22-017667"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2022-06-30",
+    "acceptance_datetime": "2022-06-30T20:15:13.000Z",
+    "report_date": "2022-06-30",
+    "accession": "0001213900-22-036294",
+    "primary_document": "ea162323-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.07; accession=0001213900-22-036294"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-07-07",
+    "acceptance_datetime": "2022-07-07T12:00:34.000Z",
+    "report_date": "2022-07-07",
+    "accession": "0001213900-22-037750",
+    "primary_document": "ea162565-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001213900-22-037750"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2022-09-08",
+    "acceptance_datetime": "2022-09-08T21:06:13.000Z",
+    "report_date": "2022-09-01",
+    "accession": "0001213900-22-054868",
+    "primary_document": "ea165501-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-22-054868"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2022-09-13",
+    "acceptance_datetime": "2022-09-13T12:52:28.000Z",
+    "report_date": "2022-09-13",
+    "accession": "0001213900-22-055429",
+    "primary_document": "ea165702-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-22-055429"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2022-09-19",
+    "acceptance_datetime": "2022-09-19T21:05:12.000Z",
+    "report_date": "2022-09-15",
+    "accession": "0001213900-22-057036",
+    "primary_document": "ea165945-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.03,9.01; accession=0001213900-22-057036"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-11-10",
+    "acceptance_datetime": "2022-11-10T21:32:17.000Z",
+    "report_date": "2022-11-10",
+    "accession": "0001213900-22-071230",
+    "primary_document": "ea168314-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=2.02,9.01; accession=0001213900-22-071230"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2022-11-14",
+    "acceptance_datetime": "2022-11-14T12:55:12.000Z",
+    "report_date": "2022-11-13",
+    "accession": "0001213900-22-071607",
+    "primary_document": "ea168587-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-22-071607"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-12-12",
+    "acceptance_datetime": "2022-12-12T12:39:30.000Z",
+    "report_date": "2022-12-12",
+    "accession": "0001213900-22-078902",
+    "primary_document": "ea169983-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=7.01,9.01; accession=0001213900-22-078902"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2023-01-12",
+    "acceptance_datetime": "2023-01-12T01:00:50.000Z",
+    "report_date": "2023-01-11",
+    "accession": "0001213900-23-002343",
+    "primary_document": "ea171576-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-23-002343"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2023-02-27",
+    "acceptance_datetime": "2023-02-27T22:05:39.000Z",
+    "report_date": "2023-02-23",
+    "accession": "0001213900-23-014884",
+    "primary_document": "ea174308-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.03,9.01; accession=0001213900-23-014884"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-05-01",
+    "acceptance_datetime": "2023-05-01T20:51:29.000Z",
+    "report_date": "2023-05-01",
+    "accession": "0001213900-23-034728",
+    "primary_document": "ea177755-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-23-034728"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2023-07-13",
+    "acceptance_datetime": "2023-07-13T21:00:16.000Z",
+    "report_date": "2023-07-13",
+    "accession": "0001213900-23-056806",
+    "primary_document": "ea181769-8k_oramedpharm.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.07; accession=0001213900-23-056806"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-08-07",
+    "acceptance_datetime": "2023-08-07T13:20:07.000Z",
+    "report_date": "2023-08-04",
+    "accession": "0001213900-23-063876",
+    "primary_document": "ea182967-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001213900-23-063876"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2023-08-09",
+    "acceptance_datetime": "2023-08-09T12:30:11.000Z",
+    "report_date": "2023-08-07",
+    "accession": "0001213900-23-064786",
+    "primary_document": "ea183023-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-23-064786"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2023-08-22",
+    "acceptance_datetime": "2023-08-21T22:06:56.000Z",
+    "report_date": "2023-08-17",
+    "accession": "0001213900-23-069538",
+    "primary_document": "ea183972-8k_oramedpharm.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001213900-23-069538"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-09-13",
+    "acceptance_datetime": "2023-09-13T12:47:06.000Z",
+    "report_date": "2023-09-11",
+    "accession": "0001213900-23-076238",
+    "primary_document": "ea185123-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001213900-23-076238"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,7.01,9.01",
+    "filing_date": "2023-09-26",
+    "acceptance_datetime": "2023-09-26T20:34:25.000Z",
+    "report_date": "2023-09-21",
+    "accession": "0001213900-23-079586",
+    "primary_document": "ea185680-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,1.02,7.01,9.01; accession=0001213900-23-079586"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-12-18",
+    "acceptance_datetime": "2023-12-18T21:45:10.000Z",
+    "report_date": "2023-12-18",
+    "accession": "0001213900-23-096536",
+    "primary_document": "ea190226-8k_oramedpharma.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-23-096536"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2023-12-21",
+    "acceptance_datetime": "2023-12-21T14:26:42.000Z",
+    "report_date": "2023-12-21",
+    "accession": "0001213900-23-097505",
+    "primary_document": "ea190496-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-23-097505"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2024-01-19",
+    "acceptance_datetime": "2024-01-19T21:45:09.000Z",
+    "report_date": "2024-01-17",
+    "accession": "0001213900-24-004905",
+    "primary_document": "ea191796-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-24-004905"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2024-01-23",
+    "acceptance_datetime": "2024-01-23T21:45:15.000Z",
+    "report_date": "2024-01-22",
+    "accession": "0001213900-24-005780",
+    "primary_document": "ea192032-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-24-005780"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-02-20",
+    "acceptance_datetime": "2024-02-20T13:42:26.000Z",
+    "report_date": "2024-02-20",
+    "accession": "0001213900-24-015108",
+    "primary_document": "ea0200197-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001213900-24-015108"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,9.01",
+    "filing_date": "2024-03-18",
+    "acceptance_datetime": "2024-03-18T21:05:37.000Z",
+    "report_date": "2024-03-18",
+    "accession": "0001213900-24-023571",
+    "primary_document": "ea0201743-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,1.02,9.01; accession=0001213900-24-023571"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2024-03-18",
+    "acceptance_datetime": "2024-03-18T21:15:14.000Z",
+    "report_date": "2024-03-12",
+    "accession": "0001213900-24-023584",
+    "primary_document": "ea0201979-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-24-023584"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-03-19",
+    "acceptance_datetime": "2024-03-19T12:00:39.000Z",
+    "report_date": "2024-03-14",
+    "accession": "0001213900-24-023721",
+    "primary_document": "ea0202046-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-24-023721"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-05-06",
+    "acceptance_datetime": "2024-05-06T13:00:27.000Z",
+    "report_date": "2024-05-02",
+    "accession": "0001213900-24-039909",
+    "primary_document": "ea0205280-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-24-039909"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2024-05-13",
+    "acceptance_datetime": "2024-05-10T22:00:51.000Z",
+    "report_date": "2024-05-10",
+    "accession": "0001213900-24-041847",
+    "primary_document": "ea0205772-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-24-041847"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2024-06-10",
+    "acceptance_datetime": "2024-06-10T21:28:11.000Z",
+    "report_date": "2024-06-06",
+    "accession": "0001213900-24-051355",
+    "primary_document": "ea0207486-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-24-051355"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-06-24",
+    "acceptance_datetime": "2024-06-24T13:00:28.000Z",
+    "report_date": "2024-06-20",
+    "accession": "0001213900-24-055006",
+    "primary_document": "ea0208337-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-24-055006"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-06-26",
+    "acceptance_datetime": "2024-06-26T13:00:10.000Z",
+    "report_date": "2024-06-26",
+    "accession": "0001213900-24-055950",
+    "primary_document": "ea0208443-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-24-055950"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2024-08-02",
+    "acceptance_datetime": "2024-08-02T20:05:24.000Z",
+    "report_date": "2024-08-01",
+    "accession": "0001213900-24-064732",
+    "primary_document": "ea0210492-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.07; accession=0001213900-24-064732"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-09-23",
+    "acceptance_datetime": "2024-09-23T12:06:24.000Z",
+    "report_date": "2024-09-20",
+    "accession": "0001213900-24-080812",
+    "primary_document": "ea0215344-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001213900-24-080812"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2024-09-26",
+    "acceptance_datetime": "2024-09-26T20:05:37.000Z",
+    "report_date": "2024-09-23",
+    "accession": "0001213900-24-082237",
+    "primary_document": "ea0215648-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-24-082237"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,8.01,9.01",
+    "filing_date": "2024-10-08",
+    "acceptance_datetime": "2024-10-08T18:12:49.000Z",
+    "report_date": "2024-10-07",
+    "accession": "0001213900-24-086214",
+    "primary_document": "ea0216936-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,7.01,8.01,9.01; accession=0001213900-24-086214"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-10-29",
+    "acceptance_datetime": "2024-10-29T21:01:36.000Z",
+    "report_date": "2024-10-24",
+    "accession": "0001213900-24-091795",
+    "primary_document": "ea0219080-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-24-091795"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-12-17",
+    "acceptance_datetime": "2024-12-17T21:55:12.000Z",
+    "report_date": "2024-12-13",
+    "accession": "0001213900-24-109825",
+    "primary_document": "ea0225149-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-24-109825"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2025-01-03",
+    "acceptance_datetime": "2025-01-03T13:31:16.000Z",
+    "report_date": "2025-01-02",
+    "accession": "0001213900-25-000517",
+    "primary_document": "ea0226709-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-25-000517"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2025-01-22",
+    "acceptance_datetime": "2025-01-22T14:18:25.000Z",
+    "report_date": "2025-01-21",
+    "accession": "0001213900-25-005212",
+    "primary_document": "ea0228309-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-25-005212"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2025-02-11",
+    "acceptance_datetime": "2025-02-11T21:35:12.000Z",
+    "report_date": "2025-02-07",
+    "accession": "0001213900-25-012244",
+    "primary_document": "ea0229914-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001213900-25-012244"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2025-02-27",
+    "acceptance_datetime": "2025-02-27T22:00:43.000Z",
+    "report_date": "2025-02-22",
+    "accession": "0001213900-25-018135",
+    "primary_document": "ea0232360-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-25-018135"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2025-03-03",
+    "acceptance_datetime": "2025-03-03T21:30:09.000Z",
+    "report_date": "2025-02-28",
+    "accession": "0001213900-25-019437",
+    "primary_document": "ea0232721-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001213900-25-019437"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2025-04-28",
+    "acceptance_datetime": "2025-04-28T20:30:31.000Z",
+    "report_date": "2025-04-24",
+    "accession": "0001213900-25-036109",
+    "primary_document": "ea0239800-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001213900-25-036109"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-05-21",
+    "acceptance_datetime": "2025-05-21T20:05:14.000Z",
+    "report_date": "2025-05-21",
+    "accession": "0001213900-25-046436",
+    "primary_document": "ea0243059-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-25-046436"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2025-07-23",
+    "acceptance_datetime": "2025-07-23T12:36:03.000Z",
+    "report_date": "2025-07-22",
+    "accession": "0001213900-25-066819",
+    "primary_document": "ea0248817-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001213900-25-066819"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2025-08-21",
+    "acceptance_datetime": "2025-08-21T20:06:13.000Z",
+    "report_date": "2025-08-19",
+    "accession": "0001213900-25-079361",
+    "primary_document": "ea0254007-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02,5.07; accession=0001213900-25-079361"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-10-06",
+    "acceptance_datetime": "2025-10-06T13:28:16.000Z",
+    "report_date": "2025-09-30",
+    "accession": "0001213900-25-096322",
+    "primary_document": "ea0260371-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001213900-25-096322"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.02,8.01,9.01",
+    "filing_date": "2025-10-24",
+    "acceptance_datetime": "2025-10-23T23:39:47.000Z",
+    "report_date": "2025-10-20",
+    "accession": "0001213900-25-101825",
+    "primary_document": "ea0262319-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,1.02,2.02,8.01,9.01; accession=0001213900-25-101825"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,9.01",
+    "filing_date": "2025-11-17",
+    "acceptance_datetime": "2025-11-17T13:50:42.000Z",
+    "report_date": "2025-11-16",
+    "accession": "0001213900-25-111298",
+    "primary_document": "ea0265959-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,3.03,9.01; accession=0001213900-25-111298"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-11-17",
+    "acceptance_datetime": "2025-11-17T14:05:55.000Z",
+    "report_date": "2025-11-17",
+    "accession": "0001213900-25-111310",
+    "primary_document": "ea0265949-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=2.02,9.01; accession=0001213900-25-111310"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-12-31",
+    "acceptance_datetime": "2025-12-31T01:51:22.000Z",
+    "report_date": "2025-12-30",
+    "accession": "0001012975-25-000992",
+    "primary_document": "ormp-20251230.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01; accession=0001012975-25-000992"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-12-31",
+    "acceptance_datetime": "2025-12-31T21:30:29.000Z",
+    "report_date": "2025-12-31",
+    "accession": "0001213900-25-127133",
+    "primary_document": "ea0271432-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.02; accession=0001213900-25-127133"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2026-01-07",
+    "acceptance_datetime": "2026-01-07T13:56:12.000Z",
+    "report_date": "2026-01-07",
+    "accession": "0001213900-26-001983",
+    "primary_document": "ea0271929-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=8.01,9.01; accession=0001213900-26-001983"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2026-01-14",
+    "acceptance_datetime": "2026-01-14T21:31:23.000Z",
+    "report_date": "2026-01-12",
+    "accession": "0001213900-26-004382",
+    "primary_document": "ea0272889-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001213900-26-004382"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2026-02-20",
+    "acceptance_datetime": "2026-02-20T21:26:58.000Z",
+    "report_date": "2026-02-19",
+    "accession": "0001012975-26-000195",
+    "primary_document": "ormp-20260219.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,9.01; accession=0001012975-26-000195"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01",
+    "filing_date": "2026-03-31",
+    "acceptance_datetime": "2026-03-31T20:20:22.000Z",
+    "report_date": "2026-03-25",
+    "accession": "0001213900-26-037474",
+    "primary_document": "ea0284244-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=1.01,2.01; accession=0001213900-26-037474"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,8.01,9.01",
+    "filing_date": "2026-06-30",
+    "acceptance_datetime": "2026-06-30T20:19:25.000Z",
+    "report_date": "2026-06-25",
+    "accession": "0001213900-26-073709",
+    "primary_document": "ea0296520-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.03,8.01,9.01; accession=0001213900-26-073709"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2026-09-17",
+    "acceptance_datetime": "2026-09-17T19:37:59.000Z",
+    "report_date": "2026-09-15",
+    "accession": "0001213900-26-100929",
+    "primary_document": "ea0305871-8k_oramed.htm",
+    "cik": "0001176309",
+    "issuer_name": "ORAMED PHARMACEUTICALS INC.",
+    "tickers": [
+      "ORMP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001176309.json",
+    "locator": "8-K items=5.07; accession=0001213900-26-100929"
+  }
+]

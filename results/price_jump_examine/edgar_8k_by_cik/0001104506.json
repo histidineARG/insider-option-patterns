@@ -1,0 +1,5826 @@
+[
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-06-01",
+    "acceptance_datetime": "2000-06-01T04:00:00.000Z",
+    "report_date": "2000-05-31",
+    "accession": "0000916641-00-000797",
+    "primary_document": "0001.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5,7; accession=0000916641-00-000797"
+  },
+  {
+    "form": "8-K",
+    "items": "2,7",
+    "filing_date": "2000-06-15",
+    "acceptance_datetime": "2000-06-15T04:00:00.000Z",
+    "report_date": "2000-05-31",
+    "accession": "0000916641-00-000858",
+    "primary_document": "0001.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2,7; accession=0000916641-00-000858"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2,5,7",
+    "filing_date": "2000-08-14",
+    "acceptance_datetime": "2000-08-14T04:00:00.000Z",
+    "report_date": "2000-05-31",
+    "accession": "0000916641-00-001157",
+    "primary_document": "0001.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2,5,7; accession=0000916641-00-001157"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2000-11-08",
+    "acceptance_datetime": "2000-11-08T05:00:00.000Z",
+    "report_date": "2000-11-09",
+    "accession": "0000916641-00-001591",
+    "primary_document": "0001.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7,9; accession=0000916641-00-001591"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-11-27",
+    "acceptance_datetime": "2000-11-27T05:00:00.000Z",
+    "report_date": "2000-11-24",
+    "accession": "0000916641-00-001773",
+    "primary_document": "0001.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5,7; accession=0000916641-00-001773"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2000-12-01",
+    "acceptance_datetime": "2000-12-01T05:00:00.000Z",
+    "report_date": "2000-11-28",
+    "accession": "0001045969-00-000935",
+    "primary_document": "0001.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7,9; accession=0001045969-00-000935"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2001-01-04",
+    "acceptance_datetime": "2001-01-04T05:00:00.000Z",
+    "report_date": "2001-01-04",
+    "accession": "0000916641-01-000008",
+    "primary_document": "0001.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5,7; accession=0000916641-01-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2001-02-28",
+    "acceptance_datetime": "2001-02-28T05:00:00.000Z",
+    "report_date": "2001-02-27",
+    "accession": "0000927356-01-000252",
+    "primary_document": "0001.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5,7; accession=0000927356-01-000252"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2001-03-22",
+    "acceptance_datetime": "2001-03-22T05:00:00.000Z",
+    "report_date": "2001-03-20",
+    "accession": "0000916641-01-000382",
+    "primary_document": "0001.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5,7; accession=0000916641-01-000382"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2001-03-28",
+    "acceptance_datetime": "2001-03-28T05:00:00.000Z",
+    "report_date": "2001-03-27",
+    "accession": "0000916641-01-000445",
+    "primary_document": "0001.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7,9; accession=0000916641-01-000445"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2001-05-17",
+    "acceptance_datetime": "2001-05-17T04:00:00.000Z",
+    "report_date": "2001-05-16",
+    "accession": "0000916641-01-500461",
+    "primary_document": "d8k.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5,7; accession=0000916641-01-500461"
+  },
+  {
+    "form": "8-K",
+    "items": "9",
+    "filing_date": "2002-08-09",
+    "acceptance_datetime": "2002-08-09T20:11:25.000Z",
+    "report_date": "2002-08-09",
+    "accession": "0001021408-02-010379",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=9; accession=0001021408-02-010379"
+  },
+  {
+    "form": "8-K",
+    "items": "9",
+    "filing_date": "2002-11-08",
+    "acceptance_datetime": "2002-11-08T18:51:33.000Z",
+    "report_date": "2002-11-08",
+    "accession": "0000916641-02-001813",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=9; accession=0000916641-02-001813"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2003-01-28",
+    "acceptance_datetime": "2003-01-28T18:45:56.000Z",
+    "report_date": "2003-01-27",
+    "accession": "0000916641-03-000094",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5; accession=0000916641-03-000094"
+  },
+  {
+    "form": "8-K",
+    "items": "9",
+    "filing_date": "2003-04-08",
+    "acceptance_datetime": "2003-04-08T14:57:52.000Z",
+    "report_date": "2003-04-07",
+    "accession": "0000916641-03-000972",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=9; accession=0000916641-03-000972"
+  },
+  {
+    "form": "8-K",
+    "items": "9",
+    "filing_date": "2003-05-02",
+    "acceptance_datetime": "2003-05-02T14:56:34.000Z",
+    "report_date": "2003-05-02",
+    "accession": "0000916641-03-001280",
+    "primary_document": "d8k.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=9; accession=0000916641-03-001280"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2003-05-13",
+    "acceptance_datetime": "2003-05-13T21:09:29.000Z",
+    "report_date": "2003-05-09",
+    "accession": "0000916641-03-001482",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5,7; accession=0000916641-03-001482"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-07-11",
+    "acceptance_datetime": "2003-07-11T21:15:31.000Z",
+    "report_date": "2003-07-11",
+    "accession": "0001193125-03-018771",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7,9; accession=0001193125-03-018771"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2003-07-16",
+    "acceptance_datetime": "2003-07-16T18:44:27.000Z",
+    "report_date": "2003-07-16",
+    "accession": "0001193125-03-020157",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5,7; accession=0001193125-03-020157"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2003-07-31",
+    "acceptance_datetime": "2003-07-31T15:22:46.000Z",
+    "report_date": "2003-07-31",
+    "accession": "0001193125-03-026867",
+    "primary_document": "d8k.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=12,7; accession=0001193125-03-026867"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2003-11-05",
+    "acceptance_datetime": "2003-11-05T14:27:37.000Z",
+    "report_date": "2003-11-05",
+    "accession": "0001193125-03-073010",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=12,7; accession=0001193125-03-073010"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-02-11",
+    "acceptance_datetime": "2004-02-11T16:56:22.000Z",
+    "report_date": "2004-02-11",
+    "accession": "0001193125-04-019277",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=12,7; accession=0001193125-04-019277"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2004-04-15",
+    "acceptance_datetime": "2004-04-15T16:02:14.000Z",
+    "report_date": "2004-04-14",
+    "accession": "0001193125-04-062916",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5,7; accession=0001193125-04-062916"
+  },
+  {
+    "form": "8-K",
+    "items": "12",
+    "filing_date": "2004-05-05",
+    "acceptance_datetime": "2004-05-05T20:34:38.000Z",
+    "report_date": "2004-05-05",
+    "accession": "0001193125-04-079333",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=12; accession=0001193125-04-079333"
+  },
+  {
+    "form": "8-K",
+    "items": "12",
+    "filing_date": "2004-08-05",
+    "acceptance_datetime": "2004-08-05T13:37:24.000Z",
+    "report_date": "2004-07-28",
+    "accession": "0001193125-04-132027",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=12; accession=0001193125-04-132027"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2004-11-09",
+    "acceptance_datetime": "2004-11-09T00:19:04.000Z",
+    "report_date": "2004-11-08",
+    "accession": "0001193125-04-189822",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02; accession=0001193125-04-189822"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,8.01,9.01",
+    "filing_date": "2004-11-10",
+    "acceptance_datetime": "2004-11-10T22:11:38.000Z",
+    "report_date": "2004-11-05",
+    "accession": "0001193125-04-192994",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,3.02,8.01,9.01; accession=0001193125-04-192994"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2004-12-21",
+    "acceptance_datetime": "2004-12-21T21:55:34.000Z",
+    "report_date": "2004-12-21",
+    "accession": "0001193125-04-217620",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-04-217620"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-01-03",
+    "acceptance_datetime": "2004-12-30T23:57:24.000Z",
+    "report_date": "2004-12-30",
+    "accession": "0001193125-04-221791",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-04-221791"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-02-22",
+    "acceptance_datetime": "2005-02-22T21:45:13.000Z",
+    "report_date": "2005-02-22",
+    "accession": "0001193125-05-034328",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-05-034328"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-03-11",
+    "acceptance_datetime": "2005-03-11T20:08:48.000Z",
+    "report_date": "2005-03-11",
+    "accession": "0001193125-05-047745",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-05-047745"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,3.03,8.01,9.01",
+    "filing_date": "2005-03-16",
+    "acceptance_datetime": "2005-03-16T19:12:56.000Z",
+    "report_date": "2005-03-15",
+    "accession": "0001193125-05-052487",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.03,3.02,3.03,8.01,9.01; accession=0001193125-05-052487"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-04-14",
+    "acceptance_datetime": "2005-04-14T18:39:42.000Z",
+    "report_date": "2005-04-14",
+    "accession": "0001193125-05-076473",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-05-076473"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-04-19",
+    "acceptance_datetime": "2005-04-19T18:25:48.000Z",
+    "report_date": "2005-04-19",
+    "accession": "0001193125-05-079390",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-05-079390"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-05-11",
+    "acceptance_datetime": "2005-05-11T21:27:22.000Z",
+    "report_date": "2005-05-10",
+    "accession": "0001193125-05-104262",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-05-104262"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2005-05-17",
+    "acceptance_datetime": "2005-05-17T15:35:43.000Z",
+    "report_date": "2005-05-11",
+    "accession": "0001193125-05-109553",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01; accession=0001193125-05-109553"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-05-26",
+    "acceptance_datetime": "2005-05-26T15:14:43.000Z",
+    "report_date": "2005-05-23",
+    "accession": "0001193125-05-115409",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-05-115409"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-06-10",
+    "acceptance_datetime": "2005-06-10T20:27:51.000Z",
+    "report_date": "2005-05-11",
+    "accession": "0001193125-05-123756",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-05-123756"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-06-10",
+    "acceptance_datetime": "2005-06-10T21:12:13.000Z",
+    "report_date": "2005-06-10",
+    "accession": "0001193125-05-123840",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-05-123840"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-08-09",
+    "acceptance_datetime": "2005-08-09T15:49:40.000Z",
+    "report_date": "2005-08-09",
+    "accession": "0001193125-05-162102",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-05-162102"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2005-08-16",
+    "acceptance_datetime": "2005-08-16T20:20:50.000Z",
+    "report_date": "2005-08-11",
+    "accession": "0001193125-05-169514",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02; accession=0001193125-05-169514"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2005-09-15",
+    "acceptance_datetime": "2005-09-15T20:27:55.000Z",
+    "report_date": "2005-08-19",
+    "accession": "0001193125-05-186141",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.02; accession=0001193125-05-186141"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-09-28",
+    "acceptance_datetime": "2005-09-28T21:27:02.000Z",
+    "report_date": "2005-09-27",
+    "accession": "0001193125-05-193306",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-05-193306"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-09-29",
+    "acceptance_datetime": "2005-09-29T21:30:39.000Z",
+    "report_date": "2005-09-29",
+    "accession": "0001193125-05-194251",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-05-194251"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2005-10-05",
+    "acceptance_datetime": "2005-10-05T20:26:58.000Z",
+    "report_date": "2005-09-29",
+    "accession": "0001193125-05-196955",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.02; accession=0001193125-05-196955"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-12-09",
+    "acceptance_datetime": "2005-12-09T17:57:38.000Z",
+    "report_date": "2005-12-08",
+    "accession": "0001157523-05-010708",
+    "primary_document": "a5036992.txt",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001157523-05-010708"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-12-14",
+    "acceptance_datetime": "2005-12-14T20:53:01.000Z",
+    "report_date": "2005-12-12",
+    "accession": "0001193125-05-242537",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-05-242537"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-12-14",
+    "acceptance_datetime": "2005-12-14T21:41:00.000Z",
+    "report_date": "2005-12-08",
+    "accession": "0001193125-05-242620",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-05-242620"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2005-12-19",
+    "acceptance_datetime": "2005-12-19T22:30:16.000Z",
+    "report_date": "2005-12-13",
+    "accession": "0001193125-05-245035",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.02; accession=0001193125-05-245035"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2006-01-13",
+    "acceptance_datetime": "2006-01-13T19:19:08.000Z",
+    "report_date": "2005-12-28",
+    "accession": "0001193125-06-006187",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.02; accession=0001193125-06-006187"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2006-01-24",
+    "acceptance_datetime": "2006-01-24T20:36:20.000Z",
+    "report_date": "2006-01-18",
+    "accession": "0001193125-06-010769",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.02; accession=0001193125-06-010769"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02",
+    "filing_date": "2006-02-22",
+    "acceptance_datetime": "2006-02-22T21:10:32.000Z",
+    "report_date": "2005-02-15",
+    "accession": "0001193125-06-036701",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,5.02; accession=0001193125-06-036701"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,5.02",
+    "filing_date": "2006-02-23",
+    "acceptance_datetime": "2006-02-23T00:00:33.000Z",
+    "report_date": "2006-02-15",
+    "accession": "0001193125-06-036826",
+    "primary_document": "d8ka.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,5.02; accession=0001193125-06-036826"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-03-02",
+    "acceptance_datetime": "2006-03-02T21:02:25.000Z",
+    "report_date": "2006-03-02",
+    "accession": "0001193125-06-043882",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-06-043882"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2006-03-10",
+    "acceptance_datetime": "2006-03-10T20:10:26.000Z",
+    "report_date": "2006-03-09",
+    "accession": "0001193125-06-050938",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-06-050938"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-03-23",
+    "acceptance_datetime": "2006-03-23T21:07:20.000Z",
+    "report_date": "2006-03-23",
+    "accession": "0001193125-06-061835",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-06-061835"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2006-03-30",
+    "acceptance_datetime": "2006-03-30T21:02:54.000Z",
+    "report_date": "2006-02-15",
+    "accession": "0001193125-06-068593",
+    "primary_document": "d8ka.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001193125-06-068593"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-05-03",
+    "acceptance_datetime": "2006-05-02T22:02:46.000Z",
+    "report_date": "2006-05-02",
+    "accession": "0001193125-06-096976",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-06-096976"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-05-09",
+    "acceptance_datetime": "2006-05-08T22:16:12.000Z",
+    "report_date": "2006-05-08",
+    "accession": "0001193125-06-103802",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-06-103802"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2006-05-15",
+    "acceptance_datetime": "2006-05-15T20:51:25.000Z",
+    "report_date": "2006-05-10",
+    "accession": "0001193125-06-112861",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01; accession=0001193125-06-112861"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-05-25",
+    "acceptance_datetime": "2006-05-25T20:39:16.000Z",
+    "report_date": "2006-05-25",
+    "accession": "0001193125-06-119570",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-06-119570"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-06-13",
+    "acceptance_datetime": "2006-06-13T18:12:39.000Z",
+    "report_date": "2006-06-13",
+    "accession": "0001193125-06-128838",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-06-128838"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-07-05",
+    "acceptance_datetime": "2006-07-05T21:09:46.000Z",
+    "report_date": "2006-07-05",
+    "accession": "0001193125-06-141944",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-06-141944"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-08-09",
+    "acceptance_datetime": "2006-08-09T16:01:13.000Z",
+    "report_date": "2006-08-09",
+    "accession": "0001193125-06-167181",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-06-167181"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-10-17",
+    "acceptance_datetime": "2006-10-17T20:12:51.000Z",
+    "report_date": "2006-10-17",
+    "accession": "0001193125-06-209236",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-06-209236"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2006-10-30",
+    "acceptance_datetime": "2006-10-30T14:13:50.000Z",
+    "report_date": "2006-10-25",
+    "accession": "0001193125-06-217569",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-06-217569"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-11-03",
+    "acceptance_datetime": "2006-11-03T21:08:18.000Z",
+    "report_date": "2006-11-03",
+    "accession": "0001193125-06-223686",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-06-223686"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2006-12-04",
+    "acceptance_datetime": "2006-12-04T21:40:14.000Z",
+    "report_date": "2006-12-04",
+    "accession": "0001193125-06-246240",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001193125-06-246240"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-12-07",
+    "acceptance_datetime": "2006-12-07T21:11:55.000Z",
+    "report_date": "2006-12-07",
+    "accession": "0001193125-06-248618",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-06-248618"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-01-10",
+    "acceptance_datetime": "2007-01-10T20:07:17.000Z",
+    "report_date": "2007-01-10",
+    "accession": "0001193125-07-004482",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-07-004482"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05,5.02,9.01",
+    "filing_date": "2007-03-07",
+    "acceptance_datetime": "2007-03-07T15:44:50.000Z",
+    "report_date": "2007-03-07",
+    "accession": "0001193125-07-048042",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.05,5.02,9.01; accession=0001193125-07-048042"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-03-08",
+    "acceptance_datetime": "2007-03-07T23:51:23.000Z",
+    "report_date": "2007-03-07",
+    "accession": "0001193125-07-048622",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-07-048622"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,9.01",
+    "filing_date": "2007-03-16",
+    "acceptance_datetime": "2007-03-16T20:30:04.000Z",
+    "report_date": "2007-03-16",
+    "accession": "0001193125-07-057148",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.02,9.01; accession=0001193125-07-057148"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-04-26",
+    "acceptance_datetime": "2007-04-26T13:05:26.000Z",
+    "report_date": "2007-04-26",
+    "accession": "0001193125-07-091101",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-07-091101"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-05-01",
+    "acceptance_datetime": "2007-05-01T11:05:37.000Z",
+    "report_date": "2007-05-01",
+    "accession": "0001193125-07-096863",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-07-096863"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-05-03",
+    "acceptance_datetime": "2007-05-03T17:24:01.000Z",
+    "report_date": "2007-05-03",
+    "accession": "0001193125-07-101007",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-07-101007"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2007-05-04",
+    "acceptance_datetime": "2007-05-04T14:46:51.000Z",
+    "report_date": "2007-05-03",
+    "accession": "0001193125-07-102266",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001193125-07-102266"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-05-10",
+    "acceptance_datetime": "2007-05-10T19:26:42.000Z",
+    "report_date": "2007-05-10",
+    "accession": "0001193125-07-110084",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-07-110084"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2007-06-19",
+    "acceptance_datetime": "2007-06-19T20:24:54.000Z",
+    "report_date": "2007-06-19",
+    "accession": "0001193125-07-138420",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.01,9.01; accession=0001193125-07-138420"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-06-25",
+    "acceptance_datetime": "2007-06-25T16:02:47.000Z",
+    "report_date": "2007-06-25",
+    "accession": "0001193125-07-141441",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-07-141441"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-08-02",
+    "acceptance_datetime": "2007-08-02T18:38:25.000Z",
+    "report_date": "2007-08-02",
+    "accession": "0001193125-07-169312",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-07-169312"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-11-06",
+    "acceptance_datetime": "2007-11-06T13:12:30.000Z",
+    "report_date": "2007-11-06",
+    "accession": "0001193125-07-236017",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-07-236017"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-11-09",
+    "acceptance_datetime": "2007-11-09T00:23:05.000Z",
+    "report_date": "2007-11-08",
+    "accession": "0001193125-07-240702",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-07-240702"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-12-10",
+    "acceptance_datetime": "2007-12-07T22:32:50.000Z",
+    "report_date": "2007-12-06",
+    "accession": "0001193125-07-261511",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-07-261511"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-12-13",
+    "acceptance_datetime": "2007-12-13T12:03:53.000Z",
+    "report_date": "2007-12-12",
+    "accession": "0001193125-07-264292",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-07-264292"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2007-12-26",
+    "acceptance_datetime": "2007-12-26T22:02:52.000Z",
+    "report_date": "2007-12-20",
+    "accession": "0001193125-07-271408",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.01,9.01; accession=0001193125-07-271408"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-01-04",
+    "acceptance_datetime": "2008-01-04T21:02:06.000Z",
+    "report_date": "2008-01-03",
+    "accession": "0001193125-08-001657",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02; accession=0001193125-08-001657"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2008-02-28",
+    "acceptance_datetime": "2008-02-28T21:03:28.000Z",
+    "report_date": "2008-02-27",
+    "accession": "0001193125-08-041734",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.01,9.01; accession=0001193125-08-041734"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-03-04",
+    "acceptance_datetime": "2008-03-04T21:04:51.000Z",
+    "report_date": "2008-03-04",
+    "accession": "0001193125-08-046316",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-08-046316"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-03-18",
+    "acceptance_datetime": "2008-03-18T20:44:31.000Z",
+    "report_date": "2008-03-18",
+    "accession": "0001193125-08-060036",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-08-060036"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-05-08",
+    "acceptance_datetime": "2008-05-08T20:02:35.000Z",
+    "report_date": "2008-05-08",
+    "accession": "0001193125-08-107765",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-08-107765"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2008-05-30",
+    "acceptance_datetime": "2008-05-30T20:01:21.000Z",
+    "report_date": "2008-05-29",
+    "accession": "0001193125-08-125682",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001193125-08-125682"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2008-06-20",
+    "acceptance_datetime": "2008-06-20T18:54:24.000Z",
+    "report_date": "2008-06-17",
+    "accession": "0001193125-08-137342",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.01,9.01; accession=0001193125-08-137342"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-08-08",
+    "acceptance_datetime": "2008-08-08T20:03:48.000Z",
+    "report_date": "2008-08-08",
+    "accession": "0001193125-08-171904",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-08-171904"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2008-09-03",
+    "acceptance_datetime": "2008-09-03T20:08:48.000Z",
+    "report_date": "2008-09-03",
+    "accession": "0001193125-08-189315",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.01,9.01; accession=0001193125-08-189315"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2008-10-23",
+    "acceptance_datetime": "2008-10-23T21:19:27.000Z",
+    "report_date": "2008-10-23",
+    "accession": "0001104506-08-000004",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.01,9.01; accession=0001104506-08-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-10-30",
+    "acceptance_datetime": "2008-10-30T20:18:12.000Z",
+    "report_date": "2008-10-30",
+    "accession": "0001104506-08-000005",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-08-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2008-11-10",
+    "acceptance_datetime": "2008-11-10T22:24:58.000Z",
+    "report_date": "2008-11-08",
+    "accession": "0001104506-08-000011",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104506-08-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2008-12-30",
+    "acceptance_datetime": "2008-12-30T13:34:13.000Z",
+    "report_date": "2008-12-23",
+    "accession": "0001104506-08-000012",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.01,9.01; accession=0001104506-08-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,9.01",
+    "filing_date": "2009-02-13",
+    "acceptance_datetime": "2009-02-12T23:49:19.000Z",
+    "report_date": "2009-02-12",
+    "accession": "0001104506-09-000001",
+    "primary_document": "form_8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.01,9.01; accession=0001104506-09-000001"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-03-11",
+    "acceptance_datetime": "2009-03-11T11:28:19.000Z",
+    "report_date": "2009-03-11",
+    "accession": "0001104506-09-000002",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-09-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2009-03-19",
+    "acceptance_datetime": "2009-03-19T20:37:04.000Z",
+    "report_date": "2009-03-17",
+    "accession": "0001104506-09-000003",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104506-09-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-04-02",
+    "acceptance_datetime": "2009-04-01T21:39:45.000Z",
+    "report_date": "2009-03-31",
+    "accession": "0001104506-09-000005",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-09-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-05-05",
+    "acceptance_datetime": "2009-05-05T20:31:06.000Z",
+    "report_date": "2009-05-01",
+    "accession": "0001104506-09-000007",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-09-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-05-13",
+    "acceptance_datetime": "2009-05-13T12:55:33.000Z",
+    "report_date": "2009-05-13",
+    "accession": "0001104506-09-000008",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-09-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-05-22",
+    "acceptance_datetime": "2009-05-22T20:07:42.000Z",
+    "report_date": "2009-05-20",
+    "accession": "0001104506-09-000011",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02; accession=0001104506-09-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2009-06-03",
+    "acceptance_datetime": "2009-06-03T20:27:53.000Z",
+    "report_date": "2009-05-29",
+    "accession": "0001104506-09-000012",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.02; accession=0001104506-09-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2009-06-19",
+    "acceptance_datetime": "2009-06-19T20:46:15.000Z",
+    "report_date": "2009-06-15",
+    "accession": "0001104506-09-000013",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104506-09-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-06-25",
+    "acceptance_datetime": "2009-06-25T13:01:25.000Z",
+    "report_date": "2009-06-25",
+    "accession": "0001104506-09-000014",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-09-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2009-06-26",
+    "acceptance_datetime": "2009-06-26T12:54:48.000Z",
+    "report_date": "2009-06-22",
+    "accession": "0001104506-09-000015",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.02; accession=0001104506-09-000015"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-07-02",
+    "acceptance_datetime": "2009-07-02T21:01:27.000Z",
+    "report_date": "2009-07-02",
+    "accession": "0001104506-09-000017",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02; accession=0001104506-09-000017"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-07-27",
+    "acceptance_datetime": "2009-07-27T12:20:06.000Z",
+    "report_date": "2009-07-27",
+    "accession": "0001104506-09-000018",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-09-000018"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-08-13",
+    "acceptance_datetime": "2009-08-13T13:06:21.000Z",
+    "report_date": "2009-08-13",
+    "accession": "0001104506-09-000020",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-09-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2009-09-16",
+    "acceptance_datetime": "2009-09-16T21:03:02.000Z",
+    "report_date": "2009-09-16",
+    "accession": "0001104506-09-000023",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.01,9.01; accession=0001104506-09-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-11-06",
+    "acceptance_datetime": "2009-11-06T13:35:55.000Z",
+    "report_date": "2009-11-06",
+    "accession": "0001104506-09-000024",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-09-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2010-03-04",
+    "acceptance_datetime": "2010-03-04T13:29:55.000Z",
+    "report_date": "2010-03-03",
+    "accession": "0001104506-10-000002",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-10-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-03-15",
+    "acceptance_datetime": "2010-03-15T11:30:04.000Z",
+    "report_date": "2010-03-15",
+    "accession": "0001104506-10-000003",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-10-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2010-03-22",
+    "acceptance_datetime": "2010-03-22T12:50:00.000Z",
+    "report_date": "2010-03-22",
+    "accession": "0001104506-10-000005",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-10-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-05-06",
+    "acceptance_datetime": "2010-05-06T12:08:28.000Z",
+    "report_date": "2010-05-06",
+    "accession": "0001104506-10-000007",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-10-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2010-06-18",
+    "acceptance_datetime": "2010-06-18T21:00:19.000Z",
+    "report_date": "2010-06-18",
+    "accession": "0001104506-10-000009",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.07; accession=0001104506-10-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2010-06-21",
+    "acceptance_datetime": "2010-06-21T20:30:54.000Z",
+    "report_date": "2010-06-21",
+    "accession": "0001104506-10-000010",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.01,9.01; accession=0001104506-10-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-08-04",
+    "acceptance_datetime": "2010-08-04T12:56:41.000Z",
+    "report_date": "2010-08-04",
+    "accession": "0001104506-10-000012",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-10-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-11-03",
+    "acceptance_datetime": "2010-11-03T12:07:20.000Z",
+    "report_date": "2010-11-03",
+    "accession": "0001104506-10-000016",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-10-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,3.02,3.03,5.02,5.03,8.01,9.01",
+    "filing_date": "2010-12-02",
+    "acceptance_datetime": "2010-12-02T12:59:58.000Z",
+    "report_date": "2010-12-01",
+    "accession": "0001104506-10-000018",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.01,3.02,3.03,5.02,5.03,8.01,9.01; accession=0001104506-10-000018"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2010-12-13",
+    "acceptance_datetime": "2010-12-13T21:27:59.000Z",
+    "report_date": "2010-12-06",
+    "accession": "0001104506-10-000022",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104506-10-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2010-12-16",
+    "acceptance_datetime": "2010-12-16T22:07:12.000Z",
+    "report_date": "2010-12-16",
+    "accession": "0001104506-10-000024",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.01,9.01; accession=0001104506-10-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01",
+    "filing_date": "2011-01-14",
+    "acceptance_datetime": "2011-01-14T21:49:10.000Z",
+    "report_date": "2011-01-12",
+    "accession": "0001104506-11-000002",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,8.01; accession=0001104506-11-000002"
+  },
+  {
+    "form": "8-K/A",
+    "items": "8.01,9.01",
+    "filing_date": "2011-01-14",
+    "acceptance_datetime": "2011-01-14T22:15:13.000Z",
+    "report_date": "2010-12-01",
+    "accession": "0001104506-11-000003",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-11-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2011-02-01",
+    "acceptance_datetime": "2011-02-01T21:07:18.000Z",
+    "report_date": "2011-01-31",
+    "accession": "0001104506-11-000007",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104506-11-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2011-02-17",
+    "acceptance_datetime": "2011-02-17T13:30:45.000Z",
+    "report_date": "2011-02-11",
+    "accession": "0001104506-11-000008",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01; accession=0001104506-11-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01,9.01",
+    "filing_date": "2011-03-01",
+    "acceptance_datetime": "2011-03-01T21:42:07.000Z",
+    "report_date": "2011-03-01",
+    "accession": "0001104506-11-000009",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.07,8.01,9.01; accession=0001104506-11-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-03-02",
+    "acceptance_datetime": "2011-03-02T22:26:24.000Z",
+    "report_date": "2011-03-02",
+    "accession": "0001104506-11-000011",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-11-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-03-03",
+    "acceptance_datetime": "2011-03-03T13:40:45.000Z",
+    "report_date": "2011-03-03",
+    "accession": "0001104506-11-000012",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-11-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-03-10",
+    "acceptance_datetime": "2011-03-10T13:44:30.000Z",
+    "report_date": "2011-03-10",
+    "accession": "0001104506-11-000013",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-11-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-03-10",
+    "acceptance_datetime": "2011-03-10T22:23:37.000Z",
+    "report_date": "2011-03-10",
+    "accession": "0001104506-11-000014",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-11-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-03-21",
+    "acceptance_datetime": "2011-03-21T15:39:10.000Z",
+    "report_date": "2011-03-17",
+    "accession": "0001104506-11-000017",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-11-000017"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-03-29",
+    "acceptance_datetime": "2011-03-29T20:25:35.000Z",
+    "report_date": "2011-03-29",
+    "accession": "0001104506-11-000020",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-11-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-05-10",
+    "acceptance_datetime": "2011-05-10T12:10:30.000Z",
+    "report_date": "2011-03-31",
+    "accession": "0001104506-11-000024",
+    "primary_document": "i8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-11-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-05-11",
+    "acceptance_datetime": "2011-05-11T20:20:48.000Z",
+    "report_date": "2011-05-10",
+    "accession": "0001104506-11-000025",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-11-000025"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2011-05-23",
+    "acceptance_datetime": "2011-05-23T19:13:11.000Z",
+    "report_date": "2011-05-18",
+    "accession": "0001104506-11-000026",
+    "primary_document": "i8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.07; accession=0001104506-11-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-06-13",
+    "acceptance_datetime": "2011-06-13T13:13:02.000Z",
+    "report_date": "2011-06-10",
+    "accession": "0001104506-11-000027",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-11-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-06-28",
+    "acceptance_datetime": "2011-06-28T12:55:15.000Z",
+    "report_date": "2011-06-24",
+    "accession": "0001104506-11-000028",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-11-000028"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2011-07-18",
+    "acceptance_datetime": "2011-07-18T21:32:05.000Z",
+    "report_date": "2011-07-18",
+    "accession": "0001104506-11-000031",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104506-11-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-08-02",
+    "acceptance_datetime": "2011-08-02T00:59:01.000Z",
+    "report_date": "2011-08-01",
+    "accession": "0001104506-11-000032",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-11-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-08-08",
+    "acceptance_datetime": "2011-08-08T11:40:12.000Z",
+    "report_date": "2011-08-08",
+    "accession": "0001104506-11-000034",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-11-000034"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2011-08-09",
+    "acceptance_datetime": "2011-08-09T18:04:53.000Z",
+    "report_date": "2011-08-08",
+    "accession": "0001104506-11-000036",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01; accession=0001104506-11-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2011-08-15",
+    "acceptance_datetime": "2011-08-15T13:41:03.000Z",
+    "report_date": "2011-08-15",
+    "accession": "0001193125-11-222318",
+    "primary_document": "d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-11-222318"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-10-11",
+    "acceptance_datetime": "2011-10-11T12:39:06.000Z",
+    "report_date": "2011-10-11",
+    "accession": "0001104506-11-000037",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-11-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-10-14",
+    "acceptance_datetime": "2011-10-14T12:56:16.000Z",
+    "report_date": "2011-10-14",
+    "accession": "0001104506-11-000038",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104506-11-000038"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-11-08",
+    "acceptance_datetime": "2011-11-08T14:13:05.000Z",
+    "report_date": "2011-11-08",
+    "accession": "0001104506-11-000039",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104506-11-000039"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2011-11-09",
+    "acceptance_datetime": "2011-11-09T20:32:58.000Z",
+    "report_date": "2011-11-09",
+    "accession": "0001104506-11-000042",
+    "primary_document": "i8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104506-11-000042"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2011-11-16",
+    "acceptance_datetime": "2011-11-16T12:08:40.000Z",
+    "report_date": "2011-11-16",
+    "accession": "0001193125-11-313575",
+    "primary_document": "d258838d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-11-313575"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-01-23",
+    "acceptance_datetime": "2012-01-23T13:36:31.000Z",
+    "report_date": "2012-01-20",
+    "accession": "0001140361-12-003326",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-12-003326"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-02-13",
+    "acceptance_datetime": "2012-02-13T12:35:33.000Z",
+    "report_date": "2012-02-10",
+    "accession": "0001140361-12-007098",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-12-007098"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2012-03-09",
+    "acceptance_datetime": "2012-03-09T17:42:40.000Z",
+    "report_date": "2012-03-06",
+    "accession": "0001140361-12-014434",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.03,9.01; accession=0001140361-12-014434"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-03-13",
+    "acceptance_datetime": "2012-03-13T12:09:23.000Z",
+    "report_date": "2012-03-13",
+    "accession": "0001140361-12-015077",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-12-015077"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-03-15",
+    "acceptance_datetime": "2012-03-15T11:25:38.000Z",
+    "report_date": "2012-03-15",
+    "accession": "0001140361-12-015638",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-12-015638"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-04-17",
+    "acceptance_datetime": "2012-04-17T11:25:25.000Z",
+    "report_date": "2012-04-16",
+    "accession": "0001140361-12-020606",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-12-020606"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-05-07",
+    "acceptance_datetime": "2012-05-07T12:30:25.000Z",
+    "report_date": "2012-05-07",
+    "accession": "0001140361-12-023173",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-12-023173"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-05-08",
+    "acceptance_datetime": "2012-05-08T11:31:52.000Z",
+    "report_date": "2012-05-08",
+    "accession": "0001140361-12-023460",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-12-023460"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-05-09",
+    "acceptance_datetime": "2012-05-09T20:22:41.000Z",
+    "report_date": "2012-05-08",
+    "accession": "0001140361-12-024000",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-12-024000"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-05-17",
+    "acceptance_datetime": "2012-05-17T12:00:30.000Z",
+    "report_date": "2012-05-17",
+    "accession": "0001140361-12-025925",
+    "primary_document": "form8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-12-025925"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-05-23",
+    "acceptance_datetime": "2012-05-23T20:15:43.000Z",
+    "report_date": "2012-05-23",
+    "accession": "0001140361-12-026995",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-12-026995"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2012-05-25",
+    "acceptance_datetime": "2012-05-25T15:37:18.000Z",
+    "report_date": "2012-05-24",
+    "accession": "0001140361-12-027321",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.07; accession=0001140361-12-027321"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-05-30",
+    "acceptance_datetime": "2012-05-30T21:00:47.000Z",
+    "report_date": "2012-05-30",
+    "accession": "0001140361-12-027868",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-12-027868"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-06-04",
+    "acceptance_datetime": "2012-06-04T21:01:13.000Z",
+    "report_date": "2012-06-04",
+    "accession": "0001140361-12-028592",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-12-028592"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2012-06-14",
+    "acceptance_datetime": "2012-06-14T14:00:51.000Z",
+    "report_date": "2012-06-13",
+    "accession": "0001140361-12-029878",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.03,9.01; accession=0001140361-12-029878"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-06-27",
+    "acceptance_datetime": "2012-06-27T20:33:17.000Z",
+    "report_date": "2012-06-27",
+    "accession": "0001140361-12-031346",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-12-031346"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,9.01",
+    "filing_date": "2012-07-02",
+    "acceptance_datetime": "2012-07-02T20:30:40.000Z",
+    "report_date": "2012-06-29",
+    "accession": "0001140361-12-031911",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.03,3.02,9.01; accession=0001140361-12-031911"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-07-09",
+    "acceptance_datetime": "2012-07-09T20:30:23.000Z",
+    "report_date": "2012-07-09",
+    "accession": "0001140361-12-032682",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-12-032682"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-07-30",
+    "acceptance_datetime": "2012-07-30T20:31:44.000Z",
+    "report_date": "2012-07-30",
+    "accession": "0001140361-12-034341",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-12-034341"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2012-08-01",
+    "acceptance_datetime": "2012-08-01T20:33:58.000Z",
+    "report_date": "2012-08-01",
+    "accession": "0001140361-12-034632",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001140361-12-034632"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-08-06",
+    "acceptance_datetime": "2012-08-06T20:32:17.000Z",
+    "report_date": "2012-08-02",
+    "accession": "0001140361-12-035289",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-12-035289"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-08-07",
+    "acceptance_datetime": "2012-08-07T20:30:36.000Z",
+    "report_date": "2012-08-07",
+    "accession": "0001140361-12-035482",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-12-035482"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-08-08",
+    "acceptance_datetime": "2012-08-08T20:30:52.000Z",
+    "report_date": "2012-08-07",
+    "accession": "0001140361-12-035759",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-12-035759"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-09-11",
+    "acceptance_datetime": "2012-09-11T20:15:39.000Z",
+    "report_date": "2012-09-10",
+    "accession": "0001140361-12-040054",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-12-040054"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2012-09-28",
+    "acceptance_datetime": "2012-09-28T18:58:43.000Z",
+    "report_date": "2012-09-28",
+    "accession": "0001193125-12-408733",
+    "primary_document": "d418353d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-12-408733"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-10-05",
+    "acceptance_datetime": "2012-10-05T21:17:41.000Z",
+    "report_date": "2012-10-05",
+    "accession": "0001140361-12-043091",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-12-043091"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,7.01",
+    "filing_date": "2012-10-12",
+    "acceptance_datetime": "2012-10-12T20:45:04.000Z",
+    "report_date": "2012-10-05",
+    "accession": "0001193125-12-422101",
+    "primary_document": "d423914d8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.01,7.01; accession=0001193125-12-422101"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-11-07",
+    "acceptance_datetime": "2012-11-07T12:10:12.000Z",
+    "report_date": "2012-11-07",
+    "accession": "0001140361-12-045930",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-12-045930"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2012-11-07",
+    "acceptance_datetime": "2012-11-07T12:26:20.000Z",
+    "report_date": "2012-11-07",
+    "accession": "0001140361-12-045932",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001140361-12-045932"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-11-13",
+    "acceptance_datetime": "2012-11-13T13:36:44.000Z",
+    "report_date": "2012-11-13",
+    "accession": "0001140361-12-046612",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-12-046612"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-12-03",
+    "acceptance_datetime": "2012-12-03T12:00:40.000Z",
+    "report_date": "2012-12-03",
+    "accession": "0001140361-12-049349",
+    "primary_document": "form8-k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-12-049349"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-03-18",
+    "acceptance_datetime": "2013-03-18T11:45:55.000Z",
+    "report_date": "2013-03-18",
+    "accession": "0001140361-13-012798",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-13-012798"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2013-04-01",
+    "acceptance_datetime": "2013-04-01T20:47:13.000Z",
+    "report_date": "2013-04-01",
+    "accession": "0001140361-13-014813",
+    "primary_document": "form8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-13-014813"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2013-04-30",
+    "acceptance_datetime": "2013-04-30T12:02:42.000Z",
+    "report_date": "2013-04-29",
+    "accession": "0001104659-13-034746",
+    "primary_document": "a13-11134_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001104659-13-034746"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2013-05-01",
+    "acceptance_datetime": "2013-05-01T21:15:12.000Z",
+    "report_date": "2013-04-30",
+    "accession": "0001104659-13-036044",
+    "primary_document": "a13-11330_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=3.02; accession=0001104659-13-036044"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-05-07",
+    "acceptance_datetime": "2013-05-07T11:35:00.000Z",
+    "report_date": "2013-05-07",
+    "accession": "0001104659-13-037900",
+    "primary_document": "a13-11633_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-037900"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2013-05-28",
+    "acceptance_datetime": "2013-05-28T20:49:52.000Z",
+    "report_date": "2013-05-23",
+    "accession": "0001104659-13-045058",
+    "primary_document": "a13-13424_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001104659-13-045058"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2013-05-29",
+    "acceptance_datetime": "2013-05-28T22:58:36.000Z",
+    "report_date": "2013-05-28",
+    "accession": "0001104659-13-045106",
+    "primary_document": "a13-13424_28k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-13-045106"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-07-01",
+    "acceptance_datetime": "2013-07-01T11:45:26.000Z",
+    "report_date": "2013-07-01",
+    "accession": "0001104659-13-052440",
+    "primary_document": "a13-15900_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-13-052440"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-07-17",
+    "acceptance_datetime": "2013-07-17T12:00:35.000Z",
+    "report_date": "2013-07-15",
+    "accession": "0001104659-13-054800",
+    "primary_document": "a13-16595_38k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-13-054800"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-07-22",
+    "acceptance_datetime": "2013-07-22T17:16:22.000Z",
+    "report_date": "2013-07-22",
+    "accession": "0001104659-13-055575",
+    "primary_document": "a13-16836_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-13-055575"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-08-06",
+    "acceptance_datetime": "2013-08-06T11:33:51.000Z",
+    "report_date": "2013-08-06",
+    "accession": "0001104659-13-060112",
+    "primary_document": "a13-17980_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-060112"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-10-15",
+    "acceptance_datetime": "2013-10-15T20:05:29.000Z",
+    "report_date": "2013-10-15",
+    "accession": "0001104659-13-075679",
+    "primary_document": "a13-22301_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-13-075679"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2013-11-01",
+    "acceptance_datetime": "2013-11-01T13:21:06.000Z",
+    "report_date": "2013-10-30",
+    "accession": "0001104659-13-079889",
+    "primary_document": "a13-23333_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-13-079889"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-11-05",
+    "acceptance_datetime": "2013-11-05T12:29:32.000Z",
+    "report_date": "2013-11-05",
+    "accession": "0001104659-13-080815",
+    "primary_document": "a13-23516_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-080815"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2013-11-26",
+    "acceptance_datetime": "2013-11-26T21:07:21.000Z",
+    "report_date": "2013-11-25",
+    "accession": "0001104659-13-087190",
+    "primary_document": "a13-25035_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.03; accession=0001104659-13-087190"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2014-01-03",
+    "acceptance_datetime": "2014-01-03T21:27:43.000Z",
+    "report_date": "2013-12-31",
+    "accession": "0001104659-14-000364",
+    "primary_document": "a13-25887_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-14-000364"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2014-01-16",
+    "acceptance_datetime": "2014-01-16T21:09:11.000Z",
+    "report_date": "2014-01-10",
+    "accession": "0001104659-14-002807",
+    "primary_document": "a14-3554_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-14-002807"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-01-31",
+    "acceptance_datetime": "2014-01-31T21:03:05.000Z",
+    "report_date": "2014-01-31",
+    "accession": "0001104659-14-005666",
+    "primary_document": "a14-4822_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001104659-14-005666"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2014-02-11",
+    "acceptance_datetime": "2014-02-11T13:01:05.000Z",
+    "report_date": "2014-02-10",
+    "accession": "0001104659-14-008216",
+    "primary_document": "a14-5503_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01; accession=0001104659-14-008216"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-02-19",
+    "acceptance_datetime": "2014-02-19T12:05:57.000Z",
+    "report_date": "2014-02-19",
+    "accession": "0001104659-14-011224",
+    "primary_document": "a14-5503_28k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-14-011224"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-03-06",
+    "acceptance_datetime": "2014-03-06T12:41:00.000Z",
+    "report_date": "2014-03-06",
+    "accession": "0001104659-14-016626",
+    "primary_document": "a14-7504_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-016626"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-03-26",
+    "acceptance_datetime": "2014-03-26T11:05:59.000Z",
+    "report_date": "2014-03-26",
+    "accession": "0001104659-14-022736",
+    "primary_document": "a14-8833_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001104659-14-022736"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2014-04-02",
+    "acceptance_datetime": "2014-04-02T20:56:17.000Z",
+    "report_date": "2014-04-02",
+    "accession": "0001104659-14-025206",
+    "primary_document": "a14-9877_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001104659-14-025206"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-05-08",
+    "acceptance_datetime": "2014-05-08T11:45:50.000Z",
+    "report_date": "2014-05-08",
+    "accession": "0001104659-14-036119",
+    "primary_document": "a14-12116_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-036119"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-05-20",
+    "acceptance_datetime": "2014-05-20T15:22:38.000Z",
+    "report_date": "2014-05-20",
+    "accession": "0001104659-14-040268",
+    "primary_document": "a14-12116_28k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-14-040268"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2014-05-29",
+    "acceptance_datetime": "2014-05-29T20:53:34.000Z",
+    "report_date": "2014-05-29",
+    "accession": "0001104659-14-042447",
+    "primary_document": "a14-14314_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,5.07; accession=0001104659-14-042447"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-06-18",
+    "acceptance_datetime": "2014-06-18T11:30:38.000Z",
+    "report_date": "2014-06-17",
+    "accession": "0001104659-14-046644",
+    "primary_document": "a14-15617_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001104659-14-046644"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2014-07-11",
+    "acceptance_datetime": "2014-07-11T20:46:07.000Z",
+    "report_date": "2014-07-08",
+    "accession": "0001104659-14-051219",
+    "primary_document": "a14-15617_38k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01; accession=0001104659-14-051219"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-08-04",
+    "acceptance_datetime": "2014-08-04T11:40:26.000Z",
+    "report_date": "2014-08-04",
+    "accession": "0001104659-14-056196",
+    "primary_document": "a14-18333_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-14-056196"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-08-06",
+    "acceptance_datetime": "2014-08-06T11:41:16.000Z",
+    "report_date": "2014-08-06",
+    "accession": "0001104659-14-057170",
+    "primary_document": "a14-18449_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-057170"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-08-13",
+    "acceptance_datetime": "2014-08-13T15:44:26.000Z",
+    "report_date": "2014-08-11",
+    "accession": "0001104659-14-060281",
+    "primary_document": "a14-18793_28k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-14-060281"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-08-18",
+    "acceptance_datetime": "2014-08-18T16:44:35.000Z",
+    "report_date": "2014-08-18",
+    "accession": "0001104659-14-061661",
+    "primary_document": "a14-19234_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-14-061661"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-11-06",
+    "acceptance_datetime": "2014-11-06T13:06:35.000Z",
+    "report_date": "2014-11-06",
+    "accession": "0001104659-14-077335",
+    "primary_document": "a14-23813_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-077335"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-12-15",
+    "acceptance_datetime": "2014-12-15T12:04:29.000Z",
+    "report_date": "2014-12-15",
+    "accession": "0001104659-14-086517",
+    "primary_document": "a14-26139_28k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-14-086517"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2014-12-15",
+    "acceptance_datetime": "2014-12-15T13:01:01.000Z",
+    "report_date": "2014-12-11",
+    "accession": "0001104659-14-086535",
+    "primary_document": "a14-26139_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-14-086535"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02",
+    "filing_date": "2014-12-18",
+    "acceptance_datetime": "2014-12-18T13:01:17.000Z",
+    "report_date": "2014-12-15",
+    "accession": "0001104659-14-087439",
+    "primary_document": "a14-26431_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.03,3.02; accession=0001104659-14-087439"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2015-01-05",
+    "acceptance_datetime": "2015-01-05T22:14:31.000Z",
+    "report_date": "2014-12-30",
+    "accession": "0001104659-15-000359",
+    "primary_document": "a15-1205_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01; accession=0001104659-15-000359"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-02-27",
+    "acceptance_datetime": "2015-02-27T13:05:20.000Z",
+    "report_date": "2015-02-27",
+    "accession": "0001104659-15-014749",
+    "primary_document": "a15-5397_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-014749"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-03-24",
+    "acceptance_datetime": "2015-03-24T12:01:02.000Z",
+    "report_date": "2015-03-24",
+    "accession": "0001104659-15-021926",
+    "primary_document": "a15-7512_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-15-021926"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-03-31",
+    "acceptance_datetime": "2015-03-31T17:39:10.000Z",
+    "report_date": "2015-03-30",
+    "accession": "0001104659-15-024559",
+    "primary_document": "a15-8315_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-15-024559"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-04-06",
+    "acceptance_datetime": "2015-04-06T17:33:46.000Z",
+    "report_date": "2015-04-06",
+    "accession": "0001104659-15-025906",
+    "primary_document": "a15-8658_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-15-025906"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-05-07",
+    "acceptance_datetime": "2015-05-07T12:06:35.000Z",
+    "report_date": "2015-05-07",
+    "accession": "0001104659-15-035199",
+    "primary_document": "a15-10902_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-035199"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2015-05-21",
+    "acceptance_datetime": "2015-05-21T20:54:16.000Z",
+    "report_date": "2015-05-21",
+    "accession": "0001104659-15-040037",
+    "primary_document": "a15-12554_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,5.07; accession=0001104659-15-040037"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-08-06",
+    "acceptance_datetime": "2015-08-06T11:40:36.000Z",
+    "report_date": "2015-08-06",
+    "accession": "0001104659-15-056790",
+    "primary_document": "a15-16857_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-056790"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2015-09-18",
+    "acceptance_datetime": "2015-09-18T12:01:30.000Z",
+    "report_date": "2015-09-15",
+    "accession": "0001104659-15-065938",
+    "primary_document": "a15-19880_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01; accession=0001104659-15-065938"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-11-06",
+    "acceptance_datetime": "2015-11-06T13:06:18.000Z",
+    "report_date": "2015-11-06",
+    "accession": "0001104659-15-076447",
+    "primary_document": "a15-22406_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-076447"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-11-17",
+    "acceptance_datetime": "2015-11-17T21:32:45.000Z",
+    "report_date": "2015-11-17",
+    "accession": "0001104659-15-079668",
+    "primary_document": "a15-23595_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001104659-15-079668"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-25",
+    "acceptance_datetime": "2016-02-25T13:06:28.000Z",
+    "report_date": "2016-02-25",
+    "accession": "0001104659-16-099776",
+    "primary_document": "a16-4937_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-16-099776"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2016-03-07",
+    "acceptance_datetime": "2016-03-07T21:30:23.000Z",
+    "report_date": "2016-03-01",
+    "accession": "0001104659-16-102990",
+    "primary_document": "a16-5486_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001104659-16-102990"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-05-05",
+    "acceptance_datetime": "2016-05-05T12:05:36.000Z",
+    "report_date": "2016-05-05",
+    "accession": "0001104659-16-117992",
+    "primary_document": "a16-10511_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-16-117992"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2016-05-19",
+    "acceptance_datetime": "2016-05-19T20:07:34.000Z",
+    "report_date": "2016-05-19",
+    "accession": "0001104659-16-122092",
+    "primary_document": "a16-11833_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.07; accession=0001104659-16-122092"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2016-06-08",
+    "acceptance_datetime": "2016-06-08T21:02:43.000Z",
+    "report_date": "2016-06-08",
+    "accession": "0001104659-16-126180",
+    "primary_document": "a16-13105_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001104659-16-126180"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-08-04",
+    "acceptance_datetime": "2016-08-04T12:06:08.000Z",
+    "report_date": "2016-08-04",
+    "accession": "0001104659-16-136811",
+    "primary_document": "a16-16107_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-16-136811"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2016-09-27",
+    "acceptance_datetime": "2016-09-27T12:05:37.000Z",
+    "report_date": "2016-09-27",
+    "accession": "0001104659-16-146686",
+    "primary_document": "a16-19098_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001104659-16-146686"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2016-10-05",
+    "acceptance_datetime": "2016-10-05T11:04:49.000Z",
+    "report_date": "2016-09-30",
+    "accession": "0001104659-16-148760",
+    "primary_document": "a16-19491_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-16-148760"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2016-11-03",
+    "acceptance_datetime": "2016-11-03T12:05:33.000Z",
+    "report_date": "2016-11-02",
+    "accession": "0001104659-16-154368",
+    "primary_document": "a16-17150_38k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001104659-16-154368"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-02-23",
+    "acceptance_datetime": "2017-02-23T13:12:21.000Z",
+    "report_date": "2017-02-23",
+    "accession": "0001104659-17-011002",
+    "primary_document": "a17-7006_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-17-011002"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-05-03",
+    "acceptance_datetime": "2017-05-03T12:15:22.000Z",
+    "report_date": "2017-05-03",
+    "accession": "0001104659-17-029178",
+    "primary_document": "a17-12226_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-17-029178"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2017-05-19",
+    "acceptance_datetime": "2017-05-19T20:11:20.000Z",
+    "report_date": "2017-05-15",
+    "accession": "0001104659-17-034025",
+    "primary_document": "a17-12226_28k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001104659-17-034025"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2017-05-22",
+    "acceptance_datetime": "2017-05-22T20:18:56.000Z",
+    "report_date": "2017-05-18",
+    "accession": "0001104659-17-034291",
+    "primary_document": "a17-13978_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.07; accession=0001104659-17-034291"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-07-19",
+    "acceptance_datetime": "2017-07-19T12:16:28.000Z",
+    "report_date": "2017-07-19",
+    "accession": "0001104659-17-045689",
+    "primary_document": "a17-18012_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-17-045689"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-08-03",
+    "acceptance_datetime": "2017-08-03T12:06:03.000Z",
+    "report_date": "2017-08-03",
+    "accession": "0001104659-17-049124",
+    "primary_document": "a17-18741_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-17-049124"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-09-05",
+    "acceptance_datetime": "2017-09-05T11:02:28.000Z",
+    "report_date": "2017-09-05",
+    "accession": "0001104659-17-055280",
+    "primary_document": "a17-21316_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-17-055280"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-09-11",
+    "acceptance_datetime": "2017-09-11T12:00:46.000Z",
+    "report_date": "2017-09-05",
+    "accession": "0001104659-17-056416",
+    "primary_document": "a17-21316_28k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-17-056416"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-09-11",
+    "acceptance_datetime": "2017-09-11T20:10:41.000Z",
+    "report_date": "2017-09-11",
+    "accession": "0001104659-17-056565",
+    "primary_document": "a17-21316_38k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-17-056565"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-11-02",
+    "acceptance_datetime": "2017-11-02T12:01:56.000Z",
+    "report_date": "2017-11-02",
+    "accession": "0001104659-17-065391",
+    "primary_document": "a17-24984_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-17-065391"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-01-03",
+    "acceptance_datetime": "2018-01-03T21:56:52.000Z",
+    "report_date": "2018-01-03",
+    "accession": "0001104659-18-000557",
+    "primary_document": "a18-2170_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-18-000557"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-01-26",
+    "acceptance_datetime": "2018-01-26T13:04:32.000Z",
+    "report_date": "2018-01-22",
+    "accession": "0001104659-18-004111",
+    "primary_document": "a18-3168_68k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-18-004111"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2018-01-26",
+    "acceptance_datetime": "2018-01-26T17:05:49.000Z",
+    "report_date": "2018-01-26",
+    "accession": "0001104659-18-004153",
+    "primary_document": "a18-3168_78k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001104659-18-004153"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-02-14",
+    "acceptance_datetime": "2018-02-14T13:00:42.000Z",
+    "report_date": "2018-02-14",
+    "accession": "0001104659-18-009417",
+    "primary_document": "a18-6034_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-18-009417"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-23",
+    "acceptance_datetime": "2018-02-23T12:33:40.000Z",
+    "report_date": "2018-02-23",
+    "accession": "0001104659-18-011559",
+    "primary_document": "a18-6699_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-18-011559"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-03-29",
+    "acceptance_datetime": "2018-03-29T15:21:19.000Z",
+    "report_date": "2018-03-29",
+    "accession": "0001104659-18-021161",
+    "primary_document": "a18-9283_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-18-021161"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-05-02",
+    "acceptance_datetime": "2018-05-02T11:30:58.000Z",
+    "report_date": "2018-05-02",
+    "accession": "0001104659-18-029530",
+    "primary_document": "a18-12559_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-18-029530"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-05-16",
+    "acceptance_datetime": "2018-05-16T12:05:25.000Z",
+    "report_date": "2018-05-16",
+    "accession": "0001104659-18-033646",
+    "primary_document": "a18-13637_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-18-033646"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2018-05-17",
+    "acceptance_datetime": "2018-05-17T20:11:04.000Z",
+    "report_date": "2018-05-15",
+    "accession": "0001104659-18-034075",
+    "primary_document": "a18-13730_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001104659-18-034075"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-08-02",
+    "acceptance_datetime": "2018-08-02T11:31:04.000Z",
+    "report_date": "2018-08-02",
+    "accession": "0001104659-18-048977",
+    "primary_document": "a18-18065_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-18-048977"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2018-09-17",
+    "acceptance_datetime": "2018-09-17T20:14:32.000Z",
+    "report_date": "2018-09-11",
+    "accession": "0001104659-18-057228",
+    "primary_document": "a18-29057_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001104659-18-057228"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-10-01",
+    "acceptance_datetime": "2018-09-28T22:08:04.000Z",
+    "report_date": "2018-09-28",
+    "accession": "0001104659-18-059489",
+    "primary_document": "a18-36086_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-18-059489"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-10-30",
+    "acceptance_datetime": "2018-10-30T11:31:44.000Z",
+    "report_date": "2018-10-30",
+    "accession": "0001104659-18-064481",
+    "primary_document": "a18-38205_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-18-064481"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2018-11-08",
+    "acceptance_datetime": "2018-11-08T13:36:27.000Z",
+    "report_date": "2018-11-06",
+    "accession": "0001104659-18-066840",
+    "primary_document": "a18-39772_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001104659-18-066840"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2019-01-07",
+    "acceptance_datetime": "2019-01-07T13:00:42.000Z",
+    "report_date": "2019-01-04",
+    "accession": "0001104659-19-000991",
+    "primary_document": "a19-1332_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001104659-19-000991"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-01-14",
+    "acceptance_datetime": "2019-01-14T21:05:45.000Z",
+    "report_date": "2019-01-09",
+    "accession": "0001104659-19-001805",
+    "primary_document": "a19-2781_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02; accession=0001104659-19-001805"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-22",
+    "acceptance_datetime": "2019-02-22T12:31:03.000Z",
+    "report_date": "2019-02-22",
+    "accession": "0001104659-19-009976",
+    "primary_document": "a19-5212_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-19-009976"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2019-03-27",
+    "acceptance_datetime": "2019-03-27T20:22:53.000Z",
+    "report_date": "2019-03-27",
+    "accession": "0001104659-19-017839",
+    "primary_document": "a19-7313_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001104659-19-017839"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-04-08",
+    "acceptance_datetime": "2019-04-08T13:08:32.000Z",
+    "report_date": "2019-04-08",
+    "accession": "0001104659-19-020246",
+    "primary_document": "a19-7988_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-19-020246"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2019-05-07",
+    "acceptance_datetime": "2019-05-07T11:30:43.000Z",
+    "report_date": "2019-05-01",
+    "accession": "0001104659-19-027317",
+    "primary_document": "a19-9474_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001104659-19-027317"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2019-05-17",
+    "acceptance_datetime": "2019-05-17T20:06:02.000Z",
+    "report_date": "2019-05-16",
+    "accession": "0001104659-19-030274",
+    "primary_document": "a19-10195_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,5.07; accession=0001104659-19-030274"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-05-24",
+    "acceptance_datetime": "2019-05-24T10:01:05.000Z",
+    "report_date": "2019-05-21",
+    "accession": "0001104659-19-031605",
+    "primary_document": "a19-10477_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-19-031605"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-05-24",
+    "acceptance_datetime": "2019-05-24T15:35:44.000Z",
+    "report_date": "2019-05-24",
+    "accession": "0001104659-19-031696",
+    "primary_document": "a19-10477_28k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-19-031696"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-06-25",
+    "acceptance_datetime": "2019-06-25T14:23:13.000Z",
+    "report_date": "2019-06-25",
+    "accession": "0001104659-19-037324",
+    "primary_document": "a19-12004_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-19-037324"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-08-01",
+    "acceptance_datetime": "2019-08-01T11:31:34.000Z",
+    "report_date": "2019-08-01",
+    "accession": "0001104659-19-043180",
+    "primary_document": "a19-16295_18k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-19-043180"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2019-10-30",
+    "acceptance_datetime": "2019-10-30T11:30:47.000Z",
+    "report_date": "2019-10-30",
+    "accession": "0001104659-19-057503",
+    "primary_document": "tm1921398-1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001104659-19-057503"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2019-11-18",
+    "acceptance_datetime": "2019-11-18T21:19:18.000Z",
+    "report_date": "2019-11-12",
+    "accession": "0001104659-19-065101",
+    "primary_document": "tm1923112-1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001104659-19-065101"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-01-13",
+    "acceptance_datetime": "2020-01-13T13:00:56.000Z",
+    "report_date": "2020-01-13",
+    "accession": "0001104659-20-003236",
+    "primary_document": "tm201881d1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-20-003236"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2020-01-30",
+    "acceptance_datetime": "2020-01-30T12:59:34.000Z",
+    "report_date": "2020-01-30",
+    "accession": "0001104659-20-008343",
+    "primary_document": "tm206188d1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001104659-20-008343"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-02-03",
+    "acceptance_datetime": "2020-02-03T12:49:46.000Z",
+    "report_date": "2020-02-03",
+    "accession": "0001104659-20-009488",
+    "primary_document": "tm206508d1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-20-009488"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-02-25",
+    "acceptance_datetime": "2020-02-25T12:31:25.000Z",
+    "report_date": "2020-02-25",
+    "accession": "0001104659-20-024471",
+    "primary_document": "tm206508-2_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-20-024471"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-02-25",
+    "acceptance_datetime": "2020-02-25T16:11:50.000Z",
+    "report_date": "2020-02-25",
+    "accession": "0001104659-20-024552",
+    "primary_document": "tm206508-3_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-20-024552"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2020-03-16",
+    "acceptance_datetime": "2020-03-16T20:10:34.000Z",
+    "report_date": "2020-03-16",
+    "accession": "0001104659-20-034063",
+    "primary_document": "tm2012867-1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001104659-20-034063"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2020-03-30",
+    "acceptance_datetime": "2020-03-30T20:14:55.000Z",
+    "report_date": "2020-03-30",
+    "accession": "0001104659-20-040374",
+    "primary_document": "tm2014206-1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.03,9.01; accession=0001104659-20-040374"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2020-04-02",
+    "acceptance_datetime": "2020-04-02T12:01:39.000Z",
+    "report_date": "2020-04-01",
+    "accession": "0001104659-20-042181",
+    "primary_document": "tm2014206-2_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001104659-20-042181"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-04-30",
+    "acceptance_datetime": "2020-04-30T11:30:48.000Z",
+    "report_date": "2020-04-30",
+    "accession": "0001104659-20-053887",
+    "primary_document": "tm2018127-1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-20-053887"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2020-05-07",
+    "acceptance_datetime": "2020-05-07T12:31:21.000Z",
+    "report_date": "2020-05-04",
+    "accession": "0001104659-20-057792",
+    "primary_document": "tm2018832d1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001104659-20-057792"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-05-07",
+    "acceptance_datetime": "2020-05-07T14:58:47.000Z",
+    "report_date": "2020-05-07",
+    "accession": "0001104659-20-057878",
+    "primary_document": "tm2018832d2_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-20-057878"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2020-05-14",
+    "acceptance_datetime": "2020-05-14T20:01:36.000Z",
+    "report_date": "2020-05-12",
+    "accession": "0001104659-20-061572",
+    "primary_document": "tm2019749-1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,5.07; accession=0001104659-20-061572"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2020-07-24",
+    "acceptance_datetime": "2020-07-24T13:38:11.000Z",
+    "report_date": "2020-07-24",
+    "accession": "0001104659-20-086227",
+    "primary_document": "tm2025568d1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001104659-20-086227"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-08-06",
+    "acceptance_datetime": "2020-08-06T11:30:21.000Z",
+    "report_date": "2020-08-06",
+    "accession": "0001104659-20-091126",
+    "primary_document": "tm2025568d2_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-20-091126"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-10-01",
+    "acceptance_datetime": "2020-09-30T21:50:51.000Z",
+    "report_date": "2020-09-30",
+    "accession": "0001104659-20-110512",
+    "primary_document": "tm2032091d1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-20-110512"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2020-10-28",
+    "acceptance_datetime": "2020-10-28T12:58:37.000Z",
+    "report_date": "2020-10-28",
+    "accession": "0001104659-20-118757",
+    "primary_document": "tm2034388d1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001104659-20-118757"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-10-29",
+    "acceptance_datetime": "2020-10-29T11:30:23.000Z",
+    "report_date": "2020-10-29",
+    "accession": "0001104659-20-119254",
+    "primary_document": "tm2034388-2_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-20-119254"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-01-11",
+    "acceptance_datetime": "2021-01-11T11:31:07.000Z",
+    "report_date": "2021-01-11",
+    "accession": "0001104659-21-002664",
+    "primary_document": "tm212227d1_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-21-002664"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-02-19",
+    "acceptance_datetime": "2021-02-19T14:09:31.000Z",
+    "report_date": "2021-02-19",
+    "accession": "0001140361-21-005422",
+    "primary_document": "brhc10020565_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-21-005422"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,9.01",
+    "filing_date": "2021-02-25",
+    "acceptance_datetime": "2021-02-25T13:29:41.000Z",
+    "report_date": "2021-02-25",
+    "accession": "0001140361-21-006108",
+    "primary_document": "nt10020763x2_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.02,9.01; accession=0001140361-21-006108"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-05-06",
+    "acceptance_datetime": "2021-05-06T11:30:17.000Z",
+    "report_date": "2021-05-06",
+    "accession": "0001140361-21-016094",
+    "primary_document": "brhc10024156_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-21-016094"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2021-05-13",
+    "acceptance_datetime": "2021-05-13T11:47:09.000Z",
+    "report_date": "2021-05-10",
+    "accession": "0001140361-21-017121",
+    "primary_document": "nt10024340x6_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-21-017121"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,7.01,9.01",
+    "filing_date": "2021-05-13",
+    "acceptance_datetime": "2021-05-13T16:17:32.000Z",
+    "report_date": "2021-05-13",
+    "accession": "0001140361-21-017155",
+    "primary_document": "nt10024340x7_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.03,7.01,9.01; accession=0001140361-21-017155"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2021-05-18",
+    "acceptance_datetime": "2021-05-18T12:07:21.000Z",
+    "report_date": "2021-05-12",
+    "accession": "0001140361-21-017804",
+    "primary_document": "brhc10024791_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,5.07; accession=0001140361-21-017804"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-06-22",
+    "acceptance_datetime": "2021-06-21T23:42:10.000Z",
+    "report_date": "2021-06-17",
+    "accession": "0001140361-21-021780",
+    "primary_document": "brhc10026108_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02; accession=0001140361-21-021780"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-08-05",
+    "acceptance_datetime": "2021-08-05T11:30:29.000Z",
+    "report_date": "2021-08-05",
+    "accession": "0001140361-21-027020",
+    "primary_document": "brhc10027348_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-21-027020"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-10-28",
+    "acceptance_datetime": "2021-10-28T11:30:17.000Z",
+    "report_date": "2021-10-28",
+    "accession": "0001140361-21-035715",
+    "primary_document": "brhc10030173_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-21-035715"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2022-01-10",
+    "acceptance_datetime": "2022-01-10T13:30:43.000Z",
+    "report_date": "2022-01-10",
+    "accession": "0001140361-22-001026",
+    "primary_document": "brhc10032614_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-22-001026"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2022-02-17",
+    "acceptance_datetime": "2022-02-17T12:01:10.000Z",
+    "report_date": "2022-02-15",
+    "accession": "0001140361-22-005849",
+    "primary_document": "brhc10033810_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001140361-22-005849"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-05-05",
+    "acceptance_datetime": "2022-05-05T11:38:48.000Z",
+    "report_date": "2022-05-05",
+    "accession": "0001140361-22-017738",
+    "primary_document": "brhc10037184_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-22-017738"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2022-05-13",
+    "acceptance_datetime": "2022-05-13T20:11:54.000Z",
+    "report_date": "2022-05-11",
+    "accession": "0001140361-22-019078",
+    "primary_document": "brhc10037630_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,5.07; accession=0001140361-22-019078"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2022-05-23",
+    "acceptance_datetime": "2022-05-23T12:05:25.000Z",
+    "report_date": "2022-05-23",
+    "accession": "0001140361-22-020177",
+    "primary_document": "brhc10037965_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001140361-22-020177"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-08-04",
+    "acceptance_datetime": "2022-08-04T11:30:27.000Z",
+    "report_date": "2022-08-04",
+    "accession": "0001140361-22-028126",
+    "primary_document": "brhc10040378_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-22-028126"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,2.03,7.01",
+    "filing_date": "2022-10-19",
+    "acceptance_datetime": "2022-10-19T10:13:14.000Z",
+    "report_date": "2022-10-19",
+    "accession": "0001140361-22-037727",
+    "primary_document": "ny20005570x2_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.02,2.03,7.01; accession=0001140361-22-037727"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2022-10-20",
+    "acceptance_datetime": "2022-10-20T20:01:58.000Z",
+    "report_date": "2022-10-19",
+    "accession": "0001140361-22-037955",
+    "primary_document": "ny20005570x4_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-22-037955"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-10-27",
+    "acceptance_datetime": "2022-10-27T11:30:20.000Z",
+    "report_date": "2022-10-27",
+    "accession": "0001140361-22-038593",
+    "primary_document": "brhc10043308_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-22-038593"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-01-06",
+    "acceptance_datetime": "2023-01-06T13:00:24.000Z",
+    "report_date": "2023-01-06",
+    "accession": "0001140361-23-000743",
+    "primary_document": "brhc10046302_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-23-000743"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-02-23",
+    "acceptance_datetime": "2023-02-23T12:30:21.000Z",
+    "report_date": "2023-02-23",
+    "accession": "0001140361-23-008163",
+    "primary_document": "brhc10048554_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-23-008163"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-04",
+    "acceptance_datetime": "2023-05-04T11:30:22.000Z",
+    "report_date": "2023-05-04",
+    "accession": "0001140361-23-022852",
+    "primary_document": "brhc20052467_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-23-022852"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-05-08",
+    "acceptance_datetime": "2023-05-08T11:45:43.000Z",
+    "report_date": "2023-05-08",
+    "accession": "0001140361-23-023332",
+    "primary_document": "brhc20052589_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-23-023332"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,5.07,9.01",
+    "filing_date": "2023-05-11",
+    "acceptance_datetime": "2023-05-11T20:05:57.000Z",
+    "report_date": "2023-05-11",
+    "accession": "0001140361-23-024132",
+    "primary_document": "brhc20052827_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,5.03,5.07,9.01; accession=0001140361-23-024132"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.07",
+    "filing_date": "2023-07-07",
+    "acceptance_datetime": "2023-07-07T20:05:41.000Z",
+    "report_date": "2023-05-11",
+    "accession": "0001140361-23-033740",
+    "primary_document": "brhc20055552_8ka.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.07; accession=0001140361-23-033740"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-08-03",
+    "acceptance_datetime": "2023-08-03T11:30:12.000Z",
+    "report_date": "2023-08-03",
+    "accession": "0001140361-23-037767",
+    "primary_document": "brhc20056931_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-23-037767"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-09-05",
+    "acceptance_datetime": "2023-09-05T11:00:31.000Z",
+    "report_date": "2023-09-05",
+    "accession": "0001140361-23-042505",
+    "primary_document": "brhc20058439_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-23-042505"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-10-26",
+    "acceptance_datetime": "2023-10-26T11:38:28.000Z",
+    "report_date": "2023-10-26",
+    "accession": "0001140361-23-049591",
+    "primary_document": "ef20013075_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-23-049591"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-01-05",
+    "acceptance_datetime": "2024-01-05T13:18:06.000Z",
+    "report_date": "2024-01-05",
+    "accession": "0001140361-24-000836",
+    "primary_document": "ef20017898_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-24-000836"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.02,9.01",
+    "filing_date": "2024-02-22",
+    "acceptance_datetime": "2024-02-22T12:58:04.000Z",
+    "report_date": "2024-02-22",
+    "accession": "0001140361-24-008937",
+    "primary_document": "ef20022087_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,1.02,2.02,9.01; accession=0001140361-24-008937"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-03-11",
+    "acceptance_datetime": "2024-03-11T13:27:59.000Z",
+    "report_date": "2024-03-08",
+    "accession": "0001140361-24-012513",
+    "primary_document": "ef20023812_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001140361-24-012513"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2024-05-09",
+    "acceptance_datetime": "2024-05-09T11:05:02.000Z",
+    "report_date": "2024-05-09",
+    "accession": "0001140361-24-025047",
+    "primary_document": "ef20028736_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001140361-24-025047"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2024-05-13",
+    "acceptance_datetime": "2024-05-13T20:18:07.000Z",
+    "report_date": "2024-05-13",
+    "accession": "0001140361-24-025709",
+    "primary_document": "ef20029006_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,5.07; accession=0001140361-24-025709"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2024-05-28",
+    "acceptance_datetime": "2024-05-28T10:30:24.000Z",
+    "report_date": "2024-05-28",
+    "accession": "0001140361-24-027535",
+    "primary_document": "ef20030032_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-24-027535"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2024-05-30",
+    "acceptance_datetime": "2024-05-30T21:32:49.000Z",
+    "report_date": "2024-05-29",
+    "accession": "0001140361-24-028205",
+    "primary_document": "ny20029730x2_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-24-028205"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-06-04",
+    "acceptance_datetime": "2024-06-04T11:00:43.000Z",
+    "report_date": "2024-06-04",
+    "accession": "0001140361-24-028710",
+    "primary_document": "ef20030527_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-24-028710"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-06-13",
+    "acceptance_datetime": "2024-06-13T12:00:32.000Z",
+    "report_date": "2024-06-12",
+    "accession": "0001140361-24-029955",
+    "primary_document": "ef20031070_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001140361-24-029955"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-06-27",
+    "acceptance_datetime": "2024-06-27T12:05:19.000Z",
+    "report_date": "2024-06-27",
+    "accession": "0001140361-24-031492",
+    "primary_document": "ef20031706_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-24-031492"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-07-03",
+    "acceptance_datetime": "2024-07-03T13:00:50.000Z",
+    "report_date": "2024-07-03",
+    "accession": "0001140361-24-032333",
+    "primary_document": "ef20031846_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-24-032333"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-08-08",
+    "acceptance_datetime": "2024-08-08T11:00:26.000Z",
+    "report_date": "2024-08-08",
+    "accession": "0001140361-24-036279",
+    "primary_document": "ef20033779_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-24-036279"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-08-09",
+    "acceptance_datetime": "2024-08-09T21:30:32.000Z",
+    "report_date": "2024-08-09",
+    "accession": "0001140361-24-036671",
+    "primary_document": "ef20033872_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001140361-24-036671"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,2.03,9.01",
+    "filing_date": "2024-10-31",
+    "acceptance_datetime": "2024-10-31T11:00:26.000Z",
+    "report_date": "2024-10-31",
+    "accession": "0001140361-24-044703",
+    "primary_document": "ef20037942_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.01,2.02,2.03,9.01; accession=0001140361-24-044703"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2024-11-19",
+    "acceptance_datetime": "2024-11-19T13:00:29.000Z",
+    "report_date": "2024-11-18",
+    "accession": "0001140361-24-047246",
+    "primary_document": "ef20038832_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=1.02; accession=0001140361-24-047246"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2025-01-10",
+    "acceptance_datetime": "2025-01-10T13:00:20.000Z",
+    "report_date": "2025-01-10",
+    "accession": "0001140361-25-000711",
+    "primary_document": "ef20041296_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-25-000711"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2025-02-06",
+    "acceptance_datetime": "2025-02-06T13:00:35.000Z",
+    "report_date": "2025-02-06",
+    "accession": "0001140361-25-003266",
+    "primary_document": "ef20043003_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-25-003266"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2025-02-20",
+    "acceptance_datetime": "2025-02-20T12:00:34.000Z",
+    "report_date": "2025-02-18",
+    "accession": "0001140361-25-005190",
+    "primary_document": "ef20043928_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001140361-25-005190"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2025-02-24",
+    "acceptance_datetime": "2025-02-24T13:00:16.000Z",
+    "report_date": "2025-02-24",
+    "accession": "0001140361-25-005570",
+    "primary_document": "ef20044166_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-25-005570"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-04-17",
+    "acceptance_datetime": "2025-04-17T20:02:04.000Z",
+    "report_date": "2025-04-16",
+    "accession": "0001140361-25-014376",
+    "primary_document": "ef20047566_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02; accession=0001140361-25-014376"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-04-24",
+    "acceptance_datetime": "2025-04-24T11:00:41.000Z",
+    "report_date": "2025-04-24",
+    "accession": "0001140361-25-015301",
+    "primary_document": "ef20047730_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-25-015301"
+  },
+  {
+    "form": "8-K/A",
+    "items": "8.01",
+    "filing_date": "2025-04-24",
+    "acceptance_datetime": "2025-04-24T21:09:17.000Z",
+    "report_date": "2025-04-24",
+    "accession": "0001140361-25-015487",
+    "primary_document": "ef20047907_8ka.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001140361-25-015487"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-05-08",
+    "acceptance_datetime": "2025-05-08T11:00:34.000Z",
+    "report_date": "2025-05-08",
+    "accession": "0001140361-25-017858",
+    "primary_document": "ef20048527_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-25-017858"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2025-05-16",
+    "acceptance_datetime": "2025-05-16T20:37:46.000Z",
+    "report_date": "2025-05-15",
+    "accession": "0001140361-25-019490",
+    "primary_document": "ef20049205_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,5.07; accession=0001140361-25-019490"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-06-06",
+    "acceptance_datetime": "2025-06-06T21:00:28.000Z",
+    "report_date": "2025-06-06",
+    "accession": "0001140361-25-021810",
+    "primary_document": "ef20050184_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=8.01; accession=0001140361-25-021810"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2025-06-10",
+    "acceptance_datetime": "2025-06-10T11:00:27.000Z",
+    "report_date": "2025-06-10",
+    "accession": "0001140361-25-022023",
+    "primary_document": "ef20050418_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-25-022023"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2025-06-13",
+    "acceptance_datetime": "2025-06-13T12:21:11.000Z",
+    "report_date": "2025-06-11",
+    "accession": "0001140361-25-022375",
+    "primary_document": "ny20050461x3_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-25-022375"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-08-07",
+    "acceptance_datetime": "2025-08-07T11:01:55.000Z",
+    "report_date": "2025-08-07",
+    "accession": "0001140361-25-029343",
+    "primary_document": "ef20053237_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-25-029343"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2025-08-12",
+    "acceptance_datetime": "2025-08-12T15:55:42.000Z",
+    "report_date": "2025-08-12",
+    "accession": "0001140361-25-030537",
+    "primary_document": "ef20053490_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-25-030537"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-10-30",
+    "acceptance_datetime": "2025-10-30T11:00:36.000Z",
+    "report_date": "2025-10-30",
+    "accession": "0001140361-25-039789",
+    "primary_document": "ef20057768_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-25-039789"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2025-11-18",
+    "acceptance_datetime": "2025-11-18T21:15:54.000Z",
+    "report_date": "2025-11-18",
+    "accession": "0001140361-25-042598",
+    "primary_document": "ef20059077_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-25-042598"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2025-12-17",
+    "acceptance_datetime": "2025-12-17T21:02:43.000Z",
+    "report_date": "2025-12-17",
+    "accession": "0001140361-25-045836",
+    "primary_document": "ef20061465_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-25-045836"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2026-01-09",
+    "acceptance_datetime": "2026-01-09T12:01:06.000Z",
+    "report_date": "2026-01-09",
+    "accession": "0001140361-26-000778",
+    "primary_document": "ef20062540_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-26-000778"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2026-02-19",
+    "acceptance_datetime": "2026-02-19T12:01:05.000Z",
+    "report_date": "2026-02-17",
+    "accession": "0001140361-26-006116",
+    "primary_document": "ef20066055_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001140361-26-006116"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-03-23",
+    "acceptance_datetime": "2026-03-23T11:00:30.000Z",
+    "report_date": "2026-03-23",
+    "accession": "0001140361-26-010651",
+    "primary_document": "ef20068516_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-26-010651"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-04-07",
+    "acceptance_datetime": "2026-04-07T20:01:21.000Z",
+    "report_date": "2026-04-07",
+    "accession": "0001140361-26-013659",
+    "primary_document": "ef20070042_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-26-013659"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-05-07",
+    "acceptance_datetime": "2026-05-07T11:01:37.000Z",
+    "report_date": "2026-05-07",
+    "accession": "0001140361-26-019430",
+    "primary_document": "ef20072589_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-26-019430"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2026-05-15",
+    "acceptance_datetime": "2026-05-15T20:01:27.000Z",
+    "report_date": "2026-05-13",
+    "accession": "0001140361-26-021648",
+    "primary_document": "ef20073378_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.07; accession=0001140361-26-021648"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2026-07-16",
+    "acceptance_datetime": "2026-07-16T11:00:46.000Z",
+    "report_date": "2026-07-16",
+    "accession": "0001140361-26-028602",
+    "primary_document": "ef20078093_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-26-028602"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-08-06",
+    "acceptance_datetime": "2026-08-06T11:00:41.000Z",
+    "report_date": "2026-08-06",
+    "accession": "0001140361-26-031502",
+    "primary_document": "ef20079469_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-26-031502"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2026-10-05",
+    "acceptance_datetime": "2026-10-05T11:01:19.000Z",
+    "report_date": "2026-10-05",
+    "accession": "0001140361-26-038529",
+    "primary_document": "ef20083216_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001140361-26-038529"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2026-10-20",
+    "acceptance_datetime": "2026-10-20T11:00:43.000Z",
+    "report_date": "2026-10-16",
+    "accession": "0001140361-26-040177",
+    "primary_document": "ef20084030_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001140361-26-040177"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-10-29",
+    "acceptance_datetime": "2026-10-29T11:01:15.000Z",
+    "report_date": "2026-10-29",
+    "accession": "0001140361-26-041097",
+    "primary_document": "ef20084500_8k.htm",
+    "cik": "0001104506",
+    "issuer_name": "INSMED Inc",
+    "tickers": [
+      "INSM"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001104506.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-26-041097"
+  }
+]

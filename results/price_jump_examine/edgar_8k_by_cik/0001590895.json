@@ -1,0 +1,3330 @@
+[
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-12-11",
+    "acceptance_datetime": "2013-12-11T22:23:25.000Z",
+    "report_date": "2013-12-11",
+    "accession": "0001104659-13-089696",
+    "primary_document": "a13-26169_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-13-089696"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,3.02,3.03,5.01,5.02,5.03,5.05,9.01",
+    "filing_date": "2014-09-19",
+    "acceptance_datetime": "2014-09-19T10:36:02.000Z",
+    "report_date": "2014-09-19",
+    "accession": "0001104659-14-067189",
+    "primary_document": "a14-21021_28k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.01,3.02,3.03,5.01,5.02,5.03,5.05,9.01; accession=0001104659-14-067189"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2014-09-25",
+    "acceptance_datetime": "2014-09-25T21:16:59.000Z",
+    "report_date": "2014-09-19",
+    "accession": "0001104659-14-068322",
+    "primary_document": "a14-21466_18ka.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=9.01; accession=0001104659-14-068322"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2014-10-03",
+    "acceptance_datetime": "2014-10-02T23:07:41.000Z",
+    "report_date": "2014-09-29",
+    "accession": "0001104659-14-069789",
+    "primary_document": "a14-21726_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-14-069789"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-11-06",
+    "acceptance_datetime": "2014-11-06T21:15:36.000Z",
+    "report_date": "2014-11-06",
+    "accession": "0001104659-14-077710",
+    "primary_document": "a14-23903_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-077710"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-12-02",
+    "acceptance_datetime": "2014-12-02T21:50:14.000Z",
+    "report_date": "2014-12-02",
+    "accession": "0001104659-14-084433",
+    "primary_document": "a14-25416_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-14-084433"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,8.01",
+    "filing_date": "2014-12-08",
+    "acceptance_datetime": "2014-12-08T21:20:24.000Z",
+    "report_date": "2014-12-03",
+    "accession": "0001104659-14-085359",
+    "primary_document": "a14-25769_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.02,8.01; accession=0001104659-14-085359"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-03-16",
+    "acceptance_datetime": "2015-03-16T20:01:47.000Z",
+    "report_date": "2015-03-16",
+    "accession": "0001104659-15-020046",
+    "primary_document": "a15-6756_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-020046"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2015-03-23",
+    "acceptance_datetime": "2015-03-23T21:21:47.000Z",
+    "report_date": "2015-03-23",
+    "accession": "0001104659-15-021806",
+    "primary_document": "a15-7449_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01; accession=0001104659-15-021806"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-05-11",
+    "acceptance_datetime": "2015-05-11T20:05:43.000Z",
+    "report_date": "2015-05-11",
+    "accession": "0001104659-15-036805",
+    "primary_document": "a15-11268_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-036805"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-05-14",
+    "acceptance_datetime": "2015-05-14T17:12:45.000Z",
+    "report_date": "2015-05-14",
+    "accession": "0001104659-15-038062",
+    "primary_document": "a15-11607_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001104659-15-038062"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2015-06-24",
+    "acceptance_datetime": "2015-06-24T18:55:29.000Z",
+    "report_date": "2015-06-23",
+    "accession": "0001104659-15-047259",
+    "primary_document": "a15-14641_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,5.07; accession=0001104659-15-047259"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-07-08",
+    "acceptance_datetime": "2015-07-07T22:19:06.000Z",
+    "report_date": "2015-07-07",
+    "accession": "0001104659-15-050145",
+    "primary_document": "a15-15354_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-15-050145"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2015-07-08",
+    "acceptance_datetime": "2015-07-08T11:16:06.000Z",
+    "report_date": "2015-07-08",
+    "accession": "0001047469-15-006007",
+    "primary_document": "a2225350z8-k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001047469-15-006007"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2015-07-13",
+    "acceptance_datetime": "2015-07-13T10:04:18.000Z",
+    "report_date": "2015-07-13",
+    "accession": "0001104659-15-050738",
+    "primary_document": "a15-15562_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001104659-15-050738"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-07-16",
+    "acceptance_datetime": "2015-07-16T21:01:24.000Z",
+    "report_date": "2015-07-16",
+    "accession": "0001104659-15-051482",
+    "primary_document": "a15-15510_28k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-15-051482"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-07-17",
+    "acceptance_datetime": "2015-07-17T20:40:25.000Z",
+    "report_date": "2015-07-17",
+    "accession": "0001104659-15-051708",
+    "primary_document": "a15-15879_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001104659-15-051708"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2015-07-23",
+    "acceptance_datetime": "2015-07-23T18:00:54.000Z",
+    "report_date": "2015-07-23",
+    "accession": "0001104659-15-052820",
+    "primary_document": "a15-16141_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001104659-15-052820"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-08-05",
+    "acceptance_datetime": "2015-08-05T20:06:49.000Z",
+    "report_date": "2015-08-05",
+    "accession": "0001104659-15-056494",
+    "primary_document": "a15-17013_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-056494"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-08-10",
+    "acceptance_datetime": "2015-08-10T20:59:07.000Z",
+    "report_date": "2015-08-07",
+    "accession": "0001104659-15-058299",
+    "primary_document": "a15-17415_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02; accession=0001104659-15-058299"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-10-26",
+    "acceptance_datetime": "2015-10-26T20:06:11.000Z",
+    "report_date": "2015-10-26",
+    "accession": "0001104659-15-072728",
+    "primary_document": "a15-21674_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-072728"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.02,9.01",
+    "filing_date": "2015-11-09",
+    "acceptance_datetime": "2015-11-09T21:58:27.000Z",
+    "report_date": "2015-10-26",
+    "accession": "0001104659-15-077305",
+    "primary_document": "a15-22625_18ka.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-077305"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,3.02,8.01,9.01",
+    "filing_date": "2015-11-24",
+    "acceptance_datetime": "2015-11-24T13:30:53.000Z",
+    "report_date": "2015-11-24",
+    "accession": "0001104659-15-080950",
+    "primary_document": "a15-23897_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.01,3.02,8.01,9.01; accession=0001104659-15-080950"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2016-01-06",
+    "acceptance_datetime": "2016-01-06T21:05:29.000Z",
+    "report_date": "2015-12-30",
+    "accession": "0001104659-16-088389",
+    "primary_document": "a16-1306_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-16-088389"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2016-01-14",
+    "acceptance_datetime": "2016-01-14T20:23:11.000Z",
+    "report_date": "2015-11-24",
+    "accession": "0001104659-16-089853",
+    "primary_document": "a16-1493_18ka.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=9.01; accession=0001104659-16-089853"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-03-10",
+    "acceptance_datetime": "2016-03-10T21:05:48.000Z",
+    "report_date": "2016-03-10",
+    "accession": "0001104659-16-104223",
+    "primary_document": "a16-6140_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-16-104223"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-05-05",
+    "acceptance_datetime": "2016-05-05T20:29:53.000Z",
+    "report_date": "2016-05-05",
+    "accession": "0001558370-16-005436",
+    "primary_document": "eri-20160505x8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001558370-16-005436"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2016-06-20",
+    "acceptance_datetime": "2016-06-20T20:34:12.000Z",
+    "report_date": "2016-06-15",
+    "accession": "0001104659-16-128336",
+    "primary_document": "a16-13743_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.07; accession=0001104659-16-128336"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-08-04",
+    "acceptance_datetime": "2016-08-04T20:06:09.000Z",
+    "report_date": "2016-08-04",
+    "accession": "0001104659-16-137023",
+    "primary_document": "a16-16169_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-16-137023"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2016-08-26",
+    "acceptance_datetime": "2016-08-26T20:10:54.000Z",
+    "report_date": "2016-08-26",
+    "accession": "0001104659-16-141631",
+    "primary_document": "a16-17549_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-16-141631"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2016-09-19",
+    "acceptance_datetime": "2016-09-19T10:47:38.000Z",
+    "report_date": "2016-09-19",
+    "accession": "0001104659-16-145296",
+    "primary_document": "a16-18683_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001104659-16-145296"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2016-09-22",
+    "acceptance_datetime": "2016-09-22T15:41:02.000Z",
+    "report_date": "2016-09-19",
+    "accession": "0001104659-16-146062",
+    "primary_document": "a16-18683_28k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-16-146062"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-11-03",
+    "acceptance_datetime": "2016-11-03T20:08:19.000Z",
+    "report_date": "2016-11-03",
+    "accession": "0001104659-16-154566",
+    "primary_document": "a16-21009_18k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-16-154566"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01,9.01",
+    "filing_date": "2017-01-25",
+    "acceptance_datetime": "2017-01-25T22:23:04.000Z",
+    "report_date": "2017-01-25",
+    "accession": "0001193125-17-018197",
+    "primary_document": "d318326d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.07,8.01,9.01; accession=0001193125-17-018197"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-03-09",
+    "acceptance_datetime": "2017-03-09T21:14:32.000Z",
+    "report_date": "2017-03-09",
+    "accession": "0001193125-17-076893",
+    "primary_document": "d357722d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-076893"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2017-03-13",
+    "acceptance_datetime": "2017-03-13T11:59:56.000Z",
+    "report_date": "2017-03-13",
+    "accession": "0001193125-17-079532",
+    "primary_document": "d327747d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001193125-17-079532"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-03-15",
+    "acceptance_datetime": "2017-03-15T19:52:57.000Z",
+    "report_date": "2017-03-15",
+    "accession": "0001193125-17-083563",
+    "primary_document": "d357352d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-17-083563"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2017-03-22",
+    "acceptance_datetime": "2017-03-22T20:34:56.000Z",
+    "report_date": "2017-03-16",
+    "accession": "0001193125-17-092159",
+    "primary_document": "d364482d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-17-092159"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2017-03-29",
+    "acceptance_datetime": "2017-03-29T18:58:59.000Z",
+    "report_date": "2017-03-28",
+    "accession": "0001193125-17-101492",
+    "primary_document": "d323067d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-17-101492"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2017-04-17",
+    "acceptance_datetime": "2017-04-17T19:58:59.000Z",
+    "report_date": "2017-04-17",
+    "accession": "0001193125-17-125939",
+    "primary_document": "d304079d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-17-125939"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2017-04-27",
+    "acceptance_datetime": "2017-04-27T13:11:02.000Z",
+    "report_date": "2017-04-26",
+    "accession": "0001193125-17-141175",
+    "primary_document": "d384954d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001193125-17-141175"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,2.03,3.03,5.02,9.01",
+    "filing_date": "2017-05-01",
+    "acceptance_datetime": "2017-05-01T21:17:57.000Z",
+    "report_date": "2017-05-01",
+    "accession": "0001193125-17-152208",
+    "primary_document": "d377572d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.01,2.03,3.03,5.02,9.01; accession=0001193125-17-152208"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2017-05-02",
+    "acceptance_datetime": "2017-05-02T20:07:55.000Z",
+    "report_date": "2017-05-01",
+    "accession": "0001193125-17-153962",
+    "primary_document": "d391528d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001193125-17-153962"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-05-04",
+    "acceptance_datetime": "2017-05-04T20:06:59.000Z",
+    "report_date": "2017-05-04",
+    "accession": "0001193125-17-158664",
+    "primary_document": "d391161d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-158664"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-05-22",
+    "acceptance_datetime": "2017-05-22T21:21:00.000Z",
+    "report_date": "2017-05-19",
+    "accession": "0001564590-17-011496",
+    "primary_document": "eri-8k_20170522.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02; accession=0001564590-17-011496"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2017-05-30",
+    "acceptance_datetime": "2017-05-30T10:03:19.000Z",
+    "report_date": "2017-05-30",
+    "accession": "0001564590-17-011773",
+    "primary_document": "eri-8k_20170526.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01; accession=0001564590-17-011773"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2017-06-15",
+    "acceptance_datetime": "2017-06-15T00:06:47.000Z",
+    "report_date": "2017-06-14",
+    "accession": "0001564590-17-012564",
+    "primary_document": "eri-8k_20170614.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.07; accession=0001564590-17-012564"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2017-06-15",
+    "acceptance_datetime": "2017-06-15T21:10:04.000Z",
+    "report_date": "2017-05-01",
+    "accession": "0001193125-17-204809",
+    "primary_document": "d397571d8ka.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=9.01; accession=0001193125-17-204809"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-08-08",
+    "acceptance_datetime": "2017-08-08T20:08:05.000Z",
+    "report_date": "2017-08-08",
+    "accession": "0001193125-17-251332",
+    "primary_document": "d437906d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-251332"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-09-11",
+    "acceptance_datetime": "2017-09-11T11:37:04.000Z",
+    "report_date": "2017-09-11",
+    "accession": "0001193125-17-281167",
+    "primary_document": "d267119d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-17-281167"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-09-13",
+    "acceptance_datetime": "2017-09-13T13:04:35.000Z",
+    "report_date": "2017-09-11",
+    "accession": "0001193125-17-283321",
+    "primary_document": "d451287d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-17-283321"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-11-02",
+    "acceptance_datetime": "2017-11-02T20:40:03.000Z",
+    "report_date": "2017-11-02",
+    "accession": "0001193125-17-331149",
+    "primary_document": "d461067d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-331149"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-11-20",
+    "acceptance_datetime": "2017-11-20T21:08:02.000Z",
+    "report_date": "2017-11-20",
+    "accession": "0001193125-17-348065",
+    "primary_document": "d496401d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02; accession=0001193125-17-348065"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2017-11-21",
+    "acceptance_datetime": "2017-11-21T11:09:32.000Z",
+    "report_date": "2017-11-21",
+    "accession": "0001193125-17-348606",
+    "primary_document": "d496461d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.02; accession=0001193125-17-348606"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2018-01-22",
+    "acceptance_datetime": "2018-01-22T21:49:02.000Z",
+    "report_date": "2018-01-22",
+    "accession": "0001193125-18-016157",
+    "primary_document": "d427842d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-18-016157"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-22",
+    "acceptance_datetime": "2018-02-22T21:08:56.000Z",
+    "report_date": "2018-02-22",
+    "accession": "0001193125-18-054041",
+    "primary_document": "d506961d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-054041"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-02-28",
+    "acceptance_datetime": "2018-02-28T21:57:58.000Z",
+    "report_date": "2018-02-28",
+    "accession": "0001193125-18-064204",
+    "primary_document": "d525102d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-064204"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2018-04-16",
+    "acceptance_datetime": "2018-04-16T10:42:03.000Z",
+    "report_date": "2018-04-15",
+    "accession": "0001193125-18-117700",
+    "primary_document": "d565201d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001193125-18-117700"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2018-04-16",
+    "acceptance_datetime": "2018-04-16T10:45:33.000Z",
+    "report_date": "2018-04-15",
+    "accession": "0001193125-18-117704",
+    "primary_document": "d565207d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001193125-18-117704"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-05-03",
+    "acceptance_datetime": "2018-05-03T20:05:56.000Z",
+    "report_date": "2018-05-03",
+    "accession": "0001193125-18-150792",
+    "primary_document": "d557286d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-150792"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-05-08",
+    "acceptance_datetime": "2018-05-08T10:05:32.000Z",
+    "report_date": "2018-05-07",
+    "accession": "0001193125-18-155126",
+    "primary_document": "d585493d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001193125-18-155126"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-06-21",
+    "acceptance_datetime": "2018-06-21T18:30:36.000Z",
+    "report_date": "2018-06-20",
+    "accession": "0001564590-18-015929",
+    "primary_document": "eri-8k_20180621.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.07; accession=0001564590-18-015929"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-07-09",
+    "acceptance_datetime": "2018-07-09T13:59:58.000Z",
+    "report_date": "2018-07-06",
+    "accession": "0001193125-18-214331",
+    "primary_document": "d669698d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-214331"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-08-02",
+    "acceptance_datetime": "2018-08-02T20:06:10.000Z",
+    "report_date": "2018-08-02",
+    "accession": "0001193125-18-236549",
+    "primary_document": "d600312d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-236549"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,7.01,9.01",
+    "filing_date": "2018-08-07",
+    "acceptance_datetime": "2018-08-07T13:49:04.000Z",
+    "report_date": "2018-08-07",
+    "accession": "0001193125-18-240526",
+    "primary_document": "d567541d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.01,7.01,9.01; accession=0001193125-18-240526"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2018-09-05",
+    "acceptance_datetime": "2018-09-05T21:30:06.000Z",
+    "report_date": "2018-08-07",
+    "accession": "0001193125-18-267341",
+    "primary_document": "d597973d8ka.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=9.01; accession=0001193125-18-267341"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-09-06",
+    "acceptance_datetime": "2018-09-05T22:41:15.000Z",
+    "report_date": "2018-09-05",
+    "accession": "0000950123-18-009305",
+    "primary_document": "8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-18-009305"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2018-09-06",
+    "acceptance_datetime": "2018-09-06T14:37:06.000Z",
+    "report_date": "2018-09-06",
+    "accession": "0001193125-18-267841",
+    "primary_document": "d620685d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001193125-18-267841"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-09-07",
+    "acceptance_datetime": "2018-09-07T01:28:34.000Z",
+    "report_date": "2018-09-06",
+    "accession": "0001193125-18-268454",
+    "primary_document": "d617955d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-268454"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2018-09-20",
+    "acceptance_datetime": "2018-09-20T18:22:06.000Z",
+    "report_date": "2018-09-20",
+    "accession": "0001193125-18-278536",
+    "primary_document": "d627152d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-18-278536"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,2.03,5.02,7.01,9.01",
+    "filing_date": "2018-10-01",
+    "acceptance_datetime": "2018-10-01T20:34:00.000Z",
+    "report_date": "2018-10-01",
+    "accession": "0001193125-18-289591",
+    "primary_document": "d625611d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.01,2.03,5.02,7.01,9.01; accession=0001193125-18-289591"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-11-08",
+    "acceptance_datetime": "2018-11-08T21:07:07.000Z",
+    "report_date": "2018-11-08",
+    "accession": "0001193125-18-322540",
+    "primary_document": "d641992d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-322540"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-11-09",
+    "acceptance_datetime": "2018-11-08T23:59:57.000Z",
+    "report_date": "2018-11-08",
+    "accession": "0001193125-18-322806",
+    "primary_document": "d642738d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-322806"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2018-11-30",
+    "acceptance_datetime": "2018-11-30T22:10:01.000Z",
+    "report_date": "2018-10-01",
+    "accession": "0001193125-18-339869",
+    "primary_document": "d652566d8ka.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=9.01; accession=0001193125-18-339869"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-01-11",
+    "acceptance_datetime": "2019-01-11T21:12:35.000Z",
+    "report_date": "2019-01-11",
+    "accession": "0001193125-19-007373",
+    "primary_document": "d664994d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001193125-19-007373"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2019-02-05",
+    "acceptance_datetime": "2019-02-05T21:54:02.000Z",
+    "report_date": "2019-02-01",
+    "accession": "0001193125-19-028377",
+    "primary_document": "d658708d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-19-028377"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-27",
+    "acceptance_datetime": "2019-02-27T21:05:33.000Z",
+    "report_date": "2019-02-27",
+    "accession": "0001193125-19-053992",
+    "primary_document": "d625916d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-053992"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-02",
+    "acceptance_datetime": "2019-05-02T20:05:56.000Z",
+    "report_date": "2019-05-02",
+    "accession": "0001193125-19-134992",
+    "primary_document": "d723972d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-134992"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2019-06-17",
+    "acceptance_datetime": "2019-06-17T10:31:03.000Z",
+    "report_date": "2019-06-17",
+    "accession": "0001193125-19-174200",
+    "primary_document": "d764799d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001193125-19-174200"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2019-06-24",
+    "acceptance_datetime": "2019-06-24T10:17:07.000Z",
+    "report_date": "2019-06-24",
+    "accession": "0001193125-19-179277",
+    "primary_document": "d767177d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001193125-19-179277"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2019-06-24",
+    "acceptance_datetime": "2019-06-24T21:30:02.000Z",
+    "report_date": "2019-06-19",
+    "accession": "0001193125-19-180304",
+    "primary_document": "d769406d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.07; accession=0001193125-19-180304"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2019-06-25",
+    "acceptance_datetime": "2019-06-24T22:17:07.000Z",
+    "report_date": "2019-06-24",
+    "accession": "0001193125-19-180347",
+    "primary_document": "d767286d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-19-180347"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-07-11",
+    "acceptance_datetime": "2019-07-11T11:56:32.000Z",
+    "report_date": "2019-07-10",
+    "accession": "0001193125-19-192161",
+    "primary_document": "d767562d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-19-192161"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-08-06",
+    "acceptance_datetime": "2019-08-06T11:05:57.000Z",
+    "report_date": "2019-08-06",
+    "accession": "0001193125-19-213489",
+    "primary_document": "d723335d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-213489"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2019-08-16",
+    "acceptance_datetime": "2019-08-16T20:50:40.000Z",
+    "report_date": "2019-08-15",
+    "accession": "0001193125-19-223544",
+    "primary_document": "d793420d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-19-223544"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2019-09-26",
+    "acceptance_datetime": "2019-09-26T20:25:11.000Z",
+    "report_date": "2019-09-26",
+    "accession": "0001193125-19-255996",
+    "primary_document": "d811614d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-19-255996"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-11-06",
+    "acceptance_datetime": "2019-11-06T21:06:07.000Z",
+    "report_date": "2019-11-06",
+    "accession": "0001193125-19-285884",
+    "primary_document": "d804072d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-285884"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01,9.01",
+    "filing_date": "2019-11-15",
+    "acceptance_datetime": "2019-11-15T22:25:39.000Z",
+    "report_date": "2019-11-15",
+    "accession": "0001193125-19-293551",
+    "primary_document": "d799176d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.07,8.01,9.01; accession=0001193125-19-293551"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,9.01",
+    "filing_date": "2019-12-10",
+    "acceptance_datetime": "2019-12-10T11:08:13.000Z",
+    "report_date": "2019-12-06",
+    "accession": "0001193125-19-309664",
+    "primary_document": "d827071d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.01,9.01; accession=0001193125-19-309664"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-01-13",
+    "acceptance_datetime": "2020-01-13T13:16:40.000Z",
+    "report_date": "2020-01-10",
+    "accession": "0001193125-20-005957",
+    "primary_document": "d865382d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-005957"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-02-26",
+    "acceptance_datetime": "2020-02-26T21:06:11.000Z",
+    "report_date": "2020-02-26",
+    "accession": "0001193125-20-050066",
+    "primary_document": "d888377d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-050066"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-03-10",
+    "acceptance_datetime": "2020-03-10T12:54:40.000Z",
+    "report_date": "2020-03-09",
+    "accession": "0001193125-20-067914",
+    "primary_document": "d701007d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-067914"
+  },
+  {
+    "form": "8-K",
+    "items": "2.03,8.01,9.01",
+    "filing_date": "2020-03-17",
+    "acceptance_datetime": "2020-03-17T12:58:44.000Z",
+    "report_date": "2020-03-13",
+    "accession": "0001193125-20-075541",
+    "primary_document": "d880525d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.03,8.01,9.01; accession=0001193125-20-075541"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-03-23",
+    "acceptance_datetime": "2020-03-23T10:52:10.000Z",
+    "report_date": "2020-03-17",
+    "accession": "0001193125-20-081415",
+    "primary_document": "d899450d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-081415"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01",
+    "filing_date": "2020-04-10",
+    "acceptance_datetime": "2020-04-10T01:25:41.000Z",
+    "report_date": "2020-04-08",
+    "accession": "0001193125-20-102907",
+    "primary_document": "d916098d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,7.01; accession=0001193125-20-102907"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-04-24",
+    "acceptance_datetime": "2020-04-24T13:01:40.000Z",
+    "report_date": "2020-04-24",
+    "accession": "0001193125-20-118286",
+    "primary_document": "d920299d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-118286"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-05-11",
+    "acceptance_datetime": "2020-05-11T21:05:40.000Z",
+    "report_date": "2020-05-11",
+    "accession": "0001193125-20-139233",
+    "primary_document": "d893715d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-139233"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2020-06-15",
+    "acceptance_datetime": "2020-06-15T20:03:24.000Z",
+    "report_date": "2020-06-15",
+    "accession": "0001193125-20-169324",
+    "primary_document": "d943694d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-20-169324"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2020-06-19",
+    "acceptance_datetime": "2020-06-19T20:45:15.000Z",
+    "report_date": "2020-06-16",
+    "accession": "0001193125-20-174128",
+    "primary_document": "d934787d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-20-174128"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-06-26",
+    "acceptance_datetime": "2020-06-26T18:00:11.000Z",
+    "report_date": "2020-06-26",
+    "accession": "0001193125-20-180596",
+    "primary_document": "d76230d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-180596"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-07-02",
+    "acceptance_datetime": "2020-07-02T12:49:07.000Z",
+    "report_date": "2020-07-01",
+    "accession": "0001193125-20-186006",
+    "primary_document": "d935404d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-186006"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2020-07-02",
+    "acceptance_datetime": "2020-07-02T16:10:18.000Z",
+    "report_date": "2020-06-29",
+    "accession": "0001193125-20-186260",
+    "primary_document": "d943603d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.07; accession=0001193125-20-186260"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2020-07-07",
+    "acceptance_datetime": "2020-07-06T22:16:06.000Z",
+    "report_date": "2020-07-06",
+    "accession": "0001193125-20-187991",
+    "primary_document": "d847565d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-20-187991"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-07-09",
+    "acceptance_datetime": "2020-07-09T13:19:55.000Z",
+    "report_date": "2020-07-09",
+    "accession": "0001193125-20-190171",
+    "primary_document": "d945709d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-190171"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2020-07-15",
+    "acceptance_datetime": "2020-07-15T12:32:02.000Z",
+    "report_date": "2020-07-15",
+    "accession": "0001193125-20-193014",
+    "primary_document": "d20701d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01; accession=0001193125-20-193014"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-07-17",
+    "acceptance_datetime": "2020-07-17T13:05:56.000Z",
+    "report_date": "2020-07-17",
+    "accession": "0001193125-20-194430",
+    "primary_document": "d17301d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-194430"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2020-07-17",
+    "acceptance_datetime": "2020-07-17T21:29:32.000Z",
+    "report_date": "2020-07-17",
+    "accession": "0001193125-20-194828",
+    "primary_document": "d941134d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001193125-20-194828"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-07-20",
+    "acceptance_datetime": "2020-07-20T21:15:54.000Z",
+    "report_date": "2020-07-20",
+    "accession": "0001193125-20-195568",
+    "primary_document": "d39058d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-195568"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.01,2.03,3.03,4.01,5.02,5.03,9.01",
+    "filing_date": "2020-07-21",
+    "acceptance_datetime": "2020-07-21T19:02:15.000Z",
+    "report_date": "2020-07-17",
+    "accession": "0001193125-20-196232",
+    "primary_document": "d940333d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,1.02,2.01,2.03,3.03,4.01,5.02,5.03,9.01; accession=0001193125-20-196232"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-07-27",
+    "acceptance_datetime": "2020-07-27T10:27:54.000Z",
+    "report_date": "2020-07-27",
+    "accession": "0001193125-20-199057",
+    "primary_document": "d46826d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02; accession=0001193125-20-199057"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-07-31",
+    "acceptance_datetime": "2020-07-31T21:25:32.000Z",
+    "report_date": "2020-07-29",
+    "accession": "0001193125-20-206710",
+    "primary_document": "d45900d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02; accession=0001193125-20-206710"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-08-06",
+    "acceptance_datetime": "2020-08-06T20:06:15.000Z",
+    "report_date": "2020-08-06",
+    "accession": "0001193125-20-211881",
+    "primary_document": "d19355d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-211881"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2020-08-06",
+    "acceptance_datetime": "2020-08-06T20:12:56.000Z",
+    "report_date": "2020-08-06",
+    "accession": "0001193125-20-211904",
+    "primary_document": "d36403d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01; accession=0001193125-20-211904"
+  },
+  {
+    "form": "8-K/A",
+    "items": "4.01,9.01",
+    "filing_date": "2020-08-10",
+    "acceptance_datetime": "2020-08-10T10:07:56.000Z",
+    "report_date": "2020-07-17",
+    "accession": "0001193125-20-214030",
+    "primary_document": "d87556d8ka.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=4.01,9.01; accession=0001193125-20-214030"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-08-28",
+    "acceptance_datetime": "2020-08-28T21:19:13.000Z",
+    "report_date": "2020-08-28",
+    "accession": "0001590895-20-000026",
+    "primary_document": "czr-20200828.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,9.01; accession=0001590895-20-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2020-09-18",
+    "acceptance_datetime": "2020-09-18T21:16:01.000Z",
+    "report_date": "2020-09-18",
+    "accession": "0001193125-20-249222",
+    "primary_document": "d37922d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-20-249222"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2020-09-18",
+    "acceptance_datetime": "2020-09-18T21:28:02.000Z",
+    "report_date": "2020-07-17",
+    "accession": "0001193125-20-249251",
+    "primary_document": "d13097d8ka.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=9.01; accession=0001193125-20-249251"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-09-28",
+    "acceptance_datetime": "2020-09-28T10:22:54.000Z",
+    "report_date": "2020-09-28",
+    "accession": "0001193125-20-255120",
+    "primary_document": "d83742d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-20-255120"
+  },
+  {
+    "form": "8-K",
+    "items": "2.03,7.01,8.01,9.01",
+    "filing_date": "2020-09-30",
+    "acceptance_datetime": "2020-09-30T10:37:32.000Z",
+    "report_date": "2020-09-25",
+    "accession": "0001193125-20-258573",
+    "primary_document": "d46651d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.03,7.01,8.01,9.01; accession=0001193125-20-258573"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-10-01",
+    "acceptance_datetime": "2020-10-01T20:03:31.000Z",
+    "report_date": "2020-09-29",
+    "accession": "0001193125-20-261291",
+    "primary_document": "d18623d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-261291"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2020-10-08",
+    "acceptance_datetime": "2020-10-08T21:09:34.000Z",
+    "report_date": "2020-10-06",
+    "accession": "0001193125-20-266403",
+    "primary_document": "d40286d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-20-266403"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-10-23",
+    "acceptance_datetime": "2020-10-23T20:03:31.000Z",
+    "report_date": "2020-10-23",
+    "accession": "0001193125-20-275435",
+    "primary_document": "d94221d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02; accession=0001193125-20-275435"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-10-28",
+    "acceptance_datetime": "2020-10-28T10:06:32.000Z",
+    "report_date": "2020-10-27",
+    "accession": "0001193125-20-279050",
+    "primary_document": "d84336d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-279050"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-11-05",
+    "acceptance_datetime": "2020-11-05T22:03:26.000Z",
+    "report_date": "2020-11-05",
+    "accession": "0001590895-20-000036",
+    "primary_document": "czr-20201105.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-20-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-01-07",
+    "acceptance_datetime": "2021-01-07T22:24:31.000Z",
+    "report_date": "2021-01-07",
+    "accession": "0001193125-21-004328",
+    "primary_document": "d76890d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001193125-21-004328"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-25",
+    "acceptance_datetime": "2021-02-25T21:35:14.000Z",
+    "report_date": "2021-02-25",
+    "accession": "0001590895-21-000080",
+    "primary_document": "czr-20210225.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-21-000080"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-26",
+    "acceptance_datetime": "2021-02-26T11:29:20.000Z",
+    "report_date": "2021-02-25",
+    "accession": "0001590895-21-000082",
+    "primary_document": "czr-20210225.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-21-000082"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2021-03-22",
+    "acceptance_datetime": "2021-03-22T13:00:57.000Z",
+    "report_date": "2021-03-22",
+    "accession": "0001193125-21-088627",
+    "primary_document": "d135337d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-21-088627"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,2.04,8.01,9.01",
+    "filing_date": "2021-04-26",
+    "acceptance_datetime": "2021-04-26T13:08:58.000Z",
+    "report_date": "2021-04-22",
+    "accession": "0001193125-21-130446",
+    "primary_document": "d159191d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.03,2.04,8.01,9.01; accession=0001193125-21-130446"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-05-04",
+    "acceptance_datetime": "2021-05-04T20:26:11.000Z",
+    "report_date": "2021-05-04",
+    "accession": "0001590895-21-000098",
+    "primary_document": "czr-20210504.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-21-000098"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.07,9.01",
+    "filing_date": "2021-06-21",
+    "acceptance_datetime": "2021-06-17T21:47:40.000Z",
+    "report_date": "2021-06-15",
+    "accession": "0001193125-21-193391",
+    "primary_document": "d170611d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.03,5.07,9.01; accession=0001193125-21-193391"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-06-21",
+    "acceptance_datetime": "2021-06-21T20:46:01.000Z",
+    "report_date": "2021-06-21",
+    "accession": "0001193125-21-195174",
+    "primary_document": "d193491d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-21-195174"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.01,9.01",
+    "filing_date": "2021-07-06",
+    "acceptance_datetime": "2021-07-06T21:00:12.000Z",
+    "report_date": "2021-04-22",
+    "accession": "0001193125-21-208832",
+    "primary_document": "d65853d8ka.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.01,9.01; accession=0001193125-21-208832"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-08-03",
+    "acceptance_datetime": "2021-08-03T20:21:40.000Z",
+    "report_date": "2021-08-03",
+    "accession": "0001590895-21-000116",
+    "primary_document": "czr-20210803.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-21-000116"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2021-08-10",
+    "acceptance_datetime": "2021-08-10T01:42:03.000Z",
+    "report_date": "2021-08-06",
+    "accession": "0001193125-21-240921",
+    "primary_document": "d217593d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-21-240921"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.07",
+    "filing_date": "2021-08-13",
+    "acceptance_datetime": "2021-08-13T20:38:06.000Z",
+    "report_date": "2021-06-15",
+    "accession": "0001193125-21-246162",
+    "primary_document": "d220570d8ka.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.07; accession=0001193125-21-246162"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2021-09-09",
+    "acceptance_datetime": "2021-09-09T11:01:33.000Z",
+    "report_date": "2021-09-09",
+    "accession": "0001193125-21-268319",
+    "primary_document": "d212192d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001193125-21-268319"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-09-10",
+    "acceptance_datetime": "2021-09-10T15:02:07.000Z",
+    "report_date": "2021-09-10",
+    "accession": "0001193125-21-269654",
+    "primary_document": "d210433d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-21-269654"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2021-09-27",
+    "acceptance_datetime": "2021-09-25T00:57:56.000Z",
+    "report_date": "2021-09-21",
+    "accession": "0001193125-21-282591",
+    "primary_document": "d197637d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001193125-21-282591"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-10-08",
+    "acceptance_datetime": "2021-10-08T21:12:57.000Z",
+    "report_date": "2021-10-08",
+    "accession": "0001193125-21-295630",
+    "primary_document": "d226190d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001193125-21-295630"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2021-10-22",
+    "acceptance_datetime": "2021-10-22T21:08:56.000Z",
+    "report_date": "2021-10-22",
+    "accession": "0001193125-21-305552",
+    "primary_document": "d437084d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-21-305552"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-02",
+    "acceptance_datetime": "2021-11-02T20:54:05.000Z",
+    "report_date": "2021-11-02",
+    "accession": "0001590895-21-000132",
+    "primary_document": "czr-20211102.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-21-000132"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2021-11-10",
+    "acceptance_datetime": "2021-11-10T21:06:10.000Z",
+    "report_date": "2021-11-10",
+    "accession": "0001193125-21-325963",
+    "primary_document": "d247648d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-21-325963"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.02",
+    "filing_date": "2021-12-14",
+    "acceptance_datetime": "2021-12-14T22:04:32.000Z",
+    "report_date": "2021-10-22",
+    "accession": "0001193125-21-356883",
+    "primary_document": "d262648d8ka.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02; accession=0001193125-21-356883"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2022-01-04",
+    "acceptance_datetime": "2022-01-03T23:10:00.000Z",
+    "report_date": "2021-12-28",
+    "accession": "0001590895-22-000004",
+    "primary_document": "czr-20211228.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,9.01; accession=0001590895-22-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2022-01-27",
+    "acceptance_datetime": "2022-01-27T21:06:09.000Z",
+    "report_date": "2022-01-26",
+    "accession": "0001193125-22-019767",
+    "primary_document": "d252706d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-22-019767"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-02-22",
+    "acceptance_datetime": "2022-02-22T22:07:14.000Z",
+    "report_date": "2022-02-22",
+    "accession": "0001590895-22-000057",
+    "primary_document": "czr-20220222.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-22-000057"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2022-03-01",
+    "acceptance_datetime": "2022-03-01T00:26:40.000Z",
+    "report_date": "2022-02-25",
+    "accession": "0001590895-22-000078",
+    "primary_document": "czr-20220225.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,9.01; accession=0001590895-22-000078"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-04-07",
+    "acceptance_datetime": "2022-04-07T10:05:03.000Z",
+    "report_date": "2022-04-07",
+    "accession": "0001193125-22-098051",
+    "primary_document": "d222987d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-098051"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-05-03",
+    "acceptance_datetime": "2022-05-03T21:05:15.000Z",
+    "report_date": "2022-05-03",
+    "accession": "0001590895-22-000097",
+    "primary_document": "czr-20220503.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-22-000097"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2022-06-21",
+    "acceptance_datetime": "2022-06-21T21:04:03.000Z",
+    "report_date": "2022-06-14",
+    "accession": "0001590895-22-000116",
+    "primary_document": "czr-20220614.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.07; accession=0001590895-22-000116"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2022-07-18",
+    "acceptance_datetime": "2022-07-18T21:06:03.000Z",
+    "report_date": "2022-07-15",
+    "accession": "0001193125-22-196372",
+    "primary_document": "d389156d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02; accession=0001193125-22-196372"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2022-08-01",
+    "acceptance_datetime": "2022-08-01T21:01:09.000Z",
+    "report_date": "2022-07-28",
+    "accession": "0001193125-22-208845",
+    "primary_document": "d332982d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.03,9.01; accession=0001193125-22-208845"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-08-02",
+    "acceptance_datetime": "2022-08-02T21:03:10.000Z",
+    "report_date": "2022-08-02",
+    "accession": "0001590895-22-000122",
+    "primary_document": "czr-20220802.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-22-000122"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2022-10-05",
+    "acceptance_datetime": "2022-10-05T20:37:09.000Z",
+    "report_date": "2022-10-04",
+    "accession": "0001193125-22-258242",
+    "primary_document": "d407428d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-22-258242"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-11-01",
+    "acceptance_datetime": "2022-11-01T20:48:59.000Z",
+    "report_date": "2022-11-01",
+    "accession": "0001590895-22-000146",
+    "primary_document": "czr-20221101.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-22-000146"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-01-23",
+    "acceptance_datetime": "2023-01-23T13:17:01.000Z",
+    "report_date": "2023-01-23",
+    "accession": "0001193125-23-012673",
+    "primary_document": "d448262d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-23-012673"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2023-01-24",
+    "acceptance_datetime": "2023-01-24T02:22:54.000Z",
+    "report_date": "2023-01-23",
+    "accession": "0001193125-23-013434",
+    "primary_document": "d424451d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001193125-23-013434"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-01-26",
+    "acceptance_datetime": "2023-01-26T02:15:00.000Z",
+    "report_date": "2023-01-25",
+    "accession": "0001193125-23-015442",
+    "primary_document": "d447766d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-23-015442"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,9.01",
+    "filing_date": "2023-02-06",
+    "acceptance_datetime": "2023-02-06T21:26:11.000Z",
+    "report_date": "2023-02-06",
+    "accession": "0001193125-23-025630",
+    "primary_document": "d455857d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,1.02,2.03,9.01; accession=0001193125-23-025630"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-02-21",
+    "acceptance_datetime": "2023-02-21T21:54:34.000Z",
+    "report_date": "2023-02-21",
+    "accession": "0001590895-23-000069",
+    "primary_document": "czr-20230221.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-23-000069"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-02",
+    "acceptance_datetime": "2023-05-02T20:42:22.000Z",
+    "report_date": "2023-05-02",
+    "accession": "0001590895-23-000076",
+    "primary_document": "czr-20230502.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-23-000076"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.07,9.01",
+    "filing_date": "2023-06-16",
+    "acceptance_datetime": "2023-06-16T20:20:58.000Z",
+    "report_date": "2023-06-13",
+    "accession": "0001193125-23-169019",
+    "primary_document": "d522744d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.03,5.07,9.01; accession=0001193125-23-169019"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-08-01",
+    "acceptance_datetime": "2023-08-01T20:08:06.000Z",
+    "report_date": "2023-08-01",
+    "accession": "0001590895-23-000089",
+    "primary_document": "czr-20230801.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-23-000089"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2023-09-14",
+    "acceptance_datetime": "2023-09-14T13:00:58.000Z",
+    "report_date": "2023-09-07",
+    "accession": "0001193125-23-235015",
+    "primary_document": "d537840d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001193125-23-235015"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-10-31",
+    "acceptance_datetime": "2023-10-31T20:08:42.000Z",
+    "report_date": "2023-10-31",
+    "accession": "0001590895-23-000120",
+    "primary_document": "czr-20231031.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-23-000120"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2024-01-18",
+    "acceptance_datetime": "2024-01-18T12:05:59.000Z",
+    "report_date": "2024-01-18",
+    "accession": "0001193125-24-009672",
+    "primary_document": "d732968d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001193125-24-009672"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2024-01-24",
+    "acceptance_datetime": "2024-01-24T13:14:59.000Z",
+    "report_date": "2024-01-24",
+    "accession": "0001193125-24-013626",
+    "primary_document": "d742221d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-24-013626"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-01-25",
+    "acceptance_datetime": "2024-01-24T23:45:59.000Z",
+    "report_date": "2024-01-24",
+    "accession": "0001193125-24-014428",
+    "primary_document": "d692339d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-014428"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2024-01-30",
+    "acceptance_datetime": "2024-01-29T23:32:15.000Z",
+    "report_date": "2024-01-26",
+    "accession": "0001590895-24-000004",
+    "primary_document": "czr-20240126.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02; accession=0001590895-24-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-01-31",
+    "acceptance_datetime": "2024-01-31T02:49:57.000Z",
+    "report_date": "2024-01-30",
+    "accession": "0001193125-24-019887",
+    "primary_document": "d411646d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-24-019887"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-02-01",
+    "acceptance_datetime": "2024-02-01T11:01:53.000Z",
+    "report_date": "2024-01-31",
+    "accession": "0001193125-24-021250",
+    "primary_document": "d394754d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-24-021250"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,7.01,8.01,9.01",
+    "filing_date": "2024-02-07",
+    "acceptance_datetime": "2024-02-07T22:24:34.000Z",
+    "report_date": "2024-02-06",
+    "accession": "0001193125-24-026847",
+    "primary_document": "d739529d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,1.02,2.03,7.01,8.01,9.01; accession=0001193125-24-026847"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-20",
+    "acceptance_datetime": "2024-02-20T21:12:00.000Z",
+    "report_date": "2024-02-20",
+    "accession": "0001590895-24-000050",
+    "primary_document": "czr-20240220.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-24-000050"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2024-04-29",
+    "acceptance_datetime": "2024-04-29T20:17:51.000Z",
+    "report_date": "2024-04-29",
+    "accession": "0001590895-24-000083",
+    "primary_document": "czr-20240429.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001590895-24-000083"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-04-30",
+    "acceptance_datetime": "2024-04-30T20:06:54.000Z",
+    "report_date": "2024-04-30",
+    "accession": "0001590895-24-000086",
+    "primary_document": "czr-20240430.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-24-000086"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2024-05-09",
+    "acceptance_datetime": "2024-05-09T20:11:13.000Z",
+    "report_date": "2024-05-09",
+    "accession": "0001193125-24-135268",
+    "primary_document": "d827488d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-24-135268"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2024-06-14",
+    "acceptance_datetime": "2024-06-14T20:08:18.000Z",
+    "report_date": "2024-06-11",
+    "accession": "0001590895-24-000106",
+    "primary_document": "czr-20240611.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001590895-24-000106"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2024-07-02",
+    "acceptance_datetime": "2024-07-01T23:46:37.000Z",
+    "report_date": "2024-06-28",
+    "accession": "0001590895-24-000109",
+    "primary_document": "czr-20240628.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001590895-24-000109"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-07-30",
+    "acceptance_datetime": "2024-07-30T20:13:40.000Z",
+    "report_date": "2024-07-30",
+    "accession": "0001590895-24-000122",
+    "primary_document": "czr-20240730.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-24-000122"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.02,9.01",
+    "filing_date": "2024-07-30",
+    "acceptance_datetime": "2024-07-30T20:51:31.000Z",
+    "report_date": "2024-06-28",
+    "accession": "0001193125-24-188940",
+    "primary_document": "d874232d8ka.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-24-188940"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2024-10-02",
+    "acceptance_datetime": "2024-10-02T13:20:54.000Z",
+    "report_date": "2024-10-02",
+    "accession": "0001193125-24-230791",
+    "primary_document": "d848726d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001193125-24-230791"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-10-02",
+    "acceptance_datetime": "2024-10-02T21:05:00.000Z",
+    "report_date": "2024-10-02",
+    "accession": "0001193125-24-231231",
+    "primary_document": "d833528d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-231231"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-10-03",
+    "acceptance_datetime": "2024-10-03T20:12:53.000Z",
+    "report_date": "2024-10-03",
+    "accession": "0001193125-24-232239",
+    "primary_document": "d855081d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001193125-24-232239"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2024-10-17",
+    "acceptance_datetime": "2024-10-17T20:02:30.000Z",
+    "report_date": "2024-10-17",
+    "accession": "0001193125-24-238882",
+    "primary_document": "d877683d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-24-238882"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2024-10-21",
+    "acceptance_datetime": "2024-10-21T21:27:25.000Z",
+    "report_date": "2024-10-21",
+    "accession": "0001590895-24-000131",
+    "primary_document": "czr-20241021.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02; accession=0001590895-24-000131"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-10-29",
+    "acceptance_datetime": "2024-10-29T20:13:14.000Z",
+    "report_date": "2024-10-29",
+    "accession": "0001590895-24-000136",
+    "primary_document": "czr-20241029.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-24-000136"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2024-11-25",
+    "acceptance_datetime": "2024-11-25T21:05:53.000Z",
+    "report_date": "2024-11-25",
+    "accession": "0001193125-24-265157",
+    "primary_document": "d858083d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-24-265157"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-02-25",
+    "acceptance_datetime": "2025-02-25T21:09:15.000Z",
+    "report_date": "2025-02-25",
+    "accession": "0001590895-25-000065",
+    "primary_document": "czr-20250225.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-25-000065"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,5.03,7.01,9.01",
+    "filing_date": "2025-03-20",
+    "acceptance_datetime": "2025-03-19T23:20:50.000Z",
+    "report_date": "2025-03-19",
+    "accession": "0001590895-25-000104",
+    "primary_document": "czr-20250319.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,5.02,5.03,7.01,9.01; accession=0001590895-25-000104"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-04-29",
+    "acceptance_datetime": "2025-04-29T20:20:49.000Z",
+    "report_date": "2025-04-29",
+    "accession": "0001590895-25-000108",
+    "primary_document": "czr-20250429.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-25-000108"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2025-05-02",
+    "acceptance_datetime": "2025-05-02T21:13:06.000Z",
+    "report_date": "2025-05-02",
+    "accession": "0001590895-25-000113",
+    "primary_document": "czr-20250502.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01; accession=0001590895-25-000113"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2025-06-13",
+    "acceptance_datetime": "2025-06-12T22:39:36.000Z",
+    "report_date": "2025-06-10",
+    "accession": "0001590895-25-000118",
+    "primary_document": "czr-20250610.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.07; accession=0001590895-25-000118"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-06-27",
+    "acceptance_datetime": "2025-06-27T20:05:23.000Z",
+    "report_date": "2025-06-27",
+    "accession": "0001193125-25-151248",
+    "primary_document": "d937074d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001193125-25-151248"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03",
+    "filing_date": "2025-07-28",
+    "acceptance_datetime": "2025-07-26T00:02:00.000Z",
+    "report_date": "2025-07-23",
+    "accession": "0001590895-25-000122",
+    "primary_document": "czr-20250723.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.03; accession=0001590895-25-000122"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-07-29",
+    "acceptance_datetime": "2025-07-29T20:15:13.000Z",
+    "report_date": "2025-07-29",
+    "accession": "0001590895-25-000125",
+    "primary_document": "czr-20250729.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-25-000125"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-10-28",
+    "acceptance_datetime": "2025-10-28T20:15:27.000Z",
+    "report_date": "2025-10-28",
+    "accession": "0001590895-25-000129",
+    "primary_document": "czr-20251028.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-25-000129"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-12-03",
+    "acceptance_datetime": "2025-12-03T22:00:26.000Z",
+    "report_date": "2025-12-03",
+    "accession": "0001590895-25-000132",
+    "primary_document": "czr-20251203.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02; accession=0001590895-25-000132"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-02-17",
+    "acceptance_datetime": "2026-02-17T21:09:52.000Z",
+    "report_date": "2026-02-17",
+    "accession": "0001590895-26-000010",
+    "primary_document": "czr-20260217.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-26-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-04-28",
+    "acceptance_datetime": "2026-04-28T20:11:07.000Z",
+    "report_date": "2026-04-28",
+    "accession": "0001590895-26-000015",
+    "primary_document": "czr-20260428.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-26-000015"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2026-05-28",
+    "acceptance_datetime": "2026-05-28T11:23:56.000Z",
+    "report_date": "2026-05-27",
+    "accession": "0001193125-26-242995",
+    "primary_document": "d143382d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001193125-26-242995"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2026-06-12",
+    "acceptance_datetime": "2026-06-12T00:01:05.000Z",
+    "report_date": "2026-06-09",
+    "accession": "0001590895-26-000022",
+    "primary_document": "czr-20260609.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.07; accession=0001590895-26-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-07-08",
+    "acceptance_datetime": "2026-07-07T23:51:16.000Z",
+    "report_date": "2026-07-06",
+    "accession": "0001590895-26-000024",
+    "primary_document": "czr-20260706.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02; accession=0001590895-26-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-07-28",
+    "acceptance_datetime": "2026-07-28T20:11:18.000Z",
+    "report_date": "2026-07-28",
+    "accession": "0001590895-26-000027",
+    "primary_document": "czr-20260728.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-26-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01",
+    "filing_date": "2026-09-17",
+    "acceptance_datetime": "2026-09-17T13:12:02.000Z",
+    "report_date": "2026-09-14",
+    "accession": "0001193125-26-393853",
+    "primary_document": "d242276d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.02,8.01; accession=0001193125-26-393853"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2026-09-22",
+    "acceptance_datetime": "2026-09-22T13:14:05.000Z",
+    "report_date": "2026-09-15",
+    "accession": "0001193125-26-397323",
+    "primary_document": "d156527d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=8.01; accession=0001193125-26-397323"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2026-09-23",
+    "acceptance_datetime": "2026-09-23T13:00:06.000Z",
+    "report_date": "2026-09-22",
+    "accession": "0001193125-26-398606",
+    "primary_document": "d743488d8k.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=5.07; accession=0001193125-26-398606"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-10-27",
+    "acceptance_datetime": "2026-10-27T20:12:34.000Z",
+    "report_date": "2026-10-27",
+    "accession": "0001590895-26-000032",
+    "primary_document": "czr-20261027.htm",
+    "cik": "0001590895",
+    "issuer_name": "Caesars Entertainment, Inc.",
+    "tickers": [
+      "CZR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001590895.json",
+    "locator": "8-K items=2.02,9.01; accession=0001590895-26-000032"
+  }
+]
