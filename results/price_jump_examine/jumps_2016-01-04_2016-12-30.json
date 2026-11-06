@@ -6865,14 +6865,16 @@
     "vol_ratio": 7.670872078260621,
     "cik": "0001337553",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/AERI?date=2016-02-18&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for AERI. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ATHX",
@@ -10100,14 +10102,16 @@
     "vol_ratio": 3.213873974787256,
     "cik": "0001517396",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SSYS?date=2016-03-03&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SSYS. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "STML",
@@ -11284,14 +11288,16 @@
     "vol_ratio": 2.3098645018231267,
     "cik": "0001451505",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/RIG?date=2016-03-04&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for RIG. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SDRL",
@@ -14059,14 +14065,16 @@
     "vol_ratio": 6.075890351448803,
     "cik": "0001070494",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ACAD?date=2016-03-28&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ACAD. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ALDR",
@@ -16664,14 +16672,16 @@
     "vol_ratio": 2.684383723014674,
     "cik": "0000887247",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ADMP?date=2016-04-14&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ADMP. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CETC",
@@ -31351,14 +31361,16 @@
     "vol_ratio": 2.1070732710858193,
     "cik": "0001375877",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CSIQ?date=2016-08-18&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for CSIQ. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "GMAN",
@@ -35069,15 +35081,17 @@
     "prev_volume": 483343.0,
     "vol_ratio": 6.900060619477266,
     "cik": "0001351288",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/1351288/000114420416125195/v449414_6k.htm",
+    "news_detail": "Second pivotal Phase 3 Epidiolex LGS trial positive (median 42% drop-seizure reduction vs 17% placebo). Class-3 trial keep."
   },
   {
     "symbol": "NWBO",
@@ -38393,14 +38407,16 @@
     "vol_ratio": 3.2869505209141727,
     "cik": "0001086600",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ARLP?date=2016-11-09&view=daily",
+    "news_detail": "Alliance Resource post-election coal/energy rally. Macro/sector, not keep 2/3/4."
   },
   {
     "symbol": "ASTE",
@@ -38842,14 +38858,16 @@
     "vol_ratio": 4.061016364066045,
     "cik": "0001593538",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/NAVI?date=2016-11-09&view=daily",
+    "news_detail": "Navient post-election financials rally. Macro/sector, not keep 2/3/4."
   },
   {
     "symbol": "NK",
@@ -39574,14 +39592,16 @@
     "vol_ratio": 5.481073265596596,
     "cik": "0001067701",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/URI?date=2016-11-09&view=daily",
+    "news_detail": "United Rentals post-election industrials rally. Macro/sector, not keep 2/3/4."
   },
   {
     "symbol": "UTI",
@@ -39658,14 +39678,16 @@
     "vol_ratio": 2.1316116802260074,
     "cik": "0001163302",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/X?date=2016-11-09&view=daily",
+    "news_detail": "US Steel post-election industrials rally. Macro/sector, not keep 2/3/4."
   },
   {
     "symbol": "AUPH",
@@ -39784,14 +39806,16 @@
     "vol_ratio": 2.1844222231026666,
     "cik": "0001639877",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GSM?date=2016-11-10&view=daily",
+    "news_detail": "Ferroglobe post-election materials rally. Macro/sector, not keep 2/3/4."
   },
   {
     "symbol": "MNKD",
@@ -42093,14 +42117,16 @@
     "vol_ratio": 2.3089043934361335,
     "cik": "0001126874",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ERF?date=2016-11-30&view=daily",
+    "news_detail": "Enerplus OPEC/oil rebound sector move. Commodity, not keep 2/3/4."
   },
   {
     "symbol": "ERX",

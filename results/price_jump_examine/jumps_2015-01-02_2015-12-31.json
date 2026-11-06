@@ -1321,14 +1321,16 @@
     "vol_ratio": 3.768318154401392,
     "cik": "0001524025",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/TLYS?date=2015-01-13&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for TLYS. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "WBAI",
@@ -1638,14 +1640,16 @@
     "vol_ratio": 71.61124087591242,
     "cik": "0001353615",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/FXF?date=2015-01-15&view=daily",
+    "news_detail": "CurrencyShares Swiss Franc Trust FX move; ETF/currency product, not keep 2/3/4."
   },
   {
     "symbol": "ASPS",
@@ -6523,14 +6527,16 @@
     "vol_ratio": 14.737931792921039,
     "cik": "0001413447",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/NXPI?date=2015-03-02&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for NXPI. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "OHRP",
@@ -6947,14 +6953,16 @@
     "vol_ratio": 2.5579305586480077,
     "cik": "0001401667",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2015/03/05/the-under-the-radar-reason-why-puma-biotechnology.aspx",
+    "news_detail": "Puma move tied to Citigroup PT hike / sector M&A chatter, not same-day company trial/M&A keep PR. Analyst/sector, not keep 2/3/4."
   },
   {
     "symbol": "RNDY",
@@ -12925,14 +12933,16 @@
     "vol_ratio": 8.061886201402453,
     "cik": "0001510593",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/XNET?date=2015-05-13&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for XNET. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CAS",
@@ -29866,14 +29876,16 @@
     "vol_ratio": 2.4526626069123445,
     "cik": "0001571498",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/EPZM?date=2015-11-02&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for EPZM. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ETRM",
@@ -33105,14 +33117,16 @@
     "vol_ratio": 64.16607291422233,
     "cik": "0001176309",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ORMP?date=2015-11-30&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ORMP. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "PEIX",
@@ -34694,14 +34708,16 @@
     "vol_ratio": 2.6513756844027347,
     "cik": "0001419612",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SEDG?date=2015-12-16&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SEDG. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ACUR",
