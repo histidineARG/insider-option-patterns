@@ -1,0 +1,702 @@
+[
+  {
+    "symbol": "AMLP",
+    "qdate": "2025-01-31",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "BBN",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "BUI",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "C.ETC",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "CIFRW",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "CSF",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "DATWY",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "EATV",
+    "qdate": "2025-01-31",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "EVN",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "GVLMF",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "HOKCY",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "JIAXF",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "JXHLY",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "POSC",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "REFR",
+    "qdate": "2025-01-31",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "SIJ",
+    "qdate": "2025-01-31",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "STLNF",
+    "qdate": "2025-01-31",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "TRFK",
+    "qdate": "2025-01-31",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "UTHR",
+    "qdate": "2025-01-31",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "VAL",
+    "qdate": "2025-01-31",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "APT",
+    "qdate": "2025-04-16",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "C.AYA",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "C.RUDB",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "CABPF",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "CLKFF",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "DXYN",
+    "qdate": "2025-04-16",
+    "baseline_membership": "present",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "EGF",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "FSUMF",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "HONDW",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "IWV",
+    "qdate": "2025-04-16",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "JDSEF",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "LOIMF",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "NSLYF",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "OTLC",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "PCCE",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "PSA-G",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "RJF-B",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "RRVAS",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "SUHJF",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "VRME",
+    "qdate": "2025-04-16",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "ACUT",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "BHE",
+    "qdate": "2025-10-21",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "BSWGF",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "C.CAPG",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "C.EDV",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "C.S",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "CCTC",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "CGIE",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "CIB",
+    "qdate": "2025-10-21",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "DVN",
+    "qdate": "2025-10-21",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "EUBG",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "FRSAF",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "MDTWF",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "NMAX",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "OCCIM",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "PELIU",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "SJT",
+    "qdate": "2025-10-21",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "SPESG",
+    "qdate": "2025-10-21",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "STLFF",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "YASKY",
+    "qdate": "2025-10-21",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "APLMW",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "APMSF",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "C.WGX",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "C.ZWGD",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "CMPR",
+    "qdate": "2025-12-17",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "CTFMS",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "CUBB",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "FGMCR",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "FSHPR",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "HPTO",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "KRKKF",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "PSBKF",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "RDACU",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "SCCFF",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "SZNTF",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "TTI",
+    "qdate": "2025-12-17",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "VMCWF",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "WPRT",
+    "qdate": "2025-12-17",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "WSEWF",
+    "qdate": "2025-12-17",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "YPF",
+    "qdate": "2025-12-17",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "ALFUW",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "BAH",
+    "qdate": "2025-12-30",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "BIOYF",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "C.MIDB",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "C.RS",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "C.SLT",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "C.TA",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "EL",
+    "qdate": "2025-12-30",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "EPR",
+    "qdate": "2025-12-30",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "LOBEF",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "MAYNF",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "MMS",
+    "qdate": "2025-12-30",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "NEXNY",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "NMKBP",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "NPKYY",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "NTAP",
+    "qdate": "2025-12-30",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  },
+  {
+    "symbol": "PRH",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "RTACW",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "THNCF",
+    "qdate": "2025-12-30",
+    "baseline_membership": "absent",
+    "chain_observed": false,
+    "option_coverage_status": "no_target_rows_listing_status_unknown"
+  },
+  {
+    "symbol": "TILL",
+    "qdate": "2025-12-30",
+    "baseline_membership": "present",
+    "chain_observed": true,
+    "option_coverage_status": "observed_target_chain"
+  }
+]

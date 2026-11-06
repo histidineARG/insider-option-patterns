@@ -1,0 +1,20 @@
+{
+  "baseline_date": "2024-11-01",
+  "expansion_date": "2024-11-04",
+  "detection_rule": "First session with >=10000 rows, prior20 median >=1000, and count/median >=2",
+  "baseline_positive_price_symbols": 5960,
+  "expansion_positive_price_symbols": 22991,
+  "retained_symbols": 5932,
+  "added_symbols": 17059,
+  "removed_symbols": 28,
+  "symbol_set_sha256": {
+    "2024-11-01": "42ad5630d6ab29bad002afbbb25d60fa07efc2e6e9b0c392c37dc098631f59f5",
+    "2024-11-04": "702eacb5277a4f993a9804b8a2be1b30f2732e5b5bd051314f9e251d1d29a186"
+  },
+  "notes": [
+    "Expansion date is a source-count diagnostic, not a verified vendor change date.",
+    "Exact symbols do not resolve issuer identity, ticker reuse, or instrument type.",
+    "Later symbols absent from the baseline may be new listings or renamed securities.",
+    "Original samples and labels are unchanged. Membership strata are descriptive, not eligibility filters."
+  ]
+}

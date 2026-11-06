@@ -58,6 +58,14 @@ every sampled date, while the stockquote frame expands from roughly 6,000 to
 from `optiondaily3`. This supports investigating the broader sampling frame;
 it does not rule out partial ingestion gaps or establish historical option listings.
 
+The [frame expansion audit](results/stock_frame_audit/REPORT.md) locates the large
+stockquote expansion on November 4, 2024: positive-price symbols rise from 5,960
+to 22,991. Of the 2025 sampled stock-days, chains are present for 24/25 whose
+symbols appeared in the preceding frame and 1/75 whose symbols did not. This
+describes a change in the sampling population; the older frame is not an
+eligibility filter for future listings. Run `python3 stock_frame_audit.py` to
+repeat the read-only boundary symbol queries and saved-sample comparison.
+
 The current descriptive rules surfaced alerts in 10/23 event windows and 52/1181
 sampled background stock-days at 100 calls and 3× baseline; at 500 calls and 5×,
 8/23 and 25/1181. These are not recall or false-positive estimates: event labels

@@ -1,0 +1,18 @@
+[
+  {
+    "year": 2025,
+    "baseline_membership": "absent",
+    "sampled_stock_days": 75,
+    "observed_chains": 1,
+    "no_target_rows": 74,
+    "query_failures": 0
+  },
+  {
+    "year": 2025,
+    "baseline_membership": "present",
+    "sampled_stock_days": 25,
+    "observed_chains": 24,
+    "no_target_rows": 1,
+    "query_failures": 0
+  }
+]
