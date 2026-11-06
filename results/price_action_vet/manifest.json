@@ -1,5 +1,6 @@
 {
   "events": 26,
+  "deep": true,
   "measurement_ok": 26,
   "jump_ok": 26,
   "status_counts": {
@@ -22,14 +23,26 @@
     "issuer_identity_was_corrected": 7,
     "ads_or_ordinary_share_comparison_hazard": 1
   },
+  "path_flag_counts": {
+    "ge_10pct_single_day_move_in_pre20": 5,
+    "reaction_mostly_overnight_gap": 26,
+    "earlier_public_upper_session_abs_ge_5pct": 3,
+    "previous_session_abs_move_ge_5pct": 3,
+    "reaction_close_at_or_above_cash_offer": 1,
+    "strong_5d_pre_drift_ge_10pct": 1,
+    "earlier_public_lower_session_abs_ge_5pct": 1
+  },
+  "gap_dominated": 26,
+  "volume_surge_2x": 24,
+  "offer_parsed": 11,
   "source_sha256": {
-    "results/reviewed_cohort/events.json": "74b211543d12ce02df6c50bfb57e318ede6103e2609bdf4436b4e6dbe0357aa6",
+    "results/reviewed_cohort/events.json": "2894387864dbed3b45066c8a028153f97afd105ec0b7453cb7ebdebb95c02c62",
     "data/calendar/nyse_sessions.json": "69f0ebd15bcea7e2e41609421c37ac8ab56a128709ff3476015239bd2e926fcd"
   },
   "notes": [
-    "Offline audit of stored closes and session mapping; prices were not requeryed.",
+    "Deep mode requeries stockquote OHLCV; offline mode does not.",
     "Contamination flags describe earlier-public intersection with the jump window.",
-    "Hazards (ADS, price-source conflict, identity correction) do not invent negatives.",
+    "Path flags are diagnostics only; they do not invent negatives or training labels.",
     "This tool does not set training_label_ready or first_public_disclosure_verified."
   ]
 }

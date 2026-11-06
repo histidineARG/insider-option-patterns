@@ -4,7 +4,10 @@ from pathlib import Path
 import tempfile
 import unittest
 
-from price_action_vet import classify, evaluate, expected_sessions, recomputed_return, run
+from price_action_vet import (
+    classify, evaluate, expected_sessions, parse_cash_offer_usd, path_analysis,
+    recomputed_return, run)
+
 
 
 class PriceActionVetTests(unittest.TestCase):
@@ -68,6 +71,30 @@ class PriceActionVetTests(unittest.TestCase):
                      ['price_source_conflict'], True, True),
             'jump_ok_prior_close_may_reflect_earlier_public')
         self.assertEqual(classify([], [], False, True), 'measurement_failed')
+
+    def test_parse_cash_offer(self):
+        self.assertEqual(parse_cash_offer_usd('Cash $72.50 per common share.'), 72.5)
+        self.assertIsNone(parse_cash_offer_usd('SEK 208 per ordinary share'))
+        self.assertEqual(parse_cash_offer_usd('Cash $26.00 plus $2.00 CVR'), 26.0)
+        self.assertIsNone(parse_cash_offer_usd(
+            'All-cash take-private valued around $1.7 billion per complaint narrative.'))
+        self.assertEqual(parse_cash_offer_usd('Cash tender $218/share; Outside Date extension.'), 218.0)
+
+    def test_path_analysis_gap_and_drift(self):
+        calendar = [date(2016, 2, d) for d in (8, 9, 10, 11, 12, 16)]
+        quotes = [
+            dict(qdate='2016-02-08', open=27, high=28, low=26, close=27, volume=100),
+            dict(qdate='2016-02-09', open=27, high=28, low=26, close=27.4, volume=100),
+            dict(qdate='2016-02-10', open=27, high=28, low=26, close=27.3, volume=100),
+            dict(qdate='2016-02-11', open=26, high=27, low=26, close=26.4, volume=100),
+            dict(qdate='2016-02-12', open=26, high=27, low=26, close=26.87, volume=100),
+            dict(qdate='2016-02-16', open=40.62, high=41.3, low=39.45, close=39.64, volume=70000),
+        ]
+        path = path_analysis(dict(
+            reaction_date='2016-02-16', previous_session='2016-02-12',
+            consideration_notes='Cash deal; proxy cites approximate 56% offer premium.'), calendar, quotes)
+        self.assertTrue(path['gap_dominated'])
+        self.assertAlmostEqual(path['path_close_return_pct'], (39.64 / 26.87 - 1) * 100)
 
     def test_run_writes_report(self):
         with tempfile.TemporaryDirectory() as tmp:
