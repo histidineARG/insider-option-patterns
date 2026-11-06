@@ -1,0 +1,35 @@
+{
+  "observations": 2080,
+  "outcome_followup_proxy": "2025-06-16",
+  "label_status_counts": {
+    "incomplete_outcome_registry": 1760,
+    "insufficient_calendar_or_followup": 69,
+    "candidate_or_disclosure_review_unresolved": 251
+  },
+  "partition_counts": {
+    "validation": 450,
+    "train": 1120,
+    "development_audit": 510
+  },
+  "purge_reason_counts": {
+    "feature_or_outcome_window_crosses_partition": 83
+  },
+  "feature_coverage_ready": 1894,
+  "research_eligible": 0,
+  "known_positive_labels": 0,
+  "known_negative_labels": 0,
+  "source_sha256": {
+    "results/reviewed_cohort/features.json": "cc9bbe334a5d163638ce0c457e8b8538611cf68a8c637eaa38453b4abedf8f3e",
+    "results/background_sample/observations.json": "a8c954176260b85789aa6f6d53437c4095f1e363e5075dc44468483cc9a74aeb",
+    "results/reviewed_cohort/events.json": "f2e1b056eb8bcbbecbc4a58668a1db78ab94683218e1d3596010fdca004b4142",
+    "data/evaluation_protocol.json": "ce5dc34342acd35742d8b523757bbf115ccf6c0fb5a694a59284b9f1dda6fdce",
+    "data/outcome_coverage_reviews.json": "aab7e1ec631aa9121aec7560db38ea1eb04b7675b5502085843dc3470ec6d5ed"
+  },
+  "gates": [
+    "Incomplete first-disclosure, corporate-action, and security identity review.",
+    "No complete scoped outcome reviews certify negatives.",
+    "No verified natural-prevalence historical optionable frame.",
+    "Vendor delivery timing and contract deliverables remain unverified.",
+    "Reserved 2026 test has no extracted observations and is not authorized."
+  ]
+}

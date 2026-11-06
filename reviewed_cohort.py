@@ -13,6 +13,15 @@ from research_cohort import calendar_features, daily_sql, write_rows
 from sec_match import connection
 
 
+REVIEW_FIELDS = (
+    'review_status', 'finding', 'locator', 'source', 'timing_source', 'timing_locator',
+    'earlier_public_date_lower', 'earlier_public_date_upper', 'earlier_public_session',
+    'earlier_source', 'earlier_locator', 'conflicting_source', 'conflicting_locator',
+    'first_public_disclosure_verified', 'corporate_action_review_complete',
+    'announcement_session', 'issuer_cik', 'issuer', 'eligibility', 'date_verified',
+    'discovery_basis')
+
+
 def inputs(root):
     ledger = json.loads((root / 'data/event_review_overrides.json').read_text())
     original = json.loads((root / 'results/research_cohort/event_cohort.json').read_text())
@@ -31,6 +40,58 @@ def inputs(root):
         row.setdefault('corporate_action_review_complete', False)
         row['training_label_ready'] = False
     return sorted(rows.values(), key=lambda r: r['event_id'])
+
+
+def apply_saved_reviews(root=Path('.')):
+    """Refresh review fields on saved events without re-querying prices or chains."""
+    ledger = json.loads((root / 'data/event_review_overrides.json').read_text())
+    path = root / 'results/reviewed_cohort/events.json'
+    events = json.loads(path.read_text())
+    by_key = {(r['symbol'], r['announcement_date']): r
+              for r in ledger['events'] + ledger['additional_candidates']}
+    for row in events:
+        review = by_key.get((row['symbol'], row['announcement_date']))
+        if not review:
+            continue
+        for name in REVIEW_FIELDS:
+            if name in review:
+                row[name] = review[name]
+        row['training_label_ready'] = False
+        row.setdefault('first_public_disclosure_verified', False)
+        row.setdefault('corporate_action_review_complete', False)
+    write_rows(root / 'results/reviewed_cohort', 'events', events)
+    source_paths = ['data/event_review_overrides.json', 'results/research_cohort/event_cohort.json',
+                    'data/calendar/nyse_sessions.json']
+    manifest = dict(event_count=len(events), feature_rows=None,
+                    review_status_counts=dict(Counter(r['review_status'] for r in events)),
+                    price_status_counts=dict(Counter(r.get('price_qualification_status') for r in events)),
+                    training_ready_events=sum(r.get('training_label_ready') for r in events),
+                    source_sha256={p: hashlib.sha256((root/p).read_bytes()).hexdigest() for p in source_paths},
+                    notes=['Review fields refreshed offline from event_review_overrides.json.',
+                           'Price and option feature measurements were not requeryed.',
+                           'No event is training-ready.'])
+    prior = json.loads((root / 'results/reviewed_cohort/manifest.json').read_text())
+    for key in ('feature_rows', 'quote_screen'):
+        if key in prior:
+            manifest[key] = prior[key]
+    (root / 'results/reviewed_cohort/manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
+    lines = ['# Evidence-overlay cohort', '',
+             'Primary-source findings overlay the preserved earlier snapshots. Additional candidates '
+             'come from acquirer releases, independently of observed option activity. '
+             'Volume does not determine price qualification.', '',
+             '| Event | Price change | Price status | Valid feature days | Days with quote candidates | Review status |',
+             '| --- | ---: | ---: | ---: | ---: | --- |']
+    for r in events:
+        change = f"{r['close_return_pct']:.2f}%" if r.get('close_return_pct') is not None else 'unknown'
+        lines.append(f"| {r['event_id']} | {change} | {r.get('price_qualification_status')} | "
+                     f"{r.get('valid_feature_days', 0)} | {r.get('days_with_usable_quote_candidates', 0)} | "
+                     f"{r['review_status']} |")
+    lines += ['', 'Earlier-disclosure findings, conflicts, source URLs, and locators are preserved in '
+              'events.json. First-disclosure and corporate-action gates remain explicit; price-qualified '
+              'is not training-ready. Quote counts use fixed present-day research assumptions in manifest.json; '
+              'they are not validated historical liquidity or standard-contract eligibility.', '']
+    (root / 'results/reviewed_cohort/REPORT.md').write_text('\n'.join(lines))
+    return manifest
 
 
 def quote_sql():
@@ -119,5 +180,9 @@ def run(c, root=Path('.')):
 
 
 if __name__ == '__main__':
-    with connection() as c:
-        print(json.dumps(run(c), indent=2))
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == '--apply-reviews-only':
+        print(json.dumps(apply_saved_reviews(), indent=2))
+    else:
+        with connection() as c:
+            print(json.dumps(run(c), indent=2))

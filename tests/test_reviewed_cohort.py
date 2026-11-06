@@ -7,7 +7,7 @@ from unittest.mock import patch
 import pymysql
 
 from market_calendar import sessions
-from reviewed_cohort import inputs, run
+from reviewed_cohort import apply_saved_reviews, inputs, run
 
 
 class ReviewedCohortTests(unittest.TestCase):
@@ -59,4 +59,35 @@ class ReviewedCohortTests(unittest.TestCase):
                 result = run(c, root)
             self.assertTrue(c.rolled_back)
             self.assertEqual(result['price_status_counts'], {'query_failed': 1})
+            self.assertEqual(result['training_ready_events'], 0)
+
+    def test_apply_saved_reviews_updates_status_without_promoting_labels(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            folder = root/'results/reviewed_cohort'
+            folder.mkdir(parents=True)
+            (root/'data').mkdir()
+            (root/'results/research_cohort').mkdir(parents=True)
+            (root/'data/calendar').mkdir(parents=True)
+            events = [dict(symbol='XYZ', announcement_date='2020-01-02', event_id='XYZ:2020-01-02',
+                           review_status='first_disclosure_and_corporate_action_review_pending',
+                           training_label_ready=True, price_qualification_status='price_qualified',
+                           close_return_pct=20.0, valid_feature_days=3,
+                           days_with_usable_quote_candidates=1)]
+            (folder/'events.json').write_text(json.dumps(events))
+            (folder/'manifest.json').write_text(json.dumps(dict(feature_rows=3, quote_screen={})))
+            (root/'data/event_review_overrides.json').write_text(json.dumps(dict(
+                events=[dict(symbol='XYZ', announcement_date='2020-01-02',
+                             review_status='announcement_verified_earlier_disclosure_search_incomplete',
+                             finding='test', first_public_disclosure_verified=False,
+                             corporate_action_review_complete=False)],
+                additional_candidates=[])))
+            for name in ('results/research_cohort/event_cohort.json',
+                         'data/calendar/nyse_sessions.json'):
+                (root/name).write_text('[]')
+            result = apply_saved_reviews(root)
+            updated = json.loads((folder/'events.json').read_text())[0]
+            self.assertEqual(updated['review_status'],
+                             'announcement_verified_earlier_disclosure_search_incomplete')
+            self.assertFalse(updated['training_label_ready'])
             self.assertEqual(result['training_ready_events'], 0)

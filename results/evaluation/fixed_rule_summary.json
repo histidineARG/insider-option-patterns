@@ -1,0 +1,35 @@
+[
+  {
+    "rule": "volume_100_ratio_3",
+    "min_otm_call_volume": 100,
+    "min_ratio20": 3,
+    "eligible_observations": 1861,
+    "alert_observations": 113,
+    "alert_episodes": 84,
+    "labeled_observations": 0,
+    "labeled_alert_observations": 0,
+    "population_metrics_authorized": false
+  },
+  {
+    "rule": "volume_500_ratio_5",
+    "min_otm_call_volume": 500,
+    "min_ratio20": 5,
+    "eligible_observations": 1861,
+    "alert_observations": 48,
+    "alert_episodes": 40,
+    "labeled_observations": 0,
+    "labeled_alert_observations": 0,
+    "population_metrics_authorized": false
+  },
+  {
+    "rule": "volume_1000_ratio_10",
+    "min_otm_call_volume": 1000,
+    "min_ratio20": 10,
+    "eligible_observations": 1861,
+    "alert_observations": 17,
+    "alert_episodes": 15,
+    "labeled_observations": 0,
+    "labeled_alert_observations": 0,
+    "population_metrics_authorized": false
+  }
+]

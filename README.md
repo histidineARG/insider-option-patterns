@@ -41,10 +41,24 @@ not disqualify otherwise measurable price jumps. Labels remain unset.
 The newer [evidence-overlay cohort](results/reviewed_cohort/REPORT.md) preserves
 that snapshot and adds ITCI and SAGE from 2025 acquirer releases: 26 price-qualified
 candidates and 780 pre-event observations. `python3 reviewed_cohort.py` regenerates
-it using read-only queries. Source findings in `data/event_review_overrides.json`
-record earlier takeover reports, conflicting disclosure dates, price-source
-disagreements, and ADS terms. Quote-candidate counts are diagnostics; zero events
-are training-ready until first-disclosure and corporate-action reviews pass.
+it using read-only queries; `python3 reviewed_cohort.py --apply-reviews-only`
+refreshes review fields offline from `data/event_review_overrides.json` without
+requerying prices. Source findings record earlier takeover reports, conflicting
+disclosure dates, price-source disagreements, ADS terms, and announcement-session
+or press-time evidence for every candidate. Quote-candidate counts are diagnostics;
+zero events are training-ready until first-disclosure and corporate-action reviews
+pass.
+
+Run `python3 research_dataset.py` for the time-safe observation table with
+ten-session outcome boundaries, disclosure diagnostics, and purged chronological
+partitions frozen in `data/evaluation_protocol.json`. See the
+[observation audit](results/research_dataset/REPORT.md). Unknown labels stay null;
+empty `data/outcome_coverage_reviews.json` intentionally certifies no negatives.
+`python3 evaluation.py` builds fixed-rule alert episodes and logistic interfaces
+but blocks population metrics while evidence gates fail:
+[evaluation report](results/evaluation/REPORT.md).
+`python3 trading_assumptions.py` freezes conservative fill rules and reports
+blocked trading simulation: [trading assumptions](results/trading_assumptions/REPORT.md).
 
 Run `python3 background_sample.py` for a reproducible historical coverage pilot
 whose dates and symbols are selected independently of M&A outcomes. Its unlabeled
