@@ -22,6 +22,7 @@ REVIEW_FIELDS = (
     'post_event_ticker_notes', 'consideration_notes', 'corporate_action_items_reviewed',
     'corporate_action_notes',
     'first_public_disclosure_verified', 'corporate_action_review_complete',
+    'first_public_lower_utc', 'first_public_upper_utc',
     'announcement_session', 'issuer_cik', 'issuer', 'eligibility', 'date_verified',
     'discovery_basis',
     'price_action_vetting_status', 'price_action_notes', 'price_action_hazards')

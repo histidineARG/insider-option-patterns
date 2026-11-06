@@ -3,7 +3,8 @@
   "feature_rows": 1350,
   "review_status_counts": {
     "announcement_verified_price_source_conflict": 1,
-    "announcement_verified_earlier_disclosure_search_deepened": 25,
+    "announcement_verified_earlier_disclosure_search_deepened": 20,
+    "first_public_disclosure_verified": 5,
     "earlier_disclosure_found_before_definitive_announcement": 9,
     "prior_takeover_speculation_public": 1,
     "announcement_verified_ads_terms_reviewed": 1,
@@ -19,7 +20,7 @@
   },
   "training_ready_events": 0,
   "source_sha256": {
-    "data/event_review_overrides.json": "dffecbe859c68e9d0df21171165835633b1dba4da3e5103aae085053985beb29",
+    "data/event_review_overrides.json": "8d97b6c51e6e701c11c9901ffffa369a1477b0f9d454b11fd7349a8eb8fd62cc",
     "results/research_cohort/event_cohort.json": "9b743c7a79226e4d326976f00c9ae4ec9b2b0f7d9b2a0dae568095cfc72a1a1f",
     "data/calendar/nyse_sessions.json": "69f0ebd15bcea7e2e41609421c37ac8ab56a128709ff3476015239bd2e926fcd"
   },
