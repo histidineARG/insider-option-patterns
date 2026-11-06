@@ -3,7 +3,7 @@
 Policy: **keep 2/3/4**, **drop 1** (EDGAR 8-K Item 2.02), plus hard drops **sub-$5 / ETF / no-option**.
 
 Jumps (≥15%, vol≥2×): **2146**. With CIK map: **1004**.
-Cause counts: {'sub_5': 1266, 'unclassified': 571, '1_earnings': 224, '3_biotech_trial': 16, 'unclassified_other': 35, '2_ma_rumor_or_news': 9, 'etf': 25}.
-Filter counts: {'drop_sub_5': 1266, 'pending_news_review': 571, 'drop_earnings': 224, 'keep': 25, 'drop_other_not_234': 35, 'drop_etf': 25}.
+Cause counts: {'sub_5': 1266, 'unclassified': 568, '1_earnings': 224, '3_biotech_trial': 16, 'unclassified_other': 38, '2_ma_rumor_or_news': 9, 'etf': 25}.
+Filter counts: {'drop_sub_5': 1266, 'pending_news_review': 568, 'drop_earnings': 224, 'keep': 25, 'drop_other_not_234': 38, 'drop_etf': 25}.
 
 Pending rows still need news review for keep classes 2/3/4.
