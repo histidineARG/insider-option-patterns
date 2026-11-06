@@ -7,6 +7,7 @@ workflow. Signals prioritize investigation; they do not establish insider tradin
 or identify traders.
 
 Research design: [RESEARCH.md](RESEARCH.md).
+Current task, evidence gaps, and next target: [ROADMAP.md](ROADMAP.md).
 Agreed event selection, background population, validation, and trading evaluation:
 [METHODOLOGY.md](METHODOLOGY.md).
 The source-backed case registry is `data/sec_cases.json`; additional discovery
@@ -36,6 +37,14 @@ calendar-aware pre-event features. See the [cohort report](results/research_coho
 It includes 24 price-qualified, source/timing-reviewed candidates; corporate-action
 and first-public-disclosure checks remain pending. Missing volume baselines do
 not disqualify otherwise measurable price jumps. Labels remain unset.
+
+The newer [evidence-overlay cohort](results/reviewed_cohort/REPORT.md) preserves
+that snapshot and adds ITCI and SAGE from 2025 acquirer releases: 26 price-qualified
+candidates and 780 pre-event observations. `python3 reviewed_cohort.py` regenerates
+it using read-only queries. Source findings in `data/event_review_overrides.json`
+record earlier takeover reports, conflicting disclosure dates, price-source
+disagreements, and ADS terms. Quote-candidate counts are diagnostics; zero events
+are training-ready until first-disclosure and corporate-action reviews pass.
 
 Run `python3 background_sample.py` for a reproducible historical coverage pilot
 whose dates and symbols are selected independently of M&A outcomes. Its unlabeled

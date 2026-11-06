@@ -1,0 +1,106 @@
+{
+  "reviewed_as_of": "2026-11-06",
+  "scope": "Primary-source chronology findings; incomplete review is not evidence of no earlier disclosure. Original snapshots remain preserved.",
+  "events": [
+    {
+      "symbol": "ONXX", "announcement_date": "2013-06-30", "issuer_cik": "1012140",
+      "earlier_public_date_lower": "2013-06-28", "earlier_public_date_upper": "2013-06-28",
+      "earlier_public_session": "unknown", "review_status": "earlier_disclosure_time_unresolved",
+      "source": "https://www.sec.gov/Archives/edgar/data/1012140/000119312513354754/d589854dsc14d9.htm",
+      "locator": "Background of the Offer; June 28 Financial Post disclosure and June 30 response",
+      "finding": "Tender response describes a late-afternoon June 28 public report of Amgen's proposal. June 30 is the issuer response, not the first known public report. Exact market-relative time remains unresolved.",
+      "first_public_disclosure_verified": false, "corporate_action_review_complete": false
+    },
+    {
+      "symbol": "CNQR", "announcement_date": "2014-09-18", "issuer_cik": "1066026",
+      "earlier_public_date_lower": "2014-09-02", "earlier_public_date_upper": "2014-09-03",
+      "earlier_public_session": "after_close", "review_status": "conflicting_primary_disclosure_dates",
+      "source": "https://www.sec.gov/Archives/edgar/data/1066026/000119312514371106/d797082ddefm14a.htm",
+      "locator": "Background of the Merger; September 2 Bloomberg sale report",
+      "conflicting_source": "https://www.sec.gov/files/litigation/complaints/2016/comp23571.pdf",
+      "conflicting_locator": "Paragraph 36 gives September 3 at approximately 4:07 p.m. EDT",
+      "finding": "The proxy dates the public sale report to September 2 after close, while the SEC complaint dates it September 3. Use the earlier boundary for conservative disclosure contamination; do not silently resolve the conflict.",
+      "first_public_disclosure_verified": false, "corporate_action_review_complete": false
+    },
+    {
+      "symbol": "KRFT", "announcement_date": "2015-03-25", "issuer_cik": "1545158",
+      "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
+      "source": "https://www.sec.gov/Archives/edgar/data/1637459/000119312515126301/d898418ds4.htm",
+      "locator": "Background of the Merger; March 24 signing and March 25 pre-NASDAQ-opening release",
+      "finding": "Execution and public announcement are separate dates. The special dividend is part of consideration and must not be treated as a pre-announcement realized trading receipt.",
+      "first_public_disclosure_verified": false, "corporate_action_review_complete": false
+    },
+    {
+      "symbol": "ADT", "announcement_date": "2016-02-16", "issuer_cik": "1546640",
+      "review_status": "announcement_verified_price_source_conflict",
+      "source": "https://www.sec.gov/Archives/edgar/data/1546640/000119312516517524/d141890ddefm14a.htm",
+      "locator": "Background of the Merger; February 16 before NYSE trading; approximately 56% offer premium",
+      "conflicting_source": "https://www.sec.gov/file/sec-complaint-1426",
+      "conflicting_locator": "Paragraph 10 quotes prior close 26.40 versus local 26.87",
+      "finding": "The contemporaneous proxy's rounded offer premium is compatible with the local prior close. A later complaint instead quotes 26.40. Preserve the disagreement; no correction to raw prices is inferred. This is the 2016 issuer, not the later ADT listing.",
+      "first_public_disclosure_verified": false, "corporate_action_review_complete": false
+    },
+    {
+      "symbol": "VRTU", "announcement_date": "2020-09-10", "issuer_cik": "1207074",
+      "earlier_public_date_upper": "2020-08-30", "earlier_public_date_lower": null,
+      "earlier_public_session": "unknown", "review_status": "earlier_rumors_exist_start_unknown",
+      "source": "https://www.sec.gov/Archives/edgar/data/1207074/000110465920112749/tm2032423-1_prem14a.htm",
+      "locator": "Background of the Merger; August 30 inquiry about market rumors and September 10 pre-open release",
+      "finding": "A potential counterparty inquired about market rumors on August 30. The filing does not establish when a public report first appeared. Do not infer August 30 is the first disclosure or approve earlier feature dates.",
+      "first_public_disclosure_verified": false, "corporate_action_review_complete": false
+    },
+    {
+      "symbol": "GSKY", "announcement_date": "2021-09-15", "issuer_cik": "1712923",
+      "earlier_public_date_upper": "2020-08-10", "earlier_public_date_lower": null,
+      "review_status": "prior_strategic_process_requires_scope_review",
+      "source": "https://www.sec.gov/files/litigation/complaints/2021/comp-pr2021-230.pdf",
+      "locator": "Paragraphs 34-35; public end of strategic review August 10, 2020, and renewed private talks May 29, 2021",
+      "finding": "An older publicly disclosed strategic process ended without agreement. Whether the later transaction represents a new disclosure episode requires an explicit review; an old process alone does not establish a 2021 leak.",
+      "first_public_disclosure_verified": false, "corporate_action_review_complete": false
+    },
+    {
+      "symbol": "RETA", "announcement_date": "2023-07-28", "issuer_cik": "1358762",
+      "earlier_public_date_lower": "2023-07-27", "earlier_public_date_upper": "2023-07-27",
+      "earlier_public_session": "unknown", "review_status": "earlier_disclosure_time_unresolved",
+      "source": "https://www.sec.gov/files/litigation/complaints/2026/comp26458.pdf",
+      "locator": "Paragraphs 291-292",
+      "finding": "The complaint alleges a July 27 public takeover-speculation item. Its original publication timestamp remains unverified. This is an allegation in a complaint, not an adjudicated finding.",
+      "first_public_disclosure_verified": false, "corporate_action_review_complete": false
+    },
+    {
+      "symbol": "CALT", "announcement_date": "2024-05-28", "issuer_cik": "1795579",
+      "review_status": "announcement_verified_ads_terms_reviewed",
+      "source": "https://www.sec.gov/Archives/edgar/data/1795579/000110465924065344/tm2415658d1_sc14d9c.htm",
+      "locator": "Offer announcement; ADS representation and consideration",
+      "finding": "US-listed ADSs represent two Swedish common shares. SEK 208 per ordinary share is SEK 416 per ADS, with USD conversion at settlement. Do not compare local ADS prices directly with ordinary-share SEK consideration.",
+      "first_public_disclosure_verified": false, "corporate_action_review_complete": false
+    }
+  ],
+  "additional_candidates": [
+    {
+      "symbol": "ITCI", "issuer": "Intra-Cellular Therapies", "issuer_cik": "1567514",
+      "announcement_date": "2025-01-13", "announcement_session": "before_open",
+      "date_verified": true, "eligibility": "target_evidence_reviewed",
+      "source": "https://www.investor.jnj.com/investor-news/news-details/2025/Johnson--Johnson-Strengthens-Neuroscience-Leadership-with-Acquisition-of-Intra-Cellular-Therapies-Inc/default.aspx",
+      "locator": "January 13 announcement; NASDAQ ITCI, 132 dollars cash per share",
+      "timing_source": "https://www.sec.gov/Archives/edgar/data/1567514/000119312525005389/d896317ddefa14a.htm",
+      "timing_locator": "Internal CEO message release date January 13 at 6:30 a.m. ET; acquisition announced early that morning",
+      "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
+      "first_public_disclosure_verified": false, "corporate_action_review_complete": false,
+      "discovery_basis": "Acquirer primary release, independent of local option activity"
+    },
+    {
+      "symbol": "SAGE", "issuer": "Sage Therapeutics", "issuer_cik": "1597553",
+      "announcement_date": "2025-06-16", "announcement_session": "before_open",
+      "date_verified": true, "eligibility": "target_evidence_reviewed",
+      "source": "https://ir.supernus.com/node/15251/pdf",
+      "locator": "June 16 acquisition release and 8:30 a.m. Eastern conference call",
+      "earlier_public_date_lower": "2025-01-10", "earlier_public_date_upper": "2025-01-10",
+      "earlier_public_session": "unknown", "review_status": "prior_competing_bid_public",
+      "earlier_source": "https://www.sec.gov/Archives/edgar/data/1597553/000119312525004907/d907988dex993.htm",
+      "earlier_locator": "Sage confirms public Biogen acquisition proposal January 10, 2025",
+      "first_public_disclosure_verified": false, "corporate_action_review_complete": false,
+      "discovery_basis": "Acquirer primary release, independent of local option activity"
+    }
+  ]
+}
