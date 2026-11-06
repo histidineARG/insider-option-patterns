@@ -1,7 +1,7 @@
 {
   "as_of": "2016-12-31",
   "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
-  "tranche": "ge20_final27",
+  "tranche": "ge15_first20",
   "reviews": [
     {
       "symbol": "ERII",
@@ -4212,6 +4212,206 @@
       "news_filter": "drop_other_not_234",
       "detail": "Iron Mountain REIT conversion / IRS PLR and distribution guidance. Corporate-structure/financing, not keep 2/3/4.",
       "locator": "https://investors.ironmountain.com/news/news-details/2014/Iron-Mountain-REIT-Conversion-to-Enhance-Stockholder-Returns/default.aspx"
+    },
+    {
+      "symbol": "XONE",
+      "qdate": "2015-11-25",
+      "close_return": 0.2,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 PR for ExOne (Thanksgiving week 3D-print sector move). Unclassified.",
+      "locator": "https://exa.ai/library/markets/stock/XONE?date=2015-11-25&view=daily"
+    },
+    {
+      "symbol": "MMYT",
+      "qdate": "2014-05-21",
+      "close_return": 0.1999,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for MakeMyTrip. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/MMYT?date=2014-05-21&view=daily"
+    },
+    {
+      "symbol": "XLRN",
+      "qdate": "2016-11-09",
+      "close_return": 0.1993,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Acceleron jumped with broad post-election biotech rally. Macro/sector, not company keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/XLRN?date=2016-11-09&view=daily"
+    },
+    {
+      "symbol": "CMRE",
+      "qdate": "2016-01-28",
+      "close_return": 0.1991,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Costamare Q4/year-end results (~Jan 27). Earnings/shipping rates, not keep 2/3/4.",
+      "locator": "https://www.costamare.com/news/2016-news-releases"
+    },
+    {
+      "symbol": "AKBA",
+      "qdate": "2015-06-22",
+      "close_return": 0.199,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "JMP Securities initiated coverage Market Outperform/$24 PT. Analyst initiation, not keep 2/3/4.",
+      "locator": "https://uk.finance.yahoo.com/news/buzz-u-stocks-move-housing-162822477.html"
+    },
+    {
+      "symbol": "CARA",
+      "qdate": "2015-07-23",
+      "close_return": 0.1989,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Positive Phase 2 I.V. CR845 results in uremic pruritus (54% greater itch reduction vs placebo). Class-3 trial keep.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1346830/000119312515261260/d18018d8k.htm"
+    },
+    {
+      "symbol": "ATHN",
+      "qdate": "2013-07-12",
+      "close_return": 0.1985,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for athenahealth. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/ATHN?date=2013-07-12&view=daily"
+    },
+    {
+      "symbol": "MITL",
+      "qdate": "2016-07-08",
+      "close_return": 0.1977,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Polycom terminated Mitel merger for Siris bid; Mitel rose on $60M break fee / not issuing equity as abandoned acquirer. Not target M&A keep-2.",
+      "locator": "https://www.cnbc.com/2016/07/08/polycom-mitel-shares-soar-after-acquisition-is-terminated.html"
+    },
+    {
+      "symbol": "MOMO",
+      "qdate": "2016-02-23",
+      "close_return": 0.1976,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Momo. Unclassified China internet move, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/MOMO?date=2016-02-23&view=daily"
+    },
+    {
+      "symbol": "HOG",
+      "qdate": "2016-07-01",
+      "close_return": 0.1976,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Buyout chatter that KKR could be interested in Harley-Davidson; ~18\u201320% same-day spike. Confirmed M&A-process rumor keep-2.",
+      "locator": "https://www.foxbusiness.com/markets/harley-davidsons-stock-rockets-on-heavy-volume-amid-reports-of-buyout-interest"
+    },
+    {
+      "symbol": "SUPN",
+      "qdate": "2016-02-05",
+      "close_return": 0.1974,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 catalyst for Supernus (commercial momentum / unclear). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/SUPN?date=2016-02-05&view=daily"
+    },
+    {
+      "symbol": "BV",
+      "qdate": "2014-03-05",
+      "close_return": 0.1973,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Brightcove. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/BV?date=2014-03-05&view=daily"
+    },
+    {
+      "symbol": "HSII",
+      "qdate": "2013-06-03",
+      "close_return": 0.1971,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Heidrick & Struggles. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/HSII?date=2013-06-03&view=daily"
+    },
+    {
+      "symbol": "EMKR",
+      "qdate": "2016-04-13",
+      "close_return": 0.1969,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for EMCORE. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/EMKR?date=2016-04-13&view=daily"
+    },
+    {
+      "symbol": "EVH",
+      "qdate": "2016-07-13",
+      "close_return": 0.1965,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Evolent Health. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/EVH?date=2016-07-13&view=daily"
+    },
+    {
+      "symbol": "VNDA",
+      "qdate": "2013-05-17",
+      "close_return": 0.1964,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR for Vanda (Hetlioz approval was Jan 2014). Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/VNDA?date=2013-05-17&view=daily"
+    },
+    {
+      "symbol": "CYBR",
+      "qdate": "2016-01-13",
+      "close_return": 0.1964,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Report that CyberArk was a potential acquisition target; ~19% spike. Confirmed M&A rumor keep-2.",
+      "locator": "https://www.proactiveinvestors.com/companies/news/121305/us-risers-fallers-shaw-communications-arno-cyberark-qunar-supervalu-delmar-121305.html"
+    },
+    {
+      "symbol": "LXU",
+      "qdate": "2016-03-18",
+      "close_return": 0.1961,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "LSB Industries industrial/chemicals move; no confirmed keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/LXU?date=2016-03-18&view=daily"
+    },
+    {
+      "symbol": "INO",
+      "qdate": "2015-03-16",
+      "close_return": 0.196,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep-2/3/4 trial/regulatory PR for Inovio. Unclassified, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/INO?date=2015-03-16&view=daily"
+    },
+    {
+      "symbol": "GLNG",
+      "qdate": "2015-05-05",
+      "close_return": 0.1958,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Golar LNG shipping/LNG commodity move; no confirmed keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/GLNG?date=2015-05-05&view=daily"
     }
   ]
 }
