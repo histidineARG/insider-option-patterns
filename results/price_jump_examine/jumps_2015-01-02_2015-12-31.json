@@ -2379,14 +2379,16 @@
     "vol_ratio": 11.143829986215156,
     "cik": "0001517228",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/COMM?date=2015-01-27&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for COMM. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CRRC",
@@ -4199,14 +4201,16 @@
     "vol_ratio": 5.022456986390944,
     "cik": "0001094348",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MATR?date=2015-02-09&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for MATR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "QTWW",
@@ -5776,14 +5780,16 @@
     "vol_ratio": 2.72391556078819,
     "cik": "0001837997",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ISLE?date=2015-02-25&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ISLE. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "KWKA",
@@ -8245,14 +8251,16 @@
     "vol_ratio": 5.364731758630582,
     "cik": "0000815094",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ABMD?date=2015-03-24&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ABMD. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ORMP",
@@ -8692,14 +8700,16 @@
     "vol_ratio": 5.131506312020575,
     "cik": "0001492426",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/1386858/000119312515112089/d899299d8k.htm",
+    "news_detail": "Horizon Pharma agreed to acquire Hyperion; Horizon is the acquirer/buyer. Acquirer-side M&A, not target keep-2."
   },
   {
     "symbol": "REFR",
@@ -9473,14 +9483,16 @@
     "vol_ratio": 4.462410689614337,
     "cik": "0000718937",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/STAA?date=2015-04-09&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for STAA. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "NPD",
@@ -9599,14 +9611,16 @@
     "vol_ratio": 5.889526801350448,
     "cik": "0001463972",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/VUZI?date=2015-04-10&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for VUZI. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "QTM",
@@ -15292,14 +15306,16 @@
     "vol_ratio": 2.4182316599129003,
     "cik": "0000899460",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MNKD?date=2015-06-08&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for MNKD. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "POZN",
@@ -17206,14 +17222,16 @@
     "vol_ratio": 7.816442254688722,
     "cik": "0001158114",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/AAOI?date=2015-07-13&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for AAOI. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ANAC",
@@ -26942,14 +26960,16 @@
     "vol_ratio": 5.790725233497891,
     "cik": "0001528356",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GNE?date=2015-10-08&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for GNE. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "MG",
@@ -31623,14 +31643,16 @@
     "vol_ratio": 2.6191171494039174,
     "cik": "0001563411",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/CSTM?date=2015-11-12&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for CSTM. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ASTI",
@@ -31875,14 +31897,16 @@
     "vol_ratio": 3.240634643710237,
     "cik": "0000928054",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/FTK?date=2015-11-17&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for FTK. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "AVXL",
@@ -36191,14 +36215,16 @@
     "vol_ratio": 2.8575246641458163,
     "cik": "0001463972",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/VUZI?date=2015-12-30&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for VUZI. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "GSI",

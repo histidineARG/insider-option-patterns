@@ -876,14 +876,16 @@
     "vol_ratio": 2.5627773427303575,
     "cik": "0000807707",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/VOXX?date=2013-01-10&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for VOXX. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "BBY",
@@ -2547,14 +2549,16 @@
     "vol_ratio": 4.431201841288902,
     "cik": "0000943861",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GDP?date=2013-02-06&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for GDP. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "IGOI",
@@ -15879,14 +15883,16 @@
     "vol_ratio": 6.834924001413927,
     "cik": "0001481513",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/JKS?date=2013-07-15&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for JKS. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LDK",
@@ -22154,14 +22160,16 @@
     "vol_ratio": 10.393409060890239,
     "cik": "0000873303",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SRPT?date=2013-09-20&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SRPT. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SSTK",
@@ -23172,14 +23180,16 @@
     "vol_ratio": 2.1598486168861886,
     "cik": "0001285819",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.prnewswire.com/news-releases/omeros-unlocks-six-additional-class-a-orphan-gpcrs-and-identifies-small-molecules-targeting-two-commercially-validated-class-b-gpcrs-226279611.html",
+    "news_detail": "Omeros GPCR unlock PR + insurance litigation settlement. Preclinical platform/litigation, not keep 2/3/4."
   },
   {
     "symbol": "ONCY",
@@ -24965,14 +24975,16 @@
     "vol_ratio": 3.3849963583394027,
     "cik": "0000002809",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/AEM?date=2013-10-24&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for AEM. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "AMPE",
@@ -29315,14 +29327,16 @@
     "vol_ratio": 6.850483638608767,
     "cik": "0001320414",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SEM?date=2013-12-11&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SEM. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ATPAQ",
@@ -29571,14 +29585,16 @@
     "vol_ratio": 6.121079258010118,
     "cik": "0001523836",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/LITB?date=2013-12-16&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for LITB. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LSI",
@@ -29845,15 +29861,17 @@
     "prev_volume": 624200.0,
     "vol_ratio": 4.551105414931111,
     "cik": "0001285819",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://omeros.gcs-web.com/press-releases",
+    "news_detail": "FDA granted orphan drug designation to OMS721 for complement-mediated TMAs. Class-3 regulatory keep."
   },
   {
     "symbol": "SYNM",
@@ -30287,14 +30305,16 @@
     "vol_ratio": 5.42819947927098,
     "cik": "0001113256",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MTOR?date=2013-12-23&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for MTOR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "PAL",
@@ -31662,14 +31682,16 @@
     "vol_ratio": 4.380390711389605,
     "cik": "0001826889",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/FRX?date=2014-01-08&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for FRX. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "GALE",
@@ -36053,14 +36075,16 @@
     "vol_ratio": 11.853254552499031,
     "cik": "0000832988",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SIG?date=2014-02-19&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for SIG. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ZLC",
@@ -39275,14 +39299,16 @@
     "vol_ratio": 4.559736312657849,
     "cik": "0001021561",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/NUS?date=2014-03-24&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for NUS. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "BLDP",
@@ -40547,14 +40573,16 @@
     "vol_ratio": 3.940962761126249,
     "cik": "0001050446",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/MSTR?date=2014-04-24&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for MSTR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "PBH",
@@ -40568,14 +40596,16 @@
     "vol_ratio": 3.4368475991649268,
     "cik": "0001295947",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/PBH?date=2014-04-25&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for PBH. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "VDSI",
@@ -56420,14 +56450,16 @@
     "vol_ratio": 7.8531242868553175,
     "cik": "0001849574",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ABCO?date=2014-12-11&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for ABCO. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LJPC",
@@ -56441,14 +56473,16 @@
     "vol_ratio": 4.442613510072945,
     "cik": "0000920465",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/LJPC?date=2014-12-11&view=daily",
+    "news_detail": "No confirmed same-day keep-2/3/4 PR for LJPC. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "TGTX",
