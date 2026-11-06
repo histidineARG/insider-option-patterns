@@ -26,9 +26,9 @@ Deep mode requeries OHLCV around each event and reports pre-announcement drift, 
 | LF:2016-02-05 | 70.18% | 66.67% | -10.94% | -19.72% | 39.73x | n/a | jump_ok | reaction_mostly_overnight_gap |
 | ADT:2016-02-16 | 47.53% | 51.17% | -3.93% | -11.55% | 22.49x | n/a | jump_ok_price_source_conflict | ge_10pct_single_day_move_in_pre20, reaction_mostly_overnight_gap |
 | CKP:2016-03-02 | 29.28% | 27.12% | 19.36% | 23.47% | 72.10x | n/a | jump_ok | strong_5d_pre_drift_ge_10pct, strong_20d_pre_drift_ge_20pct, previous_session_abs_move_ge_5pct, reaction_mostly_overnight_gap |
-| VAL:2016-03-20 | 23.17% | 25.24% | 2.43% | 8.79% | 21.35x | n/a | jump_ok | reaction_mostly_overnight_gap |
+| VAL:2016-03-20 | 23.17% | 25.24% | 2.43% | 8.79% | 21.35x | n/a | jump_ok_gap_may_include_earlier_public | reaction_mostly_overnight_gap |
 | RKUS:2016-04-04 | 32.40% | 32.00% | 6.50% | 0.20% | 59.56x | n/a | jump_ok | reaction_mostly_overnight_gap |
-| VA:2016-04-04 | 41.67% | 40.08% | 13.84% | 27.92% | 14.71x | n/a | jump_ok | strong_5d_pre_drift_ge_10pct, strong_20d_pre_drift_ge_20pct, ge_10pct_single_day_move_in_pre20, reaction_mostly_overnight_gap |
+| VA:2016-04-04 | 41.67% | 40.08% | 13.84% | 27.92% | 14.71x | n/a | jump_ok_earlier_public_before_measured_window | strong_5d_pre_drift_ge_10pct, strong_20d_pre_drift_ge_20pct, ge_10pct_single_day_move_in_pre20, earlier_public_upper_session_abs_ge_5pct, reaction_mostly_overnight_gap |
 | AFOP:2016-04-07 | 19.34% | 19.21% | 4.53% | 19.38% | 45.92x | 19.66% | jump_ok | reaction_mostly_overnight_gap |
 | LNKD:2016-06-13 | 46.64% | 48.22% | -2.95% | 3.29% | 15.37x | 49.53% | jump_ok | reaction_mostly_overnight_gap |
 | JOY:2016-07-21 | 19.75% | 17.45% | -0.04% | 8.08% | 9.06x | 20.17% | jump_ok | reaction_mostly_overnight_gap |
