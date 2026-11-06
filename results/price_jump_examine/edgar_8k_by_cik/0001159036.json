@@ -1,0 +1,4754 @@
+[
+  {
+    "form": "8-K",
+    "items": "4,7",
+    "filing_date": "2002-11-12",
+    "acceptance_datetime": "2002-11-12T18:04:53.000Z",
+    "report_date": "2002-11-11",
+    "accession": "0001163765-02-000459",
+    "primary_document": "global_8k-111102.txt",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=4,7; accession=0001163765-02-000459"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2003-12-05",
+    "acceptance_datetime": "2003-12-05T21:07:02.000Z",
+    "report_date": "2003-12-05",
+    "accession": "0001137091-03-000297",
+    "primary_document": "global8k.txt",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5; accession=0001137091-03-000297"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2004-02-12",
+    "acceptance_datetime": "2004-02-12T02:24:58.000Z",
+    "report_date": "2004-01-28",
+    "accession": "0001144204-04-001248",
+    "primary_document": "form8k.txt",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5; accession=0001144204-04-001248"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2004-03-12",
+    "acceptance_datetime": "2004-03-12T21:31:17.000Z",
+    "report_date": "2004-03-10",
+    "accession": "0001144204-04-002877",
+    "primary_document": "v01994_8k.txt",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7,9; accession=0001144204-04-002877"
+  },
+  {
+    "form": "8-K",
+    "items": "4,7",
+    "filing_date": "2004-03-17",
+    "acceptance_datetime": "2004-03-16T23:18:09.000Z",
+    "report_date": "2004-03-12",
+    "accession": "0001144204-04-003080",
+    "primary_document": "form8k.txt",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=4,7; accession=0001144204-04-003080"
+  },
+  {
+    "form": "8-K",
+    "items": "1,7",
+    "filing_date": "2004-03-26",
+    "acceptance_datetime": "2004-03-26T11:11:35.000Z",
+    "report_date": "2004-03-11",
+    "accession": "0001144204-04-003560",
+    "primary_document": "v02201_8k.txt",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1,7; accession=0001144204-04-003560"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2004-04-06",
+    "acceptance_datetime": "2004-04-06T17:48:31.000Z",
+    "report_date": "2004-04-06",
+    "accession": "0001144204-04-004399",
+    "primary_document": "v02501.txt",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5,7; accession=0001144204-04-004399"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1,7",
+    "filing_date": "2004-05-20",
+    "acceptance_datetime": "2004-05-20T13:27:18.000Z",
+    "report_date": "2004-03-11",
+    "accession": "0001144204-04-007322",
+    "primary_document": "v03378.txt",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1,7; accession=0001144204-04-007322"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2004-05-24",
+    "acceptance_datetime": "2004-05-24T15:11:43.000Z",
+    "report_date": "2004-05-21",
+    "accession": "0001144204-04-007471",
+    "primary_document": "v03638.txt",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5,7; accession=0001144204-04-007471"
+  },
+  {
+    "form": "8-K",
+    "items": "12,5,7",
+    "filing_date": "2004-08-16",
+    "acceptance_datetime": "2004-08-16T21:27:09.000Z",
+    "report_date": "2004-08-16",
+    "accession": "0000950137-04-006885",
+    "primary_document": "a01296e8vk.txt",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=12,5,7; accession=0000950137-04-006885"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,9.01",
+    "filing_date": "2004-10-15",
+    "acceptance_datetime": "2004-10-15T20:07:41.000Z",
+    "report_date": "2004-10-15",
+    "accession": "0000950137-04-008612",
+    "primary_document": "a02422e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=3.02,9.01; accession=0000950137-04-008612"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2004-10-28",
+    "acceptance_datetime": "2004-10-28T18:52:08.000Z",
+    "report_date": "2004-10-28",
+    "accession": "0001299933-04-001461",
+    "primary_document": "htm_1494.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-04-001461"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2004-11-12",
+    "acceptance_datetime": "2004-11-12T11:05:55.000Z",
+    "report_date": "2004-11-12",
+    "accession": "0000950134-04-017163",
+    "primary_document": "a03281e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950134-04-017163"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2004-11-12",
+    "acceptance_datetime": "2004-11-12T19:35:01.000Z",
+    "report_date": "2004-11-12",
+    "accession": "0000950137-04-009868",
+    "primary_document": "a03367e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950137-04-009868"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2004-12-14",
+    "acceptance_datetime": "2004-12-14T21:05:39.000Z",
+    "report_date": "2004-12-14",
+    "accession": "0000950137-04-011027",
+    "primary_document": "a03992e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.03,9.01; accession=0000950137-04-011027"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2005-01-28",
+    "acceptance_datetime": "2005-01-28T18:44:38.000Z",
+    "report_date": "2005-01-28",
+    "accession": "0000950137-05-000841",
+    "primary_document": "a05090e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950137-05-000841"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-02-22",
+    "acceptance_datetime": "2005-02-19T00:49:28.000Z",
+    "report_date": "2005-02-18",
+    "accession": "0000950137-05-002025",
+    "primary_document": "a05968e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950137-05-002025"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-03-09",
+    "acceptance_datetime": "2005-03-09T19:47:03.000Z",
+    "report_date": "2005-03-09",
+    "accession": "0000950137-05-002815",
+    "primary_document": "a06694e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950137-05-002815"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-03-28",
+    "acceptance_datetime": "2005-03-28T16:00:19.000Z",
+    "report_date": "2005-03-28",
+    "accession": "0000936392-05-000070",
+    "primary_document": "a07301e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0000936392-05-000070"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-03-30",
+    "acceptance_datetime": "2005-03-30T21:37:17.000Z",
+    "report_date": "2005-03-30",
+    "accession": "0000950137-05-003895",
+    "primary_document": "a07381e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950137-05-003895"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-04-19",
+    "acceptance_datetime": "2005-04-19T20:51:07.000Z",
+    "report_date": "2005-04-19",
+    "accession": "0000950137-05-004600",
+    "primary_document": "a08079e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950137-05-004600"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-05-13",
+    "acceptance_datetime": "2005-05-13T16:26:51.000Z",
+    "report_date": "2005-05-13",
+    "accession": "0000950137-05-005932",
+    "primary_document": "a09193e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950137-05-005932"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-05-26",
+    "acceptance_datetime": "2005-05-26T20:07:03.000Z",
+    "report_date": "2005-05-26",
+    "accession": "0000950137-05-006571",
+    "primary_document": "a09560e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950137-05-006571"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-07-01",
+    "acceptance_datetime": "2005-07-01T10:02:31.000Z",
+    "report_date": "2005-07-01",
+    "accession": "0000950134-05-012780",
+    "primary_document": "a10366e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950134-05-012780"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,5.03,9.01",
+    "filing_date": "2005-07-06",
+    "acceptance_datetime": "2005-07-06T20:41:37.000Z",
+    "report_date": "2005-06-29",
+    "accession": "0000950137-05-008422",
+    "primary_document": "a10497e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,5.02,5.03,9.01; accession=0000950137-05-008422"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-08-08",
+    "acceptance_datetime": "2005-08-08T17:24:45.000Z",
+    "report_date": "2005-08-08",
+    "accession": "0000950137-05-009774",
+    "primary_document": "a11577e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950137-05-009774"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-08-12",
+    "acceptance_datetime": "2005-08-12T19:36:07.000Z",
+    "report_date": "2005-08-12",
+    "accession": "0000936392-05-000243",
+    "primary_document": "a11772e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0000936392-05-000243"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-11-16",
+    "acceptance_datetime": "2005-11-16T20:28:47.000Z",
+    "report_date": "2005-11-11",
+    "accession": "0000936392-05-000397",
+    "primary_document": "a14674e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000936392-05-000397"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2005-11-29",
+    "acceptance_datetime": "2005-11-29T17:49:46.000Z",
+    "report_date": "2005-11-28",
+    "accession": "0000950137-05-014320",
+    "primary_document": "a14857e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950137-05-014320"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-12-05",
+    "acceptance_datetime": "2005-12-05T13:16:25.000Z",
+    "report_date": "2005-12-02",
+    "accession": "0000950134-05-022578",
+    "primary_document": "a15097e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950134-05-022578"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2005-12-09",
+    "acceptance_datetime": "2005-12-09T13:00:39.000Z",
+    "report_date": "2005-12-08",
+    "accession": "0000950134-05-022867",
+    "primary_document": "a15284e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01; accession=0000950134-05-022867"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-12-13",
+    "acceptance_datetime": "2005-12-13T13:16:42.000Z",
+    "report_date": "2005-12-12",
+    "accession": "0000950134-05-023047",
+    "primary_document": "a15375e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950134-05-023047"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-12-14",
+    "acceptance_datetime": "2005-12-14T11:03:11.000Z",
+    "report_date": "2005-12-13",
+    "accession": "0000950134-05-023116",
+    "primary_document": "a15419e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950134-05-023116"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2005-12-16",
+    "acceptance_datetime": "2005-12-16T21:14:53.000Z",
+    "report_date": "2005-12-16",
+    "accession": "0000950137-05-015034",
+    "primary_document": "a15571e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01; accession=0000950137-05-015034"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2005-12-21",
+    "acceptance_datetime": "2005-12-21T13:15:34.000Z",
+    "report_date": "2005-12-15",
+    "accession": "0000950134-05-023570",
+    "primary_document": "a15692e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0000950134-05-023570"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-01-12",
+    "acceptance_datetime": "2006-01-11T22:47:33.000Z",
+    "report_date": "2006-01-09",
+    "accession": "0000950137-06-000309",
+    "primary_document": "a15886e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950137-06-000309"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2006-02-01",
+    "acceptance_datetime": "2006-02-01T11:06:31.000Z",
+    "report_date": "2006-02-01",
+    "accession": "0000950134-06-001580",
+    "primary_document": "a16625e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950134-06-001580"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2006-02-08",
+    "acceptance_datetime": "2006-02-08T21:17:23.000Z",
+    "report_date": "2006-02-08",
+    "accession": "0000936392-06-000093",
+    "primary_document": "a17175e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000936392-06-000093"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,9.01",
+    "filing_date": "2006-03-24",
+    "acceptance_datetime": "2006-03-24T19:57:12.000Z",
+    "report_date": "2006-03-21",
+    "accession": "0000936392-06-000267",
+    "primary_document": "a19017e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.02,9.01; accession=0000936392-06-000267"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,5.03,9.01",
+    "filing_date": "2006-05-08",
+    "acceptance_datetime": "2006-05-08T12:15:19.000Z",
+    "report_date": "2006-05-04",
+    "accession": "0000950134-06-009001",
+    "primary_document": "a20222e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,3.03,5.03,9.01; accession=0000950134-06-009001"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-05-10",
+    "acceptance_datetime": "2006-05-10T15:32:27.000Z",
+    "report_date": "2006-05-10",
+    "accession": "0000936392-06-000478",
+    "primary_document": "a20481e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000936392-06-000478"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2006-06-28",
+    "acceptance_datetime": "2006-06-28T12:01:15.000Z",
+    "report_date": "2006-06-28",
+    "accession": "0000950134-06-012253",
+    "primary_document": "a21678e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950134-06-012253"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01,9.01",
+    "filing_date": "2006-06-29",
+    "acceptance_datetime": "2006-06-29T20:03:13.000Z",
+    "report_date": "2006-06-28",
+    "accession": "0000936392-06-000670",
+    "primary_document": "a21830e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=4.01,9.01; accession=0000936392-06-000670"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,9.01",
+    "filing_date": "2006-07-31",
+    "acceptance_datetime": "2006-07-31T17:07:49.000Z",
+    "report_date": "2006-07-27",
+    "accession": "0000936392-06-000738",
+    "primary_document": "a22507e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,5.03,9.01; accession=0000936392-06-000738"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-08-08",
+    "acceptance_datetime": "2006-08-08T01:33:08.000Z",
+    "report_date": "2006-08-04",
+    "accession": "0000936392-06-000772",
+    "primary_document": "a22649e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000936392-06-000772"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-08-09",
+    "acceptance_datetime": "2006-08-09T15:00:46.000Z",
+    "report_date": "2006-08-09",
+    "accession": "0000936392-06-000783",
+    "primary_document": "a22846e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0000936392-06-000783"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-08-10",
+    "acceptance_datetime": "2006-08-10T15:00:06.000Z",
+    "report_date": "2006-08-10",
+    "accession": "0000936392-06-000798",
+    "primary_document": "a22937e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000936392-06-000798"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2006-08-16",
+    "acceptance_datetime": "2006-08-16T12:00:39.000Z",
+    "report_date": "2006-08-11",
+    "accession": "0000950134-06-016317",
+    "primary_document": "a23104e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01; accession=0000950134-06-016317"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2006-09-25",
+    "acceptance_datetime": "2006-09-25T20:31:34.000Z",
+    "report_date": "2006-09-19",
+    "accession": "0000936392-06-000905",
+    "primary_document": "a23870e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=3.02; accession=0000936392-06-000905"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-11-13",
+    "acceptance_datetime": "2006-11-13T14:02:06.000Z",
+    "report_date": "2006-11-13",
+    "accession": "0000950134-06-021317",
+    "primary_document": "a25109e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-06-021317"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02",
+    "filing_date": "2006-12-11",
+    "acceptance_datetime": "2006-12-11T21:02:43.000Z",
+    "report_date": "2006-12-11",
+    "accession": "0000936392-06-001098",
+    "primary_document": "a25762e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,3.02; accession=0000936392-06-001098"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2006-12-15",
+    "acceptance_datetime": "2006-12-15T21:17:17.000Z",
+    "report_date": "2006-12-05",
+    "accession": "0000936392-06-001121",
+    "primary_document": "a25768a1e8vkza.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0000936392-06-001121"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-12-21",
+    "acceptance_datetime": "2006-12-21T21:28:59.000Z",
+    "report_date": "2006-12-15",
+    "accession": "0000936392-06-001148",
+    "primary_document": "a25991e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000936392-06-001148"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2007-02-09",
+    "acceptance_datetime": "2007-02-09T21:03:46.000Z",
+    "report_date": "2007-02-05",
+    "accession": "0000936392-07-000098",
+    "primary_document": "a27213e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01; accession=0000936392-07-000098"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02",
+    "filing_date": "2007-02-14",
+    "acceptance_datetime": "2007-02-14T13:00:58.000Z",
+    "report_date": "2007-02-13",
+    "accession": "0000950134-07-003186",
+    "primary_document": "a27383e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,3.02; accession=0000950134-07-003186"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2007-02-20",
+    "acceptance_datetime": "2007-02-20T22:04:54.000Z",
+    "report_date": "2007-02-13",
+    "accession": "0000936392-07-000134",
+    "primary_document": "a27392e8vkza.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0000936392-07-000134"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2007-02-22",
+    "acceptance_datetime": "2007-02-22T01:05:11.000Z",
+    "report_date": "2007-02-21",
+    "accession": "0000936392-07-000142",
+    "primary_document": "a27611e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000936392-07-000142"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-03-08",
+    "acceptance_datetime": "2007-03-08T20:39:00.000Z",
+    "report_date": "2007-03-08",
+    "accession": "0000936392-07-000179",
+    "primary_document": "a28182e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000936392-07-000179"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2007-03-12",
+    "acceptance_datetime": "2007-03-12T18:37:01.000Z",
+    "report_date": "2007-03-07",
+    "accession": "0000936392-07-000185",
+    "primary_document": "a28256e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01; accession=0000936392-07-000185"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2007-04-24",
+    "acceptance_datetime": "2007-04-24T21:17:39.000Z",
+    "report_date": "2007-04-23",
+    "accession": "0000936392-07-000321",
+    "primary_document": "a29505e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0000936392-07-000321"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-05-11",
+    "acceptance_datetime": "2007-05-11T18:10:03.000Z",
+    "report_date": "2007-05-11",
+    "accession": "0000936392-07-000420",
+    "primary_document": "a30264e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000936392-07-000420"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,9.01",
+    "filing_date": "2007-05-17",
+    "acceptance_datetime": "2007-05-16T22:43:08.000Z",
+    "report_date": "2007-05-15",
+    "accession": "0000936392-07-000441",
+    "primary_document": "a30445e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,5.03,9.01; accession=0000936392-07-000441"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2007-07-09",
+    "acceptance_datetime": "2007-07-09T10:01:55.000Z",
+    "report_date": "2007-07-02",
+    "accession": "0000950134-07-014814",
+    "primary_document": "a31726e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01; accession=0000950134-07-014814"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-07-31",
+    "acceptance_datetime": "2007-07-31T20:49:28.000Z",
+    "report_date": "2007-07-26",
+    "accession": "0000936392-07-000620",
+    "primary_document": "a31623e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000936392-07-000620"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-08-10",
+    "acceptance_datetime": "2007-08-10T18:41:50.000Z",
+    "report_date": "2007-08-09",
+    "accession": "0000936392-07-000673",
+    "primary_document": "a32907e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000936392-07-000673"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-09-12",
+    "acceptance_datetime": "2007-09-12T20:48:21.000Z",
+    "report_date": "2007-09-07",
+    "accession": "0000936392-07-000732",
+    "primary_document": "a33707e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000936392-07-000732"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-11-09",
+    "acceptance_datetime": "2007-11-09T18:56:37.000Z",
+    "report_date": "2007-11-08",
+    "accession": "0000936392-07-000850",
+    "primary_document": "a35548e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000936392-07-000850"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2007-11-14",
+    "acceptance_datetime": "2007-11-14T22:14:41.000Z",
+    "report_date": "2007-11-12",
+    "accession": "0000936392-07-000878",
+    "primary_document": "a35752e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01; accession=0000936392-07-000878"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,8.01,9.01",
+    "filing_date": "2007-11-20",
+    "acceptance_datetime": "2007-11-20T17:28:29.000Z",
+    "report_date": "2007-11-14",
+    "accession": "0000936392-07-000891",
+    "primary_document": "a35841e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=3.01,8.01,9.01; accession=0000936392-07-000891"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-12-20",
+    "acceptance_datetime": "2007-12-20T21:18:26.000Z",
+    "report_date": "2007-12-14",
+    "accession": "0000936392-07-000962",
+    "primary_document": "a36672e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000936392-07-000962"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-02-08",
+    "acceptance_datetime": "2008-02-08T21:10:07.000Z",
+    "report_date": "2008-02-06",
+    "accession": "0000936392-08-000102",
+    "primary_document": "a37874e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0000936392-08-000102"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-02-12",
+    "acceptance_datetime": "2008-02-12T13:00:42.000Z",
+    "report_date": "2008-02-12",
+    "accession": "0000950134-08-002263",
+    "primary_document": "a37914e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950134-08-002263"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-03-17",
+    "acceptance_datetime": "2008-03-15T00:01:22.000Z",
+    "report_date": "2008-03-13",
+    "accession": "0000936392-08-000211",
+    "primary_document": "a39107e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000936392-08-000211"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2008-03-19",
+    "acceptance_datetime": "2008-03-19T20:34:08.000Z",
+    "report_date": "2008-03-13",
+    "accession": "0000936392-08-000222",
+    "primary_document": "a39169e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000936392-08-000222"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-04-21",
+    "acceptance_datetime": "2008-04-21T10:03:05.000Z",
+    "report_date": "2008-04-16",
+    "accession": "0000950134-08-006918",
+    "primary_document": "a40009e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0000950134-08-006918"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-05-09",
+    "acceptance_datetime": "2008-05-09T16:15:53.000Z",
+    "report_date": "2008-05-08",
+    "accession": "0000936392-08-000335",
+    "primary_document": "a40720e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0000936392-08-000335"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-05-15",
+    "acceptance_datetime": "2008-05-14T22:21:29.000Z",
+    "report_date": "2008-05-14",
+    "accession": "0000936392-08-000376",
+    "primary_document": "a40918e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000936392-08-000376"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-08-08",
+    "acceptance_datetime": "2008-08-08T20:57:39.000Z",
+    "report_date": "2008-08-08",
+    "accession": "0001299933-08-003838",
+    "primary_document": "htm_28477.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-08-003838"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2008-08-21",
+    "acceptance_datetime": "2008-08-21T20:09:11.000Z",
+    "report_date": "2008-08-15",
+    "accession": "0001299933-08-004022",
+    "primary_document": "htm_28657.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01; accession=0001299933-08-004022"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-11-06",
+    "acceptance_datetime": "2008-11-06T21:30:23.000Z",
+    "report_date": "2008-11-06",
+    "accession": "0001299933-08-005215",
+    "primary_document": "htm_29839.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-08-005215"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2008-11-07",
+    "acceptance_datetime": "2008-11-07T14:35:26.000Z",
+    "report_date": "2008-11-05",
+    "accession": "0001299933-08-005237",
+    "primary_document": "htm_29862.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001299933-08-005237"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-01-09",
+    "acceptance_datetime": "2009-01-09T21:03:14.000Z",
+    "report_date": "2009-01-06",
+    "accession": "0001299933-09-000139",
+    "primary_document": "htm_30767.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001299933-09-000139"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2009-01-26",
+    "acceptance_datetime": "2009-01-26T21:12:56.000Z",
+    "report_date": "2009-01-23",
+    "accession": "0001299933-09-000402",
+    "primary_document": "htm_30999.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=3.02; accession=0001299933-09-000402"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-02-09",
+    "acceptance_datetime": "2009-02-09T21:32:29.000Z",
+    "report_date": "2009-02-05",
+    "accession": "0000936392-09-000049",
+    "primary_document": "a51313e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0000936392-09-000049"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-03-13",
+    "acceptance_datetime": "2009-03-13T14:09:31.000Z",
+    "report_date": "2009-03-13",
+    "accession": "0001299933-09-001189",
+    "primary_document": "htm_31803.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-09-001189"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-04-15",
+    "acceptance_datetime": "2009-04-15T20:34:01.000Z",
+    "report_date": "2009-04-13",
+    "accession": "0001299933-09-001669",
+    "primary_document": "htm_32276.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001299933-09-001669"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-05-08",
+    "acceptance_datetime": "2009-05-08T14:03:08.000Z",
+    "report_date": "2009-05-08",
+    "accession": "0001299933-09-002080",
+    "primary_document": "htm_32686.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-09-002080"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-06-17",
+    "acceptance_datetime": "2009-06-17T13:01:04.000Z",
+    "report_date": "2009-06-17",
+    "accession": "0000950123-09-014541",
+    "primary_document": "a52925e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950123-09-014541"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2009-06-23",
+    "acceptance_datetime": "2009-06-23T16:56:55.000Z",
+    "report_date": "2009-06-23",
+    "accession": "0000950123-09-016214",
+    "primary_document": "a52973e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950123-09-016214"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-08-07",
+    "acceptance_datetime": "2009-08-07T13:25:39.000Z",
+    "report_date": "2009-08-07",
+    "accession": "0001299933-09-003275",
+    "primary_document": "htm_33856.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-09-003275"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2009-10-02",
+    "acceptance_datetime": "2009-10-02T13:04:17.000Z",
+    "report_date": "2009-09-30",
+    "accession": "0001299933-09-003950",
+    "primary_document": "htm_34544.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=3.02; accession=0001299933-09-003950"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-11-06",
+    "acceptance_datetime": "2009-11-06T15:33:19.000Z",
+    "report_date": "2009-11-06",
+    "accession": "0001299933-09-004444",
+    "primary_document": "htm_35037.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-09-004444"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-01-11",
+    "acceptance_datetime": "2010-01-11T13:00:44.000Z",
+    "report_date": "2010-01-11",
+    "accession": "0000950123-10-001503",
+    "primary_document": "a54795e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950123-10-001503"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-02-09",
+    "acceptance_datetime": "2010-02-09T13:30:20.000Z",
+    "report_date": "2010-02-04",
+    "accession": "0000950123-10-010210",
+    "primary_document": "a55111e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0000950123-10-010210"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-03-03",
+    "acceptance_datetime": "2010-03-03T13:30:46.000Z",
+    "report_date": "2010-03-03",
+    "accession": "0000950123-10-020328",
+    "primary_document": "a55359e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950123-10-020328"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-03-12",
+    "acceptance_datetime": "2010-03-12T14:32:47.000Z",
+    "report_date": "2010-03-12",
+    "accession": "0001299933-10-001052",
+    "primary_document": "htm_36719.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-10-001052"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.07,9.01",
+    "filing_date": "2010-05-07",
+    "acceptance_datetime": "2010-05-07T13:30:29.000Z",
+    "report_date": "2010-05-06",
+    "accession": "0001299933-10-001851",
+    "primary_document": "htm_37502.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,5.07,9.01; accession=0001299933-10-001851"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-05-20",
+    "acceptance_datetime": "2010-05-20T21:02:55.000Z",
+    "report_date": "2010-05-18",
+    "accession": "0001299933-10-002059",
+    "primary_document": "htm_37712.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001299933-10-002059"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-08-06",
+    "acceptance_datetime": "2010-08-06T14:00:47.000Z",
+    "report_date": "2010-08-06",
+    "accession": "0001299933-10-002983",
+    "primary_document": "htm_38630.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-10-002983"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2010-08-31",
+    "acceptance_datetime": "2010-08-31T11:37:19.000Z",
+    "report_date": "2010-08-13",
+    "accession": "0001299933-10-003236",
+    "primary_document": "htm_38884.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001299933-10-003236"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2010-09-09",
+    "acceptance_datetime": "2010-09-09T13:17:59.000Z",
+    "report_date": "2010-09-08",
+    "accession": "0001299933-10-003330",
+    "primary_document": "htm_38977.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0001299933-10-003330"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-10-14",
+    "acceptance_datetime": "2010-10-14T20:31:05.000Z",
+    "report_date": "2010-10-08",
+    "accession": "0001299933-10-003691",
+    "primary_document": "htm_39338.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001299933-10-003691"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-11-05",
+    "acceptance_datetime": "2010-11-05T14:04:44.000Z",
+    "report_date": "2010-11-05",
+    "accession": "0001299933-10-003958",
+    "primary_document": "htm_39607.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-10-003958"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-12-08",
+    "acceptance_datetime": "2010-12-08T13:31:04.000Z",
+    "report_date": "2010-12-08",
+    "accession": "0000950123-10-111824",
+    "primary_document": "a58046e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950123-10-111824"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2010-12-08",
+    "acceptance_datetime": "2010-12-08T21:07:01.000Z",
+    "report_date": "2010-12-02",
+    "accession": "0001299933-10-004358",
+    "primary_document": "htm_40009.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001299933-10-004358"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,7.01,8.01,9.01",
+    "filing_date": "2011-01-10",
+    "acceptance_datetime": "2011-01-10T14:03:46.000Z",
+    "report_date": "2011-01-07",
+    "accession": "0000950123-11-001651",
+    "primary_document": "c10762e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.02,7.01,8.01,9.01; accession=0000950123-11-001651"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2011-03-08",
+    "acceptance_datetime": "2011-03-08T12:00:31.000Z",
+    "report_date": "2011-03-08",
+    "accession": "0000950123-11-022905",
+    "primary_document": "a58907e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950123-11-022905"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-03-11",
+    "acceptance_datetime": "2011-03-11T15:01:39.000Z",
+    "report_date": "2011-03-11",
+    "accession": "0001299933-11-000790",
+    "primary_document": "htm_41034.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-11-000790"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,5.07,9.01",
+    "filing_date": "2011-05-06",
+    "acceptance_datetime": "2011-05-06T14:40:12.000Z",
+    "report_date": "2011-05-05",
+    "accession": "0001299933-11-001376",
+    "primary_document": "htm_41621.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,5.02,5.07,9.01; accession=0001299933-11-001376"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-05-11",
+    "acceptance_datetime": "2011-05-11T20:12:52.000Z",
+    "report_date": "2011-05-05",
+    "accession": "0001299933-11-001456",
+    "primary_document": "htm_41701.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001299933-11-001456"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2011-06-16",
+    "acceptance_datetime": "2011-06-16T20:58:13.000Z",
+    "report_date": "2011-06-10",
+    "accession": "0000950123-11-059558",
+    "primary_document": "a59766e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950123-11-059558"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-08-05",
+    "acceptance_datetime": "2011-08-05T13:44:07.000Z",
+    "report_date": "2011-08-05",
+    "accession": "0001299933-11-002429",
+    "primary_document": "htm_42599.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-11-002429"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-11-07",
+    "acceptance_datetime": "2011-11-07T21:14:53.000Z",
+    "report_date": "2011-11-07",
+    "accession": "0001299933-11-003256",
+    "primary_document": "htm_43430.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-11-003256"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2011-12-12",
+    "acceptance_datetime": "2011-12-12T21:46:19.000Z",
+    "report_date": "2011-12-08",
+    "accession": "0001299933-11-003533",
+    "primary_document": "htm_43715.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.03,9.01; accession=0001299933-11-003533"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-01-09",
+    "acceptance_datetime": "2012-01-09T13:30:27.000Z",
+    "report_date": "2012-01-09",
+    "accession": "0000950123-12-000475",
+    "primary_document": "c26615e8vk.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950123-12-000475"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2012-02-10",
+    "acceptance_datetime": "2012-02-10T22:03:59.000Z",
+    "report_date": "2012-02-10",
+    "accession": "0001193125-12-052866",
+    "primary_document": "d298940d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-12-052866"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-03-09",
+    "acceptance_datetime": "2012-03-09T12:17:53.000Z",
+    "report_date": "2012-03-09",
+    "accession": "0001193125-12-105308",
+    "primary_document": "d315756d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-105308"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.07,9.01",
+    "filing_date": "2012-05-07",
+    "acceptance_datetime": "2012-05-07T20:13:51.000Z",
+    "report_date": "2012-05-07",
+    "accession": "0001299933-12-001103",
+    "primary_document": "htm_44982.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,5.07,9.01; accession=0001299933-12-001103"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-08-06",
+    "acceptance_datetime": "2012-08-06T20:21:23.000Z",
+    "report_date": "2012-08-06",
+    "accession": "0001299933-12-001857",
+    "primary_document": "htm_45743.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-12-001857"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-10-02",
+    "acceptance_datetime": "2012-10-02T21:08:11.000Z",
+    "report_date": "2012-10-02",
+    "accession": "0001193125-12-412748",
+    "primary_document": "d419091d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-12-412748"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-11-08",
+    "acceptance_datetime": "2012-11-08T21:17:57.000Z",
+    "report_date": "2012-11-08",
+    "accession": "0001299933-12-002522",
+    "primary_document": "htm_46409.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001299933-12-002522"
+  },
+  {
+    "form": "8-K",
+    "items": "5.05",
+    "filing_date": "2012-12-05",
+    "acceptance_datetime": "2012-12-05T22:21:29.000Z",
+    "report_date": "2012-12-03",
+    "accession": "0001299933-12-002701",
+    "primary_document": "htm_46592.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.05; accession=0001299933-12-002701"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2013-01-04",
+    "acceptance_datetime": "2013-01-04T21:21:35.000Z",
+    "report_date": "2012-12-28",
+    "accession": "0001299933-13-000029",
+    "primary_document": "htm_46798.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.03; accession=0001299933-13-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2013-01-07",
+    "acceptance_datetime": "2013-01-07T14:14:22.000Z",
+    "report_date": "2013-01-07",
+    "accession": "0001483813-13-000005",
+    "primary_document": "a8-kinvestorslidesjan072013.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001483813-13-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-02-25",
+    "acceptance_datetime": "2013-02-25T21:16:46.000Z",
+    "report_date": "2013-02-21",
+    "accession": "0001483813-13-000029",
+    "primary_document": "a4qearnings_coverpage.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001483813-13-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-03-28",
+    "acceptance_datetime": "2013-03-28T20:35:13.000Z",
+    "report_date": "2013-03-27",
+    "accession": "0001299933-13-000588",
+    "primary_document": "htm_47383.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001299933-13-000588"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-05-08",
+    "acceptance_datetime": "2013-05-08T20:16:42.000Z",
+    "report_date": "2013-05-08",
+    "accession": "0001483813-13-000049",
+    "primary_document": "halo1q2013.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001483813-13-000049"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,5.07,9.01",
+    "filing_date": "2013-05-17",
+    "acceptance_datetime": "2013-05-17T21:27:13.000Z",
+    "report_date": "2013-05-16",
+    "accession": "0001483813-13-000063",
+    "primary_document": "halo8k_2013annualmeeting.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,5.03,5.07,9.01; accession=0001483813-13-000063"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2013-05-24",
+    "acceptance_datetime": "2013-05-24T20:23:17.000Z",
+    "report_date": "2013-05-20",
+    "accession": "0001483813-13-000069",
+    "primary_document": "halo8k52.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001483813-13-000069"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-07-03",
+    "acceptance_datetime": "2013-07-03T12:00:57.000Z",
+    "report_date": "2013-07-03",
+    "accession": "0001193125-13-281778",
+    "primary_document": "d563128d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-281778"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-08-07",
+    "acceptance_datetime": "2013-08-07T20:13:45.000Z",
+    "report_date": "2013-08-07",
+    "accession": "0001483813-13-000083",
+    "primary_document": "halo8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001483813-13-000083"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2013-10-31",
+    "acceptance_datetime": "2013-10-30T22:01:40.000Z",
+    "report_date": "2013-10-30",
+    "accession": "0001159036-13-000004",
+    "primary_document": "a8-koct2013presentation.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001159036-13-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-11-08",
+    "acceptance_datetime": "2013-11-08T13:23:03.000Z",
+    "report_date": "2013-11-08",
+    "accession": "0001159036-13-000009",
+    "primary_document": "a3q2013_8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-13-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2013-12-18",
+    "acceptance_datetime": "2013-12-18T13:20:35.000Z",
+    "report_date": "2013-12-12",
+    "accession": "0001483813-13-000103",
+    "primary_document": "a8-k18dec2013.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001483813-13-000103"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2014-01-03",
+    "acceptance_datetime": "2014-01-03T21:31:17.000Z",
+    "report_date": "2013-12-27",
+    "accession": "0001159036-14-000002",
+    "primary_document": "a8-k_halo27dec2013.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.03; accession=0001159036-14-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-01-13",
+    "acceptance_datetime": "2014-01-13T13:42:03.000Z",
+    "report_date": "2014-01-13",
+    "accession": "0001159036-14-000006",
+    "primary_document": "a8k_13jan2014.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001159036-14-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2014-02-05",
+    "acceptance_datetime": "2014-02-05T21:47:39.000Z",
+    "report_date": "2014-02-03",
+    "accession": "0001193125-14-036998",
+    "primary_document": "d671078d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-14-036998"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-02-27",
+    "acceptance_datetime": "2014-02-27T21:25:50.000Z",
+    "report_date": "2014-02-27",
+    "accession": "0001159036-14-000030",
+    "primary_document": "a8-k_4q2013.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-14-000030"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-04-03",
+    "acceptance_datetime": "2014-04-03T20:06:57.000Z",
+    "report_date": "2014-03-31",
+    "accession": "0001193125-14-129747",
+    "primary_document": "d703258d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001193125-14-129747"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-05-12",
+    "acceptance_datetime": "2014-05-12T20:20:38.000Z",
+    "report_date": "2014-05-12",
+    "accession": "0001159036-14-000041",
+    "primary_document": "a8-k_1q2014.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-14-000041"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2014-05-16",
+    "acceptance_datetime": "2014-05-16T20:23:43.000Z",
+    "report_date": "2014-05-13",
+    "accession": "0001159036-14-000061",
+    "primary_document": "halo8k_2014annualmeeting.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.07; accession=0001159036-14-000061"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-08-11",
+    "acceptance_datetime": "2014-08-11T20:18:42.000Z",
+    "report_date": "2014-08-11",
+    "accession": "0001159036-14-000068",
+    "primary_document": "a8-k_2q2014.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-14-000068"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-10-24",
+    "acceptance_datetime": "2014-10-24T20:59:59.000Z",
+    "report_date": "2014-10-21",
+    "accession": "0001159036-14-000086",
+    "primary_document": "a8-k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-14-000086"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-11-10",
+    "acceptance_datetime": "2014-11-10T21:09:13.000Z",
+    "report_date": "2014-11-10",
+    "accession": "0001159036-14-000091",
+    "primary_document": "a8-k_3q2014.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-14-000091"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-01-07",
+    "acceptance_datetime": "2015-01-07T15:53:32.000Z",
+    "report_date": "2015-01-07",
+    "accession": "0001159036-15-000011",
+    "primary_document": "a8k_7jan2015.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001159036-15-000011"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2015-01-07",
+    "acceptance_datetime": "2015-01-07T21:28:25.000Z",
+    "report_date": "2015-01-07",
+    "accession": "0001159036-15-000013",
+    "primary_document": "a8k-a_7jan2015.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001159036-15-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-01-12",
+    "acceptance_datetime": "2015-01-12T14:17:51.000Z",
+    "report_date": "2015-01-12",
+    "accession": "0001159036-15-000018",
+    "primary_document": "halo8-k_12jan2015.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001159036-15-000018"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-01-21",
+    "acceptance_datetime": "2015-01-21T21:37:55.000Z",
+    "report_date": "2015-01-17",
+    "accession": "0001159036-15-000020",
+    "primary_document": "a8-k_17jan2015.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-15-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2015-01-26",
+    "acceptance_datetime": "2015-01-26T21:21:04.000Z",
+    "report_date": "2015-01-23",
+    "accession": "0001159036-15-000029",
+    "primary_document": "a8-k_loanamend2015.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.03; accession=0001159036-15-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,8.01,9.01",
+    "filing_date": "2015-03-02",
+    "acceptance_datetime": "2015-03-02T21:15:00.000Z",
+    "report_date": "2015-03-02",
+    "accession": "0001159036-15-000040",
+    "primary_document": "a8k4q2014.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,5.02,8.01,9.01; accession=0001159036-15-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-05-11",
+    "acceptance_datetime": "2015-05-11T20:14:37.000Z",
+    "report_date": "2015-05-11",
+    "accession": "0001159036-15-000063",
+    "primary_document": "a8-k_1q2015.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-15-000063"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-05-11",
+    "acceptance_datetime": "2015-05-11T20:26:37.000Z",
+    "report_date": "2015-05-06",
+    "accession": "0001159036-15-000065",
+    "primary_document": "halo8k_2015annualmeeting.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.07; accession=0001159036-15-000065"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2015-06-05",
+    "acceptance_datetime": "2015-06-05T21:03:52.000Z",
+    "report_date": "2015-06-03",
+    "accession": "0001193125-15-215085",
+    "primary_document": "d938532d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-15-215085"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2015-08-06",
+    "acceptance_datetime": "2015-08-06T13:15:20.000Z",
+    "report_date": "2015-08-05",
+    "accession": "0001104659-15-056848",
+    "primary_document": "a15-16980_18k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-15-056848"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-08-10",
+    "acceptance_datetime": "2015-08-10T20:12:04.000Z",
+    "report_date": "2015-08-10",
+    "accession": "0001159036-15-000077",
+    "primary_document": "a8-k_2q2015.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-15-000077"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-11-09",
+    "acceptance_datetime": "2015-11-09T21:07:13.000Z",
+    "report_date": "2015-11-09",
+    "accession": "0001159036-15-000091",
+    "primary_document": "a8-k_3q2015.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-15-000091"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2016-01-04",
+    "acceptance_datetime": "2016-01-04T13:45:25.000Z",
+    "report_date": "2015-12-30",
+    "accession": "0001104659-16-087613",
+    "primary_document": "a15-25719_18k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001104659-16-087613"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-01-11",
+    "acceptance_datetime": "2016-01-11T13:45:52.000Z",
+    "report_date": "2016-01-11",
+    "accession": "0001104659-16-089008",
+    "primary_document": "a16-1616_18k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-16-089008"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-01-13",
+    "acceptance_datetime": "2016-01-13T13:30:38.000Z",
+    "report_date": "2016-01-12",
+    "accession": "0001104659-16-089568",
+    "primary_document": "a16-1700_18k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-16-089568"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-01-26",
+    "acceptance_datetime": "2016-01-26T21:15:32.000Z",
+    "report_date": "2016-01-26",
+    "accession": "0001104659-16-091452",
+    "primary_document": "a16-2782_18k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-16-091452"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-29",
+    "acceptance_datetime": "2016-02-29T21:01:52.000Z",
+    "report_date": "2016-02-29",
+    "accession": "0001159036-16-000099",
+    "primary_document": "a8-k_4q2015.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-16-000099"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2016-03-07",
+    "acceptance_datetime": "2016-03-07T14:06:47.000Z",
+    "report_date": "2016-03-03",
+    "accession": "0001159036-16-000102",
+    "primary_document": "a8-kxnewboardmember.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001159036-16-000102"
+  },
+  {
+    "form": "8-K",
+    "items": "3.03,5.03,5.07,9.01",
+    "filing_date": "2016-05-06",
+    "acceptance_datetime": "2016-05-06T13:08:47.000Z",
+    "report_date": "2016-05-04",
+    "accession": "0001159036-16-000109",
+    "primary_document": "form8-kannualmeeting2016.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=3.03,5.03,5.07,9.01; accession=0001159036-16-000109"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-05-09",
+    "acceptance_datetime": "2016-05-09T20:19:50.000Z",
+    "report_date": "2016-05-09",
+    "accession": "0001159036-16-000114",
+    "primary_document": "a8-k_1q2016.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-16-000114"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,8.01,9.01",
+    "filing_date": "2016-06-08",
+    "acceptance_datetime": "2016-06-08T13:02:13.000Z",
+    "report_date": "2016-06-07",
+    "accession": "0001159036-16-000121",
+    "primary_document": "a8-kjune2016debtrefinance.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,1.02,2.03,8.01,9.01; accession=0001159036-16-000121"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-08-09",
+    "acceptance_datetime": "2016-08-09T20:07:06.000Z",
+    "report_date": "2016-08-09",
+    "accession": "0001159036-16-000124",
+    "primary_document": "a8-k_2q2016.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-16-000124"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2016-09-01",
+    "acceptance_datetime": "2016-09-01T21:08:11.000Z",
+    "report_date": "2016-09-01",
+    "accession": "0001159036-16-000127",
+    "primary_document": "announcementofcoo.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001159036-16-000127"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-11-07",
+    "acceptance_datetime": "2016-11-07T21:05:55.000Z",
+    "report_date": "2016-11-07",
+    "accession": "0001159036-16-000132",
+    "primary_document": "a8-k_3q2016.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-16-000132"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2016-12-19",
+    "acceptance_datetime": "2016-12-19T21:05:41.000Z",
+    "report_date": "2016-12-19",
+    "accession": "0001159036-16-000135",
+    "primary_document": "bylawamendment121916.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.03,9.01; accession=0001159036-16-000135"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2017-01-05",
+    "acceptance_datetime": "2017-01-05T12:18:27.000Z",
+    "report_date": "2017-01-05",
+    "accession": "0001159036-17-000002",
+    "primary_document": "announcementofhalo202.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01; accession=0001159036-17-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2017-01-09",
+    "acceptance_datetime": "2017-01-09T21:12:10.000Z",
+    "report_date": "2017-01-09",
+    "accession": "0001159036-17-000006",
+    "primary_document": "a8-kjpmorgannewsrelease.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001159036-17-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-01-10",
+    "acceptance_datetime": "2017-01-10T14:01:20.000Z",
+    "report_date": "2017-01-09",
+    "accession": "0001159036-17-000007",
+    "primary_document": "a8-kjpmorganpresentation.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001159036-17-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-02-28",
+    "acceptance_datetime": "2017-02-28T21:07:31.000Z",
+    "report_date": "2017-02-28",
+    "accession": "0001159036-17-000013",
+    "primary_document": "a8-k_4q2016.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-17-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2017-05-05",
+    "acceptance_datetime": "2017-05-05T20:11:14.000Z",
+    "report_date": "2017-05-04",
+    "accession": "0001159036-17-000021",
+    "primary_document": "form8-kannualmeeting2017.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.07; accession=0001159036-17-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-05-09",
+    "acceptance_datetime": "2017-05-09T20:09:45.000Z",
+    "report_date": "2017-05-09",
+    "accession": "0001159036-17-000028",
+    "primary_document": "a8-k_1q2017.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-17-000028"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2017-05-09",
+    "acceptance_datetime": "2017-05-09T20:19:32.000Z",
+    "report_date": "2017-05-05",
+    "accession": "0001159036-17-000029",
+    "primary_document": "departureofcmo.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001159036-17-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2017-05-19",
+    "acceptance_datetime": "2017-05-19T21:12:04.000Z",
+    "report_date": "2017-05-18",
+    "accession": "0001193125-17-176812",
+    "primary_document": "d383789d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-17-176812"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2017-07-05",
+    "acceptance_datetime": "2017-07-05T20:05:33.000Z",
+    "report_date": "2017-06-30",
+    "accession": "0001159036-17-000032",
+    "primary_document": "a8-kleaseamendments2017.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0001159036-17-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-08-08",
+    "acceptance_datetime": "2017-08-08T20:08:56.000Z",
+    "report_date": "2017-08-08",
+    "accession": "0001159036-17-000037",
+    "primary_document": "a8-k_2q2017.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-17-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2017-09-29",
+    "acceptance_datetime": "2017-09-29T20:31:24.000Z",
+    "report_date": "2017-09-29",
+    "accession": "0001159036-17-000040",
+    "primary_document": "a8-kdepartureofcoo.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001159036-17-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-11-07",
+    "acceptance_datetime": "2017-11-07T21:12:06.000Z",
+    "report_date": "2017-11-07",
+    "accession": "0001159036-17-000044",
+    "primary_document": "a8-k_3q2017.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-17-000044"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2018-01-10",
+    "acceptance_datetime": "2018-01-09T23:33:35.000Z",
+    "report_date": "2018-01-09",
+    "accession": "0001159036-18-000005",
+    "primary_document": "a8-kjpm2018.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001159036-18-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-01-12",
+    "acceptance_datetime": "2018-01-12T21:05:11.000Z",
+    "report_date": "2018-01-09",
+    "accession": "0001159036-18-000007",
+    "primary_document": "a8-kjpmtranscript2018.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-18-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-20",
+    "acceptance_datetime": "2018-02-20T21:09:12.000Z",
+    "report_date": "2018-02-20",
+    "accession": "0001159036-18-000010",
+    "primary_document": "a8-k_q42017.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-18-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-03-22",
+    "acceptance_datetime": "2018-03-22T20:07:39.000Z",
+    "report_date": "2018-03-20",
+    "accession": "0001159036-18-000016",
+    "primary_document": "a8-kdepartureofdirector.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-18-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2018-04-06",
+    "acceptance_datetime": "2018-04-06T12:14:54.000Z",
+    "report_date": "2018-04-05",
+    "accession": "0001159036-18-000025",
+    "primary_document": "a8-kproxysupplement.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001159036-18-000025"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-05-02",
+    "acceptance_datetime": "2018-05-02T21:18:27.000Z",
+    "report_date": "2018-05-02",
+    "accession": "0001159036-18-000027",
+    "primary_document": "form8-kannualmeeting2018.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.07; accession=0001159036-18-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-05-10",
+    "acceptance_datetime": "2018-05-10T20:29:23.000Z",
+    "report_date": "2018-05-10",
+    "accession": "0001159036-18-000029",
+    "primary_document": "a8-k_q12018.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-18-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-08-07",
+    "acceptance_datetime": "2018-08-07T20:24:33.000Z",
+    "report_date": "2018-08-07",
+    "accession": "0001159036-18-000036",
+    "primary_document": "a8-k_q22018.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-18-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-09-05",
+    "acceptance_datetime": "2018-09-05T10:06:07.000Z",
+    "report_date": "2018-09-05",
+    "accession": "0001193125-18-266637",
+    "primary_document": "d613082d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-18-266637"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-09-10",
+    "acceptance_datetime": "2018-09-10T13:01:33.000Z",
+    "report_date": "2018-09-07",
+    "accession": "0001159036-18-000039",
+    "primary_document": "a8-knewdirector.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-18-000039"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-11-06",
+    "acceptance_datetime": "2018-11-06T21:08:50.000Z",
+    "report_date": "2018-11-06",
+    "accession": "0001159036-18-000042",
+    "primary_document": "a8-kq32018.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-18-000042"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-11-26",
+    "acceptance_datetime": "2018-11-26T22:00:07.000Z",
+    "report_date": "2018-11-26",
+    "accession": "0001193125-18-334014",
+    "primary_document": "d662328d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-334014"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2018-12-13",
+    "acceptance_datetime": "2018-12-13T21:26:28.000Z",
+    "report_date": "2018-12-12",
+    "accession": "0001159036-18-000045",
+    "primary_document": "a8-kseverancepolicyamendme.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001159036-18-000045"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-01-09",
+    "acceptance_datetime": "2019-01-09T22:04:14.000Z",
+    "report_date": "2019-01-09",
+    "accession": "0001159036-19-000002",
+    "primary_document": "a8-kjpm2019.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001159036-19-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-21",
+    "acceptance_datetime": "2019-02-21T21:04:24.000Z",
+    "report_date": "2019-02-21",
+    "accession": "0001159036-19-000005",
+    "primary_document": "a8-kq42018.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-19-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.07,9.01",
+    "filing_date": "2019-05-03",
+    "acceptance_datetime": "2019-05-03T21:05:46.000Z",
+    "report_date": "2019-05-02",
+    "accession": "0001159036-19-000019",
+    "primary_document": "form8-kannualmeeting2019.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.03,5.07,9.01; accession=0001159036-19-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-07",
+    "acceptance_datetime": "2019-05-07T20:05:05.000Z",
+    "report_date": "2019-05-07",
+    "accession": "0001159036-19-000026",
+    "primary_document": "a8-kq12019.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-19-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-06-12",
+    "acceptance_datetime": "2019-06-12T17:40:30.000Z",
+    "report_date": "2019-06-12",
+    "accession": "0001193125-19-171015",
+    "primary_document": "d764163d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01; accession=0001193125-19-171015"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-08-06",
+    "acceptance_datetime": "2019-08-06T20:12:30.000Z",
+    "report_date": "2019-08-06",
+    "accession": "0001159036-19-000043",
+    "primary_document": "a8-kq22019.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-19-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-09-04",
+    "acceptance_datetime": "2019-09-04T15:20:23.000Z",
+    "report_date": "2019-09-04",
+    "accession": "0001159036-19-000046",
+    "primary_document": "a8-k090319xwellsfargohealt.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001159036-19-000046"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05,2.06,5.02",
+    "filing_date": "2019-11-05",
+    "acceptance_datetime": "2019-11-05T21:36:01.000Z",
+    "report_date": "2019-10-30",
+    "accession": "0001159036-19-000049",
+    "primary_document": "corporaterestructuring.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.05,2.06,5.02; accession=0001159036-19-000049"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-11-12",
+    "acceptance_datetime": "2019-11-12T21:05:55.000Z",
+    "report_date": "2019-11-12",
+    "accession": "0001159036-19-000058",
+    "primary_document": "a8-kq32019.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-19-000058"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-11-12",
+    "acceptance_datetime": "2019-11-12T21:15:10.000Z",
+    "report_date": "2019-11-12",
+    "accession": "0001193125-19-289955",
+    "primary_document": "d77646d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-19-289955"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.05,2.06",
+    "filing_date": "2019-11-12",
+    "acceptance_datetime": "2019-11-12T21:26:23.000Z",
+    "report_date": "2019-10-30",
+    "accession": "0001159036-19-000061",
+    "primary_document": "corporaterestructuring.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.05,2.06; accession=0001159036-19-000061"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-11-14",
+    "acceptance_datetime": "2019-11-14T11:06:11.000Z",
+    "report_date": "2019-11-13",
+    "accession": "0001193125-19-291625",
+    "primary_document": "d826497d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-19-291625"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,3.02,8.01,9.01",
+    "filing_date": "2019-11-18",
+    "acceptance_datetime": "2019-11-18T22:02:04.000Z",
+    "report_date": "2019-11-18",
+    "accession": "0001193125-19-294791",
+    "primary_document": "d826183d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,1.02,2.03,3.02,8.01,9.01; accession=0001193125-19-294791"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-01-14",
+    "acceptance_datetime": "2020-01-14T21:23:12.000Z",
+    "report_date": "2020-01-14",
+    "accession": "0001159036-20-000002",
+    "primary_document": "a2020businessguidance.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-20-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-01-16",
+    "acceptance_datetime": "2020-01-16T21:25:33.000Z",
+    "report_date": "2020-01-16",
+    "accession": "0001159036-20-000004",
+    "primary_document": "a8-kjpm2020.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001159036-20-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2020-02-24",
+    "acceptance_datetime": "2020-02-24T21:07:15.000Z",
+    "report_date": "2020-02-24",
+    "accession": "0001159036-20-000011",
+    "primary_document": "a8-kq42019.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02; accession=0001159036-20-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-02-24",
+    "acceptance_datetime": "2020-02-24T21:09:45.000Z",
+    "report_date": "2020-02-18",
+    "accession": "0001159036-20-000012",
+    "primary_document": "cfotransition.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-20-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2020-05-04",
+    "acceptance_datetime": "2020-05-04T20:05:51.000Z",
+    "report_date": "2020-04-30",
+    "accession": "0001159036-20-000024",
+    "primary_document": "a8-kannualmeeting2020.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.07; accession=0001159036-20-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2020-05-11",
+    "acceptance_datetime": "2020-05-11T20:03:29.000Z",
+    "report_date": "2020-05-11",
+    "accession": "0001159036-20-000029",
+    "primary_document": "a8-kq12020.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02; accession=0001159036-20-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-08-10",
+    "acceptance_datetime": "2020-08-10T20:03:15.000Z",
+    "report_date": "2020-08-10",
+    "accession": "0001159036-20-000036",
+    "primary_document": "a8-kq22020.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-20-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-11-02",
+    "acceptance_datetime": "2020-11-02T21:04:56.000Z",
+    "report_date": "2020-11-02",
+    "accession": "0001159036-20-000043",
+    "primary_document": "a8-kq32020.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-20-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-01-11",
+    "acceptance_datetime": "2021-01-11T13:07:26.000Z",
+    "report_date": "2021-01-11",
+    "accession": "0001159036-21-000003",
+    "primary_document": "halo-20210111.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-21-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2021-01-13",
+    "acceptance_datetime": "2021-01-13T22:11:52.000Z",
+    "report_date": "2021-01-13",
+    "accession": "0001159036-21-000006",
+    "primary_document": "halo-20210113.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001159036-21-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-23",
+    "acceptance_datetime": "2021-02-23T21:03:34.000Z",
+    "report_date": "2021-02-23",
+    "accession": "0001159036-21-000013",
+    "primary_document": "halo-20210223.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-21-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-02-23",
+    "acceptance_datetime": "2021-02-23T21:16:29.000Z",
+    "report_date": "2021-02-23",
+    "accession": "0001193125-21-052372",
+    "primary_document": "d40828d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-21-052372"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-02-25",
+    "acceptance_datetime": "2021-02-25T11:06:02.000Z",
+    "report_date": "2021-02-24",
+    "accession": "0001193125-21-055596",
+    "primary_document": "d110113d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-21-055596"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,9.01",
+    "filing_date": "2021-03-01",
+    "acceptance_datetime": "2021-03-01T21:06:14.000Z",
+    "report_date": "2021-03-01",
+    "accession": "0001193125-21-063401",
+    "primary_document": "d587130d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.03,3.02,9.01; accession=0001193125-21-063401"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-05-03",
+    "acceptance_datetime": "2021-05-03T20:03:32.000Z",
+    "report_date": "2021-05-01",
+    "accession": "0001159036-21-000022",
+    "primary_document": "halo-20210501.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-21-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2021-05-05",
+    "acceptance_datetime": "2021-05-05T20:01:55.000Z",
+    "report_date": "2021-05-05",
+    "accession": "0001159036-21-000026",
+    "primary_document": "halo-20210505.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001159036-21-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2021-05-07",
+    "acceptance_datetime": "2021-05-07T20:31:39.000Z",
+    "report_date": "2021-05-05",
+    "accession": "0001159036-21-000032",
+    "primary_document": "halo-20210505.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.07; accession=0001159036-21-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-05-10",
+    "acceptance_datetime": "2021-05-10T20:03:27.000Z",
+    "report_date": "2021-05-10",
+    "accession": "0001159036-21-000037",
+    "primary_document": "halo-20210510.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-21-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-08-09",
+    "acceptance_datetime": "2021-08-09T20:02:57.000Z",
+    "report_date": "2021-08-09",
+    "accession": "0001159036-21-000042",
+    "primary_document": "halo-20210809.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-21-000042"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,9.01",
+    "filing_date": "2021-11-02",
+    "acceptance_datetime": "2021-11-02T20:03:54.000Z",
+    "report_date": "2021-11-02",
+    "accession": "0001159036-21-000049",
+    "primary_document": "halo-20211102.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.01,9.01; accession=0001159036-21-000049"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-02",
+    "acceptance_datetime": "2021-11-02T21:03:52.000Z",
+    "report_date": "2021-11-02",
+    "accession": "0001159036-21-000052",
+    "primary_document": "halo-20211102.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-21-000052"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2021-12-10",
+    "acceptance_datetime": "2021-12-10T21:08:26.000Z",
+    "report_date": "2021-12-08",
+    "accession": "0001159036-21-000056",
+    "primary_document": "halo-20211208.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.03,9.01; accession=0001159036-21-000056"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2021-12-13",
+    "acceptance_datetime": "2021-12-13T22:10:29.000Z",
+    "report_date": "2021-12-13",
+    "accession": "0001159036-21-000059",
+    "primary_document": "halo-20211213.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001159036-21-000059"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2021-12-29",
+    "acceptance_datetime": "2021-12-29T21:15:21.000Z",
+    "report_date": "2021-12-23",
+    "accession": "0001159036-21-000062",
+    "primary_document": "halo-20211223.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001159036-21-000062"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2022-01-10",
+    "acceptance_datetime": "2022-01-10T13:12:12.000Z",
+    "report_date": "2022-01-10",
+    "accession": "0001159036-22-000002",
+    "primary_document": "halo-20220110.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001159036-22-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2022-02-03",
+    "acceptance_datetime": "2022-02-03T21:12:50.000Z",
+    "report_date": "2022-02-02",
+    "accession": "0001159036-22-000005",
+    "primary_document": "halo-20220202.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001159036-22-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-02-22",
+    "acceptance_datetime": "2022-02-22T21:06:51.000Z",
+    "report_date": "2022-02-22",
+    "accession": "0001159036-22-000012",
+    "primary_document": "halo-20220222.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-22-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2022-03-15",
+    "acceptance_datetime": "2022-03-15T20:50:41.000Z",
+    "report_date": "2022-03-15",
+    "accession": "0001159036-22-000019",
+    "primary_document": "halo-20220315.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-22-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2022-03-21",
+    "acceptance_datetime": "2022-03-21T20:11:57.000Z",
+    "report_date": "2022-03-16",
+    "accession": "0001159036-22-000022",
+    "primary_document": "halo-20220316.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.03; accession=0001159036-22-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2022-04-13",
+    "acceptance_datetime": "2022-04-13T21:18:14.000Z",
+    "report_date": "2022-04-12",
+    "accession": "0001193125-22-104452",
+    "primary_document": "d259127d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001193125-22-104452"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2022-05-06",
+    "acceptance_datetime": "2022-05-06T20:10:02.000Z",
+    "report_date": "2022-05-05",
+    "accession": "0001159036-22-000032",
+    "primary_document": "halo-20220505.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.07; accession=0001159036-22-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-05-10",
+    "acceptance_datetime": "2022-05-10T20:07:23.000Z",
+    "report_date": "2022-05-10",
+    "accession": "0001159036-22-000037",
+    "primary_document": "halo-20220510.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-22-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,2.03,7.01,9.01",
+    "filing_date": "2022-05-24",
+    "acceptance_datetime": "2022-05-24T20:16:56.000Z",
+    "report_date": "2022-05-24",
+    "accession": "0001193125-22-158531",
+    "primary_document": "d326486d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.01,2.03,7.01,9.01; accession=0001193125-22-158531"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-08-09",
+    "acceptance_datetime": "2022-08-09T20:08:18.000Z",
+    "report_date": "2022-08-09",
+    "accession": "0001159036-22-000048",
+    "primary_document": "halo-20220809.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-22-000048"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2022-08-09",
+    "acceptance_datetime": "2022-08-09T20:13:39.000Z",
+    "report_date": "2022-05-24",
+    "accession": "0001159036-22-000051",
+    "primary_document": "halo-20220524.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=9.01; accession=0001159036-22-000051"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-08-15",
+    "acceptance_datetime": "2022-08-15T11:18:34.000Z",
+    "report_date": "2022-08-15",
+    "accession": "0001193125-22-220557",
+    "primary_document": "d295619d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-220557"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-08-16",
+    "acceptance_datetime": "2022-08-16T12:42:32.000Z",
+    "report_date": "2022-08-15",
+    "accession": "0001193125-22-221861",
+    "primary_document": "d335715d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-221861"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,9.01",
+    "filing_date": "2022-08-18",
+    "acceptance_datetime": "2022-08-18T21:14:05.000Z",
+    "report_date": "2022-08-15",
+    "accession": "0001193125-22-224202",
+    "primary_document": "d391138d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.03,3.02,9.01; accession=0001193125-22-224202"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2022-08-19",
+    "acceptance_datetime": "2022-08-19T21:23:20.000Z",
+    "report_date": "2022-08-18",
+    "accession": "0001193125-22-225456",
+    "primary_document": "d384340d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-22-225456"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-11-08",
+    "acceptance_datetime": "2022-11-08T21:06:38.000Z",
+    "report_date": "2022-11-08",
+    "accession": "0001159036-22-000058",
+    "primary_document": "halo-20221108.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-22-000058"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2023-01-10",
+    "acceptance_datetime": "2023-01-10T22:16:42.000Z",
+    "report_date": "2023-01-10",
+    "accession": "0001159036-23-000004",
+    "primary_document": "halo-20230110.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001159036-23-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-02-06",
+    "acceptance_datetime": "2023-02-06T21:03:57.000Z",
+    "report_date": "2023-02-03",
+    "accession": "0001159036-23-000006",
+    "primary_document": "halo-20230203.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-23-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-02-21",
+    "acceptance_datetime": "2023-02-21T21:21:37.000Z",
+    "report_date": "2023-02-21",
+    "accession": "0001159036-23-000011",
+    "primary_document": "halo-20230221.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-23-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-02-23",
+    "acceptance_datetime": "2023-02-23T21:05:16.000Z",
+    "report_date": "2023-02-22",
+    "accession": "0001159036-23-000014",
+    "primary_document": "halo-20230222.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-23-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2023-03-13",
+    "acceptance_datetime": "2023-03-13T12:47:04.000Z",
+    "report_date": "2023-03-10",
+    "accession": "0001159036-23-000017",
+    "primary_document": "halo-20230310.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01; accession=0001159036-23-000017"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-03-16",
+    "acceptance_datetime": "2023-03-15T22:28:28.000Z",
+    "report_date": "2023-03-15",
+    "accession": "0001159036-23-000020",
+    "primary_document": "halo-20230315.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001159036-23-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2023-05-08",
+    "acceptance_datetime": "2023-05-08T20:50:21.000Z",
+    "report_date": "2023-05-05",
+    "accession": "0001159036-23-000033",
+    "primary_document": "halo-20230505.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.07; accession=0001159036-23-000033"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-09",
+    "acceptance_datetime": "2023-05-09T20:06:22.000Z",
+    "report_date": "2023-05-09",
+    "accession": "0001159036-23-000037",
+    "primary_document": "halo-20230509.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-23-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-08-08",
+    "acceptance_datetime": "2023-08-08T20:06:31.000Z",
+    "report_date": "2023-08-08",
+    "accession": "0001159036-23-000047",
+    "primary_document": "halo-20230808.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-23-000047"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2023-09-07",
+    "acceptance_datetime": "2023-09-07T11:14:46.000Z",
+    "report_date": "2023-09-06",
+    "accession": "0001159036-23-000051",
+    "primary_document": "halo-20230906.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01; accession=0001159036-23-000051"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-11-06",
+    "acceptance_datetime": "2023-11-06T21:04:05.000Z",
+    "report_date": "2023-11-06",
+    "accession": "0001159036-23-000056",
+    "primary_document": "halo-20231106.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-23-000056"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2024-01-17",
+    "acceptance_datetime": "2024-01-17T13:10:41.000Z",
+    "report_date": "2024-01-17",
+    "accession": "0001159036-24-000003",
+    "primary_document": "halo-20240117.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02; accession=0001159036-24-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-20",
+    "acceptance_datetime": "2024-02-20T21:03:54.000Z",
+    "report_date": "2024-02-20",
+    "accession": "0001159036-24-000007",
+    "primary_document": "halo-20240220.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-24-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2024-04-26",
+    "acceptance_datetime": "2024-04-26T20:22:23.000Z",
+    "report_date": "2024-04-25",
+    "accession": "0001159036-24-000031",
+    "primary_document": "halo-20240425.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.07,9.01; accession=0001159036-24-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-05-07",
+    "acceptance_datetime": "2024-05-07T20:05:55.000Z",
+    "report_date": "2024-05-07",
+    "accession": "0001159036-24-000036",
+    "primary_document": "halo-20240507.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-24-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-08-06",
+    "acceptance_datetime": "2024-08-06T20:03:09.000Z",
+    "report_date": "2024-08-06",
+    "accession": "0001159036-24-000043",
+    "primary_document": "halo-20240806.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-24-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-10-31",
+    "acceptance_datetime": "2024-10-31T20:05:56.000Z",
+    "report_date": "2024-10-31",
+    "accession": "0001159036-24-000049",
+    "primary_document": "halo-20241031.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-24-000049"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-01-08",
+    "acceptance_datetime": "2025-01-08T13:00:20.000Z",
+    "report_date": "2025-01-08",
+    "accession": "0001159036-25-000003",
+    "primary_document": "halo-20250108.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-25-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-02-13",
+    "acceptance_datetime": "2025-02-13T21:30:46.000Z",
+    "report_date": "2025-02-11",
+    "accession": "0001159036-25-000005",
+    "primary_document": "halo-20250211.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-25-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-02-18",
+    "acceptance_datetime": "2025-02-18T21:06:39.000Z",
+    "report_date": "2025-02-18",
+    "accession": "0001159036-25-000008",
+    "primary_document": "halo-20250218.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-25-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-03-21",
+    "acceptance_datetime": "2025-03-21T20:03:19.000Z",
+    "report_date": "2025-03-17",
+    "accession": "0001159036-25-000020",
+    "primary_document": "halo-20250317.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-25-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2025-05-02",
+    "acceptance_datetime": "2025-05-02T20:07:44.000Z",
+    "report_date": "2025-05-01",
+    "accession": "0001159036-25-000022",
+    "primary_document": "halo-20250501.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.07; accession=0001159036-25-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-05-06",
+    "acceptance_datetime": "2025-05-06T20:06:31.000Z",
+    "report_date": "2025-05-06",
+    "accession": "0001159036-25-000025",
+    "primary_document": "halo-20250506.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-25-000025"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-08-05",
+    "acceptance_datetime": "2025-08-05T20:06:09.000Z",
+    "report_date": "2025-08-05",
+    "accession": "0001159036-25-000033",
+    "primary_document": "halo-20250805.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-25-000033"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2025-10-01",
+    "acceptance_datetime": "2025-10-01T11:06:21.000Z",
+    "report_date": "2025-09-30",
+    "accession": "0001193125-25-225853",
+    "primary_document": "d940775d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-25-225853"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2025-10-03",
+    "acceptance_datetime": "2025-10-03T20:51:54.000Z",
+    "report_date": "2025-09-30",
+    "accession": "0001193125-25-230348",
+    "primary_document": "d807496d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-25-230348"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-10-06",
+    "acceptance_datetime": "2025-10-06T20:58:17.000Z",
+    "report_date": "2025-10-01",
+    "accession": "0001159036-25-000036",
+    "primary_document": "halo-20251001.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-25-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2025-10-14",
+    "acceptance_datetime": "2025-10-14T10:45:15.000Z",
+    "report_date": "2025-10-14",
+    "accession": "0001159036-25-000039",
+    "primary_document": "halo-20251014.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=7.01,9.01; accession=0001159036-25-000039"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2025-11-03",
+    "acceptance_datetime": "2025-11-03T21:07:32.000Z",
+    "report_date": "2025-11-03",
+    "accession": "0001159036-25-000044",
+    "primary_document": "halo-20251103.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001159036-25-000044"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2025-11-05",
+    "acceptance_datetime": "2025-11-05T21:59:47.000Z",
+    "report_date": "2025-11-05",
+    "accession": "0001159036-25-000047",
+    "primary_document": "halo-20251105.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001159036-25-000047"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-11-07",
+    "acceptance_datetime": "2025-11-07T13:02:52.000Z",
+    "report_date": "2025-11-06",
+    "accession": "0001159036-25-000049",
+    "primary_document": "halo-20251106.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001159036-25-000049"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,9.01",
+    "filing_date": "2025-11-12",
+    "acceptance_datetime": "2025-11-12T22:17:17.000Z",
+    "report_date": "2025-11-06",
+    "accession": "0001193125-25-277988",
+    "primary_document": "d945920d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.03,3.02,9.01; accession=0001193125-25-277988"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-11-24",
+    "acceptance_datetime": "2025-11-24T21:06:34.000Z",
+    "report_date": "2025-11-18",
+    "accession": "0001159036-25-000061",
+    "primary_document": "halo-20251118.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-25-000061"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-12-08",
+    "acceptance_datetime": "2025-12-08T22:20:13.000Z",
+    "report_date": "2025-12-04",
+    "accession": "0001159036-25-000068",
+    "primary_document": "halo-20251204.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-25-000068"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-12-09",
+    "acceptance_datetime": "2025-12-09T21:45:01.000Z",
+    "report_date": "2025-12-04",
+    "accession": "0001159036-25-000070",
+    "primary_document": "halo-20251204.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-25-000070"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-01-28",
+    "acceptance_datetime": "2026-01-28T11:40:00.000Z",
+    "report_date": "2026-01-28",
+    "accession": "0001159036-26-000011",
+    "primary_document": "halo-20260128.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-26-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-02-17",
+    "acceptance_datetime": "2026-02-17T21:04:55.000Z",
+    "report_date": "2026-02-17",
+    "accession": "0001159036-26-000023",
+    "primary_document": "halo-20260217.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-26-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2026-03-12",
+    "acceptance_datetime": "2026-03-12T12:32:00.000Z",
+    "report_date": "2026-03-12",
+    "accession": "0001159036-26-000035",
+    "primary_document": "halo-20260312.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001159036-26-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2026-04-24",
+    "acceptance_datetime": "2026-04-24T20:06:24.000Z",
+    "report_date": "2026-04-22",
+    "accession": "0001159036-26-000051",
+    "primary_document": "halo-20260422.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.03,9.01; accession=0001159036-26-000051"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2026-04-30",
+    "acceptance_datetime": "2026-04-30T12:12:51.000Z",
+    "report_date": "2026-04-30",
+    "accession": "0001159036-26-000053",
+    "primary_document": "halo-20260430.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02,9.01; accession=0001159036-26-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2026-05-07",
+    "acceptance_datetime": "2026-05-07T20:16:24.000Z",
+    "report_date": "2026-05-05",
+    "accession": "0001159036-26-000057",
+    "primary_document": "halo-20260505.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.07; accession=0001159036-26-000057"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-05-11",
+    "acceptance_datetime": "2026-05-11T20:06:06.000Z",
+    "report_date": "2026-05-11",
+    "accession": "0001159036-26-000067",
+    "primary_document": "halo-20260511.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-26-000067"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-07-02",
+    "acceptance_datetime": "2026-07-02T20:10:08.000Z",
+    "report_date": "2026-06-30",
+    "accession": "0001159036-26-000088",
+    "primary_document": "halo-20260630.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-26-000088"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-08-06",
+    "acceptance_datetime": "2026-08-06T20:08:16.000Z",
+    "report_date": "2026-08-06",
+    "accession": "0001159036-26-000103",
+    "primary_document": "halo-20260806.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-26-000103"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-08-18",
+    "acceptance_datetime": "2026-08-18T20:04:09.000Z",
+    "report_date": "2026-08-14",
+    "accession": "0001159036-26-000106",
+    "primary_document": "halo-20260814.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-26-000106"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2026-09-16",
+    "acceptance_datetime": "2026-09-16T20:32:09.000Z",
+    "report_date": "2026-09-16",
+    "accession": "0001159036-26-000121",
+    "primary_document": "halo-20260916.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001159036-26-000121"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2026-09-18",
+    "acceptance_datetime": "2026-09-18T12:23:28.000Z",
+    "report_date": "2026-09-17",
+    "accession": "0001159036-26-000126",
+    "primary_document": "halo-20260917.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=8.01,9.01; accession=0001159036-26-000126"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,9.01",
+    "filing_date": "2026-09-22",
+    "acceptance_datetime": "2026-09-22T20:41:04.000Z",
+    "report_date": "2026-09-22",
+    "accession": "0001193125-26-398015",
+    "primary_document": "d148460d8k.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=1.01,2.03,3.02,9.01; accession=0001193125-26-398015"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-09-30",
+    "acceptance_datetime": "2026-09-30T20:20:20.000Z",
+    "report_date": "2026-09-28",
+    "accession": "0001159036-26-000128",
+    "primary_document": "halo-20260928.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=5.02; accession=0001159036-26-000128"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-11-05",
+    "acceptance_datetime": "2026-11-05T21:08:53.000Z",
+    "report_date": "2026-11-05",
+    "accession": "0001159036-26-000143",
+    "primary_document": "halo-20261105.htm",
+    "cik": "0001159036",
+    "issuer_name": "HALOZYME THERAPEUTICS, INC.",
+    "tickers": [
+      "HALO"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001159036.json",
+    "locator": "8-K items=2.02,9.01; accession=0001159036-26-000143"
+  }
+]

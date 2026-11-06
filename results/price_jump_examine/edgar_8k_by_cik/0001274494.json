@@ -1,0 +1,3730 @@
+[
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2006-12-22",
+    "acceptance_datetime": "2006-12-22T19:26:53.000Z",
+    "report_date": "2006-12-18",
+    "accession": "0000950123-06-015535",
+    "primary_document": "y28278e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0000950123-06-015535"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-01-16",
+    "acceptance_datetime": "2007-01-16T17:28:24.000Z",
+    "report_date": "2006-12-21",
+    "accession": "0000950123-07-000402",
+    "primary_document": "y28973e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950123-07-000402"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-01-31",
+    "acceptance_datetime": "2007-01-31T01:01:05.000Z",
+    "report_date": "2007-01-25",
+    "accession": "0000950123-07-001067",
+    "primary_document": "y29750e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-07-001067"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-02-13",
+    "acceptance_datetime": "2007-02-13T21:00:33.000Z",
+    "report_date": "2007-02-13",
+    "accession": "0000950123-07-001971",
+    "primary_document": "y30383e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-07-001971"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-03-01",
+    "acceptance_datetime": "2007-03-01T22:28:32.000Z",
+    "report_date": "2007-03-01",
+    "accession": "0000950123-07-003050",
+    "primary_document": "y31263e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950123-07-003050"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-03-02",
+    "acceptance_datetime": "2007-03-02T21:38:31.000Z",
+    "report_date": "2007-03-02",
+    "accession": "0000950123-07-003126",
+    "primary_document": "y31263ke8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-07-003126"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-05-03",
+    "acceptance_datetime": "2007-05-03T20:38:19.000Z",
+    "report_date": "2007-05-03",
+    "accession": "0000950153-07-000978",
+    "primary_document": "p73811e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0000950153-07-000978"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-05-03",
+    "acceptance_datetime": "2007-05-03T20:47:15.000Z",
+    "report_date": "2007-05-03",
+    "accession": "0000950153-07-000979",
+    "primary_document": "p73809e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950153-07-000979"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2007-05-30",
+    "acceptance_datetime": "2007-05-30T13:45:57.000Z",
+    "report_date": "2007-05-03",
+    "accession": "0000950123-07-008062",
+    "primary_document": "y30656e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0000950123-07-008062"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-07-09",
+    "acceptance_datetime": "2007-07-09T12:01:00.000Z",
+    "report_date": "2007-07-06",
+    "accession": "0000950157-07-000864",
+    "primary_document": "form8k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950157-07-000864"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-07-31",
+    "acceptance_datetime": "2007-07-31T20:11:47.000Z",
+    "report_date": "2007-07-31",
+    "accession": "0000950153-07-001621",
+    "primary_document": "p74135e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950153-07-001621"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-08-29",
+    "acceptance_datetime": "2007-08-28T22:51:38.000Z",
+    "report_date": "2007-08-27",
+    "accession": "0000950153-07-001877",
+    "primary_document": "p74281e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0000950153-07-001877"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-09-25",
+    "acceptance_datetime": "2007-09-25T10:01:19.000Z",
+    "report_date": "2007-09-24",
+    "accession": "0000950134-07-020409",
+    "primary_document": "p74404e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950134-07-020409"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-09-28",
+    "acceptance_datetime": "2007-09-28T10:07:59.000Z",
+    "report_date": "2007-09-28",
+    "accession": "0000950134-07-020602",
+    "primary_document": "p74418e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950134-07-020602"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-11-05",
+    "acceptance_datetime": "2007-11-05T21:31:19.000Z",
+    "report_date": "2007-11-05",
+    "accession": "0000950153-07-002297",
+    "primary_document": "p74562e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950153-07-002297"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-11-07",
+    "acceptance_datetime": "2007-11-07T21:23:17.000Z",
+    "report_date": "2007-11-07",
+    "accession": "0000950153-07-002322",
+    "primary_document": "p74556e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950153-07-002322"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-12-18",
+    "acceptance_datetime": "2007-12-17T22:36:35.000Z",
+    "report_date": "2007-12-17",
+    "accession": "0000950153-07-002644",
+    "primary_document": "p74770e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950153-07-002644"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-02-13",
+    "acceptance_datetime": "2008-02-13T12:30:07.000Z",
+    "report_date": "2008-02-13",
+    "accession": "0000950134-08-002434",
+    "primary_document": "p74980e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-08-002434"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-04-30",
+    "acceptance_datetime": "2008-04-30T11:00:54.000Z",
+    "report_date": "2008-03-29",
+    "accession": "0000950134-08-007885",
+    "primary_document": "p75435e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950134-08-007885"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2008-05-12",
+    "acceptance_datetime": "2008-05-12T21:15:36.000Z",
+    "report_date": "2008-05-06",
+    "accession": "0000950123-08-005532",
+    "primary_document": "y57742e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0000950123-08-005532"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-05-28",
+    "acceptance_datetime": "2008-05-27T22:38:33.000Z",
+    "report_date": "2008-05-23",
+    "accession": "0000950153-08-001046",
+    "primary_document": "p75581e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0000950153-08-001046"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-07-30",
+    "acceptance_datetime": "2008-07-30T20:09:57.000Z",
+    "report_date": "2008-06-28",
+    "accession": "0000950153-08-001307",
+    "primary_document": "p75987e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950153-08-001307"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-10-29",
+    "acceptance_datetime": "2008-10-29T20:14:04.000Z",
+    "report_date": "2008-09-27",
+    "accession": "0000950153-08-001802",
+    "primary_document": "p13398e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950153-08-001802"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-10-31",
+    "acceptance_datetime": "2008-10-31T17:29:34.000Z",
+    "report_date": "2008-10-30",
+    "accession": "0000950153-08-001819",
+    "primary_document": "p13449e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0000950153-08-001819"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-11-17",
+    "acceptance_datetime": "2008-11-17T21:47:29.000Z",
+    "report_date": "2008-11-17",
+    "accession": "0000950153-08-001971",
+    "primary_document": "p13570e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0000950153-08-001971"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-01-09",
+    "acceptance_datetime": "2009-01-09T01:11:17.000Z",
+    "report_date": "2008-12-29",
+    "accession": "0000950153-09-000026",
+    "primary_document": "p13875e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0000950153-09-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-02-24",
+    "acceptance_datetime": "2009-02-24T21:13:36.000Z",
+    "report_date": "2008-12-27",
+    "accession": "0000950153-09-000152",
+    "primary_document": "p14189e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950153-09-000152"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-03-03",
+    "acceptance_datetime": "2009-03-02T23:01:55.000Z",
+    "report_date": "2009-03-02",
+    "accession": "0000950153-09-000174",
+    "primary_document": "p14372e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950153-09-000174"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02",
+    "filing_date": "2009-03-06",
+    "acceptance_datetime": "2009-03-06T00:25:22.000Z",
+    "report_date": "2009-03-02",
+    "accession": "0000950134-09-004610",
+    "primary_document": "p14394e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,3.02; accession=0000950134-09-004610"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-04-02",
+    "acceptance_datetime": "2009-04-02T20:42:17.000Z",
+    "report_date": "2009-04-02",
+    "accession": "0000950153-09-000251",
+    "primary_document": "p14627e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950153-09-000251"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02,8.01,9.01",
+    "filing_date": "2009-04-09",
+    "acceptance_datetime": "2009-04-09T18:49:29.000Z",
+    "report_date": "2009-04-03",
+    "accession": "0000950153-09-000273",
+    "primary_document": "p14689e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=3.02,8.01,9.01; accession=0000950153-09-000273"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-04-29",
+    "acceptance_datetime": "2009-04-29T20:05:04.000Z",
+    "report_date": "2009-04-29",
+    "accession": "0001274494-09-000004",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-09-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2009-05-01",
+    "acceptance_datetime": "2009-04-30T21:51:05.000Z",
+    "report_date": "2009-04-30",
+    "accession": "0001274494-09-000008",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-09-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-07-24",
+    "acceptance_datetime": "2009-07-23T22:56:56.000Z",
+    "report_date": "2009-07-23",
+    "accession": "0001274494-09-000015",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0001274494-09-000015"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-07-30",
+    "acceptance_datetime": "2009-07-30T20:24:49.000Z",
+    "report_date": "2009-07-30",
+    "accession": "0001274494-09-000016",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-09-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-08-26",
+    "acceptance_datetime": "2009-08-25T22:52:46.000Z",
+    "report_date": "2009-08-24",
+    "accession": "0001274494-09-000023",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-09-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-09-08",
+    "acceptance_datetime": "2009-09-08T20:37:07.000Z",
+    "report_date": "2009-09-07",
+    "accession": "0001274494-09-000025",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0001274494-09-000025"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2009-09-10",
+    "acceptance_datetime": "2009-09-10T20:34:43.000Z",
+    "report_date": "2009-09-04",
+    "accession": "0000950123-09-042425",
+    "primary_document": "p15849e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950123-09-042425"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2009-09-10",
+    "acceptance_datetime": "2009-09-10T20:53:39.000Z",
+    "report_date": "2009-09-10",
+    "accession": "0001274494-09-000027",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-09-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-10-28",
+    "acceptance_datetime": "2009-10-28T20:08:18.000Z",
+    "report_date": "2009-10-28",
+    "accession": "0001274494-09-000029",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-09-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-11-02",
+    "acceptance_datetime": "2009-11-02T20:32:21.000Z",
+    "report_date": "2009-11-02",
+    "accession": "0001274494-09-000034",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-09-000034"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-11-17",
+    "acceptance_datetime": "2009-11-17T15:36:21.000Z",
+    "report_date": "2009-11-16",
+    "accession": "0001274494-09-000036",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-09-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-12-16",
+    "acceptance_datetime": "2009-12-16T21:12:52.000Z",
+    "report_date": "2009-12-16",
+    "accession": "0001274494-09-000038",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=7.01,9.01; accession=0001274494-09-000038"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-02-18",
+    "acceptance_datetime": "2010-02-18T21:07:48.000Z",
+    "report_date": "2009-12-26",
+    "accession": "0001274494-10-000002",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-10-000002"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.02,9.01",
+    "filing_date": "2010-02-19",
+    "acceptance_datetime": "2010-02-19T17:10:40.000Z",
+    "report_date": "2010-02-18",
+    "accession": "0001274494-10-000005",
+    "primary_document": "form10-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-10-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2010-04-28",
+    "acceptance_datetime": "2010-04-28T16:47:54.000Z",
+    "report_date": "2010-04-27",
+    "accession": "0000950123-10-039411",
+    "primary_document": "c99740e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0000950123-10-039411"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-04-28",
+    "acceptance_datetime": "2010-04-28T20:23:53.000Z",
+    "report_date": "2010-04-28",
+    "accession": "0001274494-10-000009",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-10-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2010-06-02",
+    "acceptance_datetime": "2010-06-02T21:09:07.000Z",
+    "report_date": "2010-06-01",
+    "accession": "0001274494-10-000014",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-10-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2010-07-01",
+    "acceptance_datetime": "2010-07-01T16:07:13.000Z",
+    "report_date": "2010-07-01",
+    "accession": "0001274494-10-000022",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-10-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2010-07-13",
+    "acceptance_datetime": "2010-07-13T15:54:25.000Z",
+    "report_date": "2010-07-12",
+    "accession": "0001274494-10-000024",
+    "primary_document": "form8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0001274494-10-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-07-29",
+    "acceptance_datetime": "2010-07-29T20:14:15.000Z",
+    "report_date": "2010-07-29",
+    "accession": "0001274494-10-000026",
+    "primary_document": "a8kpressrelease62610.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-10-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2010-10-20",
+    "acceptance_datetime": "2010-10-20T20:57:41.000Z",
+    "report_date": "2010-10-15",
+    "accession": "0000950123-10-094577",
+    "primary_document": "c07094e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950123-10-094577"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-10-28",
+    "acceptance_datetime": "2010-10-28T20:19:45.000Z",
+    "report_date": "2010-10-28",
+    "accession": "0001274494-10-000036",
+    "primary_document": "a8kpressrelease092510.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-10-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2010-12-13",
+    "acceptance_datetime": "2010-12-13T21:56:00.000Z",
+    "report_date": "2010-12-07",
+    "accession": "0001274494-10-000043",
+    "primary_document": "a8kofficerchangesdecember2.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-10-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-12-14",
+    "acceptance_datetime": "2010-12-14T21:10:31.000Z",
+    "report_date": "2010-12-14",
+    "accession": "0001274494-10-000046",
+    "primary_document": "a8kguidancedecember142010.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=7.01,9.01; accession=0001274494-10-000046"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-02-24",
+    "acceptance_datetime": "2011-02-24T21:08:43.000Z",
+    "report_date": "2011-02-24",
+    "accession": "0001274494-11-000003",
+    "primary_document": "a8kfinancialresultsq410.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-11-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-03-21",
+    "acceptance_datetime": "2011-03-21T17:01:06.000Z",
+    "report_date": "2011-03-15",
+    "accession": "0001274494-11-000009",
+    "primary_document": "a8knewcfo.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-11-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-04-13",
+    "acceptance_datetime": "2011-04-13T21:15:32.000Z",
+    "report_date": "2011-04-13",
+    "accession": "0001274494-11-000012",
+    "primary_document": "a8kdated41311.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-11-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-05-03",
+    "acceptance_datetime": "2011-05-03T20:11:37.000Z",
+    "report_date": "2011-05-03",
+    "accession": "0001274494-11-000017",
+    "primary_document": "a8-kq1x11financials.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-11-000017"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2011-05-12",
+    "acceptance_datetime": "2011-05-11T21:47:29.000Z",
+    "report_date": "2011-05-06",
+    "accession": "0001274494-11-000026",
+    "primary_document": "a8-kcreditagreementamendme.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0001274494-11-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2011-05-24",
+    "acceptance_datetime": "2011-05-24T19:21:27.000Z",
+    "report_date": "2011-05-18",
+    "accession": "0000950123-11-053489",
+    "primary_document": "c17854e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0000950123-11-053489"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2011-05-26",
+    "acceptance_datetime": "2011-05-25T23:49:59.000Z",
+    "report_date": "2011-05-25",
+    "accession": "0001274494-11-000028",
+    "primary_document": "a8-kshareholdermeeting5x25.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-11-000028"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2011-07-07",
+    "acceptance_datetime": "2011-07-07T19:23:48.000Z",
+    "report_date": "2011-06-30",
+    "accession": "0000950123-11-064352",
+    "primary_document": "c19680e8vk.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0000950123-11-064352"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2011-07-14",
+    "acceptance_datetime": "2011-07-13T22:03:29.000Z",
+    "report_date": "2011-07-11",
+    "accession": "0001274494-11-000031",
+    "primary_document": "a8-kcreditagreementamendme.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0001274494-11-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-08-04",
+    "acceptance_datetime": "2011-08-04T20:10:46.000Z",
+    "report_date": "2011-08-04",
+    "accession": "0001274494-11-000035",
+    "primary_document": "a8-kfinancialpressreleaseq.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-11-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2011-08-17",
+    "acceptance_datetime": "2011-08-16T22:24:25.000Z",
+    "report_date": "2011-08-16",
+    "accession": "0001274494-11-000040",
+    "primary_document": "a8-kusbgpresidenttransition.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-11-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-09-30",
+    "acceptance_datetime": "2011-09-30T19:36:41.000Z",
+    "report_date": "2011-09-30",
+    "accession": "0001274494-11-000047",
+    "primary_document": "a8-kdesertsunlight.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0001274494-11-000047"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-09-30",
+    "acceptance_datetime": "2011-09-30T20:05:01.000Z",
+    "report_date": "2011-09-30",
+    "accession": "0001274494-11-000048",
+    "primary_document": "a8-kavsr.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0001274494-11-000048"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-10-26",
+    "acceptance_datetime": "2011-10-26T16:03:26.000Z",
+    "report_date": "2011-10-26",
+    "accession": "0001274494-11-000050",
+    "primary_document": "currentreportonform8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-11-000050"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,9.01",
+    "filing_date": "2011-10-31",
+    "acceptance_datetime": "2011-10-31T21:29:13.000Z",
+    "report_date": "2011-10-25",
+    "accession": "0001274494-11-000052",
+    "primary_document": "form8-k10x31x2011.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,5.03,9.01; accession=0001274494-11-000052"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.02,9.01",
+    "filing_date": "2011-11-21",
+    "acceptance_datetime": "2011-11-21T16:14:42.000Z",
+    "report_date": "2011-11-15",
+    "accession": "0001274494-11-000057",
+    "primary_document": "a8-kadated11212011.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-11-000057"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05,2.06,5.02,7.01,8.01,9.01",
+    "filing_date": "2011-12-14",
+    "acceptance_datetime": "2011-12-14T12:11:36.000Z",
+    "report_date": "2011-12-14",
+    "accession": "0001274494-11-000060",
+    "primary_document": "form8-k12x14x11.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.05,2.06,5.02,7.01,8.01,9.01; accession=0001274494-11-000060"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.02",
+    "filing_date": "2011-12-29",
+    "acceptance_datetime": "2011-12-29T22:04:32.000Z",
+    "report_date": "2011-12-28",
+    "accession": "0001274494-11-000063",
+    "primary_document": "a8-kainterimceoagreement.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-11-000063"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2012-02-09",
+    "acceptance_datetime": "2012-02-09T21:12:00.000Z",
+    "report_date": "2012-02-09",
+    "accession": "0001274494-12-000003",
+    "primary_document": "a8-kavsr2x9x2012.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-12-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2012-02-23",
+    "acceptance_datetime": "2012-02-23T21:43:32.000Z",
+    "report_date": "2012-02-23",
+    "accession": "0001274494-12-000005",
+    "primary_document": "a8-kavsr2x23x2012.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-12-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-02-28",
+    "acceptance_datetime": "2012-02-28T21:29:22.000Z",
+    "report_date": "2012-02-28",
+    "accession": "0001274494-12-000011",
+    "primary_document": "a8-kfinancialresultsq411.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-12-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-03-19",
+    "acceptance_datetime": "2012-03-19T20:05:26.000Z",
+    "report_date": "2012-03-14",
+    "accession": "0001274494-12-000019",
+    "primary_document": "a8-kchiefcommercialofficer.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-12-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05,2.06,7.01,8.01,9.01",
+    "filing_date": "2012-04-17",
+    "acceptance_datetime": "2012-04-17T12:08:00.000Z",
+    "report_date": "2012-04-16",
+    "accession": "0001193125-12-165498",
+    "primary_document": "d335741d8k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.05,2.06,7.01,8.01,9.01; accession=0001193125-12-165498"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-05-03",
+    "acceptance_datetime": "2012-05-03T20:14:00.000Z",
+    "report_date": "2012-05-03",
+    "accession": "0001193125-12-208500",
+    "primary_document": "d347106d8k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-208500"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-05-11",
+    "acceptance_datetime": "2012-05-11T20:42:40.000Z",
+    "report_date": "2012-05-09",
+    "accession": "0001274494-12-000024",
+    "primary_document": "a8-knewceo.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-12-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2012-05-24",
+    "acceptance_datetime": "2012-05-24T17:42:37.000Z",
+    "report_date": "2012-05-23",
+    "accession": "0001274494-12-000027",
+    "primary_document": "a8-kshareholdermeeting5x23.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-12-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-06-29",
+    "acceptance_datetime": "2012-06-29T16:08:38.000Z",
+    "report_date": "2012-06-29",
+    "accession": "0001274494-12-000029",
+    "primary_document": "a8-kchiefoperatingofficer.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-12-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2012-08-01",
+    "acceptance_datetime": "2012-08-01T20:23:52.000Z",
+    "report_date": "2012-08-01",
+    "accession": "0001274494-12-000033",
+    "primary_document": "a8-kfinancialresultsq212.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001274494-12-000033"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2012-10-26",
+    "acceptance_datetime": "2012-10-26T20:52:31.000Z",
+    "report_date": "2012-10-26",
+    "accession": "0001274494-12-000043",
+    "primary_document": "a8-kcreditagreementamendme.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0001274494-12-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-11-01",
+    "acceptance_datetime": "2012-11-01T20:35:25.000Z",
+    "report_date": "2012-11-01",
+    "accession": "0001274494-12-000045",
+    "primary_document": "a8-kfinancialresultsq3x12.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-12-000045"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-02-26",
+    "acceptance_datetime": "2013-02-26T21:09:23.000Z",
+    "report_date": "2013-02-26",
+    "accession": "0001274494-13-000004",
+    "primary_document": "a8-kfinancialresultsq4x12.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-13-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-04-08",
+    "acceptance_datetime": "2013-04-05T21:52:13.000Z",
+    "report_date": "2013-04-03",
+    "accession": "0001274494-13-000008",
+    "primary_document": "a8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-13-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2013-04-09",
+    "acceptance_datetime": "2013-04-09T17:36:48.000Z",
+    "report_date": "2013-04-09",
+    "accession": "0001274494-13-000011",
+    "primary_document": "a8-kanalystday2013.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=7.01,9.01; accession=0001274494-13-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-05-06",
+    "acceptance_datetime": "2013-05-06T20:12:46.000Z",
+    "report_date": "2013-05-06",
+    "accession": "0001274494-13-000015",
+    "primary_document": "a8-kfinancialresultsq1x13.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-13-000015"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2013-05-24",
+    "acceptance_datetime": "2013-05-23T23:04:52.000Z",
+    "report_date": "2013-05-22",
+    "accession": "0001274494-13-000020",
+    "primary_document": "a8-kshareholdermeeting5x22.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-13-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-06-04",
+    "acceptance_datetime": "2013-06-04T17:19:25.000Z",
+    "report_date": "2013-05-30",
+    "accession": "0001274494-13-000022",
+    "primary_document": "a8-kmarybeth.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-13-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2013-06-11",
+    "acceptance_datetime": "2013-06-11T20:56:53.000Z",
+    "report_date": "2013-06-11",
+    "accession": "0001193125-13-254847",
+    "primary_document": "d552095d8k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=7.01; accession=0001193125-13-254847"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-06-13",
+    "acceptance_datetime": "2013-06-13T21:11:28.000Z",
+    "report_date": "2013-06-11",
+    "accession": "0001274494-13-000024",
+    "primary_document": "a8-kdated6x13x13.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0001274494-13-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2013-06-18",
+    "acceptance_datetime": "2013-06-18T16:33:39.000Z",
+    "report_date": "2013-06-12",
+    "accession": "0001193125-13-262305",
+    "primary_document": "d555684d8k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-13-262305"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2013-07-19",
+    "acceptance_datetime": "2013-07-19T18:04:36.000Z",
+    "report_date": "2013-07-15",
+    "accession": "0000950157-13-000272",
+    "primary_document": "form8k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950157-13-000272"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2013-08-02",
+    "acceptance_datetime": "2013-08-02T16:28:16.000Z",
+    "report_date": "2013-08-02",
+    "accession": "0001274494-13-000029",
+    "primary_document": "form8-kdated8x2x13.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-13-000029"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.02,9.01",
+    "filing_date": "2013-08-05",
+    "acceptance_datetime": "2013-08-05T19:07:07.000Z",
+    "report_date": "2013-08-05",
+    "accession": "0001274494-13-000033",
+    "primary_document": "a8-ka.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-13-000033"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,3.02,9.01",
+    "filing_date": "2013-08-06",
+    "acceptance_datetime": "2013-08-06T20:10:31.000Z",
+    "report_date": "2013-08-05",
+    "accession": "0001274494-13-000038",
+    "primary_document": "a8-kfinancialresultsq2x13.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,3.02,9.01; accession=0001274494-13-000038"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2013-08-28",
+    "acceptance_datetime": "2013-08-28T13:57:53.000Z",
+    "report_date": "2013-08-28",
+    "accession": "0001274494-13-000044",
+    "primary_document": "a8-kchiefcommercialofficer.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-13-000044"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05,2.06",
+    "filing_date": "2013-10-09",
+    "acceptance_datetime": "2013-10-09T21:29:30.000Z",
+    "report_date": "2013-10-03",
+    "accession": "0001274494-13-000046",
+    "primary_document": "mesa8-k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.05,2.06; accession=0001274494-13-000046"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-10-31",
+    "acceptance_datetime": "2013-10-31T20:16:21.000Z",
+    "report_date": "2013-10-31",
+    "accession": "0001274494-13-000050",
+    "primary_document": "a8-kfinancialresultsq3x13.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-13-000050"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-02-21",
+    "acceptance_datetime": "2014-02-21T17:40:37.000Z",
+    "report_date": "2014-02-20",
+    "accession": "0001274494-14-000005",
+    "primary_document": "a8-kgeneralcounselxpkaleta.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0001274494-14-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-02-25",
+    "acceptance_datetime": "2014-02-25T21:15:01.000Z",
+    "report_date": "2014-02-25",
+    "accession": "0001274494-14-000009",
+    "primary_document": "a8-kfinancialresultsq4x13.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-14-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-03-19",
+    "acceptance_datetime": "2014-03-19T16:57:12.000Z",
+    "report_date": "2014-03-19",
+    "accession": "0001274494-14-000013",
+    "primary_document": "a8-kanalystday2014.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=7.01,9.01; accession=0001274494-14-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-05-06",
+    "acceptance_datetime": "2014-05-06T20:11:51.000Z",
+    "report_date": "2014-05-06",
+    "accession": "0001274494-14-000018",
+    "primary_document": "a8-kfinancialresultsq1x14.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-14-000018"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2014-05-21",
+    "acceptance_datetime": "2014-05-21T21:11:09.000Z",
+    "report_date": "2014-05-21",
+    "accession": "0001274494-14-000023",
+    "primary_document": "a8-kshareholdermeeting5x21.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-14-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-08-05",
+    "acceptance_datetime": "2014-08-05T20:16:25.000Z",
+    "report_date": "2014-08-05",
+    "accession": "0001274494-14-000030",
+    "primary_document": "a8-kfinancialresultsq2x14.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-14-000030"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-08-28",
+    "acceptance_datetime": "2014-08-28T20:16:03.000Z",
+    "report_date": "2014-08-22",
+    "accession": "0001274494-14-000036",
+    "primary_document": "a8-kluzdelnorte.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-14-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-11-06",
+    "acceptance_datetime": "2014-11-06T21:15:29.000Z",
+    "report_date": "2014-11-06",
+    "accession": "0001274494-14-000040",
+    "primary_document": "a8-kfinancialresultsq3x14.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-14-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-02-24",
+    "acceptance_datetime": "2015-02-24T21:12:22.000Z",
+    "report_date": "2015-02-24",
+    "accession": "0001274494-15-000004",
+    "primary_document": "a8-kfinancialresultsq4x14.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-15-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2015-03-11",
+    "acceptance_datetime": "2015-03-11T01:21:03.000Z",
+    "report_date": "2015-03-10",
+    "accession": "0001193125-15-085817",
+    "primary_document": "d889676d8k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-15-085817"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-04-30",
+    "acceptance_datetime": "2015-04-30T21:04:38.000Z",
+    "report_date": "2015-04-30",
+    "accession": "0001274494-15-000010",
+    "primary_document": "a8-kfinancialresultsq1x15v2.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-15-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-05-22",
+    "acceptance_datetime": "2015-05-21T22:06:05.000Z",
+    "report_date": "2015-05-20",
+    "accession": "0001274494-15-000014",
+    "primary_document": "a8-kshareholdermeeting5x20.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-15-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-06-05",
+    "acceptance_datetime": "2015-06-05T20:49:00.000Z",
+    "report_date": "2015-06-03",
+    "accession": "0001274494-15-000023",
+    "primary_document": "form8-k5thamendmenttocredi.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0001274494-15-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01",
+    "filing_date": "2015-06-30",
+    "acceptance_datetime": "2015-06-30T21:23:29.000Z",
+    "report_date": "2015-06-24",
+    "accession": "0001193125-15-241469",
+    "primary_document": "d48669d8k.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,8.01; accession=0001193125-15-241469"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-07-01",
+    "acceptance_datetime": "2015-07-01T21:23:25.000Z",
+    "report_date": "2015-07-01",
+    "accession": "0001274494-15-000025",
+    "primary_document": "form8-kofficerappointments.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-15-000025"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-08-04",
+    "acceptance_datetime": "2015-08-04T20:08:40.000Z",
+    "report_date": "2015-08-04",
+    "accession": "0001274494-15-000030",
+    "primary_document": "a8-kfinancialresultsq2x2015.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-15-000030"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-08-12",
+    "acceptance_datetime": "2015-08-12T20:30:56.000Z",
+    "report_date": "2015-08-11",
+    "accession": "0001274494-15-000035",
+    "primary_document": "a8-klegalproceedings.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-15-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-10-29",
+    "acceptance_datetime": "2015-10-29T20:14:10.000Z",
+    "report_date": "2015-10-29",
+    "accession": "0001274494-15-000037",
+    "primary_document": "a8-kfinancialresultsq3x2015.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-15-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-11-10",
+    "acceptance_datetime": "2015-11-09T22:32:47.000Z",
+    "report_date": "2015-11-09",
+    "accession": "0001274494-15-000044",
+    "primary_document": "a8-kfinalfinancialresultsq.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-15-000044"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-11-20",
+    "acceptance_datetime": "2015-11-20T21:14:11.000Z",
+    "report_date": "2015-11-18",
+    "accession": "0001274494-15-000049",
+    "primary_document": "a8-klegalproceedingsclassa.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-15-000049"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-12-09",
+    "acceptance_datetime": "2015-12-09T21:08:54.000Z",
+    "report_date": "2015-12-09",
+    "accession": "0001274494-15-000058",
+    "primary_document": "a8-k2016guidance.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=7.01,9.01; accession=0001274494-15-000058"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-23",
+    "acceptance_datetime": "2016-02-23T21:10:17.000Z",
+    "report_date": "2016-02-23",
+    "accession": "0001274494-16-000064",
+    "primary_document": "a8-kfinancialresultsq4x2015.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-16-000064"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-04-27",
+    "acceptance_datetime": "2016-04-27T20:15:41.000Z",
+    "report_date": "2016-04-27",
+    "accession": "0001274494-16-000072",
+    "primary_document": "a8-kfinancialresultsq1x2016.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-16-000072"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2016-05-09",
+    "acceptance_datetime": "2016-05-09T20:14:06.000Z",
+    "report_date": "2016-05-03",
+    "accession": "0001274494-16-000076",
+    "primary_document": "a8-kofficerchanges.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-16-000076"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2016-05-20",
+    "acceptance_datetime": "2016-05-19T22:38:51.000Z",
+    "report_date": "2016-05-18",
+    "accession": "0001274494-16-000078",
+    "primary_document": "a8-kshareholdermeeting5x18.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-16-000078"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05,2.06,7.01,9.01",
+    "filing_date": "2016-07-05",
+    "acceptance_datetime": "2016-07-05T13:22:43.000Z",
+    "report_date": "2016-06-30",
+    "accession": "0001274494-16-000082",
+    "primary_document": "a8-ktetrasunoperations.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.05,2.06,7.01,9.01; accession=0001274494-16-000082"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-08-03",
+    "acceptance_datetime": "2016-08-03T20:12:28.000Z",
+    "report_date": "2016-08-03",
+    "accession": "0001274494-16-000085",
+    "primary_document": "a8-kfinancialresultsq2x2016.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-16-000085"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2016-09-02",
+    "acceptance_datetime": "2016-09-02T20:17:04.000Z",
+    "report_date": "2016-09-01",
+    "accession": "0001274494-16-000089",
+    "primary_document": "a8-kboardtransition.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-16-000089"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2016-10-14",
+    "acceptance_datetime": "2016-10-14T17:02:17.000Z",
+    "report_date": "2016-10-12",
+    "accession": "0001274494-16-000096",
+    "primary_document": "a8-kcfoappointment.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-16-000096"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-11-02",
+    "acceptance_datetime": "2016-11-02T20:08:09.000Z",
+    "report_date": "2016-11-02",
+    "accession": "0001274494-16-000099",
+    "primary_document": "a8-kfinancialresultsq3x2016.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-16-000099"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05,2.06,7.01,9.01",
+    "filing_date": "2016-11-16",
+    "acceptance_datetime": "2016-11-16T21:08:06.000Z",
+    "report_date": "2016-11-10",
+    "accession": "0001274494-16-000103",
+    "primary_document": "a8-kseries6andupdatedguida.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.05,2.06,7.01,9.01; accession=0001274494-16-000103"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2017-01-27",
+    "acceptance_datetime": "2017-01-26T23:29:27.000Z",
+    "report_date": "2017-01-20",
+    "accession": "0001274494-17-000002",
+    "primary_document": "a8-ksixthamendmenttocredit.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0001274494-17-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-02-21",
+    "acceptance_datetime": "2017-02-21T21:16:26.000Z",
+    "report_date": "2017-02-21",
+    "accession": "0001274494-17-000004",
+    "primary_document": "a8-kfinancialresultsq4x2016.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-17-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2017-02-24",
+    "acceptance_datetime": "2017-02-23T23:51:02.000Z",
+    "report_date": "2017-02-21",
+    "accession": "0001274494-17-000008",
+    "primary_document": "a8-kjapanishikawadebt.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-17-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-04-05",
+    "acceptance_datetime": "2017-04-05T20:08:04.000Z",
+    "report_date": "2017-04-05",
+    "accession": "0001274494-17-000016",
+    "primary_document": "a8-kfslr8point3review.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0001274494-17-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-05-02",
+    "acceptance_datetime": "2017-05-02T20:12:56.000Z",
+    "report_date": "2017-05-02",
+    "accession": "0001274494-17-000021",
+    "primary_document": "a8-kfinancialresultsq1x2017.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-17-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2017-05-22",
+    "acceptance_datetime": "2017-05-22T18:03:21.000Z",
+    "report_date": "2017-05-17",
+    "accession": "0001274494-17-000025",
+    "primary_document": "a8-kshareholdermeeting5x17.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-17-000025"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2017-06-09",
+    "acceptance_datetime": "2017-06-09T12:32:12.000Z",
+    "report_date": "2017-06-05",
+    "accession": "0001274494-17-000031",
+    "primary_document": "a8-kappointmentofboardmemb.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-17-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2017-07-14",
+    "acceptance_datetime": "2017-07-14T20:26:19.000Z",
+    "report_date": "2017-07-10",
+    "accession": "0001274494-17-000033",
+    "primary_document": "a8-ksecondamendedandrestat.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0001274494-17-000033"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.07",
+    "filing_date": "2017-07-24",
+    "acceptance_datetime": "2017-07-24T21:23:53.000Z",
+    "report_date": "2017-05-17",
+    "accession": "0001274494-17-000035",
+    "primary_document": "a8-kasayonpayfrequency.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-17-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-07-27",
+    "acceptance_datetime": "2017-07-27T20:06:42.000Z",
+    "report_date": "2017-07-27",
+    "accession": "0001274494-17-000037",
+    "primary_document": "a8-kfinancialresultsq2x2017.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-17-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-10-26",
+    "acceptance_datetime": "2017-10-26T20:04:00.000Z",
+    "report_date": "2017-10-26",
+    "accession": "0001274494-17-000043",
+    "primary_document": "a8-kfinancialresultsq3x2017.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-17-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-12-05",
+    "acceptance_datetime": "2017-12-05T18:00:10.000Z",
+    "report_date": "2017-12-05",
+    "accession": "0001274494-17-000048",
+    "primary_document": "a8-k2018guidance.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=7.01,9.01; accession=0001274494-17-000048"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-02-05",
+    "acceptance_datetime": "2018-02-05T22:29:05.000Z",
+    "report_date": "2018-02-05",
+    "accession": "0001274494-18-000002",
+    "primary_document": "a8-k8point3saleagreement.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0001274494-18-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-02-06",
+    "acceptance_datetime": "2018-02-06T21:31:58.000Z",
+    "report_date": "2018-01-31",
+    "accession": "0001274494-18-000004",
+    "primary_document": "a8-kclassactionupdate.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-18-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-22",
+    "acceptance_datetime": "2018-02-22T21:03:49.000Z",
+    "report_date": "2018-02-22",
+    "accession": "0001274494-18-000009",
+    "primary_document": "a8-kfinancialresultsq4x2017.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-18-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-04-26",
+    "acceptance_datetime": "2018-04-26T20:11:02.000Z",
+    "report_date": "2018-04-26",
+    "accession": "0001274494-18-000021",
+    "primary_document": "a8-kfinancialresultsq1x2018.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-18-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-05-11",
+    "acceptance_datetime": "2018-05-11T20:51:54.000Z",
+    "report_date": "2018-05-07",
+    "accession": "0001274494-18-000027",
+    "primary_document": "a8-kclassactionupdate050718.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-18-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-05-11",
+    "acceptance_datetime": "2018-05-11T20:56:04.000Z",
+    "report_date": "2018-05-11",
+    "accession": "0001274494-18-000028",
+    "primary_document": "a8-kaustraliaberyldebt.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-18-000028"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-05-21",
+    "acceptance_datetime": "2018-05-21T21:22:52.000Z",
+    "report_date": "2018-05-16",
+    "accession": "0001274494-18-000030",
+    "primary_document": "a8-kshareholdermeeting5x16.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-18-000030"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-06-20",
+    "acceptance_datetime": "2018-06-20T00:29:02.000Z",
+    "report_date": "2018-06-19",
+    "accession": "0001274494-18-000035",
+    "primary_document": "a8-k8point3sale.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-18-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-07-26",
+    "acceptance_datetime": "2018-07-26T20:14:33.000Z",
+    "report_date": "2018-07-26",
+    "accession": "0001274494-18-000038",
+    "primary_document": "a8-kfinancialresultsq2x2018.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-18-000038"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-10-25",
+    "acceptance_datetime": "2018-10-25T20:17:00.000Z",
+    "report_date": "2018-10-25",
+    "accession": "0001274494-18-000045",
+    "primary_document": "a8-kfinancialresultsq3x2018.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-18-000045"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-11-20",
+    "acceptance_datetime": "2018-11-20T21:14:48.000Z",
+    "report_date": "2018-11-14",
+    "accession": "0001274494-18-000049",
+    "primary_document": "a8-kclassactionupdate11202.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-18-000049"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-12-04",
+    "acceptance_datetime": "2018-12-04T21:17:31.000Z",
+    "report_date": "2018-11-30",
+    "accession": "0001274494-18-000051",
+    "primary_document": "a8-kroyaloakdebt.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-18-000051"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-12-11",
+    "acceptance_datetime": "2018-12-11T21:11:15.000Z",
+    "report_date": "2018-12-11",
+    "accession": "0001274494-18-000053",
+    "primary_document": "a8-k2019guidance.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=7.01,9.01; accession=0001274494-18-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-21",
+    "acceptance_datetime": "2019-02-21T21:11:01.000Z",
+    "report_date": "2019-02-21",
+    "accession": "0001274494-19-000002",
+    "primary_document": "a8-kfinancialresultsq4x2018.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-19-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-03-21",
+    "acceptance_datetime": "2019-03-21T21:01:51.000Z",
+    "report_date": "2019-03-18",
+    "accession": "0001274494-19-000006",
+    "primary_document": "a8-kofficerdeparturexschum.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-19-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-04-25",
+    "acceptance_datetime": "2019-04-25T20:19:06.000Z",
+    "report_date": "2019-04-23",
+    "accession": "0001274494-19-000012",
+    "primary_document": "a8-kofficerappointmentxjef.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-19-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-02",
+    "acceptance_datetime": "2019-05-02T20:08:55.000Z",
+    "report_date": "2019-05-02",
+    "accession": "0001274494-19-000014",
+    "primary_document": "a8-kfinancialresultsq1x2019.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-19-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-05-16",
+    "acceptance_datetime": "2019-05-16T20:51:03.000Z",
+    "report_date": "2019-05-15",
+    "accession": "0001274494-19-000020",
+    "primary_document": "a8-kclassactionupdate051619.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-19-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2019-05-16",
+    "acceptance_datetime": "2019-05-16T20:58:51.000Z",
+    "report_date": "2019-05-15",
+    "accession": "0001274494-19-000022",
+    "primary_document": "a8-kshareholdermeeting0515.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-19-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-06-24",
+    "acceptance_datetime": "2019-06-24T21:25:26.000Z",
+    "report_date": "2019-06-24",
+    "accession": "0001274494-19-000026",
+    "primary_document": "a8-kclassactionupdate062419.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-19-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-07-10",
+    "acceptance_datetime": "2019-07-10T21:19:26.000Z",
+    "report_date": "2019-07-09",
+    "accession": "0001274494-19-000028",
+    "primary_document": "a8-kclassactionupdate071019.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-19-000028"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-08-01",
+    "acceptance_datetime": "2019-08-01T20:14:03.000Z",
+    "report_date": "2019-08-01",
+    "accession": "0001274494-19-000030",
+    "primary_document": "a8-kfinancialresultsq2x2019.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-19-000030"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-10-24",
+    "acceptance_datetime": "2019-10-24T20:10:51.000Z",
+    "report_date": "2019-10-24",
+    "accession": "0001274494-19-000034",
+    "primary_document": "a8-kfinancialresultsq3.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-19-000034"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-11-19",
+    "acceptance_datetime": "2019-11-18T23:12:58.000Z",
+    "report_date": "2019-11-18",
+    "accession": "0001274494-19-000038",
+    "primary_document": "a8-kofficerappointment.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-19-000038"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-01-06",
+    "acceptance_datetime": "2020-01-06T22:07:34.000Z",
+    "report_date": "2020-01-06",
+    "accession": "0001274494-20-000003",
+    "primary_document": "a8-kclassactionsettlem.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0001274494-20-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2020-02-18",
+    "acceptance_datetime": "2020-02-14T22:50:10.000Z",
+    "report_date": "2020-02-13",
+    "accession": "0001274494-20-000005",
+    "primary_document": "a8-kclassactionxstipul.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001274494-20-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2020-02-20",
+    "acceptance_datetime": "2020-02-20T21:28:18.000Z",
+    "report_date": "2020-02-20",
+    "accession": "0001274494-20-000008",
+    "primary_document": "a8-kfinancialresultsq4.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001274494-20-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-05-07",
+    "acceptance_datetime": "2020-05-07T20:29:31.000Z",
+    "report_date": "2020-05-07",
+    "accession": "0001628280-20-006971",
+    "primary_document": "fslr-20200507.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-20-006971"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2020-05-15",
+    "acceptance_datetime": "2020-05-14T21:47:46.000Z",
+    "report_date": "2020-05-13",
+    "accession": "0001274494-20-000016",
+    "primary_document": "fslr-20200513.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-20-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2020-06-05",
+    "acceptance_datetime": "2020-06-05T20:22:30.000Z",
+    "report_date": "2020-06-03",
+    "accession": "0001274494-20-000022",
+    "primary_document": "fslr-20200603.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-20-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2020-07-29",
+    "acceptance_datetime": "2020-07-29T21:23:59.000Z",
+    "report_date": "2020-07-23",
+    "accession": "0001274494-20-000029",
+    "primary_document": "fslr-20200723.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-20-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-08-06",
+    "acceptance_datetime": "2020-08-06T20:09:53.000Z",
+    "report_date": "2020-08-06",
+    "accession": "0001274494-20-000034",
+    "primary_document": "fslr-20200806.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-20-000034"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-09-21",
+    "acceptance_datetime": "2020-09-21T21:27:03.000Z",
+    "report_date": "2020-09-16",
+    "accession": "0001274494-20-000053",
+    "primary_document": "fslr-20200916.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0001274494-20-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-10-27",
+    "acceptance_datetime": "2020-10-27T20:07:51.000Z",
+    "report_date": "2020-10-27",
+    "accession": "0001274494-20-000057",
+    "primary_document": "fslr-20201027.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-20-000057"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-11-09",
+    "acceptance_datetime": "2020-11-07T00:37:12.000Z",
+    "report_date": "2020-11-06",
+    "accession": "0001274494-20-000062",
+    "primary_document": "fslr-20201106.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01,9.01; accession=0001274494-20-000062"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-11-09",
+    "acceptance_datetime": "2020-11-09T21:36:13.000Z",
+    "report_date": "2020-11-05",
+    "accession": "0001274494-20-000064",
+    "primary_document": "fslr-20201105.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-20-000064"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2020-12-16",
+    "acceptance_datetime": "2020-12-16T13:08:01.000Z",
+    "report_date": "2020-12-14",
+    "accession": "0001274494-20-000068",
+    "primary_document": "fslr-20201214.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=7.01; accession=0001274494-20-000068"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2021-01-25",
+    "acceptance_datetime": "2021-01-25T13:07:53.000Z",
+    "report_date": "2021-01-24",
+    "accession": "0001628280-21-000753",
+    "primary_document": "fslr-20210124.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0001628280-21-000753"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-25",
+    "acceptance_datetime": "2021-02-25T21:07:57.000Z",
+    "report_date": "2021-02-25",
+    "accession": "0001628280-21-003286",
+    "primary_document": "fslr-20210225.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-21-003286"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2021-03-19",
+    "acceptance_datetime": "2021-03-19T12:59:40.000Z",
+    "report_date": "2021-03-18",
+    "accession": "0001628280-21-005137",
+    "primary_document": "fslr-20210318.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001628280-21-005137"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-04-29",
+    "acceptance_datetime": "2021-04-29T20:08:43.000Z",
+    "report_date": "2021-04-29",
+    "accession": "0001628280-21-008203",
+    "primary_document": "fslr-20210429.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-21-008203"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2021-05-13",
+    "acceptance_datetime": "2021-05-13T20:56:44.000Z",
+    "report_date": "2021-05-12",
+    "accession": "0001274494-21-000005",
+    "primary_document": "fslr-20210512.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-21-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2021-07-07",
+    "acceptance_datetime": "2021-07-06T22:10:07.000Z",
+    "report_date": "2021-06-30",
+    "accession": "0001274494-21-000012",
+    "primary_document": "fslr-20210630.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.02; accession=0001274494-21-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2021-07-20",
+    "acceptance_datetime": "2021-07-19T22:14:02.000Z",
+    "report_date": "2021-07-15",
+    "accession": "0001274494-21-000014",
+    "primary_document": "fslr-20210715.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02,9.01; accession=0001274494-21-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2021-07-23",
+    "acceptance_datetime": "2021-07-23T20:56:21.000Z",
+    "report_date": "2021-07-22",
+    "accession": "0001274494-21-000018",
+    "primary_document": "fslr-20210722.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.03,9.01; accession=0001274494-21-000018"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-07-29",
+    "acceptance_datetime": "2021-07-29T20:16:18.000Z",
+    "report_date": "2021-07-29",
+    "accession": "0001274494-21-000022",
+    "primary_document": "fslr-20210729.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-21-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-04",
+    "acceptance_datetime": "2021-11-04T20:15:08.000Z",
+    "report_date": "2021-11-04",
+    "accession": "0001274494-21-000030",
+    "primary_document": "fslr-20211104.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-21-000030"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2022-02-18",
+    "acceptance_datetime": "2022-02-18T21:21:47.000Z",
+    "report_date": "2022-02-16",
+    "accession": "0001274494-22-000002",
+    "primary_document": "fslr-20220216.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-22-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-03-01",
+    "acceptance_datetime": "2022-03-01T21:22:35.000Z",
+    "report_date": "2022-03-01",
+    "accession": "0001274494-22-000008",
+    "primary_document": "fslr-20220301.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-22-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2022-04-01",
+    "acceptance_datetime": "2022-04-01T20:18:48.000Z",
+    "report_date": "2022-03-29",
+    "accession": "0001274494-22-000011",
+    "primary_document": "fslr-20220329.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-22-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-04-28",
+    "acceptance_datetime": "2022-04-28T20:10:22.000Z",
+    "report_date": "2022-04-28",
+    "accession": "0001274494-22-000017",
+    "primary_document": "fslr-20220428.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-22-000017"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2022-05-16",
+    "acceptance_datetime": "2022-05-16T20:12:06.000Z",
+    "report_date": "2022-05-12",
+    "accession": "0001274494-22-000023",
+    "primary_document": "fslr-20220512.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0001274494-22-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2022-05-27",
+    "acceptance_datetime": "2022-05-27T20:16:09.000Z",
+    "report_date": "2022-05-24",
+    "accession": "0001274494-22-000028",
+    "primary_document": "fslr-20220524.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-22-000028"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2022-05-27",
+    "acceptance_datetime": "2022-05-27T20:18:16.000Z",
+    "report_date": "2022-05-26",
+    "accession": "0001274494-22-000029",
+    "primary_document": "fslr-20220526.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-22-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-07-28",
+    "acceptance_datetime": "2022-07-28T20:06:47.000Z",
+    "report_date": "2022-07-28",
+    "accession": "0001274494-22-000032",
+    "primary_document": "fslr-20220728.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-22-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-10-27",
+    "acceptance_datetime": "2022-10-27T20:06:28.000Z",
+    "report_date": "2022-10-27",
+    "accession": "0001274494-22-000038",
+    "primary_document": "fslr-20221027.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-22-000038"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-02-28",
+    "acceptance_datetime": "2023-02-28T21:05:27.000Z",
+    "report_date": "2023-02-28",
+    "accession": "0001274494-23-000001",
+    "primary_document": "fslr-20230228.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-23-000001"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-04-27",
+    "acceptance_datetime": "2023-04-27T20:06:38.000Z",
+    "report_date": "2023-04-27",
+    "accession": "0001274494-23-000009",
+    "primary_document": "fslr-20230427.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-23-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2023-05-10",
+    "acceptance_datetime": "2023-05-10T21:09:16.000Z",
+    "report_date": "2023-05-09",
+    "accession": "0001274494-23-000011",
+    "primary_document": "fslr-20230509.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-23-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2023-07-06",
+    "acceptance_datetime": "2023-07-06T20:12:34.000Z",
+    "report_date": "2023-06-30",
+    "accession": "0001274494-23-000014",
+    "primary_document": "fslr-20230630.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001274494-23-000014"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.07",
+    "filing_date": "2023-07-21",
+    "acceptance_datetime": "2023-07-21T20:56:49.000Z",
+    "report_date": "2023-05-09",
+    "accession": "0001274494-23-000015",
+    "primary_document": "fslr-20230509.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-23-000015"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2023-07-26",
+    "acceptance_datetime": "2023-07-26T20:11:37.000Z",
+    "report_date": "2023-07-20",
+    "accession": "0001274494-23-000019",
+    "primary_document": "fslr-20230720.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.03,9.01; accession=0001274494-23-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-07-27",
+    "acceptance_datetime": "2023-07-27T20:07:40.000Z",
+    "report_date": "2023-07-27",
+    "accession": "0001274494-23-000021",
+    "primary_document": "fslr-20230727.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-23-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-10-31",
+    "acceptance_datetime": "2023-10-31T20:07:37.000Z",
+    "report_date": "2023-10-31",
+    "accession": "0001274494-23-000024",
+    "primary_document": "fslr-20231031.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-23-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2023-12-27",
+    "acceptance_datetime": "2023-12-27T14:02:16.000Z",
+    "report_date": "2023-12-22",
+    "accession": "0001274494-23-000026",
+    "primary_document": "fslr-20231222.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0001274494-23-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2024-02-16",
+    "acceptance_datetime": "2024-02-16T21:42:20.000Z",
+    "report_date": "2024-02-13",
+    "accession": "0001274494-24-000002",
+    "primary_document": "fslr-20240213.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-24-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-27",
+    "acceptance_datetime": "2024-02-27T21:08:11.000Z",
+    "report_date": "2024-02-27",
+    "accession": "0001274494-24-000003",
+    "primary_document": "fslr-20240227.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-24-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-05-01",
+    "acceptance_datetime": "2024-05-01T20:18:08.000Z",
+    "report_date": "2024-05-01",
+    "accession": "0001628280-24-019623",
+    "primary_document": "fslr-20240501.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-24-019623"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.07,9.01",
+    "filing_date": "2024-05-09",
+    "acceptance_datetime": "2024-05-09T20:08:59.000Z",
+    "report_date": "2024-05-08",
+    "accession": "0001274494-24-000026",
+    "primary_document": "fslr-20240508.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.03,5.07,9.01; accession=0001274494-24-000026"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-07-30",
+    "acceptance_datetime": "2024-07-30T20:04:48.000Z",
+    "report_date": "2024-07-30",
+    "accession": "0001274494-24-000032",
+    "primary_document": "fslr-20240730.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-24-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-10-29",
+    "acceptance_datetime": "2024-10-29T20:09:09.000Z",
+    "report_date": "2024-10-29",
+    "accession": "0001274494-24-000037",
+    "primary_document": "fslr-20241029.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-24-000037"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2024-12-12",
+    "acceptance_datetime": "2024-12-11T23:01:55.000Z",
+    "report_date": "2024-12-06",
+    "accession": "0001274494-24-000042",
+    "primary_document": "fslr-20241206.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,9.01; accession=0001274494-24-000042"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-01-10",
+    "acceptance_datetime": "2025-01-10T21:06:12.000Z",
+    "report_date": "2025-01-03",
+    "accession": "0001274494-25-000004",
+    "primary_document": "fslr-20250103.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-25-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-02-20",
+    "acceptance_datetime": "2025-02-20T21:09:21.000Z",
+    "report_date": "2025-02-20",
+    "accession": "0001274494-25-000006",
+    "primary_document": "fslr-20250220.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-25-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-02-25",
+    "acceptance_datetime": "2025-02-25T21:06:24.000Z",
+    "report_date": "2025-02-25",
+    "accession": "0001274494-25-000009",
+    "primary_document": "fslr-20250225.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-25-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-03-14",
+    "acceptance_datetime": "2025-03-14T20:05:18.000Z",
+    "report_date": "2025-03-12",
+    "accession": "0001274494-25-000012",
+    "primary_document": "fslr-20250312.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.02; accession=0001274494-25-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-04-29",
+    "acceptance_datetime": "2025-04-29T20:04:26.000Z",
+    "report_date": "2025-04-29",
+    "accession": "0001274494-25-000032",
+    "primary_document": "fslr-20250429.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-25-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2025-05-16",
+    "acceptance_datetime": "2025-05-16T20:02:57.000Z",
+    "report_date": "2025-05-14",
+    "accession": "0001274494-25-000036",
+    "primary_document": "fslr-20250514.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-25-000036"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-06-24",
+    "acceptance_datetime": "2025-06-24T20:15:00.000Z",
+    "report_date": "2025-06-20",
+    "accession": "0001274494-25-000043",
+    "primary_document": "fslr-20250620.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-25-000043"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-07-30",
+    "acceptance_datetime": "2025-07-30T20:12:48.000Z",
+    "report_date": "2025-07-28",
+    "accession": "0001274494-25-000047",
+    "primary_document": "fslr-20250728.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-25-000047"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-07-31",
+    "acceptance_datetime": "2025-07-31T20:05:00.000Z",
+    "report_date": "2025-07-31",
+    "accession": "0001274494-25-000053",
+    "primary_document": "fslr-20250731.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-25-000053"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-10-21",
+    "acceptance_datetime": "2025-10-21T20:36:09.000Z",
+    "report_date": "2025-10-20",
+    "accession": "0001274494-25-000077",
+    "primary_document": "fslr-20251020.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=8.01; accession=0001274494-25-000077"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-10-30",
+    "acceptance_datetime": "2025-10-30T20:09:03.000Z",
+    "report_date": "2025-10-30",
+    "accession": "0001274494-25-000081",
+    "primary_document": "fslr-20251030.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-25-000081"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,9.01",
+    "filing_date": "2026-02-19",
+    "acceptance_datetime": "2026-02-19T21:03:11.000Z",
+    "report_date": "2026-02-13",
+    "accession": "0001274494-26-000016",
+    "primary_document": "fslr-20260213.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=1.01,1.02,2.03,9.01; accession=0001274494-26-000016"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-02-24",
+    "acceptance_datetime": "2026-02-24T21:09:36.000Z",
+    "report_date": "2026-02-24",
+    "accession": "0001274494-26-000020",
+    "primary_document": "fslr-20260224.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-26-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-04-30",
+    "acceptance_datetime": "2026-04-30T20:04:23.000Z",
+    "report_date": "2026-04-30",
+    "accession": "0001274494-26-000108",
+    "primary_document": "fslr-20260430.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-26-000108"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2026-05-15",
+    "acceptance_datetime": "2026-05-15T20:02:54.000Z",
+    "report_date": "2026-05-13",
+    "accession": "0001274494-26-000138",
+    "primary_document": "fslr-20260513.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=5.07; accession=0001274494-26-000138"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-07-30",
+    "acceptance_datetime": "2026-07-30T20:04:00.000Z",
+    "report_date": "2026-07-30",
+    "accession": "0001274494-26-000169",
+    "primary_document": "fslr-20260730.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,9.01; accession=0001274494-26-000169"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2026-10-29",
+    "acceptance_datetime": "2026-10-29T20:03:20.000Z",
+    "report_date": "2026-10-29",
+    "accession": "0001274494-26-000211",
+    "primary_document": "fslr-20261029.htm",
+    "cik": "0001274494",
+    "issuer_name": "FIRST SOLAR, INC.",
+    "tickers": [
+      "FSLR"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001274494-26-000211"
+  }
+]

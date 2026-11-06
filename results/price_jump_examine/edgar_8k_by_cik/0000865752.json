@@ -1,0 +1,3666 @@
+[
+  {
+    "form": "8-K",
+    "items": "2",
+    "filing_date": "2000-10-04",
+    "acceptance_datetime": "2000-10-04T04:00:00.000Z",
+    "report_date": "2000-09-20",
+    "accession": "0000865752-00-000015",
+    "primary_document": "0001.txt",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2; accession=0000865752-00-000015"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2",
+    "filing_date": "2000-12-04",
+    "acceptance_datetime": "2000-12-04T05:00:00.000Z",
+    "report_date": "2000-12-04",
+    "accession": "0000865752-00-000022",
+    "primary_document": "0001.txt",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2; accession=0000865752-00-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2003-09-17",
+    "acceptance_datetime": "2003-09-17T17:23:01.000Z",
+    "report_date": "2003-09-17",
+    "accession": "0000865752-03-000022",
+    "primary_document": "k091703.txt",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5,7; accession=0000865752-03-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "9",
+    "filing_date": "2004-03-04",
+    "acceptance_datetime": "2004-03-04T18:41:56.000Z",
+    "report_date": "2004-03-04",
+    "accession": "0000865752-04-000017",
+    "primary_document": "form8k.txt",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=9; accession=0000865752-04-000017"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-05-11",
+    "acceptance_datetime": "2005-05-11T19:14:19.000Z",
+    "report_date": "2005-05-10",
+    "accession": "0000865752-05-000028",
+    "primary_document": "k051005.txt",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-05-000028"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2005-07-19",
+    "acceptance_datetime": "2005-07-18T23:23:45.000Z",
+    "report_date": "2005-07-18",
+    "accession": "0000865752-05-000045",
+    "primary_document": "k071805.txt",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-05-000045"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2005-08-02",
+    "acceptance_datetime": "2005-08-02T12:00:21.000Z",
+    "report_date": "2005-08-02",
+    "accession": "0001104659-05-035531",
+    "primary_document": "a05-13855_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-05-035531"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2005-08-09",
+    "acceptance_datetime": "2005-08-09T13:10:30.000Z",
+    "report_date": "2005-08-09",
+    "accession": "0000865752-05-000049",
+    "primary_document": "k80905.txt",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02; accession=0000865752-05-000049"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2005-08-12",
+    "acceptance_datetime": "2005-08-12T13:07:30.000Z",
+    "report_date": "2005-08-11",
+    "accession": "0000865752-05-000056",
+    "primary_document": "k081105.txt",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-05-000056"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2005-09-22",
+    "acceptance_datetime": "2005-09-22T14:51:51.000Z",
+    "report_date": "2005-09-22",
+    "accession": "0001104659-05-045252",
+    "primary_document": "a05-16540_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-05-045252"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2005-11-04",
+    "acceptance_datetime": "2005-11-04T15:20:26.000Z",
+    "report_date": "2005-11-04",
+    "accession": "0000865752-05-000076",
+    "primary_document": "k110405.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-05-000076"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2005-11-09",
+    "acceptance_datetime": "2005-11-09T17:56:47.000Z",
+    "report_date": "2005-11-09",
+    "accession": "0000865752-05-000079",
+    "primary_document": "k110905.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02; accession=0000865752-05-000079"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2005-11-09",
+    "acceptance_datetime": "2005-11-09T19:34:17.000Z",
+    "report_date": "2005-11-09",
+    "accession": "0000865752-05-000081",
+    "primary_document": "k110905c.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-05-000081"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01",
+    "filing_date": "2005-11-15",
+    "acceptance_datetime": "2005-11-14T22:50:57.000Z",
+    "report_date": "2005-11-11",
+    "accession": "0000865752-05-000089",
+    "primary_document": "k111405.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=1.01,8.01; accession=0000865752-05-000089"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2005-11-17",
+    "acceptance_datetime": "2005-11-17T17:15:51.000Z",
+    "report_date": "2005-11-17",
+    "accession": "0001104659-05-056403",
+    "primary_document": "a05-20448_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-05-056403"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2006-01-10",
+    "acceptance_datetime": "2006-01-10T15:27:45.000Z",
+    "report_date": "2006-01-10",
+    "accession": "0000865752-06-000004",
+    "primary_document": "k011006.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0000865752-06-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2006-03-08",
+    "acceptance_datetime": "2006-03-08T18:22:00.000Z",
+    "report_date": "2006-03-06",
+    "accession": "0000865752-06-000090",
+    "primary_document": "k030606.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.03,9.01; accession=0000865752-06-000090"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2006-03-09",
+    "acceptance_datetime": "2006-03-09T14:59:19.000Z",
+    "report_date": "2005-12-31",
+    "accession": "0000865752-06-000095",
+    "primary_document": "k030906.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02; accession=0000865752-06-000095"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2006-03-16",
+    "acceptance_datetime": "2006-03-16T17:17:18.000Z",
+    "report_date": "2006-03-15",
+    "accession": "0000865752-06-000101",
+    "primary_document": "k031506.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01; accession=0000865752-06-000101"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,9.01",
+    "filing_date": "2006-05-09",
+    "acceptance_datetime": "2006-05-09T14:04:30.000Z",
+    "report_date": "2006-05-08",
+    "accession": "0000865752-06-000113",
+    "primary_document": "k050906.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=1.01,2.02,9.01; accession=0000865752-06-000113"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-06-12",
+    "acceptance_datetime": "2006-06-12T16:29:34.000Z",
+    "report_date": "2006-06-12",
+    "accession": "0000865752-06-000138",
+    "primary_document": "k061206.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0000865752-06-000138"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-08-07",
+    "acceptance_datetime": "2006-08-07T14:29:46.000Z",
+    "report_date": "2006-08-07",
+    "accession": "0000865752-06-000151",
+    "primary_document": "k80706.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-06-000151"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-08-11",
+    "acceptance_datetime": "2006-08-11T21:43:25.000Z",
+    "report_date": "2006-08-10",
+    "accession": "0000865752-06-000157",
+    "primary_document": "k081106.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=1.01,9.01; accession=0000865752-06-000157"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-09-29",
+    "acceptance_datetime": "2006-09-28T23:51:43.000Z",
+    "report_date": "2006-09-25",
+    "accession": "0000865752-06-000163",
+    "primary_document": "k091806.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0000865752-06-000163"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2006-10-31",
+    "acceptance_datetime": "2006-10-31T19:54:36.000Z",
+    "report_date": "2006-10-31",
+    "accession": "0000865752-06-000168",
+    "primary_document": "k103106.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-06-000168"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-11-09",
+    "acceptance_datetime": "2006-11-09T15:16:22.000Z",
+    "report_date": "2006-11-09",
+    "accession": "0000865752-06-000173",
+    "primary_document": "k110906.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-06-000173"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2006-11-14",
+    "acceptance_datetime": "2006-11-14T02:11:11.000Z",
+    "report_date": "2006-11-07",
+    "accession": "0000865752-06-000178",
+    "primary_document": "k110706.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-06-000178"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,8.01",
+    "filing_date": "2006-11-20",
+    "acceptance_datetime": "2006-11-20T22:08:23.000Z",
+    "report_date": "2006-11-14",
+    "accession": "0000865752-06-000180",
+    "primary_document": "k111406.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=3.01,8.01; accession=0000865752-06-000180"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2006-12-08",
+    "acceptance_datetime": "2006-12-08T01:34:53.000Z",
+    "report_date": "2006-11-29",
+    "accession": "0000865752-06-000182",
+    "primary_document": "k112906.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-06-000182"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2006-12-11",
+    "acceptance_datetime": "2006-12-11T17:01:45.000Z",
+    "report_date": "2006-12-11",
+    "accession": "0000865752-06-000185",
+    "primary_document": "k121106.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0000865752-06-000185"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-01-08",
+    "acceptance_datetime": "2007-01-08T20:57:31.000Z",
+    "report_date": "2006-12-30",
+    "accession": "0000865752-07-000003",
+    "primary_document": "k010807.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,9.01; accession=0000865752-07-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01",
+    "filing_date": "2007-01-10",
+    "acceptance_datetime": "2007-01-10T22:24:43.000Z",
+    "report_date": "2007-01-04",
+    "accession": "0000865752-07-000005",
+    "primary_document": "k011007.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=3.01; accession=0000865752-07-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2007-01-17",
+    "acceptance_datetime": "2007-01-17T22:23:46.000Z",
+    "report_date": "2007-01-10",
+    "accession": "0000865752-07-000008",
+    "primary_document": "k011707.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=3.01,9.01; accession=0000865752-07-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-02-12",
+    "acceptance_datetime": "2007-02-12T22:23:47.000Z",
+    "report_date": "2007-02-09",
+    "accession": "0000865752-07-000011",
+    "primary_document": "k020907.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=1.01,9.01; accession=0000865752-07-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-02-27",
+    "acceptance_datetime": "2007-02-27T18:10:57.000Z",
+    "report_date": "2007-02-27",
+    "accession": "0000865752-07-000014",
+    "primary_document": "k022707.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-07-000014"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2007-03-01",
+    "acceptance_datetime": "2007-03-01T21:11:48.000Z",
+    "report_date": "2007-02-26",
+    "accession": "0000865752-07-000017",
+    "primary_document": "k022607.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-07-000017"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2007-03-08",
+    "acceptance_datetime": "2007-03-08T00:36:17.000Z",
+    "report_date": "2007-03-07",
+    "accession": "0000865752-07-000021",
+    "primary_document": "k030707.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01; accession=0000865752-07-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2007-03-08",
+    "acceptance_datetime": "2007-03-08T19:35:41.000Z",
+    "report_date": "2007-03-05",
+    "accession": "0000865752-07-000023",
+    "primary_document": "k030507.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=3.01,9.01; accession=0000865752-07-000023"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-03-23",
+    "acceptance_datetime": "2007-03-23T21:09:02.000Z",
+    "report_date": "2007-03-16",
+    "accession": "0000865752-07-000029",
+    "primary_document": "k031607.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0000865752-07-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2007-04-24",
+    "acceptance_datetime": "2007-04-24T21:08:09.000Z",
+    "report_date": "2007-04-20",
+    "accession": "0000865752-07-000032",
+    "primary_document": "k042007.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-07-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-05-07",
+    "acceptance_datetime": "2007-05-07T17:22:51.000Z",
+    "report_date": "2007-03-31",
+    "accession": "0000865752-07-000035",
+    "primary_document": "k050707.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-07-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-05-14",
+    "acceptance_datetime": "2007-05-14T21:20:25.000Z",
+    "report_date": "2007-03-31",
+    "accession": "0000865752-07-000041",
+    "primary_document": "k050707.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-07-000041"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01",
+    "filing_date": "2007-05-14",
+    "acceptance_datetime": "2007-05-14T21:26:41.000Z",
+    "report_date": "2007-05-14",
+    "accession": "0000865752-07-000042",
+    "primary_document": "k051407.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,7.01; accession=0000865752-07-000042"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01",
+    "filing_date": "2007-05-21",
+    "acceptance_datetime": "2007-05-21T20:33:41.000Z",
+    "report_date": "2007-05-16",
+    "accession": "0000865752-07-000044",
+    "primary_document": "k051807.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=3.01; accession=0000865752-07-000044"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2007-06-22",
+    "acceptance_datetime": "2007-06-22T18:22:14.000Z",
+    "report_date": "2007-06-22",
+    "accession": "0000865752-07-000051",
+    "primary_document": "k062207.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-07-000051"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2007-07-03",
+    "acceptance_datetime": "2007-07-03T17:47:48.000Z",
+    "report_date": "2007-07-03",
+    "accession": "0000865752-07-000065",
+    "primary_document": "k070307.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-07-000065"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-08-08",
+    "acceptance_datetime": "2007-08-07T22:12:20.000Z",
+    "report_date": "2007-08-07",
+    "accession": "0000865752-07-000071",
+    "primary_document": "k080707.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0000865752-07-000071"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-08-08",
+    "acceptance_datetime": "2007-08-08T17:10:48.000Z",
+    "report_date": "2007-06-30",
+    "accession": "0000865752-07-000074",
+    "primary_document": "k080807.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-07-000074"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2007-09-20",
+    "acceptance_datetime": "2007-09-20T21:00:02.000Z",
+    "report_date": "2007-09-18",
+    "accession": "0000865752-07-000122",
+    "primary_document": "k092007.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.03,9.01; accession=0000865752-07-000122"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-10-22",
+    "acceptance_datetime": "2007-10-22T20:52:14.000Z",
+    "report_date": "2007-10-17",
+    "accession": "0000865752-07-000128",
+    "primary_document": "k102207.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0000865752-07-000128"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2007-10-23",
+    "acceptance_datetime": "2007-10-23T17:22:39.000Z",
+    "report_date": "2007-10-16",
+    "accession": "0000865752-07-000130",
+    "primary_document": "k102307.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-07-000130"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-11-08",
+    "acceptance_datetime": "2007-11-08T18:22:08.000Z",
+    "report_date": "2007-09-30",
+    "accession": "0000865752-07-000133",
+    "primary_document": "k110707.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-07-000133"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-01-22",
+    "acceptance_datetime": "2008-01-22T21:54:20.000Z",
+    "report_date": "2008-01-18",
+    "accession": "0000865752-08-000002",
+    "primary_document": "k012208.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0000865752-08-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2008-02-27",
+    "acceptance_datetime": "2008-02-27T22:27:18.000Z",
+    "report_date": "2008-02-25",
+    "accession": "0000865752-08-000006",
+    "primary_document": "k022708.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-08-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-02-28",
+    "acceptance_datetime": "2008-02-28T21:11:33.000Z",
+    "report_date": "2007-12-31",
+    "accession": "0000865752-08-000009",
+    "primary_document": "k022808.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-08-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2008-04-25",
+    "acceptance_datetime": "2008-04-25T15:33:02.000Z",
+    "report_date": "2008-04-22",
+    "accession": "0001104659-08-026790",
+    "primary_document": "a08-12562_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-08-026790"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-05-07",
+    "acceptance_datetime": "2008-05-07T20:34:51.000Z",
+    "report_date": "2008-05-07",
+    "accession": "0001104659-08-030777",
+    "primary_document": "a08-13736_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-08-030777"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2008-06-02",
+    "acceptance_datetime": "2008-06-02T18:35:40.000Z",
+    "report_date": "2008-06-02",
+    "accession": "0001104659-08-037226",
+    "primary_document": "a08-15691_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-08-037226"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-08-07",
+    "acceptance_datetime": "2008-08-07T20:45:15.000Z",
+    "report_date": "2008-08-07",
+    "accession": "0000865752-08-000024",
+    "primary_document": "k080708.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-08-000024"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2008-09-23",
+    "acceptance_datetime": "2008-09-22T23:28:14.000Z",
+    "report_date": "2008-09-11",
+    "accession": "0000865752-08-000029",
+    "primary_document": "k092208.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0000865752-08-000029"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01",
+    "filing_date": "2008-10-09",
+    "acceptance_datetime": "2008-10-09T20:51:35.000Z",
+    "report_date": "2008-10-03",
+    "accession": "0000865752-08-000032",
+    "primary_document": "k100809.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=1.01,8.01; accession=0000865752-08-000032"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-11-06",
+    "acceptance_datetime": "2008-11-06T21:33:23.000Z",
+    "report_date": "2008-09-30",
+    "accession": "0000865752-08-000035",
+    "primary_document": "k110608.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-08-000035"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-12-16",
+    "acceptance_datetime": "2008-12-16T20:33:33.000Z",
+    "report_date": "2008-12-16",
+    "accession": "0000865752-08-000040",
+    "primary_document": "k121608.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0000865752-08-000040"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-02-26",
+    "acceptance_datetime": "2009-02-26T21:34:21.000Z",
+    "report_date": "2008-12-31",
+    "accession": "0000865752-09-000005",
+    "primary_document": "k22608.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-09-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2009-03-11",
+    "acceptance_datetime": "2009-03-11T20:13:46.000Z",
+    "report_date": "2009-03-06",
+    "accession": "0000865752-09-000022",
+    "primary_document": "k030609.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,9.01; accession=0000865752-09-000022"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-05-07",
+    "acceptance_datetime": "2009-05-07T20:16:13.000Z",
+    "report_date": "2009-05-07",
+    "accession": "0000865752-09-000031",
+    "primary_document": "k050709.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-09-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2009-07-30",
+    "acceptance_datetime": "2009-07-30T21:05:35.000Z",
+    "report_date": "2009-07-27",
+    "accession": "0000865752-09-000039",
+    "primary_document": "k073009.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,9.01; accession=0000865752-09-000039"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-08-06",
+    "acceptance_datetime": "2009-08-06T20:38:45.000Z",
+    "report_date": "2009-08-06",
+    "accession": "0000865752-09-000046",
+    "primary_document": "k080609.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-09-000046"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2009-08-07",
+    "acceptance_datetime": "2009-08-07T16:44:30.000Z",
+    "report_date": "2009-08-07",
+    "accession": "0000865752-09-000048",
+    "primary_document": "k080709.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01; accession=0000865752-09-000048"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-11-05",
+    "acceptance_datetime": "2009-11-05T21:26:02.000Z",
+    "report_date": "2009-11-05",
+    "accession": "0000865752-09-000052",
+    "primary_document": "k110509.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-09-000052"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2009-12-15",
+    "acceptance_datetime": "2009-12-15T21:07:38.000Z",
+    "report_date": "2009-12-15",
+    "accession": "0001104659-09-070081",
+    "primary_document": "a09-35451_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-09-070081"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-02-25",
+    "acceptance_datetime": "2010-02-25T21:29:05.000Z",
+    "report_date": "2010-02-25",
+    "accession": "0000865752-10-000006",
+    "primary_document": "form8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-10-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2010-03-12",
+    "acceptance_datetime": "2010-03-12T20:13:04.000Z",
+    "report_date": "2010-03-11",
+    "accession": "0001104659-10-013967",
+    "primary_document": "a10-6263_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-10-013967"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-04-06",
+    "acceptance_datetime": "2010-04-06T01:00:21.000Z",
+    "report_date": "2010-04-02",
+    "accession": "0000865752-10-000008",
+    "primary_document": "form8040210.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0000865752-10-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-05-06",
+    "acceptance_datetime": "2010-05-06T20:27:01.000Z",
+    "report_date": "2010-05-06",
+    "accession": "0000865752-10-000012",
+    "primary_document": "form8k050610.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-10-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2010-06-15",
+    "acceptance_datetime": "2010-06-15T19:16:05.000Z",
+    "report_date": "2010-06-10",
+    "accession": "0000865752-10-000017",
+    "primary_document": "form8k061010.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.07; accession=0000865752-10-000017"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2010-08-05",
+    "acceptance_datetime": "2010-08-05T20:32:40.000Z",
+    "report_date": "2010-08-05",
+    "accession": "0000865752-10-000019",
+    "primary_document": "form8k080510.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02; accession=0000865752-10-000019"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-11-04",
+    "acceptance_datetime": "2010-11-04T20:23:23.000Z",
+    "report_date": "2010-11-04",
+    "accession": "0000865752-10-000021",
+    "primary_document": "form8k110410.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-10-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2010-12-20",
+    "acceptance_datetime": "2010-12-20T21:00:22.000Z",
+    "report_date": "2010-12-20",
+    "accession": "0001104659-10-063539",
+    "primary_document": "a10-23930_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-10-063539"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-02-24",
+    "acceptance_datetime": "2011-02-24T21:34:13.000Z",
+    "report_date": "2011-02-24",
+    "accession": "0000865752-11-000002",
+    "primary_document": "k022511.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-11-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-05-05",
+    "acceptance_datetime": "2011-05-05T20:21:25.000Z",
+    "report_date": "2011-05-05",
+    "accession": "0000865752-11-000004",
+    "primary_document": "k050511.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-11-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-05-06",
+    "acceptance_datetime": "2011-05-06T10:02:22.000Z",
+    "report_date": "2011-05-06",
+    "accession": "0001104659-11-026509",
+    "primary_document": "a11-11790_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-11-026509"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2011-05-24",
+    "acceptance_datetime": "2011-05-24T18:59:48.000Z",
+    "report_date": "2011-05-19",
+    "accession": "0000865752-11-000006",
+    "primary_document": "form8k051911.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0000865752-11-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-08-04",
+    "acceptance_datetime": "2011-08-04T20:25:58.000Z",
+    "report_date": "2011-08-04",
+    "accession": "0000865752-11-000008",
+    "primary_document": "k080911.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-11-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-10-12",
+    "acceptance_datetime": "2011-10-12T21:22:01.000Z",
+    "report_date": "2011-10-12",
+    "accession": "0000865752-11-000010",
+    "primary_document": "k101211.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0000865752-11-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-11-03",
+    "acceptance_datetime": "2011-11-03T20:26:07.000Z",
+    "report_date": "2011-11-03",
+    "accession": "0000865752-11-000012",
+    "primary_document": "form8k110311.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-11-000012"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2011-12-15",
+    "acceptance_datetime": "2011-12-15T20:03:09.000Z",
+    "report_date": "2011-12-15",
+    "accession": "0001104659-11-069647",
+    "primary_document": "a11-31613_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-11-069647"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.07,8.01,9.01",
+    "filing_date": "2012-01-06",
+    "acceptance_datetime": "2012-01-06T20:01:15.000Z",
+    "report_date": "2012-01-05",
+    "accession": "0001104659-12-000837",
+    "primary_document": "a12-2136_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.03,5.07,8.01,9.01; accession=0001104659-12-000837"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-01-11",
+    "acceptance_datetime": "2012-01-11T21:38:45.000Z",
+    "report_date": "2012-01-11",
+    "accession": "0001104659-12-001617",
+    "primary_document": "a12-2551_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-12-001617"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-02-23",
+    "acceptance_datetime": "2012-02-23T21:39:34.000Z",
+    "report_date": "2012-02-23",
+    "accession": "0001104659-12-012165",
+    "primary_document": "a12-5743_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-12-012165"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-05-09",
+    "acceptance_datetime": "2012-05-09T20:31:47.000Z",
+    "report_date": "2012-05-09",
+    "accession": "0001104659-12-035196",
+    "primary_document": "a12-11756_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-12-035196"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-06-07",
+    "acceptance_datetime": "2012-06-07T19:01:25.000Z",
+    "report_date": "2012-06-01",
+    "accession": "0000865752-12-000003",
+    "primary_document": "k060112.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0000865752-12-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2012-06-12",
+    "acceptance_datetime": "2012-06-12T21:02:53.000Z",
+    "report_date": "2012-06-08",
+    "accession": "0000865752-12-000005",
+    "primary_document": "k060812.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.07; accession=0000865752-12-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-08-08",
+    "acceptance_datetime": "2012-08-08T20:21:18.000Z",
+    "report_date": "2012-08-08",
+    "accession": "0000865752-12-000007",
+    "primary_document": "k080812.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-12-000007"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-08-13",
+    "acceptance_datetime": "2012-08-13T20:27:54.000Z",
+    "report_date": "2012-08-13",
+    "accession": "0000865752-12-000009",
+    "primary_document": "k081312.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0000865752-12-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-11-07",
+    "acceptance_datetime": "2012-11-07T21:23:05.000Z",
+    "report_date": "2012-11-07",
+    "accession": "0000865752-12-000011",
+    "primary_document": "k110712.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-12-000011"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-11-13",
+    "acceptance_datetime": "2012-11-13T19:20:31.000Z",
+    "report_date": "2012-11-13",
+    "accession": "0000865752-12-000013",
+    "primary_document": "k111312.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0000865752-12-000013"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-12-11",
+    "acceptance_datetime": "2012-12-11T21:01:49.000Z",
+    "report_date": "2012-12-11",
+    "accession": "0001104659-12-083284",
+    "primary_document": "a12-29092_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-12-083284"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-02-27",
+    "acceptance_datetime": "2013-02-27T21:24:12.000Z",
+    "report_date": "2013-02-27",
+    "accession": "0000865752-13-000002",
+    "primary_document": "k022713.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-13-000002"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-04-08",
+    "acceptance_datetime": "2013-04-08T20:24:24.000Z",
+    "report_date": "2013-04-08",
+    "accession": "0000865752-13-000004",
+    "primary_document": "k040812.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0000865752-13-000004"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-05-08",
+    "acceptance_datetime": "2013-05-08T20:57:22.000Z",
+    "report_date": "2013-05-08",
+    "accession": "0000865752-13-000006",
+    "primary_document": "k050813.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-13-000006"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-06-03",
+    "acceptance_datetime": "2013-06-03T19:31:31.000Z",
+    "report_date": "2013-06-03",
+    "accession": "0000865752-13-000009",
+    "primary_document": "k060313.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0000865752-13-000009"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2013-06-05",
+    "acceptance_datetime": "2013-06-05T21:00:56.000Z",
+    "report_date": "2013-06-03",
+    "accession": "0001104659-13-047182",
+    "primary_document": "a13-14426_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.07; accession=0001104659-13-047182"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2013-08-02",
+    "acceptance_datetime": "2013-08-02T20:46:47.000Z",
+    "report_date": "2013-07-29",
+    "accession": "0001104659-13-059452",
+    "primary_document": "a13-17698_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.03,9.01; accession=0001104659-13-059452"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-08-08",
+    "acceptance_datetime": "2013-08-08T20:22:54.000Z",
+    "report_date": "2013-08-08",
+    "accession": "0001104659-13-061745",
+    "primary_document": "a13-18268_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-061745"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-10-31",
+    "acceptance_datetime": "2013-10-31T01:40:13.000Z",
+    "report_date": "2013-10-28",
+    "accession": "0001104659-13-079387",
+    "primary_document": "a13-23214_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0001104659-13-079387"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-11-07",
+    "acceptance_datetime": "2013-11-07T21:22:01.000Z",
+    "report_date": "2013-11-07",
+    "accession": "0001104659-13-082311",
+    "primary_document": "a13-23845_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-082311"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-11-13",
+    "acceptance_datetime": "2013-11-13T18:32:51.000Z",
+    "report_date": "2013-11-08",
+    "accession": "0000865752-13-000015",
+    "primary_document": "k111313.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0000865752-13-000015"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-01-07",
+    "acceptance_datetime": "2014-01-07T20:35:58.000Z",
+    "report_date": "2014-01-07",
+    "accession": "0001104659-14-000830",
+    "primary_document": "a14-1249_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-14-000830"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-02-27",
+    "acceptance_datetime": "2014-02-27T21:23:30.000Z",
+    "report_date": "2014-02-27",
+    "accession": "0000865752-14-000003",
+    "primary_document": "k8022714.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0000865752-14-000003"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2014-03-19",
+    "acceptance_datetime": "2014-03-19T21:16:40.000Z",
+    "report_date": "2014-03-18",
+    "accession": "0000865752-14-000005",
+    "primary_document": "k031814.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,9.01; accession=0000865752-14-000005"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-05-08",
+    "acceptance_datetime": "2014-05-08T20:14:20.000Z",
+    "report_date": "2014-05-08",
+    "accession": "0001104659-14-036500",
+    "primary_document": "a14-12299_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-036500"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2014-06-02",
+    "acceptance_datetime": "2014-06-02T19:12:12.000Z",
+    "report_date": "2014-06-02",
+    "accession": "0001104659-14-043275",
+    "primary_document": "a14-14484_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-14-043275"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2014-06-04",
+    "acceptance_datetime": "2014-06-04T20:13:13.000Z",
+    "report_date": "2014-06-02",
+    "accession": "0001104659-14-043983",
+    "primary_document": "a14-14820_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.07; accession=0001104659-14-043983"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-08-07",
+    "acceptance_datetime": "2014-08-07T20:19:33.000Z",
+    "report_date": "2014-08-07",
+    "accession": "0001104659-14-058286",
+    "primary_document": "a14-18612_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-058286"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2014-08-15",
+    "acceptance_datetime": "2014-08-15T10:03:28.000Z",
+    "report_date": "2014-08-14",
+    "accession": "0001104659-14-061175",
+    "primary_document": "a14-19122_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001104659-14-061175"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2014-08-18",
+    "acceptance_datetime": "2014-08-18T20:36:09.000Z",
+    "report_date": "2014-08-14",
+    "accession": "0001104659-14-061722",
+    "primary_document": "a14-19122_28k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0001104659-14-061722"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-11-06",
+    "acceptance_datetime": "2014-11-06T21:14:35.000Z",
+    "report_date": "2014-11-06",
+    "accession": "0001104659-14-077709",
+    "primary_document": "a14-23864_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-077709"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-01-13",
+    "acceptance_datetime": "2015-01-13T21:02:09.000Z",
+    "report_date": "2015-01-13",
+    "accession": "0001104659-15-002105",
+    "primary_document": "a15-2119_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-15-002105"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-02-13",
+    "acceptance_datetime": "2015-02-13T22:25:31.000Z",
+    "report_date": "2015-02-09",
+    "accession": "0001104659-15-010494",
+    "primary_document": "a15-4614_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0001104659-15-010494"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-02-26",
+    "acceptance_datetime": "2015-02-26T21:13:04.000Z",
+    "report_date": "2015-02-26",
+    "accession": "0001104659-15-014383",
+    "primary_document": "a15-5452_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-014383"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-03-18",
+    "acceptance_datetime": "2015-03-18T20:42:16.000Z",
+    "report_date": "2015-03-12",
+    "accession": "0001104659-15-020795",
+    "primary_document": "a15-7057_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0001104659-15-020795"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2015-03-24",
+    "acceptance_datetime": "2015-03-24T21:19:33.000Z",
+    "report_date": "2015-03-18",
+    "accession": "0001104659-15-022148",
+    "primary_document": "a15-7615_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=1.01; accession=0001104659-15-022148"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-05-07",
+    "acceptance_datetime": "2015-05-07T20:31:06.000Z",
+    "report_date": "2015-05-07",
+    "accession": "0001104659-15-035613",
+    "primary_document": "a15-11056_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-035613"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2015-06-12",
+    "acceptance_datetime": "2015-06-12T20:55:05.000Z",
+    "report_date": "2015-06-12",
+    "accession": "0001104659-15-045160",
+    "primary_document": "a15-14058_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-15-045160"
+  },
+  {
+    "form": "8-K12B",
+    "items": "1.01,2.01,3.01,3.02,3.03,5.01,5.02,5.03,9.01",
+    "filing_date": "2015-06-18",
+    "acceptance_datetime": "2015-06-18T21:09:51.000Z",
+    "report_date": "2015-06-12",
+    "accession": "0001104659-15-046213",
+    "primary_document": "a15-14144_18k12b.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=1.01,2.01,3.01,3.02,3.03,5.01,5.02,5.03,9.01; accession=0001104659-15-046213"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-08-06",
+    "acceptance_datetime": "2015-08-06T20:22:39.000Z",
+    "report_date": "2015-08-06",
+    "accession": "0001104659-15-057187",
+    "primary_document": "a15-17131_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-057187"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-08-11",
+    "acceptance_datetime": "2015-08-11T20:43:53.000Z",
+    "report_date": "2015-08-07",
+    "accession": "0001104659-15-058735",
+    "primary_document": "a15-17463_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.07; accession=0001104659-15-058735"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2015-09-11",
+    "acceptance_datetime": "2015-09-11T20:52:08.000Z",
+    "report_date": "2015-09-11",
+    "accession": "0001104659-15-064756",
+    "primary_document": "a15-19329_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-15-064756"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-11-05",
+    "acceptance_datetime": "2015-11-05T21:22:31.000Z",
+    "report_date": "2015-11-05",
+    "accession": "0001104659-15-076258",
+    "primary_document": "a15-22423_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-15-076258"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-12-03",
+    "acceptance_datetime": "2015-12-03T20:35:16.000Z",
+    "report_date": "2015-12-03",
+    "accession": "0001104659-15-082710",
+    "primary_document": "a15-24445_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0001104659-15-082710"
+  },
+  {
+    "form": "8-K/A",
+    "items": "8.01",
+    "filing_date": "2015-12-04",
+    "acceptance_datetime": "2015-12-04T22:13:32.000Z",
+    "report_date": "2015-12-03",
+    "accession": "0001104659-15-083064",
+    "primary_document": "a15-24578_18ka.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0001104659-15-083064"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-01-12",
+    "acceptance_datetime": "2016-01-12T21:18:34.000Z",
+    "report_date": "2016-01-12",
+    "accession": "0001104659-16-089401",
+    "primary_document": "a16-1507_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-16-089401"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-02-24",
+    "acceptance_datetime": "2016-02-23T23:24:38.000Z",
+    "report_date": "2016-02-23",
+    "accession": "0001104659-16-099291",
+    "primary_document": "a16-5133_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-16-099291"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2016-02-25",
+    "acceptance_datetime": "2016-02-25T21:20:14.000Z",
+    "report_date": "2016-02-25",
+    "accession": "0001104659-16-100009",
+    "primary_document": "a16-5275_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001104659-16-100009"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2016-04-01",
+    "acceptance_datetime": "2016-04-01T20:39:27.000Z",
+    "report_date": "2016-04-01",
+    "accession": "0001104659-16-109333",
+    "primary_document": "a16-7833_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0001104659-16-109333"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2016-04-29",
+    "acceptance_datetime": "2016-04-29T13:16:30.000Z",
+    "report_date": "2016-04-29",
+    "accession": "0001104659-16-115637",
+    "primary_document": "a16-9800_28k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001104659-16-115637"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,7.01",
+    "filing_date": "2016-06-16",
+    "acceptance_datetime": "2016-06-16T20:47:57.000Z",
+    "report_date": "2016-06-14",
+    "accession": "0001104659-16-127804",
+    "primary_document": "a16-13528_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.07,7.01; accession=0001104659-16-127804"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2016-08-04",
+    "acceptance_datetime": "2016-08-04T20:20:39.000Z",
+    "report_date": "2016-08-02",
+    "accession": "0001104659-16-137041",
+    "primary_document": "a16-16171_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001104659-16-137041"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.07,8.01,9.01",
+    "filing_date": "2016-10-14",
+    "acceptance_datetime": "2016-10-14T12:16:41.000Z",
+    "report_date": "2016-10-11",
+    "accession": "0001104659-16-150144",
+    "primary_document": "a16-19907_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.03,5.07,8.01,9.01; accession=0001104659-16-150144"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-11-03",
+    "acceptance_datetime": "2016-11-03T20:19:05.000Z",
+    "report_date": "2016-11-03",
+    "accession": "0001104659-16-154579",
+    "primary_document": "a16-21033_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-16-154579"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2016-11-04",
+    "acceptance_datetime": "2016-11-04T01:24:32.000Z",
+    "report_date": "2016-11-03",
+    "accession": "0001104659-16-154725",
+    "primary_document": "a16-21123_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01; accession=0001104659-16-154725"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-01-12",
+    "acceptance_datetime": "2017-01-12T21:01:26.000Z",
+    "report_date": "2017-01-12",
+    "accession": "0001104659-17-002141",
+    "primary_document": "a17-1947_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-17-002141"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2017-03-01",
+    "acceptance_datetime": "2017-03-01T21:09:11.000Z",
+    "report_date": "2017-03-01",
+    "accession": "0001104659-17-013039",
+    "primary_document": "a17-7380_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001104659-17-013039"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-04-25",
+    "acceptance_datetime": "2017-04-25T01:32:28.000Z",
+    "report_date": "2017-04-21",
+    "accession": "0001104659-17-025582",
+    "primary_document": "a17-11791_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0001104659-17-025582"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2017-04-25",
+    "acceptance_datetime": "2017-04-25T20:13:43.000Z",
+    "report_date": "2017-04-25",
+    "accession": "0001104659-17-025884",
+    "primary_document": "a17-11858_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-17-025884"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-05-04",
+    "acceptance_datetime": "2017-05-04T20:14:54.000Z",
+    "report_date": "2017-05-04",
+    "accession": "0001104659-17-029891",
+    "primary_document": "a17-12441_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-17-029891"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2017-06-21",
+    "acceptance_datetime": "2017-06-20T22:57:37.000Z",
+    "report_date": "2017-06-19",
+    "accession": "0001104659-17-040485",
+    "primary_document": "a17-15514_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.07; accession=0001104659-17-040485"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-08-08",
+    "acceptance_datetime": "2017-08-08T20:17:22.000Z",
+    "report_date": "2017-08-08",
+    "accession": "0001104659-17-050265",
+    "primary_document": "a17-19015_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-17-050265"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-11-08",
+    "acceptance_datetime": "2017-11-08T21:14:06.000Z",
+    "report_date": "2017-11-08",
+    "accession": "0001104659-17-066995",
+    "primary_document": "a17-26216_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-17-066995"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2018-01-16",
+    "acceptance_datetime": "2018-01-16T11:05:48.000Z",
+    "report_date": "2018-01-16",
+    "accession": "0001104659-18-002183",
+    "primary_document": "a18-3246_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01; accession=0001104659-18-002183"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2018-01-18",
+    "acceptance_datetime": "2018-01-18T21:05:05.000Z",
+    "report_date": "2018-01-18",
+    "accession": "0001104659-18-002859",
+    "primary_document": "a18-3300_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-18-002859"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-28",
+    "acceptance_datetime": "2018-02-28T21:17:54.000Z",
+    "report_date": "2018-02-28",
+    "accession": "0001104659-18-013446",
+    "primary_document": "a18-7263_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-18-013446"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2018-03-20",
+    "acceptance_datetime": "2018-03-20T20:12:21.000Z",
+    "report_date": "2018-03-16",
+    "accession": "0001104659-18-018960",
+    "primary_document": "a18-8560_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-18-018960"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2018-04-16",
+    "acceptance_datetime": "2018-04-16T20:12:58.000Z",
+    "report_date": "2018-04-13",
+    "accession": "0001104659-18-024237",
+    "primary_document": "a18-10038_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.03,9.01; accession=0001104659-18-024237"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-05-08",
+    "acceptance_datetime": "2018-05-08T20:18:53.000Z",
+    "report_date": "2018-05-08",
+    "accession": "0001104659-18-031313",
+    "primary_document": "a18-13070_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-18-031313"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-05-30",
+    "acceptance_datetime": "2018-05-30T12:08:09.000Z",
+    "report_date": "2018-05-30",
+    "accession": "0001104659-18-036554",
+    "primary_document": "a18-14556_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-18-036554"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-06-12",
+    "acceptance_datetime": "2018-06-12T18:02:12.000Z",
+    "report_date": "2018-06-07",
+    "accession": "0001104659-18-039560",
+    "primary_document": "a18-15182_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.07; accession=0001104659-18-039560"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2018-08-08",
+    "acceptance_datetime": "2018-08-08T20:15:59.000Z",
+    "report_date": "2018-08-07",
+    "accession": "0001104659-18-050513",
+    "primary_document": "a18-18471_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001104659-18-050513"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-11-07",
+    "acceptance_datetime": "2018-11-07T21:13:14.000Z",
+    "report_date": "2018-11-07",
+    "accession": "0001104659-18-066660",
+    "primary_document": "a18-39640_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-18-066660"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-12-07",
+    "acceptance_datetime": "2018-12-07T22:30:56.000Z",
+    "report_date": "2018-12-07",
+    "accession": "0001104659-18-071875",
+    "primary_document": "a18-41297_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-18-071875"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2019-01-17",
+    "acceptance_datetime": "2019-01-17T21:06:34.000Z",
+    "report_date": "2019-01-17",
+    "accession": "0001104659-19-002289",
+    "primary_document": "a19-2995_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-19-002289"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2019-02-27",
+    "acceptance_datetime": "2019-02-27T21:20:46.000Z",
+    "report_date": "2019-02-26",
+    "accession": "0001104659-19-011114",
+    "primary_document": "a19-5478_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001104659-19-011114"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-04-19",
+    "acceptance_datetime": "2019-04-19T20:37:16.000Z",
+    "report_date": "2019-04-16",
+    "accession": "0001104659-19-022629",
+    "primary_document": "a19-8592_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0001104659-19-022629"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-02",
+    "acceptance_datetime": "2019-05-02T20:16:08.000Z",
+    "report_date": "2019-05-02",
+    "accession": "0001104659-19-026489",
+    "primary_document": "a19-9291_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-19-026489"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-06-06",
+    "acceptance_datetime": "2019-06-06T10:01:36.000Z",
+    "report_date": "2019-06-06",
+    "accession": "0001104659-19-034147",
+    "primary_document": "a19-11164_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01; accession=0001104659-19-034147"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2019-06-11",
+    "acceptance_datetime": "2019-06-11T21:06:29.000Z",
+    "report_date": "2019-06-06",
+    "accession": "0001104659-19-034816",
+    "primary_document": "a19-11405_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001104659-19-034816"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-07-01",
+    "acceptance_datetime": "2019-07-01T12:37:24.000Z",
+    "report_date": "2019-06-28",
+    "accession": "0001104659-19-038419",
+    "primary_document": "a19-12337_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-19-038419"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-08-07",
+    "acceptance_datetime": "2019-08-07T20:24:43.000Z",
+    "report_date": "2019-08-07",
+    "accession": "0001104659-19-044544",
+    "primary_document": "a19-16756_18k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-19-044544"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2019-11-07",
+    "acceptance_datetime": "2019-11-07T21:24:58.000Z",
+    "report_date": "2019-11-07",
+    "accession": "0001104659-19-061144",
+    "primary_document": "tm1922044-1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001104659-19-061144"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2020-01-09",
+    "acceptance_datetime": "2020-01-09T18:31:53.000Z",
+    "report_date": "2020-01-09",
+    "accession": "0001104659-20-002575",
+    "primary_document": "tm201582-1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-20-002575"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-02-27",
+    "acceptance_datetime": "2020-02-27T21:14:36.000Z",
+    "report_date": "2020-02-27",
+    "accession": "0001104659-20-026177",
+    "primary_document": "tm2011123-1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-20-026177"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-03-13",
+    "acceptance_datetime": "2020-03-13T20:49:53.000Z",
+    "report_date": "2020-03-13",
+    "accession": "0001104659-20-033182",
+    "primary_document": "tm2012728-1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-20-033182"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-05-07",
+    "acceptance_datetime": "2020-05-07T20:28:20.000Z",
+    "report_date": "2020-05-07",
+    "accession": "0001104659-20-058129",
+    "primary_document": "tm2018928-1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-20-058129"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2020-06-08",
+    "acceptance_datetime": "2020-06-08T10:01:24.000Z",
+    "report_date": "2020-06-03",
+    "accession": "0001104659-20-070591",
+    "primary_document": "tm2021955-1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001104659-20-070591"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-08-04",
+    "acceptance_datetime": "2020-08-04T20:27:09.000Z",
+    "report_date": "2020-08-04",
+    "accession": "0001104659-20-090299",
+    "primary_document": "tm2026357-1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-20-090299"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2020-10-30",
+    "acceptance_datetime": "2020-10-30T17:46:27.000Z",
+    "report_date": "2020-10-26",
+    "accession": "0001104659-20-119950",
+    "primary_document": "tm2034648d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-20-119950"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-11-05",
+    "acceptance_datetime": "2020-11-05T21:28:16.000Z",
+    "report_date": "2020-11-05",
+    "accession": "0001104659-20-121827",
+    "primary_document": "tm2035091d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-20-121827"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2021-01-14",
+    "acceptance_datetime": "2021-01-14T21:04:34.000Z",
+    "report_date": "2021-01-13",
+    "accession": "0001104659-21-004226",
+    "primary_document": "tm213087d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001104659-21-004226"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-25",
+    "acceptance_datetime": "2021-02-25T21:20:22.000Z",
+    "report_date": "2021-02-25",
+    "accession": "0001104659-21-028257",
+    "primary_document": "tm217935d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-21-028257"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-03-31",
+    "acceptance_datetime": "2021-03-30T21:33:14.000Z",
+    "report_date": "2021-03-30",
+    "accession": "0001104659-21-044057",
+    "primary_document": "tm2111406d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0001104659-21-044057"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-05-06",
+    "acceptance_datetime": "2021-05-06T20:26:28.000Z",
+    "report_date": "2021-05-06",
+    "accession": "0001104659-21-062425",
+    "primary_document": "tm2115398d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-21-062425"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2021-06-17",
+    "acceptance_datetime": "2021-06-17T21:05:38.000Z",
+    "report_date": "2021-06-15",
+    "accession": "0001104659-21-082704",
+    "primary_document": "tm2119976d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.07; accession=0001104659-21-082704"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-08-05",
+    "acceptance_datetime": "2021-08-05T20:23:56.000Z",
+    "report_date": "2021-08-05",
+    "accession": "0001104659-21-100782",
+    "primary_document": "tm2124222d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-21-100782"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2021-10-01",
+    "acceptance_datetime": "2021-10-01T20:26:51.000Z",
+    "report_date": "2021-09-30",
+    "accession": "0001104659-21-121993",
+    "primary_document": "tm2128969d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-21-121993"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-04",
+    "acceptance_datetime": "2021-11-04T20:21:41.000Z",
+    "report_date": "2021-11-04",
+    "accession": "0001104659-21-134412",
+    "primary_document": "tm2131936d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-21-134412"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2022-01-04",
+    "acceptance_datetime": "2022-01-04T00:46:48.000Z",
+    "report_date": "2021-12-30",
+    "accession": "0001104659-22-000558",
+    "primary_document": "tm221333d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-22-000558"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2022-01-13",
+    "acceptance_datetime": "2022-01-13T21:02:15.000Z",
+    "report_date": "2022-01-13",
+    "accession": "0001104659-22-003997",
+    "primary_document": "tm222855d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001104659-22-003997"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-02-24",
+    "acceptance_datetime": "2022-02-24T21:24:12.000Z",
+    "report_date": "2022-02-24",
+    "accession": "0001104659-22-026611",
+    "primary_document": "tm227563d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-22-026611"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2022-04-25",
+    "acceptance_datetime": "2022-04-25T21:07:18.000Z",
+    "report_date": "2022-04-19",
+    "accession": "0001104659-22-049704",
+    "primary_document": "tm2213326d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0001104659-22-049704"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-05-05",
+    "acceptance_datetime": "2022-05-05T20:18:29.000Z",
+    "report_date": "2022-05-05",
+    "accession": "0001104659-22-056465",
+    "primary_document": "tm2214593d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-22-056465"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01,9.01",
+    "filing_date": "2022-06-15",
+    "acceptance_datetime": "2022-06-15T20:50:17.000Z",
+    "report_date": "2022-06-14",
+    "accession": "0001104659-22-071490",
+    "primary_document": "tm2218551d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.07,8.01,9.01; accession=0001104659-22-071490"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-08-04",
+    "acceptance_datetime": "2022-08-04T20:21:56.000Z",
+    "report_date": "2022-08-04",
+    "accession": "0001104659-22-086151",
+    "primary_document": "tm2222570d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-22-086151"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2022-11-03",
+    "acceptance_datetime": "2022-11-03T20:23:37.000Z",
+    "report_date": "2022-11-03",
+    "accession": "0001104659-22-114430",
+    "primary_document": "tm2223883d2_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001104659-22-114430"
+  },
+  {
+    "form": "8-K",
+    "items": "4.01,9.01",
+    "filing_date": "2023-01-13",
+    "acceptance_datetime": "2023-01-13T21:17:33.000Z",
+    "report_date": "2023-01-11",
+    "accession": "0001104659-23-003829",
+    "primary_document": "tm233359d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=4.01,9.01; accession=0001104659-23-003829"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2023-01-17",
+    "acceptance_datetime": "2023-01-17T19:28:14.000Z",
+    "report_date": "2023-01-17",
+    "accession": "0001104659-23-004189",
+    "primary_document": "tm233491d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-23-004189"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2023-02-28",
+    "acceptance_datetime": "2023-02-28T21:19:04.000Z",
+    "report_date": "2023-02-28",
+    "accession": "0001104659-23-026733",
+    "primary_document": "tm237882d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001104659-23-026733"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-04",
+    "acceptance_datetime": "2023-05-04T20:19:04.000Z",
+    "report_date": "2023-05-04",
+    "accession": "0001104659-23-056023",
+    "primary_document": "tm2314653d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-23-056023"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.07,9.01",
+    "filing_date": "2023-06-27",
+    "acceptance_datetime": "2023-06-27T10:01:59.000Z",
+    "report_date": "2023-06-22",
+    "accession": "0001104659-23-074933",
+    "primary_document": "tm2319592d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.03,5.07,9.01; accession=0001104659-23-074933"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-08-03",
+    "acceptance_datetime": "2023-08-03T20:20:49.000Z",
+    "report_date": "2023-08-03",
+    "accession": "0001104659-23-087294",
+    "primary_document": "tm2322746d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-23-087294"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-11-02",
+    "acceptance_datetime": "2023-11-02T20:19:38.000Z",
+    "report_date": "2023-11-02",
+    "accession": "0001104659-23-113794",
+    "primary_document": "tm2324499d2_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-23-113794"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-11-08",
+    "acceptance_datetime": "2023-11-08T21:43:10.000Z",
+    "report_date": "2023-11-07",
+    "accession": "0001104659-23-115781",
+    "primary_document": "tm2330253d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-23-115781"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-01-16",
+    "acceptance_datetime": "2024-01-16T21:07:38.000Z",
+    "report_date": "2024-01-16",
+    "accession": "0001104659-24-004103",
+    "primary_document": "tm243289d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-24-004103"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-28",
+    "acceptance_datetime": "2024-02-28T21:28:15.000Z",
+    "report_date": "2024-02-28",
+    "accession": "0001104659-24-028756",
+    "primary_document": "tm241011d2_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-24-028756"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-29",
+    "acceptance_datetime": "2024-02-29T02:49:13.000Z",
+    "report_date": "2024-02-28",
+    "accession": "0001104659-24-028951",
+    "primary_document": "tm241011d3_8ka.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-24-028951"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2024-05-02",
+    "acceptance_datetime": "2024-05-02T20:13:14.000Z",
+    "report_date": "2024-05-02",
+    "accession": "0001104659-24-056393",
+    "primary_document": "tm2413295d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001104659-24-056393"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2024-05-23",
+    "acceptance_datetime": "2024-05-23T20:13:35.000Z",
+    "report_date": "2024-05-22",
+    "accession": "0001104659-24-064691",
+    "primary_document": "tm2415312d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001104659-24-064691"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2024-06-14",
+    "acceptance_datetime": "2024-06-14T19:29:02.000Z",
+    "report_date": "2024-06-13",
+    "accession": "0001104659-24-071717",
+    "primary_document": "tm2417277d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001104659-24-071717"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-08-07",
+    "acceptance_datetime": "2024-08-07T20:23:54.000Z",
+    "report_date": "2024-08-07",
+    "accession": "0001104659-24-086781",
+    "primary_document": "tm2421078d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-24-086781"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-08-19",
+    "acceptance_datetime": "2024-08-19T20:26:50.000Z",
+    "report_date": "2024-08-19",
+    "accession": "0001104659-24-090857",
+    "primary_document": "tm2422043d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-24-090857"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,5.03,9.01",
+    "filing_date": "2024-11-07",
+    "acceptance_datetime": "2024-11-07T21:22:07.000Z",
+    "report_date": "2024-11-06",
+    "accession": "0001104659-24-115332",
+    "primary_document": "tm2427782d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,5.02,5.03,9.01; accession=0001104659-24-115332"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2025-01-21",
+    "acceptance_datetime": "2025-01-21T19:41:14.000Z",
+    "report_date": "2025-01-21",
+    "accession": "0001104659-25-004848",
+    "primary_document": "tm253761d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-25-004848"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-02-27",
+    "acceptance_datetime": "2025-02-27T21:19:31.000Z",
+    "report_date": "2025-02-27",
+    "accession": "0001104659-25-018243",
+    "primary_document": "tm257767d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-25-018243"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2025-03-10",
+    "acceptance_datetime": "2025-03-10T21:26:56.000Z",
+    "report_date": "2025-03-10",
+    "accession": "0001104659-25-022230",
+    "primary_document": "tm258762d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-25-022230"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-04-17",
+    "acceptance_datetime": "2025-04-17T20:28:27.000Z",
+    "report_date": "2025-04-14",
+    "accession": "0001104659-25-036037",
+    "primary_document": "tm2512421d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0001104659-25-036037"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-05-08",
+    "acceptance_datetime": "2025-05-08T20:21:46.000Z",
+    "report_date": "2025-05-08",
+    "accession": "0001104659-25-046150",
+    "primary_document": "tm2514442d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-25-046150"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2025-06-16",
+    "acceptance_datetime": "2025-06-16T21:01:14.000Z",
+    "report_date": "2025-06-12",
+    "accession": "0001104659-25-059938",
+    "primary_document": "tm2518054d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.07; accession=0001104659-25-059938"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2025-08-07",
+    "acceptance_datetime": "2025-08-07T20:22:43.000Z",
+    "report_date": "2025-08-07",
+    "accession": "0001104659-25-075211",
+    "primary_document": "tm2522843d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001104659-25-075211"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2025-11-06",
+    "acceptance_datetime": "2025-11-06T21:27:37.000Z",
+    "report_date": "2025-11-06",
+    "accession": "0001104659-25-107778",
+    "primary_document": "tm2530426d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001104659-25-107778"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2025-12-02",
+    "acceptance_datetime": "2025-12-02T19:45:40.000Z",
+    "report_date": "2025-12-02",
+    "accession": "0001104659-25-117647",
+    "primary_document": "tm2532419d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=7.01,9.01; accession=0001104659-25-117647"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2026-02-26",
+    "acceptance_datetime": "2026-02-26T21:24:35.000Z",
+    "report_date": "2026-02-26",
+    "accession": "0001104659-26-020525",
+    "primary_document": "tm267393d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001104659-26-020525"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2026-05-07",
+    "acceptance_datetime": "2026-05-07T20:26:23.000Z",
+    "report_date": "2026-05-07",
+    "accession": "0001104659-26-057188",
+    "primary_document": "tm2613885d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001104659-26-057188"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01,9.01",
+    "filing_date": "2026-05-15",
+    "acceptance_datetime": "2026-05-15T20:16:32.000Z",
+    "report_date": "2026-05-14",
+    "accession": "0001104659-26-062567",
+    "primary_document": "tm2614725d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.07,8.01,9.01; accession=0001104659-26-062567"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-06-04",
+    "acceptance_datetime": "2026-06-04T20:05:41.000Z",
+    "report_date": "2026-06-01",
+    "accession": "0001104659-26-070506",
+    "primary_document": "tm2616810d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0001104659-26-070506"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2026-07-08",
+    "acceptance_datetime": "2026-07-08T21:09:42.000Z",
+    "report_date": "2026-07-08",
+    "accession": "0001104659-26-081842",
+    "primary_document": "tm2619964d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-26-081842"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2026-08-06",
+    "acceptance_datetime": "2026-08-06T20:23:16.000Z",
+    "report_date": "2026-08-06",
+    "accession": "0001104659-26-092046",
+    "primary_document": "tm2622396d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001104659-26-092046"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-09-04",
+    "acceptance_datetime": "2026-09-04T20:05:40.000Z",
+    "report_date": "2026-09-03",
+    "accession": "0001104659-26-105498",
+    "primary_document": "tm2624805d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0001104659-26-105498"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-09-25",
+    "acceptance_datetime": "2026-09-25T20:05:38.000Z",
+    "report_date": "2026-09-21",
+    "accession": "0001104659-26-110965",
+    "primary_document": "tm2626151d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=5.02; accession=0001104659-26-110965"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2026-11-05",
+    "acceptance_datetime": "2026-11-05T21:32:56.000Z",
+    "report_date": "2026-11-05",
+    "accession": "0001104659-26-123387",
+    "primary_document": "tm2629095d1_8k.htm",
+    "cik": "0000865752",
+    "issuer_name": "Monster Beverage Corp",
+    "tickers": [
+      "MNST"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000865752.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001104659-26-123387"
+  }
+]

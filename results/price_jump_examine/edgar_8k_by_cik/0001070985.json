@@ -1,0 +1,5026 @@
+[
+  {
+    "form": "8-K12G3",
+    "items": "2,5,7",
+    "filing_date": "1999-01-06",
+    "acceptance_datetime": "1999-01-06T05:00:00.000Z",
+    "report_date": "1999-01-06",
+    "accession": "0000950144-99-000063",
+    "primary_document": "",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2,5,7; accession=0000950144-99-000063"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "1999-05-25",
+    "acceptance_datetime": "1999-05-25T04:00:00.000Z",
+    "report_date": "1999-05-17",
+    "accession": "0000950144-99-006717",
+    "primary_document": "",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-99-006717"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "1999-06-04",
+    "acceptance_datetime": "1999-06-04T04:00:00.000Z",
+    "report_date": "1999-05-26",
+    "accession": "0000950144-99-007031",
+    "primary_document": "",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-99-007031"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "1999-12-28",
+    "acceptance_datetime": "1999-12-28T05:00:00.000Z",
+    "report_date": "1999-12-28",
+    "accession": "0000950144-99-014357",
+    "primary_document": "",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-99-014357"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-03-01",
+    "acceptance_datetime": "2000-03-01T05:00:00.000Z",
+    "report_date": "2000-02-23",
+    "accession": "0000950144-00-002830",
+    "primary_document": "",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-002830"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-04-10",
+    "acceptance_datetime": "2000-04-10T04:00:00.000Z",
+    "report_date": "2000-04-05",
+    "accession": "0000950144-00-004778",
+    "primary_document": "",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-004778"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-04-18",
+    "acceptance_datetime": "2000-04-18T04:00:00.000Z",
+    "report_date": "2000-04-14",
+    "accession": "0000950144-00-005144",
+    "primary_document": "",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-005144"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-06-13",
+    "acceptance_datetime": "2000-06-13T04:00:00.000Z",
+    "report_date": "2000-06-09",
+    "accession": "0000950144-00-007789",
+    "primary_document": "0001.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-007789"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-07-03",
+    "acceptance_datetime": "2000-07-03T04:00:00.000Z",
+    "report_date": "2000-06-30",
+    "accession": "0000950144-00-008497",
+    "primary_document": "e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-008497"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-07-31",
+    "acceptance_datetime": "2000-07-31T04:00:00.000Z",
+    "report_date": "2000-07-28",
+    "accession": "0000950144-00-009220",
+    "primary_document": "e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-009220"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-08-29",
+    "acceptance_datetime": "2000-08-29T04:00:00.000Z",
+    "report_date": "2000-08-23",
+    "accession": "0000950144-00-010891",
+    "primary_document": "e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-010891"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-09-05",
+    "acceptance_datetime": "2000-09-05T04:00:00.000Z",
+    "report_date": "2000-08-23",
+    "accession": "0000950144-00-011055",
+    "primary_document": "g64049e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-011055"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-09-11",
+    "acceptance_datetime": "2000-09-11T04:00:00.000Z",
+    "report_date": "2000-08-31",
+    "accession": "0000950144-00-011178",
+    "primary_document": "g64048e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-011178"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-09-12",
+    "acceptance_datetime": "2000-09-12T04:00:00.000Z",
+    "report_date": "2000-09-11",
+    "accession": "0000950144-00-011272",
+    "primary_document": "g64166e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-011272"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-09-26",
+    "acceptance_datetime": "2000-09-26T04:00:00.000Z",
+    "report_date": "2000-09-22",
+    "accession": "0000950144-00-011648",
+    "primary_document": "g64337e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-011648"
+  },
+  {
+    "form": "8-K",
+    "items": "2,5,7",
+    "filing_date": "2000-10-03",
+    "acceptance_datetime": "2000-10-03T04:00:00.000Z",
+    "report_date": "2000-09-29",
+    "accession": "0000950144-00-011894",
+    "primary_document": "g64452e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2,5,7; accession=0000950144-00-011894"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-10-30",
+    "acceptance_datetime": "2000-10-30T05:00:00.000Z",
+    "report_date": "2000-10-25",
+    "accession": "0000950144-00-012735",
+    "primary_document": "g64860e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-012735"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-11-28",
+    "acceptance_datetime": "2000-11-28T05:00:00.000Z",
+    "report_date": "2000-11-17",
+    "accession": "0000950144-00-014454",
+    "primary_document": "g65663e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-014454"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-12-19",
+    "acceptance_datetime": "2000-12-19T05:00:00.000Z",
+    "report_date": "2000-12-14",
+    "accession": "0000950144-00-015068",
+    "primary_document": "g66044e8-k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-00-015068"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2001-02-16",
+    "acceptance_datetime": "2001-02-16T05:00:00.000Z",
+    "report_date": "2001-02-13",
+    "accession": "0000950144-01-002909",
+    "primary_document": "g67150e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-01-002909"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2001-05-08",
+    "acceptance_datetime": "2001-05-08T04:00:00.000Z",
+    "report_date": "2001-05-07",
+    "accession": "0000950144-01-501692",
+    "primary_document": "g69112e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-01-501692"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2001-12-12",
+    "acceptance_datetime": "2001-12-12T05:00:00.000Z",
+    "report_date": "2001-12-07",
+    "accession": "0000950144-01-509956",
+    "primary_document": "g73207e8-k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-01-509956"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-01-03",
+    "acceptance_datetime": "2002-01-03T05:00:00.000Z",
+    "report_date": "2001-12-31",
+    "accession": "0000950144-02-000077",
+    "primary_document": "g73533e8-k.txt",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-02-000077"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2002-03-08",
+    "acceptance_datetime": "2002-03-08T05:00:00.000Z",
+    "report_date": "2002-03-06",
+    "accession": "0000950144-02-002137",
+    "primary_document": "g74619e8-k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7,9; accession=0000950144-02-002137"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7,9",
+    "filing_date": "2002-04-11",
+    "acceptance_datetime": "2002-04-11T04:00:00.000Z",
+    "report_date": "2002-03-26",
+    "accession": "0000950144-02-003739",
+    "primary_document": "g75485e8-k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7,9; accession=0000950144-02-003739"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-04-22",
+    "acceptance_datetime": "2002-04-22T04:00:00.000Z",
+    "report_date": "2002-04-19",
+    "accession": "0000950144-02-004207",
+    "primary_document": "g75745e8-k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-02-004207"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-04-25",
+    "acceptance_datetime": "2002-04-25T04:00:00.000Z",
+    "report_date": "2002-04-24",
+    "accession": "0000950144-02-004327",
+    "primary_document": "g75794e8-k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-02-004327"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-05-07",
+    "acceptance_datetime": "2002-05-07T21:19:05.000Z",
+    "report_date": "2002-05-03",
+    "accession": "0000950144-02-004867",
+    "primary_document": "g75999e8-k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-02-004867"
+  },
+  {
+    "form": "8-K",
+    "items": "4,7",
+    "filing_date": "2002-05-15",
+    "acceptance_datetime": "2002-05-15T20:12:50.000Z",
+    "report_date": "2002-05-14",
+    "accession": "0000950144-02-005628",
+    "primary_document": "g76433e8-k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=4,7; accession=0000950144-02-005628"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-10-28",
+    "acceptance_datetime": "2002-10-28T20:17:23.000Z",
+    "report_date": "2002-10-24",
+    "accession": "0000950144-02-010805",
+    "primary_document": "g78885e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-02-010805"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-12-27",
+    "acceptance_datetime": "2002-12-27T22:29:30.000Z",
+    "report_date": "2002-10-25",
+    "accession": "0000950144-02-013082",
+    "primary_document": "g79921e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-02-013082"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2003-01-22",
+    "acceptance_datetime": "2003-01-21T22:45:16.000Z",
+    "report_date": "2003-01-17",
+    "accession": "0000950144-03-000562",
+    "primary_document": "g80266e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-03-000562"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-02-12",
+    "acceptance_datetime": "2003-02-12T13:16:49.000Z",
+    "report_date": "2003-02-12",
+    "accession": "0000950144-03-001560",
+    "primary_document": "g80660e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7,9; accession=0000950144-03-001560"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2003-02-14",
+    "acceptance_datetime": "2003-02-14T15:35:48.000Z",
+    "report_date": "2003-02-13",
+    "accession": "0000950144-03-001830",
+    "primary_document": "g80742e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-03-001830"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-03-20",
+    "acceptance_datetime": "2003-03-20T14:02:43.000Z",
+    "report_date": "2003-03-20",
+    "accession": "0000950144-03-003411",
+    "primary_document": "g81344e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7,9; accession=0000950144-03-003411"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-04-02",
+    "acceptance_datetime": "2003-04-02T14:02:57.000Z",
+    "report_date": "2003-04-02",
+    "accession": "0000950144-03-004443",
+    "primary_document": "g81773e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7,9; accession=0000950144-03-004443"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-05-02",
+    "acceptance_datetime": "2003-05-02T15:01:14.000Z",
+    "report_date": "2003-05-02",
+    "accession": "0000950144-03-006003",
+    "primary_document": "g82545e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7,9; accession=0000950144-03-006003"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-05-05",
+    "acceptance_datetime": "2003-05-05T21:24:48.000Z",
+    "report_date": "2003-05-05",
+    "accession": "0000950144-03-006137",
+    "primary_document": "g82593e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7,9; accession=0000950144-03-006137"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7,9",
+    "filing_date": "2003-05-07",
+    "acceptance_datetime": "2003-05-07T20:37:33.000Z",
+    "report_date": "2003-05-07",
+    "accession": "0000950144-03-006275",
+    "primary_document": "g82624e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7,9; accession=0000950144-03-006275"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-05-08",
+    "acceptance_datetime": "2003-05-08T12:46:13.000Z",
+    "report_date": "2003-05-08",
+    "accession": "0000950144-03-006297",
+    "primary_document": "g82644e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7,9; accession=0000950144-03-006297"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2003-05-13",
+    "acceptance_datetime": "2003-05-13T01:24:10.000Z",
+    "report_date": "2003-05-12",
+    "accession": "0000950144-03-006472",
+    "primary_document": "g82796e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-03-006472"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2003-07-24",
+    "acceptance_datetime": "2003-07-24T20:48:35.000Z",
+    "report_date": "2003-07-17",
+    "accession": "0000950144-03-008862",
+    "primary_document": "g83968e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5,7; accession=0000950144-03-008862"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-07-25",
+    "acceptance_datetime": "2003-07-25T20:36:48.000Z",
+    "report_date": "2003-07-24",
+    "accession": "0000950144-03-008922",
+    "primary_document": "g83985e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7,9; accession=0000950144-03-008922"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-07-30",
+    "acceptance_datetime": "2003-07-30T14:25:28.000Z",
+    "report_date": "2003-07-30",
+    "accession": "0000950144-03-009047",
+    "primary_document": "g84092ae8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7,9; accession=0000950144-03-009047"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2003-08-06",
+    "acceptance_datetime": "2003-08-06T12:13:05.000Z",
+    "report_date": "2003-08-06",
+    "accession": "0000950144-03-009352",
+    "primary_document": "g84223e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=12,7; accession=0000950144-03-009352"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2003-11-05",
+    "acceptance_datetime": "2003-11-06T21:06:25.000Z",
+    "report_date": "2003-11-05",
+    "accession": "0000950144-03-012373",
+    "primary_document": "g85670ae8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=12,7; accession=0000950144-03-012373"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-02-11",
+    "acceptance_datetime": "2004-02-11T22:26:47.000Z",
+    "report_date": "2004-02-11",
+    "accession": "0000950144-04-001069",
+    "primary_document": "g87161e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=12,7; accession=0000950144-04-001069"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-05-05",
+    "acceptance_datetime": "2004-05-05T15:19:58.000Z",
+    "report_date": "2004-05-05",
+    "accession": "0000950144-04-004849",
+    "primary_document": "g88923e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=12,7; accession=0000950144-04-004849"
+  },
+  {
+    "form": "8-K",
+    "items": "11,7",
+    "filing_date": "2004-07-30",
+    "acceptance_datetime": "2004-07-30T18:37:51.000Z",
+    "report_date": "2004-07-30",
+    "accession": "0000950144-04-007488",
+    "primary_document": "g90161e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=11,7; accession=0000950144-04-007488"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-08-05",
+    "acceptance_datetime": "2004-08-05T14:03:19.000Z",
+    "report_date": "2004-08-05",
+    "accession": "0000950144-04-007753",
+    "primary_document": "g90266e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=12,7; accession=0000950144-04-007753"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2004-09-10",
+    "acceptance_datetime": "2004-09-10T20:47:20.000Z",
+    "report_date": "2004-09-10",
+    "accession": "0000950144-04-009037",
+    "primary_document": "g90924e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7.01; accession=0000950144-04-009037"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2004-11-03",
+    "acceptance_datetime": "2004-11-03T14:45:01.000Z",
+    "report_date": "2004-11-03",
+    "accession": "0000950144-04-010352",
+    "primary_document": "g91592e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-04-010352"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2004-12-15",
+    "acceptance_datetime": "2004-12-15T22:02:51.000Z",
+    "report_date": "2004-12-09",
+    "accession": "0000950144-04-012097",
+    "primary_document": "g92371e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950144-04-012097"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2005-01-06",
+    "acceptance_datetime": "2005-01-06T15:57:15.000Z",
+    "report_date": "2005-01-03",
+    "accession": "0000950144-05-000085",
+    "primary_document": "g92623e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0000950144-05-000085"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-02-09",
+    "acceptance_datetime": "2005-02-09T16:36:58.000Z",
+    "report_date": "2005-02-09",
+    "accession": "0000950144-05-001037",
+    "primary_document": "g93137e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-05-001037"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2005-02-10",
+    "acceptance_datetime": "2005-02-10T21:11:50.000Z",
+    "report_date": "2005-02-10",
+    "accession": "0000950144-05-001153",
+    "primary_document": "g93092e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0000950144-05-001153"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-02-23",
+    "acceptance_datetime": "2005-02-23T20:17:41.000Z",
+    "report_date": "2005-02-16",
+    "accession": "0000950144-05-001773",
+    "primary_document": "g93415e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950144-05-001773"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2005-03-02",
+    "acceptance_datetime": "2005-03-02T19:24:51.000Z",
+    "report_date": "2005-03-01",
+    "accession": "0000950144-05-001982",
+    "primary_document": "g93539e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=3.02; accession=0000950144-05-001982"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2005-03-08",
+    "acceptance_datetime": "2005-03-08T22:19:40.000Z",
+    "report_date": "2005-03-08",
+    "accession": "0000950144-05-002233",
+    "primary_document": "g93673e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0000950144-05-002233"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2005-03-09",
+    "acceptance_datetime": "2005-03-09T22:17:14.000Z",
+    "report_date": "2005-03-08",
+    "accession": "0000950144-05-002294",
+    "primary_document": "g93694e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0000950144-05-002294"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.03,8.01,9.01",
+    "filing_date": "2005-03-24",
+    "acceptance_datetime": "2005-03-24T22:19:31.000Z",
+    "report_date": "2005-03-21",
+    "accession": "0000950144-05-003050",
+    "primary_document": "g94052e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,3.03,8.01,9.01; accession=0000950144-05-003050"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-04-19",
+    "acceptance_datetime": "2005-04-19T20:38:34.000Z",
+    "report_date": "2005-04-18",
+    "accession": "0000950144-05-004049",
+    "primary_document": "g94637ke8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950144-05-004049"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-05-05",
+    "acceptance_datetime": "2005-05-05T14:10:55.000Z",
+    "report_date": "2005-05-05",
+    "accession": "0000950144-05-004898",
+    "primary_document": "g95010e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-05-004898"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2005-06-02",
+    "acceptance_datetime": "2005-06-02T18:30:58.000Z",
+    "report_date": "2005-06-02",
+    "accession": "0000950144-05-006131",
+    "primary_document": "g95695e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950144-05-006131"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2005-06-22",
+    "acceptance_datetime": "2005-06-22T19:06:33.000Z",
+    "report_date": "2005-06-20",
+    "accession": "0000950144-05-006675",
+    "primary_document": "g95928e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0000950144-05-006675"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01",
+    "filing_date": "2005-08-04",
+    "acceptance_datetime": "2005-08-04T15:11:51.000Z",
+    "report_date": "2005-08-04",
+    "accession": "0000950144-05-008173",
+    "primary_document": "g96631e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,7.01; accession=0000950144-05-008173"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-11-03",
+    "acceptance_datetime": "2005-11-03T15:16:37.000Z",
+    "report_date": "2005-11-03",
+    "accession": "0000950144-05-011049",
+    "primary_document": "g97985e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-05-011049"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-12-14",
+    "acceptance_datetime": "2005-12-14T22:08:32.000Z",
+    "report_date": "2005-12-08",
+    "accession": "0000950144-05-012772",
+    "primary_document": "g98756e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950144-05-012772"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-01-17",
+    "acceptance_datetime": "2006-01-17T22:05:28.000Z",
+    "report_date": "2006-01-17",
+    "accession": "0000950144-06-000310",
+    "primary_document": "g99190e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950144-06-000310"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2006-01-18",
+    "acceptance_datetime": "2006-01-18T14:09:53.000Z",
+    "report_date": "2006-01-18",
+    "accession": "0000950144-06-000325",
+    "primary_document": "g99198e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950144-06-000325"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2006-01-24",
+    "acceptance_datetime": "2006-01-24T21:28:12.000Z",
+    "report_date": "2006-01-18",
+    "accession": "0000950144-06-000479",
+    "primary_document": "g99267e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0000950144-06-000479"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2006-02-07",
+    "acceptance_datetime": "2006-02-07T22:22:25.000Z",
+    "report_date": "2006-02-03",
+    "accession": "0000950144-06-000896",
+    "primary_document": "g99479e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0000950144-06-000896"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-02-09",
+    "acceptance_datetime": "2006-02-09T19:14:30.000Z",
+    "report_date": "2006-02-09",
+    "accession": "0000950144-06-000982",
+    "primary_document": "g99541e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-06-000982"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-02-21",
+    "acceptance_datetime": "2006-02-21T21:12:29.000Z",
+    "report_date": "2006-02-15",
+    "accession": "0000950144-06-001366",
+    "primary_document": "g99748e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950144-06-001366"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,5.02,9.01",
+    "filing_date": "2006-04-10",
+    "acceptance_datetime": "2006-04-10T21:24:41.000Z",
+    "report_date": "2006-04-10",
+    "accession": "0000950144-06-003372",
+    "primary_document": "g00794e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.02,5.02,9.01; accession=0000950144-06-003372"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-05-03",
+    "acceptance_datetime": "2006-05-03T16:48:46.000Z",
+    "report_date": "2006-05-03",
+    "accession": "0000950144-06-004334",
+    "primary_document": "g01248e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-06-004334"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-07-06",
+    "acceptance_datetime": "2006-07-06T15:25:53.000Z",
+    "report_date": "2006-07-01",
+    "accession": "0000950144-06-006475",
+    "primary_document": "g02321e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950144-06-006475"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2006-08-03",
+    "acceptance_datetime": "2006-08-03T13:40:18.000Z",
+    "report_date": "2006-08-03",
+    "accession": "0000950144-06-007293",
+    "primary_document": "g02656e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0000950144-06-007293"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-11-06",
+    "acceptance_datetime": "2006-11-06T16:19:08.000Z",
+    "report_date": "2006-11-06",
+    "accession": "0000950144-06-010249",
+    "primary_document": "g04001e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-06-010249"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-02-08",
+    "acceptance_datetime": "2007-02-08T16:57:41.000Z",
+    "report_date": "2007-02-08",
+    "accession": "0000950144-07-000947",
+    "primary_document": "g05347e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-07-000947"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2007-02-26",
+    "acceptance_datetime": "2007-02-26T21:30:54.000Z",
+    "report_date": "2007-02-20",
+    "accession": "0000950144-07-001604",
+    "primary_document": "g05725e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0000950144-07-001604"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-03-01",
+    "acceptance_datetime": "2007-03-01T13:01:12.000Z",
+    "report_date": "2007-03-01",
+    "accession": "0000950144-07-001753",
+    "primary_document": "g05766e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950144-07-001753"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-03-13",
+    "acceptance_datetime": "2007-03-13T20:42:14.000Z",
+    "report_date": "2007-03-13",
+    "accession": "0000950144-07-002126",
+    "primary_document": "g05978e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950144-07-002126"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-03-16",
+    "acceptance_datetime": "2007-03-16T21:20:06.000Z",
+    "report_date": "2007-03-16",
+    "accession": "0000950144-07-002356",
+    "primary_document": "g06011e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950144-07-002356"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-05-03",
+    "acceptance_datetime": "2007-05-03T15:47:28.000Z",
+    "report_date": "2007-05-03",
+    "accession": "0000950144-07-004166",
+    "primary_document": "g07013e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-07-004166"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-05-11",
+    "acceptance_datetime": "2007-05-11T16:21:42.000Z",
+    "report_date": "2007-05-10",
+    "accession": "0000950144-07-004681",
+    "primary_document": "g07364e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950144-07-004681"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-06-07",
+    "acceptance_datetime": "2007-06-07T13:55:17.000Z",
+    "report_date": "2007-06-07",
+    "accession": "0000950144-07-005530",
+    "primary_document": "g07775e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950144-07-005530"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2007-08-07",
+    "acceptance_datetime": "2007-08-07T11:07:55.000Z",
+    "report_date": "2007-08-06",
+    "accession": "0000950144-07-007321",
+    "primary_document": "g08571e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0000950144-07-007321"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-08-16",
+    "acceptance_datetime": "2007-08-16T18:43:03.000Z",
+    "report_date": "2007-08-10",
+    "accession": "0000950144-07-007953",
+    "primary_document": "g08996e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950144-07-007953"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2007-09-06",
+    "acceptance_datetime": "2007-09-06T15:58:04.000Z",
+    "report_date": "2007-09-05",
+    "accession": "0000950144-07-008415",
+    "primary_document": "g09361e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0000950144-07-008415"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-11-08",
+    "acceptance_datetime": "2007-11-08T18:00:11.000Z",
+    "report_date": "2007-11-08",
+    "accession": "0000950144-07-010098",
+    "primary_document": "g10312e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-07-010098"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2007-12-13",
+    "acceptance_datetime": "2007-12-13T21:24:10.000Z",
+    "report_date": "2007-12-13",
+    "accession": "0000950144-07-011067",
+    "primary_document": "g11052e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.03,9.01; accession=0000950144-07-011067"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2007-12-21",
+    "acceptance_datetime": "2007-12-21T20:18:57.000Z",
+    "report_date": "2007-12-21",
+    "accession": "0000950144-07-011249",
+    "primary_document": "g11147e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0000950144-07-011249"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-02-07",
+    "acceptance_datetime": "2008-02-07T18:15:55.000Z",
+    "report_date": "2008-02-07",
+    "accession": "0000950144-08-000759",
+    "primary_document": "g11561e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-08-000759"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2008-02-13",
+    "acceptance_datetime": "2008-02-13T20:21:33.000Z",
+    "report_date": "2008-02-13",
+    "accession": "0000950144-08-000943",
+    "primary_document": "g11714e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0000950144-08-000943"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2008-02-21",
+    "acceptance_datetime": "2008-02-21T21:17:46.000Z",
+    "report_date": "2008-02-20",
+    "accession": "0000950144-08-001266",
+    "primary_document": "g11816e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950144-08-001266"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2008-03-17",
+    "acceptance_datetime": "2008-03-17T12:17:43.000Z",
+    "report_date": "2008-03-14",
+    "accession": "0000950144-08-001977",
+    "primary_document": "g12353e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950144-08-001977"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-05-06",
+    "acceptance_datetime": "2008-05-06T13:32:55.000Z",
+    "report_date": "2008-05-06",
+    "accession": "0000950144-08-003625",
+    "primary_document": "g13229e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-08-003625"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2008-07-24",
+    "acceptance_datetime": "2008-07-24T12:54:47.000Z",
+    "report_date": "2008-07-23",
+    "accession": "0000950144-08-005667",
+    "primary_document": "g14335e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0000950144-08-005667"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-08-07",
+    "acceptance_datetime": "2008-08-07T15:40:40.000Z",
+    "report_date": "2008-08-07",
+    "accession": "0000950144-08-006151",
+    "primary_document": "g14338e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-08-006151"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2008-08-22",
+    "acceptance_datetime": "2008-08-22T20:25:38.000Z",
+    "report_date": "2008-08-21",
+    "accession": "0000950144-08-006662",
+    "primary_document": "g14862e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950144-08-006662"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-11-06",
+    "acceptance_datetime": "2008-11-06T17:49:07.000Z",
+    "report_date": "2008-11-06",
+    "accession": "0000950144-08-008211",
+    "primary_document": "g16429e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-08-008211"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2008-12-12",
+    "acceptance_datetime": "2008-12-12T17:35:01.000Z",
+    "report_date": "2008-12-11",
+    "accession": "0000950144-08-009289",
+    "primary_document": "g16999ke8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950144-08-009289"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-02-10",
+    "acceptance_datetime": "2009-02-10T15:02:16.000Z",
+    "report_date": "2009-02-10",
+    "accession": "0000950144-09-001098",
+    "primary_document": "g17504e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-09-001098"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2009-02-23",
+    "acceptance_datetime": "2009-02-23T19:00:35.000Z",
+    "report_date": "2009-02-18",
+    "accession": "0000950144-09-001520",
+    "primary_document": "g17702e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950144-09-001520"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2009-03-11",
+    "acceptance_datetime": "2009-03-11T12:32:00.000Z",
+    "report_date": "2009-03-11",
+    "accession": "0000950144-09-002075",
+    "primary_document": "g18018e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7.01; accession=0000950144-09-002075"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-05-07",
+    "acceptance_datetime": "2009-05-07T13:38:51.000Z",
+    "report_date": "2009-05-07",
+    "accession": "0000950144-09-004009",
+    "primary_document": "g18885e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950144-09-004009"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-05-14",
+    "acceptance_datetime": "2009-05-14T21:27:53.000Z",
+    "report_date": "2009-05-14",
+    "accession": "0000950144-09-004305",
+    "primary_document": "g19104e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950144-09-004305"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,8.01,9.01",
+    "filing_date": "2009-05-20",
+    "acceptance_datetime": "2009-05-20T21:25:41.000Z",
+    "report_date": "2009-05-14",
+    "accession": "0000950144-09-004483",
+    "primary_document": "g19129e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,7.01,8.01,9.01; accession=0000950144-09-004483"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2009-06-03",
+    "acceptance_datetime": "2009-06-03T19:02:30.000Z",
+    "report_date": "2009-06-02",
+    "accession": "0000950123-09-010925",
+    "primary_document": "g19354e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0000950123-09-010925"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-06-08",
+    "acceptance_datetime": "2009-06-08T17:05:07.000Z",
+    "report_date": "2009-06-03",
+    "accession": "0000950123-09-012120",
+    "primary_document": "g19404e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02; accession=0000950123-09-012120"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-08-06",
+    "acceptance_datetime": "2009-08-05T23:14:21.000Z",
+    "report_date": "2009-08-05",
+    "accession": "0000950123-09-030494",
+    "primary_document": "g20046e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-09-030494"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,5.03,8.01,9.01",
+    "filing_date": "2009-08-18",
+    "acceptance_datetime": "2009-08-17T23:33:38.000Z",
+    "report_date": "2009-08-14",
+    "accession": "0000950123-09-035955",
+    "primary_document": "g20232e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,5.02,5.03,8.01,9.01; accession=0000950123-09-035955"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2009-09-10",
+    "acceptance_datetime": "2009-09-09T22:35:39.000Z",
+    "report_date": "2009-09-09",
+    "accession": "0000950123-09-042166",
+    "primary_document": "g20468e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0000950123-09-042166"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2009-10-15",
+    "acceptance_datetime": "2009-10-15T21:10:42.000Z",
+    "report_date": "2009-10-15",
+    "accession": "0000950123-09-050682",
+    "primary_document": "g20804e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950123-09-050682"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-11-05",
+    "acceptance_datetime": "2009-11-05T15:35:32.000Z",
+    "report_date": "2009-11-04",
+    "accession": "0000950123-09-058088",
+    "primary_document": "g21081e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-09-058088"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-12-15",
+    "acceptance_datetime": "2009-12-15T21:09:18.000Z",
+    "report_date": "2009-12-09",
+    "accession": "0000950123-09-070878",
+    "primary_document": "g21571e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02; accession=0000950123-09-070878"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2010-02-10",
+    "acceptance_datetime": "2010-02-10T15:35:08.000Z",
+    "report_date": "2010-02-09",
+    "accession": "0000950123-10-010782",
+    "primary_document": "g22058e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0000950123-10-010782"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2010-02-23",
+    "acceptance_datetime": "2010-02-23T20:26:17.000Z",
+    "report_date": "2010-02-18",
+    "accession": "0000950123-10-015701",
+    "primary_document": "g22216e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01; accession=0000950123-10-015701"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2010-04-01",
+    "acceptance_datetime": "2010-03-31T22:35:23.000Z",
+    "report_date": "2010-03-26",
+    "accession": "0000950123-10-031059",
+    "primary_document": "g22761e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0000950123-10-031059"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2010-04-21",
+    "acceptance_datetime": "2010-04-21T20:48:20.000Z",
+    "report_date": "2010-04-20",
+    "accession": "0000950123-10-036724",
+    "primary_document": "g23002e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950123-10-036724"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-05-06",
+    "acceptance_datetime": "2010-05-06T14:50:25.000Z",
+    "report_date": "2010-05-06",
+    "accession": "0000950123-10-045187",
+    "primary_document": "c00400e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-045187"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2010-05-14",
+    "acceptance_datetime": "2010-05-14T17:52:25.000Z",
+    "report_date": "2010-05-14",
+    "accession": "0000950123-10-049529",
+    "primary_document": "c01161e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.07; accession=0000950123-10-049529"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-08-05",
+    "acceptance_datetime": "2010-08-05T14:50:51.000Z",
+    "report_date": "2010-08-04",
+    "accession": "0000950123-10-073056",
+    "primary_document": "g24255e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-073056"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2010-08-16",
+    "acceptance_datetime": "2010-08-16T20:54:36.000Z",
+    "report_date": "2010-08-12",
+    "accession": "0000950123-10-078084",
+    "primary_document": "g24357e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950123-10-078084"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2010-09-29",
+    "acceptance_datetime": "2010-09-29T21:16:49.000Z",
+    "report_date": "2010-09-29",
+    "accession": "0000950123-10-090115",
+    "primary_document": "g24760e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7.01; accession=0000950123-10-090115"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-11-04",
+    "acceptance_datetime": "2010-11-04T14:44:50.000Z",
+    "report_date": "2010-11-03",
+    "accession": "0000950123-10-100619",
+    "primary_document": "g25122e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-10-100619"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-02-10",
+    "acceptance_datetime": "2011-02-10T14:56:45.000Z",
+    "report_date": "2011-02-09",
+    "accession": "0000950123-11-011454",
+    "primary_document": "g26055e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-011454"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2011-02-25",
+    "acceptance_datetime": "2011-02-25T20:45:07.000Z",
+    "report_date": "2011-02-23",
+    "accession": "0000950123-11-018661",
+    "primary_document": "g26288e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01; accession=0000950123-11-018661"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-03-21",
+    "acceptance_datetime": "2011-03-21T14:19:01.000Z",
+    "report_date": "2011-03-16",
+    "accession": "0000950123-11-027074",
+    "primary_document": "g26541e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02; accession=0000950123-11-027074"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-05-05",
+    "acceptance_datetime": "2011-05-05T15:01:16.000Z",
+    "report_date": "2011-05-04",
+    "accession": "0000950123-11-045306",
+    "primary_document": "g27119e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-045306"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2011-05-17",
+    "acceptance_datetime": "2011-05-17T20:41:15.000Z",
+    "report_date": "2011-05-11",
+    "accession": "0000950123-11-051326",
+    "primary_document": "g27277e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0000950123-11-051326"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2011-06-03",
+    "acceptance_datetime": "2011-06-03T18:44:49.000Z",
+    "report_date": "2011-06-01",
+    "accession": "0000950123-11-056400",
+    "primary_document": "g27420e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0000950123-11-056400"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-08-04",
+    "acceptance_datetime": "2011-08-04T14:23:56.000Z",
+    "report_date": "2011-08-03",
+    "accession": "0000950123-11-072660",
+    "primary_document": "g27824e8vk.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950123-11-072660"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-11-03",
+    "acceptance_datetime": "2011-11-03T14:07:36.000Z",
+    "report_date": "2011-11-02",
+    "accession": "0001193125-11-294258",
+    "primary_document": "d250326d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-11-294258"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-12-06",
+    "acceptance_datetime": "2011-12-06T21:49:59.000Z",
+    "report_date": "2011-12-05",
+    "accession": "0001193125-11-332177",
+    "primary_document": "d266505d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-11-332177"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2011-12-13",
+    "acceptance_datetime": "2011-12-13T22:09:54.000Z",
+    "report_date": "2011-12-13",
+    "accession": "0001193125-11-339654",
+    "primary_document": "d271100d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-11-339654"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-12-21",
+    "acceptance_datetime": "2011-12-21T18:33:34.000Z",
+    "report_date": "2011-12-19",
+    "accession": "0001193125-11-348544",
+    "primary_document": "d272795d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-11-348544"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.07",
+    "filing_date": "2012-01-06",
+    "acceptance_datetime": "2012-01-06T15:56:27.000Z",
+    "report_date": "2012-01-06",
+    "accession": "0001193125-12-004533",
+    "primary_document": "d278718d8ka.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.07; accession=0001193125-12-004533"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-01-06",
+    "acceptance_datetime": "2012-01-06T19:12:38.000Z",
+    "report_date": "2012-01-01",
+    "accession": "0001193125-12-004877",
+    "primary_document": "d276913d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-12-004877"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2012-01-10",
+    "acceptance_datetime": "2012-01-10T18:42:45.000Z",
+    "report_date": "2012-01-05",
+    "accession": "0001193125-12-007644",
+    "primary_document": "d280228d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001193125-12-007644"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-02-09",
+    "acceptance_datetime": "2012-02-09T14:24:55.000Z",
+    "report_date": "2012-02-08",
+    "accession": "0001193125-12-048104",
+    "primary_document": "d297808d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-048104"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2012-03-12",
+    "acceptance_datetime": "2012-03-12T21:18:54.000Z",
+    "report_date": "2012-03-12",
+    "accession": "0001193125-12-110061",
+    "primary_document": "d314389d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0001193125-12-110061"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2012-03-21",
+    "acceptance_datetime": "2012-03-21T18:37:54.000Z",
+    "report_date": "2012-03-16",
+    "accession": "0001193125-12-125275",
+    "primary_document": "d318887d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001193125-12-125275"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01,9.01",
+    "filing_date": "2012-05-11",
+    "acceptance_datetime": "2012-05-11T20:07:18.000Z",
+    "report_date": "2012-05-10",
+    "accession": "0001193125-12-228380",
+    "primary_document": "d351371d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.07,8.01,9.01; accession=0001193125-12-228380"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2012-07-24",
+    "acceptance_datetime": "2012-07-24T20:25:37.000Z",
+    "report_date": "2012-07-23",
+    "accession": "0001193125-12-312333",
+    "primary_document": "d384026d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0001193125-12-312333"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-08-09",
+    "acceptance_datetime": "2012-08-09T12:58:39.000Z",
+    "report_date": "2012-08-08",
+    "accession": "0001193125-12-345722",
+    "primary_document": "d393937d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-345722"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,8.01,9.01",
+    "filing_date": "2012-08-22",
+    "acceptance_datetime": "2012-08-22T15:30:51.000Z",
+    "report_date": "2012-08-17",
+    "accession": "0001193125-12-364767",
+    "primary_document": "d400913d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.03,8.01,9.01; accession=0001193125-12-364767"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2012-11-08",
+    "acceptance_datetime": "2012-11-08T14:36:59.000Z",
+    "report_date": "2012-11-06",
+    "accession": "0001193125-12-459246",
+    "primary_document": "d434633d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001193125-12-459246"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2012-11-16",
+    "acceptance_datetime": "2012-11-16T17:58:37.000Z",
+    "report_date": "2012-11-14",
+    "accession": "0001193125-12-473767",
+    "primary_document": "d440675d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0001193125-12-473767"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2012-12-12",
+    "acceptance_datetime": "2012-12-12T21:41:06.000Z",
+    "report_date": "2012-12-11",
+    "accession": "0001193125-12-500148",
+    "primary_document": "d452775d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02; accession=0001193125-12-500148"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-02-08",
+    "acceptance_datetime": "2013-02-08T14:01:40.000Z",
+    "report_date": "2013-02-07",
+    "accession": "0001193125-13-045001",
+    "primary_document": "d484579d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-045001"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-02-14",
+    "acceptance_datetime": "2013-02-14T13:56:38.000Z",
+    "report_date": "2013-02-13",
+    "accession": "0001193125-13-057726",
+    "primary_document": "d486742d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-057726"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2013-03-21",
+    "acceptance_datetime": "2013-03-21T13:03:35.000Z",
+    "report_date": "2013-03-21",
+    "accession": "0001193125-13-118422",
+    "primary_document": "d508260d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001193125-13-118422"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2013-03-25",
+    "acceptance_datetime": "2013-03-25T21:27:37.000Z",
+    "report_date": "2013-03-21",
+    "accession": "0001193125-13-124565",
+    "primary_document": "d508719d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001193125-13-124565"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2013-04-08",
+    "acceptance_datetime": "2013-04-08T19:23:54.000Z",
+    "report_date": "2013-04-03",
+    "accession": "0001193125-13-145814",
+    "primary_document": "d516910d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001193125-13-145814"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-04-09",
+    "acceptance_datetime": "2013-04-09T21:24:09.000Z",
+    "report_date": "2013-04-08",
+    "accession": "0001193125-13-147862",
+    "primary_document": "d519419d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-147862"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-04-19",
+    "acceptance_datetime": "2013-04-19T19:55:53.000Z",
+    "report_date": "2013-04-18",
+    "accession": "0001193125-13-162813",
+    "primary_document": "d523196d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-162813"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-04-22",
+    "acceptance_datetime": "2013-04-22T18:23:37.000Z",
+    "report_date": "2013-04-22",
+    "accession": "0001193125-13-164669",
+    "primary_document": "d526000d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-164669"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-05-09",
+    "acceptance_datetime": "2013-05-09T14:15:36.000Z",
+    "report_date": "2013-05-08",
+    "accession": "0001193125-13-209522",
+    "primary_document": "d535429d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-209522"
+  },
+  {
+    "form": "8-K",
+    "items": "3.03,5.02,5.03,5.07,7.01,8.01,9.01",
+    "filing_date": "2013-05-20",
+    "acceptance_datetime": "2013-05-20T21:21:31.000Z",
+    "report_date": "2013-05-15",
+    "accession": "0001193125-13-228077",
+    "primary_document": "d541213d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=3.03,5.02,5.03,5.07,7.01,8.01,9.01; accession=0001193125-13-228077"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2013-06-13",
+    "acceptance_datetime": "2013-06-13T21:30:26.000Z",
+    "report_date": "2013-06-12",
+    "accession": "0001193125-13-258080",
+    "primary_document": "d554203d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0001193125-13-258080"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2013-06-27",
+    "acceptance_datetime": "2013-06-27T13:54:56.000Z",
+    "report_date": "2013-06-26",
+    "accession": "0001193125-13-273965",
+    "primary_document": "d563234d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0001193125-13-273965"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2013-07-02",
+    "acceptance_datetime": "2013-07-02T16:21:23.000Z",
+    "report_date": "2013-06-28",
+    "accession": "0001193125-13-280632",
+    "primary_document": "d562930d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-13-280632"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-08-08",
+    "acceptance_datetime": "2013-08-08T14:27:24.000Z",
+    "report_date": "2013-08-07",
+    "accession": "0001193125-13-325908",
+    "primary_document": "d582008d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-325908"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2013-10-02",
+    "acceptance_datetime": "2013-10-02T11:01:06.000Z",
+    "report_date": "2013-10-02",
+    "accession": "0001193125-13-387939",
+    "primary_document": "d606662d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7.01; accession=0001193125-13-387939"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-11-07",
+    "acceptance_datetime": "2013-11-07T14:18:33.000Z",
+    "report_date": "2013-11-06",
+    "accession": "0001193125-13-431748",
+    "primary_document": "d624294d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-431748"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2013-11-07",
+    "acceptance_datetime": "2013-11-07T21:44:52.000Z",
+    "report_date": "2013-11-01",
+    "accession": "0001193125-13-433011",
+    "primary_document": "d624792d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0001193125-13-433011"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-02-13",
+    "acceptance_datetime": "2014-02-13T15:25:34.000Z",
+    "report_date": "2014-02-12",
+    "accession": "0001193125-14-049953",
+    "primary_document": "d675585d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-049953"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2014-04-15",
+    "acceptance_datetime": "2014-04-14T22:41:34.000Z",
+    "report_date": "2014-04-10",
+    "accession": "0001193125-14-142872",
+    "primary_document": "d710886d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-14-142872"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-05-08",
+    "acceptance_datetime": "2014-05-08T13:00:53.000Z",
+    "report_date": "2014-05-07",
+    "accession": "0001193125-14-188965",
+    "primary_document": "d725938d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-188965"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2014-05-16",
+    "acceptance_datetime": "2014-05-16T20:09:36.000Z",
+    "report_date": "2014-05-15",
+    "accession": "0001193125-14-202907",
+    "primary_document": "d730645d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.07; accession=0001193125-14-202907"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-08-12",
+    "acceptance_datetime": "2014-08-12T20:55:01.000Z",
+    "report_date": "2014-08-06",
+    "accession": "0001193125-14-306770",
+    "primary_document": "d773858d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-306770"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2014-08-15",
+    "acceptance_datetime": "2014-08-15T20:49:29.000Z",
+    "report_date": "2014-08-14",
+    "accession": "0001193125-14-311849",
+    "primary_document": "d776413d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-14-311849"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2014-09-26",
+    "acceptance_datetime": "2014-09-26T13:54:34.000Z",
+    "report_date": "2014-09-24",
+    "accession": "0001193125-14-354084",
+    "primary_document": "d796633d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-14-354084"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-11-04",
+    "acceptance_datetime": "2014-11-04T14:56:00.000Z",
+    "report_date": "2014-11-04",
+    "accession": "0001193125-14-395370",
+    "primary_document": "d815275d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-14-395370"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2015-01-05",
+    "acceptance_datetime": "2015-01-05T22:01:14.000Z",
+    "report_date": "2014-12-30",
+    "accession": "0001193125-15-001836",
+    "primary_document": "d844768d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-15-001836"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-02-12",
+    "acceptance_datetime": "2015-02-12T11:01:39.000Z",
+    "report_date": "2015-02-11",
+    "accession": "0001193125-15-044898",
+    "primary_document": "d870194d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-044898"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2015-02-25",
+    "acceptance_datetime": "2015-02-25T11:04:04.000Z",
+    "report_date": "2015-02-25",
+    "accession": "0001193125-15-060885",
+    "primary_document": "d880958d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-15-060885"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-05-07",
+    "acceptance_datetime": "2015-05-07T10:36:30.000Z",
+    "report_date": "2015-05-06",
+    "accession": "0001193125-15-175804",
+    "primary_document": "d922095d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-175804"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-05-15",
+    "acceptance_datetime": "2015-05-15T10:35:06.000Z",
+    "report_date": "2015-05-14",
+    "accession": "0001193125-15-188921",
+    "primary_document": "d926901d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.07; accession=0001193125-15-188921"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2015-07-24",
+    "acceptance_datetime": "2015-07-23T22:22:02.000Z",
+    "report_date": "2015-07-22",
+    "accession": "0001193125-15-261432",
+    "primary_document": "d78836d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001193125-15-261432"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-08-06",
+    "acceptance_datetime": "2015-08-06T10:08:08.000Z",
+    "report_date": "2015-08-05",
+    "accession": "0001193125-15-279759",
+    "primary_document": "d73851d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-279759"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2015-08-18",
+    "acceptance_datetime": "2015-08-18T20:34:04.000Z",
+    "report_date": "2015-08-14",
+    "accession": "0001193125-15-294646",
+    "primary_document": "d26200d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0001193125-15-294646"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-08-19",
+    "acceptance_datetime": "2015-08-19T21:30:35.000Z",
+    "report_date": "2015-08-18",
+    "accession": "0001193125-15-296377",
+    "primary_document": "d36995d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02; accession=0001193125-15-296377"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-09-02",
+    "acceptance_datetime": "2015-09-02T21:01:00.000Z",
+    "report_date": "2015-08-31",
+    "accession": "0001193125-15-310663",
+    "primary_document": "d27806d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02; accession=0001193125-15-310663"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2015-09-25",
+    "acceptance_datetime": "2015-09-25T14:34:39.000Z",
+    "report_date": "2015-09-21",
+    "accession": "0001193125-15-328313",
+    "primary_document": "d93789d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001193125-15-328313"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2015-10-07",
+    "acceptance_datetime": "2015-10-07T10:30:38.000Z",
+    "report_date": "2015-10-06",
+    "accession": "0001193125-15-338832",
+    "primary_document": "d52952d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-15-338832"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-11-05",
+    "acceptance_datetime": "2015-11-05T11:01:54.000Z",
+    "report_date": "2015-11-04",
+    "accession": "0001193125-15-366757",
+    "primary_document": "d26111d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-366757"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2016-01-11",
+    "acceptance_datetime": "2016-01-11T22:01:35.000Z",
+    "report_date": "2016-01-08",
+    "accession": "0001193125-16-426638",
+    "primary_document": "d110816d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.03,9.01; accession=0001193125-16-426638"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-11",
+    "acceptance_datetime": "2016-02-11T11:16:01.000Z",
+    "report_date": "2016-02-10",
+    "accession": "0001193125-16-458479",
+    "primary_document": "d135963d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-458479"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-02-22",
+    "acceptance_datetime": "2016-02-22T21:15:31.000Z",
+    "report_date": "2016-02-22",
+    "accession": "0001193125-16-471649",
+    "primary_document": "d256149d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-471649"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-02-29",
+    "acceptance_datetime": "2016-02-27T02:34:01.000Z",
+    "report_date": "2016-02-26",
+    "accession": "0001193125-16-483075",
+    "primary_document": "d149988d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-483075"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2016-02-29",
+    "acceptance_datetime": "2016-02-29T12:31:05.000Z",
+    "report_date": "2016-02-26",
+    "accession": "0001193125-16-483566",
+    "primary_document": "d151033d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-16-483566"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-05-04",
+    "acceptance_datetime": "2016-05-04T21:24:38.000Z",
+    "report_date": "2016-05-04",
+    "accession": "0001193125-16-577963",
+    "primary_document": "d118093d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-577963"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2016-05-12",
+    "acceptance_datetime": "2016-05-12T21:20:09.000Z",
+    "report_date": "2016-05-12",
+    "accession": "0001193125-16-589081",
+    "primary_document": "d192635d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.07; accession=0001193125-16-589081"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2016-06-15",
+    "acceptance_datetime": "2016-06-15T10:01:55.000Z",
+    "report_date": "2016-06-13",
+    "accession": "0001193125-16-621639",
+    "primary_document": "d214043d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-16-621639"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-08-04",
+    "acceptance_datetime": "2016-08-04T10:01:57.000Z",
+    "report_date": "2016-08-03",
+    "accession": "0001193125-16-670614",
+    "primary_document": "d234442d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-670614"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-08-05",
+    "acceptance_datetime": "2016-08-05T10:01:55.000Z",
+    "report_date": "2016-08-05",
+    "accession": "0001193125-16-672336",
+    "primary_document": "d231822d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-672336"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2016-08-16",
+    "acceptance_datetime": "2016-08-16T20:02:02.000Z",
+    "report_date": "2016-08-11",
+    "accession": "0001193125-16-683109",
+    "primary_document": "d238709d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-16-683109"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2016-08-19",
+    "acceptance_datetime": "2016-08-19T10:18:32.000Z",
+    "report_date": "2016-08-19",
+    "accession": "0001193125-16-685615",
+    "primary_document": "d424749d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-16-685615"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2016-08-29",
+    "acceptance_datetime": "2016-08-29T20:04:02.000Z",
+    "report_date": "2016-08-29",
+    "accession": "0001193125-16-695516",
+    "primary_document": "d249531d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-16-695516"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05,5.02,7.01,9.01",
+    "filing_date": "2016-09-27",
+    "acceptance_datetime": "2016-09-27T20:30:02.000Z",
+    "report_date": "2016-09-27",
+    "accession": "0001193125-16-721624",
+    "primary_document": "d446846d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.05,5.02,7.01,9.01; accession=0001193125-16-721624"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2016-10-18",
+    "acceptance_datetime": "2016-10-18T13:06:32.000Z",
+    "report_date": "2016-10-17",
+    "accession": "0001193125-16-740263",
+    "primary_document": "d272639d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-16-740263"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2016-11-02",
+    "acceptance_datetime": "2016-11-02T20:42:55.000Z",
+    "report_date": "2016-10-28",
+    "accession": "0001193125-16-757160",
+    "primary_document": "d270720d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-16-757160"
+  },
+  {
+    "form": "8-K",
+    "items": "3.03,5.03,9.01",
+    "filing_date": "2016-11-10",
+    "acceptance_datetime": "2016-11-10T11:02:32.000Z",
+    "report_date": "2016-11-09",
+    "accession": "0001193125-16-764788",
+    "primary_document": "d256269d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=3.03,5.03,9.01; accession=0001193125-16-764788"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-02-09",
+    "acceptance_datetime": "2017-02-09T22:09:55.000Z",
+    "report_date": "2017-02-08",
+    "accession": "0001193125-17-036299",
+    "primary_document": "d339172d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-036299"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-02-24",
+    "acceptance_datetime": "2017-02-24T11:01:56.000Z",
+    "report_date": "2017-02-24",
+    "accession": "0001193125-17-054571",
+    "primary_document": "d348369d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-17-054571"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-05-04",
+    "acceptance_datetime": "2017-05-04T11:01:03.000Z",
+    "report_date": "2017-05-03",
+    "accession": "0001193125-17-157242",
+    "primary_document": "d388848d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-157242"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2017-05-12",
+    "acceptance_datetime": "2017-05-12T20:02:05.000Z",
+    "report_date": "2017-05-11",
+    "accession": "0001193125-17-168577",
+    "primary_document": "d395199d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001193125-17-168577"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-08-08",
+    "acceptance_datetime": "2017-08-08T21:00:57.000Z",
+    "report_date": "2017-08-07",
+    "accession": "0001193125-17-251473",
+    "primary_document": "d432519d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-251473"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2017-10-13",
+    "acceptance_datetime": "2017-10-13T20:30:33.000Z",
+    "report_date": "2017-10-11",
+    "accession": "0001193125-17-309897",
+    "primary_document": "d449092d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001193125-17-309897"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2017-10-30",
+    "acceptance_datetime": "2017-10-30T20:15:57.000Z",
+    "report_date": "2017-10-30",
+    "accession": "0001193125-17-324928",
+    "primary_document": "d487418d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-17-324928"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-11-09",
+    "acceptance_datetime": "2017-11-09T13:29:32.000Z",
+    "report_date": "2017-11-08",
+    "accession": "0001193125-17-338107",
+    "primary_document": "d462244d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-17-338107"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,9.01",
+    "filing_date": "2017-12-07",
+    "acceptance_datetime": "2017-12-07T21:30:33.000Z",
+    "report_date": "2017-12-07",
+    "accession": "0001193125-17-363930",
+    "primary_document": "d493810d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,5.03,9.01; accession=0001193125-17-363930"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-15",
+    "acceptance_datetime": "2018-02-15T13:01:03.000Z",
+    "report_date": "2018-02-14",
+    "accession": "0001193125-18-046527",
+    "primary_document": "d540715d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-046527"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,7.01,9.01",
+    "filing_date": "2018-04-18",
+    "acceptance_datetime": "2018-04-18T16:23:04.000Z",
+    "report_date": "2018-04-17",
+    "accession": "0001193125-18-120636",
+    "primary_document": "d568607d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,7.01,9.01; accession=0001193125-18-120636"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-05-03",
+    "acceptance_datetime": "2018-05-03T12:00:55.000Z",
+    "report_date": "2018-05-02",
+    "accession": "0001193125-18-149588",
+    "primary_document": "d553207d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-149588"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-05-11",
+    "acceptance_datetime": "2018-05-11T13:25:02.000Z",
+    "report_date": "2018-05-10",
+    "accession": "0001193125-18-160242",
+    "primary_document": "d581755d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.07; accession=0001193125-18-160242"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-08-10",
+    "acceptance_datetime": "2018-08-10T12:00:57.000Z",
+    "report_date": "2018-08-08",
+    "accession": "0001193125-18-245121",
+    "primary_document": "d604206d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-245121"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2018-08-28",
+    "acceptance_datetime": "2018-08-28T21:18:59.000Z",
+    "report_date": "2018-08-28",
+    "accession": "0001193125-18-260760",
+    "primary_document": "d614540d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,9.01; accession=0001193125-18-260760"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2018-11-05",
+    "acceptance_datetime": "2018-11-05T16:28:05.000Z",
+    "report_date": "2018-11-02",
+    "accession": "0001193125-18-318035",
+    "primary_document": "d649782d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-18-318035"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-11-06",
+    "acceptance_datetime": "2018-11-06T17:03:35.000Z",
+    "report_date": "2018-11-05",
+    "accession": "0001193125-18-319236",
+    "primary_document": "d650983d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-18-319236"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-20",
+    "acceptance_datetime": "2019-02-20T13:01:33.000Z",
+    "report_date": "2019-02-19",
+    "accession": "0001193125-19-044752",
+    "primary_document": "d710651d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-044752"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-09",
+    "acceptance_datetime": "2019-05-09T13:00:55.000Z",
+    "report_date": "2019-05-08",
+    "accession": "0001193125-19-142361",
+    "primary_document": "d744704d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-142361"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01",
+    "filing_date": "2019-05-17",
+    "acceptance_datetime": "2019-05-17T12:00:32.000Z",
+    "report_date": "2019-05-16",
+    "accession": "0001193125-19-149941",
+    "primary_document": "d747944d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.07,8.01; accession=0001193125-19-149941"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-08-06",
+    "acceptance_datetime": "2019-08-06T12:34:55.000Z",
+    "report_date": "2019-08-05",
+    "accession": "0001193125-19-213606",
+    "primary_document": "d787606d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-213606"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2019-08-08",
+    "acceptance_datetime": "2019-08-08T20:02:05.000Z",
+    "report_date": "2019-08-02",
+    "accession": "0001193125-19-216798",
+    "primary_document": "d788846d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02; accession=0001193125-19-216798"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-11-07",
+    "acceptance_datetime": "2019-11-07T17:05:04.000Z",
+    "report_date": "2019-11-06",
+    "accession": "0001193125-19-286973",
+    "primary_document": "d826160d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-286973"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-11-08",
+    "acceptance_datetime": "2019-11-08T21:18:10.000Z",
+    "report_date": "2019-11-07",
+    "accession": "0001193125-19-288391",
+    "primary_document": "d798737d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-288391"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,7.01,9.01",
+    "filing_date": "2019-12-20",
+    "acceptance_datetime": "2019-12-20T21:02:04.000Z",
+    "report_date": "2019-12-18",
+    "accession": "0001193125-19-320875",
+    "primary_document": "d847260d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,7.01,9.01; accession=0001193125-19-320875"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2019-12-27",
+    "acceptance_datetime": "2019-12-27T21:02:02.000Z",
+    "report_date": "2019-12-27",
+    "accession": "0001193125-19-324904",
+    "primary_document": "d858090d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7.01; accession=0001193125-19-324904"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-02-13",
+    "acceptance_datetime": "2020-02-13T13:01:49.000Z",
+    "report_date": "2020-02-12",
+    "accession": "0001193125-20-034302",
+    "primary_document": "d878305d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-034302"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-04-01",
+    "acceptance_datetime": "2020-04-01T21:19:40.000Z",
+    "report_date": "2020-04-01",
+    "accession": "0001193125-20-094784",
+    "primary_document": "d912131d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-094784"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-05-07",
+    "acceptance_datetime": "2020-05-07T12:00:40.000Z",
+    "report_date": "2020-05-06",
+    "accession": "0001193125-20-135642",
+    "primary_document": "d924608d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-135642"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,8.01,9.01",
+    "filing_date": "2020-05-18",
+    "acceptance_datetime": "2020-05-18T20:23:10.000Z",
+    "report_date": "2020-05-14",
+    "accession": "0001193125-20-145050",
+    "primary_document": "d930806d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,5.07,8.01,9.01; accession=0001193125-20-145050"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,8.01,9.01",
+    "filing_date": "2020-06-17",
+    "acceptance_datetime": "2020-06-17T12:15:40.000Z",
+    "report_date": "2020-06-17",
+    "accession": "0001193125-20-170906",
+    "primary_document": "d934801d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,7.01,8.01,9.01; accession=0001193125-20-170906"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,2.03,8.01,9.01",
+    "filing_date": "2020-08-05",
+    "acceptance_datetime": "2020-08-05T21:04:02.000Z",
+    "report_date": "2020-08-05",
+    "accession": "0001193125-20-210766",
+    "primary_document": "d64606d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.02,2.03,8.01,9.01; accession=0001193125-20-210766"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-11-05",
+    "acceptance_datetime": "2020-11-05T13:01:01.000Z",
+    "report_date": "2020-11-04",
+    "accession": "0001193125-20-286268",
+    "primary_document": "d98908d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-286268"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-12-18",
+    "acceptance_datetime": "2020-12-18T21:16:54.000Z",
+    "report_date": "2020-12-16",
+    "accession": "0001193125-20-321502",
+    "primary_document": "d89521d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02; accession=0001193125-20-321502"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-11",
+    "acceptance_datetime": "2021-02-11T13:37:04.000Z",
+    "report_date": "2021-02-10",
+    "accession": "0001193125-21-037495",
+    "primary_document": "d113583d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-21-037495"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2021-02-19",
+    "acceptance_datetime": "2021-02-19T13:01:31.000Z",
+    "report_date": "2021-02-18",
+    "accession": "0001193125-21-048392",
+    "primary_document": "d139919d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-21-048392"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-02-19",
+    "acceptance_datetime": "2021-02-19T22:18:59.000Z",
+    "report_date": "2021-02-19",
+    "accession": "0001193125-21-049113",
+    "primary_document": "d130732d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0001193125-21-049113"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-04-06",
+    "acceptance_datetime": "2021-04-06T20:43:54.000Z",
+    "report_date": "2021-04-06",
+    "accession": "0001140361-21-011829",
+    "primary_document": "nt10022754x4_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-21-011829"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-04-07",
+    "acceptance_datetime": "2021-04-07T11:04:37.000Z",
+    "report_date": "2021-04-07",
+    "accession": "0001140361-21-011873",
+    "primary_document": "nt10022754x3_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0001140361-21-011873"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2021-04-09",
+    "acceptance_datetime": "2021-04-09T10:46:04.000Z",
+    "report_date": "2021-04-07",
+    "accession": "0001140361-21-012220",
+    "primary_document": "nt10022754x7_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001140361-21-012220"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2021-04-14",
+    "acceptance_datetime": "2021-04-14T21:14:41.000Z",
+    "report_date": "2021-04-14",
+    "accession": "0001140361-21-012814",
+    "primary_document": "nt10022754x8_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001140361-21-012814"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-04-16",
+    "acceptance_datetime": "2021-04-16T20:01:57.000Z",
+    "report_date": "2021-04-16",
+    "accession": "0001193125-21-119306",
+    "primary_document": "d121391d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-21-119306"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-05-06",
+    "acceptance_datetime": "2021-05-06T12:00:55.000Z",
+    "report_date": "2021-05-05",
+    "accession": "0001193125-21-152568",
+    "primary_document": "d342514d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-21-152568"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01",
+    "filing_date": "2021-05-18",
+    "acceptance_datetime": "2021-05-18T20:05:58.000Z",
+    "report_date": "2021-05-13",
+    "accession": "0001193125-21-165313",
+    "primary_document": "d184269d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.07,8.01; accession=0001193125-21-165313"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,7.01,9.01",
+    "filing_date": "2021-07-01",
+    "acceptance_datetime": "2021-07-01T11:55:53.000Z",
+    "report_date": "2021-05-28",
+    "accession": "0001564590-21-035426",
+    "primary_document": "cxw-8k_20210528.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.01,7.01,9.01; accession=0001564590-21-035426"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-08-10",
+    "acceptance_datetime": "2021-08-10T12:01:05.000Z",
+    "report_date": "2021-08-09",
+    "accession": "0001193125-21-241220",
+    "primary_document": "d193743d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-21-241220"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2021-08-25",
+    "acceptance_datetime": "2021-08-25T20:02:02.000Z",
+    "report_date": "2021-08-25",
+    "accession": "0001193125-21-256208",
+    "primary_document": "d552406d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.02; accession=0001193125-21-256208"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-09-17",
+    "acceptance_datetime": "2021-09-17T12:05:33.000Z",
+    "report_date": "2021-09-17",
+    "accession": "0001193125-21-275646",
+    "primary_document": "d221372d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-21-275646"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2021-09-23",
+    "acceptance_datetime": "2021-09-23T21:09:46.000Z",
+    "report_date": "2021-09-22",
+    "accession": "0001140361-21-032271",
+    "primary_document": "ny20000755x4_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001140361-21-032271"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2021-09-29",
+    "acceptance_datetime": "2021-09-29T20:51:35.000Z",
+    "report_date": "2021-09-29",
+    "accession": "0001140361-21-032946",
+    "primary_document": "brhc10029352_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001140361-21-032946"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-09",
+    "acceptance_datetime": "2021-11-09T13:01:02.000Z",
+    "report_date": "2021-11-08",
+    "accession": "0001193125-21-323824",
+    "primary_document": "d233878d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-21-323824"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-02-10",
+    "acceptance_datetime": "2022-02-10T13:01:05.000Z",
+    "report_date": "2022-02-09",
+    "accession": "0001193125-22-033625",
+    "primary_document": "d310541d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-22-033625"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2022-02-18",
+    "acceptance_datetime": "2022-02-18T11:10:57.000Z",
+    "report_date": "2022-02-17",
+    "accession": "0001193125-22-045888",
+    "primary_document": "d319001d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02; accession=0001193125-22-045888"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-05-05",
+    "acceptance_datetime": "2022-05-05T12:01:09.000Z",
+    "report_date": "2022-05-04",
+    "accession": "0001193125-22-141373",
+    "primary_document": "d327981d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-22-141373"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2022-05-13",
+    "acceptance_datetime": "2022-05-13T10:33:00.000Z",
+    "report_date": "2022-05-13",
+    "accession": "0001140361-22-018956",
+    "primary_document": "brhc10037600_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001140361-22-018956"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2022-05-16",
+    "acceptance_datetime": "2022-05-16T10:15:20.000Z",
+    "report_date": "2022-05-12",
+    "accession": "0001140361-22-019234",
+    "primary_document": "brhc10037662_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0001140361-22-019234"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2022-05-16",
+    "acceptance_datetime": "2022-05-16T10:31:08.000Z",
+    "report_date": "2022-05-12",
+    "accession": "0001140361-22-019238",
+    "primary_document": "brhc10037661_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001140361-22-019238"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2022-05-20",
+    "acceptance_datetime": "2022-05-20T11:00:54.000Z",
+    "report_date": "2022-05-19",
+    "accession": "0001193125-22-155516",
+    "primary_document": "d316770d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0001193125-22-155516"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2022-06-24",
+    "acceptance_datetime": "2022-06-24T11:00:03.000Z",
+    "report_date": "2022-06-24",
+    "accession": "0001193125-22-180708",
+    "primary_document": "d368814d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01; accession=0001193125-22-180708"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2022-08-03",
+    "acceptance_datetime": "2022-08-03T12:02:04.000Z",
+    "report_date": "2022-08-02",
+    "accession": "0001193125-22-210626",
+    "primary_document": "d371718d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001193125-22-210626"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-09-30",
+    "acceptance_datetime": "2022-09-30T20:01:57.000Z",
+    "report_date": "2022-09-30",
+    "accession": "0001193125-22-255472",
+    "primary_document": "d401647d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-255472"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-11-03",
+    "acceptance_datetime": "2022-11-03T11:00:48.000Z",
+    "report_date": "2022-11-02",
+    "accession": "0001193125-22-276354",
+    "primary_document": "d351770d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-22-276354"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-12-16",
+    "acceptance_datetime": "2022-12-16T21:02:05.000Z",
+    "report_date": "2022-12-13",
+    "accession": "0001193125-22-307295",
+    "primary_document": "d435029d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-307295"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-12-22",
+    "acceptance_datetime": "2022-12-22T12:06:03.000Z",
+    "report_date": "2022-12-22",
+    "accession": "0001193125-22-310530",
+    "primary_document": "d442849d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-310530"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-02-09",
+    "acceptance_datetime": "2023-02-09T12:00:32.000Z",
+    "report_date": "2023-02-08",
+    "accession": "0001193125-23-029166",
+    "primary_document": "d392562d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-23-029166"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-04",
+    "acceptance_datetime": "2023-05-04T12:02:00.000Z",
+    "report_date": "2023-05-03",
+    "accession": "0001193125-23-135094",
+    "primary_document": "d269568d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-23-135094"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2023-05-15",
+    "acceptance_datetime": "2023-05-15T20:01:32.000Z",
+    "report_date": "2023-05-11",
+    "accession": "0001193125-23-144941",
+    "primary_document": "d503417d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.07,9.01; accession=0001193125-23-144941"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-08-08",
+    "acceptance_datetime": "2023-08-08T11:00:31.000Z",
+    "report_date": "2023-08-07",
+    "accession": "0001193125-23-205550",
+    "primary_document": "d666905d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-23-205550"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2023-10-12",
+    "acceptance_datetime": "2023-10-12T12:22:52.000Z",
+    "report_date": "2023-10-11",
+    "accession": "0001140361-23-047965",
+    "primary_document": "ef20012359_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001140361-23-047965"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-11-07",
+    "acceptance_datetime": "2023-11-07T11:15:59.000Z",
+    "report_date": "2023-11-06",
+    "accession": "0001193125-23-271869",
+    "primary_document": "d579969d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-23-271869"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,9.01",
+    "filing_date": "2023-12-15",
+    "acceptance_datetime": "2023-12-15T22:27:59.000Z",
+    "report_date": "2023-12-14",
+    "accession": "0001140361-23-057950",
+    "primary_document": "ef20016779_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,5.03,9.01; accession=0001140361-23-057950"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-08",
+    "acceptance_datetime": "2024-02-08T17:55:00.000Z",
+    "report_date": "2024-02-07",
+    "accession": "0001193125-24-028017",
+    "primary_document": "d780058d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-24-028017"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-09",
+    "acceptance_datetime": "2024-02-09T21:49:00.000Z",
+    "report_date": "2024-02-08",
+    "accession": "0001193125-24-030175",
+    "primary_document": "d771969d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-24-030175"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-03-05",
+    "acceptance_datetime": "2024-03-04T22:39:11.000Z",
+    "report_date": "2024-03-04",
+    "accession": "0001140361-24-011138",
+    "primary_document": "ny20022920x3_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-24-011138"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2024-03-07",
+    "acceptance_datetime": "2024-03-07T11:57:00.000Z",
+    "report_date": "2024-03-05",
+    "accession": "0001140361-24-011861",
+    "primary_document": "ny20022920x5_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001140361-24-011861"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2024-03-08",
+    "acceptance_datetime": "2024-03-08T14:21:59.000Z",
+    "report_date": "2024-03-07",
+    "accession": "0001193125-24-063015",
+    "primary_document": "d779637d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-24-063015"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,8.01,9.01",
+    "filing_date": "2024-03-12",
+    "acceptance_datetime": "2024-03-12T21:29:59.000Z",
+    "report_date": "2024-03-12",
+    "accession": "0001140361-24-012872",
+    "primary_document": "ny20022920x7_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,8.01,9.01; accession=0001140361-24-012872"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-03-15",
+    "acceptance_datetime": "2024-03-15T20:55:15.000Z",
+    "report_date": "2024-03-15",
+    "accession": "0001140361-24-013534",
+    "primary_document": "ny20022920x8_8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-24-013534"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-05-09",
+    "acceptance_datetime": "2024-05-09T13:14:55.000Z",
+    "report_date": "2024-05-08",
+    "accession": "0001193125-24-134855",
+    "primary_document": "d810606d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-24-134855"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,8.01,9.01",
+    "filing_date": "2024-05-20",
+    "acceptance_datetime": "2024-05-17T21:31:31.000Z",
+    "report_date": "2024-05-16",
+    "accession": "0001193125-24-141893",
+    "primary_document": "d841580d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.07,8.01,9.01; accession=0001193125-24-141893"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-06-12",
+    "acceptance_datetime": "2024-06-12T20:30:53.000Z",
+    "report_date": "2024-06-10",
+    "accession": "0001193125-24-159981",
+    "primary_document": "d815544d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-159981"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-08-07",
+    "acceptance_datetime": "2024-08-07T20:02:01.000Z",
+    "report_date": "2024-08-07",
+    "accession": "0001193125-24-195876",
+    "primary_document": "d819493d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-24-195876"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-11-06",
+    "acceptance_datetime": "2024-11-06T21:00:52.000Z",
+    "report_date": "2024-11-06",
+    "accession": "0001193125-24-252027",
+    "primary_document": "d860915d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-24-252027"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2024-12-16",
+    "acceptance_datetime": "2024-12-16T12:15:58.000Z",
+    "report_date": "2024-12-12",
+    "accession": "0001193125-24-279019",
+    "primary_document": "d833554d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001193125-24-279019"
+  },
+  {
+    "form": "8-K/A",
+    "items": "5.02,9.01",
+    "filing_date": "2024-12-20",
+    "acceptance_datetime": "2024-12-20T21:08:52.000Z",
+    "report_date": "2024-12-12",
+    "accession": "0001193125-24-283113",
+    "primary_document": "d849787d8ka.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-24-283113"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-02-11",
+    "acceptance_datetime": "2025-02-10T22:41:32.000Z",
+    "report_date": "2025-02-10",
+    "accession": "0001193125-25-023677",
+    "primary_document": "d518529d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-25-023677"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-02-28",
+    "acceptance_datetime": "2025-02-28T21:05:32.000Z",
+    "report_date": "2025-02-28",
+    "accession": "0001193125-25-042470",
+    "primary_document": "d909775d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02; accession=0001193125-25-042470"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2025-03-07",
+    "acceptance_datetime": "2025-03-07T22:21:41.000Z",
+    "report_date": "2025-03-05",
+    "accession": "0001193125-25-049990",
+    "primary_document": "d891854d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001193125-25-049990"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-05-07",
+    "acceptance_datetime": "2025-05-07T20:07:01.000Z",
+    "report_date": "2025-05-07",
+    "accession": "0001193125-25-114893",
+    "primary_document": "d932206d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-25-114893"
+  },
+  {
+    "form": "8-K",
+    "items": "5.05,5.07,8.01,9.01",
+    "filing_date": "2025-05-19",
+    "acceptance_datetime": "2025-05-19T20:15:39.000Z",
+    "report_date": "2025-05-15",
+    "accession": "0001193125-25-122460",
+    "primary_document": "d915910d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.05,5.07,8.01,9.01; accession=0001193125-25-122460"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2025-07-18",
+    "acceptance_datetime": "2025-07-18T20:05:29.000Z",
+    "report_date": "2025-07-17",
+    "accession": "0001193125-25-161202",
+    "primary_document": "d29579d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-25-161202"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-08-06",
+    "acceptance_datetime": "2025-08-06T20:05:49.000Z",
+    "report_date": "2025-08-06",
+    "accession": "0001193125-25-174449",
+    "primary_document": "d929381d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-25-174449"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2025-08-18",
+    "acceptance_datetime": "2025-08-18T20:06:58.000Z",
+    "report_date": "2025-08-14",
+    "accession": "0001193125-25-182677",
+    "primary_document": "d63509d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-25-182677"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-11-05",
+    "acceptance_datetime": "2025-11-05T21:13:47.000Z",
+    "report_date": "2025-11-05",
+    "accession": "0001193125-25-266966",
+    "primary_document": "d70428d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-25-266966"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2025-11-10",
+    "acceptance_datetime": "2025-11-10T11:02:07.000Z",
+    "report_date": "2025-11-07",
+    "accession": "0001193125-25-273104",
+    "primary_document": "d94135d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001193125-25-273104"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,7.01,9.01",
+    "filing_date": "2025-12-02",
+    "acceptance_datetime": "2025-12-02T12:01:38.000Z",
+    "report_date": "2025-12-01",
+    "accession": "0001193125-25-304483",
+    "primary_document": "d145718d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,7.01,9.01; accession=0001193125-25-304483"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2025-12-12",
+    "acceptance_datetime": "2025-12-12T13:00:15.000Z",
+    "report_date": "2025-12-11",
+    "accession": "0001193125-25-316848",
+    "primary_document": "d75869d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-25-316848"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-02-11",
+    "acceptance_datetime": "2026-02-11T21:05:28.000Z",
+    "report_date": "2026-02-11",
+    "accession": "0001193125-26-046527",
+    "primary_document": "d41544d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-26-046527"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2026-04-10",
+    "acceptance_datetime": "2026-04-10T20:05:31.000Z",
+    "report_date": "2026-04-10",
+    "accession": "0001193125-26-151239",
+    "primary_document": "d77602d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-26-151239"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-05-06",
+    "acceptance_datetime": "2026-05-06T20:05:28.000Z",
+    "report_date": "2026-05-06",
+    "accession": "0001193125-26-208929",
+    "primary_document": "d302982d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-26-208929"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2026-05-18",
+    "acceptance_datetime": "2026-05-18T10:01:34.000Z",
+    "report_date": "2026-05-14",
+    "accession": "0001193125-26-227820",
+    "primary_document": "d125480d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.07,9.01; accession=0001193125-26-227820"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,7.01,9.01",
+    "filing_date": "2026-07-06",
+    "acceptance_datetime": "2026-07-06T12:00:30.000Z",
+    "report_date": "2026-07-02",
+    "accession": "0001193125-26-295590",
+    "primary_document": "d110529d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.01,7.01,9.01; accession=0001193125-26-295590"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2026-07-13",
+    "acceptance_datetime": "2026-07-13T11:00:07.000Z",
+    "report_date": "2026-07-13",
+    "accession": "0001193125-26-301454",
+    "primary_document": "d98053d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-26-301454"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2026-08-05",
+    "acceptance_datetime": "2026-08-05T20:04:36.000Z",
+    "report_date": "2026-08-05",
+    "accession": "0001193125-26-335025",
+    "primary_document": "d173726d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001193125-26-335025"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,7.01,9.01",
+    "filing_date": "2026-08-05",
+    "acceptance_datetime": "2026-08-05T20:07:03.000Z",
+    "report_date": "2026-08-04",
+    "accession": "0001193125-26-335068",
+    "primary_document": "d174637d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=1.01,2.01,7.01,9.01; accession=0001193125-26-335068"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-08-10",
+    "acceptance_datetime": "2026-08-10T12:15:06.000Z",
+    "report_date": "2026-08-07",
+    "accession": "0001193125-26-341335",
+    "primary_document": "d118761d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001193125-26-341335"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2026-09-25",
+    "acceptance_datetime": "2026-09-25T20:05:15.000Z",
+    "report_date": "2026-09-24",
+    "accession": "0001193125-26-402817",
+    "primary_document": "d255504d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-26-402817"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2026-11-04",
+    "acceptance_datetime": "2026-11-04T21:05:38.000Z",
+    "report_date": "2026-11-04",
+    "accession": "0001193125-26-447206",
+    "primary_document": "d165428d8k.htm",
+    "cik": "0001070985",
+    "issuer_name": "CoreCivic, Inc.",
+    "tickers": [
+      "CXW"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001070985.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001193125-26-447206"
+  }
+]

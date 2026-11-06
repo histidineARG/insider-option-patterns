@@ -1,0 +1,930 @@
+[
+  {
+    "form": "8-K",
+    "items": "3.02,8.01",
+    "filing_date": "2020-07-30",
+    "acceptance_datetime": "2020-07-30T23:02:54.000Z",
+    "report_date": "2020-07-27",
+    "accession": "0001193125-20-204300",
+    "primary_document": "d99125d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=3.02,8.01; accession=0001193125-20-204300"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2020-08-31",
+    "acceptance_datetime": "2020-08-31T20:11:29.000Z",
+    "report_date": "2020-08-31",
+    "accession": "0001193125-20-236235",
+    "primary_document": "d19140d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-20-236235"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-10-07",
+    "acceptance_datetime": "2020-10-07T20:22:29.000Z",
+    "report_date": "2020-10-06",
+    "accession": "0001193125-20-265580",
+    "primary_document": "d42408d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-20-265580"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2020-11-12",
+    "acceptance_datetime": "2020-11-12T21:21:52.000Z",
+    "report_date": "2020-11-12",
+    "accession": "0001193125-20-291704",
+    "primary_document": "d96140d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-20-291704"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-01-11",
+    "acceptance_datetime": "2021-01-11T12:00:53.000Z",
+    "report_date": "2021-01-11",
+    "accession": "0001193125-21-005752",
+    "primary_document": "d752765d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=8.01; accession=0001193125-21-005752"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-03-08",
+    "acceptance_datetime": "2021-03-08T22:16:07.000Z",
+    "report_date": "2021-03-08",
+    "accession": "0001193125-21-073412",
+    "primary_document": "d124391d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=8.01; accession=0001193125-21-073412"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2021-03-24",
+    "acceptance_datetime": "2021-03-24T20:15:01.000Z",
+    "report_date": "2021-03-24",
+    "accession": "0001193125-21-092627",
+    "primary_document": "d55401d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-21-092627"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2021-04-01",
+    "acceptance_datetime": "2021-04-01T10:11:52.000Z",
+    "report_date": "2021-04-01",
+    "accession": "0001193125-21-103088",
+    "primary_document": "d111318d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=3.02; accession=0001193125-21-103088"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,9.01",
+    "filing_date": "2021-04-29",
+    "acceptance_datetime": "2021-04-29T20:01:54.000Z",
+    "report_date": "2021-04-27",
+    "accession": "0001193125-21-140340",
+    "primary_document": "d75856d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=1.01,1.02,2.03,9.01; accession=0001193125-21-140340"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2021-05-12",
+    "acceptance_datetime": "2021-05-12T20:10:30.000Z",
+    "report_date": "2021-05-12",
+    "accession": "0001193125-21-159044",
+    "primary_document": "d496607d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-21-159044"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2021-05-17",
+    "acceptance_datetime": "2021-05-17T20:05:47.000Z",
+    "report_date": "2021-05-13",
+    "accession": "0001193125-21-163646",
+    "primary_document": "d162214d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.07; accession=0001193125-21-163646"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2021-08-10",
+    "acceptance_datetime": "2021-08-10T20:21:36.000Z",
+    "report_date": "2021-08-10",
+    "accession": "0001193125-21-241841",
+    "primary_document": "d216139d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-21-241841"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-09-30",
+    "acceptance_datetime": "2021-09-30T20:20:06.000Z",
+    "report_date": "2021-09-28",
+    "accession": "0001193125-21-288010",
+    "primary_document": "d400322d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-21-288010"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-10-25",
+    "acceptance_datetime": "2021-10-25T20:37:36.000Z",
+    "report_date": "2021-10-19",
+    "accession": "0001193125-21-306671",
+    "primary_document": "d245985d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.02; accession=0001193125-21-306671"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2021-11-09",
+    "acceptance_datetime": "2021-11-09T21:36:33.000Z",
+    "report_date": "2021-11-09",
+    "accession": "0001193125-21-324548",
+    "primary_document": "d607882d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-21-324548"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2021-12-21",
+    "acceptance_datetime": "2021-12-21T21:06:01.000Z",
+    "report_date": "2021-12-16",
+    "accession": "0001193125-21-363595",
+    "primary_document": "d267442d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-21-363595"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2022-02-28",
+    "acceptance_datetime": "2022-02-28T21:30:32.000Z",
+    "report_date": "2022-02-28",
+    "accession": "0001564590-22-007638",
+    "primary_document": "meg-8k_20220228.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001564590-22-007638"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2022-03-28",
+    "acceptance_datetime": "2022-03-28T13:00:55.000Z",
+    "report_date": "2022-03-28",
+    "accession": "0000950170-22-004725",
+    "primary_document": "meg-20220328.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=7.01; accession=0000950170-22-004725"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2022-05-09",
+    "acceptance_datetime": "2022-05-09T20:31:35.000Z",
+    "report_date": "2022-05-09",
+    "accession": "0000950170-22-008526",
+    "primary_document": "meg-20220509.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-22-008526"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2022-05-11",
+    "acceptance_datetime": "2022-05-11T20:01:05.000Z",
+    "report_date": "2022-05-10",
+    "accession": "0000950170-22-009301",
+    "primary_document": "meg-20220510.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.07; accession=0000950170-22-009301"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2022-06-08",
+    "acceptance_datetime": "2022-06-08T20:25:35.000Z",
+    "report_date": "2022-06-02",
+    "accession": "0000950170-22-011330",
+    "primary_document": "meg-20220602.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.02; accession=0000950170-22-011330"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-06-14",
+    "acceptance_datetime": "2022-06-14T20:20:59.000Z",
+    "report_date": "2022-06-14",
+    "accession": "0000950170-22-011624",
+    "primary_document": "meg-20220614.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950170-22-011624"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2022-08-08",
+    "acceptance_datetime": "2022-08-08T20:32:18.000Z",
+    "report_date": "2022-08-08",
+    "accession": "0000950170-22-015574",
+    "primary_document": "meg-20220808.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-22-015574"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2022-11-08",
+    "acceptance_datetime": "2022-11-08T21:30:42.000Z",
+    "report_date": "2022-11-08",
+    "accession": "0000950170-22-023270",
+    "primary_document": "meg-20221108.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-22-023270"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2023-02-28",
+    "acceptance_datetime": "2023-02-28T21:31:11.000Z",
+    "report_date": "2023-02-28",
+    "accession": "0000950170-23-005138",
+    "primary_document": "meg-20230228.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-23-005138"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2023-05-09",
+    "acceptance_datetime": "2023-05-09T20:32:05.000Z",
+    "report_date": "2023-05-09",
+    "accession": "0000950170-23-019765",
+    "primary_document": "meg-20230509.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-23-019765"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2023-05-11",
+    "acceptance_datetime": "2023-05-11T20:00:34.000Z",
+    "report_date": "2023-05-09",
+    "accession": "0000950170-23-021176",
+    "primary_document": "meg-20230509.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.07; accession=0000950170-23-021176"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2023-06-06",
+    "acceptance_datetime": "2023-06-06T11:01:58.000Z",
+    "report_date": "2023-06-06",
+    "accession": "0000950170-23-026528",
+    "primary_document": "meg-20230606.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=7.01; accession=0000950170-23-026528"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2023-08-08",
+    "acceptance_datetime": "2023-08-08T20:31:03.000Z",
+    "report_date": "2023-08-08",
+    "accession": "0000950170-23-039893",
+    "primary_document": "meg-20230808.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-23-039893"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2023-11-07",
+    "acceptance_datetime": "2023-11-07T21:30:12.000Z",
+    "report_date": "2023-11-07",
+    "accession": "0000950170-23-060315",
+    "primary_document": "meg-20231107.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-23-060315"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2024-02-20",
+    "acceptance_datetime": "2024-02-20T13:03:16.000Z",
+    "report_date": "2024-02-14",
+    "accession": "0000950170-24-016805",
+    "primary_document": "meg-20240214.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0000950170-24-016805"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2024-02-29",
+    "acceptance_datetime": "2024-02-29T12:00:12.000Z",
+    "report_date": "2024-02-29",
+    "accession": "0000950170-24-022631",
+    "primary_document": "meg-20240229.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-24-022631"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2024-04-02",
+    "acceptance_datetime": "2024-04-02T11:00:11.000Z",
+    "report_date": "2024-04-02",
+    "accession": "0000950170-24-039746",
+    "primary_document": "meg-20240402.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=7.01,9.01; accession=0000950170-24-039746"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-04-19",
+    "acceptance_datetime": "2024-04-19T20:54:03.000Z",
+    "report_date": "2024-04-17",
+    "accession": "0001193125-24-103002",
+    "primary_document": "d803571d8k.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-103002"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2024-05-07",
+    "acceptance_datetime": "2024-05-07T20:30:16.000Z",
+    "report_date": "2024-05-07",
+    "accession": "0000950170-24-054601",
+    "primary_document": "meg-20240507.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-24-054601"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2024-05-08",
+    "acceptance_datetime": "2024-05-08T21:00:23.000Z",
+    "report_date": "2024-05-07",
+    "accession": "0000950170-24-055863",
+    "primary_document": "meg-20240507.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.07; accession=0000950170-24-055863"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2024-05-14",
+    "acceptance_datetime": "2024-05-14T21:30:13.000Z",
+    "report_date": "2024-05-13",
+    "accession": "0000950170-24-059804",
+    "primary_document": "meg-20240513.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.03,9.01; accession=0000950170-24-059804"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2024-08-06",
+    "acceptance_datetime": "2024-08-06T20:30:10.000Z",
+    "report_date": "2024-08-06",
+    "accession": "0000950170-24-091889",
+    "primary_document": "meg-20240806.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-24-091889"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,7.01,9.01",
+    "filing_date": "2024-11-06",
+    "acceptance_datetime": "2024-11-06T21:30:08.000Z",
+    "report_date": "2024-11-06",
+    "accession": "0000950170-24-122380",
+    "primary_document": "meg-20241106.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,5.02,7.01,9.01; accession=0000950170-24-122380"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2025-01-06",
+    "acceptance_datetime": "2025-01-06T13:00:07.000Z",
+    "report_date": "2024-12-31",
+    "accession": "0000950170-25-001705",
+    "primary_document": "meg-20241231.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.02,9.01; accession=0000950170-25-001705"
+  },
+  {
+    "form": "8-K",
+    "items": "2.04",
+    "filing_date": "2025-01-17",
+    "acceptance_datetime": "2025-01-17T21:03:38.000Z",
+    "report_date": "2025-01-13",
+    "accession": "0000950170-25-006702",
+    "primary_document": "meg-20250113.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.04; accession=0000950170-25-006702"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-02-20",
+    "acceptance_datetime": "2025-02-20T21:00:10.000Z",
+    "report_date": "2025-02-19",
+    "accession": "0000950170-25-024115",
+    "primary_document": "meg-20250219.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.02; accession=0000950170-25-024115"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2025-02-26",
+    "acceptance_datetime": "2025-02-26T21:30:10.000Z",
+    "report_date": "2025-02-26",
+    "accession": "0000950170-25-027818",
+    "primary_document": "meg-20250226.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-25-027818"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,8.01,9.01",
+    "filing_date": "2025-05-07",
+    "acceptance_datetime": "2025-05-07T20:44:42.000Z",
+    "report_date": "2025-05-07",
+    "accession": "0000950170-25-065813",
+    "primary_document": "meg-20250507.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,8.01,9.01; accession=0000950170-25-065813"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.07,9.01",
+    "filing_date": "2025-05-09",
+    "acceptance_datetime": "2025-05-09T21:27:29.000Z",
+    "report_date": "2025-05-06",
+    "accession": "0000950170-25-068268",
+    "primary_document": "meg-20250506.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.03,5.07,9.01; accession=0000950170-25-068268"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-07-07",
+    "acceptance_datetime": "2025-07-07T13:00:46.000Z",
+    "report_date": "2025-07-01",
+    "accession": "0000950170-25-094144",
+    "primary_document": "meg-20250701.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=8.01; accession=0000950170-25-094144"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2025-08-06",
+    "acceptance_datetime": "2025-08-06T20:46:39.000Z",
+    "report_date": "2025-08-06",
+    "accession": "0000950170-25-104178",
+    "primary_document": "meg-20250806.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0000950170-25-104178"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2025-11-04",
+    "acceptance_datetime": "2025-11-04T21:30:31.000Z",
+    "report_date": "2025-11-04",
+    "accession": "0001193125-25-264811",
+    "primary_document": "meg-20251104.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-25-264811"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2026-01-20",
+    "acceptance_datetime": "2026-01-20T14:00:26.000Z",
+    "report_date": "2026-01-19",
+    "accession": "0001193125-26-016039",
+    "primary_document": "meg-20260119.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-26-016039"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2026-02-25",
+    "acceptance_datetime": "2026-02-25T21:30:28.000Z",
+    "report_date": "2026-02-25",
+    "accession": "0001193125-26-071772",
+    "primary_document": "meg-20260225.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-26-071772"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,7.01,9.01",
+    "filing_date": "2026-04-21",
+    "acceptance_datetime": "2026-04-21T20:05:15.000Z",
+    "report_date": "2026-04-17",
+    "accession": "0001193125-26-166730",
+    "primary_document": "meg-20260417.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.03,7.01,9.01; accession=0001193125-26-166730"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2026-05-06",
+    "acceptance_datetime": "2026-05-06T20:02:19.000Z",
+    "report_date": "2026-05-06",
+    "accession": "0001193125-26-208903",
+    "primary_document": "ont-20260506.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-26-208903"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2026-05-11",
+    "acceptance_datetime": "2026-05-11T20:05:17.000Z",
+    "report_date": "2026-05-06",
+    "accession": "0001193125-26-216725",
+    "primary_document": "ont-20260506.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.07; accession=0001193125-26-216725"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2026-08-05",
+    "acceptance_datetime": "2026-08-05T20:04:16.000Z",
+    "report_date": "2026-08-05",
+    "accession": "0001193125-26-335022",
+    "primary_document": "ont-20260805.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-26-335022"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,5.03,8.01",
+    "filing_date": "2026-08-05",
+    "acceptance_datetime": "2026-08-05T20:11:36.000Z",
+    "report_date": "2026-08-05",
+    "accession": "0001193125-26-335121",
+    "primary_document": "ont-20260805.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=1.01,3.03,5.03,8.01; accession=0001193125-26-335121"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,3.03,5.03,9.01",
+    "filing_date": "2026-08-10",
+    "acceptance_datetime": "2026-08-10T20:31:39.000Z",
+    "report_date": "2026-08-05",
+    "accession": "0001193125-26-342500",
+    "primary_document": "ont-20260805.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=1.01,3.03,5.03,9.01; accession=0001193125-26-342500"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-10-08",
+    "acceptance_datetime": "2026-10-08T20:05:12.000Z",
+    "report_date": "2026-10-07",
+    "accession": "0001193125-26-417915",
+    "primary_document": "ont-20261007.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=5.02; accession=0001193125-26-417915"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "filing_date": "2026-11-04",
+    "acceptance_datetime": "2026-11-04T21:05:15.000Z",
+    "report_date": "2026-11-04",
+    "accession": "0001193125-26-447197",
+    "primary_document": "ont-20261104.htm",
+    "cik": "0001643615",
+    "issuer_name": "Onterris, Inc.",
+    "tickers": [
+      "ONT"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001643615.json",
+    "locator": "8-K items=2.02,7.01,9.01; accession=0001193125-26-447197"
+  }
+]

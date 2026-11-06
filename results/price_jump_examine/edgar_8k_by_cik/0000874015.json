@@ -1,0 +1,5602 @@
+[
+  {
+    "form": "8-K",
+    "items": "2,7",
+    "filing_date": "1999-05-03",
+    "acceptance_datetime": "1999-05-03T04:00:00.000Z",
+    "report_date": "1999-04-20",
+    "accession": "0000936392-99-000495",
+    "primary_document": "",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2,7; accession=0000936392-99-000495"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2,7",
+    "filing_date": "1999-06-08",
+    "acceptance_datetime": "1999-06-08T04:00:00.000Z",
+    "report_date": "1999-04-20",
+    "accession": "0000936392-99-000679",
+    "primary_document": "",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2,7; accession=0000936392-99-000679"
+  },
+  {
+    "form": "8-K/A",
+    "items": "7",
+    "filing_date": "1999-06-16",
+    "acceptance_datetime": "1999-06-16T04:00:00.000Z",
+    "report_date": "1999-04-20",
+    "accession": "0000936392-99-000714",
+    "primary_document": "",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7; accession=0000936392-99-000714"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "1999-09-02",
+    "acceptance_datetime": "1999-09-02T04:00:00.000Z",
+    "report_date": "1999-08-31",
+    "accession": "0000936392-99-001076",
+    "primary_document": "",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5,7; accession=0000936392-99-001076"
+  },
+  {
+    "form": "8-K",
+    "items": "2,7",
+    "filing_date": "2000-01-28",
+    "acceptance_datetime": "2000-01-28T05:00:00.000Z",
+    "report_date": "2000-01-14",
+    "accession": "0000936392-00-000075",
+    "primary_document": "",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2,7; accession=0000936392-00-000075"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2000-12-13",
+    "acceptance_datetime": "2000-12-13T05:00:00.000Z",
+    "report_date": "2000-12-08",
+    "accession": "0000912057-00-053343",
+    "primary_document": "a2032851z8-k.txt",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5,7; accession=0000912057-00-053343"
+  },
+  {
+    "form": "8-K",
+    "items": "2,7",
+    "filing_date": "2001-08-29",
+    "acceptance_datetime": "2001-08-29T04:00:00.000Z",
+    "report_date": "2001-08-29",
+    "accession": "0000912057-01-530761",
+    "primary_document": "a2058321z8-k.txt",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2,7; accession=0000912057-01-530761"
+  },
+  {
+    "form": "8-K/A",
+    "items": "7",
+    "filing_date": "2001-10-05",
+    "acceptance_datetime": "2001-10-05T04:00:00.000Z",
+    "report_date": "2001-01-14",
+    "accession": "0000912057-01-534605",
+    "primary_document": "a2060630z8-ka.txt",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7; accession=0000912057-01-534605"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2001-10-29",
+    "acceptance_datetime": "2001-10-29T05:00:00.000Z",
+    "report_date": "2001-10-25",
+    "accession": "0000912057-01-536913",
+    "primary_document": "a2062055z8-k.txt",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5,7; accession=0000912057-01-536913"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2001-12-12",
+    "acceptance_datetime": "2001-12-12T05:00:00.000Z",
+    "report_date": "2001-11-26",
+    "accession": "0000912057-01-542819",
+    "primary_document": "a2065583z8-k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5,7; accession=0000912057-01-542819"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-01-04",
+    "acceptance_datetime": "2002-01-04T05:00:00.000Z",
+    "report_date": "2001-12-13",
+    "accession": "0000912057-02-000293",
+    "primary_document": "a2067158z8-k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5,7; accession=0000912057-02-000293"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-01-07",
+    "acceptance_datetime": "2002-01-07T05:00:00.000Z",
+    "report_date": "2002-01-07",
+    "accession": "0000912057-02-000362",
+    "primary_document": "a2067253z8-k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5,7; accession=0000912057-02-000362"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-04-23",
+    "acceptance_datetime": "2002-04-23T04:00:00.000Z",
+    "report_date": "2002-04-23",
+    "accession": "0000912057-02-016129",
+    "primary_document": "a2077672z8-k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5,7; accession=0000912057-02-016129"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-04-24",
+    "acceptance_datetime": "2002-04-24T04:00:00.000Z",
+    "report_date": "2002-04-24",
+    "accession": "0000912057-02-016411",
+    "primary_document": "a2077889z8-k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5,7; accession=0000912057-02-016411"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-04-24",
+    "acceptance_datetime": "2002-04-24T04:00:00.000Z",
+    "report_date": "2002-04-23",
+    "accession": "0000912057-02-016285",
+    "primary_document": "a2077797z8-k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5,7; accession=0000912057-02-016285"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-09-16",
+    "acceptance_datetime": "2002-09-16T20:32:21.000Z",
+    "report_date": "2002-09-16",
+    "accession": "0000912057-02-035649",
+    "primary_document": "a2089152z8-k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5,7; accession=0000912057-02-035649"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2002-11-20",
+    "acceptance_datetime": "2002-11-20T22:14:17.000Z",
+    "report_date": "2002-11-06",
+    "accession": "0001047469-02-003818",
+    "primary_document": "a2094332z8-k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5,7; accession=0001047469-02-003818"
+  },
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2003-03-17",
+    "acceptance_datetime": "2003-03-17T19:11:13.000Z",
+    "report_date": "2003-03-17",
+    "accession": "0001104659-03-004359",
+    "primary_document": "j8575_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5,7; accession=0001104659-03-004359"
+  },
+  {
+    "form": "8-K",
+    "items": "7,9",
+    "filing_date": "2003-05-08",
+    "acceptance_datetime": "2003-05-08T19:55:26.000Z",
+    "report_date": "2003-05-08",
+    "accession": "0001104659-03-008630",
+    "primary_document": "j0535_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7,9; accession=0001104659-03-008630"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2003-08-05",
+    "acceptance_datetime": "2003-08-05T12:15:42.000Z",
+    "report_date": "2003-08-05",
+    "accession": "0001104659-03-016629",
+    "primary_document": "a03-1839_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=12,7; accession=0001104659-03-016629"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2003-11-04",
+    "acceptance_datetime": "2003-11-04T12:26:55.000Z",
+    "report_date": "2003-11-04",
+    "accession": "0001104659-03-024531",
+    "primary_document": "a03-4754_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=12,7; accession=0001104659-03-024531"
+  },
+  {
+    "form": "8-K",
+    "items": "5",
+    "filing_date": "2004-01-07",
+    "acceptance_datetime": "2004-01-07T22:30:06.000Z",
+    "report_date": "2004-01-05",
+    "accession": "0001104659-04-000328",
+    "primary_document": "a04-1101_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5; accession=0001104659-04-000328"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-02-10",
+    "acceptance_datetime": "2004-02-10T12:00:31.000Z",
+    "report_date": "2004-02-10",
+    "accession": "0001104659-04-003124",
+    "primary_document": "a04-2096_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=12,7; accession=0001104659-04-003124"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-05-06",
+    "acceptance_datetime": "2004-05-06T11:00:40.000Z",
+    "report_date": "2004-05-06",
+    "accession": "0001104659-04-012762",
+    "primary_document": "a04-5505_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=12,7; accession=0001104659-04-012762"
+  },
+  {
+    "form": "8-K",
+    "items": "12,7",
+    "filing_date": "2004-08-05",
+    "acceptance_datetime": "2004-08-05T11:07:49.000Z",
+    "report_date": "2004-08-05",
+    "accession": "0001104659-04-022428",
+    "primary_document": "a04-8728_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=12,7; accession=0001104659-04-022428"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2004-10-06",
+    "acceptance_datetime": "2004-10-06T21:17:44.000Z",
+    "report_date": "2004-10-06",
+    "accession": "0001104659-04-029884",
+    "primary_document": "a04-11294_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-04-029884"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2004-10-27",
+    "acceptance_datetime": "2004-10-27T12:01:59.000Z",
+    "report_date": "2004-10-27",
+    "accession": "0001104659-04-032003",
+    "primary_document": "a04-12152_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-04-032003"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2004-12-16",
+    "acceptance_datetime": "2004-12-16T22:04:30.000Z",
+    "report_date": "2004-12-14",
+    "accession": "0001104659-04-040084",
+    "primary_document": "a04-14943_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-04-040084"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2004-12-21",
+    "acceptance_datetime": "2004-12-21T22:20:02.000Z",
+    "report_date": "2004-12-21",
+    "accession": "0001104659-04-040702",
+    "primary_document": "a04-15193_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01; accession=0001104659-04-040702"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05,9.01",
+    "filing_date": "2005-01-10",
+    "acceptance_datetime": "2005-01-10T21:00:42.000Z",
+    "report_date": "2005-01-10",
+    "accession": "0001104659-05-000950",
+    "primary_document": "a05-1299_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.05,9.01; accession=0001104659-05-000950"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-02-14",
+    "acceptance_datetime": "2005-02-14T19:23:59.000Z",
+    "report_date": "2005-02-14",
+    "accession": "0001104659-05-006242",
+    "primary_document": "a05-3231_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-05-006242"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.02,2.05,9.01",
+    "filing_date": "2005-03-01",
+    "acceptance_datetime": "2005-03-01T14:05:28.000Z",
+    "report_date": "2005-03-01",
+    "accession": "0001104659-05-008760",
+    "primary_document": "a05-4350_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,2.05,9.01; accession=0001104659-05-008760"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-04-08",
+    "acceptance_datetime": "2005-04-08T20:32:51.000Z",
+    "report_date": "2005-04-07",
+    "accession": "0001104659-05-015771",
+    "primary_document": "a05-6497_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-05-015771"
+  },
+  {
+    "form": "8-K/A",
+    "items": "2.02,2.05,9.01",
+    "filing_date": "2005-05-05",
+    "acceptance_datetime": "2005-05-05T14:18:52.000Z",
+    "report_date": "2005-05-05",
+    "accession": "0001104659-05-020629",
+    "primary_document": "a05-8734_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,2.05,9.01; accession=0001104659-05-020629"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2005-05-24",
+    "acceptance_datetime": "2005-05-24T21:01:18.000Z",
+    "report_date": "2005-05-18",
+    "accession": "0001104659-05-025198",
+    "primary_document": "a05-9795_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02; accession=0001104659-05-025198"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-05-26",
+    "acceptance_datetime": "2005-05-26T16:50:52.000Z",
+    "report_date": "2005-05-24",
+    "accession": "0001104659-05-025551",
+    "primary_document": "a05-9920_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-05-025551"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.05",
+    "filing_date": "2005-06-29",
+    "acceptance_datetime": "2005-06-29T20:07:57.000Z",
+    "report_date": "2005-06-23",
+    "accession": "0001104659-05-030465",
+    "primary_document": "a05-11585_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.05; accession=0001104659-05-030465"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-07-26",
+    "acceptance_datetime": "2005-07-25T21:46:28.000Z",
+    "report_date": "2005-07-21",
+    "accession": "0001104659-05-033895",
+    "primary_document": "a05-13443_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-05-033895"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2005-07-27",
+    "acceptance_datetime": "2005-07-27T20:14:37.000Z",
+    "report_date": "2005-07-21",
+    "accession": "0001104659-05-034433",
+    "primary_document": "a05-13672_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01; accession=0001104659-05-034433"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-07-29",
+    "acceptance_datetime": "2005-07-29T18:59:00.000Z",
+    "report_date": "2005-07-28",
+    "accession": "0001104659-05-035090",
+    "primary_document": "a05-13829_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-05-035090"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-08-05",
+    "acceptance_datetime": "2005-08-05T16:02:37.000Z",
+    "report_date": "2005-08-02",
+    "accession": "0001104659-05-036727",
+    "primary_document": "a05-14293_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-05-036727"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-08-08",
+    "acceptance_datetime": "2005-08-08T14:06:23.000Z",
+    "report_date": "2005-08-08",
+    "accession": "0001104659-05-037061",
+    "primary_document": "a05-14363_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-05-037061"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,8.01,9.01",
+    "filing_date": "2005-08-25",
+    "acceptance_datetime": "2005-08-25T17:11:33.000Z",
+    "report_date": "2005-08-22",
+    "accession": "0001104659-05-041261",
+    "primary_document": "a05-15338_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,3.02,8.01,9.01; accession=0001104659-05-041261"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-11-08",
+    "acceptance_datetime": "2005-11-08T14:31:53.000Z",
+    "report_date": "2005-11-08",
+    "accession": "0001104659-05-053297",
+    "primary_document": "a05-19832_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-05-053297"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2005-12-15",
+    "acceptance_datetime": "2005-12-15T20:14:57.000Z",
+    "report_date": "2005-12-13",
+    "accession": "0001104659-05-061018",
+    "primary_document": "a05-21748_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-05-061018"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-03-01",
+    "acceptance_datetime": "2006-03-01T22:02:10.000Z",
+    "report_date": "2006-02-27",
+    "accession": "0001104659-06-013236",
+    "primary_document": "a06-6054_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-06-013236"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-03-09",
+    "acceptance_datetime": "2006-03-09T12:17:15.000Z",
+    "report_date": "2006-03-09",
+    "accession": "0001104659-06-015146",
+    "primary_document": "a06-6587_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-06-015146"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,3.02,9.01",
+    "filing_date": "2006-04-10",
+    "acceptance_datetime": "2006-04-07T23:26:51.000Z",
+    "report_date": "2006-04-07",
+    "accession": "0001104659-06-023811",
+    "primary_document": "a06-8706_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.01,3.02,9.01; accession=0001104659-06-023811"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2006-04-12",
+    "acceptance_datetime": "2006-04-12T20:29:53.000Z",
+    "report_date": "2006-04-06",
+    "accession": "0001104659-06-024703",
+    "primary_document": "a06-8821_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02; accession=0001104659-06-024703"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-04-20",
+    "acceptance_datetime": "2006-04-20T21:10:08.000Z",
+    "report_date": "2006-04-20",
+    "accession": "0001104659-06-026322",
+    "primary_document": "a06-10168_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-06-026322"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-04-27",
+    "acceptance_datetime": "2006-04-27T16:45:42.000Z",
+    "report_date": "2006-04-27",
+    "accession": "0001104659-06-028205",
+    "primary_document": "a06-10609_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-06-028205"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-05-02",
+    "acceptance_datetime": "2006-05-02T20:13:06.000Z",
+    "report_date": "2006-05-02",
+    "accession": "0001104659-06-030258",
+    "primary_document": "a06-10929_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-06-030258"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-05-05",
+    "acceptance_datetime": "2006-05-05T17:57:05.000Z",
+    "report_date": "2006-05-03",
+    "accession": "0001104659-06-031514",
+    "primary_document": "a06-11192_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-06-031514"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-05-31",
+    "acceptance_datetime": "2006-05-30T21:51:35.000Z",
+    "report_date": "2006-05-30",
+    "accession": "0001104659-06-038296",
+    "primary_document": "a06-12635_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-06-038296"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-07-31",
+    "acceptance_datetime": "2006-07-31T11:27:05.000Z",
+    "report_date": "2006-07-28",
+    "accession": "0001104659-06-049698",
+    "primary_document": "a06-17048_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-06-049698"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-08-03",
+    "acceptance_datetime": "2006-08-03T13:15:50.000Z",
+    "report_date": "2006-08-03",
+    "accession": "0001104659-06-050950",
+    "primary_document": "a06-17306_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-06-050950"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-10-03",
+    "acceptance_datetime": "2006-10-03T17:28:34.000Z",
+    "report_date": "2006-10-03",
+    "accession": "0001104659-06-064557",
+    "primary_document": "a06-20647_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-06-064557"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-11-02",
+    "acceptance_datetime": "2006-11-02T12:30:29.000Z",
+    "report_date": "2006-11-02",
+    "accession": "0001104659-06-070479",
+    "primary_document": "a06-23178_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-06-070479"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-11-13",
+    "acceptance_datetime": "2006-11-13T13:32:56.000Z",
+    "report_date": "2006-09-13",
+    "accession": "0001104659-06-074097",
+    "primary_document": "a06-23852_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-06-074097"
+  },
+  {
+    "form": "8-K/A",
+    "items": "8.01,9.01",
+    "filing_date": "2006-11-13",
+    "acceptance_datetime": "2006-11-13T17:05:51.000Z",
+    "report_date": "2006-11-13",
+    "accession": "0001104659-06-074272",
+    "primary_document": "a06-23852_28ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-06-074272"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-01-16",
+    "acceptance_datetime": "2007-01-16T21:10:27.000Z",
+    "report_date": "2007-01-16",
+    "accession": "0001104659-07-002658",
+    "primary_document": "a07-1979_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-002658"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-01-18",
+    "acceptance_datetime": "2007-01-18T17:49:47.000Z",
+    "report_date": "2007-01-18",
+    "accession": "0001104659-07-003082",
+    "primary_document": "a07-2162_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-003082"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-01-22",
+    "acceptance_datetime": "2007-01-22T15:01:47.000Z",
+    "report_date": "2007-01-22",
+    "accession": "0001104659-07-003607",
+    "primary_document": "a07-2318_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-003607"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,8.01,9.01",
+    "filing_date": "2007-01-24",
+    "acceptance_datetime": "2007-01-24T22:28:42.000Z",
+    "report_date": "2007-01-17",
+    "accession": "0001104659-07-004281",
+    "primary_document": "a07-2517_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03,3.02,8.01,9.01; accession=0001104659-07-004281"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-02-07",
+    "acceptance_datetime": "2007-02-07T22:21:03.000Z",
+    "report_date": "2007-02-01",
+    "accession": "0001104659-07-008090",
+    "primary_document": "a07-3531_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-07-008090"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-03-06",
+    "acceptance_datetime": "2007-03-06T00:52:20.000Z",
+    "report_date": "2007-03-01",
+    "accession": "0001104659-07-016440",
+    "primary_document": "a07-7237_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-07-016440"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-03-08",
+    "acceptance_datetime": "2007-03-08T15:01:04.000Z",
+    "report_date": "2007-03-08",
+    "accession": "0001104659-07-017276",
+    "primary_document": "a07-7508_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-07-017276"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-03-26",
+    "acceptance_datetime": "2007-03-26T13:46:17.000Z",
+    "report_date": "2007-03-25",
+    "accession": "0001104659-07-022174",
+    "primary_document": "a07-8976_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-022174"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-03-27",
+    "acceptance_datetime": "2007-03-27T00:16:27.000Z",
+    "report_date": "2007-03-26",
+    "accession": "0001104659-07-022489",
+    "primary_document": "a07-9076_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-022489"
+  },
+  {
+    "form": "8-K",
+    "items": "2.04,9.01",
+    "filing_date": "2007-04-12",
+    "acceptance_datetime": "2007-04-11T22:07:43.000Z",
+    "report_date": "2007-04-10",
+    "accession": "0001104659-07-027764",
+    "primary_document": "a07-10364_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.04,9.01; accession=0001104659-07-027764"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2007-05-04",
+    "acceptance_datetime": "2007-05-04T21:12:51.000Z",
+    "report_date": "2007-05-04",
+    "accession": "0001104659-07-036100",
+    "primary_document": "a07-13357_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01; accession=0001104659-07-036100"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-05-09",
+    "acceptance_datetime": "2007-05-09T13:30:26.000Z",
+    "report_date": "2007-05-09",
+    "accession": "0001104659-07-037286",
+    "primary_document": "a07-13694_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-07-037286"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-05-10",
+    "acceptance_datetime": "2007-05-10T13:30:36.000Z",
+    "report_date": "2007-05-10",
+    "accession": "0001104659-07-037918",
+    "primary_document": "a07-13837_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-07-037918"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2007-05-21",
+    "acceptance_datetime": "2007-05-21T21:20:03.000Z",
+    "report_date": "2007-05-16",
+    "accession": "0001104659-07-041834",
+    "primary_document": "a07-14744_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01; accession=0001104659-07-041834"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2007-06-19",
+    "acceptance_datetime": "2007-06-18T22:35:37.000Z",
+    "report_date": "2007-06-18",
+    "accession": "0001104659-07-048366",
+    "primary_document": "a07-16930_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01; accession=0001104659-07-048366"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-07-09",
+    "acceptance_datetime": "2007-07-09T20:37:51.000Z",
+    "report_date": "2007-07-09",
+    "accession": "0001104659-07-052997",
+    "primary_document": "a07-18421_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-052997"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-08-08",
+    "acceptance_datetime": "2007-08-08T20:12:02.000Z",
+    "report_date": "2007-08-08",
+    "accession": "0001104659-07-060230",
+    "primary_document": "a07-21381_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-07-060230"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-09-07",
+    "acceptance_datetime": "2007-09-07T12:00:17.000Z",
+    "report_date": "2007-09-07",
+    "accession": "0001104659-07-067472",
+    "primary_document": "a07-23454_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-067472"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-09-13",
+    "acceptance_datetime": "2007-09-13T13:30:36.000Z",
+    "report_date": "2007-09-13",
+    "accession": "0001104659-07-068756",
+    "primary_document": "a07-23875_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-07-068756"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-09-27",
+    "acceptance_datetime": "2007-09-27T20:22:42.000Z",
+    "report_date": "2007-09-27",
+    "accession": "0001104659-07-071704",
+    "primary_document": "a07-24747_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-07-071704"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,9.01",
+    "filing_date": "2007-09-28",
+    "acceptance_datetime": "2007-09-28T00:17:39.000Z",
+    "report_date": "2007-09-27",
+    "accession": "0001104659-07-071818",
+    "primary_document": "a07-24874_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.01,9.01; accession=0001104659-07-071818"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,9.01",
+    "filing_date": "2007-10-02",
+    "acceptance_datetime": "2007-10-02T13:25:25.000Z",
+    "report_date": "2007-09-13",
+    "accession": "0001104659-07-072559",
+    "primary_document": "a07-25068_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-07-072559"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-10-04",
+    "acceptance_datetime": "2007-10-04T13:25:28.000Z",
+    "report_date": "2007-10-04",
+    "accession": "0001104659-07-073125",
+    "primary_document": "a07-25263_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-073125"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-10-05",
+    "acceptance_datetime": "2007-10-05T13:25:20.000Z",
+    "report_date": "2007-10-05",
+    "accession": "0001104659-07-073484",
+    "primary_document": "a07-25264_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-073484"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-10-17",
+    "acceptance_datetime": "2007-10-17T00:25:54.000Z",
+    "report_date": "2007-10-14",
+    "accession": "0001104659-07-075190",
+    "primary_document": "a07-26756_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-07-075190"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-10-26",
+    "acceptance_datetime": "2007-10-26T12:00:28.000Z",
+    "report_date": "2007-10-22",
+    "accession": "0001104659-07-077190",
+    "primary_document": "a07-27580_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-07-077190"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-11-08",
+    "acceptance_datetime": "2007-11-08T14:30:19.000Z",
+    "report_date": "2007-11-08",
+    "accession": "0001104659-07-080930",
+    "primary_document": "a07-28827_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-07-080930"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2007-11-13",
+    "acceptance_datetime": "2007-11-13T13:45:26.000Z",
+    "report_date": "2007-11-13",
+    "accession": "0001104659-07-082142",
+    "primary_document": "a07-29215_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-07-082142"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2007-12-04",
+    "acceptance_datetime": "2007-12-04T01:31:57.000Z",
+    "report_date": "2007-12-03",
+    "accession": "0001104659-07-086658",
+    "primary_document": "a07-30572_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-07-086658"
+  },
+  {
+    "form": "8-K/A",
+    "items": "9.01",
+    "filing_date": "2007-12-07",
+    "acceptance_datetime": "2007-12-07T21:53:38.000Z",
+    "report_date": "2007-09-28",
+    "accession": "0001104659-07-087761",
+    "primary_document": "a07-30757_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=9.01; accession=0001104659-07-087761"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2007-12-14",
+    "acceptance_datetime": "2007-12-14T14:30:33.000Z",
+    "report_date": "2007-12-11",
+    "accession": "0001104659-07-088844",
+    "primary_document": "a07-31464_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-07-088844"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02",
+    "filing_date": "2008-01-08",
+    "acceptance_datetime": "2008-01-08T13:00:25.000Z",
+    "report_date": "2008-01-07",
+    "accession": "0001104659-08-001146",
+    "primary_document": "a08-1451_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,3.02; accession=0001104659-08-001146"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2008-01-31",
+    "acceptance_datetime": "2008-01-31T12:15:23.000Z",
+    "report_date": "2008-01-30",
+    "accession": "0001104659-08-005933",
+    "primary_document": "a08-4243_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-08-005933"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,3.02",
+    "filing_date": "2008-02-06",
+    "acceptance_datetime": "2008-02-06T22:15:57.000Z",
+    "report_date": "2008-01-07",
+    "accession": "0001104659-08-007654",
+    "primary_document": "a08-4883_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,3.02; accession=0001104659-08-007654"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-03-13",
+    "acceptance_datetime": "2008-03-13T12:00:32.000Z",
+    "report_date": "2008-03-13",
+    "accession": "0001104659-08-017262",
+    "primary_document": "a08-8073_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-08-017262"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2008-04-17",
+    "acceptance_datetime": "2008-04-17T13:19:30.000Z",
+    "report_date": "2008-04-17",
+    "accession": "0001104659-08-024925",
+    "primary_document": "a08-11064_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-08-024925"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2008-04-25",
+    "acceptance_datetime": "2008-04-25T13:00:02.000Z",
+    "report_date": "2008-04-25",
+    "accession": "0001104659-08-026744",
+    "primary_document": "a08-12569_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-08-026744"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-05-12",
+    "acceptance_datetime": "2008-05-12T12:10:57.000Z",
+    "report_date": "2008-05-12",
+    "accession": "0001104659-08-032092",
+    "primary_document": "a08-14134_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-08-032092"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2008-06-24",
+    "acceptance_datetime": "2008-06-24T13:15:51.000Z",
+    "report_date": "2008-06-24",
+    "accession": "0001104659-08-041676",
+    "primary_document": "a08-17249_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01; accession=0001104659-08-041676"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2008-07-01",
+    "acceptance_datetime": "2008-07-01T13:01:02.000Z",
+    "report_date": "2008-07-01",
+    "accession": "0001104659-08-043310",
+    "primary_document": "a08-17789_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-08-043310"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-07-22",
+    "acceptance_datetime": "2008-07-22T20:24:45.000Z",
+    "report_date": "2008-07-21",
+    "accession": "0001104659-08-046951",
+    "primary_document": "a08-19826_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02; accession=0001104659-08-046951"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-08-07",
+    "acceptance_datetime": "2008-08-07T12:16:42.000Z",
+    "report_date": "2008-08-07",
+    "accession": "0001104659-08-050569",
+    "primary_document": "a08-21112_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-08-050569"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2008-10-21",
+    "acceptance_datetime": "2008-10-20T22:10:05.000Z",
+    "report_date": "2008-10-15",
+    "accession": "0001104659-08-064882",
+    "primary_document": "a08-26459_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03; accession=0001104659-08-064882"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-11-10",
+    "acceptance_datetime": "2008-11-10T13:15:40.000Z",
+    "report_date": "2008-11-10",
+    "accession": "0001104659-08-069425",
+    "primary_document": "a08-27904_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-08-069425"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,5.05,9.01",
+    "filing_date": "2008-12-05",
+    "acceptance_datetime": "2008-12-04T23:23:04.000Z",
+    "report_date": "2008-12-01",
+    "accession": "0001104659-08-074716",
+    "primary_document": "a08-29740_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,5.02,5.05,9.01; accession=0001104659-08-074716"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,9.01",
+    "filing_date": "2008-12-17",
+    "acceptance_datetime": "2008-12-17T14:01:14.000Z",
+    "report_date": "2008-01-30",
+    "accession": "0001104659-08-076902",
+    "primary_document": "a08-30577_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-08-076902"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,2.01,5.02,9.01",
+    "filing_date": "2009-01-12",
+    "acceptance_datetime": "2009-01-12T22:18:03.000Z",
+    "report_date": "2008-01-30",
+    "accession": "0001104659-09-001842",
+    "primary_document": "a09-2620_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.01,5.02,9.01; accession=0001104659-09-001842"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-02-25",
+    "acceptance_datetime": "2009-02-25T13:15:27.000Z",
+    "report_date": "2009-02-25",
+    "accession": "0001104659-09-011932",
+    "primary_document": "a09-6259_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-09-011932"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2009-03-04",
+    "acceptance_datetime": "2009-03-04T14:15:28.000Z",
+    "report_date": "2009-03-03",
+    "accession": "0001104659-09-014050",
+    "primary_document": "a09-6828_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-09-014050"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,2.03",
+    "filing_date": "2009-03-30",
+    "acceptance_datetime": "2009-03-27T22:08:45.000Z",
+    "report_date": "2008-10-15",
+    "accession": "0001104659-09-021011",
+    "primary_document": "a09-8779_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03; accession=0001104659-09-021011"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-04-15",
+    "acceptance_datetime": "2009-04-15T11:29:22.000Z",
+    "report_date": "2009-04-15",
+    "accession": "0001104659-09-024160",
+    "primary_document": "a09-9941_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-09-024160"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2009-04-29",
+    "acceptance_datetime": "2009-04-29T13:00:27.000Z",
+    "report_date": "2009-04-28",
+    "accession": "0001104659-09-026932",
+    "primary_document": "a09-12007_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-09-026932"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-05-07",
+    "acceptance_datetime": "2009-05-07T12:15:33.000Z",
+    "report_date": "2009-05-07",
+    "accession": "0001104659-09-030216",
+    "primary_document": "a09-12860_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-09-030216"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-05-20",
+    "acceptance_datetime": "2009-05-20T15:50:29.000Z",
+    "report_date": "2009-05-20",
+    "accession": "0001104659-09-033820",
+    "primary_document": "a09-13967_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-09-033820"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2009-06-04",
+    "acceptance_datetime": "2009-06-04T21:17:35.000Z",
+    "report_date": "2009-06-02",
+    "accession": "0001104659-09-036705",
+    "primary_document": "a09-14907_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.03,9.01; accession=0001104659-09-036705"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-08-06",
+    "acceptance_datetime": "2009-08-06T12:15:34.000Z",
+    "report_date": "2009-08-06",
+    "accession": "0001104659-09-047559",
+    "primary_document": "a09-21397_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-09-047559"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,2.03",
+    "filing_date": "2009-10-02",
+    "acceptance_datetime": "2009-10-02T20:45:00.000Z",
+    "report_date": "2008-10-15",
+    "accession": "0001104659-09-057623",
+    "primary_document": "a09-29506_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03; accession=0001104659-09-057623"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-10-21",
+    "acceptance_datetime": "2009-10-21T21:18:46.000Z",
+    "report_date": "2009-10-21",
+    "accession": "0001104659-09-059814",
+    "primary_document": "a09-32011_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-09-059814"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-11-05",
+    "acceptance_datetime": "2009-11-05T13:15:34.000Z",
+    "report_date": "2009-11-05",
+    "accession": "0001104659-09-062707",
+    "primary_document": "a09-32855_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-09-062707"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2009-11-17",
+    "acceptance_datetime": "2009-11-17T15:08:45.000Z",
+    "report_date": "2009-11-17",
+    "accession": "0001104659-09-065415",
+    "primary_document": "a09-33690_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-09-065415"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2009-12-08",
+    "acceptance_datetime": "2009-12-08T21:17:25.000Z",
+    "report_date": "2009-12-02",
+    "accession": "0001104659-09-069015",
+    "primary_document": "a09-34995_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01; accession=0001104659-09-069015"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2010-02-10",
+    "acceptance_datetime": "2010-02-10T13:16:15.000Z",
+    "report_date": "2010-02-10",
+    "accession": "0001104659-10-005865",
+    "primary_document": "a10-3521_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-10-005865"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2010-02-25",
+    "acceptance_datetime": "2010-02-25T12:15:34.000Z",
+    "report_date": "2010-02-25",
+    "accession": "0001104659-10-009355",
+    "primary_document": "a10-4626_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01; accession=0001104659-10-009355"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-03-01",
+    "acceptance_datetime": "2010-03-01T13:15:37.000Z",
+    "report_date": "2010-03-01",
+    "accession": "0001104659-10-010490",
+    "primary_document": "a10-4813_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-10-010490"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2010-03-31",
+    "acceptance_datetime": "2010-03-31T13:00:36.000Z",
+    "report_date": "2010-03-31",
+    "accession": "0001104659-10-017519",
+    "primary_document": "a10-7422_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-10-017519"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-05-06",
+    "acceptance_datetime": "2010-05-06T12:00:45.000Z",
+    "report_date": "2010-05-06",
+    "accession": "0001104659-10-025998",
+    "primary_document": "a10-9473_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-10-025998"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2010-06-04",
+    "acceptance_datetime": "2010-06-04T20:28:08.000Z",
+    "report_date": "2010-06-04",
+    "accession": "0001104659-10-032492",
+    "primary_document": "a10-11561_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.07; accession=0001104659-10-032492"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,2.03",
+    "filing_date": "2010-06-23",
+    "acceptance_datetime": "2010-06-22T23:45:22.000Z",
+    "report_date": "2008-10-15",
+    "accession": "0001104659-10-035031",
+    "primary_document": "a10-12454_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03; accession=0001104659-10-035031"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2010-06-23",
+    "acceptance_datetime": "2010-06-22T23:45:38.000Z",
+    "report_date": "2010-06-21",
+    "accession": "0001104659-10-035032",
+    "primary_document": "a10-12472_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-10-035032"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2010-08-04",
+    "acceptance_datetime": "2010-08-04T12:15:13.000Z",
+    "report_date": "2010-08-04",
+    "accession": "0001104659-10-041649",
+    "primary_document": "a10-15266_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-10-041649"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-08-09",
+    "acceptance_datetime": "2010-08-09T12:01:55.000Z",
+    "report_date": "2010-08-09",
+    "accession": "0001104659-10-042933",
+    "primary_document": "a10-15508_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-10-042933"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-11-04",
+    "acceptance_datetime": "2010-11-04T20:30:25.000Z",
+    "report_date": "2010-11-04",
+    "accession": "0001104659-10-056083",
+    "primary_document": "a10-20609_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-10-056083"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2010-11-17",
+    "acceptance_datetime": "2010-11-17T02:47:52.000Z",
+    "report_date": "2010-11-15",
+    "accession": "0001104659-10-058781",
+    "primary_document": "a10-21377_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03; accession=0001104659-10-058781"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-01-10",
+    "acceptance_datetime": "2011-01-10T14:55:57.000Z",
+    "report_date": "2011-01-10",
+    "accession": "0001104659-11-000915",
+    "primary_document": "a11-3063_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-11-000915"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-02-28",
+    "acceptance_datetime": "2011-02-28T21:16:28.000Z",
+    "report_date": "2011-02-28",
+    "accession": "0001104659-11-010918",
+    "primary_document": "a11-6896_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-11-010918"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-05-05",
+    "acceptance_datetime": "2011-05-05T20:15:36.000Z",
+    "report_date": "2011-05-05",
+    "accession": "0001104659-11-026333",
+    "primary_document": "a11-9015_38k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-11-026333"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2011-06-17",
+    "acceptance_datetime": "2011-06-17T20:19:51.000Z",
+    "report_date": "2011-06-16",
+    "accession": "0001104659-11-035403",
+    "primary_document": "a11-15151_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,5.07; accession=0001104659-11-035403"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,2.03",
+    "filing_date": "2011-06-20",
+    "acceptance_datetime": "2011-06-20T20:47:15.000Z",
+    "report_date": "2008-10-15",
+    "accession": "0001104659-11-035614",
+    "primary_document": "a11-15225_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03; accession=0001104659-11-035614"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-07-28",
+    "acceptance_datetime": "2011-07-28T13:01:42.000Z",
+    "report_date": "2011-07-28",
+    "accession": "0001104659-11-041315",
+    "primary_document": "a11-23105_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-11-041315"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-08-04",
+    "acceptance_datetime": "2011-08-04T20:14:58.000Z",
+    "report_date": "2011-08-04",
+    "accession": "0001104659-11-043709",
+    "primary_document": "a11-23808_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-11-043709"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2011-08-11",
+    "acceptance_datetime": "2011-08-11T20:03:04.000Z",
+    "report_date": "2011-08-11",
+    "accession": "0001104659-11-046123",
+    "primary_document": "a11-24215_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-11-046123"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-11-07",
+    "acceptance_datetime": "2011-11-07T21:15:21.000Z",
+    "report_date": "2011-11-07",
+    "accession": "0001104659-11-061633",
+    "primary_document": "a11-29344_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-11-061633"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2011-12-14",
+    "acceptance_datetime": "2011-12-14T18:02:49.000Z",
+    "report_date": "2011-12-13",
+    "accession": "0001104659-11-069367",
+    "primary_document": "a11-31642_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.03,9.01; accession=0001104659-11-069367"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2012-01-04",
+    "acceptance_datetime": "2012-01-04T21:01:40.000Z",
+    "report_date": "2012-01-04",
+    "accession": "0001104659-12-000356",
+    "primary_document": "a12-2023_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-12-000356"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-02-29",
+    "acceptance_datetime": "2012-02-29T13:00:38.000Z",
+    "report_date": "2012-02-29",
+    "accession": "0001104659-12-014287",
+    "primary_document": "a12-5896_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-12-014287"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-05-08",
+    "acceptance_datetime": "2012-05-08T13:01:03.000Z",
+    "report_date": "2012-05-08",
+    "accession": "0001104659-12-034170",
+    "primary_document": "a12-11599_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-12-034170"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2012-06-08",
+    "acceptance_datetime": "2012-06-08T00:30:57.000Z",
+    "report_date": "2012-06-07",
+    "accession": "0001104659-12-042411",
+    "primary_document": "a12-14350_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.07; accession=0001104659-12-042411"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,2.03",
+    "filing_date": "2012-06-28",
+    "acceptance_datetime": "2012-06-28T20:55:18.000Z",
+    "report_date": "2008-10-15",
+    "accession": "0001104659-12-046674",
+    "primary_document": "a12-15585_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03; accession=0001104659-12-046674"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2012-06-29",
+    "acceptance_datetime": "2012-06-29T13:00:58.000Z",
+    "report_date": "2012-06-29",
+    "accession": "0001104659-12-046814",
+    "primary_document": "a12-15660_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-12-046814"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-08-06",
+    "acceptance_datetime": "2012-08-06T15:01:20.000Z",
+    "report_date": "2012-08-06",
+    "accession": "0001104659-12-054442",
+    "primary_document": "a12-17654_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-12-054442"
+  },
+  {
+    "form": "8-K",
+    "items": "2.03,3.02,8.01,9.01",
+    "filing_date": "2012-08-08",
+    "acceptance_datetime": "2012-08-08T13:07:19.000Z",
+    "report_date": "2012-08-07",
+    "accession": "0001104659-12-055584",
+    "primary_document": "a12-17479_28k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.03,3.02,8.01,9.01; accession=0001104659-12-055584"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,9.01",
+    "filing_date": "2012-08-13",
+    "acceptance_datetime": "2012-08-13T19:07:20.000Z",
+    "report_date": "2012-08-13",
+    "accession": "0001104659-12-057327",
+    "primary_document": "a12-17479_38k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03,3.02,9.01; accession=0001104659-12-057327"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2012-11-05",
+    "acceptance_datetime": "2012-11-05T21:05:39.000Z",
+    "report_date": "2012-10-30",
+    "accession": "0001104659-12-074180",
+    "primary_document": "a12-26209_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-12-074180"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-11-06",
+    "acceptance_datetime": "2012-11-06T16:00:31.000Z",
+    "report_date": "2012-11-06",
+    "accession": "0001104659-12-074534",
+    "primary_document": "a12-26283_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-12-074534"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2012-12-10",
+    "acceptance_datetime": "2012-12-10T22:18:15.000Z",
+    "report_date": "2012-12-10",
+    "accession": "0001104659-12-083037",
+    "primary_document": "a12-29047_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-12-083037"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2012-12-11",
+    "acceptance_datetime": "2012-12-11T21:16:02.000Z",
+    "report_date": "2012-12-11",
+    "accession": "0001104659-12-083295",
+    "primary_document": "a12-29157_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-12-083295"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-12-14",
+    "acceptance_datetime": "2012-12-14T14:16:19.000Z",
+    "report_date": "2012-12-14",
+    "accession": "0001104659-12-084138",
+    "primary_document": "a12-29452_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-12-084138"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-01-02",
+    "acceptance_datetime": "2013-01-02T22:22:55.000Z",
+    "report_date": "2013-01-01",
+    "accession": "0001104659-13-000154",
+    "primary_document": "a13-1509_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02; accession=0001104659-13-000154"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-01-30",
+    "acceptance_datetime": "2013-01-30T01:44:52.000Z",
+    "report_date": "2013-01-29",
+    "accession": "0001104659-13-005725",
+    "primary_document": "a13-3962_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-13-005725"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-02-13",
+    "acceptance_datetime": "2013-02-13T01:33:25.000Z",
+    "report_date": "2013-02-12",
+    "accession": "0001104659-13-009838",
+    "primary_document": "a13-5017_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02; accession=0001104659-13-009838"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-02-28",
+    "acceptance_datetime": "2013-02-28T14:00:59.000Z",
+    "report_date": "2013-02-28",
+    "accession": "0001104659-13-015584",
+    "primary_document": "a13-6268_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-015584"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2013-04-08",
+    "acceptance_datetime": "2013-04-08T18:27:16.000Z",
+    "report_date": "2013-04-08",
+    "accession": "0001104659-13-027612",
+    "primary_document": "a13-9726_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-13-027612"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-05-07",
+    "acceptance_datetime": "2013-05-07T20:16:26.000Z",
+    "report_date": "2013-05-07",
+    "accession": "0001104659-13-038246",
+    "primary_document": "a13-11503_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-038246"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-05-09",
+    "acceptance_datetime": "2013-05-09T20:29:45.000Z",
+    "report_date": "2013-05-08",
+    "accession": "0001104659-13-039615",
+    "primary_document": "a13-11504_38k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001104659-13-039615"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2013-06-27",
+    "acceptance_datetime": "2013-06-26T23:47:08.000Z",
+    "report_date": "2013-06-25",
+    "accession": "0001104659-13-051673",
+    "primary_document": "a13-15728_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001104659-13-051673"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,2.03",
+    "filing_date": "2013-06-28",
+    "acceptance_datetime": "2013-06-28T20:22:20.000Z",
+    "report_date": "2008-11-15",
+    "accession": "0001104659-13-052324",
+    "primary_document": "a13-15827_18ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03; accession=0001104659-13-052324"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-08-06",
+    "acceptance_datetime": "2013-08-06T13:00:24.000Z",
+    "report_date": "2013-08-06",
+    "accession": "0001104659-13-060188",
+    "primary_document": "a13-18013_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-060188"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2013-09-09",
+    "acceptance_datetime": "2013-09-09T20:31:26.000Z",
+    "report_date": "2013-09-09",
+    "accession": "0001104659-13-068751",
+    "primary_document": "a13-20421_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001104659-13-068751"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-11-05",
+    "acceptance_datetime": "2013-11-05T13:45:48.000Z",
+    "report_date": "2013-11-05",
+    "accession": "0001104659-13-080859",
+    "primary_document": "a13-23554_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-13-080859"
+  },
+  {
+    "form": "8-K",
+    "items": "5.05,9.01",
+    "filing_date": "2013-12-09",
+    "acceptance_datetime": "2013-12-09T21:33:10.000Z",
+    "report_date": "2013-12-09",
+    "accession": "0001104659-13-089111",
+    "primary_document": "a13-25938_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.05,9.01; accession=0001104659-13-089111"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2014-02-04",
+    "acceptance_datetime": "2014-02-04T02:05:16.000Z",
+    "report_date": "2014-02-03",
+    "accession": "0001104659-14-006115",
+    "primary_document": "a14-4970_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001104659-14-006115"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-02-28",
+    "acceptance_datetime": "2014-02-28T14:00:47.000Z",
+    "report_date": "2014-02-28",
+    "accession": "0001104659-14-014534",
+    "primary_document": "a14-6961_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001104659-14-014534"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-05-06",
+    "acceptance_datetime": "2014-05-06T13:00:16.000Z",
+    "report_date": "2014-05-06",
+    "accession": "0001140361-14-018898",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-14-018898"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2014-06-13",
+    "acceptance_datetime": "2014-06-12T22:46:25.000Z",
+    "report_date": "2014-06-10",
+    "accession": "0001140361-14-025435",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.07; accession=0001140361-14-025435"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-08-04",
+    "acceptance_datetime": "2014-08-04T12:45:15.000Z",
+    "report_date": "2014-08-04",
+    "accession": "0001140361-14-030474",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-14-030474"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2014-08-21",
+    "acceptance_datetime": "2014-08-21T20:16:22.000Z",
+    "report_date": "2014-08-21",
+    "accession": "0001140361-14-033787",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01; accession=0001140361-14-033787"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-11-07",
+    "acceptance_datetime": "2014-11-07T13:45:23.000Z",
+    "report_date": "2014-11-07",
+    "accession": "0001140361-14-040603",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-14-040603"
+  },
+  {
+    "form": "8-K",
+    "items": "2.03,3.02,8.01,9.01",
+    "filing_date": "2014-11-13",
+    "acceptance_datetime": "2014-11-13T21:31:56.000Z",
+    "report_date": "2014-11-10",
+    "accession": "0001104659-14-080422",
+    "primary_document": "a14-23874_28k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.03,3.02,8.01,9.01; accession=0001104659-14-080422"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,9.01",
+    "filing_date": "2014-11-21",
+    "acceptance_datetime": "2014-11-21T21:36:44.000Z",
+    "report_date": "2014-11-17",
+    "accession": "0001104659-14-082750",
+    "primary_document": "a14-24885_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03,3.02,9.01; accession=0001104659-14-082750"
+  },
+  {
+    "form": "8-K",
+    "items": "2.03,3.02,9.01",
+    "filing_date": "2014-12-03",
+    "acceptance_datetime": "2014-12-03T21:15:28.000Z",
+    "report_date": "2014-11-26",
+    "accession": "0001104659-14-084658",
+    "primary_document": "a14-25454_18k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.03,3.02,9.01; accession=0001104659-14-084658"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2015-01-06",
+    "acceptance_datetime": "2015-01-05T23:20:11.000Z",
+    "report_date": "2015-01-05",
+    "accession": "0001140361-15-000564",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-15-000564"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-01-08",
+    "acceptance_datetime": "2015-01-08T17:00:54.000Z",
+    "report_date": "2015-01-08",
+    "accession": "0001140361-15-001078",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-15-001078"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-02-27",
+    "acceptance_datetime": "2015-02-27T14:50:05.000Z",
+    "report_date": "2015-02-27",
+    "accession": "0001140361-15-009227",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-15-009227"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-05-04",
+    "acceptance_datetime": "2015-05-04T13:25:26.000Z",
+    "report_date": "2015-05-04",
+    "accession": "0001140361-15-017275",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-15-017275"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-05-05",
+    "acceptance_datetime": "2015-05-05T14:30:13.000Z",
+    "report_date": "2015-05-05",
+    "accession": "0001140361-15-017550",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-15-017550"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2015-06-19",
+    "acceptance_datetime": "2015-06-19T20:49:27.000Z",
+    "report_date": "2015-06-16",
+    "accession": "0001140361-15-024950",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03; accession=0001140361-15-024950"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.07,9.01",
+    "filing_date": "2015-07-02",
+    "acceptance_datetime": "2015-07-02T21:05:57.000Z",
+    "report_date": "2015-06-30",
+    "accession": "0001140361-15-026595",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.03,5.07,9.01; accession=0001140361-15-026595"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2015-08-03",
+    "acceptance_datetime": "2015-08-03T10:29:08.000Z",
+    "report_date": "2015-08-03",
+    "accession": "0001140361-15-029416",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-15-029416"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-08-04",
+    "acceptance_datetime": "2015-08-04T13:15:11.000Z",
+    "report_date": "2015-08-04",
+    "accession": "0001140361-15-029599",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-15-029599"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-11-09",
+    "acceptance_datetime": "2015-11-09T12:15:07.000Z",
+    "report_date": "2015-11-09",
+    "accession": "0001140361-15-040072",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-15-040072"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2015-12-18",
+    "acceptance_datetime": "2015-12-18T21:15:16.000Z",
+    "report_date": "2015-12-18",
+    "accession": "0001140361-15-045083",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.03,9.01; accession=0001140361-15-045083"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2016-01-05",
+    "acceptance_datetime": "2016-01-05T21:30:14.000Z",
+    "report_date": "2015-12-30",
+    "accession": "0001140361-16-046574",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001140361-16-046574"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2016-01-11",
+    "acceptance_datetime": "2016-01-11T22:29:26.000Z",
+    "report_date": "2016-01-11",
+    "accession": "0001140361-16-047499",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001140361-16-047499"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-25",
+    "acceptance_datetime": "2016-02-25T14:20:21.000Z",
+    "report_date": "2016-02-25",
+    "accession": "0001140361-16-054768",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-16-054768"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-05-04",
+    "acceptance_datetime": "2016-05-04T12:00:40.000Z",
+    "report_date": "2016-05-04",
+    "accession": "0001140361-16-063166",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-16-063166"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2016-06-07",
+    "acceptance_datetime": "2016-06-07T12:30:17.000Z",
+    "report_date": "2016-06-03",
+    "accession": "0001140361-16-068860",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.07; accession=0001140361-16-068860"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-08-03",
+    "acceptance_datetime": "2016-08-02T23:57:22.000Z",
+    "report_date": "2016-08-01",
+    "accession": "0001140361-16-074471",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-16-074471"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-08-09",
+    "acceptance_datetime": "2016-08-09T11:30:22.000Z",
+    "report_date": "2016-08-09",
+    "accession": "0001140361-16-075304",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-16-075304"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2016-09-23",
+    "acceptance_datetime": "2016-09-23T17:46:21.000Z",
+    "report_date": "2016-09-23",
+    "accession": "0001140361-16-080601",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01; accession=0001140361-16-080601"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-11-09",
+    "acceptance_datetime": "2016-11-09T13:00:26.000Z",
+    "report_date": "2016-11-09",
+    "accession": "0001140361-16-085470",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-16-085470"
+  },
+  {
+    "form": "8-K",
+    "items": "2.03,3.02,8.01,9.01",
+    "filing_date": "2016-12-20",
+    "acceptance_datetime": "2016-12-20T22:22:43.000Z",
+    "report_date": "2016-12-20",
+    "accession": "0001140361-16-090404",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.03,3.02,8.01,9.01; accession=0001140361-16-090404"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-01-06",
+    "acceptance_datetime": "2017-01-06T21:45:22.000Z",
+    "report_date": "2017-01-06",
+    "accession": "0001140361-17-000995",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-17-000995"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2017-01-09",
+    "acceptance_datetime": "2017-01-09T21:30:53.000Z",
+    "report_date": "2017-01-06",
+    "accession": "0001140361-17-001212",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0001140361-17-001212"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2017-02-16",
+    "acceptance_datetime": "2017-02-16T01:49:18.000Z",
+    "report_date": "2017-02-13",
+    "accession": "0001140361-17-007861",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-17-007861"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-02-28",
+    "acceptance_datetime": "2017-02-28T14:00:13.000Z",
+    "report_date": "2017-02-28",
+    "accession": "0001140361-17-009525",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-17-009525"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2017-03-27",
+    "acceptance_datetime": "2017-03-27T10:43:58.000Z",
+    "report_date": "2017-03-27",
+    "accession": "0001047469-17-001997",
+    "primary_document": "a2231545z8-k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01; accession=0001047469-17-001997"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2017-04-25",
+    "acceptance_datetime": "2017-04-25T12:28:20.000Z",
+    "report_date": "2017-04-25",
+    "accession": "0001140361-17-016626",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01; accession=0001140361-17-016626"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-05-09",
+    "acceptance_datetime": "2017-05-09T12:00:17.000Z",
+    "report_date": "2017-05-09",
+    "accession": "0001140361-17-018956",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-17-018956"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-05-18",
+    "acceptance_datetime": "2017-05-18T00:49:43.000Z",
+    "report_date": "2017-05-15",
+    "accession": "0001140361-17-021260",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-17-021260"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2017-05-31",
+    "acceptance_datetime": "2017-05-30T22:55:04.000Z",
+    "report_date": "2017-05-24",
+    "accession": "0001140361-17-022924",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.07; accession=0001140361-17-022924"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2017-06-22",
+    "acceptance_datetime": "2017-06-22T20:01:55.000Z",
+    "report_date": "2017-06-19",
+    "accession": "0001140361-17-025834",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01; accession=0001140361-17-025834"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2017-07-21",
+    "acceptance_datetime": "2017-07-21T21:00:55.000Z",
+    "report_date": "2017-07-18",
+    "accession": "0001140361-17-028398",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001140361-17-028398"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-08-08",
+    "acceptance_datetime": "2017-08-08T11:30:12.000Z",
+    "report_date": "2017-08-08",
+    "accession": "0001140361-17-030437",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-17-030437"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-08-11",
+    "acceptance_datetime": "2017-08-11T20:47:42.000Z",
+    "report_date": "2017-08-11",
+    "accession": "0001140361-17-031437",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-17-031437"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-08-24",
+    "acceptance_datetime": "2017-08-24T20:31:08.000Z",
+    "report_date": "2017-08-24",
+    "accession": "0001140361-17-033179",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-17-033179"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-11-02",
+    "acceptance_datetime": "2017-11-02T10:46:45.000Z",
+    "report_date": "2017-11-02",
+    "accession": "0001140361-17-040637",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-17-040637"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-11-07",
+    "acceptance_datetime": "2017-11-07T12:30:19.000Z",
+    "report_date": "2017-11-07",
+    "accession": "0001140361-17-041201",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-17-041201"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-12-18",
+    "acceptance_datetime": "2017-12-16T01:47:39.000Z",
+    "report_date": "2017-12-13",
+    "accession": "0001140361-17-046427",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02; accession=0001140361-17-046427"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-12-20",
+    "acceptance_datetime": "2017-12-19T22:58:44.000Z",
+    "report_date": "2017-12-19",
+    "accession": "0001140361-17-046784",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-17-046784"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-01-19",
+    "acceptance_datetime": "2018-01-19T21:01:31.000Z",
+    "report_date": "2018-01-16",
+    "accession": "0001140361-18-002598",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02; accession=0001140361-18-002598"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-27",
+    "acceptance_datetime": "2018-02-27T11:07:52.000Z",
+    "report_date": "2018-02-27",
+    "accession": "0001140361-18-010269",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-18-010269"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2018-03-16",
+    "acceptance_datetime": "2018-03-16T00:35:33.000Z",
+    "report_date": "2018-03-15",
+    "accession": "0001140361-18-013738",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-18-013738"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2018-04-24",
+    "acceptance_datetime": "2018-04-24T10:16:09.000Z",
+    "report_date": "2018-04-20",
+    "accession": "0001140361-18-019292",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0001140361-18-019292"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "filing_date": "2018-05-04",
+    "acceptance_datetime": "2018-05-04T15:20:14.000Z",
+    "report_date": "2018-05-04",
+    "accession": "0001140361-18-021657",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,8.01,9.01; accession=0001140361-18-021657"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2018-05-31",
+    "acceptance_datetime": "2018-05-30T23:49:12.000Z",
+    "report_date": "2018-05-30",
+    "accession": "0001140361-18-026353",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.07; accession=0001140361-18-026353"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2018-06-20",
+    "acceptance_datetime": "2018-06-20T01:29:08.000Z",
+    "report_date": "2018-06-19",
+    "accession": "0001140361-18-029210",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-18-029210"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-08-07",
+    "acceptance_datetime": "2018-08-07T16:06:44.000Z",
+    "report_date": "2018-08-07",
+    "accession": "0001140361-18-035723",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-18-035723"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-08-27",
+    "acceptance_datetime": "2018-08-27T21:21:05.000Z",
+    "report_date": "2018-08-27",
+    "accession": "0001140361-18-037039",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-18-037039"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2018-09-25",
+    "acceptance_datetime": "2018-09-25T01:25:43.000Z",
+    "report_date": "2018-09-25",
+    "accession": "0001140361-18-038998",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-18-038998"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2018-10-10",
+    "acceptance_datetime": "2018-10-10T18:49:18.000Z",
+    "report_date": "2018-10-10",
+    "accession": "0001140361-18-040367",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001140361-18-040367"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2018-10-19",
+    "acceptance_datetime": "2018-10-19T21:10:24.000Z",
+    "report_date": "2018-10-18",
+    "accession": "0001140361-18-040955",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-18-040955"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-11-06",
+    "acceptance_datetime": "2018-11-06T16:15:38.000Z",
+    "report_date": "2018-11-06",
+    "accession": "0001140361-18-042459",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-18-042459"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2018-12-21",
+    "acceptance_datetime": "2018-12-21T11:05:05.000Z",
+    "report_date": "2018-12-21",
+    "accession": "0001140361-18-045553",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-18-045553"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-27",
+    "acceptance_datetime": "2019-02-27T16:15:17.000Z",
+    "report_date": "2019-02-27",
+    "accession": "0001140361-19-003944",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-19-003944"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2019-03-26",
+    "acceptance_datetime": "2019-03-26T18:49:50.000Z",
+    "report_date": "2019-03-22",
+    "accession": "0001140361-19-005627",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-19-005627"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-09",
+    "acceptance_datetime": "2019-05-09T15:30:19.000Z",
+    "report_date": "2019-05-09",
+    "accession": "0001140361-19-008794",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-19-008794"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2019-06-11",
+    "acceptance_datetime": "2019-06-11T21:16:44.000Z",
+    "report_date": "2019-06-06",
+    "accession": "0001140361-19-010836",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.07; accession=0001140361-19-010836"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2019-06-12",
+    "acceptance_datetime": "2019-06-12T21:25:34.000Z",
+    "report_date": "2019-06-10",
+    "accession": "0001140361-19-010923",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-19-010923"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-08-07",
+    "acceptance_datetime": "2019-08-07T15:15:31.000Z",
+    "report_date": "2019-08-07",
+    "accession": "0001140361-19-014439",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-19-014439"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2019-09-30",
+    "acceptance_datetime": "2019-09-30T21:06:06.000Z",
+    "report_date": "2019-09-27",
+    "accession": "0001140361-19-017576",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.02; accession=0001140361-19-017576"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-11-06",
+    "acceptance_datetime": "2019-11-06T16:15:40.000Z",
+    "report_date": "2019-11-06",
+    "accession": "0001140361-19-019889",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-19-019889"
+  },
+  {
+    "form": "8-K",
+    "items": "2.03,3.02,8.01,9.01",
+    "filing_date": "2019-12-12",
+    "acceptance_datetime": "2019-12-12T12:11:55.000Z",
+    "report_date": "2019-12-11",
+    "accession": "0001140361-19-022393",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.03,3.02,8.01,9.01; accession=0001140361-19-022393"
+  },
+  {
+    "form": "8-K",
+    "items": "2.03,3.02,8.01",
+    "filing_date": "2019-12-13",
+    "acceptance_datetime": "2019-12-13T12:00:53.000Z",
+    "report_date": "2019-12-11",
+    "accession": "0001140361-19-022481",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.03,3.02,8.01; accession=0001140361-19-022481"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,9.01",
+    "filing_date": "2019-12-23",
+    "acceptance_datetime": "2019-12-20T23:35:12.000Z",
+    "report_date": "2019-12-19",
+    "accession": "0001140361-19-023019",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03,3.02,9.01; accession=0001140361-19-023019"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2020-01-10",
+    "acceptance_datetime": "2020-01-10T22:00:36.000Z",
+    "report_date": "2020-01-09",
+    "accession": "0001140361-20-000641",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001140361-20-000641"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2020-01-17",
+    "acceptance_datetime": "2020-01-17T22:00:36.000Z",
+    "report_date": "2020-01-15",
+    "accession": "0001140361-20-001081",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001140361-20-001081"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-02-26",
+    "acceptance_datetime": "2020-02-26T16:15:53.000Z",
+    "report_date": "2020-02-26",
+    "accession": "0001140361-20-004102",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-20-004102"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-05-06",
+    "acceptance_datetime": "2020-05-06T15:15:38.000Z",
+    "report_date": "2020-05-06",
+    "accession": "0001140361-20-010790",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-20-010790"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2020-06-10",
+    "acceptance_datetime": "2020-06-09T23:11:32.000Z",
+    "report_date": "2020-06-04",
+    "accession": "0001140361-20-013453",
+    "primary_document": "form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.07,9.01; accession=0001140361-20-013453"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-08-05",
+    "acceptance_datetime": "2020-08-05T15:15:39.000Z",
+    "report_date": "2020-08-05",
+    "accession": "0001140361-20-017532",
+    "primary_document": "brhc10014107_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-20-017532"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2020-08-31",
+    "acceptance_datetime": "2020-08-31T11:05:04.000Z",
+    "report_date": "2020-08-30",
+    "accession": "0001193125-20-235408",
+    "primary_document": "d75253d8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-20-235408"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,8.01,9.01",
+    "filing_date": "2020-10-13",
+    "acceptance_datetime": "2020-10-13T12:43:31.000Z",
+    "report_date": "2020-10-10",
+    "accession": "0001193125-20-268017",
+    "primary_document": "d23018d8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.01,8.01,9.01; accession=0001193125-20-268017"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-11-04",
+    "acceptance_datetime": "2020-11-04T16:15:46.000Z",
+    "report_date": "2020-11-04",
+    "accession": "0001140361-20-024494",
+    "primary_document": "brhc10016584_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-20-024494"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2020-12-09",
+    "acceptance_datetime": "2020-12-09T11:13:37.000Z",
+    "report_date": "2020-12-08",
+    "accession": "0001140361-20-027746",
+    "primary_document": "brhc10017778_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-20-027746"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2020-12-18",
+    "acceptance_datetime": "2020-12-18T02:21:11.000Z",
+    "report_date": "2020-12-17",
+    "accession": "0001140361-20-028770",
+    "primary_document": "brhc10018098_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001140361-20-028770"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-24",
+    "acceptance_datetime": "2021-02-24T13:45:24.000Z",
+    "report_date": "2021-02-24",
+    "accession": "0001140361-21-005959",
+    "primary_document": "brhc10020770_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-21-005959"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-03-23",
+    "acceptance_datetime": "2021-03-22T23:40:05.000Z",
+    "report_date": "2021-03-22",
+    "accession": "0001140361-21-009508",
+    "primary_document": "brhc10022120_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-21-009508"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.05,9.01",
+    "filing_date": "2021-03-29",
+    "acceptance_datetime": "2021-03-29T14:23:28.000Z",
+    "report_date": "2021-03-26",
+    "accession": "0001140361-21-010402",
+    "primary_document": "brhc10022399_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.03,5.05,9.01; accession=0001140361-21-010402"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05",
+    "filing_date": "2021-04-06",
+    "acceptance_datetime": "2021-04-06T11:00:55.000Z",
+    "report_date": "2021-04-06",
+    "accession": "0001140361-21-011725",
+    "primary_document": "brhc10022825_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.05; accession=0001140361-21-011725"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,8.01,9.01",
+    "filing_date": "2021-04-13",
+    "acceptance_datetime": "2021-04-13T01:13:33.000Z",
+    "report_date": "2021-04-06",
+    "accession": "0001193125-21-113586",
+    "primary_document": "d158901d8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03,3.02,8.01,9.01; accession=0001193125-21-113586"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-05-05",
+    "acceptance_datetime": "2021-05-05T15:16:02.000Z",
+    "report_date": "2021-05-05",
+    "accession": "0001140361-21-015877",
+    "primary_document": "brhc10024102_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-21-015877"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,9.01",
+    "filing_date": "2021-06-04",
+    "acceptance_datetime": "2021-06-04T20:43:51.000Z",
+    "report_date": "2021-06-02",
+    "accession": "0001140361-21-019925",
+    "primary_document": "brhc10025504_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,5.07,9.01; accession=0001140361-21-019925"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-08-04",
+    "acceptance_datetime": "2021-08-04T15:15:39.000Z",
+    "report_date": "2021-08-04",
+    "accession": "0001140361-21-026829",
+    "primary_document": "brhc10027562_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-21-026829"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-10-18",
+    "acceptance_datetime": "2021-10-18T18:31:14.000Z",
+    "report_date": "2021-10-17",
+    "accession": "0001140361-21-034722",
+    "primary_document": "brhc10029896_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-21-034722"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-11-03",
+    "acceptance_datetime": "2021-11-03T15:15:24.000Z",
+    "report_date": "2021-11-03",
+    "accession": "0001140361-21-036328",
+    "primary_document": "brhc10030336_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-21-036328"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2021-11-24",
+    "acceptance_datetime": "2021-11-24T14:29:14.000Z",
+    "report_date": "2021-11-24",
+    "accession": "0001140361-21-039298",
+    "primary_document": "brhc10031197_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-21-039298"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-11-26",
+    "acceptance_datetime": "2021-11-26T21:05:34.000Z",
+    "report_date": "2021-11-26",
+    "accession": "0001140361-21-039510",
+    "primary_document": "brhc10031117_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02; accession=0001140361-21-039510"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2021-12-07",
+    "acceptance_datetime": "2021-12-07T11:02:45.000Z",
+    "report_date": "2021-12-06",
+    "accession": "0001140361-21-040536",
+    "primary_document": "brhc10031559_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-21-040536"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,9.01",
+    "filing_date": "2022-01-31",
+    "acceptance_datetime": "2022-01-31T12:32:53.000Z",
+    "report_date": "2022-01-24",
+    "accession": "0001140361-22-003182",
+    "primary_document": "brhc10033283_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.02,9.01; accession=0001140361-22-003182"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-02-24",
+    "acceptance_datetime": "2022-02-24T16:15:29.000Z",
+    "report_date": "2022-02-24",
+    "accession": "0001140361-22-006515",
+    "primary_document": "brhc10034388_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-22-006515"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2022-03-21",
+    "acceptance_datetime": "2022-03-18T22:03:51.000Z",
+    "report_date": "2022-03-17",
+    "accession": "0001140361-22-010251",
+    "primary_document": "brhc10035425_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-22-010251"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-05-04",
+    "acceptance_datetime": "2022-05-04T15:15:54.000Z",
+    "report_date": "2022-05-04",
+    "accession": "0001140361-22-017616",
+    "primary_document": "brhc10037176_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-22-017616"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2022-06-06",
+    "acceptance_datetime": "2022-06-06T20:00:06.000Z",
+    "report_date": "2022-06-02",
+    "accession": "0001140361-22-022009",
+    "primary_document": "brhc10038514_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.07,9.01; accession=0001140361-22-022009"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-06-21",
+    "acceptance_datetime": "2022-06-21T10:03:49.000Z",
+    "report_date": "2022-06-21",
+    "accession": "0001140361-22-023541",
+    "primary_document": "brhc10038943_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-22-023541"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2022-07-11",
+    "acceptance_datetime": "2022-07-11T14:14:22.000Z",
+    "report_date": "2022-07-11",
+    "accession": "0001140361-22-025669",
+    "primary_document": "brhc10039557_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-22-025669"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2022-07-18",
+    "acceptance_datetime": "2022-07-16T00:16:36.000Z",
+    "report_date": "2022-07-15",
+    "accession": "0001140361-22-026165",
+    "primary_document": "brhc10039716_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02; accession=0001140361-22-026165"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-07-19",
+    "acceptance_datetime": "2022-07-19T10:02:08.000Z",
+    "report_date": "2022-07-18",
+    "accession": "0001140361-22-026294",
+    "primary_document": "brhc10039775_form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-22-026294"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01,9.01",
+    "filing_date": "2022-07-28",
+    "acceptance_datetime": "2022-07-28T10:02:27.000Z",
+    "report_date": "2022-07-22",
+    "accession": "0001140361-22-027187",
+    "primary_document": "brhc10040095_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=3.01,9.01; accession=0001140361-22-027187"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-08-09",
+    "acceptance_datetime": "2022-08-09T15:15:37.000Z",
+    "report_date": "2022-08-09",
+    "accession": "0001140361-22-028849",
+    "primary_document": "brhc10040582_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-22-028849"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2022-10-12",
+    "acceptance_datetime": "2022-10-12T11:15:30.000Z",
+    "report_date": "2022-10-06",
+    "accession": "0001140361-22-036895",
+    "primary_document": "brhc10042856_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01; accession=0001140361-22-036895"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.01,2.03",
+    "filing_date": "2022-10-24",
+    "acceptance_datetime": "2022-10-24T14:00:19.000Z",
+    "report_date": "2022-10-20",
+    "accession": "0001140361-22-038198",
+    "primary_document": "brhc10043182_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.01,2.03; accession=0001140361-22-038198"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,9.01",
+    "filing_date": "2022-11-04",
+    "acceptance_datetime": "2022-11-04T11:05:23.000Z",
+    "report_date": "2022-10-31",
+    "accession": "0001140361-22-039934",
+    "primary_document": "brhc10043749_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.02,9.01; accession=0001140361-22-039934"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-11-09",
+    "acceptance_datetime": "2022-11-09T16:15:21.000Z",
+    "report_date": "2022-11-09",
+    "accession": "0001140361-22-040624",
+    "primary_document": "brhc10043925_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-22-040624"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,9.01",
+    "filing_date": "2022-11-14",
+    "acceptance_datetime": "2022-11-14T11:10:56.000Z",
+    "report_date": "2022-11-10",
+    "accession": "0001140361-22-041132",
+    "primary_document": "brhc10044032_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.02,9.01; accession=0001140361-22-041132"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2023-01-09",
+    "acceptance_datetime": "2023-01-09T14:10:22.000Z",
+    "report_date": "2023-01-08",
+    "accession": "0001140361-23-000929",
+    "primary_document": "brhc10046438_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-23-000929"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-02-22",
+    "acceptance_datetime": "2023-02-22T16:15:35.000Z",
+    "report_date": "2023-02-22",
+    "accession": "0001140361-23-007944",
+    "primary_document": "brhc10048570_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-23-007944"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-03-27",
+    "acceptance_datetime": "2023-03-27T10:01:29.000Z",
+    "report_date": "2023-03-27",
+    "accession": "0001140361-23-013852",
+    "primary_document": "brhc10050366_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-23-013852"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-04-24",
+    "acceptance_datetime": "2023-04-24T11:00:28.000Z",
+    "report_date": "2023-04-24",
+    "accession": "0001140361-23-019757",
+    "primary_document": "brhc20051808_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-23-019757"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-04-26",
+    "acceptance_datetime": "2023-04-26T00:40:57.000Z",
+    "report_date": "2023-04-25",
+    "accession": "0001140361-23-020335",
+    "primary_document": "brhc20051944_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-23-020335"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-03",
+    "acceptance_datetime": "2023-05-03T15:15:32.000Z",
+    "report_date": "2023-05-03",
+    "accession": "0001140361-23-022621",
+    "primary_document": "brhc20052344_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-23-022621"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2023-06-05",
+    "acceptance_datetime": "2023-06-05T14:56:53.000Z",
+    "report_date": "2023-06-01",
+    "accession": "0001140361-23-028261",
+    "primary_document": "brhc20054000_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.07,9.01; accession=0001140361-23-028261"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-06-06",
+    "acceptance_datetime": "2023-06-06T20:12:01.000Z",
+    "report_date": "2023-06-06",
+    "accession": "0001193125-23-161613",
+    "primary_document": "d501696d8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-23-161613"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,8.01,9.01",
+    "filing_date": "2023-06-12",
+    "acceptance_datetime": "2023-06-12T20:03:53.000Z",
+    "report_date": "2023-06-08",
+    "accession": "0001193125-23-165273",
+    "primary_document": "d511748d8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03,3.02,8.01,9.01; accession=0001193125-23-165273"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-07-10",
+    "acceptance_datetime": "2023-07-10T11:00:20.000Z",
+    "report_date": "2023-07-10",
+    "accession": "0001140361-23-033840",
+    "primary_document": "brhc20055702_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-23-033840"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2023-08-03",
+    "acceptance_datetime": "2023-08-03T20:30:27.000Z",
+    "report_date": "2023-08-02",
+    "accession": "0001140361-23-037887",
+    "primary_document": "brhc20056974_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-23-037887"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2023-08-04",
+    "acceptance_datetime": "2023-08-04T20:30:27.000Z",
+    "report_date": "2023-08-01",
+    "accession": "0001140361-23-038087",
+    "primary_document": "brhc20056999_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.02; accession=0001140361-23-038087"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-08-09",
+    "acceptance_datetime": "2023-08-09T15:15:26.000Z",
+    "report_date": "2023-08-09",
+    "accession": "0001140361-23-038715",
+    "primary_document": "brhc20057227_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-23-038715"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2023-08-22",
+    "acceptance_datetime": "2023-08-21T23:05:32.000Z",
+    "report_date": "2023-08-21",
+    "accession": "0001140361-23-040746",
+    "primary_document": "brhc20057833_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01; accession=0001140361-23-040746"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2023-08-23",
+    "acceptance_datetime": "2023-08-23T21:14:52.000Z",
+    "report_date": "2023-08-21",
+    "accession": "0001140361-23-041038",
+    "primary_document": "brhc20057911_form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01; accession=0001140361-23-041038"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-09-26",
+    "acceptance_datetime": "2023-09-26T11:05:21.000Z",
+    "report_date": "2023-09-26",
+    "accession": "0001140361-23-045170",
+    "primary_document": "ef20011263_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-23-045170"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2023-09-27",
+    "acceptance_datetime": "2023-09-27T11:05:19.000Z",
+    "report_date": "2023-09-27",
+    "accession": "0001140361-23-045401",
+    "primary_document": "ef20011349_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-23-045401"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-11-02",
+    "acceptance_datetime": "2023-11-02T15:15:38.000Z",
+    "report_date": "2023-11-02",
+    "accession": "0001140361-23-051047",
+    "primary_document": "ef20013902_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-23-051047"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2023-12-14",
+    "acceptance_datetime": "2023-12-14T21:10:28.000Z",
+    "report_date": "2023-12-14",
+    "accession": "0001140361-23-057644",
+    "primary_document": "ef20016672_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-23-057644"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2023-12-18",
+    "acceptance_datetime": "2023-12-18T21:11:25.000Z",
+    "report_date": "2023-12-18",
+    "accession": "0001140361-23-058152",
+    "primary_document": "ef20016866_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-23-058152"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-12-22",
+    "acceptance_datetime": "2023-12-22T01:27:19.000Z",
+    "report_date": "2023-12-21",
+    "accession": "0001140361-23-058974",
+    "primary_document": "ef20017247_form8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-23-058974"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-01-22",
+    "acceptance_datetime": "2024-01-22T12:10:32.000Z",
+    "report_date": "2024-01-22",
+    "accession": "0001140361-24-002995",
+    "primary_document": "ef20019323_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-24-002995"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-21",
+    "acceptance_datetime": "2024-02-21T16:17:25.000Z",
+    "report_date": "2024-02-21",
+    "accession": "0001140361-24-008700",
+    "primary_document": "ef20022046_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-24-008700"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2024-02-29",
+    "acceptance_datetime": "2024-02-29T14:10:25.000Z",
+    "report_date": "2024-02-28",
+    "accession": "0001140361-24-010288",
+    "primary_document": "ef20022767_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0001140361-24-010288"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-04-08",
+    "acceptance_datetime": "2024-04-08T10:04:00.000Z",
+    "report_date": "2024-04-07",
+    "accession": "0001140361-24-018449",
+    "primary_document": "ef20026226_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-24-018449"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-05-07",
+    "acceptance_datetime": "2024-05-07T15:15:41.000Z",
+    "report_date": "2024-05-07",
+    "accession": "0001140361-24-024648",
+    "primary_document": "ef20028585_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-24-024648"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-05-31",
+    "acceptance_datetime": "2024-05-31T11:15:31.000Z",
+    "report_date": "2024-05-31",
+    "accession": "0001140361-24-028247",
+    "primary_document": "ef20030319_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-24-028247"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2024-06-10",
+    "acceptance_datetime": "2024-06-10T20:33:55.000Z",
+    "report_date": "2024-06-06",
+    "accession": "0001140361-24-029588",
+    "primary_document": "ef20030961_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.07,9.01; accession=0001140361-24-029588"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2024-06-18",
+    "acceptance_datetime": "2024-06-18T13:29:02.000Z",
+    "report_date": "2024-06-18",
+    "accession": "0001140361-24-030447",
+    "primary_document": "ef20031301_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-24-030447"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-08-01",
+    "acceptance_datetime": "2024-08-01T15:15:31.000Z",
+    "report_date": "2024-08-01",
+    "accession": "0001140361-24-035233",
+    "primary_document": "ef20033414_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-24-035233"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2024-09-09",
+    "acceptance_datetime": "2024-09-09T20:33:00.000Z",
+    "report_date": "2024-09-09",
+    "accession": "0001193125-24-215939",
+    "primary_document": "d881331d8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01; accession=0001193125-24-215939"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-09-12",
+    "acceptance_datetime": "2024-09-11T22:02:54.000Z",
+    "report_date": "2024-09-09",
+    "accession": "0001193125-24-217333",
+    "primary_document": "d865048d8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-24-217333"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-11-06",
+    "acceptance_datetime": "2024-11-06T16:15:52.000Z",
+    "report_date": "2024-11-06",
+    "accession": "0001140361-24-045370",
+    "primary_document": "ef20038192_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-24-045370"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2024-12-20",
+    "acceptance_datetime": "2024-12-20T19:28:21.000Z",
+    "report_date": "2024-12-19",
+    "accession": "0001140361-24-050057",
+    "primary_document": "ef20040455_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-24-050057"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-02-19",
+    "acceptance_datetime": "2025-02-19T16:15:25.000Z",
+    "report_date": "2025-02-19",
+    "accession": "0001140361-25-005080",
+    "primary_document": "ef20043828_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-25-005080"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2025-03-12",
+    "acceptance_datetime": "2025-03-12T00:38:50.000Z",
+    "report_date": "2025-03-11",
+    "accession": "0001140361-25-008178",
+    "primary_document": "ef20045255_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-25-008178"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-04-30",
+    "acceptance_datetime": "2025-04-30T15:15:21.000Z",
+    "report_date": "2025-04-30",
+    "accession": "0001140361-25-016562",
+    "primary_document": "ef20048172_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-25-016562"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-05-19",
+    "acceptance_datetime": "2025-05-19T11:18:21.000Z",
+    "report_date": "2025-05-19",
+    "accession": "0001140361-25-019620",
+    "primary_document": "ef20049265_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-25-019620"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2025-06-10",
+    "acceptance_datetime": "2025-06-10T10:02:16.000Z",
+    "report_date": "2025-06-05",
+    "accession": "0001140361-25-022001",
+    "primary_document": "ef20050437_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.07,9.01; accession=0001140361-25-022001"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2025-06-12",
+    "acceptance_datetime": "2025-06-12T13:00:44.000Z",
+    "report_date": "2025-06-12",
+    "accession": "0001140361-25-022267",
+    "primary_document": "ef20050532_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,9.01; accession=0001140361-25-022267"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-07-30",
+    "acceptance_datetime": "2025-07-30T15:16:12.000Z",
+    "report_date": "2025-07-30",
+    "accession": "0001140361-25-027949",
+    "primary_document": "ef20052929_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-25-027949"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2025-08-21",
+    "acceptance_datetime": "2025-08-21T18:01:34.000Z",
+    "report_date": "2025-08-21",
+    "accession": "0001140361-25-032176",
+    "primary_document": "ef20054334_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-25-032176"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2025-09-02",
+    "acceptance_datetime": "2025-09-02T11:05:42.000Z",
+    "report_date": "2025-09-02",
+    "accession": "0001140361-25-033541",
+    "primary_document": "ef20054942_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-25-033541"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2025-09-22",
+    "acceptance_datetime": "2025-09-22T11:05:51.000Z",
+    "report_date": "2025-09-22",
+    "accession": "0001140361-25-035634",
+    "primary_document": "ef20055880_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-25-035634"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-10-29",
+    "acceptance_datetime": "2025-10-29T11:06:01.000Z",
+    "report_date": "2025-10-29",
+    "accession": "0001140361-25-039650",
+    "primary_document": "ef20057869_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-25-039650"
+  },
+  {
+    "form": "8-K/A",
+    "items": "1.01,9.01",
+    "filing_date": "2025-11-03",
+    "acceptance_datetime": "2025-11-03T22:17:44.000Z",
+    "report_date": "2025-10-28",
+    "accession": "0001140361-25-040220",
+    "primary_document": "ef20058178_8ka.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,9.01; accession=0001140361-25-040220"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2025-11-10",
+    "acceptance_datetime": "2025-11-10T11:04:26.000Z",
+    "report_date": "2025-11-08",
+    "accession": "0001140361-25-041225",
+    "primary_document": "ef20058520_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-25-041225"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,8.01,9.01",
+    "filing_date": "2025-11-17",
+    "acceptance_datetime": "2025-11-17T21:06:20.000Z",
+    "report_date": "2025-11-11",
+    "accession": "0001193125-25-284609",
+    "primary_document": "d31230d8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=1.01,2.03,3.02,8.01,9.01; accession=0001193125-25-284609"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-01-07",
+    "acceptance_datetime": "2026-01-07T11:02:27.000Z",
+    "report_date": "2026-01-07",
+    "accession": "0001140361-26-000435",
+    "primary_document": "ef20062477_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-26-000435"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-01-12",
+    "acceptance_datetime": "2026-01-12T12:00:46.000Z",
+    "report_date": "2026-01-12",
+    "accession": "0001140361-26-000893",
+    "primary_document": "ef20062670_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-26-000893"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-02-25",
+    "acceptance_datetime": "2026-02-25T12:00:59.000Z",
+    "report_date": "2026-02-25",
+    "accession": "0001140361-26-006718",
+    "primary_document": "ef20066495_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-26-006718"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2026-03-09",
+    "acceptance_datetime": "2026-03-09T11:00:45.000Z",
+    "report_date": "2026-03-03",
+    "accession": "0001140361-26-008340",
+    "primary_document": "ef20067398_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001140361-26-008340"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-04-21",
+    "acceptance_datetime": "2026-04-21T11:00:40.000Z",
+    "report_date": "2026-04-21",
+    "accession": "0001140361-26-015801",
+    "primary_document": "ef20071051_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-26-015801"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-04-29",
+    "acceptance_datetime": "2026-04-29T11:00:32.000Z",
+    "report_date": "2026-04-29",
+    "accession": "0001140361-26-017637",
+    "primary_document": "ef20071749_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-26-017637"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-05-28",
+    "acceptance_datetime": "2026-05-28T16:41:22.000Z",
+    "report_date": "2026-05-28",
+    "accession": "0001140361-26-023093",
+    "primary_document": "ef20075060_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-26-023093"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07,7.01,9.01",
+    "filing_date": "2026-06-08",
+    "acceptance_datetime": "2026-06-08T16:49:43.000Z",
+    "report_date": "2026-06-04",
+    "accession": "0001140361-26-024407",
+    "primary_document": "ef20075669_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=5.02,5.07,7.01,9.01; accession=0001140361-26-024407"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2026-06-12",
+    "acceptance_datetime": "2026-06-12T18:20:32.000Z",
+    "report_date": "2026-06-12",
+    "accession": "0001140361-26-025050",
+    "primary_document": "ef20076110_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=8.01,9.01; accession=0001140361-26-025050"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-06-24",
+    "acceptance_datetime": "2026-06-24T19:48:37.000Z",
+    "report_date": "2026-06-24",
+    "accession": "0001140361-26-026232",
+    "primary_document": "ef20076807_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-26-026232"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-07-09",
+    "acceptance_datetime": "2026-07-09T18:55:22.000Z",
+    "report_date": "2026-07-09",
+    "accession": "0001140361-26-028092",
+    "primary_document": "ef20077664_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-26-028092"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2026-07-10",
+    "acceptance_datetime": "2026-07-10T01:03:42.000Z",
+    "report_date": "2026-07-09",
+    "accession": "0001140361-26-028154",
+    "primary_document": "ef20077783_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,9.01; accession=0001140361-26-028154"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-07-29",
+    "acceptance_datetime": "2026-07-29T11:31:02.000Z",
+    "report_date": "2026-07-29",
+    "accession": "0001140361-26-029960",
+    "primary_document": "ef20078953_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=2.02,9.01; accession=0001140361-26-029960"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-09-04",
+    "acceptance_datetime": "2026-09-04T10:01:59.000Z",
+    "report_date": "2026-09-03",
+    "accession": "0001140361-26-035657",
+    "primary_document": "ef20081649_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-26-035657"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-09-04",
+    "acceptance_datetime": "2026-09-04T21:00:39.000Z",
+    "report_date": "2026-09-04",
+    "accession": "0001140361-26-035802",
+    "primary_document": "ef20081690_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-26-035802"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-09-23",
+    "acceptance_datetime": "2026-09-23T10:03:20.000Z",
+    "report_date": "2026-09-23",
+    "accession": "0001140361-26-037371",
+    "primary_document": "ef20082626_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-26-037371"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-10-21",
+    "acceptance_datetime": "2026-10-21T20:15:17.000Z",
+    "report_date": "2026-10-20",
+    "accession": "0001140361-26-040388",
+    "primary_document": "ef20084189_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-26-040388"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "filing_date": "2026-10-23",
+    "acceptance_datetime": "2026-10-23T17:41:58.000Z",
+    "report_date": "2026-10-23",
+    "accession": "0001140361-26-040631",
+    "primary_document": "ef20084325_8k.htm",
+    "cik": "0000874015",
+    "issuer_name": "IONIS PHARMACEUTICALS INC",
+    "tickers": [
+      "IONS"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0000874015.json",
+    "locator": "8-K items=7.01,8.01,9.01; accession=0001140361-26-040631"
+  }
+]

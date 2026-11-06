@@ -1,0 +1,4514 @@
+[
+  {
+    "form": "8-K",
+    "items": "5,7",
+    "filing_date": "2004-07-02",
+    "acceptance_datetime": "2004-07-02T15:00:15.000Z",
+    "report_date": "2004-06-30",
+    "accession": "0000950135-04-003393",
+    "primary_document": "b51050ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5,7; accession=0000950135-04-003393"
+  },
+  {
+    "form": "8-K",
+    "items": "12",
+    "filing_date": "2004-08-04",
+    "acceptance_datetime": "2004-08-04T20:15:23.000Z",
+    "report_date": "2004-08-04",
+    "accession": "0000950135-04-003783",
+    "primary_document": "b51418ale8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=12; accession=0000950135-04-003783"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2004-10-04",
+    "acceptance_datetime": "2004-10-04T21:21:56.000Z",
+    "report_date": "2004-09-29",
+    "accession": "0000950135-04-004674",
+    "primary_document": "b51969ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950135-04-004674"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2004-11-04",
+    "acceptance_datetime": "2004-11-04T21:20:46.000Z",
+    "report_date": "2004-11-03",
+    "accession": "0000950135-04-005136",
+    "primary_document": "b52361ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950135-04-005136"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2004-11-10",
+    "acceptance_datetime": "2004-11-10T21:16:40.000Z",
+    "report_date": "2004-11-10",
+    "accession": "0000950135-04-005272",
+    "primary_document": "b52420ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950135-04-005272"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2004-12-28",
+    "acceptance_datetime": "2004-12-28T13:54:48.000Z",
+    "report_date": "2004-12-21",
+    "accession": "0000950135-04-005903",
+    "primary_document": "b52920ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950135-04-005903"
+  },
+  {
+    "form": "8-K",
+    "items": "3.02",
+    "filing_date": "2005-01-03",
+    "acceptance_datetime": "2005-01-03T21:06:21.000Z",
+    "report_date": "2004-12-31",
+    "accession": "0000950135-05-000010",
+    "primary_document": "b52939ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=3.02; accession=0000950135-05-000010"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02",
+    "filing_date": "2005-02-10",
+    "acceptance_datetime": "2005-02-10T22:19:53.000Z",
+    "report_date": "2005-02-08",
+    "accession": "0000950135-05-000591",
+    "primary_document": "b53501ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,3.02; accession=0000950135-05-000591"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-02-15",
+    "acceptance_datetime": "2005-02-15T13:16:24.000Z",
+    "report_date": "2005-02-15",
+    "accession": "0001157523-05-001455",
+    "primary_document": "a4822652.txt",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-05-001455"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-05-11",
+    "acceptance_datetime": "2005-05-11T20:32:24.000Z",
+    "report_date": "2005-05-11",
+    "accession": "0001157523-05-004623",
+    "primary_document": "a4885936.txt",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-05-004623"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2005-05-17",
+    "acceptance_datetime": "2005-05-17T20:07:14.000Z",
+    "report_date": "2005-05-13",
+    "accession": "0000950135-05-002920",
+    "primary_document": "b55156ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950135-05-002920"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-06-10",
+    "acceptance_datetime": "2005-06-10T20:05:34.000Z",
+    "report_date": "2005-06-08",
+    "accession": "0000950135-05-003243",
+    "primary_document": "b55421ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950135-05-003243"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02",
+    "filing_date": "2005-06-16",
+    "acceptance_datetime": "2005-06-16T12:15:20.000Z",
+    "report_date": "2005-06-14",
+    "accession": "0000950135-05-003341",
+    "primary_document": "b55263ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,3.02; accession=0000950135-05-003341"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2005-06-24",
+    "acceptance_datetime": "2005-06-24T19:00:26.000Z",
+    "report_date": "2005-06-20",
+    "accession": "0000950135-05-003454",
+    "primary_document": "b55656ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950135-05-003454"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,9.01",
+    "filing_date": "2005-07-13",
+    "acceptance_datetime": "2005-07-13T12:00:26.000Z",
+    "report_date": "2005-07-12",
+    "accession": "0000950135-05-003840",
+    "primary_document": "b55850ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,5.02,9.01; accession=0000950135-05-003840"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,5.03,9.01",
+    "filing_date": "2005-07-14",
+    "acceptance_datetime": "2005-07-14T12:57:54.000Z",
+    "report_date": "2005-07-13",
+    "accession": "0000950135-05-003905",
+    "primary_document": "b55856ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,3.03,5.03,9.01; accession=0000950135-05-003905"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-08-03",
+    "acceptance_datetime": "2005-08-03T20:05:32.000Z",
+    "report_date": "2005-08-03",
+    "accession": "0001157523-05-006950",
+    "primary_document": "a4944660.txt",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-05-006950"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2005-09-12",
+    "acceptance_datetime": "2005-09-12T20:11:02.000Z",
+    "report_date": "2005-09-06",
+    "accession": "0000950135-05-005349",
+    "primary_document": "b56756ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0000950135-05-005349"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2005-09-26",
+    "acceptance_datetime": "2005-09-26T20:23:38.000Z",
+    "report_date": "2005-09-21",
+    "accession": "0000950135-05-005539",
+    "primary_document": "b56986ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950135-05-005539"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,9.01",
+    "filing_date": "2005-10-12",
+    "acceptance_datetime": "2005-10-12T20:05:40.000Z",
+    "report_date": "2005-10-12",
+    "accession": "0000950135-05-005732",
+    "primary_document": "b57170ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,3.02,9.01; accession=0000950135-05-005732"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2005-11-09",
+    "acceptance_datetime": "2005-11-09T21:32:34.000Z",
+    "report_date": "2005-11-09",
+    "accession": "0001157523-05-009927",
+    "primary_document": "a5016613.txt",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-05-009927"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02",
+    "filing_date": "2005-12-13",
+    "acceptance_datetime": "2005-12-13T20:13:21.000Z",
+    "report_date": "2005-12-07",
+    "accession": "0000950135-05-006938",
+    "primary_document": "b58136ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,5.02; accession=0000950135-05-006938"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-01-25",
+    "acceptance_datetime": "2006-01-25T14:34:17.000Z",
+    "report_date": "2006-01-24",
+    "accession": "0000950135-06-000301",
+    "primary_document": "b58735ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950135-06-000301"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-02-01",
+    "acceptance_datetime": "2006-02-01T20:12:14.000Z",
+    "report_date": "2006-01-31",
+    "accession": "0000950135-06-000420",
+    "primary_document": "b587078ke8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950135-06-000420"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-02-15",
+    "acceptance_datetime": "2006-02-15T21:25:22.000Z",
+    "report_date": "2006-02-15",
+    "accession": "0001157523-06-001630",
+    "primary_document": "a5081825.txt",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-06-001630"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-02-24",
+    "acceptance_datetime": "2006-02-24T19:11:07.000Z",
+    "report_date": "2006-02-17",
+    "accession": "0000950135-06-001168",
+    "primary_document": "b59385ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950135-06-001168"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "filing_date": "2006-03-17",
+    "acceptance_datetime": "2006-03-17T21:06:04.000Z",
+    "report_date": "2006-03-16",
+    "accession": "0000950135-06-001684",
+    "primary_document": "b59499ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,9.01; accession=0000950135-06-001684"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2006-04-06",
+    "acceptance_datetime": "2006-04-06T21:01:27.000Z",
+    "report_date": "2006-03-31",
+    "accession": "0000950135-06-002202",
+    "primary_document": "b60135ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0000950135-06-002202"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-05-09",
+    "acceptance_datetime": "2006-05-09T20:17:48.000Z",
+    "report_date": "2006-05-09",
+    "accession": "0001157523-06-004903",
+    "primary_document": "a5142133.txt",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-06-004903"
+  },
+  {
+    "form": "8-K",
+    "items": "2.03",
+    "filing_date": "2006-06-23",
+    "acceptance_datetime": "2006-06-23T21:00:32.000Z",
+    "report_date": "2006-06-20",
+    "accession": "0000950135-06-004077",
+    "primary_document": "b61379ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.03; accession=0000950135-06-004077"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02",
+    "filing_date": "2006-07-10",
+    "acceptance_datetime": "2006-07-10T21:01:44.000Z",
+    "report_date": "2006-07-03",
+    "accession": "0000950135-06-004243",
+    "primary_document": "b61529ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,1.02; accession=0000950135-06-004243"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-07-26",
+    "acceptance_datetime": "2006-07-26T12:30:45.000Z",
+    "report_date": "2006-07-26",
+    "accession": "0001157523-06-007322",
+    "primary_document": "a5195630.txt",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-06-007322"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2006-09-18",
+    "acceptance_datetime": "2006-09-18T20:35:38.000Z",
+    "report_date": "2006-09-12",
+    "accession": "0000950135-06-005806",
+    "primary_document": "b62401ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950135-06-005806"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2006-09-26",
+    "acceptance_datetime": "2006-09-26T18:38:28.000Z",
+    "report_date": "2006-09-20",
+    "accession": "0000950135-06-005964",
+    "primary_document": "b62476ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950135-06-005964"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2006-10-27",
+    "acceptance_datetime": "2006-10-27T20:20:06.000Z",
+    "report_date": "2006-10-23",
+    "accession": "0000950135-06-006558",
+    "primary_document": "b62786ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950135-06-006558"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2006-11-02",
+    "acceptance_datetime": "2006-11-02T21:10:38.000Z",
+    "report_date": "2006-11-02",
+    "accession": "0001157523-06-010774",
+    "primary_document": "a5265107.txt",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-06-010774"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2006-12-13",
+    "acceptance_datetime": "2006-12-13T13:48:54.000Z",
+    "report_date": "2006-12-12",
+    "accession": "0000950135-06-007390",
+    "primary_document": "b63409ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950135-06-007390"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,3.02,9.01",
+    "filing_date": "2007-01-12",
+    "acceptance_datetime": "2007-01-12T22:26:47.000Z",
+    "report_date": "2007-01-08",
+    "accession": "0000950135-07-000155",
+    "primary_document": "b63736ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,3.02,9.01; accession=0000950135-07-000155"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-02-07",
+    "acceptance_datetime": "2007-02-07T21:11:11.000Z",
+    "report_date": "2007-02-07",
+    "accession": "0001157523-07-001215",
+    "primary_document": "a5328809.txt",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-07-001215"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-03-27",
+    "acceptance_datetime": "2007-03-27T21:16:12.000Z",
+    "report_date": "2007-03-22",
+    "accession": "0000950135-07-001872",
+    "primary_document": "b64707ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950135-07-001872"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-04-04",
+    "acceptance_datetime": "2007-04-04T20:45:32.000Z",
+    "report_date": "2007-04-02",
+    "accession": "0000950135-07-002065",
+    "primary_document": "b64817ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950135-07-002065"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-04-30",
+    "acceptance_datetime": "2007-04-30T20:18:21.000Z",
+    "report_date": "2007-04-30",
+    "accession": "0000950135-07-002611",
+    "primary_document": "b65277ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950135-07-002611"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-05-09",
+    "acceptance_datetime": "2007-05-09T20:13:19.000Z",
+    "report_date": "2007-05-09",
+    "accession": "0001157523-07-004880",
+    "primary_document": "a5398854.txt",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-07-004880"
+  },
+  {
+    "form": "8-K",
+    "items": "3.01",
+    "filing_date": "2007-06-29",
+    "acceptance_datetime": "2007-06-29T21:12:04.000Z",
+    "report_date": "2007-06-29",
+    "accession": "0000950135-07-004061",
+    "primary_document": "b65900ale8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=3.01; accession=0000950135-07-004061"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02",
+    "filing_date": "2007-07-12",
+    "acceptance_datetime": "2007-07-12T20:31:19.000Z",
+    "report_date": "2007-07-08",
+    "accession": "0000950135-07-004271",
+    "primary_document": "b65991ale8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,3.02; accession=0000950135-07-004271"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2007-08-02",
+    "acceptance_datetime": "2007-08-02T21:08:34.000Z",
+    "report_date": "2007-07-27",
+    "accession": "0000950135-07-004639",
+    "primary_document": "b66348ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950135-07-004639"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-08-09",
+    "acceptance_datetime": "2007-08-09T20:15:19.000Z",
+    "report_date": "2007-08-09",
+    "accession": "0001157523-07-008172",
+    "primary_document": "a5468578.txt",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-07-008172"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2007-09-12",
+    "acceptance_datetime": "2007-09-12T20:21:51.000Z",
+    "report_date": "2007-09-06",
+    "accession": "0000950135-07-005652",
+    "primary_document": "b66860ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950135-07-005652"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02",
+    "filing_date": "2007-09-19",
+    "acceptance_datetime": "2007-09-19T12:35:33.000Z",
+    "report_date": "2007-09-18",
+    "accession": "0000950135-07-005736",
+    "primary_document": "b66915ame8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.02; accession=0000950135-07-005736"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2007-11-01",
+    "acceptance_datetime": "2007-11-01T20:10:14.000Z",
+    "report_date": "2007-11-01",
+    "accession": "0001157523-07-010595",
+    "primary_document": "a5534824.txt",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-07-010595"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2007-12-18",
+    "acceptance_datetime": "2007-12-18T21:30:39.000Z",
+    "report_date": "2007-12-12",
+    "accession": "0000950135-07-007588",
+    "primary_document": "b67809ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950135-07-007588"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-01-11",
+    "acceptance_datetime": "2008-01-11T21:40:59.000Z",
+    "report_date": "2008-01-07",
+    "accession": "0000950135-08-000169",
+    "primary_document": "b68082ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0000950135-08-000169"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2008-01-28",
+    "acceptance_datetime": "2008-01-28T21:30:19.000Z",
+    "report_date": "2008-01-23",
+    "accession": "0000950135-08-000358",
+    "primary_document": "b68323ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0000950135-08-000358"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-02-07",
+    "acceptance_datetime": "2008-02-07T21:10:31.000Z",
+    "report_date": "2008-02-07",
+    "accession": "0001157523-08-001079",
+    "primary_document": "a5605029.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-08-001079"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-02-15",
+    "acceptance_datetime": "2008-02-15T22:11:07.000Z",
+    "report_date": "2008-02-15",
+    "accession": "0000950135-08-001058",
+    "primary_document": "b68620ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950135-08-001058"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2008-03-06",
+    "acceptance_datetime": "2008-03-06T22:21:28.000Z",
+    "report_date": "2008-02-29",
+    "accession": "0000950135-08-001625",
+    "primary_document": "b69098ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0000950135-08-001625"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-03-25",
+    "acceptance_datetime": "2008-03-25T20:30:45.000Z",
+    "report_date": "2008-03-20",
+    "accession": "0000950135-08-001948",
+    "primary_document": "b69337ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950135-08-001948"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,3.02,9.01",
+    "filing_date": "2008-05-08",
+    "acceptance_datetime": "2008-05-08T20:19:55.000Z",
+    "report_date": "2008-05-08",
+    "accession": "0001157523-08-004016",
+    "primary_document": "a5679827.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,3.02,9.01; accession=0001157523-08-004016"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2008-06-02",
+    "acceptance_datetime": "2008-06-02T20:30:16.000Z",
+    "report_date": "2008-05-27",
+    "accession": "0000950135-08-004165",
+    "primary_document": "b70346ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950135-08-004165"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2008-07-17",
+    "acceptance_datetime": "2008-07-17T20:30:27.000Z",
+    "report_date": "2008-07-11",
+    "accession": "0000950135-08-005007",
+    "primary_document": "b71219ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950135-08-005007"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-08-06",
+    "acceptance_datetime": "2008-08-06T20:15:18.000Z",
+    "report_date": "2008-08-06",
+    "accession": "0001157523-08-006476",
+    "primary_document": "a5749865.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-08-006476"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2008-11-05",
+    "acceptance_datetime": "2008-11-05T21:05:18.000Z",
+    "report_date": "2008-11-05",
+    "accession": "0001157523-08-008902",
+    "primary_document": "a5822909.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-08-008902"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2008-12-15",
+    "acceptance_datetime": "2008-12-15T21:05:33.000Z",
+    "report_date": "2008-12-09",
+    "accession": "0000950135-08-008166",
+    "primary_document": "b73231ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950135-08-008166"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2009-01-15",
+    "acceptance_datetime": "2009-01-15T21:05:28.000Z",
+    "report_date": "2009-01-09",
+    "accession": "0000950135-09-000280",
+    "primary_document": "b73701ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950135-09-000280"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-02-06",
+    "acceptance_datetime": "2009-02-06T21:05:30.000Z",
+    "report_date": "2009-02-04",
+    "accession": "0000950135-09-000706",
+    "primary_document": "b73910ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950135-09-000706"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-02-24",
+    "acceptance_datetime": "2009-02-24T21:05:39.000Z",
+    "report_date": "2009-02-24",
+    "accession": "0001157523-09-001542",
+    "primary_document": "a5903390.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-09-001542"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2009-05-05",
+    "acceptance_datetime": "2009-05-05T20:30:37.000Z",
+    "report_date": "2009-04-29",
+    "accession": "0000950135-09-003602",
+    "primary_document": "b75312ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950135-09-003602"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-05-07",
+    "acceptance_datetime": "2009-05-07T20:12:01.000Z",
+    "report_date": "2009-05-07",
+    "accession": "0001157523-09-003613",
+    "primary_document": "a5959539.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-09-003613"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2009-07-02",
+    "acceptance_datetime": "2009-07-02T20:05:35.000Z",
+    "report_date": "2009-06-26",
+    "accession": "0000950123-09-019983",
+    "primary_document": "b76140ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950123-09-019983"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2009-07-17",
+    "acceptance_datetime": "2009-07-17T11:05:24.000Z",
+    "report_date": "2009-07-13",
+    "accession": "0000950123-09-022972",
+    "primary_document": "b76357ape8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950123-09-022972"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2009-08-06",
+    "acceptance_datetime": "2009-08-06T20:06:04.000Z",
+    "report_date": "2009-08-06",
+    "accession": "0001157523-09-005752",
+    "primary_document": "a6024295.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-09-005752"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2009-08-21",
+    "acceptance_datetime": "2009-08-21T20:15:30.000Z",
+    "report_date": "2009-08-21",
+    "accession": "0000950123-09-037195",
+    "primary_document": "b76931e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950123-09-037195"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,5.02,9.01",
+    "filing_date": "2009-11-04",
+    "acceptance_datetime": "2009-11-04T21:08:57.000Z",
+    "report_date": "2009-10-29",
+    "accession": "0001157523-09-007673",
+    "primary_document": "a6091879.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,2.02,5.02,9.01; accession=0001157523-09-007673"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-02-22",
+    "acceptance_datetime": "2010-02-22T21:11:03.000Z",
+    "report_date": "2010-02-17",
+    "accession": "0000950123-10-015144",
+    "primary_document": "b79728e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950123-10-015144"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-02-25",
+    "acceptance_datetime": "2010-02-25T21:06:52.000Z",
+    "report_date": "2010-02-25",
+    "accession": "0001157523-10-001229",
+    "primary_document": "a6193690.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-10-001229"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-05-05",
+    "acceptance_datetime": "2010-05-05T20:07:36.000Z",
+    "report_date": "2010-05-05",
+    "accession": "0001157523-10-002809",
+    "primary_document": "a6278433.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-10-002809"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2010-05-14",
+    "acceptance_datetime": "2010-05-14T20:07:48.000Z",
+    "report_date": "2010-05-11",
+    "accession": "0000950123-10-049662",
+    "primary_document": "b80951e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950123-10-049662"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2010-06-04",
+    "acceptance_datetime": "2010-06-04T20:05:30.000Z",
+    "report_date": "2010-06-02",
+    "accession": "0000950123-10-055983",
+    "primary_document": "b81218e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.07; accession=0000950123-10-055983"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-08-04",
+    "acceptance_datetime": "2010-08-04T20:05:49.000Z",
+    "report_date": "2010-08-04",
+    "accession": "0001157523-10-004718",
+    "primary_document": "a6385453.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-10-004718"
+  },
+  {
+    "form": "8-K",
+    "items": "2.05,5.02,8.01",
+    "filing_date": "2010-09-24",
+    "acceptance_datetime": "2010-09-24T20:47:02.000Z",
+    "report_date": "2010-09-21",
+    "accession": "0000950123-10-088862",
+    "primary_document": "b82784e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.05,5.02,8.01; accession=0000950123-10-088862"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2010-11-03",
+    "acceptance_datetime": "2010-11-03T20:19:42.000Z",
+    "report_date": "2010-11-03",
+    "accession": "0001157523-10-006525",
+    "primary_document": "a6495986.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-10-006525"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2010-11-16",
+    "acceptance_datetime": "2010-11-16T21:05:26.000Z",
+    "report_date": "2010-11-12",
+    "accession": "0000950123-10-106233",
+    "primary_document": "b83505e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0000950123-10-106233"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2010-12-09",
+    "acceptance_datetime": "2010-12-09T13:15:18.000Z",
+    "report_date": "2010-12-08",
+    "accession": "0000950123-10-112231",
+    "primary_document": "b83730e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950123-10-112231"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-02-07",
+    "acceptance_datetime": "2011-02-07T21:05:17.000Z",
+    "report_date": "2011-02-01",
+    "accession": "0000950123-11-009729",
+    "primary_document": "b84756e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950123-11-009729"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-02-17",
+    "acceptance_datetime": "2011-02-17T21:05:27.000Z",
+    "report_date": "2011-02-17",
+    "accession": "0001157523-11-000970",
+    "primary_document": "a6616134.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-11-000970"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-03-03",
+    "acceptance_datetime": "2011-03-03T21:11:20.000Z",
+    "report_date": "2011-02-28",
+    "accession": "0000950123-11-021687",
+    "primary_document": "b85380e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950123-11-021687"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2011-03-15",
+    "acceptance_datetime": "2011-03-15T20:05:30.000Z",
+    "report_date": "2011-03-14",
+    "accession": "0000950123-11-025558",
+    "primary_document": "b85589e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950123-11-025558"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2011-03-17",
+    "acceptance_datetime": "2011-03-17T12:24:06.000Z",
+    "report_date": "2011-03-16",
+    "accession": "0000950123-11-026209",
+    "primary_document": "b85611e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0000950123-11-026209"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2011-03-23",
+    "acceptance_datetime": "2011-03-23T13:00:05.000Z",
+    "report_date": "2011-03-22",
+    "accession": "0000950123-11-027974",
+    "primary_document": "b85664e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0000950123-11-027974"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-03-25",
+    "acceptance_datetime": "2011-03-25T20:05:27.000Z",
+    "report_date": "2011-03-21",
+    "accession": "0000950123-11-029206",
+    "primary_document": "b85679e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950123-11-029206"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2011-04-07",
+    "acceptance_datetime": "2011-04-06T22:51:24.000Z",
+    "report_date": "2011-04-06",
+    "accession": "0000950123-11-033425",
+    "primary_document": "b85928e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0000950123-11-033425"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2011-05-02",
+    "acceptance_datetime": "2011-05-02T20:05:39.000Z",
+    "report_date": "2011-04-30",
+    "accession": "0001157523-11-002552",
+    "primary_document": "a6704727.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001157523-11-002552"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-06-07",
+    "acceptance_datetime": "2011-06-07T21:08:25.000Z",
+    "report_date": "2011-06-02",
+    "accession": "0000950123-11-057306",
+    "primary_document": "b86895e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950123-11-057306"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2011-06-10",
+    "acceptance_datetime": "2011-06-10T21:00:22.000Z",
+    "report_date": "2011-06-09",
+    "accession": "0000950123-11-058365",
+    "primary_document": "b86931e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,5.07; accession=0000950123-11-058365"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2011-06-13",
+    "acceptance_datetime": "2011-06-13T12:30:26.000Z",
+    "report_date": "2011-06-09",
+    "accession": "0000950123-11-058504",
+    "primary_document": "b86932e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0000950123-11-058504"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2011-06-29",
+    "acceptance_datetime": "2011-06-29T12:05:36.000Z",
+    "report_date": "2011-06-28",
+    "accession": "0000950123-11-062604",
+    "primary_document": "b87115e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0000950123-11-062604"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-08-01",
+    "acceptance_datetime": "2011-08-01T20:05:24.000Z",
+    "report_date": "2011-08-01",
+    "accession": "0001157523-11-004500",
+    "primary_document": "a6814373.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-11-004500"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2011-11-01",
+    "acceptance_datetime": "2011-11-01T20:05:55.000Z",
+    "report_date": "2011-11-01",
+    "accession": "0001157523-11-006231",
+    "primary_document": "a50051811.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-11-006231"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2011-11-10",
+    "acceptance_datetime": "2011-11-10T21:30:11.000Z",
+    "report_date": "2011-11-04",
+    "accession": "0000950123-11-097590",
+    "primary_document": "b88926e8vk.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0000950123-11-097590"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-01-09",
+    "acceptance_datetime": "2012-01-09T13:25:39.000Z",
+    "report_date": "2012-01-08",
+    "accession": "0001193125-12-005958",
+    "primary_document": "d279177d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-12-005958"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2012-01-17",
+    "acceptance_datetime": "2012-01-17T14:18:42.000Z",
+    "report_date": "2012-01-17",
+    "accession": "0001193125-12-013012",
+    "primary_document": "d283958d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0001193125-12-013012"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,2.05,9.01",
+    "filing_date": "2012-01-20",
+    "acceptance_datetime": "2012-01-20T12:49:34.000Z",
+    "report_date": "2012-01-19",
+    "accession": "0001193125-12-017751",
+    "primary_document": "d286376d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,2.05,9.01; accession=0001193125-12-017751"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-02-09",
+    "acceptance_datetime": "2012-02-09T21:11:23.000Z",
+    "report_date": "2012-02-09",
+    "accession": "0001157523-12-000640",
+    "primary_document": "a50163686.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-12-000640"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2012-02-15",
+    "acceptance_datetime": "2012-02-15T14:40:02.000Z",
+    "report_date": "2012-02-15",
+    "accession": "0001193125-12-062480",
+    "primary_document": "d301850d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-12-062480"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2012-02-16",
+    "acceptance_datetime": "2012-02-16T11:01:41.000Z",
+    "report_date": "2012-02-15",
+    "accession": "0001193125-12-064027",
+    "primary_document": "d302601d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-12-064027"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "filing_date": "2012-03-07",
+    "acceptance_datetime": "2012-03-07T14:02:16.000Z",
+    "report_date": "2012-03-07",
+    "accession": "0001193125-12-100273",
+    "primary_document": "d312026d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=7.01,9.01; accession=0001193125-12-100273"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2012-03-28",
+    "acceptance_datetime": "2012-03-28T20:05:23.000Z",
+    "report_date": "2012-03-22",
+    "accession": "0001193125-12-137298",
+    "primary_document": "d325565d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-12-137298"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2012-04-23",
+    "acceptance_datetime": "2012-04-23T20:05:52.000Z",
+    "report_date": "2012-04-20",
+    "accession": "0001193125-12-175890",
+    "primary_document": "d338563d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-12-175890"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-05-03",
+    "acceptance_datetime": "2012-05-03T20:33:44.000Z",
+    "report_date": "2012-05-03",
+    "accession": "0001157523-12-002500",
+    "primary_document": "a50264444.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-12-002500"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2012-06-27",
+    "acceptance_datetime": "2012-06-27T12:31:36.000Z",
+    "report_date": "2012-06-21",
+    "accession": "0001193125-12-284655",
+    "primary_document": "d372982d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,5.07; accession=0001193125-12-284655"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-08-06",
+    "acceptance_datetime": "2012-08-06T20:05:24.000Z",
+    "report_date": "2012-08-06",
+    "accession": "0001157523-12-004277",
+    "primary_document": "a50367453.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-12-004277"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2012-08-28",
+    "acceptance_datetime": "2012-08-28T12:06:25.000Z",
+    "report_date": "2012-08-27",
+    "accession": "0001193125-12-370705",
+    "primary_document": "d403306d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0001193125-12-370705"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2012-09-25",
+    "acceptance_datetime": "2012-09-24T22:41:59.000Z",
+    "report_date": "2012-09-20",
+    "accession": "0001193125-12-401893",
+    "primary_document": "d414783d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0001193125-12-401893"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2012-09-26",
+    "acceptance_datetime": "2012-09-26T12:13:24.000Z",
+    "report_date": "2012-09-25",
+    "accession": "0001193125-12-404094",
+    "primary_document": "d415976d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0001193125-12-404094"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2012-10-22",
+    "acceptance_datetime": "2012-10-22T20:45:54.000Z",
+    "report_date": "2012-10-18",
+    "accession": "0001193125-12-430223",
+    "primary_document": "d425929d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0001193125-12-430223"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2012-11-05",
+    "acceptance_datetime": "2012-11-05T21:04:51.000Z",
+    "report_date": "2012-11-05",
+    "accession": "0001157523-12-005749",
+    "primary_document": "a50466036.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-12-005749"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,7.01,9.01",
+    "filing_date": "2012-11-13",
+    "acceptance_datetime": "2012-11-13T13:30:35.000Z",
+    "report_date": "2012-11-12",
+    "accession": "0001193125-12-465787",
+    "primary_document": "d441138d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,1.02,7.01,9.01; accession=0001193125-12-465787"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-01-07",
+    "acceptance_datetime": "2013-01-07T13:21:23.000Z",
+    "report_date": "2013-01-06",
+    "accession": "0001193125-13-004515",
+    "primary_document": "d462784d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-13-004515"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-01-14",
+    "acceptance_datetime": "2013-01-14T21:03:34.000Z",
+    "report_date": "2013-01-14",
+    "accession": "0001193125-13-011884",
+    "primary_document": "d466671d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-011884"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2013-01-16",
+    "acceptance_datetime": "2013-01-16T11:11:02.000Z",
+    "report_date": "2013-01-15",
+    "accession": "0001193125-13-013813",
+    "primary_document": "d468939d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-13-013813"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2013-01-16",
+    "acceptance_datetime": "2013-01-16T22:08:38.000Z",
+    "report_date": "2013-01-16",
+    "accession": "0001193125-13-014840",
+    "primary_document": "d467330d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-13-014840"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2013-02-04",
+    "acceptance_datetime": "2013-02-04T21:05:36.000Z",
+    "report_date": "2013-02-03",
+    "accession": "0001193125-13-036666",
+    "primary_document": "d477376d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0001193125-13-036666"
+  },
+  {
+    "form": "8-K",
+    "items": "1.02,2.02,9.01",
+    "filing_date": "2013-02-07",
+    "acceptance_datetime": "2013-02-07T21:06:26.000Z",
+    "report_date": "2013-02-06",
+    "accession": "0001157523-13-000601",
+    "primary_document": "a50557621.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.02,2.02,9.01; accession=0001157523-13-000601"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2013-02-14",
+    "acceptance_datetime": "2013-02-14T21:45:30.000Z",
+    "report_date": "2013-02-08",
+    "accession": "0001193125-13-060461",
+    "primary_document": "d487564d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-13-060461"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-05-06",
+    "acceptance_datetime": "2013-05-06T20:08:22.000Z",
+    "report_date": "2013-05-06",
+    "accession": "0001157523-13-002380",
+    "primary_document": "a50625920.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-13-002380"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2013-06-10",
+    "acceptance_datetime": "2013-06-10T21:01:22.000Z",
+    "report_date": "2013-06-06",
+    "accession": "0001193125-13-253522",
+    "primary_document": "d551988d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.07; accession=0001193125-13-253522"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-08-08",
+    "acceptance_datetime": "2013-08-08T20:05:40.000Z",
+    "report_date": "2013-08-08",
+    "accession": "0001157523-13-004008",
+    "primary_document": "a50687924.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-13-004008"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2013-11-06",
+    "acceptance_datetime": "2013-11-06T21:05:48.000Z",
+    "report_date": "2013-11-06",
+    "accession": "0001157523-13-005351",
+    "primary_document": "a50745332.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-13-005351"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,7.01,9.01",
+    "filing_date": "2014-01-13",
+    "acceptance_datetime": "2014-01-13T13:15:32.000Z",
+    "report_date": "2014-01-10",
+    "accession": "0001193125-14-008836",
+    "primary_document": "d659666d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,3.02,7.01,9.01; accession=0001193125-14-008836"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,7.01,9.01",
+    "filing_date": "2014-01-13",
+    "acceptance_datetime": "2014-01-13T13:58:33.000Z",
+    "report_date": "2014-01-11",
+    "accession": "0001193125-14-008903",
+    "primary_document": "d659671d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,3.02,7.01,9.01; accession=0001193125-14-008903"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-02-13",
+    "acceptance_datetime": "2014-02-13T21:05:22.000Z",
+    "report_date": "2014-02-13",
+    "accession": "0001157523-14-000620",
+    "primary_document": "a50804078.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-14-000620"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-02-26",
+    "acceptance_datetime": "2014-02-26T12:31:33.000Z",
+    "report_date": "2014-02-21",
+    "accession": "0001193125-14-068393",
+    "primary_document": "d685416d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-14-068393"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.03,7.01,9.01",
+    "filing_date": "2014-02-27",
+    "acceptance_datetime": "2014-02-27T22:13:33.000Z",
+    "report_date": "2014-02-27",
+    "accession": "0001193125-14-073378",
+    "primary_document": "d683889d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,3.03,7.01,9.01; accession=0001193125-14-073378"
+  },
+  {
+    "form": "8-K",
+    "items": "2.01,7.01,9.01",
+    "filing_date": "2014-03-06",
+    "acceptance_datetime": "2014-03-06T13:22:33.000Z",
+    "report_date": "2014-03-05",
+    "accession": "0001193125-14-085635",
+    "primary_document": "d688865d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.01,7.01,9.01; accession=0001193125-14-085635"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.08",
+    "filing_date": "2014-03-24",
+    "acceptance_datetime": "2014-03-24T20:31:33.000Z",
+    "report_date": "2014-03-18",
+    "accession": "0001193125-14-112393",
+    "primary_document": "d700469d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,5.08; accession=0001193125-14-112393"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2014-04-02",
+    "acceptance_datetime": "2014-04-02T20:31:33.000Z",
+    "report_date": "2014-03-27",
+    "accession": "0001193125-14-128105",
+    "primary_document": "d704116d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0001193125-14-128105"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-05-08",
+    "acceptance_datetime": "2014-05-08T20:14:00.000Z",
+    "report_date": "2014-05-08",
+    "accession": "0001157523-14-002039",
+    "primary_document": "a50861292.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-14-002039"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-07-02",
+    "acceptance_datetime": "2014-07-02T12:31:30.000Z",
+    "report_date": "2014-07-01",
+    "accession": "0001193125-14-258369",
+    "primary_document": "d752334d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-14-258369"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-08-07",
+    "acceptance_datetime": "2014-08-07T20:05:18.000Z",
+    "report_date": "2014-08-07",
+    "accession": "0001157523-14-003397",
+    "primary_document": "a50920931.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-14-003397"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2014-09-26",
+    "acceptance_datetime": "2014-09-26T20:32:30.000Z",
+    "report_date": "2014-09-25",
+    "accession": "0001193125-14-354903",
+    "primary_document": "d797158d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.07; accession=0001193125-14-354903"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2014-11-05",
+    "acceptance_datetime": "2014-11-05T21:33:30.000Z",
+    "report_date": "2014-11-05",
+    "accession": "0001157523-14-004401",
+    "primary_document": "a50977425.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-14-004401"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-12-18",
+    "acceptance_datetime": "2014-12-18T13:30:53.000Z",
+    "report_date": "2014-12-17",
+    "accession": "0001193125-14-446129",
+    "primary_document": "d839681d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-14-446129"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2014-12-19",
+    "acceptance_datetime": "2014-12-19T13:30:56.000Z",
+    "report_date": "2014-12-17",
+    "accession": "0001193125-14-447755",
+    "primary_document": "d840206d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-14-447755"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-01-08",
+    "acceptance_datetime": "2015-01-08T13:15:33.000Z",
+    "report_date": "2015-01-08",
+    "accession": "0001193125-15-004485",
+    "primary_document": "d847165d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-15-004485"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2015-01-14",
+    "acceptance_datetime": "2015-01-14T22:01:03.000Z",
+    "report_date": "2015-01-08",
+    "accession": "0001193125-15-010741",
+    "primary_document": "d851507d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0001193125-15-010741"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,8.01,9.01",
+    "filing_date": "2015-01-26",
+    "acceptance_datetime": "2015-01-26T21:43:55.000Z",
+    "report_date": "2015-01-20",
+    "accession": "0001193125-15-020438",
+    "primary_document": "d860129d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,3.02,8.01,9.01; accession=0001193125-15-020438"
+  },
+  {
+    "form": "8-K",
+    "items": "5.08",
+    "filing_date": "2015-02-03",
+    "acceptance_datetime": "2015-02-03T22:00:33.000Z",
+    "report_date": "2015-02-03",
+    "accession": "0001193125-15-031716",
+    "primary_document": "d864958d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.08; accession=0001193125-15-031716"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-02-12",
+    "acceptance_datetime": "2015-02-12T21:10:44.000Z",
+    "report_date": "2015-02-12",
+    "accession": "0001157523-15-000553",
+    "primary_document": "a51039029.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-15-000553"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03",
+    "filing_date": "2015-04-06",
+    "acceptance_datetime": "2015-04-06T12:15:33.000Z",
+    "report_date": "2015-04-03",
+    "accession": "0001193125-15-119442",
+    "primary_document": "d901333d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,2.03; accession=0001193125-15-119442"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2015-05-05",
+    "acceptance_datetime": "2015-05-05T20:30:36.000Z",
+    "report_date": "2015-05-01",
+    "accession": "0001193125-15-172191",
+    "primary_document": "d921359d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.07; accession=0001193125-15-172191"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-05-07",
+    "acceptance_datetime": "2015-05-07T20:10:20.000Z",
+    "report_date": "2015-05-07",
+    "accession": "0001157523-15-001675",
+    "primary_document": "a51097981.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-15-001675"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2015-06-10",
+    "acceptance_datetime": "2015-06-10T20:31:00.000Z",
+    "report_date": "2015-06-08",
+    "accession": "0001193125-15-219361",
+    "primary_document": "d940870d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-15-219361"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2015-07-10",
+    "acceptance_datetime": "2015-07-10T20:30:34.000Z",
+    "report_date": "2015-07-06",
+    "accession": "0001193125-15-250381",
+    "primary_document": "d52699d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0001193125-15-250381"
+  },
+  {
+    "form": "8-K",
+    "items": "3.03,5.03,9.01",
+    "filing_date": "2015-07-14",
+    "acceptance_datetime": "2015-07-14T20:31:00.000Z",
+    "report_date": "2015-07-14",
+    "accession": "0001193125-15-252425",
+    "primary_document": "d83809d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=3.03,5.03,9.01; accession=0001193125-15-252425"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-08-06",
+    "acceptance_datetime": "2015-08-06T20:10:29.000Z",
+    "report_date": "2015-08-06",
+    "accession": "0001157523-15-002821",
+    "primary_document": "a51158308.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-15-002821"
+  },
+  {
+    "form": "8-K",
+    "items": "9.01",
+    "filing_date": "2015-10-02",
+    "acceptance_datetime": "2015-10-02T20:45:34.000Z",
+    "report_date": "2015-10-02",
+    "accession": "0001193125-15-336652",
+    "primary_document": "d50905d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=9.01; accession=0001193125-15-336652"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2015-11-09",
+    "acceptance_datetime": "2015-11-09T12:10:20.000Z",
+    "report_date": "2015-11-09",
+    "accession": "0001157523-15-003798",
+    "primary_document": "a51219837.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-15-003798"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2015-12-18",
+    "acceptance_datetime": "2015-12-18T21:31:33.000Z",
+    "report_date": "2015-12-18",
+    "accession": "0001193125-15-407792",
+    "primary_document": "d107277d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-15-407792"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "filing_date": "2015-12-22",
+    "acceptance_datetime": "2015-12-22T21:31:01.000Z",
+    "report_date": "2015-12-18",
+    "accession": "0001193125-15-410845",
+    "primary_document": "d102587d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.03,9.01; accession=0001193125-15-410845"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-01-11",
+    "acceptance_datetime": "2016-01-11T13:12:03.000Z",
+    "report_date": "2016-01-11",
+    "accession": "0001193125-16-425799",
+    "primary_document": "d120790d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-16-425799"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-02-11",
+    "acceptance_datetime": "2016-02-11T21:10:45.000Z",
+    "report_date": "2016-02-11",
+    "accession": "0001157523-16-004564",
+    "primary_document": "a51278113.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-16-004564"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2016-04-08",
+    "acceptance_datetime": "2016-04-08T20:31:33.000Z",
+    "report_date": "2016-04-04",
+    "accession": "0001193125-16-535555",
+    "primary_document": "d174196d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0001193125-16-535555"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,2.03,9.01",
+    "filing_date": "2016-05-02",
+    "acceptance_datetime": "2016-05-02T20:10:35.000Z",
+    "report_date": "2016-04-29",
+    "accession": "0001157523-16-005377",
+    "primary_document": "a51332905.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,2.02,2.03,9.01; accession=0001157523-16-005377"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2016-05-06",
+    "acceptance_datetime": "2016-05-06T20:30:38.000Z",
+    "report_date": "2016-05-03",
+    "accession": "0001193125-16-582064",
+    "primary_document": "d160490d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.07; accession=0001193125-16-582064"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2016-06-15",
+    "acceptance_datetime": "2016-06-15T20:30:54.000Z",
+    "report_date": "2016-06-09",
+    "accession": "0001193125-16-622502",
+    "primary_document": "d185210d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-16-622502"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-08-04",
+    "acceptance_datetime": "2016-08-04T20:10:40.000Z",
+    "report_date": "2016-08-04",
+    "accession": "0001157523-16-006448",
+    "primary_document": "a51396295.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-16-006448"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02,7.01,9.01",
+    "filing_date": "2016-09-19",
+    "acceptance_datetime": "2016-09-19T20:44:56.000Z",
+    "report_date": "2016-09-19",
+    "accession": "0001193125-16-713525",
+    "primary_document": "d263082d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,5.02,7.01,9.01; accession=0001193125-16-713525"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2016-10-05",
+    "acceptance_datetime": "2016-10-05T20:44:02.000Z",
+    "report_date": "2016-10-05",
+    "accession": "0001193125-16-731590",
+    "primary_document": "d253881d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-16-731590"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2016-11-02",
+    "acceptance_datetime": "2016-11-02T20:10:22.000Z",
+    "report_date": "2016-11-02",
+    "accession": "0001157523-16-007200",
+    "primary_document": "a51452247.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-16-007200"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2017-01-03",
+    "acceptance_datetime": "2017-01-03T22:20:55.000Z",
+    "report_date": "2016-12-29",
+    "accession": "0001193125-17-000876",
+    "primary_document": "d264575d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-17-000876"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-02-08",
+    "acceptance_datetime": "2017-02-08T21:10:47.000Z",
+    "report_date": "2017-02-08",
+    "accession": "0001157523-17-000400",
+    "primary_document": "a51507055.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-17-000400"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.07,9.01",
+    "filing_date": "2017-05-05",
+    "acceptance_datetime": "2017-05-05T12:10:20.000Z",
+    "report_date": "2017-05-02",
+    "accession": "0001157523-17-001455",
+    "primary_document": "a51553442.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,5.07,9.01; accession=0001157523-17-001455"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2017-05-09",
+    "acceptance_datetime": "2017-05-09T12:30:56.000Z",
+    "report_date": "2017-05-08",
+    "accession": "0001193125-17-163465",
+    "primary_document": "d394373d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-17-163465"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,8.01,9.01",
+    "filing_date": "2017-05-25",
+    "acceptance_datetime": "2017-05-25T12:30:56.000Z",
+    "report_date": "2017-05-23",
+    "accession": "0001193125-17-182644",
+    "primary_document": "d384546d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,3.02,8.01,9.01; accession=0001193125-17-182644"
+  },
+  {
+    "form": "8-K",
+    "items": "7.01",
+    "filing_date": "2017-06-06",
+    "acceptance_datetime": "2017-06-06T13:15:33.000Z",
+    "report_date": "2017-06-06",
+    "accession": "0001193125-17-195385",
+    "primary_document": "d402625d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=7.01; accession=0001193125-17-195385"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-08-09",
+    "acceptance_datetime": "2017-08-09T20:15:21.000Z",
+    "report_date": "2017-08-09",
+    "accession": "0001157523-17-002334",
+    "primary_document": "a51666879.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-17-002334"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2017-09-07",
+    "acceptance_datetime": "2017-09-07T11:27:57.000Z",
+    "report_date": "2017-09-07",
+    "accession": "0001193125-17-278495",
+    "primary_document": "d434005d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-17-278495"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2017-11-07",
+    "acceptance_datetime": "2017-11-07T21:15:19.000Z",
+    "report_date": "2017-11-07",
+    "accession": "0001157523-17-003038",
+    "primary_document": "a51712535.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-17-003038"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2017-11-14",
+    "acceptance_datetime": "2017-11-14T21:55:01.000Z",
+    "report_date": "2017-11-13",
+    "accession": "0001193125-17-342673",
+    "primary_document": "d495806d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-17-342673"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-01-03",
+    "acceptance_datetime": "2018-01-03T21:31:03.000Z",
+    "report_date": "2017-12-27",
+    "accession": "0001193125-18-001686",
+    "primary_document": "d508377d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0001193125-18-001686"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.02,7.01,9.01",
+    "filing_date": "2018-01-08",
+    "acceptance_datetime": "2018-01-08T12:03:04.000Z",
+    "report_date": "2018-01-06",
+    "accession": "0001193125-18-005021",
+    "primary_document": "d501805d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,2.02,7.01,9.01; accession=0001193125-18-005021"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-02-08",
+    "acceptance_datetime": "2018-02-08T13:15:27.000Z",
+    "report_date": "2018-02-08",
+    "accession": "0001157523-18-000252",
+    "primary_document": "a51755200.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-18-000252"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.03,9.01",
+    "filing_date": "2018-03-14",
+    "acceptance_datetime": "2018-03-14T20:16:03.000Z",
+    "report_date": "2018-03-08",
+    "accession": "0001193125-18-082339",
+    "primary_document": "d507650d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,5.03,9.01; accession=0001193125-18-082339"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2018-04-03",
+    "acceptance_datetime": "2018-04-03T20:31:02.000Z",
+    "report_date": "2018-03-28",
+    "accession": "0001193125-18-106272",
+    "primary_document": "d562624d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0001193125-18-106272"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-04-20",
+    "acceptance_datetime": "2018-04-20T21:21:03.000Z",
+    "report_date": "2018-04-18",
+    "accession": "0001193125-18-125102",
+    "primary_document": "d575083d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-125102"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-05-03",
+    "acceptance_datetime": "2018-05-03T20:15:26.000Z",
+    "report_date": "2018-05-03",
+    "accession": "0001157523-18-000981",
+    "primary_document": "a51800798.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-18-000981"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2018-05-15",
+    "acceptance_datetime": "2018-05-15T20:31:13.000Z",
+    "report_date": "2018-05-10",
+    "accession": "0001193125-18-164173",
+    "primary_document": "d589314d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,5.07; accession=0001193125-18-164173"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-08-02",
+    "acceptance_datetime": "2018-08-02T12:15:27.000Z",
+    "report_date": "2018-08-02",
+    "accession": "0001157523-18-001671",
+    "primary_document": "a51846779.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-18-001671"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2018-08-10",
+    "acceptance_datetime": "2018-08-10T19:45:50.000Z",
+    "report_date": "2018-08-10",
+    "accession": "0001193125-18-245969",
+    "primary_document": "d592861d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-18-245969"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2018-08-17",
+    "acceptance_datetime": "2018-08-17T20:31:04.000Z",
+    "report_date": "2018-08-14",
+    "accession": "0001193125-18-251725",
+    "primary_document": "d593494d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0001193125-18-251725"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2018-10-02",
+    "acceptance_datetime": "2018-10-02T20:31:10.000Z",
+    "report_date": "2018-09-27",
+    "accession": "0001193125-18-290906",
+    "primary_document": "d629286d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0001193125-18-290906"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2018-10-10",
+    "acceptance_datetime": "2018-10-10T20:31:04.000Z",
+    "report_date": "2018-10-09",
+    "accession": "0001193125-18-296858",
+    "primary_document": "d633928d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-18-296858"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2018-11-07",
+    "acceptance_datetime": "2018-11-07T13:16:37.000Z",
+    "report_date": "2018-11-07",
+    "accession": "0001157523-18-002349",
+    "primary_document": "a51895307.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-18-002349"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2018-12-10",
+    "acceptance_datetime": "2018-12-10T22:19:05.000Z",
+    "report_date": "2018-12-09",
+    "accession": "0001193125-18-346287",
+    "primary_document": "d525115d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0001193125-18-346287"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-01-07",
+    "acceptance_datetime": "2019-01-07T13:11:33.000Z",
+    "report_date": "2019-01-07",
+    "accession": "0001193125-19-003205",
+    "primary_document": "d676111d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-19-003205"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "filing_date": "2019-01-15",
+    "acceptance_datetime": "2019-01-15T22:19:33.000Z",
+    "report_date": "2019-01-14",
+    "accession": "0001193125-19-009888",
+    "primary_document": "d692302d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,8.01,9.01; accession=0001193125-19-009888"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-02-07",
+    "acceptance_datetime": "2019-02-07T21:15:18.000Z",
+    "report_date": "2019-02-07",
+    "accession": "0001157523-19-000264",
+    "primary_document": "a51937655.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-19-000264"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,3.02,7.01,9.01",
+    "filing_date": "2019-04-09",
+    "acceptance_datetime": "2019-04-09T20:43:33.000Z",
+    "report_date": "2019-04-08",
+    "accession": "0001193125-19-101737",
+    "primary_document": "d369023d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,3.02,7.01,9.01; accession=0001193125-19-101737"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.07,9.01",
+    "filing_date": "2019-04-26",
+    "acceptance_datetime": "2019-04-26T20:32:55.000Z",
+    "report_date": "2019-04-25",
+    "accession": "0001193125-19-122475",
+    "primary_document": "d706633d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.03,5.07,9.01; accession=0001193125-19-122475"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-05-01",
+    "acceptance_datetime": "2019-05-01T12:45:41.000Z",
+    "report_date": "2019-05-01",
+    "accession": "0001157523-19-001001",
+    "primary_document": "a51977503.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-19-001001"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-05-21",
+    "acceptance_datetime": "2019-05-21T20:31:02.000Z",
+    "report_date": "2019-05-21",
+    "accession": "0001193125-19-152751",
+    "primary_document": "d723601d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0001193125-19-152751"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2019-07-11",
+    "acceptance_datetime": "2019-07-11T20:15:56.000Z",
+    "report_date": "2019-07-08",
+    "accession": "0001193125-19-192410",
+    "primary_document": "d759968d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-19-192410"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-08-06",
+    "acceptance_datetime": "2019-08-06T12:15:26.000Z",
+    "report_date": "2019-08-06",
+    "accession": "0001157523-19-001714",
+    "primary_document": "a52074138.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-19-001714"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2019-10-03",
+    "acceptance_datetime": "2019-10-03T20:33:06.000Z",
+    "report_date": "2019-09-27",
+    "accession": "0001193125-19-261686",
+    "primary_document": "d808658d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0001193125-19-261686"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2019-10-31",
+    "acceptance_datetime": "2019-10-31T12:10:40.000Z",
+    "report_date": "2019-10-31",
+    "accession": "0001157523-19-002155",
+    "primary_document": "a52120655.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-19-002155"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2019-11-20",
+    "acceptance_datetime": "2019-11-20T21:46:10.000Z",
+    "report_date": "2019-11-20",
+    "accession": "0001193125-19-296636",
+    "primary_document": "d834366d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-19-296636"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-01-13",
+    "acceptance_datetime": "2020-01-13T11:13:40.000Z",
+    "report_date": "2020-01-12",
+    "accession": "0001193125-20-005791",
+    "primary_document": "d867754d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-20-005791"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-02-06",
+    "acceptance_datetime": "2020-02-06T13:28:40.000Z",
+    "report_date": "2020-02-06",
+    "accession": "0001157523-20-000164",
+    "primary_document": "a52169310.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-20-000164"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2020-02-27",
+    "acceptance_datetime": "2020-02-27T21:17:40.000Z",
+    "report_date": "2020-02-26",
+    "accession": "0001193125-20-052682",
+    "primary_document": "d892457d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-20-052682"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,8.01,9.01",
+    "filing_date": "2020-04-06",
+    "acceptance_datetime": "2020-04-06T12:51:40.000Z",
+    "report_date": "2020-04-03",
+    "accession": "0001193125-20-099010",
+    "primary_document": "d910758d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,7.01,8.01,9.01; accession=0001193125-20-099010"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,7.01,9.01",
+    "filing_date": "2020-04-13",
+    "acceptance_datetime": "2020-04-13T20:22:40.000Z",
+    "report_date": "2020-04-10",
+    "accession": "0001193125-20-105270",
+    "primary_document": "d900125d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,2.03,3.02,7.01,9.01; accession=0001193125-20-105270"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-05-06",
+    "acceptance_datetime": "2020-05-06T12:10:47.000Z",
+    "report_date": "2020-05-06",
+    "accession": "0001157523-20-000673",
+    "primary_document": "a52215004.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-20-000673"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2020-05-11",
+    "acceptance_datetime": "2020-05-11T20:36:13.000Z",
+    "report_date": "2020-05-06",
+    "accession": "0001193125-20-139137",
+    "primary_document": "d874505d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.07,9.01; accession=0001193125-20-139137"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,7.01,9.01",
+    "filing_date": "2020-08-06",
+    "acceptance_datetime": "2020-08-06T12:10:23.000Z",
+    "report_date": "2020-08-03",
+    "accession": "0001157523-20-001145",
+    "primary_document": "a52262204.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,5.02,7.01,9.01; accession=0001157523-20-001145"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01",
+    "filing_date": "2020-08-20",
+    "acceptance_datetime": "2020-08-20T20:23:55.000Z",
+    "report_date": "2020-08-15",
+    "accession": "0001193125-20-225661",
+    "primary_document": "d58239d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01; accession=0001193125-20-225661"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,5.02",
+    "filing_date": "2020-10-02",
+    "acceptance_datetime": "2020-10-02T20:16:31.000Z",
+    "report_date": "2020-09-30",
+    "accession": "0001193125-20-262507",
+    "primary_document": "d85081d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,5.02; accession=0001193125-20-262507"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2020-11-05",
+    "acceptance_datetime": "2020-11-05T13:10:18.000Z",
+    "report_date": "2020-11-05",
+    "accession": "0001157523-20-001446",
+    "primary_document": "a52320309.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-20-001446"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-01-11",
+    "acceptance_datetime": "2021-01-11T13:37:31.000Z",
+    "report_date": "2021-01-10",
+    "accession": "0001193125-21-005849",
+    "primary_document": "d105171d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-21-005849"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-02-11",
+    "acceptance_datetime": "2021-02-11T13:10:21.000Z",
+    "report_date": "2021-02-11",
+    "accession": "0001157523-21-000169",
+    "primary_document": "a52377572.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-21-000169"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2021-04-12",
+    "acceptance_datetime": "2021-04-12T21:00:33.000Z",
+    "report_date": "2021-04-12",
+    "accession": "0001193125-21-113304",
+    "primary_document": "d166405d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0001193125-21-113304"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2021-04-29",
+    "acceptance_datetime": "2021-04-29T12:12:13.000Z",
+    "report_date": "2021-04-29",
+    "accession": "0001157523-21-000536",
+    "primary_document": "a52420138.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-21-000536"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2021-05-21",
+    "acceptance_datetime": "2021-05-21T20:30:34.000Z",
+    "report_date": "2021-05-18",
+    "accession": "0001193125-21-169325",
+    "primary_document": "d175346d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.07,9.01; accession=0001193125-21-169325"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,8.01,9.01",
+    "filing_date": "2021-08-03",
+    "acceptance_datetime": "2021-08-03T12:10:58.000Z",
+    "report_date": "2021-08-02",
+    "accession": "0001193125-21-234071",
+    "primary_document": "d167868d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,5.02,8.01,9.01; accession=0001193125-21-234071"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2021-09-08",
+    "acceptance_datetime": "2021-09-08T12:35:37.000Z",
+    "report_date": "2021-09-06",
+    "accession": "0001193125-21-267358",
+    "primary_document": "d228732d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-21-267358"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,7.01,9.01",
+    "filing_date": "2021-10-28",
+    "acceptance_datetime": "2021-10-28T12:11:08.000Z",
+    "report_date": "2021-10-26",
+    "accession": "0001193125-21-310422",
+    "primary_document": "d240930d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,5.02,7.01,9.01; accession=0001193125-21-310422"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2021-12-20",
+    "acceptance_datetime": "2021-12-20T21:15:04.000Z",
+    "report_date": "2021-12-14",
+    "accession": "0001193125-21-362387",
+    "primary_document": "d163524d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-21-362387"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "filing_date": "2022-01-04",
+    "acceptance_datetime": "2022-01-04T21:16:01.000Z",
+    "report_date": "2022-01-04",
+    "accession": "0001193125-22-001706",
+    "primary_document": "d251998d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,7.01,9.01; accession=0001193125-22-001706"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-01-10",
+    "acceptance_datetime": "2022-01-10T12:01:00.000Z",
+    "report_date": "2022-01-09",
+    "accession": "0001193125-22-005024",
+    "primary_document": "d36987d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-22-005024"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-02-10",
+    "acceptance_datetime": "2022-02-10T13:10:23.000Z",
+    "report_date": "2022-02-10",
+    "accession": "0001157523-22-000175",
+    "primary_document": "a52572231.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-22-000175"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2022-03-17",
+    "acceptance_datetime": "2022-03-17T11:36:57.000Z",
+    "report_date": "2022-03-17",
+    "accession": "0001193125-22-077831",
+    "primary_document": "d336905d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0001193125-22-077831"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-04-04",
+    "acceptance_datetime": "2022-04-04T11:35:55.000Z",
+    "report_date": "2022-04-04",
+    "accession": "0001193125-22-094409",
+    "primary_document": "d259809d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-094409"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2022-04-05",
+    "acceptance_datetime": "2022-04-05T20:16:08.000Z",
+    "report_date": "2022-03-31",
+    "accession": "0001193125-22-096176",
+    "primary_document": "d343633d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-22-096176"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-04-28",
+    "acceptance_datetime": "2022-04-28T12:10:31.000Z",
+    "report_date": "2022-04-28",
+    "accession": "0001157523-22-000494",
+    "primary_document": "a52699629.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-22-000494"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2022-05-23",
+    "acceptance_datetime": "2022-05-23T20:31:09.000Z",
+    "report_date": "2022-05-18",
+    "accession": "0001193125-22-157503",
+    "primary_document": "d362069d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.07,9.01; accession=0001193125-22-157503"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-06-14",
+    "acceptance_datetime": "2022-06-14T11:30:33.000Z",
+    "report_date": "2022-06-13",
+    "accession": "0001193125-22-173444",
+    "primary_document": "d518443d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-173444"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-07-28",
+    "acceptance_datetime": "2022-07-28T12:10:29.000Z",
+    "report_date": "2022-07-28",
+    "accession": "0001157523-22-000945",
+    "primary_document": "a52793912.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-22-000945"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2022-08-24",
+    "acceptance_datetime": "2022-08-24T20:16:06.000Z",
+    "report_date": "2022-08-19",
+    "accession": "0001193125-22-228534",
+    "primary_document": "d335044d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-22-228534"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2022-09-13",
+    "acceptance_datetime": "2022-09-13T20:05:57.000Z",
+    "report_date": "2022-09-12",
+    "accession": "0001193125-22-243702",
+    "primary_document": "d397120d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-22-243702"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,1.02,2.03,3.02,9.01",
+    "filing_date": "2022-09-16",
+    "acceptance_datetime": "2022-09-16T21:10:04.000Z",
+    "report_date": "2022-09-12",
+    "accession": "0001193125-22-246487",
+    "primary_document": "d386201d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,1.02,2.03,3.02,9.01; accession=0001193125-22-246487"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2022-10-27",
+    "acceptance_datetime": "2022-10-27T12:10:19.000Z",
+    "report_date": "2022-10-27",
+    "accession": "0001157523-22-001411",
+    "primary_document": "a52953758.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-22-001411"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01,9.01",
+    "filing_date": "2023-01-06",
+    "acceptance_datetime": "2023-01-06T21:16:06.000Z",
+    "report_date": "2023-01-05",
+    "accession": "0001193125-23-003554",
+    "primary_document": "d426017d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,8.01,9.01; accession=0001193125-23-003554"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-01-09",
+    "acceptance_datetime": "2023-01-09T12:00:57.000Z",
+    "report_date": "2023-01-08",
+    "accession": "0001193125-23-004109",
+    "primary_document": "d424918d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-23-004109"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-02-23",
+    "acceptance_datetime": "2023-02-23T13:10:22.000Z",
+    "report_date": "2023-02-23",
+    "accession": "0001157523-23-000344",
+    "primary_document": "a53337940.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-23-000344"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-03-08",
+    "acceptance_datetime": "2023-03-08T21:30:30.000Z",
+    "report_date": "2023-03-07",
+    "accession": "0001193125-23-064580",
+    "primary_document": "d481911d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-23-064580"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-05-04",
+    "acceptance_datetime": "2023-05-04T12:10:25.000Z",
+    "report_date": "2023-05-04",
+    "accession": "0001157523-23-000728",
+    "primary_document": "a53393280.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-23-000728"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "filing_date": "2023-05-23",
+    "acceptance_datetime": "2023-05-23T20:30:54.000Z",
+    "report_date": "2023-05-18",
+    "accession": "0001193125-23-151845",
+    "primary_document": "d689062d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.07,9.01; accession=0001193125-23-151845"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-06-30",
+    "acceptance_datetime": "2023-06-30T13:03:58.000Z",
+    "report_date": "2023-06-30",
+    "accession": "0001193125-23-179631",
+    "primary_document": "d442654d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-23-179631"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "filing_date": "2023-07-26",
+    "acceptance_datetime": "2023-07-26T21:15:55.000Z",
+    "report_date": "2023-07-21",
+    "accession": "0001193125-23-194715",
+    "primary_document": "d448801d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,7.01,9.01; accession=0001193125-23-194715"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "filing_date": "2023-08-03",
+    "acceptance_datetime": "2023-08-03T12:10:58.000Z",
+    "report_date": "2023-07-31",
+    "accession": "0001193125-23-202313",
+    "primary_document": "d472276d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,5.02,9.01; accession=0001193125-23-202313"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2023-09-28",
+    "acceptance_datetime": "2023-09-28T21:00:35.000Z",
+    "report_date": "2023-09-26",
+    "accession": "0001193125-23-245768",
+    "primary_document": "d477237d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001193125-23-245768"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2023-10-10",
+    "acceptance_datetime": "2023-10-10T11:30:29.000Z",
+    "report_date": "2023-10-09",
+    "accession": "0001193125-23-253084",
+    "primary_document": "d279887d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-23-253084"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2023-11-02",
+    "acceptance_datetime": "2023-11-02T12:10:20.000Z",
+    "report_date": "2023-11-02",
+    "accession": "0001157523-23-001622",
+    "primary_document": "a53737945.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-23-001622"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-01-08",
+    "acceptance_datetime": "2024-01-08T12:00:54.000Z",
+    "report_date": "2024-01-07",
+    "accession": "0001193125-24-003854",
+    "primary_document": "d34101d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001193125-24-003854"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2024-01-19",
+    "acceptance_datetime": "2024-01-19T21:31:00.000Z",
+    "report_date": "2024-01-12",
+    "accession": "0001193125-24-011278",
+    "primary_document": "d701085d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-24-011278"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2024-02-15",
+    "acceptance_datetime": "2024-02-15T13:10:27.000Z",
+    "report_date": "2024-02-15",
+    "accession": "0001157523-24-000253",
+    "primary_document": "a53896787.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001157523-24-000253"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "filing_date": "2024-03-04",
+    "acceptance_datetime": "2024-03-04T21:33:42.000Z",
+    "report_date": "2024-03-04",
+    "accession": "0001193125-24-057906",
+    "primary_document": "d746189d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,9.01; accession=0001193125-24-057906"
+  },
+  {
+    "form": "8-K",
+    "items": "9.01",
+    "filing_date": "2024-05-02",
+    "acceptance_datetime": "2024-05-02T12:11:36.000Z",
+    "report_date": "2024-05-02",
+    "accession": "0001178670-24-000021",
+    "primary_document": "alny-20240502.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=9.01; accession=0001178670-24-000021"
+  },
+  {
+    "form": "8-K",
+    "items": "5.07",
+    "filing_date": "2024-05-20",
+    "acceptance_datetime": "2024-05-20T20:34:56.000Z",
+    "report_date": "2024-05-16",
+    "accession": "0001178670-24-000027",
+    "primary_document": "alny-20240516.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.07; accession=0001178670-24-000027"
+  },
+  {
+    "form": "8-K",
+    "items": "9.01",
+    "filing_date": "2024-08-01",
+    "acceptance_datetime": "2024-08-01T12:11:34.000Z",
+    "report_date": "2024-08-01",
+    "accession": "0001178670-24-000039",
+    "primary_document": "alny-20240801.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=9.01; accession=0001178670-24-000039"
+  },
+  {
+    "form": "8-K",
+    "items": "9.01",
+    "filing_date": "2024-10-31",
+    "acceptance_datetime": "2024-10-31T12:10:28.000Z",
+    "report_date": "2024-10-31",
+    "accession": "0001178670-24-000052",
+    "primary_document": "alny-20241031.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=9.01; accession=0001178670-24-000052"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2025-01-13",
+    "acceptance_datetime": "2025-01-13T12:31:19.000Z",
+    "report_date": "2025-01-12",
+    "accession": "0001178670-25-000008",
+    "primary_document": "alny-20250112.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02; accession=0001178670-25-000008"
+  },
+  {
+    "form": "8-K",
+    "items": "9.01",
+    "filing_date": "2025-02-13",
+    "acceptance_datetime": "2025-02-13T13:09:34.000Z",
+    "report_date": "2025-02-13",
+    "accession": "0001178670-25-000020",
+    "primary_document": "alny-20250213.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=9.01; accession=0001178670-25-000020"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-03-05",
+    "acceptance_datetime": "2025-03-05T21:33:28.000Z",
+    "report_date": "2025-03-03",
+    "accession": "0001178670-25-000031",
+    "primary_document": "alny-20250303.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001178670-25-000031"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01",
+    "filing_date": "2025-03-21",
+    "acceptance_datetime": "2025-03-20T22:13:54.000Z",
+    "report_date": "2025-03-20",
+    "accession": "0001178670-25-000038",
+    "primary_document": "alny-20250320.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01; accession=0001178670-25-000038"
+  },
+  {
+    "form": "8-K",
+    "items": "9.01",
+    "filing_date": "2025-05-01",
+    "acceptance_datetime": "2025-05-01T12:09:08.000Z",
+    "report_date": "2025-05-01",
+    "accession": "0001178670-25-000050",
+    "primary_document": "alny-20250501.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=9.01; accession=0001178670-25-000050"
+  },
+  {
+    "form": "8-K",
+    "items": "5.03,5.07",
+    "filing_date": "2025-05-13",
+    "acceptance_datetime": "2025-05-13T21:01:36.000Z",
+    "report_date": "2025-05-08",
+    "accession": "0001178670-25-000062",
+    "primary_document": "alny-20250508.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.03,5.07; accession=0001178670-25-000062"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-06-18",
+    "acceptance_datetime": "2025-06-18T20:48:38.000Z",
+    "report_date": "2025-06-12",
+    "accession": "0001178670-25-000076",
+    "primary_document": "alny-20250612.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001178670-25-000076"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-07-31",
+    "acceptance_datetime": "2025-07-31T12:05:29.000Z",
+    "report_date": "2025-07-31",
+    "accession": "0001178670-25-000089",
+    "primary_document": "alny-20250731.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001178670-25-000089"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-09-10",
+    "acceptance_datetime": "2025-09-10T11:30:33.000Z",
+    "report_date": "2025-09-08",
+    "accession": "0001193125-25-199686",
+    "primary_document": "d72540d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-25-199686"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,3.02,8.01,9.01",
+    "filing_date": "2025-09-12",
+    "acceptance_datetime": "2025-09-12T21:17:52.000Z",
+    "report_date": "2025-09-12",
+    "accession": "0001193125-25-202366",
+    "primary_document": "d949176d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,2.03,3.02,8.01,9.01; accession=0001193125-25-202366"
+  },
+  {
+    "form": "8-K",
+    "items": "1.01,2.03,9.01",
+    "filing_date": "2025-10-03",
+    "acceptance_datetime": "2025-10-03T20:15:23.000Z",
+    "report_date": "2025-09-30",
+    "accession": "0001193125-25-230201",
+    "primary_document": "d19737d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=1.01,2.03,9.01; accession=0001193125-25-230201"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2025-10-30",
+    "acceptance_datetime": "2025-10-30T12:06:02.000Z",
+    "report_date": "2025-10-30",
+    "accession": "0001628280-25-047342",
+    "primary_document": "alny-20251030.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-25-047342"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2025-12-03",
+    "acceptance_datetime": "2025-12-03T21:49:31.000Z",
+    "report_date": "2025-12-02",
+    "accession": "0001628280-25-055084",
+    "primary_document": "alny-20251202.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001628280-25-055084"
+  },
+  {
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "filing_date": "2025-12-11",
+    "acceptance_datetime": "2025-12-11T12:25:04.000Z",
+    "report_date": "2025-12-10",
+    "accession": "0001193125-25-315047",
+    "primary_document": "d201569d8k.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=8.01,9.01; accession=0001193125-25-315047"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02",
+    "filing_date": "2026-01-12",
+    "acceptance_datetime": "2026-01-12T12:30:20.000Z",
+    "report_date": "2026-01-11",
+    "accession": "0001628280-26-001755",
+    "primary_document": "alny-20260111.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02; accession=0001628280-26-001755"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-02-12",
+    "acceptance_datetime": "2026-02-12T13:05:43.000Z",
+    "report_date": "2026-02-12",
+    "accession": "0001628280-26-007491",
+    "primary_document": "alny-20260212.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-26-007491"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02",
+    "filing_date": "2026-03-04",
+    "acceptance_datetime": "2026-03-04T22:17:57.000Z",
+    "report_date": "2026-03-02",
+    "accession": "0001628280-26-014728",
+    "primary_document": "alny-20260302.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02; accession=0001628280-26-014728"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-04-30",
+    "acceptance_datetime": "2026-04-30T12:04:14.000Z",
+    "report_date": "2026-04-30",
+    "accession": "0001628280-26-028601",
+    "primary_document": "alny-20260430.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001628280-26-028601"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,5.07",
+    "filing_date": "2026-05-27",
+    "acceptance_datetime": "2026-05-27T20:30:22.000Z",
+    "report_date": "2026-05-20",
+    "accession": "0001628280-26-038499",
+    "primary_document": "alny-20260520.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,5.07; accession=0001628280-26-038499"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-07-30",
+    "acceptance_datetime": "2026-07-30T12:06:25.000Z",
+    "report_date": "2026-07-30",
+    "accession": "0001178670-26-000060",
+    "primary_document": "alny-20260730.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001178670-26-000060"
+  },
+  {
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "filing_date": "2026-10-29",
+    "acceptance_datetime": "2026-10-29T12:16:25.000Z",
+    "report_date": "2026-10-29",
+    "accession": "0001178670-26-000074",
+    "primary_document": "alny-20261029.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=2.02,9.01; accession=0001178670-26-000074"
+  },
+  {
+    "form": "8-K",
+    "items": "5.02,8.01",
+    "filing_date": "2026-11-05",
+    "acceptance_datetime": "2026-11-05T12:37:11.000Z",
+    "report_date": "2026-11-02",
+    "accession": "0001178670-26-000080",
+    "primary_document": "alny-20261102.htm",
+    "cik": "0001178670",
+    "issuer_name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "tickers": [
+      "ALNY"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001178670.json",
+    "locator": "8-K items=5.02,8.01; accession=0001178670-26-000080"
+  }
+]

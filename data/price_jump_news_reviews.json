@@ -1,7 +1,7 @@
 {
   "as_of": "2026-11-06",
   "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
-  "tranche": "ge50_first_batch_2013_2016",
+  "tranche": "ge50_complete_plus_ge30_partial_2013_2016",
   "reviews": [
     {
       "symbol": "ERII",
@@ -382,6 +382,176 @@
       "news_filter": "keep",
       "detail": "FDA agreed to change Rocket 2 primary endpoint IOP range after Rocket 1 subgroup analysis; clinical/regulatory path for Rhopressa.",
       "locator": "https://www.fiercebiotech.com/r-d/aerie-pharma-shares-soar-as-fda-lowers-hurdle-for-phiii"
+    },
+    {
+      "symbol": "PBYI",
+      "qdate": "2014-07-23",
+      "close_return": 2.954,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 3 ExteNET: neratinib adjuvant therapy improved DFS 33% vs placebo in early-stage HER2+ breast cancer; NDA planned 1H15. Extreme print from trial success, not split.",
+      "locator": "https://www.cnbc.com/2014/07/23/puma-shares-nearly-triple-on-drug-news-but-options-smell-fishy.html"
+    },
+    {
+      "symbol": "EDR",
+      "qdate": "2014-12-01",
+      "close_return": 1.982,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Education Realty Trust 1-for-3 reverse stock split effective Dec 1 2014 8:00am ET. Apparent ~198% close-to-close print is mechanical split artifact, not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1302343/000130234314000171/ex31articlesofamendmentrer.htm"
+    },
+    {
+      "symbol": "GWPH",
+      "qdate": "2016-03-14",
+      "close_return": 1.203,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 3 Epidiolex (CBD) Dravet syndrome: primary endpoint met; median convulsive seizure reduction 39% vs 13% placebo (p=0.01).",
+      "locator": "https://www.globenewswire.com/news-release/2016/03/14/819375/0/en/gw-pharmaceuticals-announces-positive-phase-3-pivotal-study-results-for-epidiolex-cannabidiol.html"
+    },
+    {
+      "symbol": "LEAP",
+      "qdate": "2013-07-15",
+      "close_return": 1.124,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "AT&T agreed to acquire Leap Wireless for $15/share cash (~$1.2B) plus Chicago spectrum proceeds. Note: modern cik2symbol may map a different LEAP issuer.",
+      "locator": "https://www.fool.com/investing/general/2013/07/15/why-leap-wireless-shares-leapt-higher.aspx"
+    },
+    {
+      "symbol": "RGLS",
+      "qdate": "2014-10-22",
+      "close_return": 1.031,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Interim Phase 1 RG-101 HCV: single 2mg/kg SC dose mean 4.1 log10 viral load reduction at day 29; human proof-of-concept for microRNA therapeutic.",
+      "locator": "https://www.prnewswire.com/news-releases/a-single-subcutaneous-dose-of-2mgkg-of-rg-101-regulus-wholly-owned-galnac-conjugated-anti-mir-targeting-microrna-122-demonstrates-41-log10-mean-viral-load-reduction-as-monotherapy-at-day-29-in-patients-with-varied-hcv-genoty-248366539.html"
+    },
+    {
+      "symbol": "PLUG",
+      "qdate": "2014-03-25",
+      "close_return": 0.49,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "CEO interview suggested additional North America automaker order; next day clarified as already-disclosed. Commercial-order chatter, not keep 2/3/4.",
+      "locator": "https://moneymorning.com/2014/03/26/plug-power-nasdaq-plug-stock-tumbling-today-49-leap"
+    },
+    {
+      "symbol": "OPEN",
+      "qdate": "2014-06-13",
+      "close_return": 0.483,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Priceline agreed to acquire OpenTable for $103/share cash (~$2.6B). Historical OpenTable ticker OPEN.",
+      "locator": "https://www.reuters.com/article/idUSKBN0EO16920140613/"
+    },
+    {
+      "symbol": "SPWR",
+      "qdate": "2013-01-03",
+      "close_return": 0.48,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Sold Antelope Valley solar projects to MidAmerican/Berkshire for ~$2\u20132.5B construction/sale contracts. Project sale, not M&A of SunPower / trial / breakthrough keep.",
+      "locator": "https://www.reuters.com/article/business/sunpower-inks-25-billion-deal-with-buffett-utility-idUSBRE9010M1/"
+    },
+    {
+      "symbol": "ADT",
+      "qdate": "2016-02-16",
+      "close_return": 0.475,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Apollo agreed to acquire ADT for $42/share cash (~$7B equity) and merge with Protection 1.",
+      "locator": "https://www.cnbc.com/2016/02/16/apollo-global-to-buy-adt-for-42-a-share.html"
+    },
+    {
+      "symbol": "NGL",
+      "qdate": "2016-01-08",
+      "close_return": 0.456,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Sold TransMontaigne GP/IDRs to ArcLight for $350M cash. Asset/GP sale by NGL, not keep 2/3/4 takeout of NGL.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1504461/000110465916089165/a16-1613_1ex99d1.htm"
+    },
+    {
+      "symbol": "FSLR",
+      "qdate": "2013-04-09",
+      "close_return": 0.455,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Primary catalyst was raised 2013 guidance far above Street; also announced TetraSun tuck-in. Guidance/outlook not keep 2/3/4.",
+      "locator": "https://www.investors.com/news/technology/first-solar-stock-jumps-on-outlook-tetrasun-acquisition/"
+    },
+    {
+      "symbol": "AKBA",
+      "qdate": "2015-09-09",
+      "close_return": 0.455,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 2 vadadustat in dialysis CKD anemia: maintained hemoglobin after conversion from rESA; favorable safety.",
+      "locator": "https://ir.akebia.com/static-files/ceff12e8-01a0-484f-a136-2026c2e2fbfb"
+    },
+    {
+      "symbol": "MBI",
+      "qdate": "2013-05-06",
+      "close_return": 0.454,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Comprehensive Bank of America litigation settlement (~$1.6B cash + related terms). Legal settlement, not keep 2/3/4.",
+      "locator": "https://investor.mbia.com/investor-relations/press-releases/press-release-details/2013/MBIA-Announces-Comprehensive-Settlement-with-Bank-of-America/default.aspx"
+    },
+    {
+      "symbol": "AERI",
+      "qdate": "2016-09-15",
+      "close_return": 0.449,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Mercury 1 Phase 3 Roclatan met primary endpoint; superior IOP lowering vs each component (Rhopressa and latanoprost).",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1337553/000119312516709634/d248088dex991.htm"
+    },
+    {
+      "symbol": "INFI",
+      "qdate": "2014-09-03",
+      "close_return": 0.44,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "AbbVie global collaboration on duvelisib ($275M upfront). Partnership/license, not M&A of Infinity as target.",
+      "locator": "https://news.abbvie.com/2014-09-03-Infinity-And-AbbVie-Announce-Global-Strategic-Collaboration-To-Develop-And-Commercialize-Duvelisib-IPI-145-In-Oncology"
+    },
+    {
+      "symbol": "ALNY",
+      "qdate": "2014-01-13",
+      "close_return": 0.409,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Sanofi/Genzyme bought ~12% stake for $700M and expanded rare-disease RNAi collaboration. Minority stake/partnership, not keep-class takeout.",
+      "locator": "https://www.reuters.com/article/business/sanofi-to-buy-12-percent-of-alnylam-expands-rare-disease-drug-deal-idUSBREA0C07L/"
+    },
+    {
+      "symbol": "NAV",
+      "qdate": "2016-09-06",
+      "close_return": 0.407,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Volkswagen Truck & Bus $256M investment for 16.6% stake plus strategic alliance. Minority stake/alliance, not definitive takeout of Navistar.",
+      "locator": "https://www.cnbc.com/2016/09/06/volkswagen-takes-256-million-navistar-stake-in-trucks-push.html"
     }
   ]
 }

@@ -23762,15 +23762,17 @@
     "prev_volume": 348777.0,
     "vol_ratio": 42.2852194955516,
     "cik": "0001517022",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://ir.akebia.com/static-files/ceff12e8-01a0-484f-a136-2026c2e2fbfb",
+    "news_detail": "Phase 2 vadadustat in dialysis CKD anemia: maintained hemoglobin after conversion from rESA; favorable safety."
   },
   {
     "symbol": "ASTI",

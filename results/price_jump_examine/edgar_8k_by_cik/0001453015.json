@@ -1,0 +1,18 @@
+[
+  {
+    "form": "8-K12G3",
+    "items": "8.01",
+    "filing_date": "2009-01-02",
+    "acceptance_datetime": "2009-01-02T17:06:48.000Z",
+    "report_date": "2009-01-02",
+    "accession": "0000912282-09-000004",
+    "primary_document": "bp6k_8k12g3.htm",
+    "cik": "0001453015",
+    "issuer_name": "Ballard Power Systems Inc.",
+    "tickers": [
+      "BLDP"
+    ],
+    "source": "https://data.sec.gov/submissions/CIK0001453015.json",
+    "locator": "8-K items=8.01; accession=0000912282-09-000004"
+  }
+]

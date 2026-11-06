@@ -363,24 +363,26 @@ def build_news_queue(rows: list[dict], root: Path, min_return: float = GE50_RETU
     return queue
 
 
-def write_news_queue(root: Path, queue: list[dict]) -> Path:
+def write_news_queue(root: Path, queue: list[dict], min_return: float = GE50_RETURN,
+                     filename: str = 'news_queue_ge50.json') -> Path:
     out = root / 'results/price_jump_examine'
     out.mkdir(parents=True, exist_ok=True)
     first = [r for r in queue if r.get('include_in_first_news_batch')]
     payload = dict(
         as_of=date.today().isoformat(),
-        min_close_return=GE50_RETURN,
+        min_close_return=min_return,
         min_prev_close=MIN_PREV_CLOSE,
         n_queue=len(queue),
         n_first_batch=len(first),
         notes=[
-            'Queue requires pending_news_review, mapped CIK, has_option, prev_close>=5, close_return>=50%.',
+            f'Queue requires pending_news_review, mapped CIK, has_option, prev_close>=5, '
+            f'close_return>={min_return:.0%}.',
             'hazard_extreme_print (>=100%) excluded from first news batch until EDGAR/news says otherwise.',
         ],
         queue=queue,
         first_batch=first,
     )
-    path = out / 'news_queue_ge50.json'
+    path = out / filename
     path.write_text(json.dumps(payload, indent=2) + '\n')
     return path
 
@@ -522,15 +524,21 @@ def refresh_windows(root: Path, windows: list[tuple[date, date]], pause: float =
             )
             manifests.append(write_outputs(root, rows, start, end))
             all_rows.extend(rows)
-    queue = build_news_queue(all_rows, root)
-    write_news_queue(root, queue)
+    queue50 = build_news_queue(all_rows, root, min_return=GE50_RETURN)
+    write_news_queue(root, queue50, min_return=GE50_RETURN, filename='news_queue_ge50.json')
+    queue30 = build_news_queue(all_rows, root, min_return=0.30)
+    # ge30 first batch excludes rows already covered by ge50 reviews when pending cleared;
+    # still include extreme hazards but flag them.
+    write_news_queue(root, queue30, min_return=0.30, filename='news_queue_ge30.json')
     summary = dict(
         windows=[dict(start=s.isoformat(), end=e.isoformat()) for s, e in windows],
         n_jumps=len(all_rows),
         news_filter_counts=dict(Counter(r['news_filter'] for r in all_rows)),
         cause_class_counts=dict(Counter(r['cause_class'] for r in all_rows)),
-        n_queue_ge50=len(queue),
-        n_first_batch=sum(1 for r in queue if r.get('include_in_first_news_batch')),
+        n_queue_ge50=len(queue50),
+        n_first_batch_ge50=sum(1 for r in queue50 if r.get('include_in_first_news_batch')),
+        n_queue_ge30=len(queue30),
+        n_first_batch_ge30=sum(1 for r in queue30 if r.get('include_in_first_news_batch')),
         manifests=manifests,
     )
     (root / 'results/price_jump_examine/refresh_summary.json').write_text(

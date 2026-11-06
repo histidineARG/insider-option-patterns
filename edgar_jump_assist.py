@@ -73,8 +73,10 @@ def hint_for_items(items: set[str]) -> str | None:
     return 'other_8k_same_session'
 
 
-def run(root: Path = Path('.'), pause: float = 0.12) -> dict:
-    queue_path = root / 'results/price_jump_examine/news_queue_ge50.json'
+def run(root: Path = Path('.'), pause: float = 0.12,
+        queue_name: str = 'news_queue_ge50.json',
+        out_name: str = 'edgar_assist_ge50.json') -> dict:
+    queue_path = root / 'results/price_jump_examine' / queue_name
     queue_payload = json.loads(queue_path.read_text())
     rows = queue_payload.get('first_batch') or queue_payload.get('queue') or []
     session_meta = load_session_meta(root)
@@ -151,7 +153,7 @@ def run(root: Path = Path('.'), pause: float = 0.12) -> dict:
         ],
         rows=assist,
     )
-    path = out_dir / 'edgar_assist_ge50.json'
+    path = out_dir / out_name
     path.write_text(json.dumps(payload, indent=2) + '\n')
     print(json.dumps(dict(
         n_queue_rows=payload['n_queue_rows'],
@@ -167,8 +169,10 @@ def run(root: Path = Path('.'), pause: float = 0.12) -> dict:
 def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument('--pause', type=float, default=0.12)
+    p.add_argument('--queue', default='news_queue_ge50.json')
+    p.add_argument('--out', default='edgar_assist_ge50.json')
     args = p.parse_args(argv)
-    run(Path('.'), pause=args.pause)
+    run(Path('.'), pause=args.pause, queue_name=args.queue, out_name=args.out)
 
 
 if __name__ == '__main__':
