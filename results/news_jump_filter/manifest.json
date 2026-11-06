@@ -1,16 +1,21 @@
 {
-  "events_reviewed": 18,
-  "keep_ma_contaminated": 18,
-  "drop_non_ma": 0,
+  "policy": "keep 2,3,4; drop 1 (earnings only)",
+  "events_reviewed": 45,
+  "keep": 45,
+  "drop_earnings": 0,
+  "cause_class_counts": {
+    "2_ma": 45
+  },
   "jump_cause_counts": {
-    "ma_rumor": 10,
-    "ma_news": 8
+    "ma_news": 35,
+    "ma_rumor": 10
   },
   "source_sha256": {
-    "data/event_review_overrides.json": "c80d88c20358af012043846b49cc50574233006f071f4a504ec7b5a1b6fa38b7"
+    "data/event_review_overrides.json": "02823a5427fd5f5a7cc08883b22151d3aad599763d1dffb993784cae8ff2a94e"
   },
   "notes": [
-    "News filter does not set first_public_disclosure_verified or training_label_ready.",
-    "Earnings catalysts are ignored by design; none found for this contaminated set."
+    "Keep classes 2/3/4; drop earnings only.",
+    "Current reviewed cohort members are all class 2 (M&A). Classes 3 and 4 are kept by policy when found.",
+    "news_filter keep_ma_contaminated means kept under class 2 but first_public/training still gated."
   ]
 }

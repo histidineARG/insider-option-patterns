@@ -1,6 +1,6 @@
 {
   "reviewed_as_of": "2026-11-06",
-  "scope": "Primary-source chronology findings; incomplete review is not evidence of no earlier disclosure. Jump-cause news filter for \u226515% reactions prioritizes M&A rumor/news and biotech-trial/tech-breakthrough catalysts and ignores earnings. Contaminated events may still be kept as M&A after news filter while first_public_disclosure_verified stays false when earlier public M&A news exists. training_label_ready remains separately gated.",
+  "scope": "Primary-source chronology findings; incomplete review is not evidence of no earlier disclosure. News jump-cause filter for \u226515% reactions uses four classes: (1) earnings \u2014 drop; (2) M&A rumor/news \u2014 keep; (3) biotech clinical-trial success \u2014 keep; (4) tech product breakthrough \u2014 keep. Contaminated keepers may remain in cohort with first_public_disclosure_verified false when earlier public news exists. training_label_ready remains separately gated.",
   "events": [
     {
       "symbol": "ONXX",
@@ -146,7 +146,10 @@
       "first_public_lower_utc": "2016-02-16T11:40:00+00:00",
       "first_public_upper_utc": "2016-02-16T11:40:00+00:00",
       "timing_source": "https://www.cnbc.com/2016/02/16/apollo-global-to-buy-adt-for-42-a-share.html",
-      "timing_locator": "CNBC stamp Published Tue, Feb 16 2016 6:40 AM EST"
+      "timing_locator": "CNBC stamp Published Tue, Feb 16 2016 6:40 AM EST",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "VRTU",
@@ -287,7 +290,10 @@
       "first_public_lower_utc": "2024-05-28T06:15:00+00:00",
       "first_public_upper_utc": "2024-05-28T06:15:00+00:00",
       "timing_source": "https://news.cision.com/asahi-kasei-corporation/r/asahi-kasei-announces-a-recommended-public-cash-offer-to-the-shareholders-and-ads-holders-of-callidi,c3989203",
-      "timing_locator": "Cision stamp Tue, May 28, 2024 08:15 CET; submitted for publication 08.15 a.m. CEST"
+      "timing_locator": "Cision stamp Tue, May 28, 2024 08:15 CET; submitted for publication 08.15 a.m. CEST",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "HNZ",
@@ -317,7 +323,10 @@
       "first_public_lower_utc": "2013-02-14T12:45:00+00:00",
       "first_public_upper_utc": "2013-02-14T12:45:00+00:00",
       "timing_source": "https://www.cnbc.com/id/100460594",
-      "timing_locator": "CNBC Squawk Box unofficial transcript: Andrew Ross Sorkin breaking news at 7:45 AM ET February 14, 2013"
+      "timing_locator": "CNBC Squawk Box unofficial transcript: Andrew Ross Sorkin breaking news at 7:45 AM ET February 14, 2013",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "AFOP",
@@ -346,7 +355,10 @@
       "first_public_lower_utc": "2016-04-07T23:18:00+00:00",
       "first_public_upper_utc": "2016-04-07T23:18:00+00:00",
       "timing_source": "https://www.globenewswire.com/news-release/2016/04/07/1891173/0/en/corning-to-acquire-alliance-fiber-optic-products-inc.html",
-      "timing_locator": "GlobeNewswire stamp April 07, 2016 19:18 ET"
+      "timing_locator": "GlobeNewswire stamp April 07, 2016 19:18 ET",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "LNKD",
@@ -375,7 +387,10 @@
       "first_public_lower_utc": "2016-06-13T12:30:00+00:00",
       "first_public_upper_utc": "2016-06-13T12:30:00+00:00",
       "timing_source": "https://www.sec.gov/Archives/edgar/data/789019/000119312516619689/d116815dex992.htm",
-      "timing_locator": "Microsoft/LinkedIn joint press release header: For Release 5:30 a.m. PDT June 13, 2016"
+      "timing_locator": "Microsoft/LinkedIn joint press release header: For Release 5:30 a.m. PDT June 13, 2016",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "JOY",
@@ -404,7 +419,10 @@
       "first_public_lower_utc": "2016-07-21T05:40:00+00:00",
       "first_public_upper_utc": "2016-07-21T05:40:00+00:00",
       "timing_source": "https://kommunikasjon.ntb.no/pressemelding/11713139/joy-global-announces-agreement-to-be-acquired-by-komatsu-in-37-billion-all-cash-transaction?publisherId=90063",
-      "timing_locator": "Business Wire redistribution stamp 21.7.2016 07:40:00 CEST"
+      "timing_locator": "Business Wire redistribution stamp 21.7.2016 07:40:00 CEST",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "SWC",
@@ -433,7 +451,10 @@
       "first_public_lower_utc": "2016-12-09T06:04:00+00:00",
       "first_public_upper_utc": "2016-12-09T06:04:00+00:00",
       "timing_source": "https://www.prnewswire.com/news-releases/sibanye-to-acquire-stillwater-mining-company-for-22-billion-300375883.html",
-      "timing_locator": "Stillwater PR Newswire stamp Dec 09, 2016, 01:04 ET"
+      "timing_locator": "Stillwater PR Newswire stamp Dec 09, 2016, 01:04 ET",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "CEB",
@@ -462,7 +483,10 @@
       "first_public_lower_utc": "2017-01-05T12:00:00+00:00",
       "first_public_upper_utc": "2017-01-05T12:00:00+00:00",
       "timing_source": "https://www.businesswire.com/news/home/20170105005728/en/Gartner-Acquire-CEB-2.6-Billion-Cash-Stock",
-      "timing_locator": "Business Wire stamp January 05, 2017 07:00 AM Eastern Standard Time"
+      "timing_locator": "Business Wire stamp January 05, 2017 07:00 AM Eastern Standard Time",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "BIVV",
@@ -529,7 +553,10 @@
       "first_public_lower_utc": "2019-04-15T12:00:00+00:00",
       "first_public_upper_utc": "2019-04-15T12:00:00+00:00",
       "timing_source": "https://www.globenewswire.com/news-release/2019/04/15/1803932/0/en/efi-announces-definitive-agreement-to-be-acquired-by-an-affiliate-of-siris-capital-group-llc-in-all-cash-transaction-valued-at-approximately-1-7-billion.html",
-      "timing_locator": "GlobeNewswire stamp April 15, 2019 08:00 ET"
+      "timing_locator": "GlobeNewswire stamp April 15, 2019 08:00 ET",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "BOLD",
@@ -558,7 +585,10 @@
       "first_public_lower_utc": "2019-12-02T23:18:00+00:00",
       "first_public_upper_utc": "2019-12-02T23:18:00+00:00",
       "timing_source": "https://www.bloomberg.com/news/articles/2019-12-02/astellas-pharma-to-buy-audentes-in-3-billion-gene-therapy-deal",
-      "timing_locator": "Bloomberg article stamp December 2, 2019 at 6:18 PM EST"
+      "timing_locator": "Bloomberg article stamp December 2, 2019 at 6:18 PM EST",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "COHR",
@@ -626,7 +656,10 @@
       "first_public_lower_utc": "2024-01-19T13:00:00+00:00",
       "first_public_upper_utc": "2024-01-19T13:00:00+00:00",
       "timing_source": "https://markets.financialcontent.com/am-news/article/bizwire-2024-1-19-kaman-to-be-acquired-by-arcline-for-18-billion",
-      "timing_locator": "Business Wire redistribution timestamp January 19, 2024 at 08:00 AM EST"
+      "timing_locator": "Business Wire redistribution timestamp January 19, 2024 at 08:00 AM EST",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "MAXR",
@@ -694,7 +727,10 @@
       "first_public_lower_utc": "2022-01-19T06:00:00+00:00",
       "first_public_upper_utc": "2022-01-19T06:00:00+00:00",
       "timing_source": "https://www.prnewswire.com/news-releases/ucb-to-acquire-zogenix-301463511.html",
-      "timing_locator": "PR Newswire stamp Jan 19, 2022, 01:00 ET"
+      "timing_locator": "PR Newswire stamp Jan 19, 2022, 01:00 ET",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "AVXS",
@@ -940,7 +976,10 @@
       "post_event_ticker_notes": "Smithfield delisted after Shuanghui close. A later unrelated Smithfield Foods public listing reused ticker SFD (same CIK lineage reincarnation/relisting hazard); do not mix post-2025 SFD quotes with this 2013 episode.",
       "consideration_notes": "All-cash acquisition by Shuanghui International; cash consideration per share per definitive announcement.",
       "first_public_lower_utc": "2013-05-29T11:30:00+00:00",
-      "first_public_upper_utc": "2013-05-29T11:30:00+00:00"
+      "first_public_upper_utc": "2013-05-29T11:30:00+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "XRTX",
@@ -973,7 +1012,10 @@
       "post_event_ticker_notes": "Xyratex deregistered/delisted after Seagate close (Form 25 / 15-12G 2014); no later unrelated XRTX reincarnation identified for this review.",
       "consideration_notes": "All-cash $13.25 per share (~$374M equity value including cash on balance sheet per joint release).",
       "first_public_lower_utc": "2013-12-23T13:30:00+00:00",
-      "first_public_upper_utc": "2013-12-23T13:30:00+00:00"
+      "first_public_upper_utc": "2013-12-23T13:30:00+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "BEAM",
@@ -1006,7 +1048,10 @@
       "post_event_ticker_notes": "Beam Inc. delisted after Suntory close. Later NASDAQ BEAM is Beam Therapeutics Inc. (CIK 1745999)\u2014unrelated reincarnation; do not mix quotes.",
       "consideration_notes": "All-cash Suntory acquisition (~$13.6B / ~$83.50 per share class of consideration per contemporaneous coverage).",
       "first_public_lower_utc": "2014-01-13T12:00:00+00:00",
-      "first_public_upper_utc": "2014-01-13T12:00:00+00:00"
+      "first_public_upper_utc": "2014-01-13T12:00:00+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "ZLC",
@@ -1039,7 +1084,10 @@
       "post_event_ticker_notes": "Zale delisted after Signet close; no later unrelated ZLC reincarnation identified.",
       "consideration_notes": "All-cash $21.00 per share Signet acquisition.",
       "first_public_lower_utc": "2014-02-19T12:23:19+00:00",
-      "first_public_upper_utc": "2014-02-19T12:23:19+00:00"
+      "first_public_upper_utc": "2014-02-19T12:23:19+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "SUSS",
@@ -1072,7 +1120,10 @@
       "post_event_ticker_notes": "Susser Holdings delisted into Energy Transfer structure; SUSP/SUN lineage is a related MLP story, not an unrelated SUSS reincarnation.",
       "consideration_notes": "Cash-and-unit election ($80.25 cash or 1.4506 ETP units, 50/50 proration) per ETP merger agreement.",
       "first_public_lower_utc": "2014-04-28T11:00:00+00:00",
-      "first_public_upper_utc": "2014-04-28T11:00:00+00:00"
+      "first_public_upper_utc": "2014-04-28T11:00:00+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "FMI",
@@ -1105,7 +1156,10 @@
       "post_event_ticker_notes": "Roche acquired a majority stake in 2015; FMI later fully acquired/delisted in 2018. No unrelated FMI reincarnation identified for this review.",
       "consideration_notes": "Majority stake: Roche tender/investment at $50.00 per share plus collaboration funding\u2014not a full take-private at the January 12, 2015 announcement.",
       "first_public_lower_utc": "2015-01-12T13:02:00+00:00",
-      "first_public_upper_utc": "2015-01-12T13:02:00+00:00"
+      "first_public_upper_utc": "2015-01-12T13:02:00+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "POZN",
@@ -1139,7 +1193,10 @@
       "post_event_ticker_notes": "Surviving public vehicle became Aralez (ticker change); original POZN symbol retired. No unrelated later POZN reincarnation identified.",
       "consideration_notes": "Stock+cash combination forming Aralez Pharmaceuticals; treat as transformative merger consideration, not a simple all-cash takeout.",
       "first_public_lower_utc": "2015-06-08T14:59:24+00:00",
-      "first_public_upper_utc": "2015-06-08T14:59:24+00:00"
+      "first_public_upper_utc": "2015-06-08T14:59:24+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "PCP",
@@ -1216,7 +1273,10 @@
       "post_event_ticker_notes": "Lam/KLA deal later terminated; KLAC continued trading and remains the same issuer lineage (name change to KLA). Not a delisting reincarnation.",
       "consideration_notes": "Cash-and-stock Lam Research combination (~$32.00 cash + 0.5 Lam share election structure, ~$67.02 headline value at announcement). Deal subsequently terminated.",
       "first_public_lower_utc": "2015-10-21T08:00:00+00:00",
-      "first_public_upper_utc": "2015-10-21T08:00:00+00:00"
+      "first_public_upper_utc": "2015-10-21T08:00:00+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "ARG",
@@ -1293,7 +1353,10 @@
       "post_event_ticker_notes": "Affymetrix delisted after Thermo Fisher close; no later unrelated AFFX reincarnation identified.",
       "consideration_notes": "All-cash $14.00 per share Thermo Fisher acquisition.",
       "first_public_lower_utc": "2016-01-08T21:50:00+00:00",
-      "first_public_upper_utc": "2016-01-08T21:50:00+00:00"
+      "first_public_upper_utc": "2016-01-08T21:50:00+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "ALR",
@@ -1326,7 +1389,10 @@
       "post_event_ticker_notes": "Alere delisted after Abbott close (deal closed after prolonged dispute); no unrelated ALR reincarnation identified for this review.",
       "consideration_notes": "All-cash $56.00 per share Abbott agreement as announced February 1, 2016 (later renegotiated before close\u2014announcement consideration recorded separately from final close terms).",
       "first_public_lower_utc": "2016-02-01T10:22:00+00:00",
-      "first_public_upper_utc": "2016-02-01T10:22:00+00:00"
+      "first_public_upper_utc": "2016-02-01T10:22:00+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "CSCD",
@@ -1359,7 +1425,10 @@
       "post_event_ticker_notes": "Cascade Microtech delisted after FormFactor close; no later unrelated CSCD reincarnation identified.",
       "consideration_notes": "Cash-and-stock FormFactor combination per definitive announcement.",
       "first_public_lower_utc": "2016-02-04T12:00:00+00:00",
-      "first_public_upper_utc": "2016-02-04T12:00:00+00:00"
+      "first_public_upper_utc": "2016-02-04T12:00:00+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "LF",
@@ -1392,7 +1461,10 @@
       "post_event_ticker_notes": "LeapFrog delisted after VTech tender/close; no later unrelated LF reincarnation identified.",
       "consideration_notes": "All-cash tender $1.00 per share VTech acquisition.",
       "first_public_lower_utc": "2016-02-05T14:16:00+00:00",
-      "first_public_upper_utc": "2016-02-05T14:16:00+00:00"
+      "first_public_upper_utc": "2016-02-05T14:16:00+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "CKP",
@@ -1428,7 +1500,10 @@
       "post_event_ticker_notes": "Checkpoint Systems delisted after CCL close; Checkpoint Therapeutics (CKPT) is an unrelated issuer.",
       "consideration_notes": "All-cash $10.15 per share CCL Industries acquisition.",
       "first_public_lower_utc": "2016-03-02T13:25:00+00:00",
-      "first_public_upper_utc": "2016-03-02T13:25:00+00:00"
+      "first_public_upper_utc": "2016-03-02T13:25:00+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "VAL",
@@ -1505,7 +1580,10 @@
       "post_event_ticker_notes": "Ruckus delisted after Brocade exchange offer/close; no unrelated RKUS reincarnation identified.",
       "consideration_notes": "Cash-and-stock Brocade consideration ($6.45 cash + 0.75 Brocade share per Ruckus share at announcement).",
       "first_public_lower_utc": "2016-04-04T12:47:50+00:00",
-      "first_public_upper_utc": "2016-04-04T12:47:50+00:00"
+      "first_public_upper_utc": "2016-04-04T12:47:50+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     },
     {
       "symbol": "VA",
@@ -1584,7 +1662,32 @@
       "post_event_ticker_notes": "GCI combined into GCI Liberty via Liberty Interactive reorganization; original GNCMA delisted. Successor GCI Liberty tickers are related corporate succession, not an unrelated reincarnation.",
       "consideration_notes": "Liberty Interactive reorganization consideration (~$32.50 headline value in Ventures common + preferred package per joint release)\u2014not a simple all-cash takeout.",
       "first_public_lower_utc": "2017-04-04T12:07:00+00:00",
-      "first_public_upper_utc": "2017-04-04T12:07:00+00:00"
+      "first_public_upper_utc": "2017-04-04T12:07:00+00:00",
+      "jump_cause": "ma_news",
+      "jump_cause_detail": "Confirmed public-target M&A announcement reaction (\u226515%); news-filter class 2 (keep). Not earnings.",
+      "news_filter": "keep"
     }
-  ]
+  ],
+  "news_jump_cause_policy": {
+    "as_of": "2026-11-06",
+    "keep_classes": [
+      "ma_rumor",
+      "ma_news",
+      "biotech_trial",
+      "tech_breakthrough"
+    ],
+    "drop_classes": [
+      "earnings"
+    ],
+    "class_map": {
+      "1_earnings": "earnings",
+      "2_ma_rumor_or_news": [
+        "ma_rumor",
+        "ma_news"
+      ],
+      "3_biotech_trial_success": "biotech_trial",
+      "4_tech_product_breakthrough": "tech_breakthrough"
+    },
+    "rule": "keep 2,3,4; drop 1 (earnings only)"
+  }
 }
