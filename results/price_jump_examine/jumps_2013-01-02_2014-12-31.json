@@ -1611,14 +1611,16 @@
     "vol_ratio": 7.437424789410349,
     "cik": "0001133311",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2013/01/24/why-travelzoo-shares-took-flight.aspx",
+    "news_detail": "Q4 revenue beat ($37M vs ~$35.5M est) despite EPS drop. Earnings, not keep 2/3/4."
   },
   {
     "symbol": "OCZ",
@@ -4523,14 +4525,16 @@
     "vol_ratio": 5.981439879065276,
     "cik": "0000814585",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.reuters.com/article/breakingviews/mbia-wins-end-to-banks-lawsuit-over-restructuring-idUSBRE9230YV/",
+    "news_detail": "NY court dismissed BofA/SocGen suit challenging 2009 restructuring. Litigation win, not keep 2/3/4."
   },
   {
     "symbol": "NEWN",
@@ -6015,15 +6019,17 @@
     "prev_volume": 1437200.0,
     "vol_ratio": 15.530962983579181,
     "cik": "0001070494",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://acadia.com/en-us/media/news-releases/acadia-announces-presentation-data-its-pivotal-phase-iii",
+    "news_detail": "AAN presentation of full Phase 3 -020 pimavanserin PDP data confirming primary/secondary efficacy endpoints. Class-3 trial keep."
   },
   {
     "symbol": "ANAC",
@@ -10723,14 +10729,16 @@
     "vol_ratio": 4.225074626865672,
     "cik": "0001265107",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://qz.com/85330/goldman-sachs-makes-a-500-million-bet-on-elon-musks-solar-business",
+    "news_detail": "Q1 earnings/call; Goldman >$500M lease financing announced May 16. Earnings session, not keep 2/3/4."
   },
   {
     "symbol": "SUTR",
@@ -14202,14 +14210,16 @@
     "vol_ratio": 8.234888113920372,
     "cik": "0001316517",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.yahoo.com/news/kandi-shares-jump-news-ev-143818872.html",
+    "news_detail": "Hangzhou EV-sharing program groundbreaking; 5k\u201310k Kandi vehicles year-one. Sales/ops, not keep 2/3/4."
   },
   {
     "symbol": "AMCC",
@@ -15401,14 +15411,16 @@
     "vol_ratio": 5.710370298376907,
     "cik": "0000087050",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2013/09/05/why-neonode-shares-popped.aspx",
+    "news_detail": "First design win / license with undisclosed Tier-One South Korea consumer-electronics OEM. Partnership/design-win, not keep 2/3/4."
   },
   {
     "symbol": "NUS",
@@ -19046,14 +19058,16 @@
     "vol_ratio": 8.758064516129032,
     "cik": "0001499543",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2013/08/09/why-noah-holdings-shares-soared.aspx",
+    "news_detail": "Oppenheimer upgrade to Outperform/$18 plus raised 2013 profit guide. Analyst/guidance, not keep 2/3/4."
   },
   {
     "symbol": "NPSP",
@@ -24268,14 +24282,16 @@
     "vol_ratio": 4.9028286677414625,
     "cik": "0001840292",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2013/10/18/why-athenahealth-inc-shares-skyrocketed.aspx",
+    "news_detail": "Q3 results: revenue +43% to $151.5M; held FY EPS guide. Earnings, not keep 2/3/4."
   },
   {
     "symbol": "CMG",
@@ -41006,14 +41022,16 @@
     "vol_ratio": 7.321058570109755,
     "cik": "0001370416",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2014/05/02/why-westport-innovations-inc-shares-skyrocketed.aspx",
+    "news_detail": "Q1 revenue +39% to $41.9M, narrowed loss, FY revenue guide $175\u2013185M. Earnings, not keep 2/3/4."
   },
   {
     "symbol": "CDZI",
@@ -47374,14 +47392,16 @@
     "vol_ratio": 4.375755252953377,
     "cik": "0001375877",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-reports-second-quarter-2014-results",
+    "news_detail": "Q2 earnings beat: revenue $623.8M, EPS $0.95 vs ~$0.58 est; raised Q3 guide. Earnings, not keep 2/3/4."
   },
   {
     "symbol": "LIVE",

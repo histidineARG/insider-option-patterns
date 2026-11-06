@@ -3347,14 +3347,16 @@
     "vol_ratio": 2.9419226988312763,
     "cik": "0001590714",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/922475/000108636415001553/0001086364-15-001553.txt",
+    "news_detail": "BlackRock 13G disclosed ~5.4% stake. Ownership filing, not keep 2/3/4."
   },
   {
     "symbol": "FMSA",
@@ -13327,14 +13329,16 @@
     "vol_ratio": 2.51704526443062,
     "cik": "0001116463",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.wsnewspublishers.com/mondays-stocks-buzz-harvest-natural-resources-inc-nysehnr-orasure-technologies-inc-nasdaqosur-state-street-corp-nysestt-franklin-universal-trust-nyseft/157954/",
+    "news_detail": "No confirmed same-day keep PR; Nasdaq Hep Testing Day bell/promo was May 19. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ERN",
@@ -20610,14 +20614,16 @@
     "vol_ratio": 5.546505073280722,
     "cik": "0000065172",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.cnbc.com/2015/08/10/us-stocks-open-higher-amid-greece-dealmaking.html",
+    "news_detail": "Iron-ore royalty trust bounce with broader commodities/oil rebound; no company keep catalyst. Commodity/sector, not keep 2/3/4."
   },
   {
     "symbol": "PCP",
@@ -20714,15 +20720,17 @@
     "prev_volume": 3985041.0,
     "vol_ratio": 7.736648129843583,
     "cik": "0001000694",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://ir.novavax.com/press-releases/2015-08-10-Novavax-Announces-Positive-Top-Line-Data-from-Phase-2-RSV-F-Protein-Vaccine-Clinical-Trial-in-Older-Adults",
+    "news_detail": "Positive Phase 2 RSV F vaccine in older adults: 44% efficacy vs symptomatic RSV, 46% vs LRTI; first active RSV vaccine efficacy signal. Class-3 keep."
   },
   {
     "symbol": "SHEN",
@@ -32546,14 +32554,16 @@
     "vol_ratio": 12.683606878034034,
     "cik": "0001169445",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/1169445/000116944515000016/exhibit991-pressrelease.htm",
+    "news_detail": "CPSI as buyer agreed to acquire Healthland for $250M cash/stock. Acquirer deal, not target M&A keep."
   },
   {
     "symbol": "DRWI",
