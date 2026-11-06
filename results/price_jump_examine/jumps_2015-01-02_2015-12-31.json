@@ -15530,15 +15530,17 @@
     "prev_volume": 473822.0,
     "vol_ratio": 42.287882369328564,
     "cik": "0001691303",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_news",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.tokiomarinehd.com/en/ir/event/presentation/2015/h10q7e00000027ug-att/Joint_Press_Release_20150610.pdf",
+    "news_detail": "Tokio Marine definitive agreement to acquire HCC Insurance for $78/share cash (~$7.5B). Note: modern cik2symbol may map a different HCC issuer."
   },
   {
     "symbol": "ATLC",
@@ -17026,14 +17028,16 @@
     "vol_ratio": 2.2803743741088303,
     "cik": "0001837620",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.marketwatch.com/story/china-gains-gather-pace-2015-07-09",
+    "news_detail": "Broad China/ADR rebound after A-share rescue measures (Shanghai +~6%). Macro/sector bounce, not keep 2/3/4."
   },
   {
     "symbol": "XOMA",
@@ -26341,14 +26345,16 @@
     "vol_ratio": 4.315904815650866,
     "cik": "0001064728",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://investorplace.com/2015/10/e-du-pont-de-nemours-co-dd-peabody-energy-corporation-btu-pmc-sierra-inc-pmcs-3-todays-best-stocks/",
+    "news_detail": "Coal/commodity sector bounce on weaker USD; Peabody led coal names. Commodity/macro, not keep 2/3/4."
   },
   {
     "symbol": "CJES",
@@ -30969,14 +30975,16 @@
     "vol_ratio": 4.853038239512278,
     "cik": "0001082923",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2015/11/06/stampscom-inc-stock-soars-on-huge-third-quarter-re.aspx",
+    "news_detail": "Q3 earnings beat (rev +37%, non-GAAP EPS +62%) plus raised FY guidance; Endicia close timing update. Earnings/guidance reaction (no Item 2.02 auto-drop), not keep 2/3/4."
   },
   {
     "symbol": "TRUE",
@@ -34415,14 +34423,16 @@
     "vol_ratio": 2.5424385465675767,
     "cik": "0001265107",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.marketwatch.com/story/solarcity-stars-in-scorching-solar-sector-as-tax-break-saved-2015-12-16",
+    "news_detail": "Congress agreed to extend solar investment tax credit; broad solar-sector rally. Policy/tax subsidy, not keep 2/3/4."
   },
   {
     "symbol": "SEDG",
