@@ -22708,14 +22708,16 @@
     "vol_ratio": 13.947293447293447,
     "cik": "0000727207",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/AXDX?date=2013-09-30&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CSUN",
@@ -26748,14 +26750,16 @@
     "vol_ratio": 4.712066905615293,
     "cik": "0001720580",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ACET?date=2013-11-08&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ADES",
@@ -30840,14 +30844,16 @@
     "vol_ratio": 30.869230769230768,
     "cik": "0001334036",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.theglobeandmail.com/globe-investor/downtrodden-crocs-takes-a-big-step-forward/article16137941/",
+    "news_detail": "Blackstone $200M preferred investment / board seats; CEO retirement. Financing, not keep 2/3/4."
   },
   {
     "symbol": "CSUN",
@@ -34008,14 +34014,16 @@
     "vol_ratio": 4.111032381492241,
     "cik": "0000899866",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ALXN?date=2014-01-30&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CNQR",
@@ -43493,14 +43501,16 @@
     "vol_ratio": 2.850608631501291,
     "cik": "0001327318",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/TRUE?date=2014-06-06&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "ACHN",
@@ -43808,14 +43818,16 @@
     "vol_ratio": 10.377977720651243,
     "cik": "0001483510",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/EXPR?date=2014-06-13&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "OPEN",
@@ -56322,14 +56334,16 @@
     "vol_ratio": 5.557448991223071,
     "cik": "0001001316",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/TGTX?date=2014-12-11&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LEI",

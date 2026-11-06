@@ -3561,14 +3561,16 @@
     "vol_ratio": 4.2824142523455535,
     "cik": "0000893538",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/SM?date=2015-02-03&view=daily",
+    "news_detail": "No confirmed same-day keep PR; energy-sector move. Commodity, not keep 2/3/4."
   },
   {
     "symbol": "SSE",
@@ -8510,14 +8512,16 @@
     "vol_ratio": 12.31954404534494,
     "cik": "0001324948",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://investor.rbcbearings.com/news-releases/news-release-details/rbc-bearings-acquire-dovers-sargent-aerospace-defense-business",
+    "news_detail": "RBC Bearings as buyer agreed to acquire Dover Sargent Aerospace for $500M. Acquirer deal, not target M&A keep."
   },
   {
     "symbol": "IMH",
@@ -17735,14 +17739,16 @@
     "vol_ratio": 4.955521361040302,
     "cik": "0001069183",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/AXON?date=2015-07-17&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "EXEL",
@@ -24084,14 +24090,16 @@
     "vol_ratio": 6.804026294165982,
     "cik": "0001720580",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/ACET?date=2015-09-11&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "MRTX",

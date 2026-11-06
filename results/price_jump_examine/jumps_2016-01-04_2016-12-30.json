@@ -6123,14 +6123,16 @@
     "vol_ratio": 9.32174246601616,
     "cik": "0001041024",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/RMTI?date=2016-02-16&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SNTA",
@@ -8403,14 +8405,16 @@
     "vol_ratio": 2.857251346574848,
     "cik": "0001082923",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/STMP?date=2016-02-26&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "TWOU",
@@ -13465,14 +13469,16 @@
     "vol_ratio": 5.089217676174198,
     "cik": "0001346830",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fiercebiotech.com/biotech/cara-tanks-as-fda-clamps-a-hold-on-its-painkiller-trial",
+    "news_detail": "No confirmed same-day keep PR (clinical hold lifted later in Apr). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "CREG",
@@ -14580,14 +14586,16 @@
     "vol_ratio": 2.5024214578417983,
     "cik": "0000798528",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/OMEX?date=2016-04-01&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "PGNPQ",
@@ -30961,14 +30969,16 @@
     "vol_ratio": 2.4043563814391584,
     "cik": "0001393434",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/OCUL?date=2016-08-15&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "SORL",
@@ -34827,15 +34837,17 @@
     "prev_volume": 543440.0,
     "vol_ratio": 11.146170690416605,
     "cik": "0001364962",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "ma_rumor",
+    "cause_class": "2_ma_rumor_or_news",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.investors.com/news/technology/imperva-bids-near-security-stocks-rise-on-yahoo-breach/",
+    "news_detail": "Reports potential buyers (Cisco/IBM/Akamai/Forcepoint) exploring Imperva purchase after Yahoo breach. Confirmed M&A rumor keep."
   },
   {
     "symbol": "TWTR",
@@ -35397,14 +35409,16 @@
     "vol_ratio": 9.154537897376077,
     "cik": "0001070081",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.rttnews.com/2694240/vicl-slumps-fda-greenlights-srpt-s-dmd-drug-domino-effect-on-ptct.aspx",
+    "news_detail": "No confirmed same-day keep PR (peer DMD news was earlier). Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "LEJU",
@@ -39279,14 +39293,16 @@
     "vol_ratio": 12.003098216722451,
     "cik": "0000923796",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stocks/GEO?date=2016-11-09",
+    "news_detail": "Post-election private-prison rally. Policy/political, not keep 2/3/4."
   },
   {
     "symbol": "HFC",
@@ -39976,14 +39992,16 @@
     "vol_ratio": 2.3334622161936034,
     "cik": "0001718852",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/RXDX?date=2016-11-11&view=daily",
+    "news_detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4."
   },
   {
     "symbol": "AST",
