@@ -1,0 +1,145 @@
+[
+  {
+    "year": 2013,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 98,
+    "no_target_rows": 2,
+    "query_failures": 0,
+    "incomplete_baselines": 1,
+    "invalid_volume": 1,
+    "usable_observations": 97
+  },
+  {
+    "year": 2014,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 100,
+    "no_target_rows": 0,
+    "query_failures": 0,
+    "incomplete_baselines": 2,
+    "invalid_volume": 2,
+    "usable_observations": 98
+  },
+  {
+    "year": 2015,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 100,
+    "no_target_rows": 0,
+    "query_failures": 0,
+    "incomplete_baselines": 1,
+    "invalid_volume": 1,
+    "usable_observations": 99
+  },
+  {
+    "year": 2016,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 100,
+    "no_target_rows": 0,
+    "query_failures": 0,
+    "incomplete_baselines": 0,
+    "invalid_volume": 0,
+    "usable_observations": 100
+  },
+  {
+    "year": 2017,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 100,
+    "no_target_rows": 0,
+    "query_failures": 0,
+    "incomplete_baselines": 1,
+    "invalid_volume": 1,
+    "usable_observations": 99
+  },
+  {
+    "year": 2018,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 100,
+    "no_target_rows": 0,
+    "query_failures": 0,
+    "incomplete_baselines": 1,
+    "invalid_volume": 1,
+    "usable_observations": 99
+  },
+  {
+    "year": 2019,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 100,
+    "no_target_rows": 0,
+    "query_failures": 0,
+    "incomplete_baselines": 0,
+    "invalid_volume": 0,
+    "usable_observations": 100
+  },
+  {
+    "year": 2020,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 100,
+    "no_target_rows": 0,
+    "query_failures": 0,
+    "incomplete_baselines": 2,
+    "invalid_volume": 2,
+    "usable_observations": 98
+  },
+  {
+    "year": 2021,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 100,
+    "no_target_rows": 0,
+    "query_failures": 0,
+    "incomplete_baselines": 1,
+    "invalid_volume": 1,
+    "usable_observations": 99
+  },
+  {
+    "year": 2022,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 100,
+    "no_target_rows": 0,
+    "query_failures": 0,
+    "incomplete_baselines": 3,
+    "invalid_volume": 3,
+    "usable_observations": 97
+  },
+  {
+    "year": 2023,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 100,
+    "no_target_rows": 0,
+    "query_failures": 0,
+    "incomplete_baselines": 5,
+    "invalid_volume": 5,
+    "usable_observations": 95
+  },
+  {
+    "year": 2024,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 96,
+    "no_target_rows": 4,
+    "query_failures": 0,
+    "incomplete_baselines": 21,
+    "invalid_volume": 21,
+    "usable_observations": 75
+  },
+  {
+    "year": 2025,
+    "sampled_stock_days": 100,
+    "sampled_dates": 5,
+    "observed_chains": 25,
+    "no_target_rows": 75,
+    "query_failures": 0,
+    "incomplete_baselines": 0,
+    "invalid_volume": 0,
+    "usable_observations": 25
+  }
+]

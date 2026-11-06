@@ -45,9 +45,14 @@ historical stockquote sampling frame; see [coverage diagnostics](results/stock_c
 and background samples; see [exploratory counts](results/exploratory_patterns/REPORT.md).
 These outputs do not estimate population accuracy or trading returns.
 
-The current descriptive rules surfaced alerts in 10/23 event windows and 3/57
+Run `python3 background_report.py` to audit saved background coverage by year
+without database access; see the [background audit](results/background_sample/REPORT.md).
+The expanded pilot contains 1,300 stock-days across 65 dates, with 1,181 usable
+observations.
+
+The current descriptive rules surfaced alerts in 10/23 event windows and 52/1181
 sampled background stock-days at 100 calls and 3× baseline; at 500 calls and 5×,
-8/23 and 1/57. These are not recall or false-positive estimates: event labels
+8/23 and 25/1181. These are not recall or false-positive estimates: event labels
 remain under review, the background pilot is small, and its universe is unverified.
 
 Research session alignment uses the versioned NYSE snapshot in `data/calendar/`,
