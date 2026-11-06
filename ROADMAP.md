@@ -43,8 +43,7 @@ Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
 ## Next actions
 
 - Dated public-target confirmation stands at 41 confirmed price+volume reactions (3 market passes still blocked: TUMI rumor/official unresolved; RSE/ODP unsolicited proposals).
-- Reviewed cohort now 45 events: 19 confirmed M&A additions await first-disclosure + corporate-action completion (`cohort_expansion_pending_first_disclosure_and_corporate_action`).
-- Prefer first-disclosure deepening on the 10 previously deepened `jump_ok` events before the 19 expansion stubs; none yet `first_public_disclosure_verified`.
+- Reviewed cohort now 45 events. Expansion stubs all have deepened first-disclosure notes or earlier-public boundaries; corporate-action checklists remain incomplete for the expansion set. Clean `jump_ok` stands at 25; none yet `first_public_disclosure_verified`.
 - Use EDGAR-with-symbol pre-proxy jump census as a discovery bound, not as training labels.
 - Expand scoped outcome-coverage reviews only when a complete source-backed negative search protocol exists.
 - Do not authorize population metrics, threshold selection, or trading simulation while gates remain blocked.
