@@ -25083,15 +25083,17 @@
     "prev_volume": 637334.0,
     "vol_ratio": 3.188631078837784,
     "cik": "0001367920",
-    "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "jump_cause": "biotech_trial",
+    "cause_class": "3_biotech_trial",
+    "news_filter": "keep",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2015/09/23/shareholders-breathe-easier-as-concert-pharmaceuti.aspx",
+    "news_detail": "Phase 1 CTP-656 PK data superior to Kalydeco (longer half-life/exposure). Class-3 trial keep."
   },
   {
     "symbol": "HRTX",
@@ -33039,14 +33041,16 @@
     "vol_ratio": 5.214711334745763,
     "cik": "0001030749",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://exa.ai/library/markets/stock/GLF?date=2015-11-30&view=daily",
+    "news_detail": "No confirmed same-day keep PR; move amid offshore/oil distress. Unclassified/commodity, not keep 2/3/4."
   },
   {
     "symbol": "HCLP",

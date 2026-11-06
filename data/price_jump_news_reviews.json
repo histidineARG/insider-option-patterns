@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-06",
+  "as_of": "2016-12-31",
   "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
   "tranche": "ge20_second20",
   "reviews": [
@@ -2692,6 +2692,206 @@
       "news_filter": "keep",
       "detail": "WSJ: board rejected Golden Gate Capital $14/share Dec bid; PE still interested. Confirmed M&A proposal/rumor keep.",
       "locator": "https://www.fool.com/investing/2016/06/15/why-travelcenters-of-america-stock-jumped-today.aspx"
+    },
+    {
+      "symbol": "ANGI",
+      "qdate": "2013-02-14",
+      "close_return": 0.2379,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q4 surprise profit/revenue beat and Q1 guide raise. Earnings, not keep 2/3/4.",
+      "locator": "https://www.forbes.com/sites/ericsavitz/2013/02/13/angies-list-soars-as-q4-results-top-street-views/"
+    },
+    {
+      "symbol": "PDCE",
+      "qdate": "2014-12-09",
+      "close_return": 0.2377,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "2015 capex/production guidance: ~50% YoY growth with Wattenberg focus. Ops guidance, not keep 2/3/4.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/77877/000119312514438892/d835521dex991.htm"
+    },
+    {
+      "symbol": "EXPR",
+      "qdate": "2013-01-15",
+      "close_return": 0.2376,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Raised Q4/FY2012 outlook after strong holiday sales. Earnings guidance, not keep 2/3/4.",
+      "locator": "http://new.dailystocks.com/2221/express-shares-surge-after-company-raises-q4-outlook-expr/"
+    },
+    {
+      "symbol": "ASMB",
+      "qdate": "2016-10-10",
+      "close_return": 0.2373,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR (trial/M&A/tech). Unclassified, not keep 2/3/4.",
+      "locator": "http://shareholdersunite.com/mybb/showthread.php?tid=11316"
+    },
+    {
+      "symbol": "PFSW",
+      "qdate": "2016-01-21",
+      "close_return": 0.2372,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Holiday update raised 2015 revenue/EBITDA guidance. Earnings guidance, not keep 2/3/4.",
+      "locator": "https://www.digitalcommerce360.com/2016/01/19/pfsweb-reports-successful-holiday-season/"
+    },
+    {
+      "symbol": "VJET",
+      "qdate": "2014-07-01",
+      "close_return": 0.2369,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Sector 3D-printing media rally (biomed hype / DDD takeover chatter); no company keep PR. Media, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2014/07/01/why-voxeljet-gopro-and-exone-are-todays-3-best-sto.aspx"
+    },
+    {
+      "symbol": "WGO",
+      "qdate": "2016-10-03",
+      "close_return": 0.2367,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Winnebago as buyer announced $500M Grand Design RV acquisition plus Q4 prelim beat. Acquirer deal, not target M&A keep.",
+      "locator": "https://www.marketwatch.com/story/winnebago-buying-grand-design-for-500-million-2016-10-03-184855941"
+    },
+    {
+      "symbol": "ANDE",
+      "qdate": "2016-05-18",
+      "close_return": 0.2363,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Board rejected HC2 unsolicited $35\u2013$37/share bids; confirmed M&A proposals. Class-2 rumor keep.",
+      "locator": "https://www.fool.com/investing/general/2016/05/18/why-the-andersons-inc-shares-spiked-today.aspx"
+    },
+    {
+      "symbol": "RBA",
+      "qdate": "2016-08-30",
+      "close_return": 0.2361,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Ritchie Bros as buyer agreed to acquire IronPlanet for $758.5M plus Caterpillar alliance. Acquirer deal, not target M&A keep.",
+      "locator": "https://www.foxbusiness.com/markets/shares-of-ritchie-bros-jump-as-investors-cheer-acquisition"
+    },
+    {
+      "symbol": "MMYT",
+      "qdate": "2016-01-07",
+      "close_return": 0.2357,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Ctrip $180M convertible-bond investment / stake path. Financing/strategic investment, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2016/01/07/why-makemytrip-mistras-group-and-silver-wheaton-ju.aspx"
+    },
+    {
+      "symbol": "GWPH",
+      "qdate": "2016-09-07",
+      "close_return": 0.2355,
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Reuters: hired Morgan Stanley after drugmakers expressed acquisition interest. Confirmed M&A rumor keep.",
+      "locator": "https://www.cnbc.com/2016/09/07/gw-pharmaceuticals-shares-leap-after-reports-it-hired-morgan-stanley.html"
+    },
+    {
+      "symbol": "X",
+      "qdate": "2016-03-02",
+      "close_return": 0.235,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Commerce anti-dumping tariffs on cold-rolled steel imports (up to 266% China). Policy/trade, not keep 2/3/4.",
+      "locator": "https://www.foxbusiness.com/markets/steel-stocks-soar-after-the-u-s-slaps-anti-dumping-tariffs-on-china-x-aks-mt-tmst"
+    },
+    {
+      "symbol": "SNOW",
+      "qdate": "2016-01-12",
+      "close_return": 0.2347,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Intrawest announced up to $50M modified Dutch-auction buyback. Financing/capital return, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2016/01/12/why-intrawest-resorts-holdings-inc-shares-popped-3.aspx"
+    },
+    {
+      "symbol": "SM",
+      "qdate": "2016-04-12",
+      "close_return": 0.2345,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Oil rally / OPEC freeze hopes plus bank credit-facility amendments. Commodity/credit, not keep 2/3/4.",
+      "locator": "https://www.foxbusiness.com/markets/opec-and-easing-credit-concerns-fuel-a-big-energy-stock-rally-this-week-chk-swn-sm-felp-pkd"
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2014-03-17",
+      "close_return": 0.2333,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Q4 results: revenue +92%, EV sales +194%, adj. profit +259%. Earnings, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2014/03/17/dow-jumps-alongside-irobot-and-kandi-technologies.aspx"
+    },
+    {
+      "symbol": "AXDX",
+      "qdate": "2016-06-15",
+      "close_return": 0.2332,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Completed clinical data collection for FDA de novo 510(k) of Accelerate Pheno system/BC kit. Class-3 trial/FDA-path keep.",
+      "locator": "https://www.einpresswire.com/article/330973984/accelerate-diagnostics-completes-clinical-data-collection-will-present-data-at-the-william-blair-36th-annual-growth-stock-conference"
+    },
+    {
+      "symbol": "GLF",
+      "qdate": "2015-11-30",
+      "close_return": 0.2324,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "No confirmed same-day keep PR; move amid offshore/oil distress. Unclassified/commodity, not keep 2/3/4.",
+      "locator": "https://exa.ai/library/markets/stock/GLF?date=2015-11-30&view=daily"
+    },
+    {
+      "symbol": "VAL",
+      "qdate": "2016-03-21",
+      "close_return": 0.2317,
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_rumor_or_news",
+      "news_filter": "keep",
+      "detail": "Sherwin-Williams definitive all-cash deal to acquire Valspar at $113/share (~$11.3B). Class-2 M&A keep.",
+      "locator": "https://investors.sherwin-williams.com/press-releases/press-release-details/2016/THE-SHERWIN-WILLIAMS-COMPANY-TO-ACQUIRE-VALSPAR-FOR-11300-PER-SHARE-IN-CASH-OR-113-BILLION/default.aspx"
+    },
+    {
+      "symbol": "CNCE",
+      "qdate": "2015-09-23",
+      "close_return": 0.2314,
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Phase 1 CTP-656 PK data superior to Kalydeco (longer half-life/exposure). Class-3 trial keep.",
+      "locator": "https://www.fool.com/investing/general/2015/09/23/shareholders-breathe-easier-as-concert-pharmaceuti.aspx"
+    },
+    {
+      "symbol": "SCTY",
+      "qdate": "2013-10-11",
+      "close_return": 0.2309,
+      "jump_cause": null,
+      "cause_class": "unclassified_other",
+      "news_filter": "drop_other_not_234",
+      "detail": "Raised 2014 deployment guide to 475\u2013525 MW plus Q3 operating metrics. Guidance/ops, not keep 2/3/4.",
+      "locator": "https://www.fool.com/investing/general/2013/10/11/why-solarcity-shares-soared.aspx"
     }
   ]
 }

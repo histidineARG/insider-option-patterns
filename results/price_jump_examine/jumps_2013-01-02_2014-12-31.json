@@ -1189,14 +1189,16 @@
     "vol_ratio": 5.284179425194735,
     "cik": "0001483510",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "http://new.dailystocks.com/2221/express-shares-surge-after-company-raises-q4-outlook-expr/",
+    "news_detail": "Raised Q4/FY2012 outlook after strong holiday sales. Earnings guidance, not keep 2/3/4."
   },
   {
     "symbol": "ADES",
@@ -3255,14 +3257,16 @@
     "vol_ratio": 6.858395743003547,
     "cik": "0001705110",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.forbes.com/sites/ericsavitz/2013/02/13/angies-list-soars-as-q4-results-top-street-views/",
+    "news_detail": "Q4 surprise profit/revenue beat and Q1 guide raise. Earnings, not keep 2/3/4."
   },
   {
     "symbol": "ART",
@@ -23671,14 +23675,16 @@
     "vol_ratio": 8.529958331337708,
     "cik": "0001265107",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2013/10/11/why-solarcity-shares-soared.aspx",
+    "news_detail": "Raised 2014 deployment guide to 475\u2013525 MW plus Q3 operating metrics. Guidance/ops, not keep 2/3/4."
   },
   {
     "symbol": "STSI",
@@ -38595,14 +38601,16 @@
     "vol_ratio": 6.243716616289181,
     "cik": "0001316517",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2014/03/17/dow-jumps-alongside-irobot-and-kandi-technologies.aspx",
+    "news_detail": "Q4 results: revenue +92%, EV sales +194%, adj. profit +259%. Earnings, not keep 2/3/4."
   },
   {
     "symbol": "STAA",
@@ -44908,14 +44916,16 @@
     "vol_ratio": 4.42679755146056,
     "cik": "0001582581",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.fool.com/investing/general/2014/07/01/why-voxeljet-gopro-and-exone-are-todays-3-best-sto.aspx",
+    "news_detail": "Sector 3D-printing media rally (biomed hype / DDD takeover chatter); no company keep PR. Media, not keep 2/3/4."
   },
   {
     "symbol": "CBAK",
@@ -56088,14 +56098,16 @@
     "vol_ratio": 2.945577505536306,
     "cik": "0000077877",
     "jump_cause": null,
-    "cause_class": "unclassified",
-    "news_filter": "pending_news_review",
+    "cause_class": "unclassified_other",
+    "news_filter": "drop_other_not_234",
     "earnings_filing_date": null,
     "earnings_acceptance_datetime": null,
     "earnings_accession": null,
     "earnings_locator": null,
     "earnings_source": null,
-    "has_option": true
+    "has_option": true,
+    "news_locator": "https://www.sec.gov/Archives/edgar/data/77877/000119312514438892/d835521dex991.htm",
+    "news_detail": "2015 capex/production guidance: ~50% YoY growth with Wattenberg focus. Ops guidance, not keep 2/3/4."
   },
   {
     "symbol": "PRAN",
