@@ -96,7 +96,7 @@
     "date_verified": true,
     "eligibility": "target_evidence_reviewed",
     "event_id": "AVXS:2018-04-09",
-    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
+    "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -123,9 +123,11 @@
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 13,
     "price_qualification_status": "price_qualified",
-    "finding": "The AveXis release is time-stamped 00:45 ET on April 9, 2018, before the open. Premium language references the April 6 close. Exhaustive media search for earlier public reports and corporate-action review remain incomplete.",
+    "finding": "The AveXis release is time-stamped 00:45 ET on April 9, 2018, before the open. Premium language references the April 6 close. Exhaustive media search for earlier public reports and corporate-action review remain incomplete. Correct issuer CIK is 0001652923 (AveXis, Inc.), not previously stored 1509928 (LyonRoss Liquid Strategies Fund Ltd.).",
     "locator": "GlobeNewswire stamp April 09, 2018 00:45 ET",
-    "issuer_cik": "1509928"
+    "issuer_cik": "1652923",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001652923.json",
+    "identity_locator": "EDGAR issuer AveXis, Inc. CIK 0001652923; prior cohort CIK 1509928 resolved to LyonRoss Liquid Strategies Fund Ltd."
   },
   {
     "symbol": "BIVV",
@@ -182,7 +184,7 @@
     "timing_locator": "Issuer press release timestamp December 2, 2019 6:01pm EST",
     "eligibility": "target_evidence_reviewed",
     "event_id": "BOLD:2019-12-02",
-    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
+    "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -209,9 +211,11 @@
     "valid_feature_days": 10,
     "days_with_usable_quote_candidates": 2,
     "price_qualification_status": "price_qualified",
-    "finding": "The litigation release identifies a December 2, 2019 public acquisition announcement for Audentes (BOLD). Market-session timing relative to the open is not stated in the release summary. Earlier-disclosure media search and corporate-action review remain incomplete.",
+    "finding": "The litigation release identifies a December 2, 2019 public acquisition announcement for Audentes (BOLD). Market-session timing relative to the open is not stated in the release summary. Earlier-disclosure media search and corporate-action review remain incomplete. Correct issuer CIK is 0001628738 (Audentes Therapeutics, Inc.), not previously stored 1628736 (Eureka Restaurant Holdings, LLC).",
     "locator": "Litigation Release 25660; December 2, 2019 Audentes/Astellas public announcement",
-    "issuer_cik": "1628736"
+    "issuer_cik": "1628738",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001628738.json",
+    "identity_locator": "EDGAR issuer Audentes Therapeutics, Inc. CIK 0001628738; prior cohort CIK 1628736 resolved to Eureka Restaurant Holdings, LLC"
   },
   {
     "symbol": "CALT",
@@ -262,7 +266,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "CEB:2017-01-05",
-    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
+    "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -289,9 +293,11 @@
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 1,
     "price_qualification_status": "price_qualified",
-    "finding": "The complaint states CEB and Gartner announced the definitive merger before the market opened on January 5, 2017. Negotiations described as nonpublic through early January. Exhaustive search for earlier public reports and corporate-action identity checks remain incomplete.",
+    "finding": "The complaint states CEB and Gartner announced the definitive merger before the market opened on January 5, 2017. Negotiations described as nonpublic through early January. Exhaustive search for earlier public reports and corporate-action identity checks remain incomplete. Correct issuer CIK is 0001066104 (CEB Inc.), not previously stored 1035990 (SAMET ROGER H).",
     "locator": "Complaint; Gartner/CEB announcement before market open January 5, 2017",
-    "issuer_cik": "1035990"
+    "issuer_cik": "1066104",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001066104.json",
+    "identity_locator": "EDGAR issuer CEB Inc. CIK 0001066104; prior cohort CIK 1035990 resolved to SAMET ROGER H"
   },
   {
     "symbol": "CNQR",
@@ -395,7 +401,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "EFII:2019-04-15",
-    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
+    "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -422,9 +428,11 @@
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 2,
     "price_qualification_status": "price_qualified",
-    "finding": "The complaint dates the Siris affiliate acquisition announcement before market open on April 15, 2019. Pipeline and tip facts are alleged as nonpublic beforehand. No earlier public rumor date is established; corporate-action review remains incomplete.",
+    "finding": "The complaint dates the Siris affiliate acquisition announcement before market open on April 15, 2019. Pipeline and tip facts are alleged as nonpublic beforehand. No earlier public rumor date is established; corporate-action review remains incomplete. Correct issuer CIK is 0000867374 (ELECTRONICS FOR IMAGING INC), not previously stored 864240 (SYPRIS SOLUTIONS INC).",
     "locator": "Complaint; Siris/EFII announcement before market open April 15, 2019",
-    "issuer_cik": "864240"
+    "issuer_cik": "867374",
+    "identity_source": "https://data.sec.gov/submissions/CIK0000867374.json",
+    "identity_locator": "EDGAR issuer ELECTRONICS FOR IMAGING INC CIK 0000867374; prior cohort CIK 864240 resolved to SYPRIS SOLUTIONS INC"
   },
   {
     "symbol": "GSKY",
@@ -607,7 +615,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "JOY:2016-07-21",
-    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
+    "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -634,9 +642,11 @@
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 30,
     "price_qualification_status": "price_qualified",
-    "finding": "The settled order states Komatsu announced the Joy Global acquisition before trading opened on July 21, 2016. It does not identify an earlier public rumor. Allegations and findings in enforcement papers are not a substitute for a complete first-disclosure media review or corporate-action check.",
+    "finding": "The settled order states Komatsu announced the Joy Global acquisition before trading opened on July 21, 2016. It does not identify an earlier public rumor. Allegations and findings in enforcement papers are not a substitute for a complete first-disclosure media review or corporate-action check. Correct issuer CIK is 0000801898 (JOY GLOBAL INC), not previously stored 854800 (Tingo Group, Inc.).",
     "locator": "Order findings; Komatsu announcement before trading opened July 21, 2016",
-    "issuer_cik": "854800"
+    "issuer_cik": "801898",
+    "identity_source": "https://data.sec.gov/submissions/CIK0000801898.json",
+    "identity_locator": "EDGAR issuer JOY GLOBAL INC CIK 0000801898; prior cohort CIK 854800 resolved to Tingo Group, Inc."
   },
   {
     "symbol": "KAMN",
@@ -858,7 +868,7 @@
     "date_verified": true,
     "eligibility": "target_evidence_reviewed",
     "event_id": "PRVB:2023-03-13",
-    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
+    "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -885,9 +895,11 @@
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 24,
     "price_qualification_status": "price_qualified",
-    "finding": "The Sanofi/Provention Bio release is time-stamped 02:00 ET on March 13, 2023, before the open. Broader media search for earlier public reports and corporate-action review remain incomplete.",
+    "finding": "The Sanofi/Provention Bio release is time-stamped 02:00 ET on March 13, 2023, before the open. Broader media search for earlier public reports and corporate-action review remain incomplete. Correct issuer CIK is 0001695357 (Provention Bio, Inc.), not previously stored 1698991 (Accel Entertainment, Inc.).",
     "locator": "GlobeNewswire stamp March 13, 2023 02:00 ET",
-    "issuer_cik": "1698991"
+    "issuer_cik": "1695357",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001695357.json",
+    "identity_locator": "EDGAR issuer Provention Bio, Inc. CIK 0001695357; prior cohort CIK 1698991 resolved to Accel Entertainment, Inc."
   },
   {
     "symbol": "RETA",
@@ -990,7 +1002,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "SWC:2016-12-09",
-    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
+    "review_status": "announcement_verified_issuer_identity_corrected",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -1017,9 +1029,11 @@
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 23,
     "price_qualification_status": "price_qualified",
-    "finding": "The complaint dates the Sibanye/Stillwater acquisition announcement as pre-market-open on December 9, 2016. No earlier public disclosure date is established there. Complaint allegations are unverified as to chronology completeness; corporate-action review remains open.",
+    "finding": "The complaint dates the Sibanye/Stillwater acquisition announcement as pre-market-open on December 9, 2016. No earlier public disclosure date is established there. Complaint allegations are unverified as to chronology completeness; corporate-action review remains open. Correct issuer CIK is 0000931948 (STILLWATER MINING CO /DE/), not previously stored 1018870 (missing/404 CIK).",
     "locator": "Complaint; December 9, 2016 pre-market-open Sibanye acquisition announcement",
-    "issuer_cik": "1018870"
+    "issuer_cik": "931948",
+    "identity_source": "https://data.sec.gov/submissions/CIK0000931948.json",
+    "identity_locator": "EDGAR issuer STILLWATER MINING CO /DE/ CIK 0000931948; prior cohort CIK 1018870 resolved to missing/404 CIK"
   },
   {
     "symbol": "VRTU",

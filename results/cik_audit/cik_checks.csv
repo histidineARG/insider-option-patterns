@@ -1,0 +1,27 @@
+event_id,symbol,stored_issuer,stored_cik,lookup_status,edgar_name,edgar_tickers,former_names,suspicious
+ADT:2016-02-16,ADT,The ADT Corporation (2016 issuer),1546640,ok,ADT Corp,[],[],False
+AFOP:2016-04-07,AFOP,Alliance Fiber Optic Products,1122342,ok,ALLIANCE FIBER OPTIC PRODUCTS INC,[],[],False
+AVXS:2018-04-09,AVXS,AveXis,1652923,ok,"AveXis, Inc.",[],[],False
+BIVV:2018-01-22,BIVV,Bioverativ,1681689,ok,Bioverativ Inc.,[],[],False
+BOLD:2019-12-02,BOLD,Audentes Therapeutics,1628738,ok,"Audentes Therapeutics, Inc.",[],[],False
+CALT:2024-05-28,CALT,Calliditas Therapeutics,1795579,ok,Calliditas Therapeutics AB,[],[],False
+CEB:2017-01-05,CEB,CEB,1066104,ok,CEB Inc.,[],"[""CORPORATE EXECUTIVE BOARD CO"", ""CORPORATE ADVISORY BOARD CO""]",False
+CNQR:2014-09-18,CNQR,Concur Technologies,1066026,ok,CONCUR TECHNOLOGIES INC,[],[],False
+COHR:2021-01-19,COHR,Coherent (2021 issuer),21510,ok,COHERENT INC,[],[],False
+EFII:2019-04-15,EFII,Electronics for Imaging,867374,ok,ELECTRONICS FOR IMAGING INC,[],[],False
+GSKY:2021-09-15,GSKY,GreenSky,1712923,ok,"GreenSky, Inc.",[],[],False
+HNZ:2013-02-14,HNZ,H.J. Heinz,46640,ok,Kraft Heinz Foods Co,[],"[""HEINZ H J CO""]",False
+IMGN:2023-11-30,IMGN,ImmunoGen,855654,ok,"ImmunoGen, Inc.",[],"[""IMMUNOGEN INC""]",False
+ITCI:2025-01-13,ITCI,Intra-Cellular Therapies,1567514,ok,"Intra-Cellular Therapies, Inc.",[],"[""Intra-Cellular Therapies, Inc."", ""Oneida Resources Corp.""]",False
+JOY:2016-07-21,JOY,Joy Global,801898,ok,JOY GLOBAL INC,[],"[""HARNISCHFEGER INDUSTRIES INC""]",False
+KAMN:2024-01-19,KAMN,Kaman,54381,ok,KAMAN Corp,[],[],False
+KRFT:2015-03-25,KRFT,Kraft Foods Group,1545158,ok,"Kraft Foods Group, Inc.",[],[],False
+LNKD:2016-06-13,LNKD,LinkedIn,1271024,ok,LINKEDIN CORP,[],"[""LINKEDIN LTD""]",False
+MAXR:2022-12-16,MAXR,Maxar,1121142,ok,Maxar Technologies Inc.,[],"[""Maxar Technologies Ltd."", ""MACDONALD, DETTWILER & ASSOCIATES LTD."", ""MACDONALD DETTWILER & ASSOCIATES LTD""]",False
+ONXX:2013-06-30,ONXX,Onyx Pharmaceuticals,1012140,ok,ONYX PHARMACEUTICALS INC,[],[],False
+PRVB:2023-03-13,PRVB,Provention Bio,1695357,ok,"Provention Bio, Inc.",[],[],False
+RETA:2023-07-28,RETA,Reata Pharmaceuticals,1358762,ok,REATA PHARMACEUTICALS INC,[],[],False
+SAGE:2025-06-16,SAGE,Sage Therapeutics,1597553,ok,"Sage Therapeutics, Inc.",[],[],False
+SWC:2016-12-09,SWC,Stillwater Mining,931948,ok,STILLWATER MINING CO /DE/,[],[],False
+VRTU:2020-09-10,VRTU,Virtusa,1207074,ok,VIRTUSA CORP,[],[],False
+ZGNX:2022-01-19,ZGNX,Zogenix,1375151,ok,"ZOGENIX, INC.",[],"[""ZOGENIX INC""]",False
