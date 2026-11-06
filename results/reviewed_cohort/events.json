@@ -41,7 +41,13 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 25,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "share_class_notes": "NYSE common stock of The ADT Corporation (2016 issuer).",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "This is the 2016 ADT Corporation issuer (CIK 1546640), not the later ADT Inc. listing that reused ADT.",
+    "consideration_notes": "Cash deal; proxy cites approximate 56% offer premium. Price-source conflict with later complaint preserved.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "AFOP",
@@ -96,7 +102,7 @@
     "date_verified": true,
     "eligibility": "target_evidence_reviewed",
     "event_id": "AVXS:2018-04-09",
-    "review_status": "announcement_verified_issuer_identity_corrected",
+    "review_status": "prior_takeover_speculation_public",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -123,11 +129,22 @@
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 13,
     "price_qualification_status": "price_qualified",
-    "finding": "The AveXis release is time-stamped 00:45 ET on April 9, 2018, before the open. Premium language references the April 6 close. Exhaustive media search for earlier public reports and corporate-action review remain incomplete. Correct issuer CIK is 0001652923 (AveXis, Inc.), not previously stored 1509928 (LyonRoss Liquid Strategies Fund Ltd.).",
+    "finding": "The AveXis release is time-stamped 00:45 ET on April 9, 2018, before the open. Premium language references the April 6 close. Exhaustive media search for earlier public reports and corporate-action review remain incomplete. Correct issuer CIK is 0001652923 (AveXis, Inc.), not previously stored 1509928 (LyonRoss Liquid Strategies Fund Ltd.). GEN reported months of takeover speculation and placement on a February 26, 2018 takeover-targets list; that is general public speculation, not a dated Novartis deal leak. Exact first media timestamp for any specific Novartis rumor remains unverified. NASDAQ common stock; cash tender at $218 (or $225 if Outside Date extended).",
     "locator": "GlobeNewswire stamp April 09, 2018 00:45 ET",
     "issuer_cik": "1652923",
     "identity_source": "https://data.sec.gov/submissions/CIK0001652923.json",
-    "identity_locator": "EDGAR issuer AveXis, Inc. CIK 0001652923; prior cohort CIK 1509928 resolved to LyonRoss Liquid Strategies Fund Ltd."
+    "identity_locator": "EDGAR issuer AveXis, Inc. CIK 0001652923; prior cohort CIK 1509928 resolved to LyonRoss Liquid Strategies Fund Ltd.",
+    "earlier_public_date_lower": null,
+    "earlier_public_date_upper": "2018-02-26",
+    "earlier_public_session": "unknown",
+    "earlier_source": "https://www.genengnews.com/news/novartis-to-acquire-gene-therapy-developer-avexis-for-8-7b/",
+    "earlier_locator": "GEN April 9 deal story cites AveXis on February 26, 2018 takeover-targets list",
+    "share_class_notes": "NASDAQ common stock AVXS; cash tender offer, not ADS.",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "AveXis delisted after Novartis close; no later unrelated AVXS reincarnation identified.",
+    "consideration_notes": "Cash tender $218/share; Outside Date extension can raise to $225. Not a pre-announcement receipt.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "BIVV",
@@ -171,7 +188,13 @@
     "locator": "Amended complaint; Sanofi/Bioverativ announcement before NASDAQ open January 22, 2018",
     "issuer_cik": "1681689",
     "identity_source": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001681689",
-    "identity_locator": "EDGAR issuer Bioverativ Inc. CIK 0001681689; prior cohort CIK 1685840 was KiwiVenture Partners II, LLC"
+    "identity_locator": "EDGAR issuer Bioverativ Inc. CIK 0001681689; prior cohort CIK 1685840 was KiwiVenture Partners II, LLC",
+    "share_class_notes": "NASDAQ common stock BIVV after February 2, 2017 regular-way trading following Biogen spin-off.",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Bioverativ delisted after Sanofi close; when-issued BIVVV and Biogen BIIBV symbols are distinct historical artifacts.",
+    "consideration_notes": "Cash acquisition at $105 per share per complaint narrative.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "BOLD",
@@ -253,7 +276,15 @@
     "option_coverage_status": "observed_chain",
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 0,
-    "price_qualification_status": "price_qualified"
+    "price_qualification_status": "price_qualified",
+    "identity_source": "https://data.sec.gov/submissions/CIK0001795579.json",
+    "cik_verified": true,
+    "share_class_notes": "NASDAQ ADSs; each ADS represents two Swedish ordinary shares. SEK 208/share = SEK 416/ADS before USD conversion.",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Calliditas ADS listing ended with tender completion; no later unrelated CALT reincarnation identified.",
+    "consideration_notes": "SEK ordinary-share offer converted per ADS terms; do not compare ADS USD prices directly to SEK ordinary consideration.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "CEB",
@@ -388,7 +419,13 @@
     "locator": "Complaint; January 18 evening signing and January 19 pre-market-open Lumentum announcement",
     "issuer_cik": "21510",
     "identity_source": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021510",
-    "identity_locator": "EDGAR issuer Coherent Inc. CIK 0000021510; prior cohort CIK 2186 was BK Technologies Corp"
+    "identity_locator": "EDGAR issuer Coherent Inc. CIK 0000021510; prior cohort CIK 2186 was BK Technologies Corp",
+    "share_class_notes": "NASDAQ common stock of Coherent Inc. (CIK 21510) in January 2021.",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "II-VI completed acquiring Coherent Inc. on 2022-07-01; on 2022-09-08 II-VI renamed to Coherent Corp. and began trading as COHR. Post-2022 COHR quotes are a different issuer.",
+    "consideration_notes": "Lumentum cash-and-stock agreement announced January 19, 2021; later topped by II-VI. Do not confuse announcement consideration with later II-VI terms.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "EFII",
@@ -766,9 +803,15 @@
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 30,
     "price_qualification_status": "price_qualified",
-    "finding": "Proxy Background dates the Microsoft/LinkedIn joint press release prior to the June 13 NYSE open and uses June 10 as the last trading day before public announcement. No earlier public rumor date is established in that Background narrative; broader media search remains incomplete.",
+    "finding": "Proxy Background dates the Microsoft/LinkedIn joint press release prior to the June 13 NYSE open and uses June 10 as the last trading day before public announcement. No earlier public rumor date is established in that Background narrative; broader media search remains incomplete. Limited search did not identify a same-week public Microsoft deal rumor before the June 13 pre-open joint release; older pre-IPO Microsoft talks are out of scope for this episode. Absence of a finding is not proof of no earlier disclosure.",
     "locator": "Background of the Merger; June 11 agreement and June 13 pre-NYSE-open joint release",
-    "issuer_cik": "1271024"
+    "issuer_cik": "1271024",
+    "share_class_notes": "NYSE Class A and Class B common stock; merger consideration $196.00 cash per share of either class.",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "LinkedIn delisted after Microsoft close; no later unrelated LNKD reincarnation identified.",
+    "consideration_notes": "All-cash $196.00; dual-class voting control noted in proxy Background.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "MAXR",
@@ -781,7 +824,7 @@
     "timing_locator": "",
     "eligibility": "target_evidence_reviewed",
     "event_id": "MAXR:2022-12-16",
-    "review_status": "announcement_verified_earlier_disclosure_search_incomplete",
+    "review_status": "earlier_disclosure_time_unresolved",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -808,9 +851,20 @@
     "valid_feature_days": 19,
     "days_with_usable_quote_candidates": 26,
     "price_qualification_status": "price_qualified",
-    "finding": "The settled order dates the Maxar acquisition press release to approximately 7:00 a.m. Eastern on December 16, 2022, before the open. Tip facts are treated as nonpublic beforehand. Broader media search and corporate-action review remain incomplete.",
+    "finding": "Settled order dates the Maxar acquisition press release to approximately 7:00 a.m. Eastern on December 16, 2022. The company release confirms an earlier same-day Wall Street Journal report; the exact WSJ first-publish time relative to 7:00 a.m. remains unresolved. Use the calendar date as a conservative earlier-disclosure boundary. Dual NYSE/TSX listing noted; common stock cash deal.",
     "locator": "Order findings; press release approximately 7:00 a.m. Eastern December 16, 2022",
-    "issuer_cik": "1121142"
+    "issuer_cik": "1121142",
+    "earlier_public_date_lower": "2022-12-16",
+    "earlier_public_date_upper": "2022-12-16",
+    "earlier_public_session": "unknown",
+    "earlier_source": "https://www.wsj.com/articles/advent-to-buy-maxar-technologies-for-about-4-billion-11671190204",
+    "earlier_locator": "WSJ Advent/Maxar exclusive; company release later confirmed the earlier WSJ report",
+    "share_class_notes": "NYSE/TSX-listed common stock; all-cash $53.00 per share.",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Maxar delisted after 2023 close; no later unrelated COHR-style ticker reuse identified for MAXR.",
+    "consideration_notes": "All-cash consideration; no special dividend or CVR in the announcement terms reviewed.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "ONXX",
@@ -868,7 +922,7 @@
     "date_verified": true,
     "eligibility": "target_evidence_reviewed",
     "event_id": "PRVB:2023-03-13",
-    "review_status": "announcement_verified_issuer_identity_corrected",
+    "review_status": "prior_strategic_relationship_public",
     "first_public_disclosure_verified": false,
     "corporate_action_review_complete": false,
     "training_label_ready": false,
@@ -895,11 +949,22 @@
     "valid_feature_days": 30,
     "days_with_usable_quote_candidates": 24,
     "price_qualification_status": "price_qualified",
-    "finding": "The Sanofi/Provention Bio release is time-stamped 02:00 ET on March 13, 2023, before the open. Broader media search for earlier public reports and corporate-action review remain incomplete. Correct issuer CIK is 0001695357 (Provention Bio, Inc.), not previously stored 1698991 (Accel Entertainment, Inc.).",
+    "finding": "The Sanofi/Provention Bio release is time-stamped 02:00 ET on March 13, 2023, before the open. Broader media search for earlier public reports and corporate-action review remain incomplete. Correct issuer CIK is 0001695357 (Provention Bio, Inc.), not previously stored 1698991 (Accel Entertainment, Inc.). Sanofi already had a public U.S. co-promotion deal and right of first negotiation from October 2022, and media treated Sanofi as a likely takeover candidate after Tzield approval. That public commercial relationship is not the March 13 definitive acquisition announcement. February 26 exclusivity was private. Broader search for a dated acquisition leak remains incomplete.",
     "locator": "GlobeNewswire stamp March 13, 2023 02:00 ET",
     "issuer_cik": "1695357",
     "identity_source": "https://data.sec.gov/submissions/CIK0001695357.json",
-    "identity_locator": "EDGAR issuer Provention Bio, Inc. CIK 0001695357; prior cohort CIK 1698991 resolved to Accel Entertainment, Inc."
+    "identity_locator": "EDGAR issuer Provention Bio, Inc. CIK 0001695357; prior cohort CIK 1698991 resolved to Accel Entertainment, Inc.",
+    "earlier_public_date_lower": null,
+    "earlier_public_date_upper": "2022-10-04",
+    "earlier_public_session": "unknown",
+    "earlier_source": "https://www.biospace.com/provention-and-sanofi-ink-co-promotion-deal-ahead-of-potential-approval-of-t1d-treatment",
+    "earlier_locator": "Public Sanofi co-promotion and ROFN beginning October 4, 2022",
+    "share_class_notes": "NASDAQ common stock PRVB; cash tender $25.00 per share.",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Provention Bio delisted after Sanofi close; no later unrelated PRVB reincarnation identified.",
+    "consideration_notes": "All-cash $25.00; builds on existing Sanofi equity stake from co-promotion arrangements.",
+    "corporate_action_items_reviewed": true
   },
   {
     "symbol": "RETA",
@@ -1118,8 +1183,14 @@
     "valid_feature_days": 23,
     "days_with_usable_quote_candidates": 11,
     "price_qualification_status": "price_qualified",
-    "finding": "The complaint dates the UCB/Zogenix press release to approximately 1:00 a.m. on January 19, 2022. Same-day after-close entry proxies on January 18 cannot precede that overnight disclosure. Broader media search and corporate-action review remain incomplete.",
+    "finding": "The complaint dates the UCB/Zogenix press release to approximately 1:00 a.m. on January 19, 2022. Same-day after-close entry proxies on January 18 cannot precede that overnight disclosure. Broader media search and corporate-action review remain incomplete. Limited media search did not surface a dated public acquisition rumor before the ~1:00 a.m. January 19 release; private multi-party talks are described in later SEC narratives. Absence of a finding is not proof of no earlier disclosure.",
     "locator": "Complaint; UCB press release approximately 1:00 a.m. January 19, 2022",
-    "issuer_cik": "1375151"
+    "issuer_cik": "1375151",
+    "share_class_notes": "NASDAQ common stock ZGNX; cash plus CVR.",
+    "split_ticker_change_reviewed": true,
+    "reincarnation_reviewed": true,
+    "post_event_ticker_notes": "Zogenix delisted after UCB close; no later unrelated ZGNX reincarnation identified.",
+    "consideration_notes": "Cash $26.00 plus $2.00 CVR contingent on EU LGS orphan approval by end-2023; CVR is not a pre-announcement trading receipt.",
+    "corporate_action_items_reviewed": true
   }
 ]
