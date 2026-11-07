@@ -1,185 +1,159 @@
 # Insider Option Patterns
 
-Research option trading patterns associated with documented insider-trading cases
-by aligning SEC evidence with historical EOD data in local `optiondb`.
-The project includes a baseline OTM call-volume detector and an SEC case alignment
-workflow. Signals prioritize investigation; they do not establish insider trading
-or identify traders.
+This repository is Python research code for studying end-of-day option activity around documented SEC insider-trading matters and public merger events. It aligns a local case registry and SEC filing metadata with a local MySQL database of historical option chains and stock quotes, then builds review checklists, coverage audits, and time-safe observation tables. The baseline detector flags unusual out-of-the-money call volume for investigation. Nothing here identifies a trader, establishes that trading was illegal, or reports a validated trading strategy.
 
-Research design: [RESEARCH.md](RESEARCH.md).
-Current task, evidence gaps, and next target: [ROADMAP.md](ROADMAP.md).
-Agreed event selection, background population, validation, and trading evaluation:
-[METHODOLOGY.md](METHODOLOGY.md).
-The source-backed case registry is `data/sec_cases.json`; additional discovery
-candidates are in `data/sec_discovery_candidates.json`. The inventory is not exhaustive.
-Run `python3 sec_match.py` to regenerate `results/sec_alignment/` with read-only
-queries (password prompt). These results describe historical patterns, not validated
-predictive performance or executable trading returns.
+Design notes, which are study plans rather than fitted results, are in [RESEARCH.md](RESEARCH.md), [METHODOLOGY.md](METHODOLOGY.md), and [ROADMAP.md](ROADMAP.md). There are no notebooks.
 
-The preliminary findings are in [the SEC alignment report](results/sec_alignment/REPORT.md).
-M&A discovery files are under `data/m_and_a/`. Run `python3 ma_inventory.py` to
-refresh the open candidate dataset and local mappings; `python3 edgar_ma_search.py`
-enumerates four SEC merger-related forms by year through the configured cutoff.
-Filing dates and completion dates must not be substituted for first public
-announcement timestamps. These inventories require event and issuer review before
-they can supply training labels.
-See [M&A inventory coverage](data/m_and_a/README.md) for the official SEC search
-counts, source files, reviewed examples and remaining validation work.
+## Analyses
 
-Run `python3 ma_stock_confirmation.py` to check dated M&A targets in `stockquote`:
-at least a 15% close-to-close price jump and 2× the previous 20 sessions' average
-volume, with announcement-session alignment and explicit missing-data handling.
-See [stock reaction confirmations](results/ma_stock_confirmation/REPORT.md).
+- **Option-volume screen** (`detector.py`). For each symbol and session, aggregate calls that are 3–50% out of the money with 3–45 calendar days to expiration. Default alert gates are at least 500 contracts, 5× the prior mean, a population z-score of at least 3, and volume/open interest of at least 1, using up to 20 prior observed chain sessions and at least 10 of them. The target day and later days are excluded from the baseline. Thresholds are CLI flags; `python3 detector.py --help` lists them. Estimated premium uses the closing bid/ask midpoint when the quote is usable. The query is a read-only transaction.
+- **SEC case alignment** (`sec_match.py`, `research_report.py`). Compare chain volume in windows from `data/sec_cases.json` with the complaint or release dates stored in that file. Output is descriptive. Discovery leads that are not fully extracted live in `data/sec_discovery_candidates.json`.
+- **M&A inventory.** `edgar_ma_search.py` pages SEC full-text search for `PREM14A`, `DEFM14A`, `DEFM14C`, and `SC 14D9`. `ma_inventory.py` refreshes a Hugging Face EDGAR deal file and exports local `maevent` / `mafromnews` rows. Filing dates are not announcement times. `ma_stock_confirmation.py` measures a close-to-close jump of at least 15% and a volume multiple (default 2× the previous 20 sessions). `ma_broad_screen.py` screens mapped merger filers for price jumps. `ma_registry.py` is the script that **writes** database tables: it creates and fills `research_ma_*` tables and the `research_ma_public_company_acquisitions` view. Other database scripts read source tables.
+- **Cohorts and labels.** `research_cohort.py` audits option coverage and pre-event features for price-qualified candidates. `reviewed_cohort.py` overlays `data/event_review_overrides.json` and keeps `training_label_ready` false until review gates pass. `research_dataset.py` builds a stock-day table with a ten-session outcome window and the partitions in `data/evaluation_protocol.json`. Unknown labels stay null. Negatives are recorded only from complete rows in `data/outcome_coverage_reviews.json`.
+- **Evaluation gates.** `evaluation.py` builds fixed-rule alert episodes and can fit a logistic model, and it refuses population metrics while evidence gates fail. `trading_assumptions.py` records conservative fill rules and writes a blocked trading simulation (no fills and no return). `exploratory_patterns.py` counts fixed volume rules on the saved event and background samples; its report states that those counts are not precision, recall, or profitability.
+- **Coverage, identity, and jump review.** `background_sample.py` draws an outcome-independent stock-day sample. `background_report.py` summarizes that saved sample by year. `stock_coverage.py`, `stock_frame_audit.py`, and `option_coverage_probe.py` audit `stockquote` and option-table presence. `cik_audit.py` compares stored CIKs with SEC submissions metadata. `corporate_action_review.py` scores an identity checklist and does not mark events complete by itself. `price_action_vet.py` checks stored jumps offline, or requeries OHLCV with `--deep`. `price_jump_examine.py` classifies large stock jumps and uses an EDGAR 8-K Item 2.02 calendar (`edgar_earnings_calendar.py`) to drop earnings. `edgar_jump_assist.py` only attaches non-earnings 8-K hints. It does not auto-keep a jump. `market_calendar.py` loads the checksummed NYSE session snapshot in `data/calendar/` (including the 2025-01-09 closure). `--refresh` rebuilds that snapshot and needs the optional `pandas_market_calendars` extra.
 
-The agreed price-only research cohort is separate from that older price-and-volume
-screen. Run `python3 research_cohort.py` to audit option coverage and extract
-calendar-aware pre-event features. See the [cohort report](results/research_cohort/REPORT.md).
-It includes 24 price-qualified, source/timing-reviewed candidates; corporate-action
-and first-public-disclosure checks remain pending. Missing volume baselines do
-not disqualify otherwise measurable price jumps. Labels remain unset.
+Saved JSON, CSV, and Markdown under `results/` are outputs from these steps. `results/news_jump_filter/` and `results/price_jump_population/` are checked-in snapshots. No current script writes those two directories.
 
-The newer [evidence-overlay cohort](results/reviewed_cohort/REPORT.md) preserves
-that snapshot and adds ITCI and SAGE from 2025 acquirer releases: 26 price-qualified
-candidates and 780 pre-event observations. `python3 reviewed_cohort.py` regenerates
-it using read-only queries; `python3 reviewed_cohort.py --apply-reviews-only`
-refreshes review fields offline from `data/event_review_overrides.json` without
-requerying prices. Source findings record earlier takeover reports, conflicting
-disclosure dates, price-source disagreements, ADS terms, and announcement-session
-or press-time evidence for every candidate. Quote-candidate counts are diagnostics;
-zero events are training-ready until first-disclosure and corporate-action reviews
-pass.
+## Repository structure
 
-Run `python3 cik_audit.py` to compare stored issuer CIKs with `data.sec.gov`
-submissions metadata; see [CIK audit](results/cik_audit/REPORT.md). Suspicious
-name mismatches are diagnostics for review overrides, not automatic label changes.
-`python3 corporate_action_review.py` scores the identity/share-class/reincarnation
-checklist without auto-marking any event complete:
-[corporate-action checklist](results/corporate_action_review/REPORT.md).
-`python3 price_action_vet.py` recomputes stored close-to-close jumps, checks
-reaction-session calendar mapping, and flags earlier-public contamination plus
-ADS/price-source hazards without rewriting prices.
-`python3 price_action_vet.py --deep` requeries OHLCV windows and adds
-pre-announcement drift, previous-session moves, gap/volume structure,
-earlier-public session returns, post-move fade, and cash-offer premium
-comparisons: [price-action vetting](results/price_action_vet/REPORT.md).
+| Path | Role |
+| --- | --- |
+| `detector.py` | Read-only OTM call-volume screen. Console script `insider-option-patterns`. |
+| `sec_match.py`, `research_report.py` | SEC case/chain alignment and the alignment report. |
+| `edgar_ma_search.py`, `ma_inventory.py`, `ma_stock_confirmation.py`, `ma_broad_screen.py`, `ma_registry.py` | Merger-filing inventory, local M&A export, price/volume checks, price-jump leads, and the writing registry. |
+| `research_cohort.py`, `reviewed_cohort.py`, `research_dataset.py`, `evaluation.py`, `trading_assumptions.py`, `exploratory_patterns.py` | Cohort features, review overlay, observation table, gated evaluation, trading assumptions, descriptive rules. |
+| `background_sample.py`, `background_report.py`, `stock_coverage.py`, `stock_frame_audit.py`, `option_coverage_probe.py` | Sampling frame and option-coverage audits. |
+| `cik_audit.py`, `corporate_action_review.py`, `price_action_vet.py`, `price_jump_examine.py`, `edgar_earnings_calendar.py`, `edgar_jump_assist.py`, `market_calendar.py` | Identity, corporate-action, price-path, earnings, and calendar checks. |
+| `data/` | Registries, review ledgers, NYSE calendar snapshot, M&A extracts, evaluation protocol. |
+| `data/m_and_a/` | SEC filing pages, local `maevent` / news exports, provenance. See `data/m_and_a/README.md`. |
+| `results/` | Generated reports and tables. |
+| `tests/` | Unit tests. They do not require the database. |
+| `pyproject.toml` | Package metadata and dependencies. |
+| `RESEARCH.md`, `METHODOLOGY.md`, `ROADMAP.md` | Research design and current gates. |
 
-Run `python3 research_dataset.py` for the time-safe observation table with
-ten-session outcome boundaries, disclosure diagnostics, and purged chronological
-partitions frozen in `data/evaluation_protocol.json`. See the
-[observation audit](results/research_dataset/REPORT.md). Unknown labels stay null;
-empty `data/outcome_coverage_reviews.json` intentionally certifies no negatives.
-`python3 evaluation.py` builds fixed-rule alert episodes and logistic interfaces
-but blocks population metrics while evidence gates fail:
-[evaluation report](results/evaluation/REPORT.md).
-`python3 trading_assumptions.py` freezes conservative fill rules and reports
-blocked trading simulation: [trading assumptions](results/trading_assumptions/REPORT.md).
+Run commands from the repository root so script imports and relative `data/` and `results/` paths resolve.
 
-Run `python3 background_sample.py` for a reproducible historical coverage pilot
-whose dates and symbols are selected independently of M&A outcomes. Its unlabeled
-observations are not assumed negative. `python3 stock_coverage.py` audits the
-historical stockquote sampling frame; see [coverage diagnostics](results/stock_coverage/REPORT.md).
-`python3 exploratory_patterns.py` describes fixed volume rules in the saved event
-and background samples; see [exploratory counts](results/exploratory_patterns/REPORT.md).
-These outputs do not estimate population accuracy or trading returns.
+## Requirements and setup
 
-Run `python3 background_report.py` to audit saved background coverage by year
-without database access; see the [background audit](results/background_sample/REPORT.md).
-The expanded pilot contains 1,300 stock-days across 65 dates, with 1,181 usable
-observations.
-
-Run `python3 option_coverage_probe.py` for bounded, read-only checks of sampled
-symbols and three control symbols in both option tables (2024 onward by default).
-The [saved probe](results/option_coverage_probe/REPORT.md) finds all controls on
-every sampled date, while the stockquote frame expands from roughly 6,000 to
-22,000–24,000 symbols in 2025. None of the missing sampled chains were recovered
-from `optiondaily3`. This supports investigating the broader sampling frame;
-it does not rule out partial ingestion gaps or establish historical option listings.
-
-The [frame expansion audit](results/stock_frame_audit/REPORT.md) locates the large
-stockquote expansion on November 4, 2024: positive-price symbols rise from 5,960
-to 22,991. Of the 2025 sampled stock-days, chains are present for 24/25 whose
-symbols appeared in the preceding frame and 1/75 whose symbols did not. This
-describes a change in the sampling population; the older frame is not an
-eligibility filter for future listings. Run `python3 stock_frame_audit.py` to
-repeat the read-only boundary symbol queries and saved-sample comparison.
-
-The current descriptive rules surfaced alerts in 10/23 event windows and 52/1181
-sampled background stock-days at 100 calls and 3× baseline; at 500 calls and 5×,
-8/23 and 25/1181. These are not recall or false-positive estimates: event labels
-remain under review, the background pilot is small, and its universe is unverified.
-
-Research session alignment uses the versioned NYSE snapshot in `data/calendar/`,
-including exchange holidays, early closes, and the January 9, 2025 closure.
-The source database's `tradingday` table is not changed. Its audit records missing
-sessions and incorrect holiday entries. Regenerating the snapshot requires
-`pandas_market_calendars`; normal use reads the saved JSON. Run research scripts
-from this checkout so their source inventories and outputs are available.
-
-Run `python3 ma_broad_screen.py` to discover price jumps among mapped SEC merger
-filers. The saved scan contains 3,303 unverified leads, including 1,809 jumps of
-at least 15%. These require primary-source announcement and issuer confirmation;
-they are not confirmed M&A events or model labels.
-
-Run `python3 ma_registry.py` to create and populate dedicated `research_ma_*`
-tables in `optiondb`. This command writes research tables; the detector and
-screening commands read source tables. The registry retains event candidates,
-filing evidence, discovery records, and price leads independently of price or
-volume thresholds. Public-target status and acquisition completion remain unknown
-until reviewed. The `research_ma_public_company_acquisitions` view marks completed
-public-company acquisitions only when both flags are true. Source candidates
-are not yet deduplicated into a canonical deal universe. See the saved
-[ingest summary](results/ma_registry/ingest_summary.json) for counts.
-
-## Run
-
-Python 3.10+ and PyMySQL are required. Install with `python3 -m pip install -e .`
-(or use an environment that already has PyMySQL).
+Python 3.10 or newer. Direct dependencies are `PyMySQL` and `requests`. Regenerating the NYSE snapshot requires `pandas_market_calendars`.
 
 ```bash
-python3 detector.py --symbols AAPL MSFT --date 2026-11-04
-python3 detector.py --symbols AAPL --date 2026-11-04 --format csv
-python3 -m unittest discover -s tests -v
+python3 -m pip install -e .
+python3 -m pip install -e '.[calendar]'   # only for market_calendar.py --refresh
 ```
 
-The CLI prompts for the MySQL password. Credentials are never stored in this repo.
-For unattended use, supply `OPTIONDB_PASSWORD` through your environment/secret manager.
-Defaults: user `optiondb`, database `optiondb`, socket `/run/mysqld/mysqld.sock`.
-Override with `OPTIONDB_USER`, `OPTIONDB_DATABASE`, `OPTIONDB_SOCKET`, or
-`OPTIONDB_HOST` and `OPTIONDB_PORT` for TCP.
+The install was run in this environment with Python 3.12. The console script is `insider-option-patterns` (same CLI as `detector.py`).
 
-## Signal
+Database scripts read connection settings from the environment. Names only:
 
-For each requested symbol and date, aggregate calls 3–50% above the underlying
-price with 3–45 calendar days to expiration. Require at least 500 contracts,
-5x prior average volume, a population z-score of at least 3, and aggregate
-volume/open-interest of at least 1. Thresholds are CLI options; see `--help`.
-Use the prior 20 observed chain sessions, requiring at least 10. The target date
-and future dates are excluded from the baseline. Observed sessions with no
-qualifying calls count as zero; absent chain sessions are not fabricated.
-A bounded history query spans max(90, lookback*4) calendar days.
+- `OPTIONDB_PASSWORD`
+- `OPTIONDB_USER`
+- `OPTIONDB_DATABASE`
+- `OPTIONDB_SOCKET`
+- `OPTIONDB_HOST`
+- `OPTIONDB_PORT`
 
-Flat baselines qualify only if current volume exceeds their mean. Zero means
-and zero OI are explicitly flagged, with undefined ratios emitted as JSON null.
-Premium is an estimate using closing bid/ask midpoint, 100 shares per contract,
-and reported volume; it is not observed transaction value. Invalid/crossed quotes
-contribute no estimated premium. Adjusted contracts can use other multipliers.
+`detector.py` and `price_jump_examine.py` use TCP when `OPTIONDB_HOST` is set, and a Unix socket otherwise. `price_jump_examine.py` exits if `OPTIONDB_PASSWORD` is unset. `sec_match.connection()` (used by the other MySQL scripts) always uses a Unix socket; it does not read `OPTIONDB_HOST` or `OPTIONDB_PORT`. If `OPTIONDB_PASSWORD` is unset, `detector.py` and `sec_match.py` prompt on the terminal. No password is stored in the repository. `.gitignore` ignores `.env`.
 
-JSON includes settings and ranked alerts. CSV includes headers even with no alerts.
-Missing target data or insufficient history generates stderr diagnostics.
-No alert is distinct from no data. Database failures exit with status 1.
+## Running
 
-## Data and performance
+### Verified without MySQL
 
-Uses the verified `optiondaily` schema: underlying, underlying_last, type, strike,
-edate, qdate, volume, oi, bid, ask. `--table optiondaily3` selects the alternate
-compatible table. Explicit symbols constrain the leading underlying/qdate index;
-the source table has billions of rows, so start with a small watchlist.
-Queries run in a read-only transaction with a 60-second server execution limit.
-The detector creates no tables and changes no source data.
+These commands were run from the repository root after `python3 -m pip install -e .`. Each exited 0. `background_report.py` and `exploratory_patterns.py` rewrote their reports from saved JSON and matched the committed files. `research_report.py` rewrites `results/sec_alignment/REPORT.md` and updates its generated date.
 
-Coverage depends on source completeness. Contract eligibility changes as price
-and DTE change. Daily aggregates cannot determine trade aggressor, opening versus
-closing volume, intraday timing, or coordination. Earnings, public news, hedging,
-rolls, and corporate actions can cause alerts. Review those explanations and
-validate against subsequent data before drawing conclusions. This version has
-no earnings calendar, intraday feed, or backtested predictive performance.
+```bash
+python3 -m unittest discover -s tests -v
+python3 detector.py --help
+python3 background_report.py
+python3 exploratory_patterns.py
+python3 research_report.py
+python3 -c "import market_calendar; print(len(market_calendar.sessions('2012-01-01', '2026-12-31')))"
+```
+
+The calendar call checks `data/calendar/manifest.json` against `data/calendar/nyse_sessions.json` and prints the session count. `market_calendar.py` with no arguments audits the database `tradingday` table and was not run. `market_calendar.py --refresh` was not run.
+
+These also exited 0. They rewrite files under `results/`. `price_action_vet.py` without `--deep` replaces a previously saved deep OHLCV report with the offline close check, so do not run it if you need to keep that deep report.
+
+```bash
+python3 research_dataset.py
+python3 evaluation.py
+python3 trading_assumptions.py
+python3 corporate_action_review.py
+python3 reviewed_cohort.py --apply-reviews-only
+python3 price_action_vet.py
+```
+
+`python3 -m unittest discover -s tests -v` completed 73 tests successfully.
+
+### Requires the local MySQL database
+
+No MySQL server was available here. `detector.py` was started against a closed port and exited 1 with a database error. Do not treat the invocations below as executed queries. They expect the tables listed under Data. `ma_registry.py` commits new `research_ma_*` tables; the others in this list use read-only transactions or read-only `SELECT`s.
+
+```bash
+python3 detector.py --symbols AAPL MSFT --date 2024-01-02
+python3 detector.py --symbols AAPL --date 2024-01-02 --format csv
+python3 sec_match.py
+python3 ma_stock_confirmation.py
+python3 ma_broad_screen.py
+python3 research_cohort.py
+python3 reviewed_cohort.py
+python3 background_sample.py
+python3 stock_coverage.py
+python3 stock_frame_audit.py
+python3 option_coverage_probe.py
+python3 price_action_vet.py --deep
+python3 price_jump_examine.py --start 2015-01-02 --end 2015-01-31
+python3 ma_registry.py
+```
+
+`background_sample.py` accepts `--start-year`, `--end-year`, `--dates-per-year`, `--symbols-per-date`, and `--seed` (default 1984). `option_coverage_probe.py` accepts `--start-year` (default 2024). `ma_stock_confirmation.py` accepts `--volume-multiple` (default 2).
+
+### Requires the network
+
+These were not run here. They call SEC hosts and, for `ma_inventory.py`, Hugging Face, and the last one also opens MySQL.
+
+```bash
+python3 edgar_earnings_calendar.py --cik 320193
+python3 edgar_jump_assist.py --help
+python3 edgar_ma_search.py --help
+python3 cik_audit.py
+python3 ma_inventory.py
+```
+
+`edgar_earnings_calendar.py` exits unless `--cik` and/or `--ciks` is set. Cached per-CIK JSON under `results/edgar_earnings_calendar/by_cik/` is gitignored.
+
+## Data, inputs, and outputs
+
+**Local MySQL database** (name from `OPTIONDB_DATABASE`). Reads:
+
+| Table | Used for |
+| --- | --- |
+| `optiondaily`, `optiondaily3` | EOD option chains (`underlying`, `underlying_last`, `type`, `strike`, `edate`, `qdate`, `volume`, `oi`, `bid`, `ask`). |
+| `stockquote` | Equity OHLCV (`symbol`, `qdate`, `open`, `high`, `low`, `close`, `volume`). |
+| `cik2symbol` | Local CIK-to-symbol map. |
+| `maevent`, `mafromnews` | Local M&A and news-link rows exported by `ma_inventory.py`. |
+| `tradingday` | Legacy session list audited by `market_calendar.py`. The script does not update it. |
+
+Writes, only from `ma_registry.py`: `research_ma_events`, `research_ma_sources`, `research_ma_filings`, `research_ma_discovery_records`, `research_ma_price_leads`, and view `research_ma_public_company_acquisitions`.
+
+**Files in `data/`.** Case text and contract windows in `sec_cases.json`. Review overlays, outcome reviews, jump-news reviews, and the frozen split protocol. NYSE sessions in `data/calendar/`. M&A CSV/JSON under `data/m_and_a/`, including `sec_filing_search/merger_filings_2013_2026.csv`.
+
+**External sources.**
+
+- SEC submissions JSON at `data.sec.gov` (`cik_audit.py`, `edgar_earnings_calendar.py`, `edgar_jump_assist.py`).
+- SEC full-text search at `https://efts.sec.gov/LATEST/search-index` (`edgar_ma_search.py`).
+- Hugging Face dataset `tcontorno/edgar-ma-deals` (`ma_inventory.py`).
+- Optional `pandas_market_calendars` NYSE calendar when regenerating `data/calendar/`.
+
+**Outputs.** Scripts write JSON, CSV, and `REPORT.md` files under `results/`. Examples: `results/sec_alignment/`, `results/ma_stock_confirmation/`, `results/research_cohort/`, `results/reviewed_cohort/`, `results/research_dataset/`, `results/evaluation/`, `results/trading_assumptions/`, `results/background_sample/`, `results/exploratory_patterns/`, `results/price_jump_examine/`, and `results/ma_registry/ingest_summary.json`. The detector prints JSON or CSV to stdout and diagnostics to stderr. Missing chain data is not the same as an empty alert list. Database failures exit 1.
+
+Point-in-time vendor delivery, contract multipliers, and a complete historical option-listing universe are not established by these outputs. Read each `REPORT.md` for what that artifact claims.
+
+## Disclaimer
+
+This project is research and education. It is not financial, investment, legal, or trading advice. Alerts and descriptive counts are not a recommendation to buy or sell any security or option, and they are not a finding that any person traded on inside information. No script in this repository produces an authorized population-level accuracy estimate or a completed trading backtest.
+
+## License
+
+No license specified.
