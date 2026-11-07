@@ -1,5 +1,5 @@
 {
-  "policy": "keep 2,3,4; drop 1 (earnings only)",
+  "policy": "keep 2-11; drop 1 (earnings only); see METHODOLOGY.md §9",
   "events_reviewed": 45,
   "keep": 45,
   "drop_earnings": 0,
@@ -14,8 +14,9 @@
     "data/event_review_overrides.json": "02823a5427fd5f5a7cc08883b22151d3aad599763d1dffb993784cae8ff2a94e"
   },
   "notes": [
-    "Keep classes 2/3/4; drop earnings only.",
-    "Current reviewed cohort members are all class 2 (M&A). Classes 3 and 4 are kept by policy when found.",
+    "Keep classes 2-11; drop earnings only. Canonical taxonomy in METHODOLOGY.md §9.",
+    "Current reviewed cohort members are all class 2 (M&A). Classes 3-11 are kept by policy when found.",
+    "Prior drop_other_not_234 rows remain candidates for re-bucketing into classes 5-11.",
     "news_filter keep_ma_contaminated means kept under class 2 but first_public/training still gated."
   ]
 }

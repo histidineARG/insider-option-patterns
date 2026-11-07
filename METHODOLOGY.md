@@ -139,6 +139,73 @@ and a separate cost-aware trading simulation. The immediate question is whether
 pre-announcement option activity adds predictive value at a manageable alert rate;
 profitability is a separate empirical result.
 
+## 9. Jump-cause news filter (population discovery)
+
+The M&A-first reviewed cohort is a confirmation slice, not a market-frequency
+estimate. Population discovery starts from large stock jumps and attributes a
+same-session public cause before any training label is considered.
+
+### Screen
+
+1. Take NYSE-calendar consecutive close-to-close returns of at least 15% with
+   volume at least 2× the prior session (`price_jump_examine.py`).
+2. Hard-drop ETF/ETN denylist symbols, prior close under $5, and symbols with no
+   `optiondaily` / `optiondaily3` row on the jump date.
+3. Auto-drop earnings when a mapped CIK has an EDGAR 8-K Item 2.02 acceptance
+   whose reaction session equals the jump session (`edgar_earnings_calendar.py`).
+4. For remaining rows, require a same-session news or filing locator that
+   attributes the move; record `cause_class`, `jump_cause`, and `news_filter`.
+   No attributable cause stays pending or unexplained — it is not a keep.
+
+### Keep / drop classes
+
+| # | `cause_class` | Typical `jump_cause` | Action |
+| --- | --- | --- | --- |
+| 1 | `1_earnings` | `earnings` | **drop** (Item 2.02 calendar) |
+| 2 | `2_ma_rumor_or_news` (or `2_ma_rumor` / `2_ma_news`) | `ma_rumor`, `ma_news` | **keep** |
+| 3 | `3_biotech_trial` | `biotech_trial` | **keep** |
+| 4 | `4_tech_breakthrough` | `tech_breakthrough` | **keep** |
+| 5 | `5_commercial_contract` | `commercial_contract` | **keep** |
+| 6 | `6_partnership_license` | `partnership_license` | **keep** |
+| 7 | `7_regulatory_approval` | `regulatory_approval` | **keep** |
+| 8 | `8_guidance_stepup` | `guidance_stepup` | **keep** |
+| 9 | `9_legal_unlock` | `legal_unlock` | **keep** |
+| 10 | `10_product_launch` | `product_launch` | **keep** |
+| 11 | `11_activist_alt` | `activist_alt` | **keep** |
+
+Class notes:
+
+- **2** covers takeout rumor or definitive acquisition news about the issuer as
+  target (not the issuer buying someone else, unless that print is itself the
+  attributed jump cause and reviewed as such).
+- **3** is a clinical-trial readout / data success for the issuer; **7** is
+  FDA or peer-regulator approval, clearance, or equivalent decision.
+- **4** is a technical or scientific breakthrough; **10** is a commercial product
+  launch or major product commercialization print.
+- **5** is a material customer/contract/award/order for the issuer.
+- **6** is a collaboration, license, or partnership that is not a takeout of the
+  issuer (minority investments that are primarily partnership capital may land
+  here when that is the attributed cause).
+- **8** is a material guidance or outlook step-change, not routine earnings
+  (earnings remain class 1 even when guidance moves inside the report).
+- **9** is a litigation or regulatory resolution that unlocks equity value.
+- **11** is activist involvement, strategic-review / sale-process news, or similar
+  alternatives processes that reprice the stock without a definitive takeout yet.
+
+### Still dropped (not keep classes)
+
+- Hard filters: sub-$5 prior close, ETF/ETN denylist, no option chain that day.
+- Mechanical prints (for example reverse splits) and other non-economic artifacts.
+- Dilutive financing / offerings as the primary attributed cause.
+- Peer-sympathy moves with no issuer-specific catalyst.
+- Analyst-only rating or price-target changes with no company news.
+- Unexplained moves after a documented same-session search.
+
+Manual overlays live in `data/price_jump_news_reviews.json`. Rows previously
+labeled `drop_other_not_234` under the old keep-2/3/4 policy are candidates for
+re-bucketing into classes 5–11; that re-label pass is separate from this policy
+write-up and is not required to unlock training metrics.
+
 ## References
 
 - [Time-series validation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit)

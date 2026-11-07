@@ -1,6 +1,6 @@
 {
   "as_of": "2016-12-31",
-  "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Keep only classes 2/3/4; do not invent keeps for other catalysts.",
+  "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Policy keep classes 2-11 (METHODOLOGY.md \u00a79). Historical rows labeled drop_other_not_234 under the old keep-2/3/4 rule are re-bucket candidates for classes 5-11 and were not re-labeled in the policy write-up.",
   "tranche": "ge15_ninth40",
   "reviews": [
     {
