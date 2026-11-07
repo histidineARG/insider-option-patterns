@@ -11,18 +11,24 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import time
 import urllib.error
 import urllib.request
 from pathlib import Path
 
 
-UA = 'insider-option-patterns research (set SEC_USER_AGENT to a contact)'
 BASE = 'https://data.sec.gov/submissions'
+DEFAULT_SEC_USER_AGENT = 'insider-option-patterns research (set SEC_USER_AGENT to a contact)'
+
+
+def sec_user_agent() -> str:
+    """SEC asks callers to identify themselves. Override with SEC_USER_AGENT."""
+    return os.environ.get('SEC_USER_AGENT') or DEFAULT_SEC_USER_AGENT
 
 
 def fetch_json(url: str, pause: float = 0.12) -> dict:
-    req = urllib.request.Request(url, headers={'User-Agent': UA})
+    req = urllib.request.Request(url, headers={'User-Agent': sec_user_agent()})
     with urllib.request.urlopen(req, timeout=60) as resp:
         payload = json.load(resp)
     time.sleep(pause)
