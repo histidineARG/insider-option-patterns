@@ -45,14 +45,15 @@ python3 -m pip install -e '.[calendar]'   # only for market_calendar.py --refres
 
 The install was run in this environment with Python 3.12. The console script is `insider-option-patterns` (same CLI as `detector.py`).
 
-Database scripts read connection settings from the environment. Names only:
+Database scripts read connection settings from the environment:
 
 - `OPTIONDB_PASSWORD`
-- `OPTIONDB_USER`
+- `OPTIONDB_USER` — MySQL user. If unset or empty, `detector.py`, `sec_match.py`, and `price_jump_examine.py` use `optiondb`.
 - `OPTIONDB_DATABASE`
 - `OPTIONDB_SOCKET`
 - `OPTIONDB_HOST`
 - `OPTIONDB_PORT`
+- `SEC_USER_AGENT` — contact string sent to `data.sec.gov` by `edgar_earnings_calendar.py` (also used by `edgar_jump_assist.py`). SEC expects a User-Agent that identifies the caller. If unset or empty, the placeholder is `insider-option-patterns research (set SEC_USER_AGENT to a contact)`.
 
 `detector.py` and `price_jump_examine.py` use TCP when `OPTIONDB_HOST` is set, and a Unix socket otherwise. `price_jump_examine.py` exits if `OPTIONDB_PASSWORD` is unset. `sec_match.connection()` (used by the other MySQL scripts) always uses a Unix socket; it does not read `OPTIONDB_HOST` or `OPTIONDB_PORT`. If `OPTIONDB_PASSWORD` is unset, `detector.py` and `sec_match.py` prompt on the terminal. No password is stored in the repository. `.gitignore` ignores `.env`.
 

@@ -19,7 +19,7 @@ def connection():
         password = getpass.getpass('Local MySQL password: ')
     return pymysql.connect(
         unix_socket=os.environ.get('OPTIONDB_SOCKET', '/run/mysqld/mysqld.sock'),
-        user=os.environ.get('OPTIONDB_USER', 'bill'), password=password,
+        user=os.environ.get('OPTIONDB_USER') or 'optiondb', password=password,
         database=os.environ.get('OPTIONDB_DATABASE', 'optiondb'),
         cursorclass=pymysql.cursors.DictCursor, connect_timeout=5, read_timeout=65)
 

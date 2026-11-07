@@ -99,7 +99,7 @@ def main():
     password = os.environ.get('OPTIONDB_PASSWORD')
     if password is None:
         password = getpass.getpass('MySQL password: ')
-    config = dict(user=os.environ.get('OPTIONDB_USER', 'bill'), password=password,
+    config = dict(user=os.environ.get('OPTIONDB_USER') or 'optiondb', password=password,
                   database=os.environ.get('OPTIONDB_DATABASE', 'optiondb'),
                   cursorclass=pymysql.cursors.DictCursor, connect_timeout=5,
                   read_timeout=60, write_timeout=5, autocommit=False)

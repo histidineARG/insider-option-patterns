@@ -1,7 +1,9 @@
+import os
 import unittest
 from datetime import date, datetime, timezone
+from unittest import mock
 
-from edgar_earnings_calendar import extract_item_202_rows
+from edgar_earnings_calendar import DEFAULT_SEC_USER_AGENT, extract_item_202_rows, sec_user_agent
 from price_jump_examine import reaction_session_with_meta
 
 
@@ -46,6 +48,16 @@ class EdgarEarningsCalendarTests(unittest.TestCase):
         }
         acc = datetime(2020, 4, 30, 12, 0, 0, tzinfo=timezone.utc)
         self.assertEqual(reaction_session_with_meta(acc, meta), date(2020, 4, 30))
+
+    def test_sec_user_agent_placeholder_and_override(self):
+        self.assertNotIn('bill', DEFAULT_SEC_USER_AGENT.lower())
+        with mock.patch.dict(os.environ, {}, clear=False):
+            os.environ.pop('SEC_USER_AGENT', None)
+            self.assertEqual(sec_user_agent(), DEFAULT_SEC_USER_AGENT)
+        with mock.patch.dict(os.environ, {'SEC_USER_AGENT': ''}):
+            self.assertEqual(sec_user_agent(), DEFAULT_SEC_USER_AGENT)
+        with mock.patch.dict(os.environ, {'SEC_USER_AGENT': 'Example Research example@example.com'}):
+            self.assertEqual(sec_user_agent(), 'Example Research example@example.com')
 
 
 if __name__ == '__main__':

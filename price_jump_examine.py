@@ -38,7 +38,7 @@ def db_connect():
     if password is None:
         raise RuntimeError('OPTIONDB_PASSWORD is required')
     config = dict(
-        user=os.environ.get('OPTIONDB_USER', 'bill'),
+        user=os.environ.get('OPTIONDB_USER') or 'optiondb',
         password=password,
         database=os.environ.get('OPTIONDB_DATABASE', 'optiondb'),
         cursorclass=pymysql.cursors.DictCursor,

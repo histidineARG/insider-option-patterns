@@ -1,9 +1,9 @@
 {
   "as_of": "2026-11-05",
-  "importer": "/home/bill/git/autotrader/python/download_upload.py",
+  "importer": "~/git/autotrader/python/download_upload.py",
   "restored": [{
     "date": "2026-10-09",
-    "archive": "/home/bill/data/groups/1 - eodLevel2/L2_20261009.zip",
+    "archive": "~/data/groups/1 - eodLevel2/L2_20261009.zip",
     "csv_rows": 2051602,
     "csv_distinct_natural_keys": 2049249,
     "duplicate_natural_keys": 2353,
@@ -31,7 +31,7 @@
     "official_sync_script_checked": "https://dnfilevault.com/automationPython/download"
   },
   "notes": [
-    "No monthly L2_2026_*.zip archives found under /home/bill.",
+    "No monthly L2_2026_*.zip archives found under ~/.",
     "Eight interrupted daily ZIP .part downloads exist; these were not imported.",
     "No fallback to a previous trading date was used.",
     "sp_update_a_date is disabled in the existing importer and was not run.",
