@@ -1,7 +1,7 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "fb6c3c31b25779c6d27413d9de425f5526b6f129bf4549aba775db6cdfeff220",
-  "n_rows": 363,
+  "ledger_sha256": "31dbc6435678d7736edae49ab661d90ee0737ba94a8900b9b3cf6ffcfa741933",
+  "n_rows": 353,
   "reviews": [
     {
       "symbol": "GALT",
@@ -14,16 +14,6 @@
       "locator": "https://moneymorning.com/2014/01/09/u-s-stock-market-news-today-check-pharma-stock-soared-300"
     },
     {
-      "symbol": "VISN",
-      "qdate": "2016-08-19",
-      "close_return": 0.507,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "VisionChina Media revised partial sale of subway ad business stake to Ledman; asset/equity transfer, not keep 2/3/4 M&A-of-issuer / trial / breakthrough.",
-      "locator": "https://investorplace.com/2016/08/visionchina-media-inc-adr-visn-stock-nasdaq/"
-    },
-    {
       "symbol": "GOL",
       "qdate": "2016-03-03",
       "close_return": 0.432,
@@ -32,16 +22,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Brazil provisional measure raising foreign airline ownership cap 20%→49%; capital-structure/regulatory relief speculation, not keep 2/3/4.",
       "locator": "https://oglobo.globo.com/economia/negocios/acoes-da-gol-disparam-apos-aumento-de-participacao-estrangeira-em-aereas-18786930"
-    },
-    {
-      "symbol": "ESI",
-      "qdate": "2014-12-05",
-      "close_return": 0.344,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Heavily shorted ITT Educational bounce tied to Cerberus $100M term-loan liquidity relief. Financing/short-squeeze, not keep 2/3/4.",
-      "locator": "https://www.pleaseactaccordingly.com/the-library/ESI"
     },
     {
       "symbol": "ASYS",
@@ -94,16 +74,6 @@
       "locator": "https://www.reuters.com/article/world/uk/pharma-biotech-shares-soar-as-trump-win-calms-pricing-talk-idUSKBN1342HP/"
     },
     {
-      "symbol": "ARGS",
-      "qdate": "2016-06-06",
-      "close_return": 0.2866,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day company PR; move ahead of June IDMC ADAPT review (announced continue June 13) / financing tranche speculation. Unconfirmed, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1105533/000117184316010620/f8k_061316.htm"
-    },
-    {
       "symbol": "TROX",
       "qdate": "2015-10-06",
       "close_return": 0.2836,
@@ -122,16 +92,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Offshore OSV name in oil/commodity rally as Brent/WTI jumped ~5.5%. Commodity/sector, not keep 2/3/4.",
       "locator": "https://www.reuters.com/article/global-markets/global-markets-brent-hits-2016-peak-above-40-u-s-stocks-dip-idUKL1N16F1IJ/"
-    },
-    {
-      "symbol": "LTRPA",
-      "qdate": "2015-10-14",
-      "close_return": 0.2778,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "TripAdvisor Instant Booking partnership with Priceline Group hotel inventory. Commercial partnership; LTRPA parent reaction. Not keep 2/3/4.",
-      "locator": "https://investorplace.com/2015/10/best-stocks-sndk-trip-odp/"
     },
     {
       "symbol": "TDW",
@@ -254,26 +214,6 @@
       "locator": "https://www.prnewswire.com/news-releases/daqo-new-energy-corp-states-its-policy-not-to-comment-on-unusual-market-activity-or-speculative-matters-188043521.html"
     },
     {
-      "symbol": "VNDA",
-      "qdate": "2013-06-11",
-      "close_return": 0.2498,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Baker Bros 13G stake boost / momentum; FDA NDA priority for tasimelteon came Jul 29. No same-day keep catalyst.",
-      "locator": "https://www.insidermonkey.com/blog/baker-bros-advisors-boosts-stake-in-vanda-pharmaceuticals-inc-vnda-167035/"
-    },
-    {
-      "symbol": "SM",
-      "qdate": "2016-11-30",
-      "close_return": 0.2491,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "OPEC agreed ~1.2M bpd production cut; WTI jumped ~10% and E&Ps rallied broadly. Commodity/sector, not keep 2/3/4.",
-      "locator": "https://www.cnbc.com/2016/11/30/drilling-stocks-are-rising-as-oil-leaps-on-hopes-of-an-opec-deal.html"
-    },
-    {
       "symbol": "SNMX",
       "qdate": "2014-02-12",
       "close_return": 0.2487,
@@ -294,16 +234,6 @@
       "locator": "https://labusinessjournal.com/finance/stocks/stocks-rise-second-sight-soars-truecar-brakes/"
     },
     {
-      "symbol": "AGIO",
-      "qdate": "2015-10-27",
-      "close_return": 0.2481,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Announced upcoming AACR-NCI-EORTC plenary for AG-120 Phase 1 solid-tumor data (abstract later); anticipation not a readout keep.",
-      "locator": "https://www-biocentury-com.proxy.lib.umich.edu/article/272678/agios-rises-in-advance-of-ag-120-presentation"
-    },
-    {
       "symbol": "MSB",
       "qdate": "2015-08-10",
       "close_return": 0.2436,
@@ -322,26 +252,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "BlackRock 13G disclosed ~5.4% stake. Ownership filing, not keep 2/3/4.",
       "locator": "https://www.sec.gov/Archives/edgar/data/922475/000108636415001553/0001086364-15-001553.txt"
-    },
-    {
-      "symbol": "SCTY",
-      "qdate": "2013-05-13",
-      "close_return": 0.2424,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q1 earnings/call; Goldman >$500M lease financing announced May 16. Earnings session, not keep 2/3/4.",
-      "locator": "https://qz.com/85330/goldman-sachs-makes-a-500-million-bet-on-elon-musks-solar-business"
-    },
-    {
-      "symbol": "CVI",
-      "qdate": "2016-11-09",
-      "close_return": 0.2408,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Post-election refining rally on Trump RFS/RIN deregulation hopes. Policy/sector, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/2016/11/09/trumps-win-fuels-a-massive-rally-in-refining-stock.aspx"
     },
     {
       "symbol": "OSUR",
@@ -2912,16 +2822,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep-2/3/4 PR for INO. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/INO?date=2014-07-23&view=daily"
-    },
-    {
-      "symbol": "SCTY",
-      "qdate": "2014-06-17",
-      "close_return": 0.1758,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for SCTY. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/SCTY?date=2014-06-17&view=daily"
     },
     {
       "symbol": "PCOM",
