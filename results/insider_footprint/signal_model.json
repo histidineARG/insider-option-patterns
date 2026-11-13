@@ -1,0 +1,167 @@
+{
+  "fit": true,
+  "n_train": 2880,
+  "features": [
+    "log_peak_call",
+    "log_oi_build",
+    "otm_share",
+    "log_call_put",
+    "pre_return"
+  ],
+  "coefficients": {
+    "intercept": -0.7498521147729923,
+    "log_peak_call": -0.3193272341054957,
+    "log_oi_build": 0.39689326522116813,
+    "otm_share": -0.08787965005521828,
+    "log_call_put": 0.13426059342605504,
+    "pre_return": 1.9281970840267424
+  },
+  "train": {
+    "n": 2880,
+    "positives": 971,
+    "auc": 0.8290379086758533,
+    "paired_earnings": {
+      "wins": 802,
+      "losses": 152,
+      "n": 954,
+      "win_rate": 0.8406708595387841
+    },
+    "paired_ordinary": {
+      "wins": 776,
+      "losses": 179,
+      "n": 955,
+      "win_rate": 0.812565445026178
+    }
+  },
+  "val": {
+    "n": 1107,
+    "positives": 379,
+    "auc": 0.8135456232421931,
+    "paired_earnings": {
+      "wins": 287,
+      "losses": 68,
+      "n": 355,
+      "win_rate": 0.8084507042253521
+    },
+    "paired_ordinary": {
+      "wins": 298,
+      "losses": 75,
+      "n": 373,
+      "win_rate": 0.7989276139410187
+    }
+  },
+  "later": {
+    "n": 307,
+    "positives": 105,
+    "auc": 0.8371758604431871,
+    "paired_earnings": {
+      "wins": 82,
+      "losses": 16,
+      "n": 98,
+      "win_rate": 0.8367346938775511
+    },
+    "paired_ordinary": {
+      "wins": 87,
+      "losses": 17,
+      "n": 104,
+      "win_rate": 0.8365384615384616
+    }
+  },
+  "holdout_positives": 0,
+  "train_means": {
+    "deal": {
+      "log_peak_call": 5.409188544660532,
+      "log_oi_build": 4.604883786921894,
+      "otm_share": 0.564253167295096,
+      "log_call_put": 1.4280434052802864,
+      "pre_return": 0.1688099267605615,
+      "n": 971
+    },
+    "earnings": {
+      "log_peak_call": 4.9549104912065,
+      "log_oi_build": 4.098787341648388,
+      "otm_share": 0.616833319269338,
+      "log_call_put": 1.1158795053367199,
+      "pre_return": -0.005734302699094374,
+      "n": 954
+    },
+    "ordinary": {
+      "log_peak_call": 4.528174514711668,
+      "log_oi_build": 3.8462707883480562,
+      "otm_share": 0.5410594081836603,
+      "log_call_put": 1.2698186545448231,
+      "pre_return": -0.003392203345053233,
+      "n": 955
+    }
+  },
+  "without_pre_return": {
+    "fit": true,
+    "n_train": 2880,
+    "features": [
+      "log_peak_call",
+      "log_oi_build",
+      "otm_share",
+      "log_call_put"
+    ],
+    "coefficients": {
+      "intercept": -0.6959184972981419,
+      "log_peak_call": 0.1921525021142041,
+      "log_oi_build": 0.16600154521969385,
+      "otm_share": -0.28401026904035515,
+      "log_call_put": 0.1635197531384672
+    },
+    "train": {
+      "n": 2880,
+      "positives": 971,
+      "auc": 0.6065536493351726,
+      "paired_earnings": {
+        "wins": 590,
+        "losses": 309,
+        "n": 899,
+        "win_rate": 0.6562847608453838
+      },
+      "paired_ordinary": {
+        "wins": 552,
+        "losses": 329,
+        "n": 881,
+        "win_rate": 0.626560726447219
+      }
+    },
+    "val": {
+      "n": 1107,
+      "positives": 379,
+      "auc": 0.5869824436776944,
+      "paired_earnings": {
+        "wins": 225,
+        "losses": 127,
+        "n": 352,
+        "win_rate": 0.6392045454545454
+      },
+      "paired_ordinary": {
+        "wins": 225,
+        "losses": 146,
+        "n": 371,
+        "win_rate": 0.6064690026954178
+      }
+    },
+    "later": {
+      "n": 307,
+      "positives": 105,
+      "auc": 0.5639085337105139,
+      "paired_earnings": {
+        "wins": 51,
+        "losses": 47,
+        "n": 98,
+        "win_rate": 0.5204081632653061
+      },
+      "paired_ordinary": {
+        "wins": 64,
+        "losses": 39,
+        "n": 103,
+        "win_rate": 0.6213592233009708
+      }
+    },
+    "holdout_positives": 0
+  },
+  "holdout_rows": 0
+}
