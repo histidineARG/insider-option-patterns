@@ -1,29 +1,29 @@
 {
   "reviewed_on": "2026-11-13",
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "1534690862a2fa5080fec047035a332537339fdc208950f7d9e82de60b0a3610",
+  "ledger_sha256": "a13a14f2c560ba32e6ae3ed1730a156007963b212059f5df9f68db0f292f88d6",
   "n_unique_rows": 681,
   "review_counts": {
-    "keep": 234,
+    "keep": 236,
     "drop_earnings": 81,
-    "drop_peer_sympathy": 10,
-    "pending_news_review": 134,
-    "drop_mechanical": 1,
+    "drop_peer_sympathy": 12,
+    "pending_news_review": 173,
+    "drop_mechanical": 2,
     "drop_stale_news": 1,
-    "drop_macro_sector": 22,
-    "drop_analyst": 9,
-    "drop_financing": 8,
-    "drop_other_not_234": 164,
+    "drop_macro_sector": 29,
+    "drop_analyst": 11,
+    "drop_financing": 10,
     "drop_operating_update": 5,
     "drop_regulatory_process": 4,
     "drop_peer_earnings": 1,
     "drop_passive_ownership": 2,
     "drop_trial_anticipation": 2,
     "drop_short_covering_media": 1,
-    "drop_etf": 2
+    "drop_etf": 2,
+    "drop_other_not_234": 109
   },
-  "n_policy_reviewed": 356,
-  "n_autonomous_reviewed": 330,
+  "n_policy_reviewed": 411,
+  "n_autonomous_reviewed": 385,
   "this_run": {
     "batches": [
       "autonomous_batch38_5",
@@ -35,17 +35,23 @@
       "autonomous_batch44_5",
       "autonomous_batch45_5",
       "autonomous_batch46_5",
-      "autonomous_batch47_5"
+      "autonomous_batch47_5",
+      "autonomous_batch48_5",
+      "autonomous_batch49_10",
+      "autonomous_batch50_10",
+      "autonomous_batch51_10",
+      "autonomous_batch52_10",
+      "autonomous_batch53_10"
     ],
-    "n_reviewed": 50,
+    "n_reviewed": 105,
     "decisions": {
-      "defer": 38,
-      "keep": 7,
-      "drop": 5
+      "defer": 77,
+      "keep": 9,
+      "drop": 19
     }
   },
-  "n_legacy_awaiting_reassessment": 164,
-  "n_pending_in_manual_ledger": 134,
+  "n_legacy_awaiting_reassessment": 109,
+  "n_pending_in_manual_ledger": 173,
   "database_snapshots_refreshed": false,
   "population_news_queue_refreshed": false,
   "training_readiness_certified": false

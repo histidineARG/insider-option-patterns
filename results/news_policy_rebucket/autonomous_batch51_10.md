@@ -1,0 +1,18 @@
+# autonomous_batch51_10
+
+Reviewed 2026-11-13. {'defer': 8, 'drop': 2}
+
+- **ORMP 2014-01-27 — defer / unclassified**: Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context. [Source 1](https://exa.ai/library/markets/stock/ORMP?date=2014-01-27&view=daily)
+- **CRUS 2014-12-15 — drop / analyst**: Same-day report attributes Cirrus Logic’s jump to a Barclays upgrade and target increase. Analyst action is excluded. [Source 1](https://www.schaeffersresearch.com/content/news/2014/12/15/analyst-upgrades-cirrus-logic-inc-cypress-semiconductor-corporation-and-twitter-inc?blogid=123667)
+- **RMTI 2016-02-16 — defer / unclassified**: Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context. [Source 1](https://exa.ai/library/markets/stock/RMTI?date=2016-02-16&view=daily)
+- **OMEX 2016-04-01 — defer / unclassified**: Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context. [Source 1](https://exa.ai/library/markets/stock/OMEX?date=2016-04-01&view=daily)
+- **SM 2015-02-03 — defer / unclassified**: Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context. [Source 1](https://exa.ai/library/markets/stock/SM?date=2015-02-03&view=daily)
+- **AXON 2015-07-17 — drop / analyst**: Same-day analyst update coverage identifies Axovant among names moving on analyst action; this is not a qualifying company catalyst. [Source 1](https://www.schaeffersresearch.com/content/news/2015/07/17/analyst-update-best-buy-co-inc-axovant-sciences-ltd-and-allscripts-healthcare-solutions-inc)
+- **AXDX 2013-09-30 — defer / unclassified**: Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context. [Source 1](https://exa.ai/library/markets/stock/AXDX?date=2013-09-30&view=daily)
+- **TGTX 2014-12-11 — defer / unclassified**: Positive trial result was disclosed December 9; no reliable source isolates a new December 11 catalyst. Do not extend the earlier announcement reaction without date-specific linkage. [Source 1](https://www.genengnews.com/a-lists/top-10-wall-street-winners-of-2014/)
+- **OCUL 2016-08-15 — defer / unclassified**: Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context. [Source 1](https://exa.ai/library/markets/stock/OCUL?date=2016-08-15&view=daily)
+- **TRUE 2014-06-06 — defer / unclassified**: Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context. [Source 1](https://exa.ai/library/markets/stock/TRUE?date=2014-06-06&view=daily)
+
+Current ledger: {'keep': 236, 'drop_earnings': 81, 'drop_peer_sympathy': 12, 'pending_news_review': 173, 'drop_mechanical': 2, 'drop_stale_news': 1, 'drop_macro_sector': 29, 'drop_analyst': 11, 'drop_financing': 10, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 2, 'drop_short_covering_media': 1, 'drop_etf': 2, 'drop_other_not_234': 109}.
+
+No database-derived snapshot or saved news queue refreshed. No training or evaluation gates unlocked.

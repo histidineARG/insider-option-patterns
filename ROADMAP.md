@@ -372,3 +372,18 @@ Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
 - Reviewed 5 legacy rows: {'defer': 5}.
 - Current ledger: {'keep': 234, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 134, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 22, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 164, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 2, 'drop_short_covering_media': 1, 'drop_etf': 2}. Cumulative expanded-policy reviews: 356.
 - Audit: `results/news_policy_rebucket/autonomous_batch47_5.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-13 autonomous_batch48_5
+
+- Reviewed 5 legacy rows: 1 confirmed drop (RNA peer sympathy), 4 deferred (2 timing, 2 category/attribution).
+- Ledger: 234 keep, 81 earnings drops, 11 peer-sympathy drops, 138 pending manual rows, 159 legacy drops awaiting reassessment; cumulative expanded-policy reviews: 361.
+- RNA May 23, 2014 is directly attributed by contemporaneous coverage to sympathy with PTC’s European regulatory news. CBIO, TROX, GLF, and VJET remain pending for unresolved event timing or specific attribution.
+- Audit: `results/news_policy_rebucket/autonomous_batch48_5.md` and `.json`; previous fields preserved. Database-derived snapshots and saved population queue remain stale; training and evaluation gates remain in place.
+
+
+## 2026-11-13 autonomous_batch49_10 through autonomous_batch53_10
+
+- Reviewed 50 legacy rows: 2 confirmed keeps, 13 confirmed exclusions, and 35 deferred for unresolved attribution, timing, or category.
+- Ledger: 236 keep, 81 earnings drops, 12 peer-sympathy drops, 173 pending manual rows, and 109 legacy rows awaiting reassessment; cumulative expanded-policy reviews: 411.
+- Confirmed exclusions cover broad sector moves, analyst actions, financing, peer sympathy, and spin-off price discovery. Two eligible catalysts were confirmed: a clinical-trial result and a commercial contract.
+- Audits: `results/news_policy_rebucket/autonomous_batch49_10.md` through `autonomous_batch53_10.md` and matching JSON files. Prior labels and locators remain in `policy_review.previous`. Database-derived snapshots and the saved population queue remain stale; training and evaluation gates remain in place.

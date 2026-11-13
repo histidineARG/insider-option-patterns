@@ -1,0 +1,165 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch53_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 5,
+  "n_deferred": 5,
+  "n_timing_deferred": 4,
+  "n_category_deferred": 1,
+  "cumulative_n_policy_reviewed": 411,
+  "review_counts": {
+    "keep": 236,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 12,
+    "pending_news_review": 173,
+    "drop_mechanical": 2,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 29,
+    "drop_analyst": 11,
+    "drop_financing": 10,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2,
+    "drop_other_not_234": 109
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "TBPH",
+      "qdate": "2014-06-03",
+      "decision": "drop",
+      "cause_class": "mechanical",
+      "jump_cause": null,
+      "news_filter": "drop_mechanical",
+      "rationale": "Nasdaq notice identifies June 3 as the first regular-way trading date for Theravance Biopharma ordinary shares distributed in a spin-off; classify as security-creation/price-discovery mechanics.",
+      "sources": [
+        "https://nasdaqtrader.com/TraderNews.aspx?id=ETA2014-+37"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "TRVN",
+      "qdate": "2016-02-22",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "FDA Breakthrough Therapy designation is a regulatory status but is not clearly equivalent to approval or clearance under this policy; defer category pending a precise policy mapping.",
+      "sources": [],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "MCF",
+      "qdate": "2016-11-30",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": null,
+      "news_filter": "drop_macro_sector",
+      "rationale": "Same-day market coverage reports the OPEC production-cut deal lifted oil and energy-producer shares broadly. Exclude as macro/sector move.",
+      "sources": [
+        "https://www.reuters.com/markets/commodities/opec-agrees-biggest-oil-output-cut-since-2020-2022-10-05/"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "CRZO",
+      "qdate": "2016-11-30",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": null,
+      "news_filter": "drop_macro_sector",
+      "rationale": "Same-day market coverage reports the OPEC production-cut deal lifted oil and energy-producer shares broadly. Exclude as macro/sector move.",
+      "sources": [
+        "https://www.reuters.com/markets/commodities/opec-agrees-biggest-oil-output-cut-since-2020-2022-10-05/"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "LITB",
+      "qdate": "2014-01-06",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/LITB?date=2014-01-06&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "CSIQ",
+      "qdate": "2013-05-10",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/CSIQ?date=2013-05-10&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "MITL",
+      "qdate": "2016-01-22",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/MITL?date=2016-01-22&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "BMA",
+      "qdate": "2015-10-26",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": null,
+      "news_filter": "drop_macro_sector",
+      "rationale": "Contemporaneous Argentine market coverage ties the broad equity rally, including Banco Macro, to the presidential runoff outcome and market repricing. Exclude as macro/political market move.",
+      "sources": [
+        "https://www.lanacion.com.ar/economia/dolar/euforia-en-los-mercados-tras-la-confirmacion-del-ballottage-las-acciones-y-los-bonos-se-dispararon-y-bajo-fuerte-el-dolar-blue-nid1839903/"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "PTCT",
+      "qdate": "2016-05-20",
+      "decision": "drop",
+      "cause_class": "peer_sympathy",
+      "jump_cause": null,
+      "news_filter": "drop_peer_sympathy",
+      "rationale": "Contemporaneous coverage attributes PTC\u2019s move to sympathy with Sarepta/FDA-path developments rather than a PTC-specific catalyst. Exclude as peer sympathy.",
+      "sources": [
+        "https://www.fool.com/investing/2016/05/20/why-ptc-therapeutics-stock-is-soaring-today.aspx"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "GDP",
+      "qdate": "2014-11-07",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Broad market and oil context alone does not establish a GDP-specific same-session attribution; retain pending.",
+      "sources": [],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}
