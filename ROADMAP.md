@@ -387,3 +387,11 @@ Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
 - Ledger: 236 keep, 81 earnings drops, 12 peer-sympathy drops, 173 pending manual rows, and 109 legacy rows awaiting reassessment; cumulative expanded-policy reviews: 411.
 - Confirmed exclusions cover broad sector moves, analyst actions, financing, peer sympathy, and spin-off price discovery. Two eligible catalysts were confirmed: a clinical-trial result and a commercial contract.
 - Audits: `results/news_policy_rebucket/autonomous_batch49_10.md` through `autonomous_batch53_10.md` and matching JSON files. Prior labels and locators remain in `policy_review.previous`. Database-derived snapshots and the saved population queue remain stale; training and evaluation gates remain in place.
+
+## 2026-11-13 autonomous_batch54_10 through autonomous_batch64_10
+
+- Reviewed 109 legacy rows: 10 confirmed keeps, 10 confirmed exclusions, and 89 deferred for unresolved timing, attribution, or category.
+- Current manual-ledger counts: 246 keep, 85 earnings drops, 13 peer-sympathy drops, 12 analyst drops, 262 pending; no legacy `drop_other_not_234` rows remain. Cumulative expanded-policy reviews: 520.
+- Eligible catalysts include class-5 commercial news, class-11 strategic reviews, class-3 trial results, class-9 legal development, class-2 M&A rumor, class-7 device approval, and class-6 licensing. Supported exclusions include earnings, sector/peer sympathy, analyst action, financing, and operating updates.
+- Audits: `results/news_policy_rebucket/autonomous_batch54_10.md` through `autonomous_batch64_10.md` and matching JSON files. Previous labels and locators remain in `policy_review.previous`.
+- Legacy reassessment queue is empty. 262 rows remain pending in the 681-row manual ledger. Database-derived snapshots and saved population queue remain stale; first-public completeness and training/evaluation gates remain unverified.

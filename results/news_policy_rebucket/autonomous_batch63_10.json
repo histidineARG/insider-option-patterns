@@ -1,0 +1,170 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch63_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 2,
+  "n_deferred": 8,
+  "n_timing_deferred": 8,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 511,
+  "review_counts": {
+    "drop_analyst": 12,
+    "drop_earnings": 85,
+    "drop_etf": 2,
+    "drop_financing": 12,
+    "drop_macro_sector": 30,
+    "drop_mechanical": 2,
+    "drop_operating_update": 6,
+    "drop_other_not_234": 9,
+    "drop_passive_ownership": 2,
+    "drop_peer_earnings": 1,
+    "drop_peer_sympathy": 13,
+    "drop_regulatory_process": 4,
+    "drop_short_covering_media": 1,
+    "drop_stale_news": 1,
+    "drop_trial_anticipation": 2,
+    "keep": 246,
+    "pending_news_review": 253
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "SNMX",
+      "qdate": "2014-01-14",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not establish an eligible same-session Senomyx catalyst or reliable attribution for January 14. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/SNMX?date=2014-01-14&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "XNET",
+      "qdate": "2015-05-13",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific search did not establish a same-session Xunlei catalyst or reliable attribution. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/XNET?date=2015-05-13&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "JRJC",
+      "qdate": "2014-09-23",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a qualifying China Finance Online catalyst for September 23. Keep pending rather than infer from broad Chinese-market volatility.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/JRJC?date=2014-09-23&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "WATT",
+      "qdate": "2014-09-09",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not establish an issuer announcement or reliable attribution for Energous on September 9. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/WATT?date=2014-09-09&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SPWR",
+      "qdate": "2013-04-09",
+      "decision": "drop",
+      "cause_class": "peer_sympathy",
+      "jump_cause": "peer_sympathy",
+      "news_filter": "drop_peer_sympathy",
+      "rationale": "Contemporaneous coverage reports SunPower rose about 18% following bullish fiscal-year guidance from competitor First Solar, and notes JA Solar also rallied on that news. This is directly attributed peer sympathy rather than an issuer-specific catalyst.",
+      "sources": [
+        "https://www.foxbusiness.com/markets/market-wrap-for-tuesday-april-9-stocks-climb-along-with-euro"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2016-03-17",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Search did not establish a qualifying same-session Sarepta trial milestone or reliable cause for this date. Clinical and competitor developments located for other dates cannot be backdated; keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/SRPT?date=2016-03-17&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SANW",
+      "qdate": "2014-01-21",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish an eligible S&W Seed catalyst or reliable attribution for January 21. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/SANW?date=2014-01-21&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "PVG",
+      "qdate": "2013-05-08",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not establish a same-session Pretium Resources catalyst or reliable attribution. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/PVG?date=2013-05-08&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "RMTI",
+      "qdate": "2013-09-27",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not establish a reliable same-session Rockwell Medical announcement or qualifying cause for September 27. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/RMTI?date=2013-09-27&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "CONN",
+      "qdate": "2016-09-21",
+      "decision": "drop",
+      "cause_class": "analyst",
+      "jump_cause": "analyst_upgrade",
+      "news_filter": "drop_analyst",
+      "rationale": "Contemporaneous market coverage reports Conn’s rose 15% and identifies Stifel Nicolaus’ upgrade from Hold to Buy as the same-session catalyst. Exclude as analyst-driven.",
+      "sources": [
+        "https://cdn2.benzinga.com/news/16/09/8482204/benzingas-volume-movers"
+      ],
+      "defer_reason": null
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Unresolved date-specific attribution cases remain pending.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ],
+  "ledger_sha256": "a13a14f2c560ba32e6ae3ed1730a156007963b212059f5df9f68db0f292f88d6"
+}
