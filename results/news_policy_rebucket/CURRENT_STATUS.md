@@ -1,18 +1,18 @@
 # Current filtering checkpoint
 
-Reviewed 2026-11-13. Batches 49–53 reassessed 50 legacy rows. Confirmed exclusions and eligible keeps were recorded where dated evidence supported them; unresolved cases remain pending. Cumulative autonomous reviews: 385.
+Reviewed 2026-11-13. Batches 54–55 reassessed 20 additional legacy rows. Two earnings exclusions and two class-5/financing decisions were recorded where dated evidence supported them; unresolved cases remain pending. Cumulative autonomous reviews: 405.
 
 | Status | Rows |
 | --- | ---: |
-| keep | 236 |
-| drop_earnings | 81 |
+| keep | 237 |
+| drop_earnings | 83 |
 | drop_peer_sympathy | 12 |
-| pending_news_review | 173 |
+| pending_news_review | 189 |
 | drop_mechanical | 2 |
 | drop_stale_news | 1 |
 | drop_macro_sector | 29 |
 | drop_analyst | 11 |
-| drop_financing | 10 |
+| drop_financing | 11 |
 | drop_operating_update | 5 |
 | drop_regulatory_process | 4 |
 | drop_peer_earnings | 1 |
@@ -20,13 +20,13 @@ Reviewed 2026-11-13. Batches 49–53 reassessed 50 legacy rows. Confirmed exclus
 | drop_trial_anticipation | 2 |
 | drop_short_covering_media | 1 |
 | drop_etf | 2 |
-| drop_other_not_234 | 109 |
+| drop_other_not_234 | 89 |
 
-411 of 681 rows have expanded-policy review provenance. 109 legacy drops remain for reassessment, and 173 rows are pending in this manual ledger.
+592 of 681 rows have expanded-policy review provenance. 89 legacy drops remain for reassessment, and 189 rows are pending in this manual ledger.
 
-Audits: autonomous_batch38_5 through autonomous_batch53_10, each in Markdown and JSON. Prior labels and locators remain in policy_review.previous.
+Audits: autonomous_batch38_5 through autonomous_batch55_10, each in Markdown and JSON. Prior labels and locators remain in policy_review.previous.
 
-The five new batches include documented sector sympathy, financing, analyst actions, commercial contract, clinical trial, mechanical spin-off, and peer sympathy decisions. Other cases remain pending when date-specific attribution or policy category is unclear.
+Batch 54 confirmed HTHT and INO earnings exclusions and GLNG’s class-5 commercial contract; seven cases remained pending. Batch 55 confirmed Conn’s credit-facility financing exclusion; nine cases remained pending, including date conflicts for SRNE and ORMP.
 
 These queues cover only the 681-row manual ledger. Database-derived snapshots and the saved population news queue remain stale. First-public completeness, training readiness, population metrics, and trading gates remain unverified.
 
