@@ -1,0 +1,139 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "expanded_policy_next15",
+  "changes": [
+    {
+      "symbol": "FSLR",
+      "qdate": "2013-04-09",
+      "cause_class": "8_guidance_stepup",
+      "decision": "keep",
+      "source": "https://www.sec.gov/Archives/edgar/data/1274494/000127449413000011/ex991pressreleaseanalystda.htm",
+      "rationale": "April 9 analyst-day release provides standalone full-year guidance and multi-year outlook, rather than quarterly results. Existing attribution identifies above-consensus guidance as the main catalyst; TetraSun acquisition and technology news are concurrent catalysts."
+    },
+    {
+      "symbol": "GDOT",
+      "qdate": "2015-06-23",
+      "cause_class": "5_commercial_contract",
+      "decision": "keep",
+      "source": "https://ir.greendot.com/news-releases/news-release-details/green-dot-corporation-remain-program-manager-and-green-dot-bank",
+      "rationale": "June 22 issuer release announces five-year Walmart MoneyCard renewal and a 5 p.m. ET call. Existing June 23 reaction attribution retained; contract signing on June 19 is distinct from public announcement. Buyback is a concurrent catalyst."
+    },
+    {
+      "symbol": "SGMO",
+      "qdate": "2014-01-09",
+      "cause_class": "6_partnership_license",
+      "decision": "keep",
+      "source": "https://investors.biogen.com/node/16921",
+      "rationale": "January 9 joint release announces exclusive global hemoglobinopathy collaboration and license. Agreement is not a clinical readout or takeover."
+    },
+    {
+      "symbol": "CEQP",
+      "qdate": "2016-04-21",
+      "cause_class": "6_partnership_license",
+      "decision": "keep",
+      "source": "https://www.sec.gov/Archives/edgar/data/1304464/000119312516551993/d184413dex992.htm",
+      "rationale": "April 21 issuer release announces 50/50 Stagecoach operating joint venture with Con Edison and approximately $975 million proceeds. Class 6 partnership; concurrent distribution cut and outlook update preserved as mixed catalysts."
+    },
+    {
+      "symbol": "XNCR",
+      "qdate": "2016-06-28",
+      "cause_class": "6_partnership_license",
+      "decision": "keep",
+      "source": "https://investors.xencor.com/news-releases/news-release-details/xencor-announces-strategic-collaboration-bispecific-programs",
+      "rationale": "June 28 release announces Novartis bispecific-antibody development and commercialization collaboration and license, with analyst-day discussion that morning."
+    },
+    {
+      "symbol": "IMMR",
+      "qdate": "2013-03-07",
+      "cause_class": "6_partnership_license",
+      "decision": "keep",
+      "source": "https://www.sec.gov/Archives/edgar/data/1058811/000119312513095043/d498693dex991.htm",
+      "rationale": "March 7 issuer release announces multi-year Samsung TouchSense and patent license. Existing review also notes raised revenue guidance; license retained as the primary class."
+    },
+    {
+      "symbol": "ADXS",
+      "qdate": "2016-08-02",
+      "cause_class": "6_partnership_license",
+      "decision": "keep",
+      "source": "https://www.amgen.com/newsroom/press-releases/2016/08/amgen-and-advaxis-enter-global-cancer-immunotherapies-collaboration",
+      "rationale": "August 2 joint release announces ADXS-NEO development and commercialization collaboration, with upfront payment and minority equity investment. Preclinical collaboration, not successful trial readout."
+    },
+    {
+      "symbol": "NTWK",
+      "qdate": "2015-12-21",
+      "cause_class": "5_commercial_contract",
+      "decision": "keep",
+      "source": "https://ir.netsoltech.com/press-releases/detail/3007/netsol-technologies-signs-contract-to-implement-nfs",
+      "rationale": "December 21 issuer release announces NFS Ascent implementation and maintenance contract exceeding $100 million. Customer is described as an existing client; specific customer identity is not newly verified."
+    },
+    {
+      "symbol": "MNST",
+      "qdate": "2014-08-15",
+      "cause_class": "6_partnership_license",
+      "decision": "keep",
+      "source": "https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0001341004-14-000716/ex99-1.htm",
+      "rationale": "August 14 joint release announces Coca-Cola distribution alliance, business transfers and 16.7% equity stake. Retain August 15 reaction attribution; partnership rather than full issuer takeover."
+    },
+    {
+      "symbol": "COUP",
+      "qdate": "2014-11-05",
+      "cause_class": "1_earnings",
+      "decision": "drop_earnings",
+      "source": "https://www.sec.gov/Archives/edgar/data/1115128/000114420414064969/v393112_ex99-1.htm",
+      "rationale": "November 4 Coupons.com Q3 financial-results release includes Q4/full-year guidance. November 5 earnings reaction remains class 1 even though outlook was raised. Historical Coupons.com identity retained."
+    },
+    {
+      "symbol": "TZOO",
+      "qdate": "2015-04-16",
+      "cause_class": "1_earnings",
+      "decision": "drop_earnings",
+      "source": "https://www.sec.gov/Archives/edgar/data/1133311/000113331115000015/ex-9913x31x158k.htm",
+      "rationale": "April 16 issuer release reports first-quarter 2015 financial results. Manual earnings confirmation; not a standalone guidance catalyst."
+    },
+    {
+      "symbol": "STMP",
+      "qdate": "2015-11-06",
+      "cause_class": "1_earnings",
+      "decision": "drop_earnings",
+      "source": "https://www.globenewswire.com/news-release/2015/11/05/1352867/0/en/stamps-com-reports-record-third-quarter-2015-results-announces-expected-close-date-for-endicia-acquisition.html",
+      "rationale": "November 5 issuer release reports Q3 results, outlook and Endicia expected closing date. November 6 earnings reaction remains dropped despite guidance and acquisition-close commentary."
+    },
+    {
+      "symbol": "VIPS",
+      "qdate": "2014-03-04",
+      "cause_class": "1_earnings",
+      "decision": "drop_earnings",
+      "source": "https://www.sec.gov/Archives/edgar/data/1529192/000110465914015592/a14-7311_1ex99d1.htm",
+      "rationale": "March 3 issuer release reports Q4/full-year 2013 results and forward outlook. March 4 earnings reaction remains dropped, including guidance embedded in the results release."
+    },
+    {
+      "symbol": "EDR",
+      "qdate": "2014-12-01",
+      "cause_class": "mechanical_corporate_action",
+      "decision": "drop_mechanical",
+      "source": "https://www.sec.gov/Archives/edgar/data/1351345/000130234314000171/ex31articlesofamendmentrer.htm",
+      "rationale": "Charter amendment specifies one-for-three reverse split effective December 1 at 8:00 a.m. EST. Approximately 198% raw price increase is a split artifact, not an economic jump. Corrected source locator to the indexed filing path."
+    },
+    {
+      "symbol": "SPWR",
+      "qdate": "2013-01-03",
+      "cause_class": "5_commercial_contract",
+      "decision": "pending_news_review",
+      "source": "https://www.prnewswire.com/news-releases/midamerican-solar-acquires-worlds-largest-solar-development-from-sunpower-185407112.html",
+      "rationale": "Project sale includes EPC and multi-year operating contracts consistent with class 5, but issuer release is January 2, 2013 at 08:00 ET, before the prior session open. Saved jump is January 3. Earlier-public timing conflict: no verified same-session January 3 catalyst; defer acceptance pending follow-up. Do not shift the measured jump date."
+    }
+  ],
+  "review_counts": {
+    "keep": 178,
+    "drop_other_not_234": 497,
+    "drop_mechanical": 1,
+    "pending_news_review": 1,
+    "drop_earnings": 4
+  },
+  "limitations": [
+    "Price and option-presence measurements were not requeried.",
+    "First-public completeness and exact release times remain unverified except where explicitly recorded.",
+    "Database-derived snapshots and pending queues were not regenerated; saved ge15 queue is stale relative to the SPWR deferral.",
+    "Training and population/trading gates remain blocked."
+  ]
+}

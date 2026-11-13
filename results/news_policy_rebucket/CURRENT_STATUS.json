@@ -1,0 +1,31 @@
+{
+  "reviewed_on": "2026-11-12",
+  "scope": "681-row manual review ledger only; not a complete population pending queue",
+  "ledger_sha256": "aa41fc612985fa324a6911b943887d2def2d327e2de7a825a7040be54ab29be6",
+  "n_unique_rows": 681,
+  "review_counts": {
+    "keep": 198,
+    "drop_earnings": 20,
+    "drop_other_not_234": 444,
+    "drop_mechanical": 1,
+    "pending_news_review": 10,
+    "drop_macro_sector": 3,
+    "drop_analyst": 2,
+    "drop_financing": 2,
+    "drop_etf": 1
+  },
+  "n_policy_reviewed": 76,
+  "this_run": {
+    "n_reviewed": 50,
+    "decisions": {
+      "drop": 24,
+      "defer": 9,
+      "keep": 17
+    }
+  },
+  "n_legacy_awaiting_reassessment": 444,
+  "n_pending_in_manual_ledger": 10,
+  "database_snapshots_refreshed": false,
+  "population_news_queue_refreshed": false,
+  "training_readiness_certified": false
+}

@@ -48,3 +48,53 @@ Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
 - Use EDGAR-with-symbol pre-proxy jump census as a discovery bound, not as training labels.
 - Expand scoped outcome-coverage reviews only when a complete source-backed negative search protocol exists.
 - Do not authorize population metrics, threshold selection, or trading simulation while gates remain blocked.
+
+## 2026-11-12 policy re-bucket checkpoint
+
+- Source-backed first batch reclassified ERII, ZIOP, GLNG, INFI, ALNY, NAV, and CGEN to class 6; MBI to class 9. Prior labels, details, and locators are preserved per row in `policy_review.previous`.
+- Manual ledger: 681 rows, 169 keep, 512 legacy drops awaiting reassessment. The 233 pending ge15 reviews are unchanged.
+- Audit: `results/news_policy_rebucket/first8.json`. Historical database-derived snapshots have not been refreshed and retain prior counts. First-public timing and training readiness are not certified by this policy pass.
+
+## 2026-11-12 next filtering batch
+
+- Reviewed 15 additional legacy drops: 9 promoted (FSLR class 8; GDOT/NTWK class 5; SGMO/CEQP/XNCR/IMMR/ADXS/MNST class 6), 5 confirmed drops (COUP/TZOO/STMP/VIPS earnings; EDR reverse split), SPWR deferred for earlier-public timing conflict (Jan 2 08:00 ET release versus Jan 3 jump).
+- Current manual ledger: 681 unique rows; 178 keep, 497 legacy drops awaiting reassessment, 4 earnings drops, 1 mechanical drop, 1 pending timing review. Cumulative expanded-policy reviews: 23.
+- Audit: `results/news_policy_rebucket/NEXT15.md` and `next15.json`; prior fields preserved per row. Database-derived snapshots and queues were not refreshed. The saved 233-row ge15 queue predates the SPWR deferral and must not be represented as the current complete pending set.
+- Next: continue legacy-drop reassessment; verify SPWR same-session attribution separately; retain evidence and timing gates.
+
+## 2026-11-12 next three license reviews
+
+- Promoted IMGN (2015-03-23), MGNX (2016-05-18), and historical Array BioPharma / ARRY (2015-01-23) to class 6 using primary releases. Preserve ARRY historical-issuer warning and announcement-versus-execution/closing distinctions.
+- Ledger: 681 unique rows; 181 keep, 494 legacy drops, 4 earnings drops, 1 mechanical drop, 1 pending timing review. Cumulative policy reviews: 26.
+- Audit: `results/news_policy_rebucket/NEXT3.md` and `next3.json`. Previous labels retained per row. First-public timing, training and evaluation remain gated; saved database snapshots and queues were not refreshed.
+- Next: continue 494 legacy reassessments and resolve SPWR timing independently.
+
+## 2026-11-12 autonomous_batch01_15
+
+- Reviewed 15 legacy rows: {'keep': 5, 'drop': 7, 'defer': 3}.
+- Current ledger: {'keep': 186, 'drop_other_not_234': 479, 'drop_mechanical': 1, 'pending_news_review': 4, 'drop_earnings': 9, 'drop_analyst': 1, 'drop_financing': 1}. Cumulative expanded-policy reviews: 41.
+- Audit: `results/news_policy_rebucket/autonomous_batch01_15.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch02_12
+
+- Reviewed 12 legacy rows: {'keep': 4, 'drop': 8}.
+- Current ledger: {'keep': 190, 'drop_earnings': 16, 'drop_other_not_234': 467, 'drop_mechanical': 1, 'pending_news_review': 4, 'drop_analyst': 1, 'drop_financing': 2}. Cumulative expanded-policy reviews: 53.
+- Audit: `results/news_policy_rebucket/autonomous_batch02_12.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch03_15
+
+- Reviewed 15 legacy rows: {'keep': 5, 'drop': 8, 'defer': 2}.
+- Current ledger: {'keep': 195, 'drop_earnings': 19, 'drop_other_not_234': 452, 'drop_mechanical': 1, 'pending_news_review': 6, 'drop_macro_sector': 3, 'drop_analyst': 2, 'drop_financing': 2, 'drop_etf': 1}. Cumulative expanded-policy reviews: 68.
+- Audit: `results/news_policy_rebucket/autonomous_batch03_15.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch04_8
+
+- Reviewed 8 legacy rows: {'keep': 3, 'drop': 1, 'defer': 4}.
+- Current ledger: {'keep': 198, 'drop_earnings': 20, 'drop_other_not_234': 444, 'drop_mechanical': 1, 'pending_news_review': 10, 'drop_macro_sector': 3, 'drop_analyst': 2, 'drop_financing': 2, 'drop_etf': 1}. Cumulative expanded-policy reviews: 76.
+- Audit: `results/news_policy_rebucket/autonomous_batch04_8.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous run summary
+
+- Reassessed 50 additional rows: 17 promoted, 24 confirmed drops, 9 deferred (7 timing, 2 category/primary-cause). Ledger: 198 keep, 444 legacy reassessments remaining, 10 manual pending, 29 explicit drops. Expanded-policy reviews total 76.
+- `results/news_policy_rebucket/CURRENT_STATUS.md` and `.json` summarize current counts. The adjacent legacy and pending queues are scoped to the 681-row manual ledger, not the full population. Saved population queue and database snapshots are unchanged.
+- Validation: 74 unit tests pass, unique keys and all 50 prior-label/source overlays checked, `git diff --check` passes. Continue filtering without approval prompts; preserve timing and training gates.

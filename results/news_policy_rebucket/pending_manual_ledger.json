@@ -1,0 +1,268 @@
+{
+  "scope": "681-row manual review ledger only; not a complete population pending queue",
+  "ledger_sha256": "aa41fc612985fa324a6911b943887d2def2d327e2de7a825a7040be54ab29be6",
+  "n_rows": 10,
+  "reviews": [
+    {
+      "symbol": "SPWR",
+      "qdate": "2013-01-03",
+      "close_return": 0.48,
+      "jump_cause": "commercial_contract",
+      "cause_class": "5_commercial_contract",
+      "news_filter": "pending_news_review",
+      "detail": "Project sale includes EPC and multi-year operating contracts consistent with class 5, but issuer release is January 2, 2013 at 08:00 ET, before the prior session open. Saved jump is January 3. Earlier-public timing conflict: no verified same-session January 3 catalyst; defer acceptance pending follow-up. Do not shift the measured jump date. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://www.prnewswire.com/news-releases/midamerican-solar-acquires-worlds-largest-solar-development-from-sunpower-185407112.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Sold Antelope Valley solar projects to MidAmerican/Berkshire for ~$2–2.5B construction/sale contracts. Project sale, not M&A of SunPower / trial / breakthrough keep.",
+          "locator": "https://www.reuters.com/article/business/sunpower-inks-25-billion-deal-with-buffett-utility-idUSBRE9010M1/"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
+      "symbol": "INVE",
+      "qdate": "2015-04-16",
+      "close_return": 0.385,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Cisco physical-access partnership fits class 6 in substance. Syndicated issuer text is dated April 15; April 16 market coverage attributes the jump to the agreement. Exact initial announcement time is not recovered, so defer timing instead of assuming an after-close release. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.securitysolutionswatch.com/Interviews/in_Boardroom_Identiv_Hart.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Identiv Cisco IoE/physical access-control partnership (iPAM). Commercial partnership, not keep 2/3/4.",
+          "locator": "https://investorplace.com/2015/04/inve-csco-identiv-inc-stocks-soars-on-cisco-systems-inc-deal/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.securitysolutionswatch.com/Interviews/in_Boardroom_Identiv_Hart.html",
+          "https://www.wsnewspublishers.com/morning-buzz-on-significant-moves-netflix-nasdaqnflx-biostar-pharmaceuticals-nasdaqbspm-medicinova-nasdaqmnov-identiv-nasdaqinve/155332/"
+        ]
+      }
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2013-06-10",
+      "close_return": 0.38,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Issuer-distributed MIIT sedan approval release is dated June 5, five calendar days before this June 10 jump. Category could be class 7, but the located source does not establish a fresh same-session catalyst. Defer for timing/continuation review rather than auto-promote. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.newsfilecorp.com/release/5563/KandiGeely-Codeveloped-Pure-Electric-Sedan-Receives-Approval-from-Ministry-of-Industry-and-Information-Technology-of-China",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "China MIIT approved Kandi-Geely EV sedan for subsidies/road use. Product regulatory/commercial approval, not M&A, biotech trial, or tech breakthrough under keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2013/06/10/5-chinese-stocks-that-soared-last-week-2.aspx"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.newsfilecorp.com/release/5563/KandiGeely-Codeveloped-Pure-Electric-Sedan-Receives-Approval-from-Ministry-of-Industry-and-Information-Technology-of-China"
+        ]
+      }
+    },
+    {
+      "symbol": "ANAC",
+      "qdate": "2013-10-18",
+      "close_return": 0.2841,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Issuer 8-K says Anacor announced the $100 million arbitration award October 17, while counterparty Valeant release is dated October 18. Legal-unlock category is supported, but exact October 17 announcement time is unresolved. Defer reaction-session assignment; preserve historical Anacor issuer-identity warning. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1411158/000110465913076447/a13-22520_18k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Arbitration interim award ~$100M damages vs Valeant/Dow contract dispute. Litigation award, not keep 2/3/4. Note cik2symbol may not match historical Anacor CIK.",
+          "locator": "https://www.biocentury.com/article/272871/anacor-jumps-on-damages-award-in-contract-dispute"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1411158/000110465913076447/a13-22520_18k.htm",
+          "https://ir.bauschhealth.com/tools/viewpdf.aspx?page=%7B4ABF1761-2C9E-4CF0-9E98-846F8B34CC59%7D"
+        ]
+      }
+    },
+    {
+      "symbol": "GALT",
+      "qdate": "2013-09-11",
+      "close_return": 0.266,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Issuer patent announcement is dated September 10, before the September 11 jump. A patent grant is not itself a clinical result or marketing approval; exact reaction timing and any independent qualifying catalyst remain unresolved. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://investor.galectintherapeutics.com/static-files/d19386da-63cf-496f-98ce-32c51288107d",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "USPTO issued patent covering GR-MD-02 for NASH/fatty liver. IP news, not keep 2/3/4.",
+          "locator": "https://getfilings.com/sec-filings/130910/GALECTIN-THERAPEUTICS-INC_8-K/d595853dex991.htm"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://investor.galectintherapeutics.com/static-files/d19386da-63cf-496f-98ce-32c51288107d"
+        ]
+      }
+    },
+    {
+      "symbol": "REFR",
+      "qdate": "2015-03-30",
+      "close_return": 0.2582,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "March 30 filing confirms Lincoln Continental Concept used SPD-SmartGlass. A concept-car showcase alone does not establish a material commercial order or production launch. Defer class 5/10 eligibility pending evidence of commercialization rather than treat marketing language as a technical breakthrough. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/793524/000120677415001077/refr_8k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch04_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Lincoln Continental Concept showcased SPD-SmartGlass tinting sunroof using REFR tech at NY Auto Show preview. Product showcase/design win, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/793524/000120677415001077/refr_8k.htm"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/793524/000120677415001077/refr_8k.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "OKE",
+      "qdate": "2013-07-25",
+      "close_return": 0.2554,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "July 25 release authorizes pursuit of ONE Gas spin-off and schedules a July 26 call. Strategic separation could fit class 11, but exact release time and attribution to July 25 rather than July 26 need verification. Do not conflate a future separation plan with a mechanical ex-distribution print. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1039684/000103968413000074/okeannouncesonegasnewsrele.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch04_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Board authorized spin-off of gas distribution into ONE Gas (OGS). Corporate spin-off/restructuring, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1039684/000103968413000074/okeannouncesonegasnewsrele.htm"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1039684/000103968413000074/okeannouncesonegasnewsrele.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "CSIQ",
+      "qdate": "2015-02-03",
+      "close_return": 0.2536,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recurrent acquisition could qualify under the class-2 acquirer exception, but issuer page and later financial release identify February 2 announcement while Sharp notice is February 3. Exact public-release timing is unresolved for February 3 reaction; defer rather than assign a same-session keep. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-acquire-recurrent-energy-sharp-corporation-265",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch04_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Canadian Solar as buyer agreed to acquire Recurrent Energy from Sharp for ~$265M (adds ~4 GW pipeline). Acquirer deal, not target M&A keep.",
+          "locator": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-acquire-recurrent-energy-sharp-corporation-265"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-acquire-recurrent-energy-sharp-corporation-265",
+          "https://global.sharp/corporate/ir/topics/pdf/150203-3.pdf",
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465915016914/a15-6048_1ex99d1.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "NGL",
+      "qdate": "2016-04-22",
+      "close_return": 0.2412,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Release combines $200 million convertible preferred financing, distribution reduction, revised guidance and an Oaktree strategic relationship to pursue assets jointly. Defined operating ambitions could fit class 6, but primary attribution between financing, outlook and collaboration is unresolved; do not automatically keep or confirm financing-only drop. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1504461/000150446116000005/exhibit991preferredunittra.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "$200M Oaktree convertible preferred + temporary 39% distribution cut. Financing/capital structure, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1504461/000150446116000005/exhibit991preferredunittra.htm"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1504461/000150446116000005/exhibit991preferredunittra.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "PDCE",
+      "qdate": "2014-12-09",
+      "close_return": 0.2377,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Standalone 2015 budget and roughly 50% year-over-year production-growth outlook could fit class 8, but primary release is December 8. Exact announcement time and novelty relative to prior outlook are unresolved for December 9 jump. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/77877/000119312514438892/d835521dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch04_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "2015 capex/production guidance: ~50% YoY growth with Wattenberg focus. Ops guidance, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/77877/000119312514438892/d835521dex991.htm"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/77877/000119312514438892/d835521dex991.htm"
+        ]
+      }
+    }
+  ]
+}

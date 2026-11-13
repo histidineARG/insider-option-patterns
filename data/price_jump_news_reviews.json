@@ -1,17 +1,28 @@
 {
   "as_of": "2016-12-31",
-  "scope": "Manual news reviews for unclassified \u226515% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Policy keep classes 2-11 (METHODOLOGY.md \u00a79). Historical rows labeled drop_other_not_234 under the old keep-2/3/4 rule are re-bucket candidates for classes 5-11 and were not re-labeled in the policy write-up.",
+  "scope": "Manual news reviews for unclassified ≥15% jumps after EDGAR Item 2.02 earnings drops and hard filters (sub-$5, ETF/ETN denylist, no-option). Policy keep classes 2-11 (METHODOLOGY.md §9). Historical rows labeled drop_other_not_234 under the old keep-2/3/4 rule are re-bucket candidates for classes 5-11 and are being reviewed in separate source-backed batches.",
   "tranche": "ge15_ninth40",
   "reviews": [
     {
       "symbol": "ERII",
       "qdate": "2015-10-20",
       "close_return": 1.9756,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Schlumberger VorTeq 15-year licensing agreement announced ~Oct 19 after-close / Oct 20 reaction. Commercial license, not M&A target, biotech trial, or product breakthrough under keep 2/3/4.",
-      "locator": "https://ir.energyrecovery.com/news-events/press-releases/detail/153/energy-recovery-signs-15-year-license-with-schlumberger-to"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "October 20 conference transcript confirms the VorTeq license was announced the preceding evening. Reclassified under METHODOLOGY section 9 classes 2-11; discovery attribution only, not a training label.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1421517/000143774915018747/ex99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Schlumberger VorTeq 15-year licensing agreement announced ~Oct 19 after-close / Oct 20 reaction. Commercial license, not M&A target, biotech trial, or product breakthrough under keep 2/3/4.",
+          "locator": "https://ir.energyrecovery.com/news-events/press-releases/detail/153/energy-recovery-signs-15-year-license-with-schlumberger-to"
+        }
+      }
     },
     {
       "symbol": "GENE",
@@ -100,7 +111,7 @@
       "jump_cause": "biotech_trial",
       "cause_class": "3_biotech_trial",
       "news_filter": "keep",
-      "detail": "ASH interim LentiGlobin BB305 data: first four beta-thalassemia major patients with \u22653 months follow-up transfusion-free.",
+      "detail": "ASH interim LentiGlobin BB305 data: first four beta-thalassemia major patients with ≥3 months follow-up transfusion-free.",
       "locator": "https://www.sec.gov/Archives/edgar/data/1293971/000156459014006087/blue-ex991_2014120823.htm"
     },
     {
@@ -120,7 +131,7 @@
       "jump_cause": "biotech_trial",
       "cause_class": "3_biotech_trial",
       "news_filter": "keep",
-      "detail": "ASCO Phase 1 expansion: mirvetuximab soravtansine 53% ORR in platinum-resistant FR\u03b1+ ovarian cancer.",
+      "detail": "ASCO Phase 1 expansion: mirvetuximab soravtansine 53% ORR in platinum-resistant FRα+ ovarian cancer.",
       "locator": "https://www.businesswire.com/news/home/20150530005009/en/ImmunoGen%E2%80%99s-Mirvetuximab-Soravtansine-IMGN853-Demonstrates-Notable-Single"
     },
     {
@@ -167,11 +178,27 @@
       "symbol": "ESI",
       "qdate": "2014-10-17",
       "close_return": 0.65,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "ITT Educational Services preliminary enrollment better than May forecast; operational/enrollment update, not keep 2/3/4. Note cik2symbol may not match historical ITT Educational CIK.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/922475/000092247514000032/exhibit99_1.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "October 17 historical ITT Educational release reports preliminary Q2/Q3 operating results, enrollment and liquidity figures. This is retrospective period-results news, not a standalone forward guidance step-up. Preserve historical CIK 922475 identity caveat. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/922475/000092247514000032/exhibit99_1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch02_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "ITT Educational Services preliminary enrollment better than May forecast; operational/enrollment update, not keep 2/3/4. Note cik2symbol may not match historical ITT Educational CIK.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/922475/000092247514000032/exhibit99_1.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/922475/000092247514000032/exhibit99_1.htm"
+        ]
+      }
     },
     {
       "symbol": "ACAD",
@@ -250,7 +277,7 @@
       "jump_cause": "biotech_trial",
       "cause_class": "3_biotech_trial",
       "news_filter": "keep",
-      "detail": "Repros: FDA meeting \u2014 no additional clinical studies required to file Androxal NDA (CV safety interest noted for possible post-approval work).",
+      "detail": "Repros: FDA meeting — no additional clinical studies required to file Androxal NDA (CV safety interest noted for possible post-approval work).",
       "locator": "https://www.sec.gov/Archives/edgar/data/897075/000117184314005334/newsrelease.htm"
     },
     {
@@ -267,11 +294,22 @@
       "symbol": "ZIOP",
       "qdate": "2015-01-14",
       "close_return": 0.545,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Intrexon/ZIOPHARM exclusive CAR-T licensing pact with MD Anderson ($50M stock each). Collaboration/IP license, not M&A of issuer, trial success, or product breakthrough under keep 2/3/4. 8-K Item 1.01 present.",
-      "locator": "https://www.prnewswire.com/news-releases/intrexon-ziopharm-and-md-anderson-in-exclusive-car-t-pact-300020161.html"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "January 13 release describes exclusive MD Anderson cellular-therapy licensing; retained January 14 reaction date from existing review; exact release time remains unverified. Reclassified under METHODOLOGY section 9 classes 2-11; discovery attribution only, not a training label.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1107421/000119312515009772/d851771dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Intrexon/ZIOPHARM exclusive CAR-T licensing pact with MD Anderson ($50M stock each). Collaboration/IP license, not M&A of issuer, trial success, or product breakthrough under keep 2/3/4. 8-K Item 1.01 present.",
+          "locator": "https://www.prnewswire.com/news-releases/intrexon-ziopharm-and-md-anderson-in-exclusive-car-t-pact-300020161.html"
+        }
+      }
     },
     {
       "symbol": "CWH",
@@ -290,7 +328,7 @@
       "jump_cause": "ma_news",
       "cause_class": "2_ma_rumor_or_news",
       "news_filter": "keep",
-      "detail": "ExactTarget (then NYSE:ET) acquired by Salesforce for $33.75/share (~$2.5B). Note: cik2symbol currently maps ET to Energy Transfer CIK \u2014 wrong issuer for this date.",
+      "detail": "ExactTarget (then NYSE:ET) acquired by Salesforce for $33.75/share (~$2.5B). Note: cik2symbol currently maps ET to Energy Transfer CIK — wrong issuer for this date.",
       "locator": "https://www.reuters.com/article/markets/salesforce-to-pay-25-bln-for-exacttarget-in-social-marketing-bet-idUSL1N0EG18Y/"
     },
     {
@@ -337,11 +375,22 @@
       "symbol": "GLNG",
       "qdate": "2016-01-22",
       "close_return": 0.507,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "MOU with Schlumberger to jointly market FLNG/gas monetization solutions; partnership MOU, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1207179/000117184316007394/newsrelease.htm"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "January 22 Golar/Schlumberger MOU concerns joint gas development and marketing, a partnership rather than a takeout. Reclassified under METHODOLOGY section 9 classes 2-11; discovery attribution only, not a training label.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1207179/000117184316007394/newsrelease.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "MOU with Schlumberger to jointly market FLNG/gas monetization solutions; partnership MOU, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1207179/000117184316007394/newsrelease.htm"
+        }
+      }
     },
     {
       "symbol": "ASPS",
@@ -397,11 +446,24 @@
       "symbol": "EDR",
       "qdate": "2014-12-01",
       "close_return": 1.982,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Education Realty Trust 1-for-3 reverse stock split effective Dec 1 2014 8:00am ET. Apparent ~198% close-to-close print is mechanical split artifact, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1302343/000130234314000171/ex31articlesofamendmentrer.htm"
+      "jump_cause": "reverse_split",
+      "cause_class": "mechanical_corporate_action",
+      "news_filter": "drop_mechanical",
+      "detail": "Charter amendment specifies one-for-three reverse split effective December 1 at 8:00 a.m. EST. Approximately 198% raw price increase is a split artifact, not an economic jump. Corrected source locator to the indexed filing path. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1351345/000130234314000171/ex31articlesofamendmentrer.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Education Realty Trust 1-for-3 reverse stock split effective Dec 1 2014 8:00am ET. Apparent ~198% close-to-close print is mechanical split artifact, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1302343/000130234314000171/ex31articlesofamendmentrer.htm"
+        },
+        "decision": "drop_mechanical"
+      }
     },
     {
       "symbol": "GWPH",
@@ -457,11 +519,24 @@
       "symbol": "SPWR",
       "qdate": "2013-01-03",
       "close_return": 0.48,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Sold Antelope Valley solar projects to MidAmerican/Berkshire for ~$2\u20132.5B construction/sale contracts. Project sale, not M&A of SunPower / trial / breakthrough keep.",
-      "locator": "https://www.reuters.com/article/business/sunpower-inks-25-billion-deal-with-buffett-utility-idUSBRE9010M1/"
+      "jump_cause": "commercial_contract",
+      "cause_class": "5_commercial_contract",
+      "news_filter": "pending_news_review",
+      "detail": "Project sale includes EPC and multi-year operating contracts consistent with class 5, but issuer release is January 2, 2013 at 08:00 ET, before the prior session open. Saved jump is January 3. Earlier-public timing conflict: no verified same-session January 3 catalyst; defer acceptance pending follow-up. Do not shift the measured jump date. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://www.prnewswire.com/news-releases/midamerican-solar-acquires-worlds-largest-solar-development-from-sunpower-185407112.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Sold Antelope Valley solar projects to MidAmerican/Berkshire for ~$2–2.5B construction/sale contracts. Project sale, not M&A of SunPower / trial / breakthrough keep.",
+          "locator": "https://www.reuters.com/article/business/sunpower-inks-25-billion-deal-with-buffett-utility-idUSBRE9010M1/"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "ADT",
@@ -487,11 +562,24 @@
       "symbol": "FSLR",
       "qdate": "2013-04-09",
       "close_return": 0.455,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Primary catalyst was raised 2013 guidance far above Street; also announced TetraSun tuck-in. Guidance/outlook not keep 2/3/4.",
-      "locator": "https://www.investors.com/news/technology/first-solar-stock-jumps-on-outlook-tetrasun-acquisition/"
+      "jump_cause": "guidance_stepup",
+      "cause_class": "8_guidance_stepup",
+      "news_filter": "keep",
+      "detail": "April 9 analyst-day release provides standalone full-year guidance and multi-year outlook, rather than quarterly results. Existing attribution identifies above-consensus guidance as the main catalyst; TetraSun acquisition and technology news are concurrent catalysts. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1274494/000127449413000011/ex991pressreleaseanalystda.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Primary catalyst was raised 2013 guidance far above Street; also announced TetraSun tuck-in. Guidance/outlook not keep 2/3/4.",
+          "locator": "https://www.investors.com/news/technology/first-solar-stock-jumps-on-outlook-tetrasun-acquisition/"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "AKBA",
@@ -507,11 +595,22 @@
       "symbol": "MBI",
       "qdate": "2013-05-06",
       "close_return": 0.454,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Comprehensive Bank of America litigation settlement (~$1.6B cash + related terms). Legal settlement, not keep 2/3/4.",
-      "locator": "https://investor.mbia.com/investor-relations/press-releases/press-release-details/2013/MBIA-Announces-Comprehensive-Settlement-with-Bank-of-America/default.aspx"
+      "jump_cause": "legal_unlock",
+      "cause_class": "9_legal_unlock",
+      "news_filter": "keep",
+      "detail": "May 6 issuer release announces settlement resolving Bank of America litigation and approximately $1.7 billion net consideration. Reclassified under METHODOLOGY section 9 classes 2-11; discovery attribution only, not a training label.",
+      "locator": "https://s22.q4cdn.com/567650046/files/doc_news/MBIA-Announces-Comprehensive-Settlement-with-Bank-of-America.pdf",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Comprehensive Bank of America litigation settlement (~$1.6B cash + related terms). Legal settlement, not keep 2/3/4.",
+          "locator": "https://investor.mbia.com/investor-relations/press-releases/press-release-details/2013/MBIA-Announces-Comprehensive-Settlement-with-Bank-of-America/default.aspx"
+        }
+      }
     },
     {
       "symbol": "AERI",
@@ -527,41 +626,85 @@
       "symbol": "INFI",
       "qdate": "2014-09-03",
       "close_return": 0.44,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "AbbVie global collaboration on duvelisib ($275M upfront). Partnership/license, not M&A of Infinity as target.",
-      "locator": "https://news.abbvie.com/2014-09-03-Infinity-And-AbbVie-Announce-Global-Strategic-Collaboration-To-Develop-And-Commercialize-Duvelisib-IPI-145-In-Oncology"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "September 3 release announces global duvelisib development and commercialization collaboration. Reclassified under METHODOLOGY section 9 classes 2-11; discovery attribution only, not a training label.",
+      "locator": "https://news.abbvie.com/2014-09-03-Infinity-And-AbbVie-Announce-Global-Strategic-Collaboration-To-Develop-And-Commercialize-Duvelisib-IPI-145-In-Oncology",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "AbbVie global collaboration on duvelisib ($275M upfront). Partnership/license, not M&A of Infinity as target.",
+          "locator": "https://news.abbvie.com/2014-09-03-Infinity-And-AbbVie-Announce-Global-Strategic-Collaboration-To-Develop-And-Commercialize-Duvelisib-IPI-145-In-Oncology"
+        }
+      }
     },
     {
       "symbol": "ALNY",
       "qdate": "2014-01-13",
       "close_return": 0.409,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Sanofi/Genzyme bought ~12% stake for $700M and expanded rare-disease RNAi collaboration. Minority stake/partnership, not keep-class takeout.",
-      "locator": "https://www.reuters.com/article/business/sanofi-to-buy-12-percent-of-alnylam-expands-rare-disease-drug-deal-idUSBREA0C07L/"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "January 13 release describes expanded Genzyme RNAi alliance with $700 million minority equity investment. Reclassified under METHODOLOGY section 9 classes 2-11; discovery attribution only, not a training label.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1178670/000119312514008903/d659671dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Sanofi/Genzyme bought ~12% stake for $700M and expanded rare-disease RNAi collaboration. Minority stake/partnership, not keep-class takeout.",
+          "locator": "https://www.reuters.com/article/business/sanofi-to-buy-12-percent-of-alnylam-expands-rare-disease-drug-deal-idUSBREA0C07L/"
+        }
+      }
     },
     {
       "symbol": "NAV",
       "qdate": "2016-09-06",
       "close_return": 0.407,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Volkswagen Truck & Bus $256M investment for 16.6% stake plus strategic alliance. Minority stake/alliance, not definitive takeout of Navistar.",
-      "locator": "https://www.cnbc.com/2016/09/06/volkswagen-takes-256-million-navistar-stake-in-trucks-push.html"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "September 6 release describes technology/supply alliance and procurement joint venture alongside 16.6% equity investment. Reclassified under METHODOLOGY section 9 classes 2-11; discovery attribution only, not a training label.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/808450/000119312516701448/d242623dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Volkswagen Truck & Bus $256M investment for 16.6% stake plus strategic alliance. Minority stake/alliance, not definitive takeout of Navistar.",
+          "locator": "https://www.cnbc.com/2016/09/06/volkswagen-takes-256-million-navistar-stake-in-trucks-push.html"
+        }
+      }
     },
     {
       "symbol": "CGEN",
       "qdate": "2013-08-05",
       "close_return": 0.445,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Bayer collaboration/license for two antibody cancer immunotherapies ($10M upfront, >$500M milestones). Partnership/license, not M&A of Compugen, trial readout, or tech breakthrough under keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2013/08/05/why-compugen-shares-skyrocketed.aspx"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "August 5 release describes Bayer oncology immunotherapy collaboration and license. Reclassified under METHODOLOGY section 9 classes 2-11; discovery attribution only, not a training label.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1119774/000117891314002773/exhibit_10-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Bayer collaboration/license for two antibody cancer immunotherapies ($10M upfront, >$500M milestones). Partnership/license, not M&A of Compugen, trial readout, or tech breakthrough under keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2013/08/05/why-compugen-shares-skyrocketed.aspx"
+        }
+      }
     },
     {
       "symbol": "CRC",
@@ -600,7 +743,7 @@
       "jump_cause": null,
       "cause_class": "unclassified_other",
       "news_filter": "drop_other_not_234",
-      "detail": "Brazil provisional measure raising foreign airline ownership cap 20%\u219249%; capital-structure/regulatory relief speculation, not keep 2/3/4.",
+      "detail": "Brazil provisional measure raising foreign airline ownership cap 20%→49%; capital-structure/regulatory relief speculation, not keep 2/3/4.",
       "locator": "https://oglobo.globo.com/economia/negocios/acoes-da-gol-disparam-apos-aumento-de-participacao-estrangeira-em-aereas-18786930"
     },
     {
@@ -617,11 +760,27 @@
       "symbol": "CXW",
       "qdate": "2016-11-09",
       "close_return": 0.431,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Post-election rebound after Trump win; investors priced reversal of Obama DOJ private-prison phase-out. Political/macro, not keep 2/3/4.",
-      "locator": "https://www.cnbc.com/2016/11/09/prison-stocks-are-flying-on-trump-victory.html"
+      "jump_cause": "macro_sector",
+      "cause_class": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "detail": "Post-election prison-sector rally; no issuer-specific approval or legal resolution established. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.pressherald.com/2016/11/09/prospect-of-trump-presidency-unnerves-companies-economists/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Post-election rebound after Trump win; investors priced reversal of Obama DOJ private-prison phase-out. Political/macro, not keep 2/3/4.",
+          "locator": "https://www.cnbc.com/2016/11/09/prison-stocks-are-flying-on-trump-victory.html"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.pressherald.com/2016/11/09/prospect-of-trump-presidency-unnerves-companies-economists/"
+        ]
+      }
     },
     {
       "symbol": "OMER",
@@ -657,11 +816,24 @@
       "symbol": "CEQP",
       "qdate": "2016-04-21",
       "close_return": 0.421,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "50/50 Stagecoach Gas JV with Con Edison; ConEd pays ~$975M for 50% of Crestwood Northeast pipeline/storage assets, plus distribution cut. Asset JV/stake sale, not takeout of CEQP under keep-2.",
-      "locator": "https://www.fool.com/investing/general/2016/04/21/why-crestwood-equity-partners-lp-stock-is-rocketin.aspx"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "April 21 issuer release announces 50/50 Stagecoach operating joint venture with Con Edison and approximately $975 million proceeds. Class 6 partnership; concurrent distribution cut and outlook update preserved as mixed catalysts. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1304464/000119312516551993/d184413dex992.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "50/50 Stagecoach Gas JV with Con Edison; ConEd pays ~$975M for 50% of Crestwood Northeast pipeline/storage assets, plus distribution cut. Asset JV/stake sale, not takeout of CEQP under keep-2.",
+          "locator": "https://www.fool.com/investing/general/2016/04/21/why-crestwood-equity-partners-lp-stock-is-rocketin.aspx"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "ASPX",
@@ -697,21 +869,47 @@
       "symbol": "GDOT",
       "qdate": "2015-06-23",
       "close_return": 0.406,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Renewed 5-year Walmart MoneyCard program agreement plus $150M buyback. Commercial contract renewal (Item 1.01), not M&A takeout/trial/tech under keep 2/3/4.",
-      "locator": "https://www.forbes.com/sites/samanthasharf/2015/06/23/green-dot-shares-jump-30-on-renewed-walmart-partnership/"
+      "jump_cause": "commercial_contract",
+      "cause_class": "5_commercial_contract",
+      "news_filter": "keep",
+      "detail": "June 22 issuer release announces five-year Walmart MoneyCard renewal and a 5 p.m. ET call. Existing June 23 reaction attribution retained; contract signing on June 19 is distinct from public announcement. Buyback is a concurrent catalyst. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://ir.greendot.com/news-releases/news-release-details/green-dot-corporation-remain-program-manager-and-green-dot-bank",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Renewed 5-year Walmart MoneyCard program agreement plus $150M buyback. Commercial contract renewal (Item 1.01), not M&A takeout/trial/tech under keep 2/3/4.",
+          "locator": "https://www.forbes.com/sites/samanthasharf/2015/06/23/green-dot-shares-jump-30-on-renewed-walmart-partnership/"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "ARRY",
       "qdate": "2015-01-23",
       "close_return": 0.405,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Array BioPharma (historical ARRY) agreed to acquire worldwide rights to encorafenib (LGX818) from Novartis. In-license/asset transfer, not M&A of Array as target, trial readout, or tech breakthrough. Note: modern cik2symbol may map a different ARRY issuer.",
-      "locator": "https://bizwest.com/2015/01/23/array-share-price-up-on-new-rights-to-developmental-melanoma-drug/"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "January 23 issuer release announces worldwide encorafenib rights from Novartis, including patent assignment/license, development funding and transition services; class 6 rights-transfer arrangement. Release schedules a 9 a.m. ET call. Deal remains conditional; this is not regulatory approval or acquisition of Array. Historical Array BioPharma CIK 1100412 must not be replaced by the modern ARRY issuer. Exact release time and earlier-public completeness remain unverified. Policy review only; training readiness is not certified.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1100412/000110041215000003/ex991pr12315.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next3",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Array BioPharma (historical ARRY) agreed to acquire worldwide rights to encorafenib (LGX818) from Novartis. In-license/asset transfer, not M&A of Array as target, trial readout, or tech breakthrough. Note: modern cik2symbol may map a different ARRY issuer.",
+          "locator": "https://bizwest.com/2015/01/23/array-share-price-up-on-new-rights-to-developmental-melanoma-drug/"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "VRTX",
@@ -798,10 +996,27 @@
       "qdate": "2015-04-16",
       "close_return": 0.385,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Identiv Cisco IoE/physical access-control partnership (iPAM). Commercial partnership, not keep 2/3/4.",
-      "locator": "https://investorplace.com/2015/04/inve-csco-identiv-inc-stocks-soars-on-cisco-systems-inc-deal/"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Cisco physical-access partnership fits class 6 in substance. Syndicated issuer text is dated April 15; April 16 market coverage attributes the jump to the agreement. Exact initial announcement time is not recovered, so defer timing instead of assuming an after-close release. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.securitysolutionswatch.com/Interviews/in_Boardroom_Identiv_Hart.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Identiv Cisco IoE/physical access-control partnership (iPAM). Commercial partnership, not keep 2/3/4.",
+          "locator": "https://investorplace.com/2015/04/inve-csco-identiv-inc-stocks-soars-on-cisco-systems-inc-deal/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.securitysolutionswatch.com/Interviews/in_Boardroom_Identiv_Hart.html",
+          "https://www.wsnewspublishers.com/morning-buzz-on-significant-moves-netflix-nasdaqnflx-biostar-pharmaceuticals-nasdaqbspm-medicinova-nasdaqmnov-identiv-nasdaqinve/155332/"
+        ]
+      }
     },
     {
       "symbol": "OCUL",
@@ -817,11 +1032,24 @@
       "symbol": "SGMO",
       "qdate": "2014-01-09",
       "close_return": 0.383,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Biogen Idec collaboration/license on ZFP gene editing for sickle cell/beta-thalassemia ($20M upfront, ~$294M milestones). Partnership/license (Item 1.01), not M&A of Sangamo under keep-2.",
-      "locator": "https://www.fool.com/investing/general/2014/01/09/why-intercept-pharmaceuticals-sangamo-biosciences.aspx"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "January 9 joint release announces exclusive global hemoglobinopathy collaboration and license. Agreement is not a clinical readout or takeover. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://investors.biogen.com/node/16921",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Biogen Idec collaboration/license on ZFP gene editing for sickle cell/beta-thalassemia ($20M upfront, ~$294M milestones). Partnership/license (Item 1.01), not M&A of Sangamo under keep-2.",
+          "locator": "https://www.fool.com/investing/general/2014/01/09/why-intercept-pharmaceuticals-sangamo-biosciences.aspx"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "CZR",
@@ -837,21 +1065,50 @@
       "symbol": "STMP",
       "qdate": "2015-11-06",
       "close_return": 0.381,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q3 earnings beat (rev +37%, non-GAAP EPS +62%) plus raised FY guidance; Endicia close timing update. Earnings/guidance reaction (no Item 2.02 auto-drop), not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2015/11/06/stampscom-inc-stock-soars-on-huge-third-quarter-re.aspx"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "November 5 issuer release reports Q3 results, outlook and Endicia expected closing date. November 6 earnings reaction remains dropped despite guidance and acquisition-close commentary. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://www.globenewswire.com/news-release/2015/11/05/1352867/0/en/stamps-com-reports-record-third-quarter-2015-results-announces-expected-close-date-for-endicia-acquisition.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Q3 earnings beat (rev +37%, non-GAAP EPS +62%) plus raised FY guidance; Endicia close timing update. Earnings/guidance reaction (no Item 2.02 auto-drop), not keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2015/11/06/stampscom-inc-stock-soars-on-huge-third-quarter-re.aspx"
+        },
+        "decision": "drop_earnings"
+      }
     },
     {
       "symbol": "KNDI",
       "qdate": "2013-06-10",
       "close_return": 0.38,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "China MIIT approved Kandi-Geely EV sedan for subsidies/road use. Product regulatory/commercial approval, not M&A, biotech trial, or tech breakthrough under keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2013/06/10/5-chinese-stocks-that-soared-last-week-2.aspx"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Issuer-distributed MIIT sedan approval release is dated June 5, five calendar days before this June 10 jump. Category could be class 7, but the located source does not establish a fresh same-session catalyst. Defer for timing/continuation review rather than auto-promote. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.newsfilecorp.com/release/5563/KandiGeely-Codeveloped-Pure-Electric-Sedan-Receives-Approval-from-Ministry-of-Industry-and-Information-Technology-of-China",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "China MIIT approved Kandi-Geely EV sedan for subsidies/road use. Product regulatory/commercial approval, not M&A, biotech trial, or tech breakthrough under keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2013/06/10/5-chinese-stocks-that-soared-last-week-2.aspx"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.newsfilecorp.com/release/5563/KandiGeely-Codeveloped-Pure-Electric-Sedan-Receives-Approval-from-Ministry-of-Industry-and-Information-Technology-of-China"
+        ]
+      }
     },
     {
       "symbol": "SAGE",
@@ -887,11 +1144,27 @@
       "symbol": "KPTI",
       "qdate": "2016-08-30",
       "close_return": 0.367,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Jefferies upgrade to Buy plus company call previewing upcoming myeloma plans; STORM Phase 2b top-line reported later (Sep 6). Analyst/upgrade day, not keep 2/3/4 readout.",
-      "locator": "https://www.fool.com/investing/2016/08/30/why-karyopharm-therapeutics-inc-shares-are-soaring.aspx"
+      "jump_cause": "analyst",
+      "cause_class": "analyst",
+      "news_filter": "drop_analyst",
+      "detail": "Contemporaneous August 30 market account attributes the move to Jefferies upgrading the shares; pivotal myeloma results were still expected. No new trial result or regulatory approval is established by this source. Retain analyst-only exclusion. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.fool.com/investing/2016/08/30/why-karyopharm-therapeutics-inc-shares-are-soaring.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Jefferies upgrade to Buy plus company call previewing upcoming myeloma plans; STORM Phase 2b top-line reported later (Sep 6). Analyst/upgrade day, not keep 2/3/4 readout.",
+          "locator": "https://www.fool.com/investing/2016/08/30/why-karyopharm-therapeutics-inc-shares-are-soaring.aspx"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.fool.com/investing/2016/08/30/why-karyopharm-therapeutics-inc-shares-are-soaring.aspx"
+        ]
+      }
     },
     {
       "symbol": "TEX",
@@ -1047,11 +1320,24 @@
       "symbol": "COUP",
       "qdate": "2014-11-05",
       "close_return": 0.332,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Coupons.com Q3 earnings: rev +47% to $58.5M, raised FY guidance. Earnings/guidance, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1115128/000114420414064969/v393112_ex99-1.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "November 4 Coupons.com Q3 financial-results release includes Q4/full-year guidance. November 5 earnings reaction remains class 1 even though outlook was raised. Historical Coupons.com identity retained. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1115128/000114420414064969/v393112_ex99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Coupons.com Q3 earnings: rev +47% to $58.5M, raised FY guidance. Earnings/guidance, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1115128/000114420414064969/v393112_ex99-1.htm"
+        },
+        "decision": "drop_earnings"
+      }
     },
     {
       "symbol": "ANIK",
@@ -1097,11 +1383,24 @@
       "symbol": "VIPS",
       "qdate": "2014-03-04",
       "close_return": 0.324,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Vipshop Q4 earnings beat and raised 1Q guidance. Earnings/guidance, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2014/03/04/why-zynga-inc-isis-pharmaceuticals-and-vipshop-hol.aspx"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "March 3 issuer release reports Q4/full-year 2013 results and forward outlook. March 4 earnings reaction remains dropped, including guidance embedded in the results release. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1529192/000110465914015592/a14-7311_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Vipshop Q4 earnings beat and raised 1Q guidance. Earnings/guidance, not keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2014/03/04/why-zynga-inc-isis-pharmaceuticals-and-vipshop-hol.aspx"
+        },
+        "decision": "drop_earnings"
+      }
     },
     {
       "symbol": "PRTA",
@@ -1117,11 +1416,27 @@
       "symbol": "GWPH",
       "qdate": "2014-04-22",
       "close_return": 0.322,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Morgan Stanley Overweight initiation ($103 PT) plus media buzz. Analyst initiation, not keep 2/3/4.",
-      "locator": "https://www.benzinga.com/analyst-ratings/analyst-color/14/04/4487181/gw-pharma-soars-35-on-initiation-from-morgan-stanley-bul"
+      "jump_cause": "analyst",
+      "cause_class": "analyst",
+      "news_filter": "drop_analyst",
+      "detail": "April 22 market coverage ties the move to Morgan Stanley initiation and favorable media commentary. No newly established trial readout, partnership or regulatory approval in this account. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://247wallst.com/health-and-healthcare/2014/04/22/gw-pharma-dual-cannabinoid-endorsement-morgan-stanley-and-jim-cramer/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Morgan Stanley Overweight initiation ($103 PT) plus media buzz. Analyst initiation, not keep 2/3/4.",
+          "locator": "https://www.benzinga.com/analyst-ratings/analyst-color/14/04/4487181/gw-pharma-soars-35-on-initiation-from-morgan-stanley-bul"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://247wallst.com/health-and-healthcare/2014/04/22/gw-pharma-dual-cannabinoid-endorsement-morgan-stanley-and-jim-cramer/"
+        ]
+      }
     },
     {
       "symbol": "BLUE",
@@ -1137,11 +1452,24 @@
       "symbol": "XNCR",
       "qdate": "2016-06-28",
       "close_return": 0.321,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Novartis collaboration/license on bispecifics ($150M upfront, up to $2.41B milestones). Partnership/license (Item 1.01), not M&A of Xencor under keep-2.",
-      "locator": "https://investors.xencor.com/news-releases/news-release-details/xencor-announces-strategic-collaboration-bispecific-programs"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "June 28 release announces Novartis bispecific-antibody development and commercialization collaboration and license, with analyst-day discussion that morning. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://investors.xencor.com/news-releases/news-release-details/xencor-announces-strategic-collaboration-bispecific-programs",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Novartis collaboration/license on bispecifics ($150M upfront, up to $2.41B milestones). Partnership/license (Item 1.01), not M&A of Xencor under keep-2.",
+          "locator": "https://investors.xencor.com/news-releases/news-release-details/xencor-announces-strategic-collaboration-bispecific-programs"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "LEAF",
@@ -1157,11 +1485,24 @@
       "symbol": "TZOO",
       "qdate": "2015-04-16",
       "close_return": 0.32,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q1 earnings beat (EPS $0.13 vs $0.08); 8-K Item 2.02 same day. Earnings, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1133311/000113331115000015/form8-k33115.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "April 16 issuer release reports first-quarter 2015 financial results. Manual earnings confirmation; not a standalone guidance catalyst. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1133311/000113331115000015/ex-9913x31x158k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Q1 earnings beat (EPS $0.13 vs $0.08); 8-K Item 2.02 same day. Earnings, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1133311/000113331115000015/form8-k33115.htm"
+        },
+        "decision": "drop_earnings"
+      }
     },
     {
       "symbol": "SM",
@@ -1187,11 +1528,24 @@
       "symbol": "IMMR",
       "qdate": "2013-03-07",
       "close_return": 0.314,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Multi-year Samsung TouchSense/haptics license plus raised 2013 revenue guidance. Commercial license (Item 1.01), not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1058811/000119312513095043/d498693d8k.htm"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "March 7 issuer release announces multi-year Samsung TouchSense and patent license. Existing review also notes raised revenue guidance; license retained as the primary class. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1058811/000119312513095043/d498693dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Multi-year Samsung TouchSense/haptics license plus raised 2013 revenue guidance. Commercial license (Item 1.01), not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1058811/000119312513095043/d498693d8k.htm"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "MRGE",
@@ -1227,11 +1581,24 @@
       "symbol": "ADXS",
       "qdate": "2016-08-02",
       "close_return": 0.3081,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Amgen global collaboration/license for preclinical ADXS-NEO: $40M upfront plus $25M equity purchase and milestones. Partnership/license + minority stake, not keep 2/3/4.",
-      "locator": "https://www.amgen.com/newsroom/press-releases/2016/08/amgen-and-advaxis-enter-global-cancer-immunotherapies-collaboration"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "August 2 joint release announces ADXS-NEO development and commercialization collaboration, with upfront payment and minority equity investment. Preclinical collaboration, not successful trial readout. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://www.amgen.com/newsroom/press-releases/2016/08/amgen-and-advaxis-enter-global-cancer-immunotherapies-collaboration",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Amgen global collaboration/license for preclinical ADXS-NEO: $40M upfront plus $25M equity purchase and milestones. Partnership/license + minority stake, not keep 2/3/4.",
+          "locator": "https://www.amgen.com/newsroom/press-releases/2016/08/amgen-and-advaxis-enter-global-cancer-immunotherapies-collaboration"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "FOE",
@@ -1247,11 +1614,24 @@
       "symbol": "NTWK",
       "qdate": "2015-12-21",
       "close_return": 0.3062,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "NetSol signed >$100M NFS Ascent implementation/maintenance contract (Daimler Financial Services multi-country). Commercial software contract, not keep 2/3/4.",
-      "locator": "https://ir.netsoltech.com/press-releases/detail/3007/netsol-technologies-signs-contract-to-implement-nfs"
+      "jump_cause": "commercial_contract",
+      "cause_class": "5_commercial_contract",
+      "news_filter": "keep",
+      "detail": "December 21 issuer release announces NFS Ascent implementation and maintenance contract exceeding $100 million. Customer is described as an existing client; specific customer identity is not newly verified. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://ir.netsoltech.com/press-releases/detail/3007/netsol-technologies-signs-contract-to-implement-nfs",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "NetSol signed >$100M NFS Ascent implementation/maintenance contract (Daimler Financial Services multi-country). Commercial software contract, not keep 2/3/4.",
+          "locator": "https://ir.netsoltech.com/press-releases/detail/3007/netsol-technologies-signs-contract-to-implement-nfs"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "ETSY",
@@ -1267,21 +1647,50 @@
       "symbol": "UEPS",
       "qdate": "2016-04-11",
       "close_return": 0.305,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Net1 announced ~$107.7M IFC equity subscription (~18% stake at $10.79). Financing/strategic equity investment, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1041514/000106299316008881/exhibit99-1.htm"
+      "jump_cause": "financing",
+      "cause_class": "financing",
+      "news_filter": "drop_financing",
+      "detail": "April 11 release announces IFC subscription for 9.98 million new shares, about an 18% stake, at a premium. Primary transaction is equity financing with expansion proceeds and board nomination rights; no defined operating collaboration or license is announced. Do not infer class 6 from supportive investor commentary alone. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1041514/000106299316008881/exhibit99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Net1 announced ~$107.7M IFC equity subscription (~18% stake at $10.79). Financing/strategic equity investment, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1041514/000106299316008881/exhibit99-1.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1041514/000106299316008881/exhibit99-1.htm"
+        ]
+      }
     },
     {
       "symbol": "MNST",
       "qdate": "2014-08-15",
       "close_return": 0.3048,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Coca-Cola definitive strategic partnership: ~16.7% equity stake for ~$2.15B cash plus energy/non-energy brand swap and distribution alliance. Minority stake/partnership, not keep-class takeout/trial/breakthrough.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/865752/000110465914061175/0001104659-14-061175.txt"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "August 14 joint release announces Coca-Cola distribution alliance, business transfers and 16.7% equity stake. Retain August 15 reaction attribution; partnership rather than full issuer takeover. Policy review only; first-public completeness and training readiness are not certified.",
+      "locator": "https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0001341004-14-000716/ex99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Coca-Cola definitive strategic partnership: ~16.7% equity stake for ~$2.15B cash plus energy/non-energy brand swap and distribution alliance. Minority stake/partnership, not keep-class takeout/trial/breakthrough.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/865752/000110465914061175/0001104659-14-061175.txt"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "ESI",
@@ -1297,11 +1706,27 @@
       "symbol": "HIMX",
       "qdate": "2013-07-22",
       "close_return": 0.3037,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Google agreed to invest in Himax Display subsidiary (initial ~6.3% preferred, option to ~14.8%) for LCOS capacity tied to Google Glass. Minority stake in sub / partnership investment, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1342338/000117184313002856/newsrelease.htm"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "July 22 issuer release describes Google investment in the LCOS subsidiary as a strategic partnership to expand production for applications including Google Glass. Parent retains majority control; partnership capital fits class 6. Closing conditions are distinct from announcement. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1342338/000117184313002856/newsrelease.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Google agreed to invest in Himax Display subsidiary (initial ~6.3% preferred, option to ~14.8%) for LCOS capacity tied to Google Glass. Minority stake in sub / partnership investment, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1342338/000117184313002856/newsrelease.htm"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1342338/000117184313002856/newsrelease.htm"
+        ]
+      }
     },
     {
       "symbol": "UTHR",
@@ -1337,11 +1762,27 @@
       "symbol": "WLL",
       "qdate": "2016-11-30",
       "close_return": 0.3028,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "OPEC production-cut agreement; oil/E&P short-squeeze rally. Commodity/macro move, not keep 2/3/4.",
-      "locator": "https://www.cnbc.com/2016/11/30/fracking-stocks-opec-just-injected-life-into-companies.html"
+      "jump_cause": "macro_sector",
+      "cause_class": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "detail": "November 30 market account places this issuer in the broad oil-stock rally after the OPEC production agreement. Existing commodity/sector attribution retained; no issuer-specific class 2–11 catalyst established in this review. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://247wallst.com/energy/2016/11/30/did-opec-production-cut-make-more-speculative-oil-stocks-rally-too-much/2/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "OPEC production-cut agreement; oil/E&P short-squeeze rally. Commodity/macro move, not keep 2/3/4.",
+          "locator": "https://www.cnbc.com/2016/11/30/fracking-stocks-opec-just-injected-life-into-companies.html"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://247wallst.com/energy/2016/11/30/did-opec-production-cut-make-more-speculative-oil-stocks-rally-too-much/2/"
+        ]
+      }
     },
     {
       "symbol": "GDP",
@@ -1390,7 +1831,7 @@
       "jump_cause": "biotech_trial",
       "cause_class": "3_biotech_trial",
       "news_filter": "keep",
-      "detail": "InVivo INSPIRE study: fifth Neuro-Spinal Scaffold patient converted AIS A\u2192B by 6 months (3/5 conversions); clinical trial update keep.",
+      "detail": "InVivo INSPIRE study: fifth Neuro-Spinal Scaffold patient converted AIS A→B by 6 months (3/5 conversions); clinical trial update keep.",
       "locator": "https://www.massdevice.com/invivo-surges-spinal-scaffold-trial-approaches-endpoint/"
     },
     {
@@ -1407,11 +1848,27 @@
       "symbol": "AMED",
       "qdate": "2014-06-27",
       "close_return": 0.2981,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Amedisys Q2 preview: revenue $300\u2013305M and adj EPS $0.15\u2013$0.20 vs Street ~$0.04. Earnings guidance, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/896262/000119312514251863/d750974dex991.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "June 27 release previews the nearly completed quarter with revenue and EPS estimates tied to recent operating results. Treat preliminary quarterly earnings as class 1; do not promote a retrospective results preview as a standalone forward outlook step-change. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/896262/000119312514251863/d750974dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch02_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Amedisys Q2 preview: revenue $300–305M and adj EPS $0.15–$0.20 vs Street ~$0.04. Earnings guidance, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/896262/000119312514251863/d750974dex991.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/896262/000119312514251863/d750974dex991.htm"
+        ]
+      }
     },
     {
       "symbol": "WATT",
@@ -1437,11 +1894,28 @@
       "symbol": "PDFS",
       "qdate": "2015-01-08",
       "close_return": 0.2946,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "PDF Solutions finalized two customer contracts for prior yield-ramp services (~$6M Q1 revenue impact + Gainshare). Commercial contracts, not keep 2/3/4.",
-      "locator": "https://getfilings.com/sec-filings/150107/PDF-SOLUTIONS-INC_8-K/ex99-1.htm"
+      "jump_cause": "commercial_contract",
+      "cause_class": "5_commercial_contract",
+      "news_filter": "keep",
+      "detail": "January 7 release confirms two previously unresolved customer contracts, with about $6 million expected Q1 revenue impact and future Gainshare fees. Filing archive lists January 7 at 4:08 p.m., consistent with the January 8 reaction. Acceptance timing is not proof of earliest public release; existing jump attribution retained. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1120914/000143774915000389/ex99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "PDF Solutions finalized two customer contracts for prior yield-ramp services (~$6M Q1 revenue impact + Gainshare). Commercial contracts, not keep 2/3/4.",
+          "locator": "https://getfilings.com/sec-filings/150107/PDF-SOLUTIONS-INC_8-K/ex99-1.htm"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1120914/000143774915000389/ex99-1.htm",
+          "https://getfilings.com/sec-filings/150107/"
+        ]
+      }
     },
     {
       "symbol": "CDZI",
@@ -1460,7 +1934,7 @@
       "jump_cause": "biotech_trial",
       "cause_class": "3_biotech_trial",
       "news_filter": "keep",
-      "detail": "Positive Phase 2b ETC-1002-009 top-line: bempedoic acid add-on to statin met primary LDL-C endpoint (\u221217%/\u221224% vs placebo).",
+      "detail": "Positive Phase 2b ETC-1002-009 top-line: bempedoic acid add-on to statin met primary LDL-C endpoint (−17%/−24% vs placebo).",
       "locator": "https://www.biospace.com/esperion-therapeutics-announces-positive-top-line-phase-2b-results-for-etc-1002-added-to-stable-statin-therapy-in-patients-with-hypercholesterolemia"
     },
     {
@@ -1497,11 +1971,27 @@
       "symbol": "GOGO",
       "qdate": "2013-11-11",
       "close_return": 0.288,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Gogo Q3 results beat and raised FY revenue guidance; also JAL/GTO product announcements. Earnings-led, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1537054/000119312513437592/d625958dex991.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "November 11 issuer release reports Q3 results and raised annual guidance. Recent contract and product announcements are concurrent context; existing earnings-led attribution retained. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1537054/000119312513437592/d625958dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Gogo Q3 results beat and raised FY revenue guidance; also JAL/GTO product announcements. Earnings-led, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1537054/000119312513437592/d625958dex991.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1537054/000119312513437592/d625958dex991.htm"
+        ]
+      }
     },
     {
       "symbol": "GOL",
@@ -1527,11 +2017,27 @@
       "symbol": "UTHR",
       "qdate": "2014-08-29",
       "close_return": 0.2851,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "District court upheld Remodulin '117 patent vs Sandoz, enjoining generic until Oct 2017. Litigation/patent win, not keep 2/3/4.",
-      "locator": "https://ir.unither.com/~/media/Files/U/United-Therapeutics-IR/documents/press-releases/2014/District-Court-Decision-Received-In-Remodulin-Patent-Case-20140829-1249.pdf"
+      "jump_cause": "legal_unlock",
+      "cause_class": "9_legal_unlock",
+      "news_filter": "keep",
+      "detail": "August 29 issuer release reports Remodulin patent enforcement and an injunction against Sandoz generic marketing through October 2017. Mixed ruling preserved: the separate patent expiring in 2029 was not infringed. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://ir.unither.com/press-releases/2014/08-29-2014-014552327",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "District court upheld Remodulin '117 patent vs Sandoz, enjoining generic until Oct 2017. Litigation/patent win, not keep 2/3/4.",
+          "locator": "https://ir.unither.com/~/media/Files/U/United-Therapeutics-IR/documents/press-releases/2014/District-Court-Decision-Received-In-Remodulin-Patent-Case-20140829-1249.pdf"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://ir.unither.com/press-releases/2014/08-29-2014-014552327"
+        ]
+      }
     },
     {
       "symbol": "ALTR",
@@ -1558,20 +2064,54 @@
       "qdate": "2013-10-18",
       "close_return": 0.2841,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Arbitration interim award ~$100M damages vs Valeant/Dow contract dispute. Litigation award, not keep 2/3/4. Note cik2symbol may not match historical Anacor CIK.",
-      "locator": "https://www.biocentury.com/article/272871/anacor-jumps-on-damages-award-in-contract-dispute"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Issuer 8-K says Anacor announced the $100 million arbitration award October 17, while counterparty Valeant release is dated October 18. Legal-unlock category is supported, but exact October 17 announcement time is unresolved. Defer reaction-session assignment; preserve historical Anacor issuer-identity warning. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1411158/000110465913076447/a13-22520_18k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Arbitration interim award ~$100M damages vs Valeant/Dow contract dispute. Litigation award, not keep 2/3/4. Note cik2symbol may not match historical Anacor CIK.",
+          "locator": "https://www.biocentury.com/article/272871/anacor-jumps-on-damages-award-in-contract-dispute"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1411158/000110465913076447/a13-22520_18k.htm",
+          "https://ir.bauschhealth.com/tools/viewpdf.aspx?page=%7B4ABF1761-2C9E-4CF0-9E98-846F8B34CC59%7D"
+        ]
+      }
     },
     {
       "symbol": "EHTH",
       "qdate": "2013-07-31",
       "close_return": 0.284,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "CMS web-broker agreement for Federally-facilitated Exchange access/enrollment path under ACA. Policy/commercial partnership, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1333493/000119312513311356/d573648d8k.htm"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "July 31 issuer release announces a CMS web-broker agreement enabling exchange enrollment in 36 states. Agreement execution July 29 is distinct from the release; category 6 commercial cooperation. Earlier publicity has not been exhaustively excluded. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1333493/000119312513311356/d573648dex992.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "CMS web-broker agreement for Federally-facilitated Exchange access/enrollment path under ACA. Policy/commercial partnership, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1333493/000119312513311356/d573648d8k.htm"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1333493/000119312513311356/d573648dex992.htm",
+          "https://www.sec.gov/Archives/edgar/data/1333493/000119312513311356/d573648d8k.htm"
+        ]
+      }
     },
     {
       "symbol": "TROX",
@@ -1667,21 +2207,53 @@
       "symbol": "STMP",
       "qdate": "2015-08-07",
       "close_return": 0.2774,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Stamps.com record Q2 results and raised FY guidance. Earnings, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1082923/000114036115031163/ex99_1.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "August 6 issuer release reports Q2 results and increases annual guidance. Existing August 7 reaction attribution remains earnings-led; guidance within results does not qualify separately as class 8. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1082923/000114036115031163/ex99_1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Stamps.com record Q2 results and raised FY guidance. Earnings, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1082923/000114036115031163/ex99_1.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1082923/000114036115031163/ex99_1.htm"
+        ]
+      }
     },
     {
       "symbol": "OAS",
       "qdate": "2016-11-30",
       "close_return": 0.2773,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "OPEC production-cut agreement; Bakken E&P short-squeeze rally. Commodity/macro, not keep 2/3/4.",
-      "locator": "https://www.cnbc.com/2016/11/30/fracking-stocks-opec-just-injected-life-into-companies.html"
+      "jump_cause": "macro_sector",
+      "cause_class": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "detail": "November 30 market account places this issuer in the broad oil-stock rally after the OPEC production agreement. Existing commodity/sector attribution retained; no issuer-specific class 2–11 catalyst established in this review. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://247wallst.com/energy/2016/11/30/did-opec-production-cut-make-more-speculative-oil-stocks-rally-too-much/2/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "OPEC production-cut agreement; Bakken E&P short-squeeze rally. Commodity/macro, not keep 2/3/4.",
+          "locator": "https://www.cnbc.com/2016/11/30/fracking-stocks-opec-just-injected-life-into-companies.html"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://247wallst.com/energy/2016/11/30/did-opec-production-cut-make-more-speculative-oil-stocks-rally-too-much/2/"
+        ]
+      }
     },
     {
       "symbol": "TDW",
@@ -1697,11 +2269,27 @@
       "symbol": "ATHN",
       "qdate": "2015-10-23",
       "close_return": 0.2754,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "athenahealth Q3 beat (revenue/EPS and provider adds). Earnings, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1131096/000113109615000180/athnq32015earningsrelease.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "October 22 issuer release reports Q3 financial and operational results and schedules an October 23 morning call. Existing next-session earnings attribution retained. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1131096/000113109615000180/athnq32015earningsrelease.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "athenahealth Q3 beat (revenue/EPS and provider adds). Earnings, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1131096/000113109615000180/athnq32015earningsrelease.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1131096/000113109615000180/athnq32015earningsrelease.htm"
+        ]
+      }
     },
     {
       "symbol": "PRTA",
@@ -1747,11 +2335,27 @@
       "symbol": "CYBR",
       "qdate": "2014-11-13",
       "close_return": 0.2736,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "First post-IPO Q3 earnings beat and raised guidance. Earnings, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1598110/000119312514409694/d820904dex991.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "November 12 issuer release reports Q3 financial results, the first quarter completed as a public company. Existing November 13 reaction attribution remains class 1. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1598110/000119312514409694/d820904dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "First post-IPO Q3 earnings beat and raised guidance. Earnings, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1598110/000119312514409694/d820904dex991.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1598110/000119312514409694/d820904dex991.htm"
+        ]
+      }
     },
     {
       "symbol": "CHRS",
@@ -1827,31 +2431,79 @@
       "symbol": "CLDX",
       "qdate": "2014-05-14",
       "close_return": 0.2694,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "BMS clinical-trial collaboration: nivolumab + varlilumab Phase 1/2 with $5M upfront. Partnership, not keep 2/3/4.",
-      "locator": "https://news.bms.com/news/details/2014/Bristol-Myers-Squibb-and-Celldex-Therapeutics-Announce-Clinical-Trial-Collaboration-to-Evaluate-the-Combination-of-Investigational-Immunotherapies-Nivolumab-and-Varlilumab/default.aspx"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "May 14 joint release announces BMS/Celldex combination-immunotherapy clinical collaboration, $5 million payment and shared development costs. This is a collaboration announcement rather than trial results. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://news.bms.com/news/details/2014/Bristol-Myers-Squibb-and-Celldex-Therapeutics-Announce-Clinical-Trial-Collaboration-to-Evaluate-the-Combination-of-Investigational-Immunotherapies-Nivolumab-and-Varlilumab/default.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "BMS clinical-trial collaboration: nivolumab + varlilumab Phase 1/2 with $5M upfront. Partnership, not keep 2/3/4.",
+          "locator": "https://news.bms.com/news/details/2014/Bristol-Myers-Squibb-and-Celldex-Therapeutics-Announce-Clinical-Trial-Collaboration-to-Evaluate-the-Combination-of-Investigational-Immunotherapies-Nivolumab-and-Varlilumab/default.aspx"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://news.bms.com/news/details/2014/Bristol-Myers-Squibb-and-Celldex-Therapeutics-Announce-Clinical-Trial-Collaboration-to-Evaluate-the-Combination-of-Investigational-Immunotherapies-Nivolumab-and-Varlilumab/default.aspx"
+        ]
+      }
     },
     {
       "symbol": "MOMO",
       "qdate": "2015-05-19",
       "close_return": 0.2691,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Momo Q1 first profit and 383% revenue growth / MAU update. Earnings, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1610601/000119312515192611/d929612dex991.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "May 18 issuer release reports Q1 financial results including first quarterly profit and rapid revenue growth. Existing May 19 earnings-reaction attribution retained; operational and product commentary inside results does not change the primary category. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1610601/000119312515192611/d929612dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Momo Q1 first profit and 383% revenue growth / MAU update. Earnings, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1610601/000119312515192611/d929612dex991.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1610601/000119312515192611/d929612dex991.htm"
+        ]
+      }
     },
     {
       "symbol": "UEPS",
       "qdate": "2013-03-27",
       "close_return": 0.2687,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "SA Supreme Court of Appeal upheld SASSA social-grant tender award to CPS/Net1. Litigation/contract win, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1041514/000106299313001433/form8k.htm"
+      "jump_cause": "legal_unlock",
+      "cause_class": "9_legal_unlock",
+      "news_filter": "keep",
+      "detail": "March 27 Form 8-K states the issuer announced that South Africa's Supreme Court of Appeal upheld the SASSA tender process and award to its CPS subsidiary. Favorable contract litigation resolution fits class 9; later legal developments are outside this event review. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1041514/000106299313001433/form8k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch01_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "SA Supreme Court of Appeal upheld SASSA social-grant tender award to CPS/Net1. Litigation/contract win, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1041514/000106299313001433/form8k.htm"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1041514/000106299313001433/form8k.htm"
+        ]
+      }
     },
     {
       "symbol": "BCEI",
@@ -1908,10 +2560,26 @@
       "qdate": "2013-09-11",
       "close_return": 0.266,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "USPTO issued patent covering GR-MD-02 for NASH/fatty liver. IP news, not keep 2/3/4.",
-      "locator": "https://getfilings.com/sec-filings/130910/GALECTIN-THERAPEUTICS-INC_8-K/d595853dex991.htm"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Issuer patent announcement is dated September 10, before the September 11 jump. A patent grant is not itself a clinical result or marketing approval; exact reaction timing and any independent qualifying catalyst remain unresolved. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://investor.galectintherapeutics.com/static-files/d19386da-63cf-496f-98ce-32c51288107d",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "USPTO issued patent covering GR-MD-02 for NASH/fatty liver. IP news, not keep 2/3/4.",
+          "locator": "https://getfilings.com/sec-filings/130910/GALECTIN-THERAPEUTICS-INC_8-K/d595853dex991.htm"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://investor.galectintherapeutics.com/static-files/d19386da-63cf-496f-98ce-32c51288107d"
+        ]
+      }
     },
     {
       "symbol": "SYNA",
@@ -1927,11 +2595,27 @@
       "symbol": "SWIR",
       "qdate": "2014-11-06",
       "close_return": 0.2655,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Sierra Wireless Q3 beat and raised Q4 guidance on M2M demand. Earnings, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2014/11/06/why-sierra-wireless.aspx"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "Contemporaneous market report attributes November 6 jump to Q3 results and forward guidance exceeding expectations. Guidance bundled with earnings remains class 1. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.fool.com/investing/general/2014/11/06/why-sierra-wireless.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Sierra Wireless Q3 beat and raised Q4 guidance on M2M demand. Earnings, not keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2014/11/06/why-sierra-wireless.aspx"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.fool.com/investing/general/2014/11/06/why-sierra-wireless.aspx"
+        ]
+      }
     },
     {
       "symbol": "LJPC",
@@ -1997,21 +2681,53 @@
       "symbol": "CSTM",
       "qdate": "2015-11-05",
       "close_return": 0.262,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q3 2015 earnings: shipments +41%, revenue +36%, Adj. EBITDA +10%; exploring Muscle Shoals cash-flow alternatives. Earnings, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1563411/000119312515368509/d52641dex991.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "November 5 release reports Q3 results. Muscle Shoals alternatives are mentioned inside the earnings report; existing earnings-led attribution retained rather than treating that context as a separately verified activist catalyst. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1563411/000119312515368509/d52641dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch02_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Q3 2015 earnings: shipments +41%, revenue +36%, Adj. EBITDA +10%; exploring Muscle Shoals cash-flow alternatives. Earnings, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1563411/000119312515368509/d52641dex991.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1563411/000119312515368509/d52641dex991.htm"
+        ]
+      }
     },
     {
       "symbol": "INO",
       "qdate": "2015-08-10",
       "close_return": 0.2619,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "MedImmune/AstraZeneca cancer-vaccine collaboration/license for INO-3112: $27.5M upfront, up to $700M milestones. Partnership/license, not keep 2/3/4.",
-      "locator": "https://www.astrazeneca.com/media-centre/press-releases/2015/medimmune-inovio-pharmaceuticals-cancer-vaccine-10082015.html"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "August 10 counterparty release announces MedImmune exclusive INO-3112 rights and development collaboration, with $27.5 million upfront and milestone/royalty economics. Category is license collaboration rather than trial results. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.astrazeneca.com/media-centre/press-releases/2015/medimmune-inovio-pharmaceuticals-cancer-vaccine-10082015.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch02_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "MedImmune/AstraZeneca cancer-vaccine collaboration/license for INO-3112: $27.5M upfront, up to $700M milestones. Partnership/license, not keep 2/3/4.",
+          "locator": "https://www.astrazeneca.com/media-centre/press-releases/2015/medimmune-inovio-pharmaceuticals-cancer-vaccine-10082015.html"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.astrazeneca.com/media-centre/press-releases/2015/medimmune-inovio-pharmaceuticals-cancer-vaccine-10082015.html"
+        ]
+      }
     },
     {
       "symbol": "CB",
@@ -2088,10 +2804,26 @@
       "qdate": "2015-03-30",
       "close_return": 0.2582,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Lincoln Continental Concept showcased SPD-SmartGlass tinting sunroof using REFR tech at NY Auto Show preview. Product showcase/design win, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/793524/000120677415001077/refr_8k.htm"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "March 30 filing confirms Lincoln Continental Concept used SPD-SmartGlass. A concept-car showcase alone does not establish a material commercial order or production launch. Defer class 5/10 eligibility pending evidence of commercialization rather than treat marketing language as a technical breakthrough. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/793524/000120677415001077/refr_8k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch04_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Lincoln Continental Concept showcased SPD-SmartGlass tinting sunroof using REFR tech at NY Auto Show preview. Product showcase/design win, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/793524/000120677415001077/refr_8k.htm"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/793524/000120677415001077/refr_8k.htm"
+        ]
+      }
     },
     {
       "symbol": "PETX",
@@ -2107,11 +2839,27 @@
       "symbol": "LITB",
       "qdate": "2014-06-27",
       "close_return": 0.2564,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Raised Q2 2014 net-revenue guidance to $86\u201388M from $84\u201386M. Guidance/earnings, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1523836/000110465914049070/a14-16205_1ex99d1.htm"
+      "jump_cause": "guidance_stepup",
+      "cause_class": "8_guidance_stepup",
+      "news_filter": "keep",
+      "detail": "June 27 standalone release raises Q2 revenue forecast from $84–86 million to $86–88 million. It provides a forward quarterly revenue range without a routine quarterly earnings release; class 8 standalone guidance update. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1523836/000110465914049070/a14-16205_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch02_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Raised Q2 2014 net-revenue guidance to $86–88M from $84–86M. Guidance/earnings, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1523836/000110465914049070/a14-16205_1ex99d1.htm"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1523836/000110465914049070/a14-16205_1ex99d1.htm"
+        ]
+      }
     },
     {
       "symbol": "NBIX",
@@ -2138,30 +2886,78 @@
       "qdate": "2013-07-25",
       "close_return": 0.2554,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Board authorized spin-off of gas distribution into ONE Gas (OGS). Corporate spin-off/restructuring, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1039684/000103968413000074/okeannouncesonegasnewsrele.htm"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "July 25 release authorizes pursuit of ONE Gas spin-off and schedules a July 26 call. Strategic separation could fit class 11, but exact release time and attribution to July 25 rather than July 26 need verification. Do not conflate a future separation plan with a mechanical ex-distribution print. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1039684/000103968413000074/okeannouncesonegasnewsrele.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch04_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Board authorized spin-off of gas distribution into ONE Gas (OGS). Corporate spin-off/restructuring, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1039684/000103968413000074/okeannouncesonegasnewsrele.htm"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1039684/000103968413000074/okeannouncesonegasnewsrele.htm"
+        ]
+      }
     },
     {
       "symbol": "TRIP",
       "qdate": "2015-10-14",
       "close_return": 0.2554,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Instant Booking partnership with Priceline/Booking.com to list hotel inventory on TripAdvisor. Partnership, not keep 2/3/4.",
-      "locator": "https://ir.tripadvisor.com/news-releases/news-release-details/tripadvisor-and-priceline-group-announce-instant-booking"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "October 14 joint release announces Priceline brands joining TripAdvisor instant booking, initially Booking.com. Integration is forthcoming; this is partnership announcement rather than earnings. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://tripadvisor.mediaroom.com/2015-10-14-TripAdvisor-and-The-Priceline-Group-Announce-Instant-Booking-Partnership",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch02_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Instant Booking partnership with Priceline/Booking.com to list hotel inventory on TripAdvisor. Partnership, not keep 2/3/4.",
+          "locator": "https://ir.tripadvisor.com/news-releases/news-release-details/tripadvisor-and-priceline-group-announce-instant-booking"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://tripadvisor.mediaroom.com/2015-10-14-TripAdvisor-and-The-Priceline-Group-Announce-Instant-Booking-Partnership"
+        ]
+      }
     },
     {
       "symbol": "MPAA",
       "qdate": "2013-11-12",
       "close_return": 0.2551,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Fiscal Q2 FY2014 earnings: sales +14.8% to $66.2M, swing to $2.2M profit vs prior loss. Earnings, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/918251/000114036113042172/ex99_1.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "November 12 release reports fiscal Q2 and six-month results, including a return to profit. Product-line discussion appears within quarterly results; earnings exclusion applies. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/918251/000114036113042172/ex99_1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch02_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Fiscal Q2 FY2014 earnings: sales +14.8% to $66.2M, swing to $2.2M profit vs prior loss. Earnings, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/918251/000114036113042172/ex99_1.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/918251/000114036113042172/ex99_1.htm"
+        ]
+      }
     },
     {
       "symbol": "HLF",
@@ -2198,10 +2994,28 @@
       "qdate": "2015-02-03",
       "close_return": 0.2536,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Canadian Solar as buyer agreed to acquire Recurrent Energy from Sharp for ~$265M (adds ~4 GW pipeline). Acquirer deal, not target M&A keep.",
-      "locator": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-acquire-recurrent-energy-sharp-corporation-265"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recurrent acquisition could qualify under the class-2 acquirer exception, but issuer page and later financial release identify February 2 announcement while Sharp notice is February 3. Exact public-release timing is unresolved for February 3 reaction; defer rather than assign a same-session keep. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-acquire-recurrent-energy-sharp-corporation-265",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch04_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Canadian Solar as buyer agreed to acquire Recurrent Energy from Sharp for ~$265M (adds ~4 GW pipeline). Acquirer deal, not target M&A keep.",
+          "locator": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-acquire-recurrent-energy-sharp-corporation-265"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-acquire-recurrent-energy-sharp-corporation-265",
+          "https://global.sharp/corporate/ir/topics/pdf/150203-3.pdf",
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465915016914/a15-6048_1ex99d1.htm"
+        ]
+      }
     },
     {
       "symbol": "SRNE",
@@ -2227,11 +3041,27 @@
       "symbol": "BBSI",
       "qdate": "2016-05-26",
       "close_return": 0.253,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Filed delayed 2015 10-K/restatement and reported Q4 net income +32% / diluted EPS $1.55. Earnings/filing catch-up, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/902791/000114420416105394/v441166_ex99-1.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "May 26 release reports delayed Q4/full-year 2015 results and filed restatements. Filing catch-up and improved earnings are mixed context; no independently verified legal resolution is established. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/902791/000114420416105394/v441166_ex99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch02_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Filed delayed 2015 10-K/restatement and reported Q4 net income +32% / diluted EPS $1.55. Earnings/filing catch-up, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/902791/000114420416105394/v441166_ex99-1.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/902791/000114420416105394/v441166_ex99-1.htm"
+        ]
+      }
     },
     {
       "symbol": "NEO",
@@ -2250,18 +3080,34 @@
       "jump_cause": null,
       "cause_class": "unclassified_other",
       "news_filter": "drop_other_not_234",
-      "detail": "Q4 earnings beat: non-GAAP EPS $0.57 vs ~$0.44\u20130.45, revenue +48% to $171.6M. Earnings, not keep 2/3/4.",
+      "detail": "Q4 earnings beat: non-GAAP EPS $0.57 vs ~$0.44–0.45, revenue +48% to $171.6M. Earnings, not keep 2/3/4.",
       "locator": "https://www.investors.com/news/technology/athn-earnings-beat-estimates-stock-jumps/"
     },
     {
       "symbol": "ANF",
       "qdate": "2015-11-20",
       "close_return": 0.2504,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q3 adjusted EPS $0.48 beat; comps -1% better than feared; Hollister first positive comps in ~4 years. Earnings, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1018840/000101884015000060/q32015earningsrelease.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "November 20 release reports Q3 GAAP and adjusted earnings and operating performance. Existing earnings-led jump attribution retained. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1018840/000101884015000060/q32015earningsrelease.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch02_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Q3 adjusted EPS $0.48 beat; comps -1% better than feared; Hollister first positive comps in ~4 years. Earnings, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1018840/000101884015000060/q32015earningsrelease.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1018840/000101884015000060/q32015earningsrelease.htm"
+        ]
+      }
     },
     {
       "symbol": "MRTX",
@@ -2270,7 +3116,7 @@
       "jump_cause": "biotech_trial",
       "cause_class": "3_biotech_trial",
       "news_filter": "keep",
-      "detail": "WCLC: MGCD265 Phase 1b expansion \u2014 2/4 evaluable NSCLC patients with confirmed PRs (AXL and MET amplification). Class-3 trial keep.",
+      "detail": "WCLC: MGCD265 Phase 1b expansion — 2/4 evaluable NSCLC patients with confirmed PRs (AXL and MET amplification). Class-3 trial keep.",
       "locator": "https://www.sec.gov/Archives/edgar/data/1576263/000110465915064377/a15-19161_18k.htm"
     },
     {
@@ -2287,11 +3133,27 @@
       "symbol": "FRBK",
       "qdate": "2016-12-06",
       "close_return": 0.25,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Completed $100M common offering at $5.35 and elected Vernon Hill II chairman. Financing/governance, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/834285/000095015916000819/exhibit99-1.htm"
+      "jump_cause": "financing",
+      "cause_class": "financing",
+      "news_filter": "drop_financing",
+      "detail": "December 5 issuer release announces completion of a $100 million new-share offering and Vernon Hill appointment as chairman. Primary financing and governance event; no activist campaign or operating partnership substantiated by this release. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/834285/000095015916000819/exhibit99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch02_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Completed $100M common offering at $5.35 and elected Vernon Hill II chairman. Financing/governance, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/834285/000095015916000819/exhibit99-1.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/834285/000095015916000819/exhibit99-1.htm"
+        ]
+      }
     },
     {
       "symbol": "VNDA",
@@ -2377,11 +3239,27 @@
       "symbol": "NEO",
       "qdate": "2015-10-21",
       "close_return": 0.2465,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "NeoGenomics as buyer agreed to acquire Clarient from GE for ~$275M cash/stock/preferred. Acquirer deal, not target M&A keep.",
-      "locator": "https://ir.neogenomics.com/news-events/press-releases/detail/55/neogenomics-signs-definitive-agreement-to-acquire-clarient-inc"
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_news",
+      "news_filter": "keep",
+      "detail": "October 21 issuer release announces the Clarient acquisition and an 11 a.m. ET transaction call. Retain existing acquisition-led jump attribution; NEO is explicitly the buyer, qualifying under METHODOLOGY section 9 acquirer exception. GE receiving stock is transaction consideration rather than a standalone financing catalyst. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://ir.neogenomics.com/news-events/press-releases/detail/55/neogenomics-signs-definitive-agreement-to-acquire-clarient-inc",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch04_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "NeoGenomics as buyer agreed to acquire Clarient from GE for ~$275M cash/stock/preferred. Acquirer deal, not target M&A keep.",
+          "locator": "https://ir.neogenomics.com/news-events/press-releases/detail/55/neogenomics-signs-definitive-agreement-to-acquire-clarient-inc"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://ir.neogenomics.com/news-events/press-releases/detail/55/neogenomics-signs-definitive-agreement-to-acquire-clarient-inc"
+        ]
+      }
     },
     {
       "symbol": "BEAM",
@@ -2400,7 +3278,7 @@
       "jump_cause": "ma_rumor",
       "cause_class": "2_ma_rumor_or_news",
       "news_filter": "keep",
-      "detail": "Majority owner Chiesi proposed take-private of remaining Cornerstone shares at $6.40\u2013$6.70 cash. Confirmed M&A proposal keep.",
+      "detail": "Majority owner Chiesi proposed take-private of remaining Cornerstone shares at $6.40–$6.70 cash. Confirmed M&A proposal keep.",
       "locator": "https://www.sec.gov/Archives/edgar/data/1145404/000129993313000359/exhibit1.htm"
     },
     {
@@ -2457,21 +3335,53 @@
       "symbol": "ZSL",
       "qdate": "2013-04-15",
       "close_return": 0.2444,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "ProShares UltraShort Silver leveraged ETF commodity move; hard-drop ETF class if missed by denylist. Not keep 2/3/4.",
-      "locator": "https://www.proshares.com/funds/zsl.html"
+      "jump_cause": "etf",
+      "cause_class": "etf",
+      "news_filter": "drop_etf",
+      "detail": "Sponsor identifies ZSL as UltraShort Silver ETF with inception December 2008, predating this row. Instrument is subject to the ETF hard exclusion regardless of news; no claim about historical option availability is made. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.proshares.com/our-etfs/leveraged-and-inverse/zsl",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "ProShares UltraShort Silver leveraged ETF commodity move; hard-drop ETF class if missed by denylist. Not keep 2/3/4.",
+          "locator": "https://www.proshares.com/funds/zsl.html"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.proshares.com/our-etfs/leveraged-and-inverse/zsl"
+        ]
+      }
     },
     {
       "symbol": "GDOT",
       "qdate": "2014-09-24",
       "close_return": 0.2439,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Nationwide Walmart exclusive GoBank checking-account launch. Partnership/product launch, not keep 2/3/4.",
-      "locator": "https://ir.greendot.com/news-releases/news-release-details/green-dots-gobank-checking-account-launches-exclusively-walmart"
+      "jump_cause": "product_launch",
+      "cause_class": "10_product_launch",
+      "news_filter": "keep",
+      "detail": "September 24 joint release announces nationwide GoBank checking-account rollout exclusively at Walmart, with nationwide availability expected by end of October. Class 10 commercialization is primary; Walmart partnership is concurrent context. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://ir.greendot.com/news-releases/news-release-details/green-dots-gobank-checking-account-launches-exclusively-walmart",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch02_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Nationwide Walmart exclusive GoBank checking-account launch. Partnership/product launch, not keep 2/3/4.",
+          "locator": "https://ir.greendot.com/news-releases/news-release-details/green-dots-gobank-checking-account-launches-exclusively-walmart"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://ir.greendot.com/news-releases/news-release-details/green-dots-gobank-checking-account-launches-exclusively-walmart"
+        ]
+      }
     },
     {
       "symbol": "TTOO",
@@ -2517,11 +3427,27 @@
       "symbol": "TZOO",
       "qdate": "2013-01-24",
       "close_return": 0.2431,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q4 revenue beat ($37M vs ~$35.5M est) despite EPS drop. Earnings, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2013/01/24/why-travelzoo-shares-took-flight.aspx"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "Contemporaneous January 24 market report attributes the move to Q4 revenue and EPS above expectations. Retain class 1 earnings exclusion. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.fool.com/investing/general/2013/01/24/why-travelzoo-shares-took-flight.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Q4 revenue beat ($37M vs ~$35.5M est) despite EPS drop. Earnings, not keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2013/01/24/why-travelzoo-shares-took-flight.aspx"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.fool.com/investing/general/2013/01/24/why-travelzoo-shares-took-flight.aspx"
+        ]
+      }
     },
     {
       "symbol": "NVAX",
@@ -2547,21 +3473,53 @@
       "symbol": "WPRT",
       "qdate": "2014-05-02",
       "close_return": 0.2428,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q1 revenue +39% to $41.9M, narrowed loss, FY revenue guide $175\u2013185M. Earnings, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2014/05/02/why-westport-innovations-inc-shares-skyrocketed.aspx"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "Contemporaneous May 2 market report attributes the move to quarterly results and outlook. Upbeat annual guidance inside an earnings reaction remains class 1. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.fool.com/investing/general/2014/05/02/why-westport-innovations-inc-shares-skyrocketed.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Q1 revenue +39% to $41.9M, narrowed loss, FY revenue guide $175–185M. Earnings, not keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2014/05/02/why-westport-innovations-inc-shares-skyrocketed.aspx"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.fool.com/investing/general/2014/05/02/why-westport-innovations-inc-shares-skyrocketed.aspx"
+        ]
+      }
     },
     {
       "symbol": "CSIQ",
       "qdate": "2014-08-13",
       "close_return": 0.2427,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q2 earnings beat: revenue $623.8M, EPS $0.95 vs ~$0.58 est; raised Q3 guide. Earnings, not keep 2/3/4.",
-      "locator": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-reports-second-quarter-2014-results"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "August 13 issuer release reports Q2 financial results and provides guidance. Existing earnings-led jump attribution retained. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-reports-second-quarter-2014-results",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch02_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Q2 earnings beat: revenue $623.8M, EPS $0.95 vs ~$0.58 est; raised Q3 guide. Earnings, not keep 2/3/4.",
+          "locator": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-reports-second-quarter-2014-results"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-reports-second-quarter-2014-results"
+        ]
+      }
     },
     {
       "symbol": "KNDI",
@@ -2570,7 +3528,7 @@
       "jump_cause": null,
       "cause_class": "unclassified_other",
       "news_filter": "drop_other_not_234",
-      "detail": "Hangzhou EV-sharing program groundbreaking; 5k\u201310k Kandi vehicles year-one. Sales/ops, not keep 2/3/4.",
+      "detail": "Hangzhou EV-sharing program groundbreaking; 5k–10k Kandi vehicles year-one. Sales/ops, not keep 2/3/4.",
       "locator": "https://www.yahoo.com/news/kandi-shares-jump-news-ev-143818872.html"
     },
     {
@@ -2588,10 +3546,26 @@
       "qdate": "2016-04-22",
       "close_return": 0.2412,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "$200M Oaktree convertible preferred + temporary 39% distribution cut. Financing/capital structure, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1504461/000150446116000005/exhibit991preferredunittra.htm"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Release combines $200 million convertible preferred financing, distribution reduction, revised guidance and an Oaktree strategic relationship to pursue assets jointly. Defined operating ambitions could fit class 6, but primary attribution between financing, outlook and collaboration is unresolved; do not automatically keep or confirm financing-only drop. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1504461/000150446116000005/exhibit991preferredunittra.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "$200M Oaktree convertible preferred + temporary 39% distribution cut. Financing/capital structure, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1504461/000150446116000005/exhibit991preferredunittra.htm"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1504461/000150446116000005/exhibit991preferredunittra.htm"
+        ]
+      }
     },
     {
       "symbol": "GRUB",
@@ -2617,11 +3591,28 @@
       "symbol": "CPSI",
       "qdate": "2015-11-25",
       "close_return": 0.2406,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "CPSI as buyer agreed to acquire Healthland for $250M cash/stock. Acquirer deal, not target M&A keep.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1169445/000116944515000016/exhibit991-pressrelease.htm"
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_news",
+      "news_filter": "keep",
+      "detail": "November 25 release announces acquisition of Healthland, and contemporaneous market coverage links CPSI gains to that announcement. CPSI is the buyer. METHODOLOGY section 9 class-2 note permits acquirer news when reviewed as the attributed jump cause; retain acquirer role explicitly. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1169445/000116944515000016/exhibit991-pressrelease.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch04_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "CPSI as buyer agreed to acquire Healthland for $250M cash/stock. Acquirer deal, not target M&A keep.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1169445/000116944515000016/exhibit991-pressrelease.htm"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1169445/000116944515000016/exhibit991-pressrelease.htm",
+          "https://cdn1.benzinga.com/news/15/11/6002305/morning-market-gainers"
+        ]
+      }
     },
     {
       "symbol": "ATHN",
@@ -2708,10 +3699,26 @@
       "qdate": "2014-12-09",
       "close_return": 0.2377,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "2015 capex/production guidance: ~50% YoY growth with Wattenberg focus. Ops guidance, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/77877/000119312514438892/d835521dex991.htm"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Standalone 2015 budget and roughly 50% year-over-year production-growth outlook could fit class 8, but primary release is December 8. Exact announcement time and novelty relative to prior outlook are unresolved for December 9 jump. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/77877/000119312514438892/d835521dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch04_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "2015 capex/production guidance: ~50% YoY growth with Wattenberg focus. Ops guidance, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/77877/000119312514438892/d835521dex991.htm"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/77877/000119312514438892/d835521dex991.htm"
+        ]
+      }
     },
     {
       "symbol": "EXPR",
@@ -2770,7 +3777,7 @@
       "jump_cause": "ma_rumor",
       "cause_class": "2_ma_rumor_or_news",
       "news_filter": "keep",
-      "detail": "Board rejected HC2 unsolicited $35\u2013$37/share bids; confirmed M&A proposals. Class-2 rumor keep.",
+      "detail": "Board rejected HC2 unsolicited $35–$37/share bids; confirmed M&A proposals. Class-2 rumor keep.",
       "locator": "https://www.fool.com/investing/general/2016/05/18/why-the-andersons-inc-shares-spiked-today.aspx"
     },
     {
@@ -2890,7 +3897,7 @@
       "jump_cause": null,
       "cause_class": "unclassified_other",
       "news_filter": "drop_other_not_234",
-      "detail": "Raised 2014 deployment guide to 475\u2013525 MW plus Q3 operating metrics. Guidance/ops, not keep 2/3/4.",
+      "detail": "Raised 2014 deployment guide to 475–525 MW plus Q3 operating metrics. Guidance/ops, not keep 2/3/4.",
       "locator": "https://www.fool.com/investing/general/2013/10/11/why-solarcity-shares-soared.aspx"
     },
     {
@@ -2927,11 +3934,27 @@
       "symbol": "SHOP",
       "qdate": "2015-09-17",
       "close_return": 0.2297,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Amazon partnership to help merchants set up online stores. Partnership, not keep 2/3/4.",
-      "locator": "https://www.bloomberg.com/news/articles/2015-09-17/amazon-teams-with-shopify-to-help-merchants-set-up-online-stores"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "September 17 issuer release announces Amazon Webstore migration partnership and merchant integrations with Amazon services. Category 6 partnership; future integration delivery is separate from announcement. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.shopify.com/news/shopify-and-amazon-team-up-to-help-online-merchants-grow",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Amazon partnership to help merchants set up online stores. Partnership, not keep 2/3/4.",
+          "locator": "https://www.bloomberg.com/news/articles/2015-09-17/amazon-teams-with-shopify-to-help-merchants-set-up-online-stores"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.shopify.com/news/shopify-and-amazon-team-up-to-help-online-merchants-grow"
+        ]
+      }
     },
     {
       "symbol": "SJT",
@@ -3130,7 +4153,7 @@
       "jump_cause": null,
       "cause_class": "unclassified_other",
       "news_filter": "drop_other_not_234",
-      "detail": "Brazil MP raising foreign airline ownership cap 20%\u219249%. Policy, not keep 2/3/4.",
+      "detail": "Brazil MP raising foreign airline ownership cap 20%→49%. Policy, not keep 2/3/4.",
       "locator": "https://oglobo.globo.com/economia/negocios/acoes-da-gol-disparam-apos-aumento-de-participacao-estrangeira-em-aereas-18786930"
     },
     {
@@ -3197,11 +4220,27 @@
       "symbol": "BRLI",
       "qdate": "2014-06-05",
       "close_return": 0.2226,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Record Q2 revenues/patient volumes. Earnings, not keep 2/3/4.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/792641/000110465914044132/a14-14872_1ex99d1.htm"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "June 5 issuer release reports Q2 revenues, volumes, margins and EPS. Retain earnings exclusion despite positive operating headline. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/792641/000110465914044132/a14-14872_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch04_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Record Q2 revenues/patient volumes. Earnings, not keep 2/3/4.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/792641/000110465914044132/a14-14872_1ex99d1.htm"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/792641/000110465914044132/a14-14872_1ex99d1.htm"
+        ]
+      }
     },
     {
       "symbol": "NBR",
@@ -3397,11 +4436,27 @@
       "symbol": "VISN",
       "qdate": "2014-07-28",
       "close_return": 0.2167,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Strategic partnership with Huawei for mass-transit WiFi. Partnership, not keep 2/3/4.",
-      "locator": "https://www.prnewswire.com/news-releases/visionchina-media-partners-with-huawei-to-expedite-national-mass-transit-wifi-network-expansion-268877081.html"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "Issuer-distributed release timestamped July 28 at 09:25 ET announces strategic Huawei cooperation to expand mass-transit WiFi, with phased network and infrastructure deployment. Class 6 partnership; do not confuse this row with later VISN sector rebounds or asset sales. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.prnewswire.com/news-releases/visionchina-media-partners-with-huawei-to-expedite-national-mass-transit-wifi-network-expansion-268877081.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Strategic partnership with Huawei for mass-transit WiFi. Partnership, not keep 2/3/4.",
+          "locator": "https://www.prnewswire.com/news-releases/visionchina-media-partners-with-huawei-to-expedite-national-mass-transit-wifi-network-expansion-268877081.html"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.prnewswire.com/news-releases/visionchina-media-partners-with-huawei-to-expedite-national-mass-transit-wifi-network-expansion-268877081.html"
+        ]
+      }
     },
     {
       "symbol": "CALA",
@@ -3910,7 +4965,7 @@
       "jump_cause": null,
       "cause_class": "unclassified_other",
       "news_filter": "drop_other_not_234",
-      "detail": "Analyst Day 2014\u201316 guidance raise. Guidance/earnings, not keep 2/3/4.",
+      "detail": "Analyst Day 2014–16 guidance raise. Guidance/earnings, not keep 2/3/4.",
       "locator": "https://www.prnewswire.com/news-releases/full-year-guidance-supply-agreements-upcoming-events-solar-powered-homes-and-arbitration-settlements---analyst-notes-on-first-solar-gt-canadian-solar-sunpower-and-trina-solar-252426021.html"
     },
     {
@@ -4310,7 +5365,7 @@
       "jump_cause": "ma_rumor",
       "cause_class": "2_ma_rumor_or_news",
       "news_filter": "keep",
-      "detail": "Buyout chatter that KKR could be interested in Harley-Davidson; ~18\u201320% same-day spike. Confirmed M&A-process rumor keep-2.",
+      "detail": "Buyout chatter that KKR could be interested in Harley-Davidson; ~18–20% same-day spike. Confirmed M&A-process rumor keep-2.",
       "locator": "https://www.foxbusiness.com/markets/harley-davidsons-stock-rockets-on-heavy-volume-amid-reports-of-buyout-interest"
     },
     {
@@ -4497,11 +5552,28 @@
       "symbol": "AKBA",
       "qdate": "2016-12-20",
       "close_return": 0.194,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Otsuka collaboration/license for vadadustat (Phase 3 funding partnership). Partnership/financing, not keep 2/3/4.",
-      "locator": "https://ir.akebia.com/news-releases/news-release-details/akebia-and-otsuka-pharmaceutical-announce-collaboration-develop"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "December 20 joint release announces US vadadustat collaboration and license, shared development costs and commercialization responsibility. Capital supports a defined development/operating collaboration rather than a stand-alone equity raise. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.otsuka.co.jp/en/company/newsreleases/2016/20161220_2.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Otsuka collaboration/license for vadadustat (Phase 3 funding partnership). Partnership/financing, not keep 2/3/4.",
+          "locator": "https://ir.akebia.com/news-releases/news-release-details/akebia-and-otsuka-pharmaceutical-announce-collaboration-develop"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.otsuka.co.jp/en/company/newsreleases/2016/20161220_2.html",
+          "https://ir.akebia.com/static-files/5603434d-2290-4533-829e-5cd283d90176"
+        ]
+      }
     },
     {
       "symbol": "ONE",
@@ -5377,11 +6449,28 @@
       "symbol": "HZNP",
       "qdate": "2015-03-30",
       "close_return": 0.182,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Horizon Pharma agreed to acquire Hyperion; Horizon is the acquirer/buyer. Acquirer-side M&A, not target keep-2.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1386858/000119312515112089/d899299d8k.htm"
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_news",
+      "news_filter": "keep",
+      "detail": "March 30 Hyperion filing documents Horizon acquisition terms. Contemporaneous market coverage links Horizon gains to the deal. Horizon is the buyer; apply the explicit class-2 acquirer exception in METHODOLOGY section 9, not a target-takeover label. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1386858/000119312515112089/d899299d8k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch04_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Horizon Pharma agreed to acquire Hyperion; Horizon is the acquirer/buyer. Acquirer-side M&A, not target keep-2.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1386858/000119312515112089/d899299d8k.htm"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1386858/000119312515112089/d899299d8k.htm",
+          "https://www.yahoo.com/news/irelands-horizon-buy-u-drugmaker-hyperion-1-1-105734739--finance.html"
+        ]
+      }
     },
     {
       "symbol": "MATR",
@@ -6427,11 +7516,27 @@
       "symbol": "ATRA",
       "qdate": "2015-06-15",
       "close_return": 0.1706,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Exercised MSK exclusive license to T-cell programs. Partnership/license, not keep 2/3/4.",
-      "locator": "https://investors.atarabio.com/news-events/press-releases/detail/27/atara-biotherapeutics-exercises-exclusive-license-to-t-cell"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "June 15 issuer release announces exercise of an existing MSK option for an exclusive license to clinical-stage allogeneic T-cell therapies. New license exercise is the category-6 event; no claim that the underlying option or technology was first disclosed that day. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://investors.atarabio.com/news-events/press-releases/detail/27/atara-biotherapeutics-exercises-exclusive-license-to-t-cell",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch03_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Exercised MSK exclusive license to T-cell programs. Partnership/license, not keep 2/3/4.",
+          "locator": "https://investors.atarabio.com/news-events/press-releases/detail/27/atara-biotherapeutics-exercises-exclusive-license-to-t-cell"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://investors.atarabio.com/news-events/press-releases/detail/27/atara-biotherapeutics-exercises-exclusive-license-to-t-cell"
+        ]
+      }
     },
     {
       "symbol": "SPWR",
@@ -6717,11 +7822,24 @@
       "symbol": "IMGN",
       "qdate": "2015-03-23",
       "close_return": 0.168,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Takeda ADC technology license ($20M upfront). Partnership/license, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2015/03/23/why-immunogen-inc-is-soaring-higher-today.aspx"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "March 23 US-dated joint release announces Takeda licenses to ADC technology for up to two targets, with $20 million upfront. Japan dateline is March 24. Agreement execution on March 20 is distinct from announcement; exact release time and earlier-public completeness remain unverified. Policy review only; training readiness is not certified.",
+      "locator": "https://www.takedaoncology.com/newsroom/news-releases/2015/immunogen-antibody-conjugate-license/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next3",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Takeda ADC technology license ($20M upfront). Partnership/license, not keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2015/03/23/why-immunogen-inc-is-soaring-higher-today.aspx"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "ICPT",
@@ -6797,11 +7915,24 @@
       "symbol": "MGNX",
       "qdate": "2016-05-18",
       "close_return": 0.1674,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Janssen collaboration/license for preclinical MGD015. Partnership, not keep 2/3/4.",
-      "locator": "https://ir.macrogenics.com/news-releases/news-release-details/macrogenics-enters-collaboration-and-license-agreement-janssen-0"
+      "jump_cause": "partnership_license",
+      "cause_class": "6_partnership_license",
+      "news_filter": "keep",
+      "detail": "May 18 issuer release announces global Janssen collaboration and license for preclinical MGD015, with $75 million upfront subject to closing conditions. June 28 closing is a separate event. Exact release time and earlier-public completeness remain unverified. Policy review only; training readiness is not certified.",
+      "locator": "https://ir.macrogenics.com/news-releases/news-release-details/macrogenics-enters-collaboration-and-license-agreement-janssen-0",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "expanded_policy_next3",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Janssen collaboration/license for preclinical MGD015. Partnership, not keep 2/3/4.",
+          "locator": "https://ir.macrogenics.com/news-releases/news-release-details/macrogenics-enters-collaboration-and-license-agreement-janssen-0"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "MBII",
@@ -6812,6 +7943,140 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep-2/3/4 PR for MBII. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/MBII?date=2014-05-27&view=daily"
+    }
+  ],
+  "policy_rebucket_checkpoint": {
+    "reviewed_on": "2026-11-12",
+    "batch": "autonomous_batch04_8",
+    "n_reviewed": 8,
+    "n_promoted_to_keep": 3,
+    "n_confirmed_drop": 1,
+    "n_timing_deferred": 3,
+    "cumulative_n_policy_reviewed": 76,
+    "review_counts": {
+      "keep": 198,
+      "drop_earnings": 20,
+      "drop_other_not_234": 444,
+      "drop_mechanical": 1,
+      "pending_news_review": 10,
+      "drop_macro_sector": 3,
+      "drop_analyst": 2,
+      "drop_financing": 2,
+      "drop_etf": 1
+    },
+    "derived_snapshots_refreshed": false,
+    "n_deferred": 4,
+    "n_category_deferred": 1
+  },
+  "policy_rebucket_history": [
+    {
+      "reviewed_on": "2026-11-12",
+      "batch": "expanded_policy_first8",
+      "n_reclassified": 8,
+      "review_counts": {
+        "keep": 169,
+        "drop_other_not_234": 512
+      },
+      "derived_snapshots_refreshed": false
+    },
+    {
+      "reviewed_on": "2026-11-12",
+      "batch": "expanded_policy_next15",
+      "n_reviewed": 15,
+      "n_promoted_to_keep": 9,
+      "n_confirmed_drop": 5,
+      "n_timing_deferred": 1,
+      "cumulative_n_policy_reviewed": 23,
+      "review_counts": {
+        "keep": 178,
+        "drop_other_not_234": 497,
+        "drop_mechanical": 1,
+        "pending_news_review": 1,
+        "drop_earnings": 4
+      },
+      "derived_snapshots_refreshed": false
+    },
+    {
+      "reviewed_on": "2026-11-12",
+      "batch": "expanded_policy_next3",
+      "n_reviewed": 3,
+      "n_promoted_to_keep": 3,
+      "n_confirmed_drop": 0,
+      "n_timing_deferred": 0,
+      "cumulative_n_policy_reviewed": 26,
+      "review_counts": {
+        "keep": 181,
+        "drop_other_not_234": 494,
+        "drop_mechanical": 1,
+        "pending_news_review": 1,
+        "drop_earnings": 4
+      },
+      "derived_snapshots_refreshed": false
+    },
+    {
+      "reviewed_on": "2026-11-12",
+      "batch": "autonomous_batch01_15",
+      "n_reviewed": 15,
+      "n_promoted_to_keep": 5,
+      "n_confirmed_drop": 7,
+      "n_timing_deferred": 3,
+      "cumulative_n_policy_reviewed": 41,
+      "review_counts": {
+        "keep": 186,
+        "drop_other_not_234": 479,
+        "drop_mechanical": 1,
+        "pending_news_review": 4,
+        "drop_earnings": 9,
+        "drop_analyst": 1,
+        "drop_financing": 1
+      },
+      "derived_snapshots_refreshed": false,
+      "n_deferred": 3,
+      "n_category_deferred": 0
+    },
+    {
+      "reviewed_on": "2026-11-12",
+      "batch": "autonomous_batch02_12",
+      "n_reviewed": 12,
+      "n_promoted_to_keep": 4,
+      "n_confirmed_drop": 8,
+      "n_timing_deferred": 0,
+      "cumulative_n_policy_reviewed": 53,
+      "review_counts": {
+        "keep": 190,
+        "drop_earnings": 16,
+        "drop_other_not_234": 467,
+        "drop_mechanical": 1,
+        "pending_news_review": 4,
+        "drop_analyst": 1,
+        "drop_financing": 2
+      },
+      "derived_snapshots_refreshed": false,
+      "n_deferred": 0,
+      "n_category_deferred": 0
+    },
+    {
+      "reviewed_on": "2026-11-12",
+      "batch": "autonomous_batch03_15",
+      "n_reviewed": 15,
+      "n_promoted_to_keep": 5,
+      "n_confirmed_drop": 8,
+      "n_timing_deferred": 1,
+      "cumulative_n_policy_reviewed": 68,
+      "review_counts": {
+        "keep": 195,
+        "drop_earnings": 19,
+        "drop_other_not_234": 452,
+        "drop_mechanical": 1,
+        "pending_news_review": 6,
+        "drop_macro_sector": 3,
+        "drop_analyst": 2,
+        "drop_financing": 2,
+        "drop_etf": 1
+      },
+      "derived_snapshots_refreshed": false,
+      "n_deferred": 2,
+      "n_category_deferred": 1
     }
   ]
 }
