@@ -1,0 +1,1621 @@
+{
+  "summary": {
+    "in_reach": {
+      "eligible": 3,
+      "hits": 3,
+      "placebo_hits": 1,
+      "clean": 2
+    },
+    "in_reach_rows": [
+      {
+        "id": "heinz_2013",
+        "symbol": "HNZ",
+        "hit": true,
+        "placebo_hit": false,
+        "alert_dates": [
+          "2013-02-13"
+        ]
+      },
+      {
+        "id": "bioverativ_2018",
+        "symbol": "BIVV",
+        "hit": true,
+        "placebo_hit": true,
+        "alert_dates": [
+          "2018-01-16",
+          "2018-01-17",
+          "2018-01-18",
+          "2018-01-19"
+        ]
+      },
+      {
+        "id": "kaman_2024",
+        "symbol": "KAMN",
+        "hit": true,
+        "placebo_hit": false,
+        "alert_dates": [
+          "2024-01-02",
+          "2024-01-11"
+        ]
+      }
+    ],
+    "peer": {
+      "hit": true,
+      "alert_dates": [
+        "2016-08-18"
+      ]
+    },
+    "listed": 7,
+    "listed_names": [
+      {
+        "symbol": "BLDR",
+        "event": "2015-04-13",
+        "alert_dates": [
+          "2015-03-27"
+        ]
+      },
+      {
+        "symbol": "WMS",
+        "event": "2013-01-31",
+        "alert_dates": [
+          "2013-01-11",
+          "2013-01-14",
+          "2013-01-18",
+          "2013-01-23",
+          "2013-01-24"
+        ]
+      },
+      {
+        "symbol": "ASPX",
+        "event": "2015-03-30",
+        "alert_dates": [
+          "2015-03-23",
+          "2015-03-24"
+        ]
+      },
+      {
+        "symbol": "STZ",
+        "event": "2013-02-14",
+        "alert_dates": [
+          "2013-01-28",
+          "2013-01-29",
+          "2013-01-30",
+          "2013-02-05",
+          "2013-02-07",
+          "2013-02-11",
+          "2013-02-12",
+          "2013-02-13"
+        ]
+      },
+      {
+        "symbol": "LIN",
+        "event": "2014-03-21",
+        "alert_dates": [
+          "2014-03-18"
+        ]
+      },
+      {
+        "symbol": "LSCC",
+        "event": "2016-11-03",
+        "alert_dates": [
+          "2016-10-13",
+          "2016-10-14",
+          "2016-10-21",
+          "2016-10-25",
+          "2016-10-28",
+          "2016-10-31",
+          "2016-11-01",
+          "2016-11-02"
+        ]
+      },
+      {
+        "symbol": "GTN",
+        "event": "2013-11-20",
+        "alert_dates": [
+          "2013-10-30",
+          "2013-11-05",
+          "2013-11-19"
+        ]
+      }
+    ]
+  },
+  "cases": [
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 1,
+      "alert_dates": [
+        "2013-02-13"
+      ],
+      "volume": 2593,
+      "contracts": 1,
+      "id": "heinz_2013",
+      "symbol": "HNZ",
+      "group": "in_reach",
+      "placebo_hit": false
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 1,
+      "alert_dates": [
+        "2015-03-23"
+      ],
+      "volume": 1256,
+      "contracts": 2,
+      "id": "kraft_2015",
+      "symbol": "KRFT",
+      "group": "out_of_reach",
+      "placebo_hit": false
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 1,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "id": "joy_2016",
+      "symbol": "JOY",
+      "group": "out_of_reach",
+      "placebo_hit": true
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 1,
+      "alert_dates": [
+        "2016-08-18"
+      ],
+      "volume": 353,
+      "contracts": 2,
+      "id": "incy_2016",
+      "symbol": "INCY",
+      "group": "peer",
+      "placebo_hit": true
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 5,
+      "alert_dates": [
+        "2018-01-16",
+        "2018-01-17",
+        "2018-01-18",
+        "2018-01-19"
+      ],
+      "volume": 1203,
+      "contracts": 2,
+      "id": "bioverativ_2018",
+      "symbol": "BIVV",
+      "group": "in_reach",
+      "placebo_hit": true
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 2,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "id": "audentes_2019",
+      "symbol": "BOLD",
+      "group": "unsized",
+      "placebo_hit": false
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 8,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "id": "lantheus_2022",
+      "symbol": "LNTH",
+      "group": "out_of_reach",
+      "placebo_hit": true
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 4,
+      "alert_dates": [
+        "2022-12-12",
+        "2022-12-15"
+      ],
+      "volume": 6270,
+      "contracts": 3,
+      "id": "maxar_2022",
+      "symbol": "MAXR",
+      "group": "out_of_reach",
+      "placebo_hit": true
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 18,
+      "alert_dates": [
+        "2024-01-02",
+        "2024-01-11"
+      ],
+      "volume": 482,
+      "contracts": 1,
+      "id": "kaman_2024",
+      "symbol": "KAMN",
+      "group": "in_reach",
+      "placebo_hit": false
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 1,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "id": "calliditas_2024",
+      "symbol": "CALT",
+      "group": "unsized",
+      "placebo_hit": false
+    }
+  ],
+  "candidates": [
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-03-27"
+      ],
+      "volume": 100,
+      "contracts": 1,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "BLDR",
+      "event": "2015-04-13"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-04-27",
+        "2016-04-29",
+        "2016-05-09"
+      ],
+      "volume": 358,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "ANAC",
+      "event": "2016-05-16"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": true,
+      "symbol": "CWH",
+      "event": "2013-02-26"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2013-05-14"
+      ],
+      "volume": 610,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": false,
+      "symbol": "ET",
+      "event": "2013-06-04"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "NEWP",
+      "event": "2016-02-23"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2013-01-11",
+        "2013-01-14",
+        "2013-01-18",
+        "2013-01-23",
+        "2013-01-24"
+      ],
+      "volume": 2386,
+      "contracts": 3,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "WMS",
+      "event": "2013-01-31"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2013-06-25",
+        "2013-06-26",
+        "2013-06-27",
+        "2013-06-28",
+        "2013-07-03",
+        "2013-07-05",
+        "2013-07-08",
+        "2013-07-09",
+        "2013-07-10",
+        "2013-07-11",
+        "2013-07-12"
+      ],
+      "volume": 9695,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "LEAP",
+      "event": "2013-07-15"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2014-05-27",
+        "2014-05-30",
+        "2014-06-11"
+      ],
+      "volume": 775,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "OPEN",
+      "event": "2014-06-13"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-01-28",
+        "2016-02-05",
+        "2016-02-08",
+        "2016-02-09"
+      ],
+      "volume": 3147,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": false,
+      "symbol": "ADT",
+      "event": "2016-02-16"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "MMYT",
+      "event": "2016-10-18"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-10-06",
+        "2015-10-08",
+        "2015-10-09",
+        "2015-10-14",
+        "2015-10-15",
+        "2015-10-23",
+        "2015-10-26"
+      ],
+      "volume": 12352,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "RAD",
+      "event": "2015-10-27"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-03-23",
+        "2015-03-24"
+      ],
+      "volume": 266,
+      "contracts": 1,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "ASPX",
+      "event": "2015-03-30"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2013-05-29",
+        "2013-05-30",
+        "2013-06-03"
+      ],
+      "volume": 888,
+      "contracts": 2,
+      "placebo_hit": false,
+      "earnings_hit": true,
+      "symbol": "CTB",
+      "event": "2013-06-12"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "WPP",
+      "event": "2015-10-13"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2013-12-10"
+      ],
+      "volume": 2000,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": false,
+      "symbol": "LSI",
+      "event": "2013-12-16"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2013-01-28",
+        "2013-01-29",
+        "2013-01-30",
+        "2013-02-05",
+        "2013-02-07",
+        "2013-02-11",
+        "2013-02-12",
+        "2013-02-13"
+      ],
+      "volume": 24426,
+      "contracts": 3,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "STZ",
+      "event": "2013-02-14"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2014-09-22",
+        "2014-09-23"
+      ],
+      "volume": 977,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "MOVE",
+      "event": "2014-09-30"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-01-04",
+        "2016-01-05",
+        "2016-01-21"
+      ],
+      "volume": 478,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "TEX",
+      "event": "2016-01-26"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "HCC",
+      "event": "2015-06-10"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "BOLT",
+      "event": "2014-09-04"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-03-18",
+        "2016-03-23",
+        "2016-03-29",
+        "2016-03-30",
+        "2016-03-31",
+        "2016-04-01"
+      ],
+      "volume": 4262,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "MOMO",
+      "event": "2016-04-06"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2013-05-22",
+        "2013-05-23",
+        "2013-05-24",
+        "2013-05-28",
+        "2013-05-30",
+        "2013-05-31",
+        "2013-06-05"
+      ],
+      "volume": 4455,
+      "contracts": 2,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "GCI",
+      "event": "2013-06-13"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "MEG",
+      "event": "2013-06-06"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2013-12-10",
+        "2013-12-12",
+        "2013-12-13"
+      ],
+      "volume": 7340,
+      "contracts": 3,
+      "placebo_hit": false,
+      "earnings_hit": true,
+      "symbol": "AER",
+      "event": "2013-12-16"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-02-13",
+        "2015-02-20",
+        "2015-02-24"
+      ],
+      "volume": 1273,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "LEAF",
+      "event": "2015-03-03"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "MRGE",
+      "event": "2015-08-06"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "FOE",
+      "event": "2013-03-04"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "ISLE",
+      "event": "2016-09-19"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "ENDP",
+      "event": "2013-11-05"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-03-09",
+        "2015-03-12",
+        "2015-03-13",
+        "2015-03-16",
+        "2015-03-19",
+        "2015-03-20",
+        "2015-03-23",
+        "2015-03-24",
+        "2015-03-26"
+      ],
+      "volume": 8468,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "ALTR",
+      "event": "2015-03-27"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "ACOR",
+      "event": "2014-09-24"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2014-01-30",
+        "2014-01-31",
+        "2014-02-03",
+        "2014-02-04",
+        "2014-02-06",
+        "2014-02-14"
+      ],
+      "volume": 9444,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "FRX",
+      "event": "2014-02-18"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-02-02",
+        "2016-02-08",
+        "2016-02-09"
+      ],
+      "volume": 530,
+      "contracts": 1,
+      "placebo_hit": false,
+      "earnings_hit": true,
+      "symbol": "ICPT",
+      "event": "2016-02-12"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-09-15",
+        "2015-09-21"
+      ],
+      "volume": 611,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": false,
+      "symbol": "SYNA",
+      "event": "2015-09-30"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-07-17"
+      ],
+      "volume": 843,
+      "contracts": 1,
+      "placebo_hit": false,
+      "earnings_hit": true,
+      "symbol": "CYT",
+      "event": "2015-07-29"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-12-30",
+        "2016-01-05",
+        "2016-01-07"
+      ],
+      "volume": 541,
+      "contracts": 2,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "SYNA",
+      "event": "2016-01-20"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "BKI",
+      "event": "2013-04-24"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-06-22"
+      ],
+      "volume": 105,
+      "contracts": 1,
+      "placebo_hit": false,
+      "earnings_hit": true,
+      "symbol": "CB",
+      "event": "2015-07-01"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "BZ",
+      "event": "2013-09-16"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-06-01",
+        "2015-06-02",
+        "2015-06-03",
+        "2015-06-04",
+        "2015-06-08",
+        "2015-06-09",
+        "2015-06-10",
+        "2015-06-11",
+        "2015-06-12",
+        "2015-06-15",
+        "2015-06-17",
+        "2015-06-19"
+      ],
+      "volume": 40345,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "WMB",
+      "event": "2015-06-22"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "NEO",
+      "event": "2015-10-21"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2013-12-20",
+        "2013-12-27",
+        "2013-12-30",
+        "2013-12-31",
+        "2014-01-09"
+      ],
+      "volume": 2706,
+      "contracts": 2,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "BEAM",
+      "event": "2014-01-13"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "CRTX",
+      "event": "2013-02-20"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-01-12",
+        "2016-01-26",
+        "2016-01-29"
+      ],
+      "volume": 1049,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "PACB",
+      "event": "2016-02-02"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "CPSI",
+      "event": "2015-11-25"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-05-25"
+      ],
+      "volume": 270,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "TA",
+      "event": "2016-06-15"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": true,
+      "earnings_hit": false,
+      "symbol": "ANDE",
+      "event": "2016-05-18"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-08-17",
+        "2016-08-22",
+        "2016-08-23",
+        "2016-08-25",
+        "2016-08-26",
+        "2016-08-31"
+      ],
+      "volume": 2288,
+      "contracts": 2,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "GWPH",
+      "event": "2016-09-07"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-03-10",
+        "2016-03-11",
+        "2016-03-14"
+      ],
+      "volume": 1178,
+      "contracts": 2,
+      "placebo_hit": true,
+      "earnings_hit": false,
+      "symbol": "VAL",
+      "event": "2016-03-21"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "BRP",
+      "event": "2014-10-23"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-04-16",
+        "2015-04-17",
+        "2015-04-20",
+        "2015-04-24",
+        "2015-04-27",
+        "2015-04-28",
+        "2015-04-29",
+        "2015-05-04",
+        "2015-05-06"
+      ],
+      "volume": 7709,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "YELP",
+      "event": "2015-05-07"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "ALC",
+      "event": "2013-02-26"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "BCPC",
+      "event": "2014-04-01"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-07-29",
+        "2015-08-03",
+        "2015-08-10"
+      ],
+      "volume": 1623,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "TEX",
+      "event": "2015-08-11"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2014-08-18",
+        "2014-08-21"
+      ],
+      "volume": 689,
+      "contracts": 2,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "CRTO",
+      "event": "2014-08-29"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2014-03-18"
+      ],
+      "volume": 230,
+      "contracts": 1,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "LIN",
+      "event": "2014-03-21"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-09-16",
+        "2015-09-18",
+        "2015-09-22",
+        "2015-09-23",
+        "2015-09-24"
+      ],
+      "volume": 9922,
+      "contracts": 2,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "MEG",
+      "event": "2015-09-28"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2013-05-24",
+        "2013-05-30"
+      ],
+      "volume": 365,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "DOLE",
+      "event": "2013-06-11"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": true,
+      "earnings_hit": false,
+      "symbol": "ICAD",
+      "event": "2014-07-16"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-01-14",
+        "2015-01-15",
+        "2015-01-23",
+        "2015-01-30",
+        "2015-02-02"
+      ],
+      "volume": 20337,
+      "contracts": 2,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "ODP",
+      "event": "2015-02-03"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-09-06"
+      ],
+      "volume": 1912,
+      "contracts": 2,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "TWTR",
+      "event": "2016-09-23"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "MGI",
+      "event": "2015-05-06"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-09-06",
+        "2016-09-08",
+        "2016-09-09",
+        "2016-09-16",
+        "2016-09-19",
+        "2016-09-21",
+        "2016-09-22"
+      ],
+      "volume": 2149,
+      "contracts": 2,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "IMPV",
+      "event": "2016-09-23"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2014-06-18"
+      ],
+      "volume": 112,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "TRGP",
+      "event": "2014-06-19"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-05-13",
+        "2015-05-15",
+        "2015-05-18",
+        "2015-05-19",
+        "2015-05-20",
+        "2015-05-22",
+        "2015-05-27",
+        "2015-05-28"
+      ],
+      "volume": 2615,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "HUM",
+      "event": "2015-05-29"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-05-18"
+      ],
+      "volume": 470,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "BRLI",
+      "event": "2015-06-04"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-06-20",
+        "2016-06-21",
+        "2016-06-22",
+        "2016-06-28"
+      ],
+      "volume": 1990,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "HOG",
+      "event": "2016-07-01"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-12-22",
+        "2016-01-08",
+        "2016-01-11"
+      ],
+      "volume": 456,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "CYBR",
+      "event": "2016-01-13"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": true,
+      "symbol": "PLL",
+      "event": "2015-05-12"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": true,
+      "symbol": "COTY",
+      "event": "2015-06-16"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": true,
+      "symbol": "BRY",
+      "event": "2013-02-21"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2014-05-27",
+        "2014-05-28",
+        "2014-05-30",
+        "2014-06-04",
+        "2014-06-06",
+        "2014-06-09",
+        "2014-06-11"
+      ],
+      "volume": 2821,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "WMB",
+      "event": "2014-06-16"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-10-13",
+        "2016-10-14",
+        "2016-10-21",
+        "2016-10-25",
+        "2016-10-28",
+        "2016-10-31",
+        "2016-11-01",
+        "2016-11-02"
+      ],
+      "volume": 4046,
+      "contracts": 1,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "LSCC",
+      "event": "2016-11-03"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": true,
+      "earnings_hit": false,
+      "symbol": "LSCC",
+      "event": "2016-04-13"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-03-24",
+        "2015-04-06"
+      ],
+      "volume": 2667,
+      "contracts": 2,
+      "placebo_hit": false,
+      "earnings_hit": true,
+      "symbol": "PRGO",
+      "event": "2015-04-08"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-03-10",
+        "2015-03-13",
+        "2015-03-19",
+        "2015-03-23",
+        "2015-03-27"
+      ],
+      "volume": 9462,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "HZNP",
+      "event": "2015-03-30"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2014-02-12",
+        "2014-02-14"
+      ],
+      "volume": 4010,
+      "contracts": 2,
+      "placebo_hit": false,
+      "earnings_hit": true,
+      "symbol": "SIG",
+      "event": "2014-02-19"
+    },
+    {
+      "eligible": true,
+      "hit": false,
+      "days": 15,
+      "alert_dates": [],
+      "volume": 0,
+      "contracts": 0,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "PBH",
+      "event": "2014-04-25"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2013-12-16",
+        "2013-12-17",
+        "2013-12-18",
+        "2013-12-19",
+        "2013-12-20",
+        "2013-12-24",
+        "2013-12-30",
+        "2014-01-07"
+      ],
+      "volume": 4309,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "FRX",
+      "event": "2014-01-08"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-02-18",
+        "2015-02-23",
+        "2015-02-25",
+        "2015-02-26",
+        "2015-02-27",
+        "2015-03-04",
+        "2015-03-05",
+        "2015-03-06"
+      ],
+      "volume": 5445,
+      "contracts": 2,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "ACAD",
+      "event": "2015-03-10"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2014-05-27",
+        "2014-05-29",
+        "2014-06-03",
+        "2014-06-05",
+        "2014-06-06",
+        "2014-06-09",
+        "2014-06-10",
+        "2014-06-11",
+        "2014-06-13",
+        "2014-06-16"
+      ],
+      "volume": 13650,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "SCTY",
+      "event": "2014-06-17"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-02-06",
+        "2015-02-09",
+        "2015-02-10",
+        "2015-02-11",
+        "2015-02-12",
+        "2015-02-18",
+        "2015-02-23",
+        "2015-02-24",
+        "2015-02-25",
+        "2015-02-26",
+        "2015-02-27"
+      ],
+      "volume": 3477,
+      "contracts": 2,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "NXPI",
+      "event": "2015-03-02"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2013-10-30",
+        "2013-11-05",
+        "2013-11-19"
+      ],
+      "volume": 1232,
+      "contracts": 1,
+      "placebo_hit": false,
+      "earnings_hit": false,
+      "symbol": "GTN",
+      "event": "2013-11-20"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-09-08",
+        "2016-09-09",
+        "2016-09-12",
+        "2016-09-13",
+        "2016-09-14",
+        "2016-09-15",
+        "2016-09-16",
+        "2016-09-19",
+        "2016-09-20",
+        "2016-09-21",
+        "2016-09-22",
+        "2016-09-23",
+        "2016-09-26",
+        "2016-09-27",
+        "2016-09-28"
+      ],
+      "volume": 12621,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "NXPI",
+      "event": "2016-09-29"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2015-12-02"
+      ],
+      "volume": 144,
+      "contracts": 1,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "ICPT",
+      "event": "2015-12-15"
+    },
+    {
+      "eligible": true,
+      "hit": true,
+      "days": 15,
+      "alert_dates": [
+        "2016-06-09",
+        "2016-06-10",
+        "2016-06-14",
+        "2016-06-17",
+        "2016-06-21",
+        "2016-06-22",
+        "2016-06-24",
+        "2016-06-28"
+      ],
+      "volume": 23255,
+      "contracts": 3,
+      "placebo_hit": true,
+      "earnings_hit": true,
+      "symbol": "HSY",
+      "event": "2016-06-30"
+    }
+  ]
+}
