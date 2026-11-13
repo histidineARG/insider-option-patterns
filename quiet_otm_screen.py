@@ -97,6 +97,7 @@ def _screen_symbol(symbol, sessions, index, splits, earn_dates, case_ranges):
     counts = {'otm': {}, 'delta': {}}
     candidates = []
     cases = []
+    quiet_days = []
     for pos, row in enumerate(otm_rows):
         found = evaluate_index(otm_rows, pos)
         if found is None or not found['tradable']:
@@ -115,6 +116,7 @@ def _screen_symbol(symbol, sessions, index, splits, earn_dates, case_ranges):
             if found['quiet_5']:
                 quiet = counts.setdefault('quiet_otm', {}).setdefault(found['day'], _empty_counts())
                 _add_universe(quiet, jumps)
+                quiet_days.append(found['day'])
         delta = evaluate_index(delta_rows, pos)
         if delta is not None:
             delta_loud = apply_floors(delta, [item['call'] for item in delta_rows[pos - 4:pos + 1]], delta['mean_call'])
@@ -139,7 +141,7 @@ def _screen_symbol(symbol, sessions, index, splits, earn_dates, case_ranges):
                     r10=found['r10'], spike_days=found['spike_days'], consecutive=found['consecutive'],
                     mean_call=found['mean_call'],
                 ))
-    return dict(counts=counts, candidates=candidates, cases=cases)
+    return dict(counts=counts, candidates=candidates, cases=cases, quiet_days=quiet_days)
 
 
 def _place(heaps, row):
