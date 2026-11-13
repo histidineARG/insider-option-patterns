@@ -1,0 +1,126 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch43_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 0,
+  "n_deferred": 5,
+  "n_timing_deferred": 4,
+  "n_category_deferred": 1,
+  "cumulative_n_policy_reviewed": 336,
+  "review_counts": {
+    "keep": 233,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 116,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 184,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 233,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 111,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 189,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "AMSC",
+      "qdate": "2015-04-21",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted session searches did not establish attributable April 21 contract or technical event. Recovered Inox strategic supply agreements are December 17 and preliminary results April 23; neither can be backdated to this jump.",
+      "sources": [
+        "https://ir.amsc.com/news-releases/news-release-details/amsc-announces-210m-strategic-agreements-inox-wind-limited/",
+        "https://www.sec.gov/Archives/edgar/data/880807/000119312515144123/d914569d8k.htm"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "PXLW",
+      "qdate": "2015-06-03",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "ASUS ZenPad introduction occurred early June, but recovered issuer design-win announcement is June 25. Primary quarterly release confirms selection retrospectively. No contemporaneous evidence recovered connecting June 3 jump to first-public Pixelworks inclusion; do not backdate later confirmation.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1040161/000104016115000029/pxlw_q2x15xearningsrelease.htm",
+        "https://www.digitimes.com/news/a20150625PR203.html?chid=9",
+        "https://www.gadgets360.com/tablets/news/asus-launches-zenpad-range-of-tablets-at-computex-2015-698539"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "RNWK",
+      "qdate": "2015-06-05",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Issuer 2015 archive dates RealTimes launch May 19 and games-business sale July 24. Targeted June 5 searches did not establish attributable launch, sale or partnership. Nearby announcements cannot establish session cause.",
+      "sources": [
+        "https://realnetworks.com/press/releases/2015",
+        "https://www.geekwire.com/2015/realnetworks-selling-portion-of-games-business-for-18m-60-employees-moving-to-gaming-realms/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ENPH",
+      "qdate": "2014-07-21",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "July 21 issuer release only schedules August 5 results conference call. No attributable session catalyst recovered; future results announcement is not an earnings release or new product evidence.",
+      "sources": [
+        "https://www.globenewswire.com/news-release/2014/07/21/652169/20176/en/enphase-energy-announces-conference-call-to-review-second-quarter-2014-financial-results-tuesday-august-5-2014-at-4-30-p-m-eastern-time.html"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SEDG",
+      "qdate": "2015-12-16",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Contemporaneous report describes solar tax-credit-extension rally and names SolarEdge as beneficiary, but recovered text gives other issuers price moves rather than direct SolarEdge jump attribution. Sector explanation is plausible; retain pending until row-specific attribution is established.",
+      "sources": [
+        "https://www.thestreet.com/investing/solar-stocks-rally-after-tax-deal-struck-13399735"
+      ],
+      "defer_reason": "category"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

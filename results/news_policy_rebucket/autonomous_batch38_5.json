@@ -1,0 +1,125 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch38_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 3,
+  "n_confirmed_drop": 0,
+  "n_deferred": 2,
+  "n_timing_deferred": 2,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 311,
+  "review_counts": {
+    "keep": 230,
+    "drop_earnings": 78,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 98,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 209,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 227,
+    "drop_earnings": 78,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 96,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 214,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "ANGI",
+      "qdate": "2014-10-01",
+      "decision": "keep",
+      "cause_class": "11_activist_alt",
+      "jump_cause": "activist_alt",
+      "news_filter": "keep",
+      "rationale": "Contemporaneous reporting attributes October 1 premarket rally to Financial Times report that company hired bankers to explore strategic options including sale. Record as reported sale process, not a definitive transaction or confirmed named bidder.",
+      "sources": [
+        "https://www.ibj.com/articles/49767-update-angie-s-suitors-could-include-amazon-yelp-iac",
+        "https://finance.yahoo.com/news/report-says-angies-list-might-100336576.html"
+      ]
+    },
+    {
+      "symbol": "MRCY",
+      "qdate": "2014-03-18",
+      "decision": "keep",
+      "cause_class": "11_activist_alt",
+      "jump_cause": "activist_alt",
+      "news_filter": "keep",
+      "rationale": "Same-session 15:36 ET report attributes Mercury rally to reported sale process and acceptance of bids. Later account corroborates March 18 reporting; April Boeing interest is separate and is not backdated. Class 11 applies to reported strategic process.",
+      "sources": [
+        "https://247wallst.com/military/2014/03/18/what-mercury-systems-can-fetch-in-a-buyout/",
+        "https://www.benzinga.com/news/14/04/4447624/report-boeing-considers-purchase-of-mercury-systems"
+      ]
+    },
+    {
+      "symbol": "GTN",
+      "qdate": "2013-11-20",
+      "decision": "keep",
+      "cause_class": "2_ma_news",
+      "jump_cause": "ma_news",
+      "news_filter": "keep",
+      "rationale": "Primary November 20 release confirms station acquisitions. Same-morning account attributes Gray rally to transaction. Apply reviewed acquirer exception.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/43196/000119312513447943/d629488dex991.htm",
+        "https://www.yahoo.com/news/gray-television-buys-tv-stations-155901883.html"
+      ]
+    },
+    {
+      "symbol": "HSII",
+      "qdate": "2013-06-03",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Primary SEC complaint retrospectively dates media report of acquisition approaches to June 3; industry coverage confirms sale discussions. Issuer archive has inconsistent listing date versus release dateline. Eligible rumor or alternatives candidate exists, but direct same-session price attribution and original publication time remain unresolved.",
+      "sources": [
+        "https://www.sec.gov/litigation/complaints/2019/comp24650.pdf",
+        "https://huntscanlon.com/heidrick-struggles-sale-rumors-confirmed/",
+        "https://heidrick.mediaroom.com/press-releases?category=772&l=25&o=125"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ICON",
+      "qdate": "2016-03-07",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Recovered March 7 issuer release establishes Fortress term loan to repay convertible notes, rather than commercial partnership or legal resolution. Exact release time and direct session price attribution remain unverified. Financing is an exclusion candidate, but leave pending until attributable cause is established.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/857737/000119312516496466/d157680dex991.htm",
+        "https://www.prnewswire.com/news-releases/iconix-brand-group-announces-300-million-term-loan-300231480.html"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

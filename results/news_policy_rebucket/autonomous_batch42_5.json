@@ -1,0 +1,126 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch42_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 1,
+  "n_confirmed_drop": 1,
+  "n_deferred": 3,
+  "n_timing_deferred": 3,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 331,
+  "review_counts": {
+    "keep": 233,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 111,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 189,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 232,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 108,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 194,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "AGIO",
+      "qdate": "2014-09-26",
+      "decision": "drop",
+      "cause_class": "trial_anticipation",
+      "jump_cause": "trial_anticipation",
+      "news_filter": "drop_trial_anticipation",
+      "rationale": "Session coverage attributes jump to earlier-than-expected November presentation scheduling. This announces future Phase 1 data, not a new successful readout; actual results were released November 18.",
+      "sources": [
+        "https://finance.yahoo.com/news/agios-present-data-ag-120-203003265.html",
+        "https://www.prnewswire.com/news-releases/earnings-release-schedules-data-presentation-regulatory-approvals-and-strategic-collaboration---research-reports-on-covidien-biogen-amgen-agios-and-baxter-277731461.html",
+        "https://investor.agios.com/news-releases/news-release-details/agios-pharmaceuticals-announces-early-phase-1-data-showing"
+      ]
+    },
+    {
+      "symbol": "ALNY",
+      "qdate": "2014-10-13",
+      "decision": "keep",
+      "cause_class": "3_biotech_trial",
+      "jump_cause": "clinical",
+      "news_filter": "keep",
+      "rationale": "Issuer October 13 release reports six-month patisiran Phase 2 extension clinical data. Same-day coverage directly attributes surge to favorable readout. Class 3 applies.",
+      "sources": [
+        "https://www.biospace.com/alnylam-pharmaceuticals-reports-six-month-clinical-data-from-patisiran-phase-2-open-label-extension-ole-study-in-patients-with-familial-amyloidotic",
+        "https://www.fool.com/investing/general/2014/10/13/why-alnylam-pharmaceuticals-surged-higher.aspx",
+        "https://www.sec.gov/Archives/edgar/data/1447028/000117184315004476/gfpf10q_080515.htm"
+      ]
+    },
+    {
+      "symbol": "ZGNX",
+      "qdate": "2016-03-14",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Recovered results release is March 10 with after-close call, followed by intervening March 11 trading. Targeted searches did not establish March 14 attributable event. Do not automatically shift earnings or earlier fast-track news to Monday.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1375151/000137515116000018/a12-31x15exhibit991.htm",
+        "https://www.sec.gov/Archives/edgar/data/1375151/000119312516431710/d116317d8k.htm"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "EPZM",
+      "qdate": "2015-11-02",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "November 2 release schedules November 9 results; it contains no quarterly results or clinical readout. Targeted session searches did not establish jump catalyst. Future earnings cannot be treated as same-session earnings.",
+      "sources": [
+        "https://www.streetinsider.com/Press%2BReleases/Epizyme%2Bto%2BReport%2BThird%2BQuarter%2B2015%2BFinancial%2BResults%2Band%2BProvide%2BCorporate%2BUpdate%2Bon%2BNovember%2B9%2C%2B2015/11022766.html",
+        "https://www.sec.gov/Archives/edgar/data/1571498/000119312515370959/d10953d8k.htm"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ARWR",
+      "qdate": "2014-02-07",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Recovered February 7 filing reports routine annual-meeting approvals from February 6. It establishes no material therapeutic news or attributable price catalyst; targeted searches did not resolve session cause.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/879407/000119312514039737/d670478d8k.htm"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

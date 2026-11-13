@@ -1,0 +1,123 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch39_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 1,
+  "n_confirmed_drop": 3,
+  "n_deferred": 1,
+  "n_timing_deferred": 0,
+  "n_category_deferred": 1,
+  "cumulative_n_policy_reviewed": 316,
+  "review_counts": {
+    "keep": 231,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 99,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 204,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 230,
+    "drop_earnings": 78,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 98,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 209,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "PERI",
+      "qdate": "2013-01-08",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "Primary January 8 release reports preliminary completed fourth-quarter and full-year 2012 revenue alongside 2013 outlook. Completed-period results give earnings precedence over guidance class 8; not standalone forward guidance.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1338940/000117891313000066/exhibit_1.htm",
+        "https://haydenir.com/case-studies/perion/"
+      ]
+    },
+    {
+      "symbol": "FF",
+      "qdate": "2014-03-18",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "Primary March 17 release reports quarterly and annual results, followed by March 18 09:00 ET call. Contemporaneous after-hours account attributes rally to results. Bundled dividends remain earnings context.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1337298/000143774914004356/ex99-1.htm",
+        "https://www.rttnews.com/2287406/futurefuel-stock-jumps-on-strong-q4-results-update.aspx"
+      ]
+    },
+    {
+      "symbol": "BV",
+      "qdate": "2014-03-05",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "Historical BV is Bazaarvoice, not Brightcove (BCOV); old detail misidentifies issuer. Primary March 4 release reports Q3 results, and 16:31 ET market account confirms after-close availability. Classify next-session earnings reaction.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1330421/000119312514082274/d687160dex991.htm",
+        "https://cdn1.benzinga.com/news/earnings/14/03/4364515/bazaarvoice-rises-slightly-after-q3-earnings-beat"
+      ]
+    },
+    {
+      "symbol": "ATHN",
+      "qdate": "2013-07-12",
+      "decision": "keep",
+      "cause_class": "5_commercial_contract",
+      "jump_cause": "commercial_contract",
+      "news_filter": "keep",
+      "rationale": "Primary July 12 filing discloses Ascension services agreement for over 4,000 providers, signed June 30. Industry reporting explicitly attributes Friday July 12 rally to Ascension contract. Class 5 applies; signing date is not inferred first-public date and July 18 earnings are later.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1131096/000113109613000061/ascension8k.htm",
+        "https://histalk2.com/2013/07/14/morning-headlines-71513/"
+      ]
+    },
+    {
+      "symbol": "NOAH",
+      "qdate": "2013-05-13",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Issuer May 14 statement specifically acknowledges unusual May 13 trading but declines comment; it does not establish absence of news. Primary financial results were May 6, one week earlier. No supported May 13 cause recovered; leave pending for attribution.",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/noah-holdings-limited-states-that-its-policy-is-not-to-comment-on-unusual-market-activity-or-rumors-207343361.html",
+        "https://ir.noahgroup.com/news-releases/news-release-details/noah-holdings-limited-announces-unaudited-financial-results-2/"
+      ],
+      "defer_reason": "category"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

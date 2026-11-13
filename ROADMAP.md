@@ -312,3 +312,63 @@ Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
 - Reviewed 5 legacy rows: {'drop': 3, 'defer': 2}.
 - Current ledger: {'keep': 227, 'drop_earnings': 78, 'drop_peer_sympathy': 10, 'pending_news_review': 96, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 21, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 214, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 1, 'drop_short_covering_media': 1, 'drop_etf': 2}. Cumulative expanded-policy reviews: 306.
 - Audit: `results/news_policy_rebucket/autonomous_batch37_5.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch38_5
+
+- Reviewed 5 legacy rows: {'keep': 3, 'defer': 2}.
+- Current ledger: {'keep': 230, 'drop_earnings': 78, 'drop_peer_sympathy': 10, 'pending_news_review': 98, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 21, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 209, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 1, 'drop_short_covering_media': 1, 'drop_etf': 2}. Cumulative expanded-policy reviews: 311.
+- Audit: `results/news_policy_rebucket/autonomous_batch38_5.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch39_5
+
+- Reviewed 5 legacy rows: {'drop': 3, 'keep': 1, 'defer': 1}.
+- Current ledger: {'keep': 231, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 99, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 21, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 204, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 1, 'drop_short_covering_media': 1, 'drop_etf': 2}. Cumulative expanded-policy reviews: 316.
+- Audit: `results/news_policy_rebucket/autonomous_batch39_5.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch40_5
+
+- Reviewed 5 legacy rows: {'defer': 5}.
+- Current ledger: {'keep': 231, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 104, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 21, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 199, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 1, 'drop_short_covering_media': 1, 'drop_etf': 2}. Cumulative expanded-policy reviews: 321.
+- Audit: `results/news_policy_rebucket/autonomous_batch40_5.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch41_5
+
+- Reviewed 5 legacy rows: {'keep': 1, 'defer': 4}.
+- Current ledger: {'keep': 232, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 108, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 21, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 194, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 1, 'drop_short_covering_media': 1, 'drop_etf': 2}. Cumulative expanded-policy reviews: 326.
+- Audit: `results/news_policy_rebucket/autonomous_batch41_5.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch42_5
+
+- Reviewed 5 legacy rows: {'drop': 1, 'keep': 1, 'defer': 3}.
+- Current ledger: {'keep': 233, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 111, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 21, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 189, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 2, 'drop_short_covering_media': 1, 'drop_etf': 2}. Cumulative expanded-policy reviews: 331.
+- Audit: `results/news_policy_rebucket/autonomous_batch42_5.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch43_5
+
+- Reviewed 5 legacy rows: {'defer': 5}.
+- Current ledger: {'keep': 233, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 116, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 21, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 184, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 2, 'drop_short_covering_media': 1, 'drop_etf': 2}. Cumulative expanded-policy reviews: 336.
+- Audit: `results/news_policy_rebucket/autonomous_batch43_5.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch44_5
+
+- Reviewed 5 legacy rows: {'drop': 1, 'defer': 4}.
+- Current ledger: {'keep': 233, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 120, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 22, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 179, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 2, 'drop_short_covering_media': 1, 'drop_etf': 2}. Cumulative expanded-policy reviews: 341.
+- Audit: `results/news_policy_rebucket/autonomous_batch44_5.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch45_5
+
+- Reviewed 5 legacy rows: {'keep': 1, 'defer': 4}.
+- Current ledger: {'keep': 234, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 124, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 22, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 174, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 2, 'drop_short_covering_media': 1, 'drop_etf': 2}. Cumulative expanded-policy reviews: 346.
+- Audit: `results/news_policy_rebucket/autonomous_batch45_5.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch46_5
+
+- Reviewed 5 legacy rows: {'defer': 5}.
+- Current ledger: {'keep': 234, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 129, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 22, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 169, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 2, 'drop_short_covering_media': 1, 'drop_etf': 2}. Cumulative expanded-policy reviews: 351.
+- Audit: `results/news_policy_rebucket/autonomous_batch46_5.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-13 autonomous_batch47_5
+
+- Reviewed 5 legacy rows: {'defer': 5}.
+- Current ledger: {'keep': 234, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 134, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 22, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 164, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 2, 'drop_short_covering_media': 1, 'drop_etf': 2}. Cumulative expanded-policy reviews: 356.
+- Audit: `results/news_policy_rebucket/autonomous_batch47_5.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.

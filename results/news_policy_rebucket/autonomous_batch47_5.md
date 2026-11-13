@@ -1,0 +1,15 @@
+# autonomous_batch47_5
+
+Reviewed 2026-11-13. {'defer': 5}
+
+- **ICPT 2014-02-07 — defer / unclassified**: Original note calls this continuation of January FLINT rally. Targeted session searches recovered no February 7 trial result, offer or company announcement; continued reaction cannot be assigned to a new catalyst without date-specific evidence. [Source 1](https://exa.ai/library/markets/stock/ICPT?date=2014-02-07&view=daily)
+- **ICPT 2014-04-22 — defer / unclassified**: Targeted searches recovered no April 22 issuer disclosure or contemporaneous attributable price report. January FLINT data and April 10 price commentary precede this session and do not establish its cause. [Source 1](https://www.prnewswire.com/news-releases/legal-updates-stock-price-movements-new-awareness-campaigns-and-senior-level-appointments---analyst-notes-on-mylan-wellpoint-forest-novatis-and-intercept-255299591.html) [Source 2](https://exa.ai/library/markets/stock/ICPT?date=2014-04-22&view=daily)
+- **SGMO 2015-09-10 — defer / unclassified**: Contemporaneous market note says SGMO was breaking out but does not identify company news; source emphasizes high short interest and options activity. No eligible new clinical, technology or business announcement recovered. Short-covering/media explanation is suggestive, not definitive, so leave pending. [Source 1](https://www.schaeffersresearch.com/content/analysis/2015/09/10/healthcare-stocks-put-skeptics-on-notice) [Source 2](https://www.siliconinvestor.com/subject.aspx?fmt=intro&subjectid=34134)
+- **CALA 2015-07-17 — defer / unclassified**: Targeted searches recovered no attributable July 17 clinical or company announcement. Available contemporaneous market chatter does not establish an eligible catalyst; the original no-PR assessment remains unresolved. [Source 1](https://exa.ai/library/markets/stock/CALA?date=2015-07-17&view=daily) [Source 2](https://www.investorshub.advfn.com/Big-Boards-scans-charts-and-news-23126?nextStart=53086)
+- **ACHN 2014-06-16 — defer / unclassified**: Contemporaneous midday market report directly attributes Achillion’s rally to Maxim raising its target to $22 from $6. Analyst-only catalyst is excluded under policy; classification is confirmed. [Source 1](https://www.benzinga.com/intraday-update/14/06/4636077/mid-day-market-movers-for-monday-june-16-2014) [Source 2](https://www.exa.ai/library/markets/stock/ACHN?date=2014-06-16&view=daily)
+
+Current ledger: {'keep': 234, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 134, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 22, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 164, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 2, 'drop_short_covering_media': 1, 'drop_etf': 2}.
+
+No database-derived snapshot or saved news queue refreshed.
+Existing price attribution retained unless a conflict is explicitly deferred.
+No exhaustive earlier-public search; no training or evaluation gates unlocked.
