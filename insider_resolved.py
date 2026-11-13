@@ -5,24 +5,30 @@ Heinz, Bioverativ, and Kaman. Kraft, Joy, Lantheus, and Maxar are too small and
 are not counted as misses. Incyte is a peer trade and is reported on its own.
 Class-2 jumps are unlabeled. The 15% announcement gap stays the event marker.
 """
+import calendar
 import json
 import os
+import statistics
 from datetime import date, timedelta
 from pathlib import Path
 
 from insider_footprint import choose_earnings, connect, earnings_dates, load_keeps, load_sessions
 
 WINDOW = 15
+BASELINE = 40
 PLACEBO_SHIFT = 60
-DTE_LO = 20
 DTE_HI = 130
 OTM_LO = 0.03
 OTM_HI = 0.40
 DELTA_LO = 0.05
 DELTA_HI = 0.50
 MIN_VOLUME = 100
+OWN_MULTIPLE = 3.0
+MIN_BASELINE = 10
 MAX_CONTRACTS = 3
 STOCK_MOVE = 0.15
+# February 2015 is the first standard monthly expiration on a Friday.
+FRIDAY_MONTHLY_FROM = date(2015, 2, 1)
 
 IN_REACH = {'heinz_2013', 'bioverativ_2018', 'kaman_2024'}
 OUT_OF_REACH = {'kraft_2015', 'joy_2016', 'lantheus_2022', 'maxar_2022'}
@@ -49,6 +55,32 @@ WHERE symbol = %s AND qdate BETWEEN %s AND %s
 '''
 
 
+def third_friday(year: int, month: int) -> date:
+    fridays = [day for day in calendar.Calendar().itermonthdates(year, month)
+               if day.month == month and day.weekday() == 4]
+    return fridays[2]
+
+
+def expiry_class(edate: date) -> str:
+    """Monthly, weekly, or other. Monthlies are Saturdays before February 2015."""
+    if edate < FRIDAY_MONTHLY_FROM:
+        monthly = third_friday(edate.year, edate.month) + timedelta(days=1)
+    else:
+        monthly = third_friday(edate.year, edate.month)
+    if edate == monthly:
+        return 'monthly'
+    if edate.weekday() == 4:
+        return 'weekly'
+    return 'other'
+
+
+def own_threshold(peaks) -> float | None:
+    """Three times this stock's own median loudest single-contract day, at least 100."""
+    if len(peaks) < MIN_BASELINE:
+        return None
+    return max(float(MIN_VOLUME), OWN_MULTIPLE * float(statistics.median(peaks)))
+
+
 def in_sleeve(row) -> bool:
     spot = float(row['underlying_last'] or 0)
     if spot <= 0:
@@ -58,7 +90,9 @@ def in_sleeve(row) -> bool:
     if bid <= 0 or ask < bid:
         return False
     dte = (row['edate'] - row['qdate']).days
-    if not DTE_LO <= dte <= DTE_HI:
+    if not 1 <= dte <= DTE_HI:
+        return False
+    if row['qdate'] >= row['edate']:
         return False
     otm = float(row['strike']) / spot - 1
     delta = row.get('delta')
@@ -97,12 +131,29 @@ def is_large(volume, open_interest, next_open_interest) -> bool:
     return increase >= 100 and increase >= 0.5 * volume
 
 
-def score_day(rows, next_rows, stock_return) -> dict:
+def class_peak(rows, klass: str) -> int:
+    """Largest single-strike volume that day in one expiry class. Expiries are not added."""
+    peak = 0
+    for row in rows:
+        if expiry_class(row['edate']) != klass:
+            continue
+        dte = (row['edate'] - row['qdate']).days
+        if 1 <= dte <= DTE_HI:
+            peak = max(peak, int(row['volume'] or 0))
+    return peak
+
+
+def score_day(rows, next_rows, stock_return, thresholds, event) -> dict:
     if stock_return is not None and abs(stock_return) >= STOCK_MOVE:
         return dict(hit=False, reason='stock_already_moved', contracts=0)
     large = []
     for row in rows:
-        if not in_sleeve(row):
+        if not in_sleeve(row) or row['edate'] <= event:
+            continue
+        klass = expiry_class(row['edate'])
+        # A monthly-only name has no weekly threshold, so a weekly cannot qualify.
+        bar = thresholds.get(klass)
+        if bar is None or int(row['volume'] or 0) < bar:
             continue
         # Size is judged on this contract alone. Volume and open interest are
         # never added across expiries: a front month dying and a back month
@@ -179,7 +230,7 @@ def _by_day(rows) -> dict:
 
 def fetch(connection, symbol, start, end):
     with connection.cursor() as cursor:
-        cursor.execute(CHAIN_SQL, (symbol, start, end, DTE_LO - 10, DTE_HI))
+        cursor.execute(CHAIN_SQL, (symbol, start, end, 0, DTE_HI + 10))
         chain = _by_day(cursor.fetchall())
         cursor.execute(STOCK_SQL, (symbol, start - timedelta(days=7), end))
         stock = {row['qdate']: float(row['close']) for row in cursor.fetchall()}
@@ -195,15 +246,32 @@ def stock_return(stock, sessions, index, day):
     return stock[day] / stock[prev] - 1
 
 
-def evaluate_days(chain, stock, sessions, index, days) -> dict:
+def evaluate_period(chain, stock, sessions, index, signal, baseline, event) -> dict:
+    """Flag a contract only when it is unusual versus this stock's own expiry class."""
+    if not signal or len(baseline) < MIN_BASELINE:
+        return dict(eligible=False, hit=False, alert_dates=[], cycle='unknown')
+    history = list(baseline) + list(signal)
+    listed = set()
+    for day in history:
+        for row in chain.get(day, []):
+            listed.add(expiry_class(row['edate']))
+    cycle = 'weekly' if 'weekly' in listed else 'monthly'
+    classes = ['monthly'] + (['weekly'] if cycle == 'weekly' else [])
+    thresholds = {klass: own_threshold([class_peak(chain.get(day, []), klass) for day in baseline])
+                  for klass in classes}
+    thresholds = {klass: bar for klass, bar in thresholds.items() if bar is not None}
+    if not thresholds:
+        return dict(eligible=False, hit=False, alert_dates=[], cycle=cycle)
     hits = []
-    for day in days:
+    for day in signal:
         nxt = sessions[index[day] + 1] if day in index and index[day] + 1 < len(sessions) else None
-        scored = score_day(chain.get(day, []), chain.get(nxt, []), stock_return(stock, sessions, index, day))
+        scored = score_day(chain.get(day, []), chain.get(nxt, []),
+                           stock_return(stock, sessions, index, day), thresholds, event)
         if scored['hit']:
             scored['qdate'] = day.isoformat()
             hits.append(scored)
-    return dict(eligible=bool(days), hit=bool(hits), days=len(days),
+    return dict(eligible=True, hit=bool(hits), days=len(signal), cycle=cycle,
+                thresholds={k: round(v, 1) for k, v in thresholds.items()},
                 alert_dates=[row['qdate'] for row in hits],
                 volume=sum(row['volume'] for row in hits),
                 contracts=max((row['contracts'] for row in hits), default=0))
@@ -222,7 +290,7 @@ def render(summary) -> str:
     lines = [
         '# Resolved-case screen',
         '',
-        'Each strike and expiry is its own series. Volume and open interest are not added across expiries, and a session on or after expiry is not treated as a change in the position. A call qualifies at 20–130 days to expiry and either 3–40% out of the money or delta 0.05–0.50. That contract is large when its own volume is at least 100 and at least the open interest already open in it, or when the next session’s open interest in that same contract rises by at least 100 and by at least half the volume. At most three contracts may qualify on a day. A day whose stock already moved 15% is excluded. Kraft, Joy, Lantheus, and Maxar are below the size one contract can show and are not misses.',
+        'Each strike and expiry is its own series. A name is compared only with its own history of the same expiry type. Before February 2015 a monthly is the Saturday after the third Friday; after that it is the third Friday. Any other Friday is a weekly. A monthly-only name is not asked for a weekly. A contract is unusual when its volume is at least 100 and at least three times that stock’s own median loudest single-contract day in that expiry type, and the print is large against the open interest already in that same contract. A day whose stock already moved 15% is excluded. Kraft, Joy, Lantheus, and Maxar are below the size one contract can show and are not misses.',
         '',
         f"In-reach resolved cases, trade dates versus a same-length window 60 sessions earlier: {reach['hits']} of {reach['eligible']} hit on the trade dates, {reach['placebo_hits']} of those placebo windows also hit, and {reach['clean']} hit only on the trade dates.",
         '',
@@ -238,12 +306,12 @@ def render(summary) -> str:
     ]
     if summary['listed_names']:
         for row in summary['listed_names']:
-            lines.append(f"- {row['symbol']} {row['event']}: {', '.join(row['alert_dates'])}")
+            lines.append(f"- {row['symbol']} {row['event']} ({row.get('cycle') or 'unknown'}): {', '.join(row['alert_dates'])}")
     else:
         lines.append('None.')
     lines += [
         '',
-        'Heinz is one contract, the June 65 call: 2,593 contracts against 364 open, and that same contract has 2,626 open the next session. Kaman is the March 30 call. Kraft’s documented June 67.5 call, 361 contracts against about 20,000 open, does not qualify. The Kraft session still lights on two other June strikes because their own next-day open interest rose. That confirmation is loose on a liquid series, so the class-2 list is a first pass.',
+        'The baseline is the 40 sessions before the signal window, using only that stock’s monthly volume for a monthly contract and only its weekly volume for a weekly contract.',
         '',
         'The out-of-reach settled cases were not scored as failures: Kraft, Joy, Lantheus, Maxar.',
         '',
@@ -268,49 +336,49 @@ def run(root: Path) -> dict:
             occupied.setdefault(row['symbol'], set()).add(row['qdate'])
         earnings = earnings_dates(connection, sorted({row['symbol'] for row in keeps}))
 
-        def pull(symbol, days):
-            span = cover(days, sessions, index)
-            if span is None:
-                return {}, {}
-            pad_start = sessions[max(0, index[span[0]] - 2)] if span[0] in index else span[0]
-            return fetch(connection, symbol, pad_start, span[1])
+        def study(symbol, signal, event):
+            if not signal or signal[0] not in index:
+                return dict(eligible=False, hit=False, alert_dates=[], cycle='unknown')
+            baseline = window_before(sessions, index, signal[0], BASELINE, 0)
+            if not baseline:
+                return dict(eligible=False, hit=False, alert_dates=[], cycle='unknown')
+            last = signal[-1]
+            nxt = sessions[index[last] + 1] if index[last] + 1 < len(sessions) else last
+            chain, stock = fetch(connection, symbol, baseline[0], nxt)
+            return evaluate_period(chain, stock, sessions, index, signal, baseline, event)
 
         for case in cases:
             reaction = reaction_day(sessions, index, case['event'], case['timing'])
             trade_days = [day for day in sessions_between(sessions, case['trade_start'], case['trade_end'])
                           if reaction is None or day < reaction]
-            chain, stock = pull(case['symbol'], trade_days)
-            scored = evaluate_days(chain, stock, sessions, index, trade_days)
+            scored = study(case['symbol'], trade_days, reaction or case['event'])
             placebo_days = window_before(sessions, index, reaction, max(len(trade_days), 1), PLACEBO_SHIFT) if reaction else None
-            if not placebo_days:
-                placebo_hit = None
+            placebo_event = sessions[index[reaction] - PLACEBO_SHIFT] if reaction in index and index[reaction] >= PLACEBO_SHIFT else None
+            if not placebo_days or placebo_event is None:
+                scored['placebo_hit'] = None
             else:
-                pchain, pstock = pull(case['symbol'], placebo_days)
-                placebo_hit = evaluate_days(pchain, pstock, sessions, index, placebo_days)['hit']
-            scored.update(id=case['id'], symbol=case['symbol'], group=case['group'],
-                          placebo_hit=placebo_hit)
+                scored['placebo_hit'] = study(case['symbol'], placebo_days, placebo_event)['hit']
+            scored.update(id=case['id'], symbol=case['symbol'], group=case['group'])
             case_rows.append(scored)
-            print(case['id'], 'hit' if scored['hit'] else 'no', flush=True)
+            print(case['id'], scored.get('cycle'), 'hit' if scored['hit'] else 'no', flush=True)
 
         for row in keeps:
             if row['qdate'] not in index:
                 continue
             days = window_before(sessions, index, row['qdate'], WINDOW, 0)
-            chain, stock = pull(row['symbol'], days)
-            scored = evaluate_days(chain, stock, sessions, index, days or [])
+            scored = study(row['symbol'], days, row['qdate'])
             placebo_days = window_before(sessions, index, row['qdate'], WINDOW, PLACEBO_SHIFT)
-            if not placebo_days:
+            placebo_event = sessions[index[row['qdate']] - PLACEBO_SHIFT] if index[row['qdate']] >= PLACEBO_SHIFT else None
+            if not placebo_days or placebo_event is None:
                 scored['placebo_hit'] = None
             else:
-                pchain, pstock = pull(row['symbol'], placebo_days)
-                scored['placebo_hit'] = evaluate_days(pchain, pstock, sessions, index, placebo_days)['hit']
+                scored['placebo_hit'] = study(row['symbol'], placebo_days, placebo_event)['hit']
             chosen = choose_earnings(row['symbol'], row['qdate'], earnings, index, sessions, occupied)
             if chosen is None or chosen not in index:
                 scored['earnings_hit'] = None
             else:
                 earn_days = window_before(sessions, index, chosen, WINDOW, 0)
-                echain, estock = pull(row['symbol'], earn_days)
-                scored['earnings_hit'] = evaluate_days(echain, estock, sessions, index, earn_days or [])['hit']
+                scored['earnings_hit'] = study(row['symbol'], earn_days, chosen)['hit']
             scored.update(symbol=row['symbol'], event=row['qdate'].isoformat())
             candidate_rows.append(scored)
     finally:
@@ -329,7 +397,8 @@ def run(root: Path) -> dict:
                             placebo_hit=row['placebo_hit'], alert_dates=row['alert_dates']) for row in reach],
         peer=dict(hit=bool(peer.get('hit')), alert_dates=peer.get('alert_dates') or []),
         listed=len(listed),
-        listed_names=[dict(symbol=row['symbol'], event=row['event'], alert_dates=row['alert_dates']) for row in listed],
+        listed_names=[dict(symbol=row['symbol'], event=row['event'], cycle=row.get('cycle'),
+                           alert_dates=row['alert_dates']) for row in listed],
     )
     folder = root / 'results' / 'insider_footprint'
     folder.mkdir(parents=True, exist_ok=True)
