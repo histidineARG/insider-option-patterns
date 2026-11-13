@@ -1,7 +1,7 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
   "ledger_sha256": "a13a14f2c560ba32e6ae3ed1730a156007963b212059f5df9f68db0f292f88d6",
-  "n_rows": 213,
+  "n_rows": 230,
   "reviews": [
     {
       "symbol": "VISN",
@@ -4448,6 +4448,52 @@
       }
     },
     {
+      "symbol": "GDP",
+      "qdate": "2013-02-06",
+      "close_return": 0.1827,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted review did not establish a same-session Goodrich Petroleum catalyst or a contemporaneous sector source that attributes this move. General oil-market conditions are insufficient to classify a macro/sector drop.",
+      "locator": "https://exa.ai/library/markets/stock/GDP?date=2013-02-06&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch59_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for GDP. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/GDP?date=2013-02-06&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
+      "symbol": "ENDP",
+      "qdate": "2016-06-28",
+      "close_return": 0.1826,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "BMO initiated coverage with a Market Perform rating on June 28, but targeted review did not establish that this analyst action caused the large positive move or rule out a company catalyst. Retain pending rather than assign analyst attribution from date coincidence.",
+      "locator": "https://undercovermarket.com/quote/ENDP/endo-international-plc",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch59_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ENDP. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ENDP?date=2016-06-28&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
       "symbol": "MSTR",
       "qdate": "2014-04-24",
       "close_return": 0.1824,
@@ -4529,6 +4575,29 @@
       }
     },
     {
+      "symbol": "MNKD",
+      "qdate": "2015-06-08",
+      "close_return": 0.1814,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The major Afrezza regulatory and commercial milestones reviewed for MannKind occurred on other dates; targeted same-session review did not establish the cause of the June 8 jump. Keep pending rather than backdate the later June approval.",
+      "locator": "https://exa.ai/library/markets/stock/MNKD?date=2015-06-08&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch59_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for MNKD. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MNKD?date=2015-06-08&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
       "symbol": "MTOR",
       "qdate": "2013-12-23",
       "close_return": 0.1814,
@@ -4556,6 +4625,75 @@
       }
     },
     {
+      "symbol": "STAA",
+      "qdate": "2015-04-09",
+      "close_return": 0.181,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date-specific search did not establish a reliable STAAR Surgical announcement or eligible catalyst for April 9. Keep pending; do not infer product commercialization from the company’s general ICL business.",
+      "locator": "https://exa.ai/library/markets/stock/STAA?date=2015-04-09&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch59_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for STAA. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/STAA?date=2015-04-09&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
+      "symbol": "ESPR",
+      "qdate": "2016-09-20",
+      "close_return": 0.1809,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted review did not recover a reliable same-session Esperion trial, regulatory, or commercial announcement for September 20. Retain pending.",
+      "locator": "https://exa.ai/library/markets/stock/ESPR?date=2016-09-20&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch59_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ESPR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ESPR?date=2016-09-20&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
+      "symbol": "YRD",
+      "qdate": "2016-09-27",
+      "close_return": 0.1809,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date-specific review did not establish a Yirendai announcement or attributable catalyst for the September 27 move. Keep pending rather than infer cause from Chinese fintech sector context.",
+      "locator": "https://exa.ai/library/markets/stock/YRD?date=2016-09-27&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch59_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for YRD. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/YRD?date=2016-09-27&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
       "symbol": "NOAH",
       "qdate": "2016-03-11",
       "close_return": 0.1806,
@@ -4580,6 +4718,29 @@
           "https://www.sec.gov/Archives/edgar/data/1499543/000119312516509293/d114916d6k.htm",
           "https://www.sec.gov/Archives/edgar/data/1499543/000119380516002838/e614787_f6pos-noah.htm"
         ]
+      }
+    },
+    {
+      "symbol": "SEM",
+      "qdate": "2013-12-11",
+      "close_return": 0.1806,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The located Select Medical earnings release is dated February 2014, not December 11, 2013. Targeted review did not establish a reliable same-session catalyst for this row; leave pending.",
+      "locator": "https://exa.ai/library/markets/stock/SEM?date=2013-12-11&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch59_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for SEM. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/SEM?date=2013-12-11&view=daily"
+        },
+        "decision": "pending_news_review"
       }
     },
     {
@@ -4637,6 +4798,29 @@
       }
     },
     {
+      "symbol": "SRPT",
+      "qdate": "2013-09-20",
+      "close_return": 0.1802,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Search recovered clinical and peer-drug developments on other 2013 dates, but did not establish a same-session September 20 Sarepta catalyst. Keep pending; do not extend a prior readout or competitor news window.",
+      "locator": "https://exa.ai/library/markets/stock/SRPT?date=2013-09-20&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch59_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for SRPT. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/SRPT?date=2013-09-20&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
       "symbol": "PRTA",
       "qdate": "2016-11-09",
       "close_return": 0.1798,
@@ -4665,6 +4849,29 @@
       }
     },
     {
+      "symbol": "FTK",
+      "qdate": "2015-11-17",
+      "close_return": 0.1798,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted review did not establish a reliable same-session Flotek announcement or commodity attribution for November 17. Keep pending rather than infer from oil-services sector conditions.",
+      "locator": "https://exa.ai/library/markets/stock/FTK?date=2015-11-17&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch59_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for FTK. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/FTK?date=2015-11-17&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
       "symbol": "INVE",
       "qdate": "2014-09-08",
       "close_return": 0.1792,
@@ -4689,6 +4896,98 @@
           "https://www.sec.gov/Archives/edgar/data/1036044/000119312514337993/d787058d8k.htm",
           "https://www.sec.gov/Archives/edgar/data/1036044/000119312514338700/d787940d8k.htm"
         ]
+      }
+    },
+    {
+      "symbol": "ETSY",
+      "qdate": "2016-08-01",
+      "close_return": 0.1789,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The next-day earnings release is dated August 2, after the saved August 1 jump session. Targeted review did not establish a same-session Etsy catalyst; do not backdate the earnings report.",
+      "locator": "https://exa.ai/library/markets/stock/ETSY?date=2016-08-01&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch60_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for Etsy. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ETSY?date=2016-08-01&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
+      "symbol": "SC",
+      "qdate": "2016-03-31",
+      "close_return": 0.1787,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Santander Consumer filed an update on its delayed filings on March 23, and its overdue 2015 Form 10-K was filed April 1. Neither source establishes a positive issuer catalyst on March 31; retain pending rather than guess about reporting/timing effects.",
+      "locator": "https://investors.santanderconsumerusa.com/news/news-releases-details/2016/Santander-Consumer-USA-Holdings-Inc-Provides-Update-on-Filings/default.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch60_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for SC. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/SC?date=2016-03-31&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
+      "symbol": "ESI",
+      "qdate": "2013-05-14",
+      "close_return": 0.1783,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date-specific search did not establish an eligible Energy Solutions announcement or reliable attribution for May 14. Keep pending.",
+      "locator": "https://exa.ai/library/markets/stock/ESI?date=2013-05-14&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch60_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ESI. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ESI?date=2013-05-14&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
+      "symbol": "SGMS",
+      "qdate": "2014-09-04",
+      "close_return": 0.1782,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date-specific review did not identify a qualifying Scientific Games announcement or a source attributing the September 4 rise. Keep pending rather than infer from its acquisition history.",
+      "locator": "https://exa.ai/library/markets/stock/SGMS?date=2014-09-04&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch60_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for SGMS. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/SGMS?date=2014-09-04&view=daily"
+        },
+        "decision": "pending_news_review"
       }
     },
     {
@@ -4720,6 +5019,75 @@
       }
     },
     {
+      "symbol": "ADXS",
+      "qdate": "2015-06-30",
+      "close_return": 0.1779,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The located litigation record describes April clinical and peer-IPO-related price effects, not a June 30 event. Targeted review did not establish an eligible same-session cause for June 30; retain pending.",
+      "locator": "https://www.govinfo.gov/content/pkg/USCOURTS-njd-3_15-cv-06326/pdf/USCOURTS-njd-3_15-cv-06326-0.pdf",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch60_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ADXS. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ADXS?date=2015-06-30&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
+      "symbol": "FF",
+      "qdate": "2015-10-02",
+      "close_return": 0.1778,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted review did not establish a reliable FutureFuel catalyst on October 2; the major third-quarter earnings release found in search was November 9. Keep pending rather than attribute the move to later results.",
+      "locator": "https://exa.ai/library/markets/stock/FF?date=2015-10-02&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch60_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for FF. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/FF?date=2015-10-02&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
+      "symbol": "ICPT",
+      "qdate": "2015-01-30",
+      "close_return": 0.1777,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The move followed an FDA Breakthrough Therapy designation for obeticholic acid, but this designation is a regulatory status rather than an approval or clearance. Defer pending a precise policy mapping, consistent with the unresolved treatment of other breakthrough designations.",
+      "locator": "https://www.schaeffersresearch.com/content/news/2015/01/30/buzz-stocks-intercept-pharmaceuticals-inc-gilead-sciences-inc-and-the-manitowoc-company-inc",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch60_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ICPT. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ICPT?date=2015-01-30&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
+    },
+    {
       "symbol": "IMH",
       "qdate": "2015-05-01",
       "close_return": 0.1777,
@@ -4744,6 +5112,29 @@
           "https://www.sec.gov/Archives/edgar/data/1000298/000110465915030003/a15-9803_1ex99d1.htm",
           "https://ir.impaccompanies.com/news-releases/news-release-details/impac-mortgage-holdings-inc-announces-results-second-quarter-1"
         ]
+      }
+    },
+    {
+      "symbol": "VISN",
+      "qdate": "2014-04-08",
+      "close_return": 0.1776,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "VisionChina’s later stock coverage and ticker history do not establish a reliable same-session April 8, 2014 catalyst. Keep pending; do not use the 2015 legacy ticker feed or unrelated July 2014 stories as attribution.",
+      "locator": "https://exa.ai/library/markets/stock/VISN?date=2014-04-08&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch60_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for VISN. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/VISN?date=2014-04-08&view=daily"
+        },
+        "decision": "pending_news_review"
       }
     },
     {
