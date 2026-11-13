@@ -1,7 +1,7 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
   "ledger_sha256": "a13a14f2c560ba32e6ae3ed1730a156007963b212059f5df9f68db0f292f88d6",
-  "n_rows": 230,
+  "n_rows": 245,
   "reviews": [
     {
       "symbol": "VISN",
@@ -5138,6 +5138,34 @@
       }
     },
     {
+      "symbol": "GBT",
+      "qdate": "2016-08-12",
+      "close_return": 0.1776,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The date-specific result indicates a large move, but searches did not establish a qualifying same-session issuer catalyst or reliable attribution. The ticker’s 2015 IPO is unrelated to this 2016 row; keep pending.",
+      "locator": "https://exa.ai/library/markets/stock/GBT?date=2016-08-12&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch61_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for GBT. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/GBT?date=2016-08-12&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://exa.ai/library/markets/stock/GBT?date=2016-08-12&view=daily"
+        ],
+        "rationale": "The date-specific result indicates a large move, but searches did not establish a qualifying same-session issuer catalyst or reliable attribution. The ticker’s 2015 IPO is unrelated to this 2016 row; keep pending.",
+        "defer_reason": "timing"
+      }
+    },
+    {
       "symbol": "ASPS",
       "qdate": "2015-04-07",
       "close_return": 0.1774,
@@ -5162,6 +5190,146 @@
           "https://www.sec.gov/Archives/edgar/data/1513161/000119312515120620/d903400d8k.htm",
           "https://www.sec.gov/Archives/edgar/data/1462418/000162828015007772/asps-9302015x10q.htm"
         ]
+      }
+    },
+    {
+      "symbol": "ESI",
+      "qdate": "2013-01-24",
+      "close_return": 0.1774,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date-specific search did not establish an eligible EnergySolutions announcement or reliable attribution for January 24. Keep pending.",
+      "locator": "https://exa.ai/library/markets/stock/ESI?date=2013-01-24&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch61_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ESI. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ESI?date=2013-01-24&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://exa.ai/library/markets/stock/ESI?date=2013-01-24&view=daily"
+        ],
+        "rationale": "Targeted date-specific search did not establish an eligible EnergySolutions announcement or reliable attribution for January 24. Keep pending.",
+        "defer_reason": "timing"
+      }
+    },
+    {
+      "symbol": "JRJC",
+      "qdate": "2014-01-03",
+      "close_return": 0.1772,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted search did not recover a reliable same-session China Finance Online catalyst for January 3. Keep pending rather than infer from broader Chinese-market activity.",
+      "locator": "https://exa.ai/library/markets/stock/JRJC?date=2014-01-03&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch61_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for JRJC. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/JRJC?date=2014-01-03&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://exa.ai/library/markets/stock/JRJC?date=2014-01-03&view=daily"
+        ],
+        "rationale": "Targeted search did not recover a reliable same-session China Finance Online catalyst for January 3. Keep pending rather than infer from broader Chinese-market activity.",
+        "defer_reason": "timing"
+      }
+    },
+    {
+      "symbol": "MX",
+      "qdate": "2015-01-29",
+      "close_return": 0.1772,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The issuer is MagnaChip Semiconductor. Targeted January 29 review did not establish a qualifying same-session announcement or reliable attribution; keep pending.",
+      "locator": "https://exa.ai/library/markets/stock/MX?date=2015-01-29&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch61_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for MX. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MX?date=2015-01-29&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://exa.ai/library/markets/stock/MX?date=2015-01-29&view=daily"
+        ],
+        "rationale": "The issuer is MagnaChip Semiconductor. Targeted January 29 review did not establish a qualifying same-session announcement or reliable attribution; keep pending.",
+        "defer_reason": "timing"
+      }
+    },
+    {
+      "symbol": "OTIC",
+      "qdate": "2016-05-20",
+      "close_return": 0.1771,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Contemporaneous market coverage notes Otonomy’s relative strength but does not establish its issuer-specific cause. Keep pending rather than infer trial or regulatory news.",
+      "locator": "https://www.forbes.com/sites/marketnewsvideo/2016/05/20/friday-sector-leaders-drugs-semiconductors/",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch61_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for OTIC. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/OTIC?date=2016-05-20&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.forbes.com/sites/marketnewsvideo/2016/05/20/friday-sector-leaders-drugs-semiconductors/"
+        ],
+        "rationale": "Contemporaneous market coverage notes Otonomy’s relative strength but does not establish its issuer-specific cause. Keep pending rather than infer trial or regulatory news.",
+        "defer_reason": "timing"
+      }
+    },
+    {
+      "symbol": "PTCT",
+      "qdate": "2015-02-23",
+      "close_return": 0.177,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted review confirmed the large price move but did not establish its same-session cause. Keep pending rather than infer from unrelated PTC clinical developments.",
+      "locator": "https://exa.ai/library/markets/stock/PTCT?date=2015-02-23&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch61_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for PTCT. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/PTCT?date=2015-02-23&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://exa.ai/library/markets/stock/PTCT?date=2015-02-23&view=daily"
+        ],
+        "rationale": "Targeted review confirmed the large price move but did not establish its same-session cause. Keep pending rather than infer from unrelated PTC clinical developments.",
+        "defer_reason": "timing"
       }
     },
     {
@@ -5191,6 +5359,62 @@
       }
     },
     {
+      "symbol": "CSIQ",
+      "qdate": "2016-02-16",
+      "close_return": 0.1769,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Canadian Solar announced on February 16 that results would exceed prior guidance and suspended its at-the-market share sale program. The located release establishes an operating/financial update, but targeted review did not resolve what drove the saved session return or whether the update meets the ledger’s earnings exclusion mapping; defer pending attribution/category review.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1375877/000110465916097529/a16-4732_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch61_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for CSIQ. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/CSIQ?date=2016-02-16&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465916097529/a16-4732_1ex99d1.htm"
+        ],
+        "rationale": "Canadian Solar announced on February 16 that results would exceed prior guidance and suspended its at-the-market share sale program. The located release establishes an operating/financial update, but targeted review did not resolve what drove the saved session return or whether the update meets the ledger’s earnings exclusion mapping; defer pending attribution/category review.",
+        "defer_reason": "category"
+      }
+    },
+    {
+      "symbol": "MRTX",
+      "qdate": "2016-09-22",
+      "close_return": 0.1767,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted review did not establish an issuer-specific Mirati catalyst for September 22. Broad market strength after the Federal Reserve meeting alone is insufficient to assign macro attribution; keep pending.",
+      "locator": "https://exa.ai/library/markets/stock/MRTX?date=2016-09-22&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch61_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for MRTX. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MRTX?date=2016-09-22&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://exa.ai/library/markets/stock/MRTX?date=2016-09-22&view=daily"
+        ],
+        "rationale": "Targeted review did not establish an issuer-specific Mirati catalyst for September 22. Broad market strength after the Federal Reserve meeting alone is insufficient to assign macro attribution; keep pending.",
+        "defer_reason": "timing"
+      }
+    },
+    {
       "symbol": "HEES",
       "qdate": "2016-11-09",
       "close_return": 0.1766,
@@ -5214,6 +5438,62 @@
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/1339605/000119312516748667/d277372dex991.htm"
         ]
+      }
+    },
+    {
+      "symbol": "CPA",
+      "qdate": "2015-10-07",
+      "close_return": 0.1766,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date-specific search did not establish a same-session Copa Holdings catalyst or reliable attribution for October 7. Keep pending.",
+      "locator": "https://exa.ai/library/markets/stock/CPA?date=2015-10-07&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch61_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for CPA. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/CPA?date=2015-10-07&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://exa.ai/library/markets/stock/CPA?date=2015-10-07&view=daily"
+        ],
+        "rationale": "Targeted date-specific search did not establish a same-session Copa Holdings catalyst or reliable attribution for October 7. Keep pending.",
+        "defer_reason": "timing"
+      }
+    },
+    {
+      "symbol": "MPX",
+      "qdate": "2016-01-29",
+      "close_return": 0.1765,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date-specific review did not establish an eligible Marine Products announcement or reliable cause for the January 29 move. Keep pending.",
+      "locator": "https://exa.ai/library/markets/stock/MPX?date=2016-01-29&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch62_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for MPX. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MPX?date=2016-01-29&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://exa.ai/library/markets/stock/MPX?date=2016-01-29&view=daily"
+        ],
+        "rationale": "Targeted date-specific review did not establish an eligible Marine Products announcement or reliable cause for the January 29 move. Keep pending.",
+        "defer_reason": "timing"
       }
     },
     {
@@ -5244,6 +5524,34 @@
       }
     },
     {
+      "symbol": "CENX",
+      "qdate": "2013-10-22",
+      "close_return": 0.176,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted review did not establish a same-session Century Aluminum catalyst or evidence that a sector-wide metals move explains this return. Keep pending.",
+      "locator": "https://exa.ai/library/markets/stock/CENX?date=2013-10-22&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch62_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for CENX. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/CENX?date=2013-10-22&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://exa.ai/library/markets/stock/CENX?date=2013-10-22&view=daily"
+        ],
+        "rationale": "Targeted review did not establish a same-session Century Aluminum catalyst or evidence that a sector-wide metals move explains this return. Keep pending.",
+        "defer_reason": "timing"
+      }
+    },
+    {
       "symbol": "PCOM",
       "qdate": "2014-02-18",
       "close_return": 0.1757,
@@ -5267,6 +5575,34 @@
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/1204413/000106299314001027/exhibit99-1.htm"
         ]
+      }
+    },
+    {
+      "symbol": "MOMO",
+      "qdate": "2016-07-07",
+      "close_return": 0.1756,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The located Momo takeover-related share move occurred in April 2016, not July 7. Targeted search did not establish a July 7 catalyst; keep pending.",
+      "locator": "https://exa.ai/library/markets/stock/MOMO?date=2016-07-07&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch62_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for MOMO. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MOMO?date=2016-07-07&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://exa.ai/library/markets/stock/MOMO?date=2016-07-07&view=daily"
+        ],
+        "rationale": "The located Momo takeover-related share move occurred in April 2016, not July 7. Targeted search did not establish a July 7 catalyst; keep pending.",
+        "defer_reason": "timing"
       }
     },
     {
@@ -5455,6 +5791,90 @@
           "https://www.sec.gov/Archives/edgar/data/1537054/000119312514100126/d659569d10k.htm",
           "https://www.sec.gov/Archives/edgar/data/1537054/000119312513437592/d625958dex991.htm"
         ]
+      }
+    },
+    {
+      "symbol": "ACAD",
+      "qdate": "2014-02-21",
+      "close_return": 0.1733,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted search did not establish a same-session Acadia catalyst for February 21; the located quarterly results were released February 27. Keep pending rather than backdate the later earnings release.",
+      "locator": "https://exa.ai/library/markets/stock/ACAD?date=2014-02-21&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch62_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ACAD. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ACAD?date=2014-02-21&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://exa.ai/library/markets/stock/ACAD?date=2014-02-21&view=daily"
+        ],
+        "rationale": "Targeted search did not establish a same-session Acadia catalyst for February 21; the located quarterly results were released February 27. Keep pending rather than backdate the later earnings release.",
+        "defer_reason": "timing"
+      }
+    },
+    {
+      "symbol": "XONE",
+      "qdate": "2014-12-26",
+      "close_return": 0.173,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted review found short-interest coverage on December 26, but it reported prior-period short-position data and did not attribute a same-session XONE rise. Keep pending.",
+      "locator": "https://247wallst.com/technology-3/2014/12/26/short-sellers-still-piling-on-two-3d-printing-stocks/",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch62_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for XONE. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/XONE?date=2014-12-26&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://247wallst.com/technology-3/2014/12/26/short-sellers-still-piling-on-two-3d-printing-stocks/"
+        ],
+        "rationale": "Targeted review found short-interest coverage on December 26, but it reported prior-period short-position data and did not attribute a same-session XONE rise. Keep pending.",
+        "defer_reason": "timing"
+      }
+    },
+    {
+      "symbol": "DQ",
+      "qdate": "2013-06-17",
+      "close_return": 0.1729,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted review did not establish a qualifying same-session Daqo New Energy catalyst or reliable attribution. Keep pending rather than infer from solar-sector context.",
+      "locator": "https://exa.ai/library/markets/stock/DQ?date=2013-06-17&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch62_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for DQ. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/DQ?date=2013-06-17&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://exa.ai/library/markets/stock/DQ?date=2013-06-17&view=daily"
+        ],
+        "rationale": "Targeted review did not establish a qualifying same-session Daqo New Energy catalyst or reliable attribution. Keep pending rather than infer from solar-sector context.",
+        "defer_reason": "timing"
       }
     },
     {
