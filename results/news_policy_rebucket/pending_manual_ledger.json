@@ -1,8 +1,34 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "4718319fa4f1e4a6837586f350ebdbdcebae24ed2561e3fe1ebc8161db5464db",
-  "n_rows": 18,
+  "ledger_sha256": "79a2f533138425ed5fcb722c035233798950f26a4ddca9805a1f5608e501d87d",
+  "n_rows": 30,
   "reviews": [
+    {
+      "symbol": "ASPS",
+      "qdate": "2015-01-16",
+      "close_return": 0.506,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Emergency investor-call account mixes 2015 profitability/revenue commentary, proposed repurchases, staffing cuts and Ocwen reassurances. A class 8 outlook event is possible, but no quantified change versus prior outlook or completed regulatory resolution is established in this review. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.housingwire.com/articles/32635-altisource-ceo-were-committed-to-supporting-ocwen/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch08_16",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Emergency investor call: CEO reassurances on Ocwen relationship, layoffs, contemplated buyback after regulatory scare. Not keep 2/3/4.",
+          "locator": "https://www.housingwire.com/articles/32635-altisource-ceo-were-committed-to-supporting-ocwen/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.housingwire.com/articles/32635-altisource-ceo-were-committed-to-supporting-ocwen/"
+        ]
+      }
+    },
     {
       "symbol": "SPWR",
       "qdate": "2013-01-03",
@@ -49,6 +75,32 @@
         "decision": "defer",
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/1504461/000110465916089165/a16-1613_1ex99d1.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "ORMP",
+      "qdate": "2015-04-13",
+      "close_return": 0.387,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary issuer-distributed first-patient glucose-clamp release is April 1, twelve days before the recorded jump. Correct prior implication of same-day enrollment news. Enrollment itself is not a successful trial readout; independent April 13 cause remains unverified. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.prnewswire.com/news-releases/oramed-enrolls-first-patient-in-its-glucose-clamp-study-for-oral-insulin-498304681.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch08_16",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "First patient enrolled in ORMD-0801 glucose-clamp study; Phase IIb planned. Trial initiation/enrollment, not readout or keep 2/3/4 catalyst.",
+          "locator": "https://www.wsnewspublishers.com/files/154965_346mogokmwkghupuber5xc/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.prnewswire.com/news-releases/oramed-enrolls-first-patient-in-its-glucose-clamp-study-for-oral-insulin-498304681.html"
         ]
       }
     },
@@ -106,6 +158,33 @@
       }
     },
     {
+      "symbol": "BTU",
+      "qdate": "2015-10-06",
+      "close_return": 0.344,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary 8-K filed October 6 describes a 1-for-15 split effective after September 30 close, with split-adjusted trading starting October 1. This does not establish October 6 as a mechanical split jump. Existing sector-rally source was unavailable; defer price adjustment and fresh same-session cause review rather than certify either mechanical or macro attribution. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1064728/000106472815000088/btu_8-kx20150930xpostxsplit.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch09_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Coal/commodity sector bounce on weaker USD; Peabody led coal names. Commodity/macro, not keep 2/3/4.",
+          "locator": "https://investorplace.com/2015/10/e-du-pont-de-nemours-co-dd-peabody-energy-corporation-btu-pmc-sierra-inc-pmcs-3-todays-best-stocks/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1064728/000106472815000088/btu_8-kx20150930xpostxsplit.htm",
+          "https://www.sec.gov/Archives/edgar/data/1064728/000119312516569478/d166323d10ka.htm"
+        ]
+      }
+    },
+    {
       "symbol": "LXU",
       "qdate": "2016-05-12",
       "close_return": 0.343,
@@ -158,6 +237,32 @@
       }
     },
     {
+      "symbol": "SM",
+      "qdate": "2016-03-03",
+      "close_return": 0.318,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Existing source is explicitly a March 4 report about that days energy-stock short squeeze, not March 3 evidence. Commodity attribution is plausible, but the date mismatch prevents confirmation of this rows same-session cause. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.fool.com/investing/general/2016/03/04/oil-stocks-short-sellers-got-scorched-today.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch09_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Oil-price rebound / energy short-squeeze sector rally. Commodity/macro, not keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2016/03/04/oil-stocks-short-sellers-got-scorched-today.aspx"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.fool.com/investing/general/2016/03/04/oil-stocks-short-sellers-got-scorched-today.aspx"
+        ]
+      }
+    },
+    {
       "symbol": "ADXS",
       "qdate": "2014-12-22",
       "close_return": 0.303,
@@ -180,6 +285,32 @@
         "decision": "defer",
         "sources": [
           "https://www.biospace.com/advaxis-inc-completes-17-million-financing"
+        ]
+      }
+    },
+    {
+      "symbol": "WATT",
+      "qdate": "2015-06-23",
+      "close_return": 0.2981,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "June 24 market account links June 23 move to CNN/CEO discussion of a tier-one license, but also points to similar disclosure in March 9 earnings call. Partnership substance is plausible; novelty and earlier-public conflict need resolution before keep. No counterparty identity is inferred. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://warriortradingnews.com/2015/06/24/energous-watt-stock-finally-pulling-the-plug/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch08_16",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "CNN feature/CEO comments on unnamed Tier-One WattUp receiver partner; partnership rumor/media, not confirmed tech-breakthrough keep.",
+          "locator": "https://warriortradingnews.com/2015/06/24/energous-watt-stock-finally-pulling-the-plug/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://warriortradingnews.com/2015/06/24/energous-watt-stock-finally-pulling-the-plug/"
         ]
       }
     },
@@ -341,6 +472,33 @@
       }
     },
     {
+      "symbol": "HLF",
+      "qdate": "2014-07-22",
+      "close_return": 0.2545,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "July 22 contemporary account links rally to reaction against Ackmans presentation. Existing short-covering description is supported, but class 11 activist-involvement scope could overlap. No new activist stake or completed legal resolution is established; defer category judgment instead of assuming all activist presentations are excluded. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://labusinessjournal.com/finance/stocks/herbalife-shares-rise-after-ackman-attack/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch09_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Ackman Pershing Square 'death blow' presentation underwhelmed; short-covering rally. Media/short drama, not keep 2/3/4.",
+          "locator": "https://www.reuters.com/article/business/wall-street-rejects-ackman-s-herbalife-death-blow-idUSKBN0FR1NF/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://labusinessjournal.com/finance/stocks/herbalife-shares-rise-after-ackman-attack/",
+          "https://d1io3yog0oux5.cloudfront.net/_09fc167d57c58ff961d2ccc6e23f7328/herbalife/news/2014-07-22_Statement_from_Herbalife_in_Response_to_Bill_338.pdf"
+        ]
+      }
+    },
+    {
       "symbol": "CSIQ",
       "qdate": "2015-02-03",
       "close_return": 0.2536,
@@ -395,6 +553,32 @@
       }
     },
     {
+      "symbol": "NEON",
+      "qdate": "2013-07-10",
+      "close_return": 0.2386,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Existing locator is a September 5 Neonode market article, not July 10 contemporaneous evidence. A design-win/license could qualify as class 5/6, but source/date mismatch prevents a supported promotion. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.fool.com/investing/general/2013/09/05/why-neonode-shares-popped.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch08_16",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "First design win / license with undisclosed Tier-One South Korea consumer-electronics OEM. Partnership/design-win, not keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2013/09/05/why-neonode-shares-popped.aspx"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.fool.com/investing/general/2013/09/05/why-neonode-shares-popped.aspx"
+        ]
+      }
+    },
+    {
       "symbol": "PDCE",
       "qdate": "2014-12-09",
       "close_return": 0.2377,
@@ -417,6 +601,59 @@
         "decision": "defer",
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/77877/000119312514438892/d835521dex991.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "EXPR",
+      "qdate": "2013-01-15",
+      "close_return": 0.2376,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary outlook release is January 14; newswire index timestamps it 06:15 ET before that session opened. January 15 cannot be assumed to be first reaction to that announcement. Defer for a fresh catalyst search or continuation attribution. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1483510/000148351013000004/pressreleaserevisedguidance.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch08_16",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Raised Q4/FY2012 outlook after strong holiday sales. Earnings guidance, not keep 2/3/4.",
+          "locator": "http://new.dailystocks.com/2221/express-shares-surge-after-company-raises-q4-outlook-expr/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1483510/000148351013000004/pressreleaserevisedguidance.htm",
+          "https://www.prnewswire.com/news/express%2C-inc./?page=4&pagesize=25"
+        ]
+      }
+    },
+    {
+      "symbol": "PFSW",
+      "qdate": "2016-01-21",
+      "close_return": 0.2372,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Syndicated holiday-guidance release has January 13 internal dateline and January 19 hosting date, both preceding January 21 jump. Do not use republication date as first-public timing. Need independent same-session evidence before class 8. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.digitalcommerce360.com/2016/01/19/pfsweb-reports-successful-holiday-season/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch08_16",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Holiday update raised 2015 revenue/EBITDA guidance. Earnings guidance, not keep 2/3/4.",
+          "locator": "https://www.digitalcommerce360.com/2016/01/19/pfsweb-reports-successful-holiday-season/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.digitalcommerce360.com/2016/01/19/pfsweb-reports-successful-holiday-season/"
         ]
       }
     },
@@ -444,6 +681,86 @@
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/896262/000110465913061771/a13-18260_1sc13d.htm",
           "https://www.penews.com/articles/private-equity-kkr-amedisys-20130812"
+        ]
+      }
+    },
+    {
+      "symbol": "NOAH",
+      "qdate": "2013-05-28",
+      "close_return": 0.2193,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Located Q1 issuer release is May 6, not May 28. It cannot support a fresh May 28 earnings or outlook attribution. Targeted issuer/date and results searches did not establish an attributable same-session catalyst; keep unknown pending rather than certify an unexplained drop from the legacy generic locator. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://ir.noahgroup.com/news-releases/news-release-details/noah-holdings-limited-announces-unaudited-financial-results-2/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch10_6",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/NOAH?date=2013-05-28&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://ir.noahgroup.com/news-releases/news-release-details/noah-holdings-limited-announces-unaudited-financial-results-2/"
+        ]
+      }
+    },
+    {
+      "symbol": "HRTX",
+      "qdate": "2015-09-23",
+      "close_return": 0.216,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary September 22 release reports positive HTX-011 Phase 2 data and schedules September 23 8:30 a.m. ET call. September 23 analyst coverage discusses those data. Clinical-readout category is established, but exact September 22 first-public time remains unresolved, so defer September 23 reaction mapping rather than leave a generic no-news drop. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/818033/000119312515325677/d46378dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch10_6",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/HRTX?date=2015-09-23&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/818033/000119312515325677/d46378dex991.htm",
+          "https://www.sec.gov/Archives/edgar/data/818033/000119312515325677/d46378d8k.htm",
+          "https://www.benzinga.com/analyst-ratings/analyst-color/15/09/5859668/heron-therapeutics-has-even-more-upside-robust-data-show"
+        ]
+      }
+    },
+    {
+      "symbol": "IRM",
+      "qdate": "2014-06-26",
+      "close_return": 0.2005,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "June 25 primary release confirms favorable IRS rulings enabling REIT conversion, with distribution and outlook changes. Legal-unlock category is plausible; exact release time is not recovered here, so June 26 reaction assignment remains pending. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1020569/000110465914048318/a14-16059_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch08_16",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Iron Mountain REIT conversion / IRS PLR and distribution guidance. Corporate-structure/financing, not keep 2/3/4.",
+          "locator": "https://investors.ironmountain.com/news/news-details/2014/Iron-Mountain-REIT-Conversion-to-Enhance-Stockholder-Returns/default.aspx"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1020569/000110465914048318/a14-16059_1ex99d1.htm"
         ]
       }
     },

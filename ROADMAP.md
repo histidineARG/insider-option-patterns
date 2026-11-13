@@ -124,3 +124,29 @@ Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
 - Corrected EBS catalyst chronology: December 8 release concerns CDC BioThrax procurement; NuThrax BARDA award was September 30. EBS December 9 remains pending for reaction timing. ADXS December 22 and EYES February 23 also have earlier-source date conflicts. Preserve prior descriptions for audit.
 - Validation: 74 unit tests pass; all 85 production overlays reproduce saved labels, preserve earnings precedence, and retain prior fields and source locators. Unique symbol/session keys and diff whitespace checks pass.
 - Remaining work: 409 legacy reviews plus 18 deferred manual rows; saved population queue remains separate and stale. Continue source-backed filtering without approval prompts. Training and evaluation gates stay blocked.
+
+## 2026-11-12 autonomous_batch08_16
+
+- Reviewed 16 legacy rows: {'keep': 3, 'drop': 6, 'defer': 7}.
+- Current ledger: {'keep': 205, 'drop_earnings': 32, 'drop_other_not_234': 393, 'pending_news_review': 25, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 7, 'drop_analyst': 6, 'drop_financing': 4, 'drop_peer_sympathy': 2, 'drop_operating_update': 1, 'drop_regulatory_process': 1, 'drop_peer_earnings': 1, 'drop_short_covering_media': 1, 'drop_etf': 1}. Cumulative expanded-policy reviews: 127.
+- Audit: `results/news_policy_rebucket/autonomous_batch08_16.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch09_8
+
+- Reviewed 8 legacy rows: {'drop': 5, 'defer': 3}.
+- Current ledger: {'keep': 205, 'drop_earnings': 32, 'drop_other_not_234': 385, 'pending_news_review': 28, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 8, 'drop_analyst': 6, 'drop_financing': 6, 'drop_peer_sympathy': 3, 'drop_regulatory_process': 2, 'drop_operating_update': 1, 'drop_peer_earnings': 1, 'drop_short_covering_media': 1, 'drop_etf': 1}. Cumulative expanded-policy reviews: 135.
+- Audit: `results/news_policy_rebucket/autonomous_batch09_8.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch10_6
+
+- Reviewed 6 legacy rows: {'keep': 1, 'drop': 3, 'defer': 2}.
+- Current ledger: {'keep': 206, 'drop_earnings': 35, 'drop_other_not_234': 379, 'pending_news_review': 30, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 8, 'drop_analyst': 6, 'drop_financing': 6, 'drop_peer_sympathy': 3, 'drop_regulatory_process': 2, 'drop_operating_update': 1, 'drop_peer_earnings': 1, 'drop_short_covering_media': 1, 'drop_etf': 1}. Cumulative expanded-policy reviews: 141.
+- Audit: `results/news_policy_rebucket/autonomous_batch10_6.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 continuation through 141 policy reviews
+
+- Reassessed 30 more legacy rows in batches 08–10: 4 keep, 14 confirmed drops, 12 deferred (9 timing, 3 category/primary-cause). Expanded-policy reviews total 141; autonomous reviews total 115.
+- Current ledger: 206 keep, 379 legacy reassessments remaining, 30 manual pending, 66 explicit drops across 681 unique symbol/session rows. `results/news_policy_rebucket/CURRENT_STATUS.md` and `.json` supersede prior current summaries; ledger-scoped queues regenerated with matching SHA-256.
+- Promoted OMER/EXAS government reimbursement/coverage authorizations as class 7 equivalent decisions (not FDA approvals); SCTY standalone 2014 deployment outlook as class 8; EXPR Sycamore interest/special committee as class 11. Preserve these category judgments and concurrent-catalyst limitations in the row rationale.
+- Timing/source corrections include ORMP April 1 versus April 13, EXPR January 14 before-open versus January 15, PFSW January 13 internal versus January 19 hosting versus January 21 jump, and HRTX September 22 data versus September 23 jump. BTU split timing predates its October 6 filing; do not label filing day a mechanical jump without price-adjustment evidence.
+- Validation: 74 unit tests pass; all 115 autonomous production overlays and earnings precedence checked; unique keys, preserved prior fields/source locators and diff whitespace pass. Source databases, saved population queue and training/evaluation gates remain unchanged.
