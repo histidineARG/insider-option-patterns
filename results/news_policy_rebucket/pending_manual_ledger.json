@@ -1,7 +1,7 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "d06f8712486bfdb9b5aeaefb432dc19419aac1d104c05e64f3c25df1499ad477",
-  "n_rows": 69,
+  "ledger_sha256": "f4be617b21c5840e035bbb0d50efb35e89f7dc0a227d91be0b657c0985edafcb",
+  "n_rows": 96,
   "reviews": [
     {
       "symbol": "VISN",
@@ -369,6 +369,33 @@
       }
     },
     {
+      "symbol": "RVNC",
+      "qdate": "2016-11-09",
+      "close_return": 0.2992,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Search corroborates broad November 9 biotech rally, but did not recover issuer-specific price attribution sufficient to confirm old macro label. Primary financial results were November 3 and are not automatically a November 9 earnings cause. Leave pending rather than infer all sector constituents share one catalyst. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch32_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Broad biotech/pharma rally after Trump election eased drug-pricing fears. Macro/policy sector move, not company keep 2/3/4.",
+          "locator": "https://www.reuters.com/article/world/uk/pharma-biotech-shares-soar-as-trump-win-calms-pricing-talk-idUSKBN1342HP/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/",
+          "https://www.sec.gov/Archives/edgar/data/1479290/000147929016000054/rvnc11320168k.htm"
+        ]
+      }
+    },
+    {
       "symbol": "WATT",
       "qdate": "2015-06-23",
       "close_return": 0.2981,
@@ -529,6 +556,87 @@
       }
     },
     {
+      "symbol": "TDW",
+      "qdate": "2016-03-04",
+      "close_return": 0.2758,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Issuer legal-enforcement announcement is March 1, and trade coverage is March 3. March 4 commentary conflicts with that chronology. A legal unlock is plausible under class 9, but no distinct March 4 decision or first-public release is verified. Do not treat the earlier enforcement permission as a same-day award or received payment. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://investor.tdw.com/news/news-details/2016/ICSID-Decides-that-Tidewater-is-Now-Free-to-Enforce-37-Million-of-the-65-Million-Arbitral-Award-for-the-Taking-of-the-Companys-Venezuelan-Operations/default.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch33_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Offshore vessel name in oil/commodity relief rally. Commodity/sector, not keep 2/3/4.",
+          "locator": "https://www.reuters.com/article/global-markets-idUSL2N16C1LL/?feedName=usDollarRpt&feedType=RSS"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://investor.tdw.com/news/news-details/2016/ICSID-Decides-that-Tidewater-is-Now-Free-to-Enforce-37-Million-of-the-65-Million-Arbitral-Award-for-the-Taking-of-the-Companys-Venezuelan-Operations/default.aspx",
+          "https://www.marinelog.com/offshore/oil-gas/tidewater-gets-ok-to-try-to-collect-part-of-venezuela-award/"
+        ]
+      }
+    },
+    {
+      "symbol": "CZR",
+      "qdate": "2013-04-23",
+      "close_return": 0.273,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary announcement and filing establish asset contributions into Growth Partners with sponsor capital and a shareholder participation transaction. Strategic restructuring may fall within expanded alternatives policy, but financing-led versus class 11 eligibility and direct jump attribution remain unresolved. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-form-new-growth-oriented-venture",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch29_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Caesars Growth Partners spin/capital raise with Apollo/TPG $500M. Financing/restructuring carve-out, not keep 2/3/4.",
+          "locator": "https://www.reuters.com/article/business/debt-laden-caesars-carves-out-assets-to-raise-money-idUSL3N0DAM1M/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-form-new-growth-oriented-venture",
+          "https://www.sec.gov/Archives/edgar/data/858339/000119312513166112/d524527d8k.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "ADXS",
+      "qdate": "2016-03-02",
+      "close_return": 0.2661,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recovered dated March 2 ETF-mover excerpt identifies Advaxis gain within biotech ETF rally, but describes performance rather than attributing cause. Targeted company/date search did not establish a same-session issuer event. Sector membership alone is insufficient to confirm legacy macro attribution; leave pending. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.forbes.com/investment-funds/mtum/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch37_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day company PR; biotech sector bounce ahead of later AACR poster news. Unclassified, not keep 2/3/4.",
+          "locator": "https://www.forbes.com/sites/marketnewsvideo/2016/03/02/wednesdays-etf-movers-xbi-mtum/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.forbes.com/investment-funds/mtum/",
+          "https://www.forbes.com/sites/marketnewsvideo/2016/03/02/wednesdays-etf-movers-xbi-mtum/"
+        ]
+      }
+    },
+    {
       "symbol": "GALT",
       "qdate": "2013-09-11",
       "close_return": 0.266,
@@ -577,6 +685,33 @@
         "decision": "defer",
         "sources": [
           "https://www.fool.com/investing/general/2013/12/27/why-kandi-technologies-amyris-and-solazyme-are-tod.aspx"
+        ]
+      }
+    },
+    {
+      "symbol": "NRP",
+      "qdate": "2016-06-20",
+      "close_return": 0.2583,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Legacy market-mover locator does not discuss Natural Resource Partners; it covers five other issuers. Primary Williston asset-sale announcement was June 14, six days earlier. Commodity rebound supplies context, but direct June 20 catalyst is unverified; leave pending rather than certify unsupported legacy attribution. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.insidermonkey.com/blog/heres-why-these-five-stocks-are-advancing-on-monday-461071/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch33_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "High-beta rebound with oil >+$2 toward $50; Williston asset sale was Jun 14. Commodity/sector, not keep 2/3/4.",
+          "locator": "https://www.insidermonkey.com/blog/heres-why-these-five-stocks-are-advancing-on-monday-461071/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.insidermonkey.com/blog/heres-why-these-five-stocks-are-advancing-on-monday-461071/",
+          "https://www.prnewswire.com/news-releases/natural-resource-partners-to-sell-non-operated-oil-and-gas-working-interest-assets-300284062.html"
         ]
       }
     },
@@ -1223,6 +1358,33 @@
       }
     },
     {
+      "symbol": "CROX",
+      "qdate": "2013-12-30",
+      "close_return": 0.2108,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "December 29 primary announcement combines Blackstone preferred investment, two board seats, CEO transition and substantial common-stock repurchase. Partnership capital may qualify under class 6, while financing alone is excluded. Resolve which attributed component controls eligibility before assigning a keep or financing drop. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://investors.crocs.com/news-and-events/press-releases/press-release-details/2013/Crocs-Inc-Announces-Financial-Partnership-with-Blackstone-Expands-Share-Repurchase-Plan-Announces-CEO-Retirement/default.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch29_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Blackstone $200M preferred investment / board seats; CEO retirement. Financing, not keep 2/3/4.",
+          "locator": "https://www.theglobeandmail.com/globe-investor/downtrodden-crocs-takes-a-big-step-forward/article16137941/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://investors.crocs.com/news-and-events/press-releases/press-release-details/2013/Crocs-Inc-Announces-Financial-Partnership-with-Blackstone-Expands-Share-Repurchase-Plan-Announces-CEO-Retirement/default.aspx",
+          "https://www.sec.gov/Archives/edgar/data/1334036/000119312513486671/d650442d8k.htm"
+        ]
+      }
+    },
+    {
       "symbol": "IDCC",
       "qdate": "2014-06-03",
       "close_return": 0.2069,
@@ -1524,6 +1686,85 @@
       }
     },
     {
+      "symbol": "GAIA",
+      "qdate": "2016-10-31",
+      "close_return": 0.184,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recovered same-date investment thesis is a possible media catalyst, but does not establish direct price attribution or a new issuer guidance revision. Author valuation and 2021 earnings scenario are not automatically company guidance. Leave pending rather than promote a speculative outlook. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://hedgefundalpha.com/stocks/gaia-radar-hyper-growth-5-bagger/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch34_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for GAIA. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/GAIA?date=2016-10-31&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://hedgefundalpha.com/stocks/gaia-radar-hyper-growth-5-bagger/"
+        ]
+      }
+    },
+    {
+      "symbol": "VUZI",
+      "qdate": "2015-12-30",
+      "close_return": 0.1836,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recovered December 30 11:02 ET issuer release announces Atheer software partnership and app availability, a class 6 or 10 candidate. Direct attribution of the session jump and materiality remain unverified; preserve pending rather than exclude under old narrow policy. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.prnewswire.com/news-releases/vuzix-adds-atheer-air-suite-for-remote-expert-collaboration-and-rapid-task-flow-deployment-to-its-growing-ecosystem-of-m100-smart-glasses-applications-300197849.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch30_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for VUZI. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/VUZI?date=2015-12-30&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.prnewswire.com/news-releases/vuzix-adds-atheer-air-suite-for-remote-expert-collaboration-and-rapid-task-flow-deployment-to-its-growing-ecosystem-of-m100-smart-glasses-applications-300197849.html"
+        ]
+      }
+    },
+    {
+      "symbol": "GNE",
+      "qdate": "2015-10-08",
+      "close_return": 0.1835,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "October 8 industry account reports Afek hydrocarbon find but explicitly says economic and technical producibility remain unclear. Exploration discovery is not automatically technical breakthrough or commercial launch. Resolve class 4 eligibility, original issuer timing and direct price attribution before promotion. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.oilandgas360.com/genie-energy-confirms-350-meters-of-net-pay-in-golan-heights-discovery/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch30_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for GNE. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/GNE?date=2015-10-08&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.oilandgas360.com/genie-energy-confirms-350-meters-of-net-pay-in-golan-heights-discovery/",
+          "https://www.worldoil.com/news/2015/10/09/genie-energy-confirms-significant-find-in-golan-heights"
+        ]
+      }
+    },
+    {
       "symbol": "CSTM",
       "qdate": "2015-11-12",
       "close_return": 0.1833,
@@ -1604,6 +1845,87 @@
       }
     },
     {
+      "symbol": "OMER",
+      "qdate": "2013-10-03",
+      "close_return": 0.1823,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Issuer announced $12.5 million insurance-litigation settlement at 08:00 ET, a plausible class 9 event. Concurrent GPCR platform announcement supplies another candidate. Direct attribution between these announcements and the jump remains unresolved; no automatic exclusion for preclinical data. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.prnewswire.com/news-releases/omeros-settles-insurance-litigation-226284521.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch29_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Omeros GPCR unlock PR + insurance litigation settlement. Preclinical platform/litigation, not keep 2/3/4.",
+          "locator": "https://www.prnewswire.com/news-releases/omeros-unlocks-six-additional-class-a-orphan-gpcrs-and-identifies-small-molecules-targeting-two-commercially-validated-class-b-gpcrs-226279611.html"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.prnewswire.com/news-releases/omeros-settles-insurance-litigation-226284521.html",
+          "https://www.prnewswire.com/news-releases/omeros-unlocks-six-additional-class-a-orphan-gpcrs-and-identifies-small-molecules-targeting-two-commercially-validated-class-b-gpcrs-226279611.html"
+        ]
+      }
+    },
+    {
+      "symbol": "MTOR",
+      "qdate": "2013-12-23",
+      "close_return": 0.1814,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recovered December 20 court memorandum supplies potential legal catalyst before Monday jump, while definitive Eaton settlement was June 2014. Direct price attribution and whether December ruling supplies a qualifying favorable legal unlock remain unresolved; do not backdate later settlement. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://cases.justia.com/federal/district-courts/delaware/dedce/1%3A2006cv00623/37206/337/0.pdf",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch30_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for MTOR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MTOR?date=2013-12-23&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://cases.justia.com/federal/district-courts/delaware/dedce/1%3A2006cv00623/37206/337/0.pdf",
+          "https://www.sec.gov/Archives/edgar/data/1113256/000089383814000092/meritor8k062314ex991.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "NOAH",
+      "qdate": "2016-03-11",
+      "close_return": 0.1806,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary quarterly results were March 16, after the March 11 jump. F-6 amendment signed March 11 was filed March 15 and is not evidence of a same-day public catalyst. No attributable event recovered; do not backdate results or infer publication from signature date. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1499543/000119312516509293/d114916d6k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch34_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for NOAH. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/NOAH?date=2016-03-11&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1499543/000119312516509293/d114916d6k.htm",
+          "https://www.sec.gov/Archives/edgar/data/1499543/000119380516002838/e614787_f6pos-noah.htm"
+        ]
+      }
+    },
+    {
       "symbol": "ABCO",
       "qdate": "2014-12-11",
       "close_return": 0.1803,
@@ -1631,6 +1953,34 @@
       }
     },
     {
+      "symbol": "PRTA",
+      "qdate": "2016-11-09",
+      "close_return": 0.1798,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary Phase 1b PRX002 data release is timestamped November 9 at 16:05 ET, after this close-to-close session. Concurrent supply agreement makes Prothena the purchaser of manufacturing services, not recipient of a customer award. Broad election rally is corroborated, but direct issuer price attribution remains unresolved; do not backdate after-close data. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.globenewswire.com/news-release/2016/11/09/888497/24041/en/prothena-reports-results-from-phase-1b-study-of-prx002-demonstrating-robust-antibody-cns-penetration-and-significant-reduction-of-free-serum-alpha-synuclein-in-patients-with-parkin.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch32_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Prothena post-election biotech rally; no confirmed company keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/PRTA?date=2016-11-09&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.globenewswire.com/news-release/2016/11/09/888497/24041/en/prothena-reports-results-from-phase-1b-study-of-prx002-demonstrating-robust-antibody-cns-penetration-and-significant-reduction-of-free-serum-alpha-synuclein-in-patients-with-parkin.html",
+          "https://www.sec.gov/Archives/edgar/data/1559053/000155905316000089/a8-k2016rentschler.htm",
+          "https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/"
+        ]
+      }
+    },
+    {
       "symbol": "INVE",
       "qdate": "2014-09-08",
       "close_return": 0.1792,
@@ -1654,6 +2004,34 @@
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/1036044/000119312514337993/d787058d8k.htm",
           "https://www.sec.gov/Archives/edgar/data/1036044/000119312514338700/d787940d8k.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "NPTN",
+      "qdate": "2016-07-25",
+      "close_return": 0.1779,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted search recovered same-day market-mover report but accessible excerpt does not identify NeoPhotonics catalyst. Primary credit renewal was entered August 3, effective July 25, while Q2 results were August 8. Neither proves a July 25 public catalyst; do not infer from agreement effective date. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.insidermonkey.com/blog/why-these-five-stocks-are-trending-today-3-466398/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch30_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for NPTN. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/NPTN?date=2016-07-25&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.insidermonkey.com/blog/why-these-five-stocks-are-trending-today-3-466398/",
+          "https://www.sec.gov/Archives/edgar/data/1227025/000122702516000174/nptn-20160802x8k.htm",
+          "https://www.sec.gov/Archives/edgar/data/1227025/000155837016007658/nptn-20160808ex991946f34.htm"
         ]
       }
     },
@@ -1712,6 +2090,32 @@
       }
     },
     {
+      "symbol": "VNDA",
+      "qdate": "2013-05-24",
+      "close_return": 0.177,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Same-day 10:41 ET market account confirms rising price and volume but gives no company catalyst. Targeted issuer/date/FDA search did not establish same-session approval or trial success; unrelated later FDA news cannot explain May 24. Leave pending for attribution. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.rttnews.com/2124781/vanda-pharmaceuticals-inc-vnda-has-climbed-to-a-new-high-for-the-year.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch35_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for VNDA. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/VNDA?date=2013-05-24&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.rttnews.com/2124781/vanda-pharmaceuticals-inc-vnda-has-climbed-to-a-new-high-for-the-year.aspx"
+        ]
+      }
+    },
+    {
       "symbol": "INSM",
       "qdate": "2013-04-24",
       "close_return": 0.1764,
@@ -1735,6 +2139,113 @@
         "sources": [
           "https://247wallst.com/investing/2013/04/24/market-close-big-winners-losers-for-april-24-2013/",
           "https://www.sec.gov/Archives/edgar/data/1104506/000114036113014813/ex99_1.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "PCOM",
+      "qdate": "2014-02-18",
+      "close_return": 0.1757,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recovered primary February 18 announcement establishes MasterCard loyalty partnership, a class 6 candidate missed by old label. Exact publication time and direct session price attribution were not recovered; leave pending rather than promote solely on matching date. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1204413/000106299314001027/exhibit99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch29_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for PCOM. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/PCOM?date=2014-02-18&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1204413/000106299314001027/exhibit99-1.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "ERF",
+      "qdate": "2016-11-30",
+      "close_return": 0.175,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Search confirms November 30 OPEC rally context but does not recover direct Enerplus session attribution. Primary Q3 results were November 14, and November 30 in dividend notice is record date for November 18 announcement. Neither is same-session earnings or a new dividend announcement. Leave pending for attributable cause. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1126874/000127956916004688/ex991.pdf",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch36_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Enerplus OPEC/oil rebound sector move. Commodity, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ERF?date=2016-11-30&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1126874/000127956916004688/ex991.pdf",
+          "https://www.sec.gov/Archives/edgar/data/1126874/000127956916004719/ex991.pdf",
+          "https://ca.investing.com/news/stock-market-news/global-markets-oil-jumps-on-opec-deal%3B-bond-rout-resumes-106374"
+        ]
+      }
+    },
+    {
+      "symbol": "PBYI",
+      "qdate": "2015-03-05",
+      "close_return": 0.175,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Same-day account attributes move to Citigroup target change plus AbbVie/Pharmacyclics deal read-through, and speculates Puma could be next. Distinguish generic peer valuation speculation from eligible issuer takeover rumor; no actual Puma bid or talks verified. Earlier-week earnings do not automatically explain this later session. Leave pending for class 2 versus analyst/peer eligibility. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.fool.com/investing/general/2015/03/05/the-under-the-radar-reason-why-puma-biotechnology.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch37_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Puma move tied to Citigroup PT hike / sector M&A chatter, not same-day company trial/M&A keep PR. Analyst/sector, not keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2015/03/05/the-under-the-radar-reason-why-puma-biotechnology.aspx"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.fool.com/investing/general/2015/03/05/the-under-the-radar-reason-why-puma-biotechnology.aspx",
+          "https://www.pumabiotechnology.com/news/news-archive.html"
+        ]
+      }
+    },
+    {
+      "symbol": "SGMO",
+      "qdate": "2013-01-14",
+      "close_return": 0.1748,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted issuer/date/HIV search recovered archival price-gainer and investment-article links but no verified same-session clinical readout, commercial agreement or approval. Price-gainer listings alone do not establish cause. Leave pending for primary event and price attribution. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://tigersoft.com/xxxindex.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch35_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for SGMO. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/SGMO?date=2013-01-14&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://tigersoft.com/xxxindex.htm"
         ]
       }
     },
@@ -1842,6 +2353,219 @@
         "sources": [
           "https://www.prnewswire.com/news-releases/senomyx-announces-receipt-of-generally-recognized-as-safe-gras-determination-for-new-sweetmyx-flavor-ingredient-249424761.html",
           "https://www.sec.gov/Archives/edgar/data/1123979/000110465914018981/a14-8049_1ex99d1.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "AERI",
+      "qdate": "2016-02-18",
+      "close_return": 0.1718,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "February 17 primary release reports positive twelve-month Rocket 2 safety data, and next-morning account attributes gain to the data. However, the same release also reports preliminary full-year cash burn and year-end balances. Clinical class 3 is plausible, but completed-period financial disclosure requires resolving earnings precedence before promotion; leave pending. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1337553/000119312516467086/d87136dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch28_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for AERI. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/AERI?date=2016-02-18&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1337553/000119312516467086/d87136dex991.htm",
+          "https://247wallst.com/health-and-healthcare/2016/02/18/aerie-pharma-jumps-on-positive-interim-safety-results/"
+        ]
+      }
+    },
+    {
+      "symbol": "ADMP",
+      "qdate": "2016-04-14",
+      "close_return": 0.1713,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary announcement of completed US Compounding acquisition was April 12, with agreement originally March 28. Nearby Glover ownership represents merger consideration, not independently verified activism. Direct April 14 attribution and any later incremental deal news remain unresolved; do not infer same-day takeout from earlier closing. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/887247/000138713116004941/ex99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch35_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ADMP. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ADMP?date=2016-04-14&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/887247/000138713116004941/ex99-1.htm",
+          "https://www.sec.gov/Archives/edgar/data/1671547/000138713116004984/xslF345X03/glover-form4_041316.xml"
+        ]
+      }
+    },
+    {
+      "symbol": "URI",
+      "qdate": "2016-11-09",
+      "close_return": 0.1712,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recovered same-day issuer release announces seven specialty branch openings, concurrent with broad election/infrastructure rally. Routine branch expansion is not automatically a material product launch or customer contract. Direct session attribution between these candidates remains unresolved; leave pending instead of certifying old sector label. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.unitedrentals.com/our-company/press-room/press-releases/detail/united-rentals-opens-seven-more-specialty-rental-branches",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch36_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "United Rentals post-election industrials rally. Macro/sector, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/URI?date=2016-11-09&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.unitedrentals.com/our-company/press-room/press-releases/detail/united-rentals-opens-seven-more-specialty-rental-branches",
+          "https://abcnews.com/Business/stocks-sectors-embattled-obama-rally-trump-election-upset/story?id=43418106"
+        ]
+      }
+    },
+    {
+      "symbol": "GALT",
+      "qdate": "2014-02-25",
+      "close_return": 0.1705,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary patent announcement is February 26, after jump date; patent issuance itself is dated February 25. Public availability and price attribution on February 25 remain unverified, and patent issuance is not automatically a drug approval or technical breakthrough. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1133416/000119312514068418/d685402dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch35_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Patent/enthusiasm move; no confirmed same-day trial/M&A keep PR.",
+          "locator": "https://exa.ai/library/markets/stock/GALT?date=2014-02-25&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1133416/000119312514068418/d685402dex991.htm",
+          "https://patents.justia.com/assignee/galectin-therapeutics-inc"
+        ]
+      }
+    },
+    {
+      "symbol": "CRMD",
+      "qdate": "2015-06-01",
+      "close_return": 0.1697,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary premarket release presents Neutrolin post-approval surveillance outcomes from routine use. This is human outcome evidence, but it is not identified as a controlled clinical-trial readout; old exclusion merely for not being pivotal is insufficient under class 3. Resolve clinical-data eligibility and direct jump attribution. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.prnewswire.com/news-releases/cormedix-presents-neutrolin-post-marketing-surveillance-data-at-european-renal-association---european-dialysis-and-transplant-association-era-edta-conference-300092071.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch35_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Neutrolin post-marketing surveillance poster at ERA-EDTA. Not pivotal trial keep.",
+          "locator": "https://exa.ai/library/markets/stock/CRMD?date=2015-06-01&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.prnewswire.com/news-releases/cormedix-presents-neutrolin-post-marketing-surveillance-data-at-european-renal-association---european-dialysis-and-transplant-association-era-edta-conference-300092071.html"
+        ]
+      }
+    },
+    {
+      "symbol": "ATHM",
+      "qdate": "2014-05-12",
+      "close_return": 0.1692,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recovered primary first-quarter results were May 6, six days before this jump. Later S-8 uses May 12 share price to calculate fee, not to announce a company catalyst. Targeted date search found no attributable same-session event; do not misclassify as same-day earnings. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1527636/000119312514186044/d722337dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch34_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ATHM. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ATHM?date=2014-05-12&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1527636/000119312514186044/d722337dex991.htm",
+          "https://www.sec.gov/Archives/edgar/data/1527636/000119312514202516/d725593ds8.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "CNCE",
+      "qdate": "2016-11-09",
+      "close_return": 0.1683,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted Concert/date/results search did not establish attributable same-session company event or direct issuer election-rally attribution. General sector report corroborates context only. Leave pending rather than certify old macro assignment from sector membership. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch32_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Post-election biotech/pharma rally on drug-pricing relief. Macro/sector, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/CNCE?date=2016-11-09&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/"
+        ]
+      }
+    },
+    {
+      "symbol": "AMRC",
+      "qdate": "2016-03-02",
+      "close_return": 0.1683,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary Item 2.02 states annual results were announced March 3, after the March 2 jump. Targeted search did not recover a distinct attributable March 2 catalyst; later earnings cannot be backdated. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1488139/000148813916000088/a8kearningreleaseq4153315.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch34_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for AMRC. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/AMRC?date=2016-03-02&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1488139/000148813916000088/a8kearningreleaseq4153315.htm"
         ]
       }
     }

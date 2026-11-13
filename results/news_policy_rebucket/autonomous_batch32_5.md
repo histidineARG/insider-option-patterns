@@ -1,0 +1,15 @@
+# autonomous_batch32_5
+
+Reviewed 2026-11-12. {'drop': 2, 'defer': 3}
+
+- **CLVS 2016-11-09 — drop / macro_sector**: Contemporaneous account identifies Clovis among election-driven biotech gainers. Legacy macro attribution retained. [Source 1](https://www.foxbusiness.com/markets/heres-why-these-biopharma-stocks-soared-at-least-10-today) [Source 2](https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/)
+- **EXEL 2016-11-09 — drop / macro_sector**: Post-election review specifically links Exelixis gain to changed drug-pricing expectations. Retain sector exclusion. [Source 1](https://www.foxbusiness.com/markets/election-2016s-healthcare-winners-and-losers) [Source 2](https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/)
+- **PRTA 2016-11-09 — defer / unclassified**: Primary Phase 1b PRX002 data release is timestamped November 9 at 16:05 ET, after this close-to-close session. Concurrent supply agreement makes Prothena the purchaser of manufacturing services, not recipient of a customer award. Broad election rally is corroborated, but direct issuer price attribution remains unresolved; do not backdate after-close data. [Source 1](https://www.globenewswire.com/news-release/2016/11/09/888497/24041/en/prothena-reports-results-from-phase-1b-study-of-prx002-demonstrating-robust-antibody-cns-penetration-and-significant-reduction-of-free-serum-alpha-synuclein-in-patients-with-parkin.html) [Source 2](https://www.sec.gov/Archives/edgar/data/1559053/000155905316000089/a8-k2016rentschler.htm) [Source 3](https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/)
+- **RVNC 2016-11-09 — defer / unclassified**: Search corroborates broad November 9 biotech rally, but did not recover issuer-specific price attribution sufficient to confirm old macro label. Primary financial results were November 3 and are not automatically a November 9 earnings cause. Leave pending rather than infer all sector constituents share one catalyst. [Source 1](https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/) [Source 2](https://www.sec.gov/Archives/edgar/data/1479290/000147929016000054/rvnc11320168k.htm)
+- **CNCE 2016-11-09 — defer / unclassified**: Targeted Concert/date/results search did not establish attributable same-session company event or direct issuer election-rally attribution. General sector report corroborates context only. Leave pending rather than certify old macro assignment from sector membership. [Source 1](https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/)
+
+Current ledger: {'keep': 225, 'drop_earnings': 77, 'drop_peer_sympathy': 7, 'pending_news_review': 81, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 20, 'drop_analyst': 8, 'drop_financing': 8, 'drop_other_not_234': 239, 'drop_operating_update': 5, 'drop_regulatory_process': 3, 'drop_peer_earnings': 1, 'drop_passive_ownership': 1, 'drop_trial_anticipation': 1, 'drop_short_covering_media': 1, 'drop_etf': 2}.
+
+No database-derived snapshot or saved news queue refreshed.
+Existing price attribution retained unless a conflict is explicitly deferred.
+No exhaustive earlier-public search; no training or evaluation gates unlocked.
