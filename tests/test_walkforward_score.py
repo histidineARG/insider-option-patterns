@@ -1,8 +1,9 @@
 import unittest
-from datetime import date
+from datetime import date, timedelta
 
 from walkforward_score import (
-    causal_features, classify_news, forward_flags, random_hit_probability, slate_summary,
+    causal_features, classify_news, feature_days, forward_flags, horizon_end_index,
+    random_hit_probability, slate_summary,
 )
 
 
@@ -47,6 +48,25 @@ class WalkforwardTests(unittest.TestCase):
         self.assertEqual(summary['false_picks_per_hit'], 2)
         self.assertEqual(summary['hits']['ma'], 1)
         self.assertEqual(summary['hits']['other'], 0)
+
+    def test_one_day_inside_forty_calendar_days_sets_the_peak(self):
+        sessions = [date(2024, 1, 1) + timedelta(days=i) for i in range(100)]
+        index = {day: i for i, day in enumerate(sessions)}
+        score = date(2024, 2, 15)
+        window = feature_days(sessions, index, score)
+        self.assertIn(date(2024, 1, 6), window)
+        self.assertNotIn(date(2024, 1, 5), window)
+        self.assertEqual(window[-1], score)
+        expiry = date(2024, 3, 15)
+        rows = {day: {expiry: dict(call_vol=1, put_vol=1, otm_call_vol=0, call_oi=1)} for day in window}
+        spike = date(2024, 1, 16)
+        rows[spike] = {expiry: dict(call_vol=500, put_vol=1, otm_call_vol=400, call_oi=20)}
+        closes = {day: 10.0 for day in window}
+        closes[score] = 10.5
+        features = causal_features(rows, closes, window, score)
+        self.assertAlmostEqual(features['log_peak_call'], __import__('math').log1p(500))
+        end = horizon_end_index(sessions, index, score, '40d')
+        self.assertEqual(sessions[end], date(2024, 3, 26))
 
     def test_news_class_uses_only_sessions_after_the_score(self):
         sessions = [date(2024, 1, d) for d in range(10, 16)]

@@ -1,7 +1,8 @@
 """Daily top-3 and top-4 scan with the frozen logistic.
 
-Each score uses only the close of that session and the ten sessions ending
-there. The forward jump is the outcome. Coefficients are not refit.
+A purchase can be one day or several days, as far as 40 calendar days before
+the announcement. The score uses only sessions from that span through the
+scoring close. The forward jump is the outcome. Coefficients are not refit.
 """
 from __future__ import annotations
 
@@ -19,8 +20,8 @@ from ma_signal_model import (
     FEATURES, OPTION_FEATURES, RIDGE, design, features_for, fold_of, overlaps_earnings, window_features,
 )
 
-LOOKBACK = 10
-HORIZONS = (5, 10, 20)
+TRADE_DAYS = 40
+HORIZONS = (5, 10, 20, '40d')
 JUMP = 0.15
 HAZARD_UP = 1.0
 HAZARD_DOWN = -0.5
@@ -49,6 +50,32 @@ def monthly_dates(start: date, end: date) -> list[date]:
             days.append(day)
         day += timedelta(days=1)
     return days
+
+
+def feature_days(sessions, index, score_date, calendar_days: int = TRADE_DAYS) -> list[date]:
+    """Sessions from 40 calendar days before the close through that close."""
+    earliest = score_date - timedelta(days=calendar_days)
+    end = index[score_date]
+    start = end
+    while start > 0 and sessions[start - 1] >= earliest:
+        start -= 1
+    return sessions[start:end + 1]
+
+
+def horizon_end_index(sessions, index, score_date, horizon):
+    """Last session index of a forward horizon. None when the horizon is incomplete."""
+    start = index[score_date]
+    if horizon == '40d':
+        limit = score_date + timedelta(days=TRADE_DAYS)
+        if sessions[-1] < limit:
+            return None
+        end = start
+        while end + 1 < len(sessions) and sessions[end + 1] <= limit:
+            end += 1
+        return None if end == start else end
+    if start + horizon >= len(sessions):
+        return None
+    return start + horizon
 
 
 def causal_features(rows, closes, days, score_date):
@@ -252,11 +279,12 @@ def scan_symbol(symbol: str, sessions, index, monthlies, splits) -> list[dict]:
     if not chain or not closes:
         return []
     out = []
-    last = len(sessions) - 1
-    for i, day in enumerate(sessions):
-        if day < START or day > END or i < LOOKBACK:
+    for day in sessions:
+        if day < START or day > END or day not in index:
             continue
-        window = sessions[i - LOOKBACK:i + 1]
+        window = feature_days(sessions, index, day)
+        if len(window) < 2 or window[0] not in closes or day not in closes:
+            continue
         try:
             features = causal_features(chain, closes, window, day)
         except ValueError:
@@ -264,20 +292,26 @@ def scan_symbol(symbol: str, sessions, index, monthlies, splits) -> list[dict]:
         if features is None:
             continue
         scaled, _, _ = design([features], FEATURES, scan_symbol.means, scan_symbol.sds)
-        # Rank on the linear score. The probability saturates at 1 when the
-        # ten-session return is large, and a saturated probability does not order those names.
+        option_scaled, _, _ = design([features], OPTION_FEATURES, scan_symbol.option_means, scan_symbol.option_sds)
+        # Rank on the linear score. The probability saturates near 1 when the
+        # lookback return is large, and a saturated probability does not order those names.
         score = sum(weight * value for weight, value in zip(scan_symbol.beta, scaled[0]))
+        option_score = sum(weight * value for weight, value in zip(scan_symbol.option_beta, option_scaled[0]))
         spot = closes.get(day)
         jumps = {}
         for horizon in HORIZONS:
-            if i + horizon > last:
+            end_i = horizon_end_index(sessions, index, day, horizon)
+            if end_i is None:
                 jumps[str(horizon)] = None
                 continue
-            future_days = sessions[i + 1:i + horizon + 1]
+            future_days = sessions[index[day] + 1:end_i + 1]
             future = [closes.get(item) for item in future_days]
             split_hit = any((symbol, item) in splits for item in future_days)
             jumps[str(horizon)] = forward_flags(spot, future, split_hit)
-        out.append(dict(day=day.isoformat(), score=score, pre_return=features['pre_return'], jumps=jumps))
+        out.append(dict(
+            day=day.isoformat(), score=score, option_score=option_score,
+            pre_return=features['pre_return'], jumps=jumps,
+        ))
     return out
 
 
@@ -302,6 +336,15 @@ def _load_news(root: Path, sessions, index):
     return ma, earn
 
 
+def _push(heap_for_day, item):
+    if len(heap_for_day) < 4:
+        heap_for_day.append(item)
+        heap_for_day.sort(key=lambda rec: rec[0], reverse=True)
+    elif item[0] > heap_for_day[-1][0]:
+        heap_for_day[-1] = item
+        heap_for_day.sort(key=lambda rec: rec[0], reverse=True)
+
+
 def _merge(symbol, rows, heaps, counts):
     for row in rows:
         day = row['day']
@@ -316,23 +359,18 @@ def _merge(symbol, rows, heaps, counts):
                 bucket['terminal'] += 1
             if flag['peak']:
                 bucket['peak'] += 1
-        item = (row['score'], symbol, row['pre_return'], row['jumps'])
-        heap = heaps.setdefault(day, [])
-        if len(heap) < 4:
-            heap.append(item)
-            heap.sort(key=lambda rec: rec[0], reverse=True)
-        elif row['score'] > heap[-1][0]:
-            heap[-1] = item
-            heap.sort(key=lambda rec: rec[0], reverse=True)
+        jumps = row['jumps']
+        _push(heaps['five'].setdefault(day, []), (row['score'], symbol, row['pre_return'], jumps))
+        _push(heaps['option'].setdefault(day, []), (row['option_score'], symbol, row['pre_return'], jumps))
 
 
 def render(report: dict) -> str:
     lines = [
         '## Daily top picks, 2026-11-13',
         '',
-        'On each session the frozen logistic scores every optionable name from the ten sessions ending at that close. Names are ordered by the linear score, because the probability saturates near 1 when that ten-session return is very large. It names the top 3 and the top 4. A hit is a later close at least 15% above that close, either at the horizon or at the highest close inside it. A one-day move of +100% or −50%, or a split, is not counted as a jump. A session counts only when every name in the slate has a close at that horizon. The coefficients are the 2013–2019 fit. This test does not choose a new cutoff.',
+        'On each session the frozen logistic scores every optionable name from the sessions in the 40 calendar days ending at that close. A single day in that span sets the peak call volume and the largest open-interest build. Several days add up in the call/put total. Names are ordered by the linear score. The five-feature score still includes the stock’s own return over that span. The option-only score leaves that return out, so one call print can rank a name that has not already run up. It names the top 3 and the top 4. A hit is a later close at least 15% above the scoring close, either at 5, 10, or 20 sessions or inside the next 40 calendar days. A one-day move of +100% or −50%, or a split, is not counted as a jump. A session counts only when every name in the slate has a close at that horizon. The coefficients are the 2013–2019 fit. This test does not choose a new cutoff.',
         '',
-        'The stock return in the score is the change from ten sessions earlier through the scoring close. It does not use the path into a later headline. That return has the largest frozen weight, so the top of the list is the names that already rose the most. On this run the median ten-session return of the highest-ranked name was about 25 times, and the 10th percentile was still about 9 times.',
+        'The stock return stops at the scoring close. It does not use the path into a later headline.',
         '',
         f"Names scanned: {report.get('symbols', 0)}. Scoring sessions: {report.get('sessions', 0)}. Standardization check gap: {report.get('five_gap')}.",
         '',
@@ -340,17 +378,28 @@ def render(report: dict) -> str:
     if report.get('reason'):
         lines.append(report['reason'])
         return '\n'.join(lines) + '\n'
-    lines.append('| Slate | Horizon | Jump | Dates | Date hit rate | Random slate | Hit rate per pick | False picks per hit | M&A | Earnings | Other |')
-    lines.append('| --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |')
-    for picks in (3, 4):
-        for horizon in HORIZONS:
-            for kind in ('terminal', 'peak'):
-                block = report['results'][str(picks)][str(horizon)][kind]
-                lines.append(
-                    f"| top {picks} | {horizon} | {kind} | {block['dates']} | {_fmt(block['date_hit_rate'])} | "
-                    f"{_fmt(block['base_rate'])} | {_fmt(block['pick_hit_rate'])} | {_fmt(block['false_picks_per_hit'])} | "
-                    f"{block['hits']['ma']} | {block['hits']['earnings']} | {block['hits']['other']} |"
-                )
+    lines.append('| Score | Slate | Horizon | Jump | Dates | Date hit rate | Random slate | Hit rate per pick | False picks per hit | M&A | Earnings | Other |')
+    lines.append('| --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |')
+    for model, title in (('five', 'five-feature'), ('option', 'option-only')):
+        block_model = (report.get('models') or {}).get(model) or {}
+        results = block_model.get('results') or {}
+        for picks in (3, 4):
+            for horizon in HORIZONS:
+                for kind in ('terminal', 'peak'):
+                    block = results.get(str(picks), {}).get(str(horizon), {}).get(kind)
+                    if not block:
+                        continue
+                    lines.append(
+                        f"| {title} | top {picks} | {horizon} | {kind} | {block['dates']} | {_fmt(block['date_hit_rate'])} | "
+                        f"{_fmt(block['base_rate'])} | {_fmt(block['pick_hit_rate'])} | {_fmt(block['false_picks_per_hit'])} | "
+                        f"{block['hits']['ma']} | {block['hits']['earnings']} | {block['hits']['other']} |"
+                    )
+        pre = block_model.get('top_pre_return')
+        if pre:
+            lines.append('')
+            lines.append(
+                f"Highest {title} name: median lookback return {pre['median']:.3f}, 10th percentile {pre['p10']:.3f}."
+            )
     lines += [
         '',
         'Date hit rate is the share of sessions where at least one name in the slate jumps. Random slate is the average probability that a random draw of the same size, from that session’s optionable names, contains a jump. False picks per hit is the number of slate names that do not jump divided by the number that do.',
@@ -399,14 +448,17 @@ def run(root: Path) -> dict:
     scan_symbol.means = standard['means']
     scan_symbol.sds = standard['sds']
     scan_symbol.beta = standard['beta']
+    scan_symbol.option_means = standard['option_means']
+    scan_symbol.option_sds = standard['option_sds']
+    scan_symbol.option_beta = standard['option_beta']
     checkpoint = root / 'results' / 'insider_footprint' / 'walk_checkpoint.json'
-    if checkpoint.exists():
-        saved = json.loads(checkpoint.read_text())
+    saved = json.loads(checkpoint.read_text()) if checkpoint.exists() else {}
+    if saved.get('version') == 2:
         heaps = saved['heaps']
         counts = saved['counts']
         done = set(saved['done'])
     else:
-        heaps = {}
+        heaps = {'five': {}, 'option': {}}
         counts = dict(eligible={}, horizon={})
         done = set()
     pending = [symbol for symbol in symbols if symbol not in done]
@@ -414,7 +466,7 @@ def run(root: Path) -> dict:
     finished = len(done)
 
     def _checkpoint():
-        checkpoint.write_text(json.dumps(dict(heaps=heaps, counts=counts, done=sorted(done))) + '\n')
+        checkpoint.write_text(json.dumps(dict(version=2, heaps=heaps, counts=counts, done=sorted(done))) + '\n')
 
     with ThreadPoolExecutor(max_workers=4) as pool:
         futures = {pool.submit(scan_symbol, symbol, sessions, index, monthlies, splits): symbol for symbol in pending}
@@ -439,22 +491,34 @@ def run(root: Path) -> dict:
     return report
 
 
-def _finish(symbols, heaps, counts, standard, sessions, index, ma, earn) -> dict:
-    results = {}
+def _slate_for(heap, sessions, index, ma, earn):
     labeled = {}
-    for day, heap in heaps.items():
+    for day, items in heap.items():
         score_day = date.fromisoformat(day)
         slate = []
-        for item in heap:
+        for item in items:
             news = {}
             for span in HORIZONS:
-                if score_day not in index or index[score_day] + span >= len(sessions):
+                end_i = horizon_end_index(sessions, index, score_day, span)
+                if end_i is None:
                     news[str(span)] = 'other'
                 else:
                     news[str(span)] = classify_news(
-                        item[1], score_day, sessions[index[score_day] + span], sessions, index, ma, earn)
+                        item[1], score_day, sessions[end_i], sessions, index, ma, earn)
             slate.append(dict(score=item[0], symbol=item[1], pre_return=item[2], jumps=item[3], news=news))
         labeled[day] = slate
+    return labeled
+
+
+def _quantile(values, fraction):
+    if not values:
+        return None
+    ordered = sorted(values)
+    return ordered[int(fraction * (len(ordered) - 1))]
+
+
+def _model_results(labeled, counts) -> dict:
+    results = {}
     for picks in (3, 4):
         results[str(picks)] = {}
         for horizon in HORIZONS:
@@ -469,12 +533,25 @@ def _finish(symbols, heaps, counts, standard, sessions, index, ma, earn) -> dict
                     }
                     records.append(dict(slate=slate, universe=universe))
                 results[str(picks)][str(horizon)][kind] = slate_summary(records, picks, horizon, kind)
+    return results
+
+
+def _finish(symbols, heaps, counts, standard, sessions, index, ma, earn) -> dict:
+    models = {}
+    for name in ('five', 'option'):
+        labeled = _slate_for(heaps.get(name) or {}, sessions, index, ma, earn)
+        pres = [slate[0]['pre_return'] for slate in labeled.values() if slate]
+        models[name] = dict(
+            results=_model_results(labeled, counts),
+            top_pre_return=dict(median=_quantile(pres, 0.5), p10=_quantile(pres, 0.1)),
+        )
     return dict(
         symbols=len(symbols),
-        sessions=len(heaps),
+        sessions=len((heaps.get('five') or {})),
+        trade_days=TRADE_DAYS,
         five_gap=standard.get('five_gap'),
         option_gap=standard.get('option_gap'),
-        results=results,
+        models=models,
     )
 
 
