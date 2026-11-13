@@ -14,3 +14,16 @@ Reviewed 2026-11-13 from the alert days in `RESOLVED_SCREEN.md`. A name is kept 
 | LSCC | several | December 7.5, and November 7.5 on one day | 180–1,193 | 254–4,187 | higher | about flat | Drop. No day trades more than were already open in that contract |
 
 The four keeps are candidates of the same shape as Heinz and Kaman. They are not identifications of a trader.
+
+## Through to the announcement
+
+Open interest below is the position entering that session. The figure on the jump date is the position still open before that day's trading. The ledger dates each announcement on the jump date and does not record an earlier public print. That is not a full first-public audit.
+
+| Name | Contract | Open on the buy | Open into the jump | What the ledger says |
+| --- | --- | ---: | ---: | --- |
+| WMS | February 20 | 91 on 2013-01-11 | 1,639 on 2013-01-31 | Scientific Games agreed to buy WMS Industries for $26 a share in cash. The stock stayed near $16–$18 while the open interest was built |
+| LSI | April 9 | 600 on 2013-12-10 | 2,792 on 2013-12-16 | Avago agreed to buy LSI for $11.15 a share in cash. The stock stayed near $8 until the jump |
+| LIN | April 22.5 | 47 on 2014-03-18 | 264 on 2014-03-21 | Media General agreed to buy LIN Media. Open interest was unchanged on the two sessions in between, with no volume |
+| GTN | January 10 | 60 on 2013-11-19 | 1,060 on 2013-11-20 | Gray Television announced station acquisitions that morning. The calls are on the buyer, not on a company being taken out |
+
+All four were still open into the announcement. WMS, LSI, and LIN are target takeouts. GTN is the buyer.
