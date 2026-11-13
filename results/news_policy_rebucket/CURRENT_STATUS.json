@@ -1,16 +1,16 @@
 {
   "reviewed_on": "2026-11-12",
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "31dbc6435678d7736edae49ab661d90ee0737ba94a8900b9b3cf6ffcfa741933",
+  "ledger_sha256": "bde58446ed51ec1be02679f9f596a1f47e3ab1ac6da2399bbf53d050a862a5a9",
   "n_unique_rows": 681,
   "review_counts": {
-    "keep": 212,
-    "drop_earnings": 37,
-    "drop_other_not_234": 353,
-    "pending_news_review": 40,
+    "keep": 217,
+    "drop_earnings": 49,
+    "drop_other_not_234": 322,
+    "pending_news_review": 50,
     "drop_mechanical": 1,
     "drop_stale_news": 1,
-    "drop_macro_sector": 10,
+    "drop_macro_sector": 13,
     "drop_analyst": 6,
     "drop_financing": 8,
     "drop_peer_sympathy": 3,
@@ -20,23 +20,25 @@
     "drop_passive_ownership": 1,
     "drop_trial_anticipation": 1,
     "drop_short_covering_media": 1,
-    "drop_etf": 1
+    "drop_etf": 2
   },
-  "n_policy_reviewed": 167,
-  "n_autonomous_reviewed": 141,
+  "n_policy_reviewed": 198,
+  "n_autonomous_reviewed": 172,
   "this_run": {
     "batches": [
-      "autonomous_batch13_10"
+      "autonomous_batch14_12",
+      "autonomous_batch15_12",
+      "autonomous_batch16_7"
     ],
-    "n_reviewed": 10,
+    "n_reviewed": 31,
     "decisions": {
-      "defer": 4,
-      "drop": 5,
-      "keep": 1
+      "defer": 10,
+      "drop": 16,
+      "keep": 5
     }
   },
-  "n_legacy_awaiting_reassessment": 353,
-  "n_pending_in_manual_ledger": 40,
+  "n_legacy_awaiting_reassessment": 322,
+  "n_pending_in_manual_ledger": 50,
   "database_snapshots_refreshed": false,
   "population_news_queue_refreshed": false,
   "training_readiness_certified": false

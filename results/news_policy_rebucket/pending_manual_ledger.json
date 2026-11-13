@@ -1,7 +1,7 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "31dbc6435678d7736edae49ab661d90ee0737ba94a8900b9b3cf6ffcfa741933",
-  "n_rows": 40,
+  "ledger_sha256": "bde58446ed51ec1be02679f9f596a1f47e3ab1ac6da2399bbf53d050a862a5a9",
+  "n_rows": 50,
   "reviews": [
     {
       "symbol": "VISN",
@@ -102,6 +102,33 @@
         "decision": "defer",
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/1504461/000110465916089165/a16-1613_1ex99d1.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "GOL",
+      "qdate": "2016-03-03",
+      "close_return": 0.432,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Reuters March 2 account confirms provisional ownership-cap change from 20% to 49%, with prior anticipation already affecting Gol. Broader sector rule versus class 9 issuer regulatory unlock and distinct reaction-session attribution remain unresolved. Primary ADS ratio change was expected February 26, so it is not automatically a March 2/3 mechanical explanation. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://uk.investing.com/news/stock-market-news/brazil-raises-foreign-ownership-limit-on-airlines-to-49-pct-91144",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Brazil provisional measure raising foreign airline ownership cap 20%→49%; capital-structure/regulatory relief speculation, not keep 2/3/4.",
+          "locator": "https://oglobo.globo.com/economia/negocios/acoes-da-gol-disparam-apos-aumento-de-participacao-estrangeira-em-aereas-18786930"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://uk.investing.com/news/stock-market-news/brazil-raises-foreign-ownership-limit-on-airlines-to-49-pct-91144",
+          "https://www.sec.gov/Archives/edgar/data/1291733/000129281416003600/gol20160225_6k.htm"
         ]
       }
     },
@@ -260,6 +287,32 @@
         "decision": "defer",
         "sources": [
           "https://www.fool.com/investing/2016/06/14/why-exact-sciences-stock-is-soaring-265-today.aspx"
+        ]
+      }
+    },
+    {
+      "symbol": "ASYS",
+      "qdate": "2015-12-21",
+      "close_return": 0.33,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recovered same-title issuer repurchase release is dated January 5, 2009, not December 2015; original locator is inaccessible. This cannot establish a December 21 buyback catalyst. Targeted date/issuer search did not recover a supported same-session order, partnership or guidance change. Leave attribution unresolved rather than infer financing or sector causality from stale source. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.amtechsystems.com/news-media/press-releases/detail/254/amtech-systems-announces-stock-repurchase-program",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Solar equipment name rally in week of ITC extension / order buzz; no keep-2/3/4 company catalyst identified for session.",
+          "locator": "https://www.amtechsystems.com/investors/press-releases/detail/70/amtech-systems-announces-stock-repurchase-program"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.amtechsystems.com/news-media/press-releases/detail/254/amtech-systems-announces-stock-repurchase-program"
         ]
       }
     },
@@ -498,6 +551,32 @@
         "decision": "defer",
         "sources": [
           "https://investor.galectintherapeutics.com/static-files/d19386da-63cf-496f-98ce-32c51288107d"
+        ]
+      }
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2013-12-27",
+      "close_return": 0.2594,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "December 27 contemporaneous account attributes rally to EV sales acceleration comments earlier that week. Expanded class 8 could cover a material standalone forward step-up, but original comments, quantified change and earliest public timing were not recovered. Do not dismiss solely under old 2/3/4 policy or assume the comments first appeared on jump date. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.fool.com/investing/general/2013/12/27/why-kandi-technologies-amyris-and-solazyme-are-tod.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Management comments that 2014 EV sales could accelerate/surpass ATVs amid China EV sharing push. Sales/guidance chatter, not keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2013/12/27/why-kandi-technologies-amyris-and-solazyme-are-tod.aspx"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.fool.com/investing/general/2013/12/27/why-kandi-technologies-amyris-and-solazyme-are-tod.aspx"
         ]
       }
     },
@@ -849,6 +928,33 @@
       }
     },
     {
+      "symbol": "X",
+      "qdate": "2016-03-02",
+      "close_return": 0.235,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Commerce March 1 fact sheet establishes affirmative preliminary cold-rolled-steel antidumping determinations; March 2 market account links steel rally to duties. Expanded class 9 may apply to a petition-related regulatory unlock, but preliminary industry-wide trade remedy versus issuer-specific final resolution needs consistent policy treatment. Do not automatically reject simply as old-policy trade news or assert final approval. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://enforcement.trade.gov/download/factsheets/factsheet-multiple-cold-rolled-steel-flat-products-ad-prelim-030116.pdf",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Commerce anti-dumping tariffs on cold-rolled steel imports (up to 266% China). Policy/trade, not keep 2/3/4.",
+          "locator": "https://www.foxbusiness.com/markets/steel-stocks-soar-after-the-u-s-slaps-anti-dumping-tariffs-on-china-x-aks-mt-tmst"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://enforcement.trade.gov/download/factsheets/factsheet-multiple-cold-rolled-steel-flat-products-ad-prelim-030116.pdf",
+          "https://www.foxbusiness.com/markets/steel-stocks-soar-after-the-u-s-slaps-anti-dumping-tariffs-on-china-x-aks-mt-tmst"
+        ]
+      }
+    },
+    {
       "symbol": "AMED",
       "qdate": "2013-08-09",
       "close_return": 0.2244,
@@ -872,6 +978,33 @@
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/896262/000110465913061771/a13-18260_1sc13d.htm",
           "https://www.penews.com/articles/private-equity-kkr-amedisys-20130812"
+        ]
+      }
+    },
+    {
+      "symbol": "GOL",
+      "qdate": "2016-03-02",
+      "close_return": 0.2243,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Reuters March 2 account confirms provisional ownership-cap change from 20% to 49%, with prior anticipation already affecting Gol. Broader sector rule versus class 9 issuer regulatory unlock and distinct reaction-session attribution remain unresolved. Primary ADS ratio change was expected February 26, so it is not automatically a March 2/3 mechanical explanation. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://uk.investing.com/news/stock-market-news/brazil-raises-foreign-ownership-limit-on-airlines-to-49-pct-91144",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Brazil MP raising foreign airline ownership cap 20%→49%. Policy, not keep 2/3/4.",
+          "locator": "https://oglobo.globo.com/economia/negocios/acoes-da-gol-disparam-apos-aumento-de-participacao-estrangeira-em-aereas-18786930"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://uk.investing.com/news/stock-market-news/brazil-raises-foreign-ownership-limit-on-airlines-to-49-pct-91144",
+          "https://www.sec.gov/Archives/edgar/data/1291733/000129281416003600/gol20160225_6k.htm"
         ]
       }
     },
@@ -1010,6 +1143,115 @@
       }
     },
     {
+      "symbol": "ROLL",
+      "qdate": "2015-03-27",
+      "close_return": 0.2116,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Sargent acquisition is substantively eligible under class 2 acquirer exception, contrary to legacy categorical exclusion. Primary release and filing say March 26, with March 27 2 p.m. ET call. Exact initial release time and independent March 27 price attribution not recovered in targeted search; defer session alignment rather than automatically promoting. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1324948/000114420415018685/v405578_ex99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "RBC Bearings as buyer agreed to acquire Dover Sargent Aerospace for $500M. Acquirer deal, not target M&A keep.",
+          "locator": "https://investor.rbcbearings.com/news-releases/news-release-details/rbc-bearings-acquire-dovers-sargent-aerospace-defense-business"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1324948/000114420415018685/v405578_ex99-1.htm",
+          "https://www.sec.gov/Archives/edgar/data/1324948/000114420415018685/v405578_8k.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "IDCC",
+      "qdate": "2014-06-03",
+      "close_return": 0.2069,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary June 3 filing and issuer release confirm royalty-bearing Samsung patent license settling pending litigation. Substantively class 6, with class 9 overlap; contemporaneous coverage establishes news before market open. Targeted search did not recover direct jump attribution or resolve which component dominated. Replace generic no-news label with documented candidate but leave attribution pending. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1405495/000140549514000021/form8-kx06x03x2014.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch16_7",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/IDCC?date=2014-06-03&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1405495/000140549514000021/form8-kx06x03x2014.htm",
+          "https://www.globenewswire.com/news-release/2014/06/03/641360/24691/en/InterDigital-Announces-Patent-License-Agreement-With-Samsung.html",
+          "https://techcrunch.com/2014/06/03/samsung-interdigital-patents/"
+        ]
+      }
+    },
+    {
+      "symbol": "HTLD",
+      "qdate": "2013-11-12",
+      "close_return": 0.2067,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Issuer Gordon Trucking acquisition release timestamp November 11 18:24 ET supports November 12 reaction-session candidate, eligible under class 2 acquirer exception. Targeted search recovered primary transaction evidence and contemporaneous forum reaction, but no independent market attribution adequate to promote. Acquisition is documented; price-cause verification remains pending. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.globenewswire.com/news-release/2013/11/11/588849/15800/en/Heartland-Express-Inc-Acquires-Gordon-Trucking-Inc.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch16_7",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/HTLD?date=2013-11-12&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.globenewswire.com/news-release/2013/11/11/588849/15800/en/Heartland-Express-Inc-Acquires-Gordon-Trucking-Inc.html",
+          "https://www.sec.gov/Archives/edgar/data/799233/000079923313000065/exhibit991.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "MATX",
+      "qdate": "2014-11-12",
+      "close_return": 0.2046,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary November 11 release establishes Horizon acquisition and 5 p.m. ET transaction call, a plausible next-session class 2 acquirer catalyst. Targeted search recovered deal evidence but not direct November 12 jump attribution or exact initial release timestamp. Preserve candidate acquisition rather than unsupported no-news description; attribution remains pending. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/3453/000110465914079226/a14-24264_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day M&A/biotech/tech keep PR for Matson. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MATX?date=2014-11-12&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/3453/000110465914079226/a14-24264_1ex99d1.htm",
+          "https://www.sec.gov/Archives/edgar/data/3453/000110465914079225/a14-24264_18k.htm"
+        ]
+      }
+    },
+    {
       "symbol": "IRM",
       "qdate": "2014-06-26",
       "close_return": 0.2005,
@@ -1060,6 +1302,32 @@
           "https://www.sec.gov/Archives/edgar/data/1367644/000136764416000084/exhibit99.htm",
           "https://www.sec.gov/Archives/edgar/data/1367644/000136764416000084/form8kearningsq3q2016.htm",
           "https://investors.emergentbiosolutions.com/news/news-details/2016/Emergent-BioSolutions-Awarded-BARDA-Contract-for-Advanced-Development-and-Delivery-of-NuThrax-a-Next-Generation-Anthrax-Vaccine-Valued-at-Up-to-1-6-Billion-09-30-2016/default.aspx"
+        ]
+      }
+    },
+    {
+      "symbol": "TLYS",
+      "qdate": "2015-01-13",
+      "close_return": 0.174,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "January 12 issuer business update materially raises still-open Q4 EPS and comparable-sales outlook ahead of January 13 conference, a plausible standalone class 8 candidate. Exact release time and direct January 13 price attribution were not recovered; concurrent analyst actions may matter. Do not infer release timing from conference date or automatically call an unfinished-quarter outlook full earnings. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1524025/000119312515008121/d851005dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch16_7",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for TLYS. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/TLYS?date=2015-01-13&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1524025/000119312515008121/d851005dex991.htm"
         ]
       }
     }

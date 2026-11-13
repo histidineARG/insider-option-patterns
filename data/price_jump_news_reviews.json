@@ -823,10 +823,27 @@
       "qdate": "2016-03-03",
       "close_return": 0.432,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Brazil provisional measure raising foreign airline ownership cap 20%→49%; capital-structure/regulatory relief speculation, not keep 2/3/4.",
-      "locator": "https://oglobo.globo.com/economia/negocios/acoes-da-gol-disparam-apos-aumento-de-participacao-estrangeira-em-aereas-18786930"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Reuters March 2 account confirms provisional ownership-cap change from 20% to 49%, with prior anticipation already affecting Gol. Broader sector rule versus class 9 issuer regulatory unlock and distinct reaction-session attribution remain unresolved. Primary ADS ratio change was expected February 26, so it is not automatically a March 2/3 mechanical explanation. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://uk.investing.com/news/stock-market-news/brazil-raises-foreign-ownership-limit-on-airlines-to-49-pct-91144",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Brazil provisional measure raising foreign airline ownership cap 20%→49%; capital-structure/regulatory relief speculation, not keep 2/3/4.",
+          "locator": "https://oglobo.globo.com/economia/negocios/acoes-da-gol-disparam-apos-aumento-de-participacao-estrangeira-em-aereas-18786930"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://uk.investing.com/news/stock-market-news/brazil-raises-foreign-ownership-limit-on-airlines-to-49-pct-91144",
+          "https://www.sec.gov/Archives/edgar/data/1291733/000129281416003600/gol20160225_6k.htm"
+        ]
+      }
     },
     {
       "symbol": "PTCT",
@@ -1611,10 +1628,26 @@
       "qdate": "2015-12-21",
       "close_return": 0.33,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Solar equipment name rally in week of ITC extension / order buzz; no keep-2/3/4 company catalyst identified for session.",
-      "locator": "https://www.amtechsystems.com/investors/press-releases/detail/70/amtech-systems-announces-stock-repurchase-program"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recovered same-title issuer repurchase release is dated January 5, 2009, not December 2015; original locator is inaccessible. This cannot establish a December 21 buyback catalyst. Targeted date/issuer search did not recover a supported same-session order, partnership or guidance change. Leave attribution unresolved rather than infer financing or sector causality from stale source. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.amtechsystems.com/news-media/press-releases/detail/254/amtech-systems-announces-stock-repurchase-program",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Solar equipment name rally in week of ITC extension / order buzz; no keep-2/3/4 company catalyst identified for session.",
+          "locator": "https://www.amtechsystems.com/investors/press-releases/detail/70/amtech-systems-announces-stock-repurchase-program"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.amtechsystems.com/news-media/press-releases/detail/254/amtech-systems-announces-stock-repurchase-program"
+        ]
+      }
     },
     {
       "symbol": "RMTI",
@@ -3370,10 +3403,26 @@
       "qdate": "2013-12-27",
       "close_return": 0.2594,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Management comments that 2014 EV sales could accelerate/surpass ATVs amid China EV sharing push. Sales/guidance chatter, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2013/12/27/why-kandi-technologies-amyris-and-solazyme-are-tod.aspx"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "December 27 contemporaneous account attributes rally to EV sales acceleration comments earlier that week. Expanded class 8 could cover a material standalone forward step-up, but original comments, quantified change and earliest public timing were not recovered. Do not dismiss solely under old 2/3/4 policy or assume the comments first appeared on jump date. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.fool.com/investing/general/2013/12/27/why-kandi-technologies-amyris-and-solazyme-are-tod.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Management comments that 2014 EV sales could accelerate/surpass ATVs amid China EV sharing push. Sales/guidance chatter, not keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2013/12/27/why-kandi-technologies-amyris-and-solazyme-are-tod.aspx"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.fool.com/investing/general/2013/12/27/why-kandi-technologies-amyris-and-solazyme-are-tod.aspx"
+        ]
+      }
     },
     {
       "symbol": "WMB",
@@ -4864,10 +4913,27 @@
       "qdate": "2016-03-02",
       "close_return": 0.235,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Commerce anti-dumping tariffs on cold-rolled steel imports (up to 266% China). Policy/trade, not keep 2/3/4.",
-      "locator": "https://www.foxbusiness.com/markets/steel-stocks-soar-after-the-u-s-slaps-anti-dumping-tariffs-on-china-x-aks-mt-tmst"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Commerce March 1 fact sheet establishes affirmative preliminary cold-rolled-steel antidumping determinations; March 2 market account links steel rally to duties. Expanded class 9 may apply to a petition-related regulatory unlock, but preliminary industry-wide trade remedy versus issuer-specific final resolution needs consistent policy treatment. Do not automatically reject simply as old-policy trade news or assert final approval. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://enforcement.trade.gov/download/factsheets/factsheet-multiple-cold-rolled-steel-flat-products-ad-prelim-030116.pdf",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Commerce anti-dumping tariffs on cold-rolled steel imports (up to 266% China). Policy/trade, not keep 2/3/4.",
+          "locator": "https://www.foxbusiness.com/markets/steel-stocks-soar-after-the-u-s-slaps-anti-dumping-tariffs-on-china-x-aks-mt-tmst"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://enforcement.trade.gov/download/factsheets/factsheet-multiple-cold-rolled-steel-flat-products-ad-prelim-030116.pdf",
+          "https://www.foxbusiness.com/markets/steel-stocks-soar-after-the-u-s-slaps-anti-dumping-tariffs-on-china-x-aks-mt-tmst"
+        ]
+      }
     },
     {
       "symbol": "SNOW",
@@ -5351,10 +5417,27 @@
       "qdate": "2016-03-02",
       "close_return": 0.2243,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Brazil MP raising foreign airline ownership cap 20%→49%. Policy, not keep 2/3/4.",
-      "locator": "https://oglobo.globo.com/economia/negocios/acoes-da-gol-disparam-apos-aumento-de-participacao-estrangeira-em-aereas-18786930"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Reuters March 2 account confirms provisional ownership-cap change from 20% to 49%, with prior anticipation already affecting Gol. Broader sector rule versus class 9 issuer regulatory unlock and distinct reaction-session attribution remain unresolved. Primary ADS ratio change was expected February 26, so it is not automatically a March 2/3 mechanical explanation. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://uk.investing.com/news/stock-market-news/brazil-raises-foreign-ownership-limit-on-airlines-to-49-pct-91144",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Brazil MP raising foreign airline ownership cap 20%→49%. Policy, not keep 2/3/4.",
+          "locator": "https://oglobo.globo.com/economia/negocios/acoes-da-gol-disparam-apos-aumento-de-participacao-estrangeira-em-aereas-18786930"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://uk.investing.com/news/stock-market-news/brazil-raises-foreign-ownership-limit-on-airlines-to-49-pct-91144",
+          "https://www.sec.gov/Archives/edgar/data/1291733/000129281416003600/gol20160225_6k.htm"
+        ]
+      }
     },
     {
       "symbol": "SRPT",
@@ -5446,11 +5529,28 @@
       "symbol": "NBR",
       "qdate": "2016-11-30",
       "close_return": 0.2225,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "OPEC production-cut agreement / oil rally. Commodity/policy, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/NBR?date=2016-11-30&view=daily"
+      "jump_cause": "macro_sector",
+      "cause_class": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "detail": "Contemporaneous OPEC-day sector roundup names NBR among energy stocks advancing with the production-cut agreement. Broad commodity revaluation is outside issuer-specific keep classes. No product approval, issuer legal settlement or company-specific partnership is established by the OPEC agreement; competing-news completeness is not certified. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://finance.yahoo.com/news/opec-finally-cuts-output-energy-161604686.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "OPEC production-cut agreement / oil rally. Commodity/policy, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/NBR?date=2016-11-30&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://finance.yahoo.com/news/opec-finally-cuts-output-energy-161604686.html",
+          "https://www.investors.com/stock-lists/new-highs/oil-stocks-rally-to-new-highs-on-opec-deal-dows-united-tech-reverses/"
+        ]
+      }
     },
     {
       "symbol": "DOLE",
@@ -5486,11 +5586,28 @@
       "symbol": "CPE",
       "qdate": "2016-11-30",
       "close_return": 0.2208,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "OPEC production-cut agreement / oil rally. Commodity/policy, not keep 2/3/4.",
-      "locator": "https://www.investors.com/stock-lists/new-highs/oil-stocks-rally-to-new-highs-on-opec-deal-dows-united-tech-reverses/"
+      "jump_cause": "macro_sector",
+      "cause_class": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "detail": "Contemporaneous OPEC-day sector roundup names CPE among energy stocks advancing with the production-cut agreement. Broad commodity revaluation is outside issuer-specific keep classes. No product approval, issuer legal settlement or company-specific partnership is established by the OPEC agreement; competing-news completeness is not certified. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://finance.yahoo.com/news/opec-finally-cuts-output-energy-161604686.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "OPEC production-cut agreement / oil rally. Commodity/policy, not keep 2/3/4.",
+          "locator": "https://www.investors.com/stock-lists/new-highs/oil-stocks-rally-to-new-highs-on-opec-deal-dows-united-tech-reverses/"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://finance.yahoo.com/news/opec-finally-cuts-output-energy-161604686.html",
+          "https://www.investors.com/stock-lists/new-highs/oil-stocks-rally-to-new-highs-on-opec-deal-dows-united-tech-reverses/"
+        ]
+      }
     },
     {
       "symbol": "MNTX",
@@ -6071,30 +6188,80 @@
       "qdate": "2015-03-27",
       "close_return": 0.2116,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "RBC Bearings as buyer agreed to acquire Dover Sargent Aerospace for $500M. Acquirer deal, not target M&A keep.",
-      "locator": "https://investor.rbcbearings.com/news-releases/news-release-details/rbc-bearings-acquire-dovers-sargent-aerospace-defense-business"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Sargent acquisition is substantively eligible under class 2 acquirer exception, contrary to legacy categorical exclusion. Primary release and filing say March 26, with March 27 2 p.m. ET call. Exact initial release time and independent March 27 price attribution not recovered in targeted search; defer session alignment rather than automatically promoting. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1324948/000114420415018685/v405578_ex99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "RBC Bearings as buyer agreed to acquire Dover Sargent Aerospace for $500M. Acquirer deal, not target M&A keep.",
+          "locator": "https://investor.rbcbearings.com/news-releases/news-release-details/rbc-bearings-acquire-dovers-sargent-aerospace-defense-business"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1324948/000114420415018685/v405578_ex99-1.htm",
+          "https://www.sec.gov/Archives/edgar/data/1324948/000114420415018685/v405578_8k.htm"
+        ]
+      }
     },
     {
       "symbol": "ACET",
       "qdate": "2013-11-08",
       "close_return": 0.2114,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ACET?date=2013-11-08&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "November 7 primary release reports fiscal Q1 results and schedules November 8 9 a.m. ET earnings call. Quarterly-results event replaces generic no-news label. Historical ACET is Aceto Corporation, not later Adicet Bio. Exact first-public release time is not independently certified; historical product launches described in report do not establish new same-session launch. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/2034/000118811213003265/ex99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch15_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ACET?date=2013-11-08&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/2034/000118811213003265/ex99-1.htm"
+        ]
+      }
     },
     {
       "symbol": "ALXN",
       "qdate": "2014-01-30",
       "close_return": 0.2114,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ALXN?date=2014-01-30&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "January 30 primary release reports Q4/full-year results together with 2014 guidance. Same-day market account attributes gain to the report and outlook. Guidance bundled with earnings is class 1, not standalone class 8; prior Soliris approvals are not new same-session regulatory decisions. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/899866/000089986614000010/ex_991xjanuaryx2014.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch15_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ALXN?date=2014-01-30&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/899866/000089986614000010/ex_991xjanuaryx2014.htm",
+          "https://www.fool.com/investing/general/2014/01/30/why-alexion-pharmaceuticals-inc-shares-soared.aspx"
+        ]
+      }
     },
     {
       "symbol": "IMPV",
@@ -6140,21 +6307,56 @@
       "symbol": "ACET",
       "qdate": "2015-09-11",
       "close_return": 0.2106,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ACET?date=2015-09-11&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "September 10 primary release reports fiscal Q4/year-end earnings; September 11 9:33 a.m. account explicitly states after-bell Thursday release and Friday gap. This is historical Aceto Corporation and an earnings reaction, not later Adicet Bio or new same-day product trial. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/2034/000157104915007494/t83134_ex99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch15_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ACET?date=2015-09-11&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/2034/000157104915007494/t83134_ex99-1.htm",
+          "https://www.rttnews.com/2551741/aceto-corp-acet-is-up-sharply-after-q4-report.aspx"
+        ]
+      }
     },
     {
       "symbol": "STMP",
       "qdate": "2016-02-26",
       "close_return": 0.2105,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/STMP?date=2016-02-26&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "February 25 primary release reports Q4 and annual results. Contemporaneous February 26 account attributes session rise to results and guidance, with another account reporting prior-evening reaction. Class 1 takes precedence over outlook, acquisition integration benefits or concurrent buyback. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1082923/000114036116055444/ex99_1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch15_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/STMP?date=2016-02-26&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1082923/000114036116055444/ex99_1.htm",
+          "https://www.foxbusiness.com/markets/why-stamps-com-inc-shares-soared",
+          "https://www.investing.com/news/economic-indicators/benzinbestande-usa-0110m-gegenuber-einer-prognose-von-1217m-386600"
+        ]
+      }
     },
     {
       "symbol": "RXDX",
@@ -6170,11 +6372,28 @@
       "symbol": "TRGP",
       "qdate": "2014-06-19",
       "close_return": 0.2089,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://markets.chroniclejournal.com/chroniclejournal/quote/historical?Month=6&Range=12&Symbol=NY%3ATRGP&Year=2014"
+      "jump_cause": "ma_rumor",
+      "cause_class": "2_ma_rumor",
+      "news_filter": "keep",
+      "detail": "Contemporaneous report attributes June 19 TRGP gain to reported Energy Transfer takeover talks, while later-evening disclosure says preliminary discussions terminated and records after-hours reversal. Class 2 covers rumor catalyst even when talks end. No agreed or completed merger is asserted; distinguish parent TRGP from partnership NGLS. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.rttnews.com/2339531/targa-deal-discussions-with-energy-transfer-equity-terminated.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch16_7",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://markets.chroniclejournal.com/chroniclejournal/quote/historical?Month=6&Range=12&Symbol=NY%3ATRGP&Year=2014"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.rttnews.com/2339531/targa-deal-discussions-with-energy-transfer-equity-terminated.aspx",
+          "https://www.houstonchronicle.com/business/energy/article/A-Targa-deal-fades-but-others-are-possible-5569012.php"
+        ]
+      }
     },
     {
       "symbol": "MACK",
@@ -6230,21 +6449,55 @@
       "symbol": "MRO",
       "qdate": "2016-11-30",
       "close_return": 0.208,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "OPEC production-cut agreement / oil rally. Commodity/policy, not keep 2/3/4.",
-      "locator": "https://www.cnbc.com/2016/11/30/drilling-stocks-are-rising-as-oil-leaps-on-hopes-of-an-opec-deal.html"
+      "jump_cause": "macro_sector",
+      "cause_class": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "detail": "Contemporaneous OPEC-day sector roundup names MRO among energy stocks advancing with the production-cut agreement. Broad commodity revaluation is outside issuer-specific keep classes. No product approval, issuer legal settlement or company-specific partnership is established by the OPEC agreement; competing-news completeness is not certified. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://finance.yahoo.com/news/opec-finally-cuts-output-energy-161604686.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "OPEC production-cut agreement / oil rally. Commodity/policy, not keep 2/3/4.",
+          "locator": "https://www.cnbc.com/2016/11/30/drilling-stocks-are-rising-as-oil-leaps-on-hopes-of-an-opec-deal.html"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://finance.yahoo.com/news/opec-finally-cuts-output-energy-161604686.html",
+          "https://www.investors.com/stock-lists/new-highs/oil-stocks-rally-to-new-highs-on-opec-deal-dows-united-tech-reverses/"
+        ]
+      }
     },
     {
       "symbol": "RDNT",
       "qdate": "2014-08-08",
       "close_return": 0.2077,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/RDNT?date=2014-08-08&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "August 8 issuer Q2 results were released at 06:00 ET and raised full-year revenue/EBITDA guidance. This is RadNet (RDNT), and guidance bundled with quarterly results remains class 1 rather than standalone class 8. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.globenewswire.com/news-release/2014/08/08/657217/10985/en/radnet-reports-record-second-quarter-financial-results-and-adjusts-upwards-2014-guidance-ranges-for-revenue-and-adjusted-ebitda-1.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch15_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/RDNT?date=2014-08-08&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.globenewswire.com/news-release/2014/08/08/657217/10985/en/radnet-reports-record-second-quarter-financial-results-and-adjusts-upwards-2014-guidance-ranges-for-revenue-and-adjusted-ebitda-1.html",
+          "https://www.radnet.com/about-radnet/news/radnet-reports-record-second-quarter-financial-results-adjusts-upwards-2014-guidance-ranges-revenue-adjusted-ebitda1"
+        ]
+      }
     },
     {
       "symbol": "CRK",
@@ -6281,20 +6534,55 @@
       "qdate": "2014-06-03",
       "close_return": 0.2069,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/IDCC?date=2014-06-03&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary June 3 filing and issuer release confirm royalty-bearing Samsung patent license settling pending litigation. Substantively class 6, with class 9 overlap; contemporaneous coverage establishes news before market open. Targeted search did not recover direct jump attribution or resolve which component dominated. Replace generic no-news label with documented candidate but leave attribution pending. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1405495/000140549514000021/form8-kx06x03x2014.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch16_7",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/IDCC?date=2014-06-03&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1405495/000140549514000021/form8-kx06x03x2014.htm",
+          "https://www.globenewswire.com/news-release/2014/06/03/641360/24691/en/InterDigital-Announces-Patent-License-Agreement-With-Samsung.html",
+          "https://techcrunch.com/2014/06/03/samsung-interdigital-patents/"
+        ]
+      }
     },
     {
       "symbol": "HTLD",
       "qdate": "2013-11-12",
       "close_return": 0.2067,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/HTLD?date=2013-11-12&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Issuer Gordon Trucking acquisition release timestamp November 11 18:24 ET supports November 12 reaction-session candidate, eligible under class 2 acquirer exception. Targeted search recovered primary transaction evidence and contemporaneous forum reaction, but no independent market attribution adequate to promote. Acquisition is documented; price-cause verification remains pending. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.globenewswire.com/news-release/2013/11/11/588849/15800/en/Heartland-Express-Inc-Acquires-Gordon-Trucking-Inc.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch16_7",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/HTLD?date=2013-11-12&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.globenewswire.com/news-release/2013/11/11/588849/15800/en/Heartland-Express-Inc-Acquires-Gordon-Trucking-Inc.html",
+          "https://www.sec.gov/Archives/edgar/data/799233/000079923313000065/exhibit991.htm"
+        ]
+      }
     },
     {
       "symbol": "QIWI",
@@ -6370,11 +6658,28 @@
       "symbol": "NEOG",
       "qdate": "2015-07-21",
       "close_return": 0.2058,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/NEOG?date=2015-07-21&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "July 21 primary Q4/full-year release and contemporaneous intraday account establish earnings event and share reaction. Later filing date does not establish first announcement date. Historical acquisitions and product growth mentioned in earnings do not change class 1 precedence. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/711377/000119312515259017/d10666dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch15_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/NEOG?date=2015-07-21&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/711377/000119312515259017/d10666dex991.htm",
+          "https://www.fiercepharma.com/financials/neogen-withstands-currency-woes-and-reports-record-sales-and-earnings"
+        ]
+      }
     },
     {
       "symbol": "FSLR",
@@ -6448,10 +6753,27 @@
       "qdate": "2014-11-12",
       "close_return": 0.2046,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day M&A/biotech/tech keep PR for Matson. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/MATX?date=2014-11-12&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary November 11 release establishes Horizon acquisition and 5 p.m. ET transaction call, a plausible next-session class 2 acquirer catalyst. Targeted search recovered deal evidence but not direct November 12 jump attribution or exact initial release timestamp. Preserve candidate acquisition rather than unsupported no-news description; attribution remains pending. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/3453/000110465914079226/a14-24264_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day M&A/biotech/tech keep PR for Matson. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MATX?date=2014-11-12&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/3453/000110465914079226/a14-24264_1ex99d1.htm",
+          "https://www.sec.gov/Archives/edgar/data/3453/000110465914079225/a14-24264_18k.htm"
+        ]
+      }
     },
     {
       "symbol": "EXEL",
@@ -6477,11 +6799,28 @@
       "symbol": "STMP",
       "qdate": "2015-05-08",
       "close_return": 0.2041,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 catalyst for Stamps.com; not target M&A/biotech/tech breakthrough.",
-      "locator": "https://exa.ai/library/markets/stock/STMP?date=2015-05-08&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "May 7 primary release reports Q1 results and full-year outlook; syndicated release is dated May 7 with evening publication URL. This replaces generic no-news label with quarterly-results attribution for next session. Guidance bundled in results remains class 1; exact first-public time is not independently certified. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1082923/000114036115018685/ex99_1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch15_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 catalyst for Stamps.com; not target M&A/biotech/tech breakthrough.",
+          "locator": "https://exa.ai/library/markets/stock/STMP?date=2015-05-08&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1082923/000114036115018685/ex99_1.htm",
+          "https://finance.yahoo.com/news/stamps-com-announces-record-first-203000577.html"
+        ]
+      }
     },
     {
       "symbol": "LITB",
@@ -8022,11 +8361,29 @@
       "symbol": "PBH",
       "qdate": "2014-04-25",
       "close_return": 0.1813,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for PBH. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/PBH?date=2014-04-25&view=daily"
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_news",
+      "news_filter": "keep",
+      "detail": "April 25 primary announcement and market account establish Insight acquisition as pre-open catalyst for Prestige Brands gain. Class 2 acquirer exception applies. Hydralyte agreement was earlier April 15; do not substitute that older deal or treat transaction accretion as routine quarterly results. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1295947/000114420414024772/v375896_ex99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch16_7",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for PBH. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/PBH?date=2014-04-25&view=daily"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1295947/000114420414024772/v375896_ex99-1.htm",
+          "https://www.fool.com/investing/general/2014/04/25/why-prestige-brands-holdings-inc-shares-soared.aspx",
+          "https://finance.yahoo.com/news/prestige-brands-boosts-feminine-care-161905942.html"
+        ]
+      }
     },
     {
       "symbol": "STAA",
@@ -8142,11 +8499,29 @@
       "symbol": "ABMD",
       "qdate": "2015-03-24",
       "close_return": 0.1799,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for ABMD. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ABMD?date=2015-03-24&view=daily"
+      "jump_cause": "regulatory_approval",
+      "cause_class": "7_regulatory_approval",
+      "news_filter": "keep",
+      "detail": "FDA March 23 approval letter and issuer release establish Impella 2.5 PMA for elective/urgent high-risk PCI. March 24 trade account explicitly attributes record stock price to prior-day approval. Class 7 applies; distinguish device approval from successful trial data and from later indication expansions. Earliest-public completeness is not certified. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/p140003a.pdf",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch16_7",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ABMD. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ABMD?date=2015-03-24&view=daily"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.accessdata.fda.gov/cdrh_docs/pdf14/p140003a.pdf",
+          "https://www.sec.gov/Archives/edgar/data/815094/000119312515103395/d895816dex991.htm",
+          "https://www.massdevice.com/32960/"
+        ]
+      }
     },
     {
       "symbol": "PRTA",
@@ -8182,11 +8557,28 @@
       "symbol": "FRX",
       "qdate": "2014-01-08",
       "close_return": 0.1794,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for FRX. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/FRX?date=2014-01-08&view=daily"
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_news",
+      "news_filter": "keep",
+      "detail": "January 8 issuer release announces Aptalis acquisition with same-day 8:30 a.m. EST deal call; contemporaneous business account explicitly attributes Forest share gain to purchase. Class 2 acquirer exception applies. Deal accretion projections are transaction economics, not a new quarterly earnings release. Agreement signing January 7 is distinct from public announcement. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/38074/000119312514005498/d656286dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch16_7",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for FRX. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/FRX?date=2014-01-08&view=daily"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/38074/000119312514005498/d656286dex991.htm",
+          "https://njbiz.com/forest-laboratories-acquires-aptalis-for-2-9b/"
+        ]
+      }
     },
     {
       "symbol": "ACRX",
@@ -8232,11 +8624,28 @@
       "symbol": "MELI",
       "qdate": "2013-05-07",
       "close_return": 0.1788,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for MELI. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/MELI?date=2013-05-07&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "Issuer Q1 earnings release timestamp May 6 16:01 ET, with 4:30 p.m. call, supports May 7 earnings reaction. Marketplace and payment growth metrics are retrospective results, not standalone commercial partnership or outlook step-up. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.globenewswire.com/news-release/2013/05/06/544784/10031594/en/MercadoLibre-Inc-Reports-Financial-Results-for-First-Quarter-2013.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch15_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for MELI. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MELI?date=2013-05-07&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.globenewswire.com/news-release/2013/05/06/544784/10031594/en/MercadoLibre-Inc-Reports-Financial-Results-for-First-Quarter-2013.html",
+          "https://www.sec.gov/Archives/edgar/data/1099590/000117184313001863/newsrelease.htm"
+        ]
+      }
     },
     {
       "symbol": "SC",
@@ -8262,11 +8671,28 @@
       "symbol": "SEDG",
       "qdate": "2015-05-08",
       "close_return": 0.1785,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for SEDG. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/SEDG?date=2015-05-08&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "Primary May 7 fiscal Q3 results schedule 5 p.m. ET results call; May 8 contemporaneous account explicitly connects opening surge to earnings. Outlook and customer additions inside earnings report remain class 1 rather than standalone contract or guidance keep. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1419612/000117891315001588/exhibit_99-1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch15_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for SEDG. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/SEDG?date=2015-05-08&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1419612/000117891315001588/exhibit_99-1.htm",
+          "https://247wallst.com/energy/2015/05/08/why-analysts-are-having-to-chase-solaredge-earnings-higher/"
+        ]
+      }
     },
     {
       "symbol": "ESI",
@@ -8670,11 +9096,28 @@
       "symbol": "GEOS",
       "qdate": "2013-02-07",
       "close_return": 0.1746,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for GEOS. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/GEOS?date=2013-02-07&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "Primary issuer schedule explicitly sets February 6 after-close Q1 results and February 7 10 a.m. ET call; results release confirms financial event. Historical Statoil order revenue recognized in earnings is not a new same-day order announcement. Retain class 1 earnings exclusion. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1001115/000118143113007964/rrd369275_39205.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch15_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for GEOS. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/GEOS?date=2013-02-07&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1001115/000118143113007964/rrd369275_39205.htm",
+          "https://www.sec.gov/Archives/edgar/data/1001115/000118143113005952/rrd368427_39186.htm"
+        ]
+      }
     },
     {
       "symbol": "SSYS",
@@ -8721,10 +9164,26 @@
       "qdate": "2015-01-13",
       "close_return": 0.174,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for TLYS. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/TLYS?date=2015-01-13&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "January 12 issuer business update materially raises still-open Q4 EPS and comparable-sales outlook ahead of January 13 conference, a plausible standalone class 8 candidate. Exact release time and direct January 13 price attribution were not recovered; concurrent analyst actions may matter. Do not infer release timing from conference date or automatically call an unfinished-quarter outlook full earnings. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1524025/000119312515008121/d851005dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch16_7",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for TLYS. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/TLYS?date=2015-01-13&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1524025/000119312515008121/d851005dex991.htm"
+        ]
+      }
     },
     {
       "symbol": "GOGO",
@@ -8800,11 +9259,29 @@
       "symbol": "NXPI",
       "qdate": "2015-03-02",
       "close_return": 0.1727,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for NXPI. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/NXPI?date=2015-03-02&view=daily"
+      "jump_cause": "ma_news",
+      "cause_class": "2_ma_news",
+      "news_filter": "keep",
+      "detail": "Primary merger documents confirm public announcement on March 1 evening New York time ahead of March 2 markets; contemporaneous trade account attributes NXP stock increase to Freescale merger. Class 2 acquirer exception applies. Do not conflate this 2015 acquisition with later Qualcomm bid for NXP. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1413447/000119312515209237/d937349d424b3.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for NXPI. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/NXPI?date=2015-03-02&view=daily"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1413447/000119312515209237/d937349d424b3.htm",
+          "https://www.sec.gov/Archives/edgar/data/1392522/000119312515071411/d884465dex991.htm",
+          "https://www.rcrwireless.com/20150302/chips/nxp-freescale-merge-40-billion-deal-tag4"
+        ]
+      }
     },
     {
       "symbol": "ACAD",
@@ -8900,11 +9377,27 @@
       "symbol": "FXF",
       "qdate": "2015-01-15",
       "close_return": 0.1717,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "CurrencyShares Swiss Franc Trust FX move; ETF/currency product, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/FXF?date=2015-01-15&view=daily"
+      "jump_cause": "etf",
+      "cause_class": "etf",
+      "news_filter": "drop_etf",
+      "detail": "Contemporaneous-period annual filing identifies FXF as CurrencyShares Swiss Franc Trust, an exchange-traded currency trust. Hard product exclusion applies independently of economic explanation for Swiss-franc move; this is not an operating-company catalyst. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1353615/000119312515010601/d844665d10k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch14_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "CurrencyShares Swiss Franc Trust FX move; ETF/currency product, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/FXF?date=2015-01-15&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1353615/000119312515010601/d844665d10k.htm"
+        ]
+      }
     },
     {
       "symbol": "NAVI",
@@ -9316,11 +9809,28 @@
       "symbol": "PFSI",
       "qdate": "2016-08-04",
       "close_return": 0.1681,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for PFSI. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/PFSI?date=2016-08-04&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "August 3 primary release reports Q2 financial results; issuer archive lists August 3 4:30 p.m. ET release. August 4 SEC filing timestamp is later than original public release and does not move the reaction to August 5. Apply class 1 earnings exclusion for next-session reaction. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1568669/000155837016007414/pfsi-20160803ex9918586af.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch15_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for PFSI. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/PFSI?date=2016-08-04&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1568669/000155837016007414/pfsi-20160803ex9918586af.htm",
+          "https://pfsi.pennymac.com/news-events/press-releases/"
+        ]
+      }
     },
     {
       "symbol": "IMGN",
@@ -9409,11 +9919,29 @@
       "symbol": "CSTE",
       "qdate": "2016-08-03",
       "close_return": 0.1674,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for CSTE. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/CSTE?date=2016-08-03&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "August 3 primary Q2 results and issuer advance schedule establish pre-open publication. Same-day market account attributes gain to results. CEO search and earnings guidance do not supersede class 1 quarterly-results exclusion. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://ir.caesarstone.com/news/news-details/2016/Caesarstone-Reports-Record-Quarter-Results/default.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch15_12",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for CSTE. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/CSTE?date=2016-08-03&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://ir.caesarstone.com/news/news-details/2016/Caesarstone-Reports-Record-Quarter-Results/default.aspx",
+          "https://ir.caesarstone.com/news/news-details/2016/Caesarstone-Announces-Date-for-Second-Quarter-2016-Results/default.aspx",
+          "https://www.thestreet.com/markets/caesarstone-cste-stock-soars-on-q2-results-13663615"
+        ]
+      }
     },
     {
       "symbol": "MGNX",
@@ -9451,22 +9979,22 @@
   ],
   "policy_rebucket_checkpoint": {
     "reviewed_on": "2026-11-12",
-    "batch": "autonomous_batch13_10",
-    "n_reviewed": 10,
-    "n_promoted_to_keep": 1,
-    "n_confirmed_drop": 5,
-    "n_deferred": 4,
-    "n_timing_deferred": 3,
-    "n_category_deferred": 1,
-    "cumulative_n_policy_reviewed": 167,
+    "batch": "autonomous_batch16_7",
+    "n_reviewed": 7,
+    "n_promoted_to_keep": 4,
+    "n_confirmed_drop": 0,
+    "n_deferred": 3,
+    "n_timing_deferred": 1,
+    "n_category_deferred": 2,
+    "cumulative_n_policy_reviewed": 198,
     "review_counts": {
-      "keep": 212,
-      "drop_earnings": 37,
-      "drop_other_not_234": 353,
-      "pending_news_review": 40,
+      "keep": 217,
+      "drop_earnings": 49,
+      "drop_other_not_234": 322,
+      "pending_news_review": 50,
       "drop_mechanical": 1,
       "drop_stale_news": 1,
-      "drop_macro_sector": 10,
+      "drop_macro_sector": 13,
       "drop_analyst": 6,
       "drop_financing": 8,
       "drop_peer_sympathy": 3,
@@ -9476,7 +10004,7 @@
       "drop_passive_ownership": 1,
       "drop_trial_anticipation": 1,
       "drop_short_covering_media": 1,
-      "drop_etf": 1
+      "drop_etf": 2
     },
     "derived_snapshots_refreshed": false
   },
@@ -9829,6 +10357,99 @@
         "drop_peer_earnings": 1,
         "drop_short_covering_media": 1,
         "drop_etf": 1
+      },
+      "derived_snapshots_refreshed": false
+    },
+    {
+      "reviewed_on": "2026-11-12",
+      "batch": "autonomous_batch13_10",
+      "n_reviewed": 10,
+      "n_promoted_to_keep": 1,
+      "n_confirmed_drop": 5,
+      "n_deferred": 4,
+      "n_timing_deferred": 3,
+      "n_category_deferred": 1,
+      "cumulative_n_policy_reviewed": 167,
+      "review_counts": {
+        "keep": 212,
+        "drop_earnings": 37,
+        "drop_other_not_234": 353,
+        "pending_news_review": 40,
+        "drop_mechanical": 1,
+        "drop_stale_news": 1,
+        "drop_macro_sector": 10,
+        "drop_analyst": 6,
+        "drop_financing": 8,
+        "drop_peer_sympathy": 3,
+        "drop_operating_update": 3,
+        "drop_regulatory_process": 2,
+        "drop_peer_earnings": 1,
+        "drop_passive_ownership": 1,
+        "drop_trial_anticipation": 1,
+        "drop_short_covering_media": 1,
+        "drop_etf": 1
+      },
+      "derived_snapshots_refreshed": false
+    },
+    {
+      "reviewed_on": "2026-11-12",
+      "batch": "autonomous_batch14_12",
+      "n_reviewed": 12,
+      "n_promoted_to_keep": 1,
+      "n_confirmed_drop": 4,
+      "n_deferred": 7,
+      "n_timing_deferred": 4,
+      "n_category_deferred": 3,
+      "cumulative_n_policy_reviewed": 179,
+      "review_counts": {
+        "keep": 213,
+        "drop_earnings": 37,
+        "drop_other_not_234": 341,
+        "pending_news_review": 47,
+        "drop_mechanical": 1,
+        "drop_stale_news": 1,
+        "drop_macro_sector": 13,
+        "drop_analyst": 6,
+        "drop_financing": 8,
+        "drop_peer_sympathy": 3,
+        "drop_operating_update": 3,
+        "drop_regulatory_process": 2,
+        "drop_peer_earnings": 1,
+        "drop_passive_ownership": 1,
+        "drop_trial_anticipation": 1,
+        "drop_short_covering_media": 1,
+        "drop_etf": 2
+      },
+      "derived_snapshots_refreshed": false
+    },
+    {
+      "reviewed_on": "2026-11-12",
+      "batch": "autonomous_batch15_12",
+      "n_reviewed": 12,
+      "n_promoted_to_keep": 0,
+      "n_confirmed_drop": 12,
+      "n_deferred": 0,
+      "n_timing_deferred": 0,
+      "n_category_deferred": 0,
+      "cumulative_n_policy_reviewed": 191,
+      "review_counts": {
+        "keep": 213,
+        "drop_earnings": 49,
+        "drop_other_not_234": 329,
+        "pending_news_review": 47,
+        "drop_mechanical": 1,
+        "drop_stale_news": 1,
+        "drop_macro_sector": 13,
+        "drop_analyst": 6,
+        "drop_financing": 8,
+        "drop_peer_sympathy": 3,
+        "drop_operating_update": 3,
+        "drop_regulatory_process": 2,
+        "drop_peer_earnings": 1,
+        "drop_passive_ownership": 1,
+        "drop_trial_anticipation": 1,
+        "drop_short_covering_media": 1,
+        "drop_etf": 2
       },
       "derived_snapshots_refreshed": false
     }
