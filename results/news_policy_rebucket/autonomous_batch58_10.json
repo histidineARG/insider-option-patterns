@@ -1,0 +1,171 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch58_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 1,
+  "n_confirmed_drop": 1,
+  "n_deferred": 8,
+  "n_timing_deferred": 6,
+  "n_category_deferred": 2,
+  "cumulative_n_policy_reviewed": 461,
+  "review_counts": {
+    "keep": 241,
+    "drop_earnings": 84,
+    "drop_peer_sympathy": 12,
+    "pending_news_review": 213,
+    "drop_mechanical": 2,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 29,
+    "drop_analyst": 11,
+    "drop_financing": 12,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2,
+    "drop_other_not_234": 59
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "RVNC",
+      "qdate": "2015-06-03",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not establish a reliable same-session Revance clinical, regulatory, or commercial announcement for June 3. Retain pending instead of inferring a product catalyst from the issuer’s development pipeline.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/RVNC?date=2015-06-03&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "HALO",
+      "qdate": "2013-05-16",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The located May 16 SEC filing documents annual-meeting votes and an equity compensation plan, but does not establish a qualifying catalyst or attribute the session move. Keep pending.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1159036/000148381313000063/halo8k_2013annualmeeting.htm"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "MNKD",
+      "qdate": "2014-01-09",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The well-documented Afrezza advisory-panel and FDA milestones occurred later in 2014. The reviewed sources do not establish an eligible same-session event for January 9; do not backdate later regulatory developments.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/MNKD?date=2014-01-09&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SWIR",
+      "qdate": "2013-09-20",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Contemporaneous market coverage confirms a sharp afternoon rise and record volume but reports no cause. Keep pending; the price action alone does not establish a commercial contract or product catalyst.",
+      "sources": [
+        "https://www.rttnews.com/2191714/sierra-wireless-inc-swir-broke-out-to-a-new-high-for-the-year.aspx"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "BLCM",
+      "qdate": "2015-11-10",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "Bellicum reported third-quarter 2015 financial results after the November 9 close; coverage identifies the report as the context for after-hours trading, making November 10 the earnings reaction session. Apply class 1 earnings precedence.",
+      "sources": [
+        "https://finance.yahoo.com/news/mondays-hours-movers-rackspace-exone-lions-gate-215250823.html"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2014-10-02",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The located October 2 market recap says Kandi rebounded after the prior day’s decline but provides no issuer-specific catalyst. Do not infer an eligible cause from that recap.",
+      "sources": [
+        "https://www.15minutenews.com/business/2014/10/02/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "VHC",
+      "qdate": "2016-06-14",
+      "decision": "keep",
+      "cause_class": "9_legal_unlock",
+      "jump_cause": "legal_unlock",
+      "news_filter": "keep",
+      "rationale": "The U.S. Supreme Court issued its Halo Electronics decision on June 13, changing the standard for enhanced patent damages; contemporaneous market coverage links VirnetX’s June 14 rise to that legal decision amid its patent litigation. Class 9 applies as a legal development that could unlock litigation value.",
+      "sources": [
+        "https://www.fool.com/investing/2016/07/13/why-virnetx-holding-corp-stock-popped-plunged-177.aspx",
+        "https://www.law.cornell.edu/supremecourt/text/14-1513"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "LJPC",
+      "qdate": "2014-12-11",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "La Jolla entered a patent license agreement on December 9, but the reviewed evidence does not establish that this earlier announcement caused the December 11 jump. Insider buying on December 11 does not establish public catalyst attribution.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/920465/000092046514000127/ljpc8-kdec2014.htm",
+        "https://d32eqw2g0ztuen.cloudfront.net/trading/cik920465.html"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "NRP",
+      "qdate": "2016-03-04",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "NRP completed a 1-for-10 reverse split on February 17, but this is not the March 4 reaction date. The located source shows split-adjusted historical data can distort comparisons; without evidence that the March 4 row itself is a corporate-action artifact, retain it pending price-source reconciliation.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1171486/000117148616000020/a2016form8-kjanuary27exhib.htm"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "LITB",
+      "qdate": "2013-12-16",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "LightInTheBox announced a $20 million ADS repurchase authorization on December 16. The buyback is dated to the session, but the present taxonomy does not clearly map ordinary capital allocation to classes 2–11; defer category instead of forcing it into class 11.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1523836/000110465913090234/a13-26381_1ex99d1.htm"
+      ],
+      "defer_reason": "category"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Unresolved attribution, mapping, and price-action questions remain pending.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

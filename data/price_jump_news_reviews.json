@@ -9651,11 +9651,24 @@
       "symbol": "QIWI",
       "qdate": "2013-10-01",
       "close_return": 0.1919,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for QIWI. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/QIWI?date=2013-10-01&view=daily"
+      "jump_cause": "financing",
+      "cause_class": "financing",
+      "news_filter": "drop_financing",
+      "detail": "A QIWI shareholder secondary offering began on October 1, 2013, when shareholders sold 9.43 million ADSs at $30.50 each, approximately 18.1% of issued share capital. This is a financing/secondary-sale event, not an eligible issuer catalyst.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1561566/000119312515088634/d888283d20f.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch56_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for QIWI. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/QIWI?date=2013-10-01&view=daily"
+        },
+        "decision": "drop_financing"
+      }
     },
     {
       "symbol": "MRCY",
@@ -9689,20 +9702,46 @@
       "qdate": "2016-04-13",
       "close_return": 0.1918,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for GoPro. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/GPRO?date=2016-04-13&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Contemporaneous coverage confirms the 19% rise but also reports a bearish Goldman analyst note; it does not explain what drove the upward move. No eligible cause is established for the recorded session.",
+      "locator": "https://www.benzinga.com/analyst-ratings/analyst-color/16/04/7837827/goldman-is-bearish-on-gopro-heading-into-earnings",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch56_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for GoPro. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/GPRO?date=2016-04-13&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "CYTR",
       "qdate": "2014-01-10",
       "close_return": 0.1917,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for CytRx. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/CYTR?date=2014-01-10&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Later litigation and press accounts describe a broader stock-promotion campaign and a multi-month price rise, but do not establish a distinct eligible catalyst or reliable attribution for January 10. Retain pending rather than infer a clinical result.",
+      "locator": "https://www.latimes.com/business/la-fi-stock-spotlight-cytrx-20140901-story.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch56_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for CytRx. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/CYTR?date=2014-01-10&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "WWE",
@@ -9763,10 +9802,23 @@
       "qdate": "2015-06-03",
       "close_return": 0.1915,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for VisionChina. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/VISN?date=2015-06-03&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The ticker history is complicated by the issuer’s prior delisting and later trading under a legacy symbol. Targeted review did not establish the correct security identity or an eligible same-session cause for this 2015 row; defer pending identity review.",
+      "locator": "https://www.investing.com/equities/visionchina-media-historical-data",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch56_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for VisionChina. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/VISN?date=2015-06-03&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "NOAH",
@@ -9800,20 +9852,46 @@
       "qdate": "2014-03-14",
       "close_return": 0.1906,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "VAALCO Energy oil move; commodity, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/EGY?date=2014-03-14&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Oil/commodity context alone does not prove that the March 14 Vaalco move was a broad sector reaction, and no dated issuer-specific attribution was established. Retain pending.",
+      "locator": "https://exa.ai/library/markets/stock/EGY?date=2014-03-14&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch56_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "VAALCO Energy oil move; commodity, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/EGY?date=2014-03-14&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "TGI",
       "qdate": "2015-12-29",
       "close_return": 0.1906,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Triumph Group. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/TGI?date=2015-12-29&view=daily"
+      "jump_cause": "activist_alt",
+      "cause_class": "11_activist_alt",
+      "news_filter": "keep",
+      "detail": "Triumph appointed a new CEO and president on December 29, who announced a top-to-bottom strategic review aimed at improving performance and margins. This is a same-session strategic-review catalyst within class 11; the policy label does not assert a sale process.",
+      "locator": "https://www.yahoo.com/news/triumph-group-names-raytheons-crowley-192355237.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch56_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for Triumph Group. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/TGI?date=2015-12-29&view=daily"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "SHEN",
@@ -9846,11 +9924,24 @@
       "symbol": "EZPW",
       "qdate": "2014-05-21",
       "close_return": 0.1902,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for EZCORP. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/EZPW?date=2014-05-21&view=daily"
+      "jump_cause": "activist_alt",
+      "cause_class": "11_activist_alt",
+      "news_filter": "keep",
+      "detail": "EZCORP announced that investor Jeffrey Cohen would advise on its business and long-term strategic plan through September. The issuer-specific strategic-review/advisor development fits class 11.",
+      "locator": "https://www.ezcorp.com/static-files/11472318-80b8-4678-81bb-b6d46c8d3ccc",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch56_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for EZCORP. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/EZPW?date=2014-05-21&view=daily"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "ALNY",
@@ -9923,10 +10014,23 @@
       "qdate": "2013-12-12",
       "close_return": 0.1895,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Sarepta on this date. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/SRPT?date=2013-12-12&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The known November FDA correspondence and clinical developments preceded this date; targeted review did not identify a qualifying December 12 event. Keep pending rather than infer a trial readout from the stock move.",
+      "locator": "https://exa.ai/library/markets/stock/SRPT?date=2013-12-12&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch56_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for Sarepta on this date. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/SRPT?date=2013-12-12&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "CAAS",
@@ -9988,10 +10092,23 @@
       "qdate": "2016-09-16",
       "close_return": 0.1889,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Revance. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/RVNC?date=2016-09-16&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted review did not recover a reliable dated issuer release or attributable event for the September 16 move. Keep pending; later company development and general biotech context are insufficient.",
+      "locator": "https://exa.ai/library/markets/stock/RVNC?date=2016-09-16&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch56_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for Revance. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/RVNC?date=2016-09-16&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "AMSC",
@@ -10079,20 +10196,46 @@
       "qdate": "2013-10-10",
       "close_return": 0.188,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for iCAD. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ICAD?date=2013-10-10&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date-specific review did not establish a reliable eligible cause for iCAD’s October 10 move. Keep pending rather than infer from the company’s earlier product and financing history.",
+      "locator": "https://exa.ai/library/markets/stock/ICAD?date=2013-10-10&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch56_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for iCAD. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ICAD?date=2013-10-10&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "NGL",
       "qdate": "2016-02-16",
       "close_return": 0.188,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "NGL Energy Partners midstream/oil move; commodity/MLP, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/NGL?date=2016-02-16&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The identified distribution declaration was announced January 21 and is not a February 16 same-session catalyst. Search did not establish an eligible cause for this session; commodity/MLP context alone is insufficient.",
+      "locator": "https://www.marketscreener.com/quote/stock/NGL-ENERGY-PARTNERS-LP-7964790/news/NGL-Energy-Partners-LP-Declares-Quarterly-Distribution-for-the-Quarter-Ended-December-31-2015-Payab-38123562/",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch57_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "NGL Energy Partners midstream/oil move; commodity/MLP, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/NGL?date=2016-02-16&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "ORBC",
@@ -10180,20 +10323,46 @@
       "qdate": "2014-12-24",
       "close_return": 0.187,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Energous. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/WATT?date=2014-12-24&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date-specific review did not establish a reliable issuer catalyst for the December 24 move. Keep pending; do not infer a product breakthrough from Energous’ general wireless-power claims or its prior offering.",
+      "locator": "https://exa.ai/library/markets/stock/WATT?date=2014-12-24&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch57_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for Energous. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/WATT?date=2014-12-24&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "JRJC",
       "qdate": "2014-01-15",
       "close_return": 0.1868,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for China Finance Online. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/JRJC?date=2014-01-15&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted issuer/date review did not establish a reliable eligible catalyst for January 15. The available China market and financial-services context does not attribute the jump to company news.",
+      "locator": "https://exa.ai/library/markets/stock/JRJC?date=2014-01-15&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch57_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for China Finance Online. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/JRJC?date=2014-01-15&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "PERI",
@@ -10253,30 +10422,69 @@
       "qdate": "2015-10-19",
       "close_return": 0.1864,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Kandi. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/KNDI?date=2015-10-19&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted same-session review did not recover a reliable eligible Kandi announcement for October 19. Historical stock-promotion allegations do not establish attribution for this date.",
+      "locator": "https://exa.ai/library/markets/stock/KNDI?date=2015-10-19&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch57_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for Kandi. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/KNDI?date=2015-10-19&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "CZR",
       "qdate": "2013-02-07",
       "close_return": 0.1861,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Caesars. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/CZR?date=2013-02-07&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted review did not establish a reliable issuer-specific catalyst for the February 7, 2013 price move. Do not infer a restructuring or transaction event from Caesars’ broader financial history.",
+      "locator": "https://exa.ai/library/markets/stock/CZR?date=2013-02-07&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch57_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for Caesars. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/CZR?date=2013-02-07&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "ORMP",
       "qdate": "2014-06-11",
       "close_return": 0.1859,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for ORMP. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ORMP?date=2014-06-11&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date-specific review did not identify a company release or documented trial/regulatory catalyst on June 11, 2014. Retain pending.",
+      "locator": "https://exa.ai/library/markets/stock/ORMP?date=2014-06-11&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch57_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ORMP. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ORMP?date=2014-06-11&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "LSCC",
@@ -10310,11 +10518,24 @@
       "symbol": "RPRX",
       "qdate": "2014-08-28",
       "close_return": 0.1851,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for RPRX. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/RPRX?date=2014-08-28&view=daily"
+      "jump_cause": "biotech_trial",
+      "cause_class": "3_biotech_trial",
+      "news_filter": "keep",
+      "detail": "Repros reported top-line results from its first Androxal study on August 28, 2014, including superiority on two co-primary endpoints versus AndroGel. Contemporaneous coverage ties the same-day rise to those data; class 3 applies.",
+      "locator": "https://www.thestreet.com/markets/why-repros-therapeutics-rprx-stock-is-surging-today-12859971",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch57_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for RPRX. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/RPRX?date=2014-08-28&view=daily"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "DLNG",
@@ -10348,30 +10569,69 @@
       "qdate": "2014-02-12",
       "close_return": 0.185,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for STXS. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/STXS?date=2014-02-12&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date-specific search did not establish a reliable eligible cause for the February 12 Stereotaxis move. The available record does not show a same-session clinical, regulatory, or commercial event.",
+      "locator": "https://exa.ai/library/markets/stock/STXS?date=2014-02-12&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch57_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for STXS. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/STXS?date=2014-02-12&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "MTL",
       "qdate": "2016-12-12",
       "close_return": 0.1848,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Mechel commodity/steel move; not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/MTL?date=2016-12-12&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The prior review attributes the move generally to steel/coal commodities, but targeted search did not locate date-specific evidence of a broad sector catalyst or Mechel-specific news. Keep pending.",
+      "locator": "https://exa.ai/library/markets/stock/MTL?date=2016-12-12&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch57_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Mechel commodity/steel move; not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MTL?date=2016-12-12&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "KNDI",
       "qdate": "2013-09-24",
       "close_return": 0.1847,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for KNDI. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/KNDI?date=2013-09-24&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted same-session search did not establish a qualifying Kandi company event or a reliable attribution for September 24. Keep pending; do not use later reporting or general electric-vehicle enthusiasm as proof.",
+      "locator": "https://exa.ai/library/markets/stock/KNDI?date=2013-09-24&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch57_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for KNDI. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/KNDI?date=2013-09-24&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "SWIR",
@@ -10487,10 +10747,23 @@
       "qdate": "2015-06-03",
       "close_return": 0.1843,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for RVNC. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/RVNC?date=2015-06-03&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted review did not establish a reliable same-session Revance clinical, regulatory, or commercial announcement for June 3. Retain pending instead of inferring a product catalyst from the issuer’s development pipeline.",
+      "locator": "https://exa.ai/library/markets/stock/RVNC?date=2015-06-03&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch58_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for RVNC. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/RVNC?date=2015-06-03&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "GAIA",
@@ -10523,30 +10796,69 @@
       "qdate": "2013-05-16",
       "close_return": 0.184,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for HALO. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/HALO?date=2013-05-16&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The located May 16 SEC filing documents annual-meeting votes and an equity compensation plan, but does not establish a qualifying catalyst or attribute the session move. Keep pending.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1159036/000148381313000063/halo8k_2013annualmeeting.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch58_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for HALO. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/HALO?date=2013-05-16&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "MNKD",
       "qdate": "2014-01-09",
       "close_return": 0.1839,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for MNKD. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/MNKD?date=2014-01-09&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The well-documented Afrezza advisory-panel and FDA milestones occurred later in 2014. The reviewed sources do not establish an eligible same-session event for January 9; do not backdate later regulatory developments.",
+      "locator": "https://exa.ai/library/markets/stock/MNKD?date=2014-01-09&view=daily",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch58_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for MNKD. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MNKD?date=2014-01-09&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "SWIR",
       "qdate": "2013-09-20",
       "close_return": 0.1839,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for SWIR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/SWIR?date=2013-09-20&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Contemporaneous market coverage confirms a sharp afternoon rise and record volume but reports no cause. Keep pending; the price action alone does not establish a commercial contract or product catalyst.",
+      "locator": "https://www.rttnews.com/2191714/sierra-wireless-inc-swir-broke-out-to-a-new-high-for-the-year.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch58_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for SWIR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/SWIR?date=2013-09-20&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "IONS",
@@ -10590,21 +10902,47 @@
       "symbol": "BLCM",
       "qdate": "2015-11-10",
       "close_return": 0.1838,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for BLCM. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/BLCM?date=2015-11-10&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "Bellicum reported third-quarter 2015 financial results after the November 9 close; coverage identifies the report as the context for after-hours trading, making November 10 the earnings reaction session. Apply class 1 earnings precedence.",
+      "locator": "https://finance.yahoo.com/news/mondays-hours-movers-rackspace-exone-lions-gate-215250823.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch58_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for BLCM. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/BLCM?date=2015-11-10&view=daily"
+        },
+        "decision": "drop_earnings"
+      }
     },
     {
       "symbol": "KNDI",
       "qdate": "2014-10-02",
       "close_return": 0.1837,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for KNDI. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/KNDI?date=2014-10-02&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "The located October 2 market recap says Kandi rebounded after the prior day’s decline but provides no issuer-specific catalyst. Do not infer an eligible cause from that recap.",
+      "locator": "https://www.15minutenews.com/business/2014/10/02/",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch58_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for KNDI. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/KNDI?date=2014-10-02&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "VUZI",
@@ -10742,31 +11080,70 @@
       "symbol": "VHC",
       "qdate": "2016-06-14",
       "close_return": 0.1832,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for VHC. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/VHC?date=2016-06-14&view=daily"
+      "jump_cause": "legal_unlock",
+      "cause_class": "9_legal_unlock",
+      "news_filter": "keep",
+      "detail": "The U.S. Supreme Court issued its Halo Electronics decision on June 13, changing the standard for enhanced patent damages; contemporaneous market coverage links VirnetX’s June 14 rise to that legal decision amid its patent litigation. Class 9 applies as a legal development that could unlock litigation value.",
+      "locator": "https://www.fool.com/investing/2016/07/13/why-virnetx-holding-corp-stock-popped-plunged-177.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch58_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for VHC. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/VHC?date=2016-06-14&view=daily"
+        },
+        "decision": "keep"
+      }
     },
     {
       "symbol": "LJPC",
       "qdate": "2014-12-11",
       "close_return": 0.1831,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for LJPC. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/LJPC?date=2014-12-11&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "La Jolla entered a patent license agreement on December 9, but the reviewed evidence does not establish that this earlier announcement caused the December 11 jump. Insider buying on December 11 does not establish public catalyst attribution.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/920465/000092046514000127/ljpc8-kdec2014.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch58_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for LJPC. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/LJPC?date=2014-12-11&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "NRP",
       "qdate": "2016-03-04",
       "close_return": 0.183,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for NRP. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/NRP?date=2016-03-04&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "NRP completed a 1-for-10 reverse split on February 17, but this is not the March 4 reaction date. The located source shows split-adjusted historical data can distort comparisons; without evidence that the March 4 row itself is a corporate-action artifact, retain it pending price-source reconciliation.",
+      "locator": "https://www.miaxglobal.com/sites/default/files/alert-files/NRP_Split_38418.pdf",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch58_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for NRP. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/NRP?date=2016-03-04&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "AEO",
@@ -10800,10 +11177,23 @@
       "qdate": "2013-12-16",
       "close_return": 0.1827,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for LITB. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/LITB?date=2013-12-16&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "LightInTheBox announced a $20 million ADS repurchase authorization on December 16. The buyback is dated to the session, but the present taxonomy does not clearly map ordinary capital allocation to classes 2–11; defer category instead of forcing it into class 11.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1523836/000110465913090234/a13-26381_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-13",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch58_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for LITB. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/LITB?date=2013-12-16&view=daily"
+        },
+        "decision": "pending_news_review"
+      }
     },
     {
       "symbol": "GDP",
@@ -13685,24 +14075,24 @@
   ],
   "policy_rebucket_checkpoint": {
     "reviewed_on": "2026-11-13",
-    "batch": "autonomous_batch55_10",
+    "batch": "autonomous_batch58_10",
     "n_reviewed": 10,
-    "n_promoted_to_keep": 0,
+    "n_promoted_to_keep": 1,
     "n_confirmed_drop": 1,
-    "n_deferred": 9,
-    "n_timing_deferred": 9,
-    "n_category_deferred": 0,
-    "cumulative_n_policy_reviewed": 431,
+    "n_deferred": 8,
+    "n_timing_deferred": 6,
+    "n_category_deferred": 2,
+    "cumulative_n_policy_reviewed": 461,
     "review_counts": {
-      "keep": 237,
-      "drop_earnings": 83,
+      "keep": 241,
+      "drop_earnings": 84,
       "drop_peer_sympathy": 12,
-      "pending_news_review": 189,
+      "pending_news_review": 213,
       "drop_mechanical": 2,
       "drop_stale_news": 1,
       "drop_macro_sector": 29,
       "drop_analyst": 11,
-      "drop_financing": 11,
+      "drop_financing": 12,
       "drop_operating_update": 5,
       "drop_regulatory_process": 4,
       "drop_peer_earnings": 1,
@@ -13710,157 +14100,155 @@
       "drop_trial_anticipation": 2,
       "drop_short_covering_media": 1,
       "drop_etf": 2,
-      "drop_other_not_234": 89
+      "drop_other_not_234": 59
     },
     "derived_snapshots_refreshed": false,
     "counts_before": null,
     "changes": [
       {
-        "symbol": "DQ",
-        "qdate": "2013-04-09",
+        "symbol": "RVNC",
+        "qdate": "2015-06-03",
         "decision": "defer",
         "cause_class": "unclassified",
         "jump_cause": null,
         "news_filter": "pending_news_review",
-        "rationale": "The reviewed material supports broad solar and polysilicon industry context but does not establish a Daqo-specific same-session cause for April 9. Keep pending rather than infer sector sympathy from general conditions.",
+        "rationale": "Targeted review did not establish a reliable same-session Revance clinical, regulatory, or commercial announcement for June 3. Retain pending instead of inferring a product catalyst from the issuer’s development pipeline.",
         "sources": [
-          "https://exa.ai/library/markets/stock/DQ?date=2013-04-09&view=daily",
-          "https://www.arabnews.com/polysilicon-plants-buoyed-%E2%80%98revenge%E2%80%99-import-tax"
+          "https://exa.ai/library/markets/stock/RVNC?date=2015-06-03&view=daily"
         ],
         "defer_reason": "timing"
       },
       {
-        "symbol": "FORM",
-        "qdate": "2014-09-02",
+        "symbol": "HALO",
+        "qdate": "2013-05-16",
         "decision": "defer",
         "cause_class": "unclassified",
         "jump_cause": null,
         "news_filter": "pending_news_review",
-        "rationale": "The located issuer calendar shows a Citi technology conference appearance on September 2 but does not attribute a qualifying company catalyst or the large price move to it. Retain pending.",
+        "rationale": "The located May 16 SEC filing documents annual-meeting votes and an equity compensation plan, but does not establish a qualifying catalyst or attribute the session move. Keep pending.",
         "sources": [
-          "https://investors.formfactor.com/events-and-presentations?mobile=1&page=17%2C0"
+          "https://www.sec.gov/Archives/edgar/data/1159036/000148381313000063/halo8k_2013annualmeeting.htm"
         ],
         "defer_reason": "timing"
       },
       {
-        "symbol": "IMH",
-        "qdate": "2016-02-04",
+        "symbol": "MNKD",
+        "qdate": "2014-01-09",
         "decision": "defer",
         "cause_class": "unclassified",
         "jump_cause": null,
         "news_filter": "pending_news_review",
-        "rationale": "Targeted date-specific review did not establish a reliable eligible issuer catalyst for February 4. The located Q4 2015 earnings call occurred later, on February 19, so do not assign this move to earnings without separate evidence.",
+        "rationale": "The well-documented Afrezza advisory-panel and FDA milestones occurred later in 2014. The reviewed sources do not establish an eligible same-session event for January 9; do not backdate later regulatory developments.",
         "sources": [
-          "https://www.accessnewswire.com/442375/coverage-of-top-gainers-imprivata-ocean-shore-holding-evolent-health-and-juno-therapeutics",
-          "https://investors.impaccompanies.com/static-files/fb5e5867-13fc-48f8-803d-14e37f2e8be6"
+          "https://exa.ai/library/markets/stock/MNKD?date=2014-01-09&view=daily"
         ],
         "defer_reason": "timing"
       },
       {
-        "symbol": "SRNE",
-        "qdate": "2015-06-22",
+        "symbol": "SWIR",
+        "qdate": "2013-09-20",
         "decision": "defer",
         "cause_class": "unclassified",
         "jump_cause": null,
         "news_filter": "pending_news_review",
-        "rationale": "The identified Cynviloq/Igdrasol acquisition announcement and associated stock coverage are dated May 15, not June 22. This is an earlier-public timing conflict; do not transfer that catalyst to the saved June reaction session.",
+        "rationale": "Contemporaneous market coverage confirms a sharp afternoon rise and record volume but reports no cause. Keep pending; the price action alone does not establish a commercial contract or product catalyst.",
         "sources": [
-          "https://investorplace.com/2015/05/netflix-inc-nflx-hertz-global-holdings-inc-srne-sorrento-therapeutics-inc-3-todays-best-stocks/",
-          "https://exa.ai/library/markets/stock/SRNE?date=2015-06-22&view=daily"
+          "https://www.rttnews.com/2191714/sierra-wireless-inc-swir-broke-out-to-a-new-high-for-the-year.aspx"
         ],
         "defer_reason": "timing"
       },
       {
-        "symbol": "SMLP",
-        "qdate": "2015-12-11",
-        "decision": "defer",
-        "cause_class": "unclassified",
-        "jump_cause": null,
-        "news_filter": "pending_news_review",
-        "rationale": "The legacy rationale refers to sponsor support and a drop-down financing plan, but the source located in review reports a 2016 transaction/results date rather than a verified December 11, 2015 catalyst. Defer instead of carrying a date-mismatched financing label.",
-        "sources": [
-          "https://www.sec.gov/Archives/edgar/data/1549922/000154992216000109/ex991-earningsrelease1215.htm"
-        ],
-        "defer_reason": "timing"
-      },
-      {
-        "symbol": "SFUN",
-        "qdate": "2013-07-16",
-        "decision": "defer",
-        "cause_class": "unclassified",
-        "jump_cause": null,
-        "news_filter": "pending_news_review",
-        "rationale": "Targeted date-specific review did not recover reliable issuer news or a source attributing Fang Holdings’ move on July 16. Keep pending; do not treat a China internet or property context alone as attribution.",
-        "sources": [
-          "https://exa.ai/library/markets/stock/SFUN?date=2013-07-16&view=daily"
-        ],
-        "defer_reason": "timing"
-      },
-      {
-        "symbol": "SRPT",
-        "qdate": "2016-04-06",
-        "decision": "defer",
-        "cause_class": "unclassified",
-        "jump_cause": null,
-        "news_filter": "pending_news_review",
-        "rationale": "The major eteplirsen advisory committee meeting was later in April; targeted review did not establish a same-session April 6 trial or regulatory catalyst. Retain pending without extending later FDA-path news backward.",
-        "sources": [
-          "https://exa.ai/library/markets/stock/SRPT?date=2016-04-06&view=daily"
-        ],
-        "defer_reason": "timing"
-      },
-      {
-        "symbol": "CONN",
-        "qdate": "2015-11-02",
+        "symbol": "BLCM",
+        "qdate": "2015-11-10",
         "decision": "drop",
-        "cause_class": "financing",
-        "jump_cause": "financing",
-        "news_filter": "drop_financing",
-        "rationale": "Conn’s announced a same-day amendment to its $810 million asset-based revolving credit facility, including a higher leverage covenant that expanded borrowing capacity. The jump is attributed to a financing change, excluded under the manual ledger policy.",
+        "cause_class": "1_earnings",
+        "jump_cause": "earnings",
+        "news_filter": "drop_earnings",
+        "rationale": "Bellicum reported third-quarter 2015 financial results after the November 9 close; coverage identifies the report as the context for after-hours trading, making November 10 the earnings reaction session. Apply class 1 earnings precedence.",
         "sources": [
-          "https://www.foxbusiness.com/markets/why-shares-of-conns-inc-soared-20-on-monday",
-          "https://www.sec.gov/Archives/edgar/data/1223389/000122338915000058/conns2015103110-q.htm"
+          "https://finance.yahoo.com/news/mondays-hours-movers-rackspace-exone-lions-gate-215250823.html"
         ],
         "defer_reason": null
       },
       {
-        "symbol": "MTL",
-        "qdate": "2016-11-14",
+        "symbol": "KNDI",
+        "qdate": "2014-10-02",
         "decision": "defer",
         "cause_class": "unclassified",
         "jump_cause": null,
         "news_filter": "pending_news_review",
-        "rationale": "The located report identifies a 19% rise but does not provide a reliable same-session company catalyst. Commodity context alone is insufficient to code a macro/sector drop.",
+        "rationale": "The located October 2 market recap says Kandi rebounded after the prior day’s decline but provides no issuer-specific catalyst. Do not infer an eligible cause from that recap.",
         "sources": [
-          "https://www.fool.com/investing/2016/11/14/why-is-mechel-pao-stock-up-a-red-hot-19-today/"
+          "https://www.15minutenews.com/business/2014/10/02/"
         ],
         "defer_reason": "timing"
       },
       {
-        "symbol": "ORMP",
-        "qdate": "2015-07-02",
+        "symbol": "VHC",
+        "qdate": "2016-06-14",
+        "decision": "keep",
+        "cause_class": "9_legal_unlock",
+        "jump_cause": "legal_unlock",
+        "news_filter": "keep",
+        "rationale": "The U.S. Supreme Court issued its Halo Electronics decision on June 13, changing the standard for enhanced patent damages; contemporaneous market coverage links VirnetX’s June 14 rise to that legal decision amid its patent litigation. Class 9 applies as a legal development that could unlock litigation value.",
+        "sources": [
+          "https://www.fool.com/investing/2016/07/13/why-virnetx-holding-corp-stock-popped-plunged-177.aspx",
+          "https://www.law.cornell.edu/supremecourt/text/14-1513"
+        ],
+        "defer_reason": null
+      },
+      {
+        "symbol": "LJPC",
+        "qdate": "2014-12-11",
         "decision": "defer",
         "cause_class": "unclassified",
         "jump_cause": null,
         "news_filter": "pending_news_review",
-        "rationale": "The identified Sinopharm China-rights letter of intent was announced on July 7, after the July 2 jump session. Do not backdate the partnership catalyst; retain pending for a same-session cause.",
+        "rationale": "La Jolla entered a patent license agreement on December 9, but the reviewed evidence does not establish that this earlier announcement caused the December 11 jump. Insider buying on December 11 does not establish public catalyst attribution.",
         "sources": [
-          "https://oramed.com/wp-content/uploads/2022/06/MLV-Update-Jul-7-15.pdf",
-          "https://exa.ai/library/markets/stock/ORMP?date=2015-07-02&view=daily"
+          "https://www.sec.gov/Archives/edgar/data/920465/000092046514000127/ljpc8-kdec2014.htm",
+          "https://d32eqw2g0ztuen.cloudfront.net/trading/cik920465.html"
         ],
         "defer_reason": "timing"
+      },
+      {
+        "symbol": "NRP",
+        "qdate": "2016-03-04",
+        "decision": "defer",
+        "cause_class": "unclassified",
+        "jump_cause": null,
+        "news_filter": "pending_news_review",
+        "rationale": "NRP completed a 1-for-10 reverse split on February 17, but this is not the March 4 reaction date. The located source shows split-adjusted historical data can distort comparisons; without evidence that the March 4 row itself is a corporate-action artifact, retain it pending price-source reconciliation.",
+        "sources": [
+          "https://www.miaxglobal.com/sites/default/files/alert-files/NRP_Split_38418.pdf",
+          "https://www.sec.gov/Archives/edgar/data/1171486/000117148616000044/ngl-09302016x10q.htm"
+        ],
+        "defer_reason": "category"
+      },
+      {
+        "symbol": "LITB",
+        "qdate": "2013-12-16",
+        "decision": "defer",
+        "cause_class": "unclassified",
+        "jump_cause": null,
+        "news_filter": "pending_news_review",
+        "rationale": "LightInTheBox announced a $20 million ADS repurchase authorization on December 16. The buyback is dated to the session, but the present taxonomy does not clearly map ordinary capital allocation to classes 2–11; defer category instead of forcing it into class 11.",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1523836/000110465913090234/a13-26381_1ex99d1.htm"
+        ],
+        "defer_reason": "category"
       }
     ],
     "limitations": [
       "No database-derived snapshot or saved population news queue refreshed.",
-      "Unresolved date-specific cases remain pending; no earnings or sector labels inferred from broad context.",
+      "Unresolved attribution, mapping, and price-action questions remain pending.",
       "No exhaustive earlier-public search; no training or evaluation gates unlocked."
     ],
     "ledger_sha256": "a13a14f2c560ba32e6ae3ed1730a156007963b212059f5df9f68db0f292f88d6",
-    "n_policy_reviewed": 431,
-    "n_autonomous_reviewed": 405,
-    "n_legacy_awaiting_reassessment": 89,
-    "n_pending_in_manual_ledger": 189
+    "n_policy_reviewed": 461,
+    "n_autonomous_reviewed": 435,
+    "n_legacy_awaiting_reassessment": 59,
+    "n_pending_in_manual_ledger": 213
   },
   "policy_rebucket_history": [
     {
@@ -15296,6 +15684,36 @@
         "keep": 0,
         "drop": 1,
         "defer": 9
+      }
+    },
+    {
+      "reviewed_on": "2026-11-13",
+      "batch": "autonomous_batch56_10",
+      "n_reviewed": 10,
+      "decisions": {
+        "keep": 2,
+        "drop": 1,
+        "defer": 7
+      }
+    },
+    {
+      "reviewed_on": "2026-11-13",
+      "batch": "autonomous_batch57_10",
+      "n_reviewed": 10,
+      "decisions": {
+        "keep": 1,
+        "drop": 0,
+        "defer": 9
+      }
+    },
+    {
+      "reviewed_on": "2026-11-13",
+      "batch": "autonomous_batch58_10",
+      "n_reviewed": 10,
+      "decisions": {
+        "keep": 1,
+        "drop": 1,
+        "defer": 8
       }
     }
   ]
