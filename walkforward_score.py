@@ -12,7 +12,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, timedelta
 from pathlib import Path
 
-from insider_model import fit_ridge_logistic, predict
+from insider_model import fit_ridge_logistic
 from insider_resolved import connect, expiry_class, load_sessions
 from ma_candidate_screen import covering
 from ma_signal_model import (
@@ -264,7 +264,9 @@ def scan_symbol(symbol: str, sessions, index, monthlies, splits) -> list[dict]:
         if features is None:
             continue
         scaled, _, _ = design([features], FEATURES, scan_symbol.means, scan_symbol.sds)
-        score = predict(scan_symbol.beta, scaled[0])
+        # Rank on the linear score. The probability saturates at 1 when the
+        # ten-session return is large, and a saturated probability does not order those names.
+        score = sum(weight * value for weight, value in zip(scan_symbol.beta, scaled[0]))
         spot = closes.get(day)
         jumps = {}
         for horizon in HORIZONS:
@@ -328,9 +330,9 @@ def render(report: dict) -> str:
     lines = [
         '## Daily top picks, 2026-11-13',
         '',
-        'On each session the frozen logistic scores every optionable name from the ten sessions ending at that close. It names the top 3 and the top 4. A hit is a later close at least 15% above that close, either at the horizon or at the highest close inside it. A one-day move of +100% or −50%, or a split, is not counted as a jump. The coefficients are the 2013–2019 fit. This test does not choose a new cutoff.',
+        'On each session the frozen logistic scores every optionable name from the ten sessions ending at that close. Names are ordered by the linear score, because the probability saturates near 1 when that ten-session return is very large. It names the top 3 and the top 4. A hit is a later close at least 15% above that close, either at the horizon or at the highest close inside it. A one-day move of +100% or −50%, or a split, is not counted as a jump. A session counts only when every name in the slate has a close at that horizon. The coefficients are the 2013–2019 fit. This test does not choose a new cutoff.',
         '',
-        'The stock return in the score is the change from ten sessions earlier through the scoring close. It does not use the path into a later headline.',
+        'The stock return in the score is the change from ten sessions earlier through the scoring close. It does not use the path into a later headline. That return has the largest frozen weight, so the top of the list is the names that already rose the most. On this run the median ten-session return of the highest-ranked name was about 25 times, and the 10th percentile was still about 9 times.',
         '',
         f"Names scanned: {report.get('symbols', 0)}. Scoring sessions: {report.get('sessions', 0)}. Standardization check gap: {report.get('five_gap')}.",
         '',
@@ -460,7 +462,11 @@ def _finish(symbols, heaps, counts, standard, sessions, index, ma, earn) -> dict
             for kind in ('terminal', 'peak'):
                 records = []
                 for day, slate in labeled.items():
-                    universe = counts['horizon'].get(str(horizon), {}).get(day, dict(eligible=0, terminal=0, peak=0))
+                    universe = {
+                        span: counts['horizon'].get(str(span), {}).get(
+                            day, dict(eligible=0, terminal=0, peak=0))
+                        for span in HORIZONS
+                    }
                     records.append(dict(slate=slate, universe=universe))
                 results[str(picks)][str(horizon)][kind] = slate_summary(records, picks, horizon, kind)
     return dict(
