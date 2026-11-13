@@ -227,8 +227,8 @@ def slate_hit_summary(records, picks, horizon, kind, universe_key):
         for item in jumped:
             label = item['news'].get(str(horizon), 'other')
             news[label] = news.get(label, 0) + 1
-        filtered = row['universe'][universe_key][horizon]
-        quiet = row['universe'][row['quiet_key']][horizon]
+        filtered = row['universe'][universe_key][str(horizon)]
+        quiet = row['universe'][row['quiet_key']][str(horizon)]
         prob = random_hit_probability(filtered['eligible'], filtered[kind], picks)
         quiet_prob = random_hit_probability(quiet['eligible'], quiet[kind], picks)
         if prob is not None:
@@ -866,11 +866,13 @@ def render(report: dict) -> str:
             continue
         shown.setdefault(row['id'], row)
     if not shown:
-        lines.append('None of the resolved-case trade windows met the loud-and-quiet rule on a day with a price.')
+        lines.append('No resolved-case trade window had a loud call day.')
+    lines.append('These are loud call days inside the documented trade window. A day passes the stock gate only when the 10-session move is under 5%.')
     for case_id, row in shown.items():
+        quiet = 'stock quiet' if row.get('quiet_5') else 'stock already moved'
         lines.append(
             f"- {case_id} {row['symbol']} {row['day']} ratio {_fmt(row.get('ratio'))}, "
-            f"10-session return {_fmt(row.get('r10'))}, spike days {row.get('spike_days')}."
+            f"10-session return {_fmt(row.get('r10'))}, spike days {row.get('spike_days')}, {quiet}."
         )
     lines += [
         '',
