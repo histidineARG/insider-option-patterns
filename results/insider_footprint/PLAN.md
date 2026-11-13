@@ -46,6 +46,18 @@ A higher Tier A hit rate than the placebo and the earnings dates means the footp
 
 A hit is a concentrated print in cheap calls. It does not name an account, and it does not make the 246 rows training labels.
 
-## Later, only after this screen stays frozen
+## Model
 
-Label the 262 pending rows before any of them enter the case set. A lower jump threshold is a separate, pre-registered sensitivity. A logistic with the volume ratio, the band share, strike concentration, and the call/put ratio is justified only if this screen separates Tier A from earnings on the earlier years, with the last year left untouched.
+The binary screen is applied once and left as recorded in `REPORT.md`. The logistic does not search a new alert threshold. It asks whether the same session's continuous features rank a class-2 window above that name's placebo and earnings windows out of sample.
+
+Features, taken from the one pre-event session with the largest call-volume ratio:
+
+- log of the call-volume ratio versus the prior 20 sessions
+- share of that call volume in the delta 0.10–0.35, 5–45 day, 3–25% out-of-the-money band
+- share of the band in its busiest strike and expiry
+- calls divided by calls plus puts
+- log of band volume per contract of band open interest
+
+Ridge penalty is 1 on features standardized with the 2013–2014 mean and spread. The intercept is unpenalized. 2015 is reported and does not change the fit. 2016 is the holdout. A one-feature volume-ratio model is the comparison.
+
+Label the 262 pending rows before any of them enter the case set. A lower jump threshold is a separate sensitivity and is not part of this fit.

@@ -14,6 +14,8 @@ from collections import defaultdict
 from datetime import date
 from pathlib import Path
 
+from insider_model import evaluate_model, render_model_report, samples_from_records, window_features
+
 WINDOW = 10
 BASELINE = 20
 MIN_OBSERVED_WINDOW = 8
@@ -42,7 +44,14 @@ SELECT qdate,
                  AND strike > underlying_last * %s
                  AND strike <= underlying_last * %s
                  AND bid > 0 AND ask >= bid
-            THEN volume ELSE 0 END) AS band_vol
+            THEN volume ELSE 0 END) AS band_vol,
+       SUM(CASE WHEN delta BETWEEN %s AND %s
+                 AND DATEDIFF(edate, qdate) BETWEEN %s AND %s
+                 AND underlying_last > 0
+                 AND strike > underlying_last * %s
+                 AND strike <= underlying_last * %s
+                 AND bid > 0 AND ask >= bid
+            THEN oi ELSE 0 END) AS band_oi
 FROM optiondaily
 WHERE underlying = %s AND `type` = 'call' AND qdate BETWEEN %s AND %s
 GROUP BY qdate
@@ -59,6 +68,13 @@ WHERE underlying = %s AND `type` = 'call' AND qdate BETWEEN %s AND %s
   AND strike <= underlying_last * %s
   AND bid > 0 AND ask >= bid
 GROUP BY qdate, strike, edate
+'''
+
+PUT_SQL = '''
+SELECT qdate, SUM(volume) AS put_vol
+FROM optiondaily
+WHERE underlying = %s AND `type` = 'put' AND qdate BETWEEN %s AND %s
+GROUP BY qdate
 '''
 
 
@@ -115,6 +131,8 @@ def chain_days(daily_rows, shares) -> dict:
             qdate=row['qdate'],
             call_vol=call_vol,
             band_vol=band_vol,
+            band_oi=int(row.get('band_oi') or 0),
+            put_vol=0,
             top_share=shares.get(row['qdate']),
         )
     return out
@@ -222,14 +240,26 @@ def median_of(records, key):
 
 
 def fetch_chain(connection, symbol, start, end):
-    daily_args = (DELTA_LO, DELTA_HI, DTE_LO, DTE_HI, OTM_LO, OTM_HI, symbol, start, end)
-    band_args = (symbol, start, end, DELTA_LO, DELTA_HI, DTE_LO, DTE_HI, OTM_LO, OTM_HI)
+    band_params = (DELTA_LO, DELTA_HI, DTE_LO, DTE_HI, OTM_LO, OTM_HI)
+    daily_args = band_params + band_params + (symbol, start, end)
+    band_args = (symbol, start, end) + band_params
     with connection.cursor() as cursor:
         cursor.execute(DAILY_SQL, daily_args)
         daily = cursor.fetchall()
         cursor.execute(BAND_SQL, band_args)
         band = cursor.fetchall()
-    return chain_days(daily, top_shares(band))
+        cursor.execute(PUT_SQL, (symbol, start, end))
+        puts = cursor.fetchall()
+    days = chain_days(daily, top_shares(band))
+    for row in puts:
+        volume = int(row['put_vol'] or 0)
+        slot = days.get(row['qdate'])
+        if slot is None:
+            days[row['qdate']] = dict(qdate=row['qdate'], call_vol=0, band_vol=0, band_oi=0,
+                                      put_vol=volume, top_share=None)
+        else:
+            slot['put_vol'] = volume
+    return days
 
 
 def connect():
@@ -277,14 +307,13 @@ def earnings_dates(connection, symbols):
     return out
 
 
-def nearest_session(index, sessions, day):
-    if day in index:
-        return day
-    # Next listed session on or after the stored reaction date.
-    for session in sessions[index and 0:]:
-        if session >= day:
-            return session
-    return None
+def scored_span(days, dates) -> dict:
+    window, baseline = dates
+    scored = evaluate(days, window, baseline)
+    features = window_features(select_days(days, window), select_days(days, baseline))
+    if features:
+        scored['features'] = features
+    return scored
 
 
 def choose_earnings(symbol, event, earnings, index, sessions, occupied):
@@ -345,15 +374,14 @@ def run(root: Path, connection=None) -> dict:
                 item.update(eligible=False, hit=False, reason='jump_not_on_calendar')
             else:
                 start, end = cover_range(*real)
-                scored = evaluate(chain(row['symbol'], start, end), *real)
-                item.update(scored)
+                item.update(scored_span(chain(row['symbol'], start, end), real))
             if row['tier'] == 'A':
                 placebo = span(sessions, index, row['qdate'], PLACEBO_SHIFT)
                 if placebo is None:
                     item['placebo'] = dict(eligible=False, hit=False, reason='no_prior_history')
                 else:
                     start, end = cover_range(*placebo)
-                    item['placebo'] = evaluate(chain(row['symbol'], start, end), *placebo)
+                    item['placebo'] = scored_span(chain(row['symbol'], start, end), placebo)
                     item['placebo_event'] = sessions[index[row['qdate']] - PLACEBO_SHIFT].isoformat()
                 chosen = choose_earnings(row['symbol'], row['qdate'], earnings, index, sessions, occupied)
                 if chosen is None:
@@ -364,7 +392,7 @@ def run(root: Path, connection=None) -> dict:
                         item['earnings'] = dict(eligible=False, hit=False, reason='earnings_span_unavailable')
                     else:
                         start, end = cover_range(*earnings_span)
-                        item['earnings'] = evaluate(chain(row['symbol'], start, end), *earnings_span)
+                        item['earnings'] = scored_span(chain(row['symbol'], start, end), earnings_span)
                     item['earnings_event'] = chosen.isoformat()
             records.append(item)
             if n % 25 == 0:
@@ -409,10 +437,16 @@ def run(root: Path, connection=None) -> dict:
     )
     folder = root / 'results' / 'insider_footprint'
     folder.mkdir(parents=True, exist_ok=True)
+    model = evaluate_model(samples_from_records(records))
+    summary['model'] = {key: model[key] for key in ('fit', 'n_train', 'volume_only_holdout_auc') if key in model}
+    if model.get('fit'):
+        summary['model']['holdout_2016'] = model['folds']['holdout_2016']
     (folder / 'summary.json').write_text(json.dumps(summary, indent=2) + '\n')
     (folder / 'events.json').write_text(json.dumps(records, indent=2, default=str) + '\n')
+    (folder / 'model.json').write_text(json.dumps(model, indent=2) + '\n')
     (folder / 'REPORT.md').write_text(render_report(summary))
-    print(json.dumps(summary, indent=2), flush=True)
+    (folder / 'MODEL.md').write_text(render_model_report(model))
+    print(json.dumps(model.get('folds', model), indent=2, default=str), flush=True)
     return summary
 
 

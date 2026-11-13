@@ -152,5 +152,30 @@
     "earnings_median_max_share": 0.4015047879616963,
     "tier_b_median_max_ratio": 3.993175686439387,
     "tier_b_median_max_share": 0.2846251588310038
+  },
+  "model": {
+    "fit": true,
+    "n_train": 95,
+    "volume_only_holdout_auc": 0.43285123966942146,
+    "holdout_2016": {
+      "n": 66,
+      "positives": 22,
+      "negatives": 44,
+      "auc": 0.5289256198347108,
+      "paired_placebo": {
+        "n": 22,
+        "wins": 11,
+        "losses": 11,
+        "ties": 0,
+        "win_rate": 0.5
+      },
+      "paired_earnings": {
+        "n": 22,
+        "wins": 12,
+        "losses": 10,
+        "ties": 0,
+        "win_rate": 0.5454545454545454
+      }
+    }
   }
 }
