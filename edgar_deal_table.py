@@ -315,9 +315,14 @@ def load_ticker_map(path: Path) -> dict:
 def download_tickers(root: Path, http: requests.Session) -> dict:
     path = root / 'data' / 'edgar_deals' / 'company_tickers.json'
     path.parent.mkdir(parents=True, exist_ok=True)
-    if not path.exists():
+    if path.exists() and path.stat().st_size > 1000:
+        return load_ticker_map(path)
+    try:
         response = _get(http, 'https://www.sec.gov/files/company_tickers.json')
-        path.write_text(response.text if response.text.endswith('\n') else response.text + '\n')
+    except requests.HTTPError as exc:
+        print(f'company_tickers unavailable: {exc.response.status_code}', flush=True)
+        return {}
+    path.write_text(response.text if response.text.endswith('\n') else response.text + '\n')
     return load_ticker_map(path)
 
 
