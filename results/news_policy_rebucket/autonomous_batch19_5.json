@@ -1,0 +1,122 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch19_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 4,
+  "n_deferred": 1,
+  "n_timing_deferred": 1,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 216,
+  "review_counts": {
+    "keep": 220,
+    "drop_earnings": 60,
+    "drop_other_not_234": 304,
+    "pending_news_review": 54,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 13,
+    "drop_analyst": 6,
+    "drop_financing": 8,
+    "drop_peer_sympathy": 3,
+    "drop_operating_update": 3,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 220,
+    "drop_earnings": 56,
+    "drop_other_not_234": 309,
+    "pending_news_review": 53,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 13,
+    "drop_analyst": 6,
+    "drop_financing": 8,
+    "drop_peer_sympathy": 3,
+    "drop_operating_update": 3,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "CSTE",
+      "qdate": "2014-02-12",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "February 12 issuer Q4/full-year release establishes earnings and accompanying FY14 guidance; same-day business account confirms report. Previously announced IKEA agreement is described as historical commercialization progress. Class 1 takes precedence over bundled guidance and old partnership.",
+      "sources": [
+        "https://s23.q4cdn.com/225400014/files/doc_news/archive/50869d05-2388-4776-866c-0df810c80d60.pdf",
+        "https://en.globes.co.il/en/article-us-sales-boost-caesarstone-revenue-and-profit-1000916684"
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "qdate": "2013-01-11",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "January 11 primary release reports December-quarter results and annual outlook; contemporaneous market account attributes rally to the report. Lodestone integration and higher sales forecast inside earnings remain class 1. Overseas reporting/ADS status does not make earnings eligible.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067491/000106749113000004/exv99w01.htm",
+        "https://www.rediff.com/business/report/infosys-stock-surges/20130111.htm"
+      ]
+    },
+    {
+      "symbol": "MMS",
+      "qdate": "2014-02-06",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "Issuer February 6 Q1 results and 9 a.m. call establish pre-market earnings event. Later February 10 SEC filing is not first publication. Financial outlook and contracted-services performance within quarterly report remain class 1.",
+      "sources": [
+        "https://investor.maximus.com/news-events/press-releases/detail/243/maximus-reports-first-quarter-results-for-fiscal-2014",
+        "https://www.sec.gov/Archives/edgar/data/1032220/000115752314000518/a50800940.htm"
+      ]
+    },
+    {
+      "symbol": "VOXX",
+      "qdate": "2013-01-10",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "Primary release reports fiscal Q3 results January 9 with January 10 10 a.m. ET results call. This supports next-session earnings category; later January 11 filing is not original publication. CES products do not override this documented earnings event. Exact initial release time is not independently certified.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/807707/000080770713000005/q3ex991pressrelease.htm",
+        "https://www.sec.gov/Archives/edgar/data/807707/000080770713000005/a8k-2013q3.htm"
+      ]
+    },
+    {
+      "symbol": "CSTM",
+      "qdate": "2015-11-12",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted issuer/date search recovered Q3 results timestamp November 5 02:00 ET, one week before November 12 jump. That report cannot automatically explain a later session. No verified November 12 company catalyst recovered in this check; leave unresolved rather than misclassify stale quarterly results as same-session earnings.",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/constellium-reports-third-quarter-2015-financial-results-300172989.html"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

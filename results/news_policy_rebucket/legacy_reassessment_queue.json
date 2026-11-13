@@ -1,18 +1,8 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "659494fee538b98c2d53b97000b2878cf4e9e292ecc505e148832070d2e4cad0",
-  "n_rows": 314,
+  "ledger_sha256": "d06f8712486bfdb9b5aeaefb432dc19419aac1d104c05e64f3c25df1499ad477",
+  "n_rows": 264,
   "reviews": [
-    {
-      "symbol": "GALT",
-      "qdate": "2014-01-09",
-      "close_return": 0.593,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Sympathy move with Intercept NASH trial stop-early news; no Galectin company-specific trial success that day (enrollment update came Jan 13).",
-      "locator": "https://moneymorning.com/2014/01/09/u-s-stock-market-news-today-check-pharma-stock-soared-300"
-    },
     {
       "symbol": "CBIO",
       "qdate": "2015-08-31",
@@ -444,16 +434,6 @@
       "locator": "https://exa.ai/library/markets/stock/CRUS?date=2014-12-15&view=daily"
     },
     {
-      "symbol": "CLVS",
-      "qdate": "2016-06-29",
-      "close_return": 0.2184,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "PARP peer Tesaro niraparib PFS news bounce; rociletinib CRL already flagged. Sector, not company keep 2/3/4.",
-      "locator": "https://endpoints.news/what-pdufa-date-clovis-shares-surge-as-parps-get-trendy-on-wall-street/"
-    },
-    {
       "symbol": "SGMO",
       "qdate": "2015-09-10",
       "close_return": 0.2171,
@@ -524,16 +504,6 @@
       "locator": "https://exa.ai/library/markets/stock/SM?date=2015-02-03&view=daily"
     },
     {
-      "symbol": "CARA",
-      "qdate": "2016-03-21",
-      "close_return": 0.2128,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR (clinical hold lifted later in Apr). Unclassified, not keep 2/3/4.",
-      "locator": "https://www.fiercebiotech.com/biotech/cara-tanks-as-fda-clamps-a-hold-on-its-painkiller-trial"
-    },
-    {
       "symbol": "GEO",
       "qdate": "2016-11-09",
       "close_return": 0.2127,
@@ -562,16 +532,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/AXDX?date=2013-09-30&view=daily"
-    },
-    {
-      "symbol": "PTCT",
-      "qdate": "2016-09-30",
-      "close_return": 0.2119,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR (peer DMD news was earlier). Unclassified, not keep 2/3/4.",
-      "locator": "https://www.rttnews.com/2694240/vicl-slumps-fda-greenlights-srpt-s-dmd-drug-domino-effect-on-ptct.aspx"
     },
     {
       "symbol": "TGTX",
@@ -694,16 +654,6 @@
       "locator": "https://exa.ai/library/markets/stock/JKS?date=2013-05-20&view=daily"
     },
     {
-      "symbol": "QIWI",
-      "qdate": "2014-05-21",
-      "close_return": 0.2065,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/QIWI?date=2014-05-21&view=daily"
-    },
-    {
       "symbol": "ADPT",
       "qdate": "2015-07-23",
       "close_return": 0.2064,
@@ -712,16 +662,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/ADPT?date=2015-07-23&view=daily"
-    },
-    {
-      "symbol": "PTCT",
-      "qdate": "2016-09-19",
-      "close_return": 0.2064,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Peer bounce on Sarepta Exondys 51 FDA approval; no PTCT keep PR. Peer/sector, not keep 2/3/4.",
-      "locator": "https://www.rttnews.com/2694240/vicl-slumps-fda-greenlights-srpt-s-dmd-drug-domino-effect-on-ptct.aspx"
     },
     {
       "symbol": "SRPT",
@@ -874,16 +814,6 @@
       "locator": "https://www.fool.com/investing/2016/06/09/why-ptc-therapeutics-jumped-10-in-may.aspx"
     },
     {
-      "symbol": "NPO",
-      "qdate": "2014-01-13",
-      "close_return": 0.2027,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for EnPro; unclassified industrial move.",
-      "locator": "https://exa.ai/library/markets/stock/NPO?date=2014-01-13&view=daily"
-    },
-    {
       "symbol": "GDP",
       "qdate": "2014-11-07",
       "close_return": 0.2021,
@@ -954,16 +884,6 @@
       "locator": "https://exa.ai/library/markets/stock/CARA?date=2016-11-16&view=daily"
     },
     {
-      "symbol": "SNX",
-      "qdate": "2013-09-11",
-      "close_return": 0.2005,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for SYNNEX. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/SNX?date=2013-09-11&view=daily"
-    },
-    {
       "symbol": "XONE",
       "qdate": "2015-11-25",
       "close_return": 0.2,
@@ -974,16 +894,6 @@
       "locator": "https://exa.ai/library/markets/stock/XONE?date=2015-11-25&view=daily"
     },
     {
-      "symbol": "MMYT",
-      "qdate": "2014-05-21",
-      "close_return": 0.1999,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for MakeMyTrip. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/MMYT?date=2014-05-21&view=daily"
-    },
-    {
       "symbol": "XLRN",
       "qdate": "2016-11-09",
       "close_return": 0.1993,
@@ -992,16 +902,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Acceleron jumped with broad post-election biotech rally. Macro/sector, not company keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/XLRN?date=2016-11-09&view=daily"
-    },
-    {
-      "symbol": "CMRE",
-      "qdate": "2016-01-28",
-      "close_return": 0.1991,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Costamare Q4/year-end results (~Jan 27). Earnings/shipping rates, not keep 2/3/4.",
-      "locator": "https://www.costamare.com/news/2016-news-releases"
     },
     {
       "symbol": "AKBA",
@@ -1022,16 +922,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR for athenahealth. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/ATHN?date=2013-07-12&view=daily"
-    },
-    {
-      "symbol": "MITL",
-      "qdate": "2016-07-08",
-      "close_return": 0.1977,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Polycom terminated Mitel merger for Siris bid; Mitel rose on $60M break fee / not issuing equity as abandoned acquirer. Not target M&A keep-2.",
-      "locator": "https://www.cnbc.com/2016/07/08/polycom-mitel-shares-soar-after-acquisition-is-terminated.html"
     },
     {
       "symbol": "MOMO",
@@ -1134,36 +1024,6 @@
       "locator": "https://exa.ai/library/markets/stock/GLNG?date=2015-05-05&view=daily"
     },
     {
-      "symbol": "DMRC",
-      "qdate": "2016-01-12",
-      "close_return": 0.1958,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Digimarc retail watermark/New Seasons adoption chatter; commercial adoption, not keep-4 tech breakthrough / keep 2/3.",
-      "locator": "https://exa.ai/library/markets/stock/DMRC?date=2016-01-12&view=daily"
-    },
-    {
-      "symbol": "MMS",
-      "qdate": "2014-02-06",
-      "close_return": 0.1958,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Maximus. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/MMS?date=2014-02-06&view=daily"
-    },
-    {
-      "symbol": "CSTE",
-      "qdate": "2014-02-12",
-      "close_return": 0.1955,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Caesarstone. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/CSTE?date=2014-02-12&view=daily"
-    },
-    {
       "symbol": "DQ",
       "qdate": "2013-04-09",
       "close_return": 0.1954,
@@ -1202,26 +1062,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR for Impac Mortgage. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/IMH?date=2016-02-04&view=daily"
-    },
-    {
-      "symbol": "ONE",
-      "qdate": "2013-11-07",
-      "close_return": 0.194,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Higher One. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ONE?date=2013-11-07&view=daily"
-    },
-    {
-      "symbol": "GTS",
-      "qdate": "2015-11-05",
-      "close_return": 0.1938,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Triple-S. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/GTS?date=2015-11-05&view=daily"
     },
     {
       "symbol": "SRNE",
@@ -1264,16 +1104,6 @@
       "locator": "https://exa.ai/library/markets/stock/SFUN?date=2013-07-16&view=daily"
     },
     {
-      "symbol": "COTY",
-      "qdate": "2015-06-16",
-      "close_return": 0.1931,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day definitive keep PR for Coty (P&G beauty deal announced later Jul 2015). Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/COTY?date=2015-06-16&view=daily"
-    },
-    {
       "symbol": "SRPT",
       "qdate": "2016-04-06",
       "close_return": 0.193,
@@ -1302,16 +1132,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR for Agios. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/AGIO?date=2014-09-26&view=daily"
-    },
-    {
-      "symbol": "LL",
-      "qdate": "2016-06-17",
-      "close_return": 0.1927,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Lumber Liquidators. Unclassified/litigation-sector, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/LL?date=2016-06-17&view=daily"
     },
     {
       "symbol": "MTL",
@@ -1394,16 +1214,6 @@
       "locator": "https://exa.ai/library/markets/stock/CYTR?date=2014-01-10&view=daily"
     },
     {
-      "symbol": "WWE",
-      "qdate": "2015-01-27",
-      "close_return": 0.1916,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for WWE (network/media). Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/WWE?date=2015-01-27&view=daily"
-    },
-    {
       "symbol": "ANGI",
       "qdate": "2014-10-01",
       "close_return": 0.1915,
@@ -1454,16 +1264,6 @@
       "locator": "https://exa.ai/library/markets/stock/TGI?date=2015-12-29&view=daily"
     },
     {
-      "symbol": "SHEN",
-      "qdate": "2015-08-11",
-      "close_return": 0.1905,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Shenandoah Telecommunications. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/SHEN?date=2015-08-11&view=daily"
-    },
-    {
       "symbol": "EZPW",
       "qdate": "2014-05-21",
       "close_return": 0.1902,
@@ -1504,16 +1304,6 @@
       "locator": "https://exa.ai/library/markets/stock/SRPT?date=2013-12-12&view=daily"
     },
     {
-      "symbol": "CAAS",
-      "qdate": "2013-11-13",
-      "close_return": 0.1893,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for China Automotive Systems. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/CAAS?date=2013-11-13&view=daily"
-    },
-    {
       "symbol": "RVNC",
       "qdate": "2016-09-16",
       "close_return": 0.1889,
@@ -1532,16 +1322,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR for American Superconductor. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/AMSC?date=2015-04-21&view=daily"
-    },
-    {
-      "symbol": "INFY",
-      "qdate": "2013-01-11",
-      "close_return": 0.1882,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Infosys. Unclassified/earnings-sector, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/INFY?date=2013-01-11&view=daily"
     },
     {
       "symbol": "SRNE",
@@ -1584,16 +1364,6 @@
       "locator": "https://exa.ai/library/markets/stock/ORBC?date=2014-01-28&view=daily"
     },
     {
-      "symbol": "WMB",
-      "qdate": "2014-06-16",
-      "close_return": 0.1874,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day definitive keep PR for Williams (ETP talks were private). Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/WMB?date=2014-06-16&view=daily"
-    },
-    {
       "symbol": "ICON",
       "qdate": "2016-03-07",
       "close_return": 0.1872,
@@ -1622,16 +1392,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR for China Finance Online. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/JRJC?date=2014-01-15&view=daily"
-    },
-    {
-      "symbol": "PERI",
-      "qdate": "2014-11-06",
-      "close_return": 0.1868,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR for Perion. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/PERI?date=2014-11-06&view=daily"
     },
     {
       "symbol": "ARWR",
@@ -1674,16 +1434,6 @@
       "locator": "https://exa.ai/library/markets/stock/ORMP?date=2014-06-11&view=daily"
     },
     {
-      "symbol": "LSCC",
-      "qdate": "2016-11-03",
-      "close_return": 0.1852,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Lattice Semiconductor post-election semis rally / no confirmed keep 2/3/4 PR.",
-      "locator": "https://exa.ai/library/markets/stock/LSCC?date=2016-11-03&view=daily"
-    },
-    {
       "symbol": "RPRX",
       "qdate": "2014-08-28",
       "close_return": 0.1851,
@@ -1692,16 +1442,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep-2/3/4 PR for RPRX. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/RPRX?date=2014-08-28&view=daily"
-    },
-    {
-      "symbol": "DLNG",
-      "qdate": "2016-03-31",
-      "close_return": 0.185,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for DLNG. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/DLNG?date=2016-03-31&view=daily"
     },
     {
       "symbol": "STXS",
@@ -1734,26 +1474,6 @@
       "locator": "https://exa.ai/library/markets/stock/KNDI?date=2013-09-24&view=daily"
     },
     {
-      "symbol": "SWIR",
-      "qdate": "2013-01-29",
-      "close_return": 0.1845,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for SWIR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/SWIR?date=2013-01-29&view=daily"
-    },
-    {
-      "symbol": "GIB",
-      "qdate": "2013-04-30",
-      "close_return": 0.1844,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for GIB. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/GIB?date=2013-04-30&view=daily"
-    },
-    {
       "symbol": "LSCC",
       "qdate": "2016-04-13",
       "close_return": 0.1844,
@@ -1762,16 +1482,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep-2/3/4 PR for LSCC. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/LSCC?date=2016-04-13&view=daily"
-    },
-    {
-      "symbol": "MSTR",
-      "qdate": "2013-10-29",
-      "close_return": 0.1844,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for MSTR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/MSTR?date=2013-10-29&view=daily"
     },
     {
       "symbol": "RVNC",
@@ -1874,36 +1584,6 @@
       "locator": "https://exa.ai/library/markets/stock/GNE?date=2015-10-08&view=daily"
     },
     {
-      "symbol": "CSTM",
-      "qdate": "2015-11-12",
-      "close_return": 0.1833,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for CSTM. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/CSTM?date=2015-11-12&view=daily"
-    },
-    {
-      "symbol": "ISLE",
-      "qdate": "2015-02-25",
-      "close_return": 0.1833,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for ISLE. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ISLE?date=2015-02-25&view=daily"
-    },
-    {
-      "symbol": "COMM",
-      "qdate": "2015-01-27",
-      "close_return": 0.1832,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for COMM. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/COMM?date=2015-01-27&view=daily"
-    },
-    {
       "symbol": "VHC",
       "qdate": "2016-06-14",
       "close_return": 0.1832,
@@ -1934,16 +1614,6 @@
       "locator": "https://exa.ai/library/markets/stock/NRP?date=2016-03-04&view=daily"
     },
     {
-      "symbol": "AEO",
-      "qdate": "2016-05-19",
-      "close_return": 0.183,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for AEO. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/AEO?date=2016-05-19&view=daily"
-    },
-    {
       "symbol": "LITB",
       "qdate": "2013-12-16",
       "close_return": 0.1827,
@@ -1964,16 +1634,6 @@
       "locator": "https://exa.ai/library/markets/stock/GDP?date=2013-02-06&view=daily"
     },
     {
-      "symbol": "VOXX",
-      "qdate": "2013-01-10",
-      "close_return": 0.1826,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for VOXX. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/VOXX?date=2013-01-10&view=daily"
-    },
-    {
       "symbol": "ENDP",
       "qdate": "2016-06-28",
       "close_return": 0.1826,
@@ -1984,16 +1644,6 @@
       "locator": "https://exa.ai/library/markets/stock/ENDP?date=2016-06-28&view=daily"
     },
     {
-      "symbol": "MSTR",
-      "qdate": "2014-04-24",
-      "close_return": 0.1824,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for MSTR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/MSTR?date=2014-04-24&view=daily"
-    },
-    {
       "symbol": "OMER",
       "qdate": "2013-10-03",
       "close_return": 0.1823,
@@ -2002,16 +1652,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Omeros GPCR unlock PR + insurance litigation settlement. Preclinical platform/litigation, not keep 2/3/4.",
       "locator": "https://www.prnewswire.com/news-releases/omeros-unlocks-six-additional-class-a-orphan-gpcrs-and-identifies-small-molecules-targeting-two-commercially-validated-class-b-gpcrs-226279611.html"
-    },
-    {
-      "symbol": "NUS",
-      "qdate": "2014-03-24",
-      "close_return": 0.1821,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for NUS. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/NUS?date=2014-03-24&view=daily"
     },
     {
       "symbol": "MATR",
@@ -2042,16 +1682,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep-2/3/4 PR for ZGNX. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/ZGNX?date=2016-03-14&view=daily"
-    },
-    {
-      "symbol": "SIG",
-      "qdate": "2014-02-19",
-      "close_return": 0.1814,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for SIG. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/SIG?date=2014-02-19&view=daily"
     },
     {
       "symbol": "MNKD",
@@ -2134,26 +1764,6 @@
       "locator": "https://exa.ai/library/markets/stock/VUZI?date=2015-04-10&view=daily"
     },
     {
-      "symbol": "ABCO",
-      "qdate": "2014-12-11",
-      "close_return": 0.1803,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for ABCO. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ABCO?date=2014-12-11&view=daily"
-    },
-    {
-      "symbol": "AEM",
-      "qdate": "2013-10-24",
-      "close_return": 0.1802,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for AEM. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/AEM?date=2013-10-24&view=daily"
-    },
-    {
       "symbol": "SRPT",
       "qdate": "2013-09-20",
       "close_return": 0.1802,
@@ -2192,36 +1802,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep-2/3/4 PR for JKS. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/JKS?date=2013-07-15&view=daily"
-    },
-    {
-      "symbol": "ACRX",
-      "qdate": "2013-12-16",
-      "close_return": 0.1793,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for ACRX. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ACRX?date=2013-12-16&view=daily"
-    },
-    {
-      "symbol": "INVE",
-      "qdate": "2014-09-08",
-      "close_return": 0.1792,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for INVE. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/INVE?date=2014-09-08&view=daily"
-    },
-    {
-      "symbol": "MBI",
-      "qdate": "2013-02-06",
-      "close_return": 0.1789,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for MBI. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/MBI?date=2013-02-06&view=daily"
     },
     {
       "symbol": "ETSY",
@@ -2334,16 +1914,6 @@
       "locator": "https://exa.ai/library/markets/stock/GBT?date=2016-08-12&view=daily"
     },
     {
-      "symbol": "ASPS",
-      "qdate": "2015-04-07",
-      "close_return": 0.1774,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for ASPS. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ASPS?date=2015-04-07&view=daily"
-    },
-    {
       "symbol": "ESI",
       "qdate": "2013-01-24",
       "close_return": 0.1774,
@@ -2424,16 +1994,6 @@
       "locator": "https://exa.ai/library/markets/stock/CLVS?date=2016-11-09&view=daily"
     },
     {
-      "symbol": "AGX",
-      "qdate": "2013-12-06",
-      "close_return": 0.1769,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for AGX. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/AGX?date=2013-12-06&view=daily"
-    },
-    {
       "symbol": "CSII",
       "qdate": "2013-10-22",
       "close_return": 0.1769,
@@ -2482,16 +2042,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep-2/3/4 PR for MPX. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/MPX?date=2016-01-29&view=daily"
-    },
-    {
-      "symbol": "INSM",
-      "qdate": "2013-04-24",
-      "close_return": 0.1764,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for INSM. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/INSM?date=2013-04-24&view=daily"
     },
     {
       "symbol": "ADXS",
@@ -2624,26 +2174,6 @@
       "locator": "https://exa.ai/library/markets/stock/EPZM?date=2015-11-02&view=daily"
     },
     {
-      "symbol": "FOLD",
-      "qdate": "2014-11-17",
-      "close_return": 0.174,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for FOLD. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/FOLD?date=2014-11-17&view=daily"
-    },
-    {
-      "symbol": "GOGO",
-      "qdate": "2013-12-02",
-      "close_return": 0.174,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for GOGO. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/GOGO?date=2013-12-02&view=daily"
-    },
-    {
       "symbol": "RIG",
       "qdate": "2016-03-04",
       "close_return": 0.1736,
@@ -2704,16 +2234,6 @@
       "locator": "https://exa.ai/library/markets/stock/GSM?date=2016-11-10&view=daily"
     },
     {
-      "symbol": "ACAD",
-      "qdate": "2016-03-28",
-      "close_return": 0.1723,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for ACAD. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ACAD?date=2016-03-28&view=daily"
-    },
-    {
       "symbol": "SNMX",
       "qdate": "2014-01-14",
       "close_return": 0.1722,
@@ -2732,16 +2252,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep-2/3/4 PR for GTN. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/GTN?date=2013-11-20&view=daily"
-    },
-    {
-      "symbol": "SNMX",
-      "qdate": "2014-03-11",
-      "close_return": 0.1722,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for SNMX. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/SNMX?date=2014-03-11&view=daily"
     },
     {
       "symbol": "ARLP",
@@ -3112,16 +2622,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep-2/3/4 PR for CAAS. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/CAAS?date=2016-11-28&view=daily"
-    },
-    {
-      "symbol": "INFI",
-      "qdate": "2013-02-19",
-      "close_return": 0.1676,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Morgan Stanley overweight initiation on IPI-145 hopes. Analyst, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2013/02/19/why-infinity-pharmaceuticals-shares-soared.aspx"
     },
     {
       "symbol": "CLVS",

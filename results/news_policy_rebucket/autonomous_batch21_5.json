@@ -1,0 +1,127 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch21_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 1,
+  "n_confirmed_drop": 1,
+  "n_deferred": 3,
+  "n_timing_deferred": 2,
+  "n_category_deferred": 1,
+  "cumulative_n_policy_reviewed": 226,
+  "review_counts": {
+    "keep": 221,
+    "drop_earnings": 65,
+    "drop_other_not_234": 294,
+    "pending_news_review": 57,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 13,
+    "drop_analyst": 6,
+    "drop_financing": 8,
+    "drop_peer_sympathy": 4,
+    "drop_operating_update": 3,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 220,
+    "drop_earnings": 65,
+    "drop_other_not_234": 299,
+    "pending_news_review": 54,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 13,
+    "drop_analyst": 6,
+    "drop_financing": 8,
+    "drop_peer_sympathy": 3,
+    "drop_operating_update": 3,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "NUS",
+      "qdate": "2014-03-24",
+      "decision": "keep",
+      "cause_class": "9_legal_unlock",
+      "jump_cause": "legal_unlock",
+      "news_filter": "keep",
+      "rationale": "March 24 issuer release reports penalties following China regulatory reviews; contemporaneous account explicitly attributes 18.2% gain to smaller-than-feared sanctions. Class 9 regulatory resolution applies. Do not assert unconditional exoneration or immediate full resumption of suspended recruitment/promotional activity.",
+      "sources": [
+        "https://ir.nuskin.com/news-releases/news-release-details/nu-skin-provides-update-china-regulatory-reviews",
+        "https://finance.yahoo.com/news/nuskin-climbs-minimal-china-fine-200005504.html"
+      ]
+    },
+    {
+      "symbol": "MBI",
+      "qdate": "2013-02-06",
+      "decision": "drop",
+      "cause_class": "peer_sympathy",
+      "jump_cause": "peer_sympathy",
+      "news_filter": "drop_peer_sympathy",
+      "rationale": "February 6 contemporaneous account attributes MBIA gain to favorable Assured Guaranty court precedent, not a decision resolving MBIA own case. Peer legal sympathy is outside issuer-specific class 9. MBIA own restructuring decision and Bank of America settlement occurred later and must not be backdated.",
+      "sources": [
+        "https://www.thestreet.com/story/11834079/1/mbia-shares-jump-as-case-against-bank-of-america-strengthens.html",
+        "https://s22.q4cdn.com/567650046/files/doc_news/MBIA-Announces-Comprehensive-Settlement-with-Bank-of-America.pdf"
+      ]
+    },
+    {
+      "symbol": "LL",
+      "qdate": "2016-06-17",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Primary CPSC agreement is a substantively eligible class 9 candidate, but syndicated regulator release timestamp is June 16 06:30 ET while June 17 AP account describes late-Thursday announcement. Preserve conflict; prior-session public release could make June 17 a later reaction. Do not certify timing or describe ongoing testing/remediation obligations as complete regulatory clearance.",
+      "sources": [
+        "https://www.cpsc.gov/Newsroom/News-Releases/2016/Lumber-Liquidators-Laminate-Flooring",
+        "https://www.prnewswire.com/news-releases/lumber-liquidators-agrees-to-not-resume-sales-of-inventory-of-chinese-made-laminate-flooring-continue-comprehensive-testing-program-as-part-of-a-recall-to-test-300286183.html",
+        "https://www.cbsnews.com/news/investigation-of-lumber-liquidators-comes-to-a-close/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "NPO",
+      "qdate": "2014-01-13",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Primary court order estimating Garlock liability was entered January 10 at 16:08:16; contemporaneous account also reports share reaction on January 10. January 13 follow-through is documented but earliest public announcement could predate close. Class 9 legal ruling is plausible, not a completed settlement; resolve timing before promoting January 13.",
+      "sources": [
+        "https://restructuring.weil.com/wp-content/uploads/2014/02/Garlock-Sealing-Technologies-No-10-31607-Bankr-WDNC-1-12-2014.pdf",
+        "https://www.insurancejournal.com/news/national/2014/01/13/316858.htm",
+        "https://bankrupt.com/TCR_Public/140115.mbx"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ASPS",
+      "qdate": "2015-04-07",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted issuer/date search recovered April 6 HLSS asset sale to New Residential and related servicing arrangements, not a direct Altisource Portfolio acquisition or legal resolution. ASPS indirect commercial exposure is plausible but no direct session attribution recovered. Do not conflate ASPS with separate Altisource Residential/AAMC entities.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1513161/000119312515120620/d903400d8k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1462418/000162828015007772/asps-9302015x10q.htm"
+      ],
+      "defer_reason": "category"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

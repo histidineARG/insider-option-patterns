@@ -1,7 +1,7 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "659494fee538b98c2d53b97000b2878cf4e9e292ecc505e148832070d2e4cad0",
-  "n_rows": 51,
+  "ledger_sha256": "d06f8712486bfdb9b5aeaefb432dc19419aac1d104c05e64f3c25df1499ad477",
+  "n_rows": 69,
   "reviews": [
     {
       "symbol": "VISN",
@@ -1143,6 +1143,59 @@
       }
     },
     {
+      "symbol": "CARA",
+      "qdate": "2016-03-21",
+      "close_return": 0.2128,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted March 21 issuer/clinical-hold search did not recover attributable same-session event. Contemporary accounts date hold imposition February 25 and removal April 20; neither establishes a March 21 regulatory unlock. Leave pending rather than backdate April hold removal. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.mysanantonio.com/business/article/Pharma-stock-in-free-fall-after-FDA-disclosure-6854765.php",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch25_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR (clinical hold lifted later in Apr). Unclassified, not keep 2/3/4.",
+          "locator": "https://www.fiercebiotech.com/biotech/cara-tanks-as-fda-clamps-a-hold-on-its-painkiller-trial"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.mysanantonio.com/business/article/Pharma-stock-in-free-fall-after-FDA-disclosure-6854765.php",
+          "https://www.biospace.com/fda-removes-clinical-hold-on-cara-therapeutics-s-phase-iii-postoperative-pain-study"
+        ]
+      }
+    },
+    {
+      "symbol": "PTCT",
+      "qdate": "2016-09-30",
+      "close_return": 0.2119,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Verified Sarepta approval and associated PTC sympathy report date to September 19, eleven days before this row. They cannot establish September 30 catalyst timing; leave pending rather than repeat the earlier peer attribution. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.benzinga.com/general/biotech/16/09/8473177/ptc-therapeutics-gets-big-boost-from-sareptas-dmd-drug-approval",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch27_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR (peer DMD news was earlier). Unclassified, not keep 2/3/4.",
+          "locator": "https://www.rttnews.com/2694240/vicl-slumps-fda-greenlights-srpt-s-dmd-drug-domino-effect-on-ptct.aspx"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.benzinga.com/general/biotech/16/09/8473177/ptc-therapeutics-gets-big-boost-from-sareptas-dmd-drug-approval"
+        ]
+      }
+    },
+    {
       "symbol": "ROLL",
       "qdate": "2015-03-27",
       "close_return": 0.2116,
@@ -1252,6 +1305,34 @@
       }
     },
     {
+      "symbol": "NPO",
+      "qdate": "2014-01-13",
+      "close_return": 0.2027,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary court order estimating Garlock liability was entered January 10 at 16:08:16; contemporaneous account also reports share reaction on January 10. January 13 follow-through is documented but earliest public announcement could predate close. Class 9 legal ruling is plausible, not a completed settlement; resolve timing before promoting January 13. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://restructuring.weil.com/wp-content/uploads/2014/02/Garlock-Sealing-Technologies-No-10-31607-Bankr-WDNC-1-12-2014.pdf",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch21_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for EnPro; unclassified industrial move.",
+          "locator": "https://exa.ai/library/markets/stock/NPO?date=2014-01-13&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://restructuring.weil.com/wp-content/uploads/2014/02/Garlock-Sealing-Technologies-No-10-31607-Bankr-WDNC-1-12-2014.pdf",
+          "https://www.insurancejournal.com/news/national/2014/01/13/316858.htm",
+          "https://bankrupt.com/TCR_Public/140115.mbx"
+        ]
+      }
+    },
+    {
       "symbol": "IRM",
       "qdate": "2014-06-26",
       "close_return": 0.2005,
@@ -1274,6 +1355,116 @@
         "decision": "defer",
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/1020569/000110465914048318/a14-16059_1ex99d1.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "MITL",
+      "qdate": "2016-07-08",
+      "close_return": 0.1977,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary filings establish termination of Mitel proposed Polycom acquisition and $60 million break fee. Expanded class 2 acquirer exception does not automatically resolve eligibility of an abandoned acquisition; class 11 strategic repricing is plausible but not a new sale process for Mitel. Preserve termination rather than describe Mitel as takeover target or simple financing. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1170534/000119312516644294/d201412d8k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch23_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Polycom terminated Mitel merger for Siris bid; Mitel rose on $60M break fee / not issuing equity as abandoned acquirer. Not target M&A keep-2.",
+          "locator": "https://www.cnbc.com/2016/07/08/polycom-mitel-shares-soar-after-acquisition-is-terminated.html"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1170534/000119312516644294/d201412d8k.htm",
+          "https://www.sec.gov/Archives/edgar/data/1170534/000119312516644294/d201412dex991.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "DMRC",
+      "qdate": "2016-01-12",
+      "close_return": 0.1958,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recovered January 12 08:00 ET GS1 US collaboration is a class 6 candidate distinct from New Seasons adoption announced January 11 08:01 ET. Correct legacy conflation of these events. Direct price attribution and materiality/novelty relative to prior GS1 participation remain unresolved; do not automatically promote earlier customer news. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.prnewswire.com/news-releases/gs1-us-and-digimarc-announce-broad-collaboration-to-advance-product-identification-300202742.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch22_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Digimarc retail watermark/New Seasons adoption chatter; commercial adoption, not keep-4 tech breakthrough / keep 2/3.",
+          "locator": "https://exa.ai/library/markets/stock/DMRC?date=2016-01-12&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.prnewswire.com/news-releases/gs1-us-and-digimarc-announce-broad-collaboration-to-advance-product-identification-300202742.html",
+          "https://www.digimarc.com/press-releases/2016/01/11/innovative-regional-grocer-new-seasons-adopts-digimarc-barcode-increase",
+          "https://www.sec.gov/Archives/edgar/data/1438231/000119312515054231/d875445dex991.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "LL",
+      "qdate": "2016-06-17",
+      "close_return": 0.1927,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary CPSC agreement is a substantively eligible class 9 candidate, but syndicated regulator release timestamp is June 16 06:30 ET while June 17 AP account describes late-Thursday announcement. Preserve conflict; prior-session public release could make June 17 a later reaction. Do not certify timing or describe ongoing testing/remediation obligations as complete regulatory clearance. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.cpsc.gov/Newsroom/News-Releases/2016/Lumber-Liquidators-Laminate-Flooring",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch21_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for Lumber Liquidators. Unclassified/litigation-sector, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/LL?date=2016-06-17&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.cpsc.gov/Newsroom/News-Releases/2016/Lumber-Liquidators-Laminate-Flooring",
+          "https://www.prnewswire.com/news-releases/lumber-liquidators-agrees-to-not-resume-sales-of-inventory-of-chinese-made-laminate-flooring-continue-comprehensive-testing-program-as-part-of-a-recall-to-test-300286183.html",
+          "https://www.cbsnews.com/news/investigation-of-lumber-liquidators-comes-to-a-close/"
+        ]
+      }
+    },
+    {
+      "symbol": "SHEN",
+      "qdate": "2015-08-11",
+      "close_return": 0.1905,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary issuer release dated August 10 announces nTelos acquisition and August 11 8 a.m. call; later issuer filings describe announcement August 11. Class 2 acquirer/Sprint partnership candidates are supported, but earliest August 10 publication time and direct August 11 price attribution remain unresolved. Preserve date discrepancy. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/354963/000117184315004519/newsrelease.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch23_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR for Shenandoah Telecommunications. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/SHEN?date=2015-08-11&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/354963/000117184315004519/newsrelease.htm",
+          "https://www.sec.gov/Archives/edgar/data/354963/000114036116062534/form10q.htm"
         ]
       }
     },
@@ -1306,6 +1497,167 @@
       }
     },
     {
+      "symbol": "SWIR",
+      "qdate": "2013-01-29",
+      "close_return": 0.1845,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary counterparty release establishes AirCard asset sale January 28 and January 29 morning call; trade account directly attributes SWIR gain to divestiture. This is business-asset sale, not takeover of all Sierra Wireless. Class 2/11 strategic-disposal eligibility needs resolution. Preliminary results in NETGEAR release belong to buyer, not automatically SWIR earnings. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1122904/000112290413000003/ntgr-ex991_20130128.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch23_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for SWIR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/SWIR?date=2013-01-29&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1122904/000112290413000003/ntgr-ex991_20130128.htm",
+          "https://www.rcrwireless.com/20130129/wireless/sierra-wireless-sells-aircard-business-netgear-m2m"
+        ]
+      }
+    },
+    {
+      "symbol": "CSTM",
+      "qdate": "2015-11-12",
+      "close_return": 0.1833,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted issuer/date search recovered Q3 results timestamp November 5 02:00 ET, one week before November 12 jump. That report cannot automatically explain a later session. No verified November 12 company catalyst recovered in this check; leave unresolved rather than misclassify stale quarterly results as same-session earnings. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.prnewswire.com/news-releases/constellium-reports-third-quarter-2015-financial-results-300172989.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch19_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for CSTM. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/CSTM?date=2015-11-12&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.prnewswire.com/news-releases/constellium-reports-third-quarter-2015-financial-results-300172989.html"
+        ]
+      }
+    },
+    {
+      "symbol": "COMM",
+      "qdate": "2015-01-27",
+      "close_return": 0.1832,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary TE acquisition agreement is signed January 27 but issuer announcement is dated January 28. Targeted date/deal search did not recover January 27 public rumor timing or direct jump attribution. Substantively class 2 acquirer candidate; contract execution date alone cannot explain preceding-session gain. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1517228/000119312515022551/d859489d8k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch18_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for COMM. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/COMM?date=2015-01-27&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1517228/000119312515022551/d859489d8k.htm",
+          "https://www.sec.gov/Archives/edgar/data/1517228/000119312515022551/d859489dex991.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "MSTR",
+      "qdate": "2014-04-24",
+      "close_return": 0.1824,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date/issuer search recovered Q1 results issued April 28, after April 24 jump. Do not backdate earnings or April 25 board decisions to explain earlier gain. No supported same-session keep catalyst recovered; retain pending with explicit timing conflict. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1050446/000119312514161274/d717141dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch24_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for MSTR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MSTR?date=2014-04-24&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1050446/000119312514161274/d717141dex991.htm",
+          "https://www.sec.gov/Archives/edgar/data/1050446/000119312514161274/d717141d8k.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "ABCO",
+      "qdate": "2014-12-11",
+      "close_return": 0.1803,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "December 10 primary Royall acquisition release schedules 6 p.m. ET call; December 11 analyst upgrade explicitly follows prior-night acquisition. Class 2 acquirer candidate is documented. Direct session price attribution and distinction between transaction and analyst amplification remain unverified; leave pending rather than generic no-news. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1157377/000119312514438954/d836556dex99.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch18_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ABCO. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ABCO?date=2014-12-11&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1157377/000119312514438954/d836556dex99.htm",
+          "https://cdn2.benzinga.com/analyst-ratings/analyst-color/14/12/5073419/update-stifel-upgrades-the-advisory-board-company-as-roy"
+        ]
+      }
+    },
+    {
+      "symbol": "INVE",
+      "qdate": "2014-09-08",
+      "close_return": 0.1792,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted issuer/date and proposed partner search did not recover supported September 8 contract or licensing announcement. Nearby filing covers September 8 compensation and September 9 termination of capital-purchase agreement; September 11 offering is later. None establishes September 8 jump catalyst. Keep pending rather than infer a Verizon agreement or financing cause. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1036044/000119312514337993/d787058d8k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch22_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for INVE. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/INVE?date=2014-09-08&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1036044/000119312514337993/d787058d8k.htm",
+          "https://www.sec.gov/Archives/edgar/data/1036044/000119312514338700/d787940d8k.htm"
+        ]
+      }
+    },
+    {
       "symbol": "IMH",
       "qdate": "2015-05-01",
       "close_return": 0.1777,
@@ -1333,6 +1685,87 @@
       }
     },
     {
+      "symbol": "ASPS",
+      "qdate": "2015-04-07",
+      "close_return": 0.1774,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted issuer/date search recovered April 6 HLSS asset sale to New Residential and related servicing arrangements, not a direct Altisource Portfolio acquisition or legal resolution. ASPS indirect commercial exposure is plausible but no direct session attribution recovered. Do not conflate ASPS with separate Altisource Residential/AAMC entities. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1513161/000119312515120620/d903400d8k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch21_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for ASPS. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ASPS?date=2015-04-07&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1513161/000119312515120620/d903400d8k.htm",
+          "https://www.sec.gov/Archives/edgar/data/1462418/000162828015007772/asps-9302015x10q.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "INSM",
+      "qdate": "2013-04-24",
+      "close_return": 0.1764,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted issuer/date/trial/analyst search recovered same-day gainers account confirming trading activity but not catalyst. Nearby primary April 1 commercial-officer appointment and later financing do not establish April 24 trial success. No supported same-session attribution recovered; retain pending instead of unsupported no-news exclusion. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://247wallst.com/investing/2013/04/24/market-close-big-winners-losers-for-april-24-2013/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch25_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for INSM. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/INSM?date=2013-04-24&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://247wallst.com/investing/2013/04/24/market-close-big-winners-losers-for-april-24-2013/",
+          "https://www.sec.gov/Archives/edgar/data/1104506/000114036113014813/ex99_1.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "FOLD",
+      "qdate": "2014-11-17",
+      "close_return": 0.174,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Recovered primary November 15 weekend release announces additional positive Phase 3 migalastat secondary-endpoint data, an eligible class 3 candidate before Monday jump. November 17 offering is a separate concurrent candidate. Direct price attribution and original offering time relative to close remain unresolved; do not replace successful-data candidate with automatic financing drop. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1178879/000110465914081109/a14-24598_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch25_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for FOLD. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/FOLD?date=2014-11-17&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1178879/000110465914081109/a14-24598_1ex99d1.htm",
+          "https://www.sec.gov/Archives/edgar/data/1178879/000110465914082806/a14-25015_18k.htm"
+        ]
+      }
+    },
+    {
       "symbol": "TLYS",
       "qdate": "2015-01-13",
       "close_return": 0.174,
@@ -1355,6 +1788,60 @@
         "decision": "defer",
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/1524025/000119312515008121/d851005dex991.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "GOGO",
+      "qdate": "2013-12-02",
+      "close_return": 0.174,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date/company search recovered earlier Q3 results and October JAL contract; primary annual report confirms contract predates December 2. GTO plans and December AeroMexico memorandum do not establish exact same-session novelty or cause. Do not backdate later agreement or classify December 2 as reaction to an earlier results report. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1537054/000119312514100126/d659569d10k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch22_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for GOGO. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/GOGO?date=2013-12-02&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1537054/000119312514100126/d659569d10k.htm",
+          "https://www.sec.gov/Archives/edgar/data/1537054/000119312513437592/d625958dex991.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "SNMX",
+      "qdate": "2014-03-11",
+      "close_return": 0.1722,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "March 11 issuer release announces Sweetmyx GRAS determination; March 12 issuer clarification identifies independent FEMA expert panel, not FDA approval. Expanded regulatory-equivalent or commercialization category is plausible, but policy eligibility and direct attribution require resolution. Do not record FDA approval or completed product launch. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.prnewswire.com/news-releases/senomyx-announces-receipt-of-generally-recognized-as-safe-gras-determination-for-new-sweetmyx-flavor-ingredient-249424761.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch22_5",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for SNMX. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/SNMX?date=2014-03-11&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.prnewswire.com/news-releases/senomyx-announces-receipt-of-generally-recognized-as-safe-gras-determination-for-new-sweetmyx-flavor-ingredient-249424761.html",
+          "https://www.sec.gov/Archives/edgar/data/1123979/000110465914018981/a14-8049_1ex99d1.htm"
         ]
       }
     }
