@@ -1,7 +1,7 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "bde58446ed51ec1be02679f9f596a1f47e3ab1ac6da2399bbf53d050a862a5a9",
-  "n_rows": 322,
+  "ledger_sha256": "659494fee538b98c2d53b97000b2878cf4e9e292ecc505e148832070d2e4cad0",
+  "n_rows": 314,
   "reviews": [
     {
       "symbol": "GALT",
@@ -684,16 +684,6 @@
       "locator": "https://exa.ai/library/markets/stock/CRK?date=2016-08-29&view=daily"
     },
     {
-      "symbol": "DV",
-      "qdate": "2016-05-06",
-      "close_return": 0.2076,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/DV?date=2016-05-06&view=daily"
-    },
-    {
       "symbol": "JKS",
       "qdate": "2013-05-20",
       "close_return": 0.2072,
@@ -732,16 +722,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Peer bounce on Sarepta Exondys 51 FDA approval; no PTCT keep PR. Peer/sector, not keep 2/3/4.",
       "locator": "https://www.rttnews.com/2694240/vicl-slumps-fda-greenlights-srpt-s-dmd-drug-domino-effect-on-ptct.aspx"
-    },
-    {
-      "symbol": "ABCO",
-      "qdate": "2015-11-06",
-      "close_return": 0.2063,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ABCO?date=2015-11-06&view=daily"
     },
     {
       "symbol": "SRPT",
@@ -2154,16 +2134,6 @@
       "locator": "https://exa.ai/library/markets/stock/VUZI?date=2015-04-10&view=daily"
     },
     {
-      "symbol": "AAOI",
-      "qdate": "2015-07-13",
-      "close_return": 0.1804,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for AAOI. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/AAOI?date=2015-07-13&view=daily"
-    },
-    {
       "symbol": "ABCO",
       "qdate": "2014-12-11",
       "close_return": 0.1803,
@@ -2342,16 +2312,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep-2/3/4 PR for ICPT. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/ICPT?date=2015-01-30&view=daily"
-    },
-    {
-      "symbol": "IMH",
-      "qdate": "2015-05-01",
-      "close_return": 0.1777,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for IMH. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/IMH?date=2015-05-01&view=daily"
     },
     {
       "symbol": "VISN",
@@ -2592,26 +2552,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep-2/3/4 PR for MOMO. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/MOMO?date=2016-07-07&view=daily"
-    },
-    {
-      "symbol": "CSIQ",
-      "qdate": "2016-08-18",
-      "close_return": 0.1753,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for CSIQ. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/CSIQ?date=2016-08-18&view=daily"
-    },
-    {
-      "symbol": "MTOR",
-      "qdate": "2014-05-01",
-      "close_return": 0.1752,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for MTOR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/MTOR?date=2014-05-01&view=daily"
     },
     {
       "symbol": "ERF",
@@ -3144,16 +3084,6 @@
       "locator": "https://exa.ai/library/markets/stock/AMRC?date=2016-03-02&view=daily"
     },
     {
-      "symbol": "DV",
-      "qdate": "2016-08-19",
-      "close_return": 0.1682,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for DV. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/DV?date=2016-08-19&view=daily"
-    },
-    {
       "symbol": "ICPT",
       "qdate": "2014-04-22",
       "close_return": 0.1679,
@@ -3192,16 +3122,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Morgan Stanley overweight initiation on IPI-145 hopes. Analyst, not keep 2/3/4.",
       "locator": "https://www.fool.com/investing/general/2013/02/19/why-infinity-pharmaceuticals-shares-soared.aspx"
-    },
-    {
-      "symbol": "OIS",
-      "qdate": "2013-04-30",
-      "close_return": 0.1675,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for OIS. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/OIS?date=2013-04-30&view=daily"
     },
     {
       "symbol": "CLVS",

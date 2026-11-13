@@ -1,7 +1,7 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "bde58446ed51ec1be02679f9f596a1f47e3ab1ac6da2399bbf53d050a862a5a9",
-  "n_rows": 50,
+  "ledger_sha256": "659494fee538b98c2d53b97000b2878cf4e9e292ecc505e148832070d2e4cad0",
+  "n_rows": 51,
   "reviews": [
     {
       "symbol": "VISN",
@@ -1302,6 +1302,33 @@
           "https://www.sec.gov/Archives/edgar/data/1367644/000136764416000084/exhibit99.htm",
           "https://www.sec.gov/Archives/edgar/data/1367644/000136764416000084/form8kearningsq3q2016.htm",
           "https://investors.emergentbiosolutions.com/news/news-details/2016/Emergent-BioSolutions-Awarded-BARDA-Contract-for-Advanced-Development-and-Delivery-of-NuThrax-a-Next-Generation-Anthrax-Vaccine-Valued-at-Up-to-1-6-Billion-09-30-2016/default.aspx"
+        ]
+      }
+    },
+    {
+      "symbol": "IMH",
+      "qdate": "2015-05-01",
+      "close_return": 0.1777,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date/issuer search recovered Q1 results released April 23, more than a week before May 1 jump, and later references to May convertible financing. Neither establishes May 1 earnings reaction or same-session financing cause. Preserve earlier earnings candidate and leave attribution pending rather than backdate later financing or assume delayed earnings causality. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1000298/000110465915030003/a15-9803_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch17_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for IMH. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/IMH?date=2015-05-01&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1000298/000110465915030003/a15-9803_1ex99d1.htm",
+          "https://ir.impaccompanies.com/news-releases/news-release-details/impac-mortgage-holdings-inc-announces-results-second-quarter-1"
         ]
       }
     },

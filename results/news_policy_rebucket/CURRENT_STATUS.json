@@ -1,13 +1,13 @@
 {
   "reviewed_on": "2026-11-12",
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "bde58446ed51ec1be02679f9f596a1f47e3ab1ac6da2399bbf53d050a862a5a9",
+  "ledger_sha256": "659494fee538b98c2d53b97000b2878cf4e9e292ecc505e148832070d2e4cad0",
   "n_unique_rows": 681,
   "review_counts": {
-    "keep": 217,
-    "drop_earnings": 49,
-    "drop_other_not_234": 322,
-    "pending_news_review": 50,
+    "keep": 218,
+    "drop_earnings": 55,
+    "drop_other_not_234": 314,
+    "pending_news_review": 51,
     "drop_mechanical": 1,
     "drop_stale_news": 1,
     "drop_macro_sector": 13,
@@ -22,23 +22,24 @@
     "drop_short_covering_media": 1,
     "drop_etf": 2
   },
-  "n_policy_reviewed": 198,
-  "n_autonomous_reviewed": 172,
+  "n_policy_reviewed": 206,
+  "n_autonomous_reviewed": 180,
   "this_run": {
     "batches": [
       "autonomous_batch14_12",
       "autonomous_batch15_12",
-      "autonomous_batch16_7"
+      "autonomous_batch16_7",
+      "autonomous_batch17_8"
     ],
-    "n_reviewed": 31,
+    "n_reviewed": 39,
     "decisions": {
-      "defer": 10,
-      "drop": 16,
-      "keep": 5
+      "defer": 11,
+      "drop": 22,
+      "keep": 6
     }
   },
-  "n_legacy_awaiting_reassessment": 322,
-  "n_pending_in_manual_ledger": 50,
+  "n_legacy_awaiting_reassessment": 314,
+  "n_pending_in_manual_ledger": 51,
   "database_snapshots_refreshed": false,
   "population_news_queue_refreshed": false,
   "training_readiness_certified": false

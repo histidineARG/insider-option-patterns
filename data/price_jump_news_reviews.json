@@ -6513,11 +6513,28 @@
       "symbol": "DV",
       "qdate": "2016-05-06",
       "close_return": 0.2076,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/DV?date=2016-05-06&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "May 5 primary release reports DeVry fiscal Q3 results with results call; contemporaneous-period SEC earnings filing is after close. This replaces generic no-news label with earnings event. Leadership changes and restructuring updates do not by themselves override earnings exclusion. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/730464/000115752316005513/a51336558ex99_1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch17_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/DV?date=2016-05-06&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/730464/000115752316005513/a51336558ex99_1.htm",
+          "https://www.calcbench.com/home/recentfilings/2010-04-22?ticker=CVSA"
+        ]
+      }
     },
     {
       "symbol": "JKS",
@@ -6618,11 +6635,28 @@
       "symbol": "ABCO",
       "qdate": "2015-11-06",
       "close_return": 0.2063,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ABCO?date=2015-11-06&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "November 5 primary release reports September-quarter results; syndicated release timestamp 4:18 p.m. EST supports next-session reaction. Increased buyback authorization and financial outlook in quarterly report do not supersede class 1 earnings exclusion. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1157377/000119312515368506/d97873dex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch17_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/ABCO?date=2015-11-06&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1157377/000119312515368506/d97873dex991.htm",
+          "https://www.streetinsider.com/Press%2BReleases/The%2BAdvisory%2BBoard%2BCompany%2BReports%2BResults%2BFor%2BQuarter%2BEnded%2BSeptember%2B30%2C%2B2015/11043628.html"
+        ]
+      }
     },
     {
       "symbol": "SRPT",
@@ -8459,11 +8493,28 @@
       "symbol": "AAOI",
       "qdate": "2015-07-13",
       "close_return": 0.1804,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for AAOI. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/AAOI?date=2015-07-13&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "Issuer preliminary Q2 financial-results release timestamp July 13 08:30 ET reports already-ended June-quarter revenue, net income and EPS. This is earnings preannouncement, not standalone forward outlook step-up. Later August 5 full-results release does not move original preliminary disclosure to August. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.globenewswire.com/de/news-release/2015/07/13/751524/9986/en/applied-optoelectronics-reports-preliminary-second-quarter-2015-financial-results-revenue-exceeds-outlook.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch17_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for AAOI. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/AAOI?date=2015-07-13&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.globenewswire.com/de/news-release/2015/07/13/751524/9986/en/applied-optoelectronics-reports-preliminary-second-quarter-2015-financial-results-revenue-exceeds-outlook.html",
+          "https://www.sec.gov/Archives/edgar/data/1158114/000101968715002741/applied_8k-ex9901.htm"
+        ]
+      }
     },
     {
       "symbol": "ABCO",
@@ -8759,10 +8810,27 @@
       "qdate": "2015-05-01",
       "close_return": 0.1777,
       "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for IMH. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/IMH?date=2015-05-01&view=daily"
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Targeted date/issuer search recovered Q1 results released April 23, more than a week before May 1 jump, and later references to May convertible financing. Neither establishes May 1 earnings reaction or same-session financing cause. Preserve earlier earnings candidate and leave attribution pending rather than backdate later financing or assume delayed earnings causality. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1000298/000110465915030003/a15-9803_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch17_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for IMH. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/IMH?date=2015-05-01&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1000298/000110465915030003/a15-9803_1ex99d1.htm",
+          "https://ir.impaccompanies.com/news-releases/news-release-details/impac-mortgage-holdings-inc-announces-results-second-quarter-1"
+        ]
+      }
     },
     {
       "symbol": "VISN",
@@ -9036,21 +9104,55 @@
       "symbol": "CSIQ",
       "qdate": "2016-08-18",
       "close_return": 0.1753,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for CSIQ. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/CSIQ?date=2016-08-18&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "August 18 primary Q2 results and same-day pre-market market account establish earnings reaction. Shipment growth and forward shipment outlook are inside financial results, not a new standalone customer award or class 8 release. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1375877/000110465916140391/a16-16985_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch17_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for CSIQ. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/CSIQ?date=2016-08-18&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1375877/000110465916140391/a16-16985_1ex99d1.htm",
+          "https://www.thestreet.com/markets/canadian-solar-csiq-stock-pops-on-q2-beat-13678922"
+        ]
+      }
     },
     {
       "symbol": "MTOR",
       "qdate": "2014-05-01",
       "close_return": 0.1752,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for MTOR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/MTOR?date=2014-05-01&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "May 1 primary release reports fiscal Q2 results and raises full-year revenue/EPS guidance, with same-day earnings call. Guidance bundled with financial results remains class 1; improved truck-market outlook is not standalone class 8. Exact initial release timestamp is not independently certified. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1113256/000111325614000013/exhibit99a.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch17_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for MTOR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/MTOR?date=2014-05-01&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1113256/000111325614000013/exhibit99a.htm",
+          "https://www.truckinginfo.com/news/meritor-turns-around-to-a-profit-raises-expectations"
+        ]
+      }
     },
     {
       "symbol": "ERF",
@@ -9799,11 +9901,28 @@
       "symbol": "DV",
       "qdate": "2016-08-19",
       "close_return": 0.1682,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for DV. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/DV?date=2016-08-19&view=daily"
+      "jump_cause": "earnings",
+      "cause_class": "1_earnings",
+      "news_filter": "drop_earnings",
+      "detail": "August 18 primary release reports DeVry fiscal Q4/full-year earnings and enrollment results, followed by next-session jump. Treat as class 1 quarterly-results event; operating diversification, cost savings and outlook within results do not establish independent keep class. Exact earliest release time is not independently certified. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/730464/000115752316006562/a51404352-ex991.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch17_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for DV. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/DV?date=2016-08-19&view=daily"
+        },
+        "decision": "drop",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/730464/000115752316006562/a51404352-ex991.htm",
+          "https://www.sec.gov/Archives/edgar/data/730464/000115752316006562/a51404352.htm"
+        ]
+      }
     },
     {
       "symbol": "PFSI",
@@ -9899,11 +10018,29 @@
       "symbol": "OIS",
       "qdate": "2013-04-30",
       "close_return": 0.1675,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep-2/3/4 PR for OIS. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/OIS?date=2013-04-30&view=daily"
+      "jump_cause": "activist_alt",
+      "cause_class": "11_activist_alt",
+      "news_filter": "keep",
+      "detail": "April 30 intraday report attributes surge to JANA 9.1% position disclosure. Contemporaneous filing account describes active corporate-separation/REIT discussions, supporting class 11 rather than passive ownership. Later primary amendment identifies initial 13D April 11 and amendment April 30; preserve that discrepancy with secondary description of a brand-new position. No completed spin-off is asserted. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.rttnews.com/2105586/oil-states-international-ois-is-surging-on-jana-partners-stake.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch17_8",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep-2/3/4 PR for OIS. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/OIS?date=2013-04-30&view=daily"
+        },
+        "decision": "keep",
+        "sources": [
+          "https://www.rttnews.com/2105586/oil-states-international-ois-is-surging-on-jana-partners-stake.aspx",
+          "https://www.marketfolly.com/2013_04_28_archive.html?m=0",
+          "https://www.sec.gov/Archives/edgar/data/1121484/000090266414002737/p14-1366sc13da.htm"
+        ]
+      }
     },
     {
       "symbol": "CLVS",
@@ -9979,19 +10116,19 @@
   ],
   "policy_rebucket_checkpoint": {
     "reviewed_on": "2026-11-12",
-    "batch": "autonomous_batch16_7",
-    "n_reviewed": 7,
-    "n_promoted_to_keep": 4,
-    "n_confirmed_drop": 0,
-    "n_deferred": 3,
+    "batch": "autonomous_batch17_8",
+    "n_reviewed": 8,
+    "n_promoted_to_keep": 1,
+    "n_confirmed_drop": 6,
+    "n_deferred": 1,
     "n_timing_deferred": 1,
-    "n_category_deferred": 2,
-    "cumulative_n_policy_reviewed": 198,
+    "n_category_deferred": 0,
+    "cumulative_n_policy_reviewed": 206,
     "review_counts": {
-      "keep": 217,
-      "drop_earnings": 49,
-      "drop_other_not_234": 322,
-      "pending_news_review": 50,
+      "keep": 218,
+      "drop_earnings": 55,
+      "drop_other_not_234": 314,
+      "pending_news_review": 51,
       "drop_mechanical": 1,
       "drop_stale_news": 1,
       "drop_macro_sector": 13,
@@ -10437,6 +10574,37 @@
         "drop_earnings": 49,
         "drop_other_not_234": 329,
         "pending_news_review": 47,
+        "drop_mechanical": 1,
+        "drop_stale_news": 1,
+        "drop_macro_sector": 13,
+        "drop_analyst": 6,
+        "drop_financing": 8,
+        "drop_peer_sympathy": 3,
+        "drop_operating_update": 3,
+        "drop_regulatory_process": 2,
+        "drop_peer_earnings": 1,
+        "drop_passive_ownership": 1,
+        "drop_trial_anticipation": 1,
+        "drop_short_covering_media": 1,
+        "drop_etf": 2
+      },
+      "derived_snapshots_refreshed": false
+    },
+    {
+      "reviewed_on": "2026-11-12",
+      "batch": "autonomous_batch16_7",
+      "n_reviewed": 7,
+      "n_promoted_to_keep": 4,
+      "n_confirmed_drop": 0,
+      "n_deferred": 3,
+      "n_timing_deferred": 1,
+      "n_category_deferred": 2,
+      "cumulative_n_policy_reviewed": 198,
+      "review_counts": {
+        "keep": 217,
+        "drop_earnings": 49,
+        "drop_other_not_234": 322,
+        "pending_news_review": 50,
         "drop_mechanical": 1,
         "drop_stale_news": 1,
         "drop_macro_sector": 13,
