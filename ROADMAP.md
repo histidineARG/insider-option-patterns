@@ -150,3 +150,15 @@ Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
 - Promoted OMER/EXAS government reimbursement/coverage authorizations as class 7 equivalent decisions (not FDA approvals); SCTY standalone 2014 deployment outlook as class 8; EXPR Sycamore interest/special committee as class 11. Preserve these category judgments and concurrent-catalyst limitations in the row rationale.
 - Timing/source corrections include ORMP April 1 versus April 13, EXPR January 14 before-open versus January 15, PFSW January 13 internal versus January 19 hosting versus January 21 jump, and HRTX September 22 data versus September 23 jump. BTU split timing predates its October 6 filing; do not label filing day a mechanical jump without price-adjustment evidence.
 - Validation: 74 unit tests pass; all 115 autonomous production overlays and earnings precedence checked; unique keys, preserved prior fields/source locators and diff whitespace pass. Source databases, saved population queue and training/evaluation gates remain unchanged.
+
+## 2026-11-12 autonomous_batch11_10
+
+- Reviewed 10 legacy rows: {'keep': 3, 'drop': 3, 'defer': 4}.
+- Current ledger: {'keep': 209, 'drop_earnings': 37, 'drop_other_not_234': 369, 'pending_news_review': 34, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 8, 'drop_analyst': 6, 'drop_financing': 6, 'drop_peer_sympathy': 3, 'drop_operating_update': 2, 'drop_regulatory_process': 2, 'drop_peer_earnings': 1, 'drop_short_covering_media': 1, 'drop_etf': 1}. Cumulative expanded-policy reviews: 151.
+- Audit: `results/news_policy_rebucket/autonomous_batch11_10.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch12_6
+
+- Reviewed 6 legacy rows: {'keep': 2, 'drop': 2, 'defer': 2}.
+- Current ledger: {'keep': 211, 'drop_earnings': 37, 'drop_other_not_234': 363, 'pending_news_review': 36, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 8, 'drop_analyst': 6, 'drop_financing': 7, 'drop_peer_sympathy': 3, 'drop_operating_update': 3, 'drop_regulatory_process': 2, 'drop_peer_earnings': 1, 'drop_short_covering_media': 1, 'drop_etf': 1}. Cumulative expanded-policy reviews: 157.
+- Audit: `results/news_policy_rebucket/autonomous_batch12_6.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.

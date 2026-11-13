@@ -1,7 +1,7 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "79a2f533138425ed5fcb722c035233798950f26a4ddca9805a1f5608e501d87d",
-  "n_rows": 379,
+  "ledger_sha256": "fb6c3c31b25779c6d27413d9de425f5526b6f129bf4549aba775db6cdfeff220",
+  "n_rows": 363,
   "reviews": [
     {
       "symbol": "GALT",
@@ -72,16 +72,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Rally after Google earnings-call mention that Etsy saw deep-linking traffic boost; amplified by short covering. Analyst/partner commentary, not keep 2/3/4.",
       "locator": "https://www.reuters.com/article/idUSKCN0PR1WA20150717/"
-    },
-    {
-      "symbol": "GDP",
-      "qdate": "2014-04-14",
-      "close_return": 0.3022,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Goodrich announced strong Blades 33H-1 Tuscaloosa Marine Shale well results (~1,270 BOE/d peak); operational well/commodity news with short cover, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2014/04/14/why-goodrich-petroleum-webmd-and-edwards-lifescien.aspx"
     },
     {
       "symbol": "PLUG",
@@ -314,16 +304,6 @@
       "locator": "https://www-biocentury-com.proxy.lib.umich.edu/article/272678/agios-rises-in-advance-of-ag-120-presentation"
     },
     {
-      "symbol": "CONN",
-      "qdate": "2015-02-05",
-      "close_return": 0.2444,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Reported 4Q net sales $350.5M / January comps update. Sales/earnings, not keep 2/3/4.",
-      "locator": "https://hfbusiness.com/hfbnow/ArticlePage/2138/cid/15"
-    },
-    {
       "symbol": "MSB",
       "qdate": "2015-08-10",
       "close_return": 0.2436,
@@ -342,16 +322,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "BlackRock 13G disclosed ~5.4% stake. Ownership filing, not keep 2/3/4.",
       "locator": "https://www.sec.gov/Archives/edgar/data/922475/000108636415001553/0001086364-15-001553.txt"
-    },
-    {
-      "symbol": "KNDI",
-      "qdate": "2013-06-17",
-      "close_return": 0.2424,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Hangzhou EV-sharing program groundbreaking; 5k–10k Kandi vehicles year-one. Sales/ops, not keep 2/3/4.",
-      "locator": "https://www.yahoo.com/news/kandi-shares-jump-news-ev-143818872.html"
     },
     {
       "symbol": "SCTY",
@@ -404,36 +374,6 @@
       "locator": "https://www.fool.com/investing/general/2014/07/01/why-voxeljet-gopro-and-exone-are-todays-3-best-sto.aspx"
     },
     {
-      "symbol": "WGO",
-      "qdate": "2016-10-03",
-      "close_return": 0.2367,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Winnebago as buyer announced $500M Grand Design RV acquisition plus Q4 prelim beat. Acquirer deal, not target M&A keep.",
-      "locator": "https://www.marketwatch.com/story/winnebago-buying-grand-design-for-500-million-2016-10-03-184855941"
-    },
-    {
-      "symbol": "RBA",
-      "qdate": "2016-08-30",
-      "close_return": 0.2361,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Ritchie Bros as buyer agreed to acquire IronPlanet for $758.5M plus Caterpillar alliance. Acquirer deal, not target M&A keep.",
-      "locator": "https://www.foxbusiness.com/markets/shares-of-ritchie-bros-jump-as-investors-cheer-acquisition"
-    },
-    {
-      "symbol": "MMYT",
-      "qdate": "2016-01-07",
-      "close_return": 0.2357,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Ctrip $180M convertible-bond investment / stake path. Financing/strategic investment, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2016/01/07/why-makemytrip-mistras-group-and-silver-wheaton-ju.aspx"
-    },
-    {
       "symbol": "X",
       "qdate": "2016-03-02",
       "close_return": 0.235,
@@ -442,16 +382,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Commerce anti-dumping tariffs on cold-rolled steel imports (up to 266% China). Policy/trade, not keep 2/3/4.",
       "locator": "https://www.foxbusiness.com/markets/steel-stocks-soar-after-the-u-s-slaps-anti-dumping-tariffs-on-china-x-aks-mt-tmst"
-    },
-    {
-      "symbol": "SNOW",
-      "qdate": "2016-01-12",
-      "close_return": 0.2347,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Intrawest announced up to $50M modified Dutch-auction buyback. Financing/capital return, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2016/01/12/why-intrawest-resorts-holdings-inc-shares-popped-3.aspx"
     },
     {
       "symbol": "SM",
@@ -494,16 +424,6 @@
       "locator": "https://exa.ai/library/markets/stock/CLR?date=2016-11-30&view=daily"
     },
     {
-      "symbol": "BCPC",
-      "qdate": "2014-04-01",
-      "close_return": 0.2276,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Balchem as buyer agreed to acquire SensoryEffects for $567M cash. Acquirer deal, not target M&A keep.",
-      "locator": "https://www.fool.com/investing/general/2014/04/01/why-providence-service-balchem-and-castlight-healt.aspx"
-    },
-    {
       "symbol": "WYNN",
       "qdate": "2015-10-02",
       "close_return": 0.2274,
@@ -532,16 +452,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR; bounce after prior Phase 1 NASH selloff. Unclassified, not keep 2/3/4.",
       "locator": "https://investor.galectintherapeutics.com/news-releases/news-release-details/galectin-therapeutics-issues-statement-gr-md-02-development"
-    },
-    {
-      "symbol": "TEX",
-      "qdate": "2015-08-11",
-      "close_return": 0.2268,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "All-stock merger of equals with Konecranes; TEX shareholders ~60%. Combination/acquirer-side, not target M&A keep.",
-      "locator": "https://investors.terex.com/news/news-details/2015/Terex-and-Konecranes-to-Combine-in-an-All-Stock-Merger/default.aspx"
     },
     {
       "symbol": "NE",
@@ -654,16 +564,6 @@
       "locator": "https://www.investors.com/stock-lists/new-highs/oil-stocks-rally-to-new-highs-on-opec-deal-dows-united-tech-reverses/"
     },
     {
-      "symbol": "MNTX",
-      "qdate": "2016-12-21",
-      "close_return": 0.2206,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://investorplace.com/2016/12/hottest-manufacturing-stocks-now-mrus-cala-invn-mntx/"
-    },
-    {
       "symbol": "KNDI",
       "qdate": "2013-09-19",
       "close_return": 0.2204,
@@ -682,26 +582,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR. Unclassified/commodity, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/PPC?date=2013-06-07&view=daily"
-    },
-    {
-      "symbol": "ICAD",
-      "qdate": "2014-07-16",
-      "close_return": 0.2202,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ICAD?date=2014-07-16&view=daily"
-    },
-    {
-      "symbol": "ISSC",
-      "qdate": "2014-02-11",
-      "close_return": 0.2193,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/ISSC?date=2014-02-11&view=daily"
     },
     {
       "symbol": "ORMP",
@@ -734,16 +614,6 @@
       "locator": "https://endpoints.news/what-pdufa-date-clovis-shares-surge-as-parps-get-trendy-on-wall-street/"
     },
     {
-      "symbol": "CARA",
-      "qdate": "2016-07-22",
-      "close_return": 0.218,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/CARA?date=2016-07-22&view=daily"
-    },
-    {
       "symbol": "SGMO",
       "qdate": "2015-09-10",
       "close_return": 0.2171,
@@ -774,16 +644,6 @@
       "locator": "https://exa.ai/library/markets/stock/GTS?date=2016-02-18&view=daily"
     },
     {
-      "symbol": "BJRI",
-      "qdate": "2014-03-06",
-      "close_return": 0.2155,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/BJRI?date=2014-03-06&view=daily"
-    },
-    {
       "symbol": "RMTI",
       "qdate": "2014-11-04",
       "close_return": 0.2149,
@@ -792,26 +652,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR ahead of Nov Triferic AdCom/earnings. Unclassified, not keep 2/3/4.",
       "locator": "https://www.sec.gov/Archives/edgar/data/1041024/000117184314005418/exh_991.htm"
-    },
-    {
-      "symbol": "CZR",
-      "qdate": "2016-09-21",
-      "close_return": 0.2144,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified/restructuring, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/CZR?date=2016-09-21&view=daily"
-    },
-    {
-      "symbol": "MGI",
-      "qdate": "2015-05-06",
-      "close_return": 0.2141,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
-      "locator": "https://exa.ai/library/markets/stock/MGI?date=2015-05-06&view=daily"
     },
     {
       "symbol": "RMTI",

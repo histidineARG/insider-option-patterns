@@ -1,7 +1,7 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "79a2f533138425ed5fcb722c035233798950f26a4ddca9805a1f5608e501d87d",
-  "n_rows": 30,
+  "ledger_sha256": "fb6c3c31b25779c6d27413d9de425f5526b6f129bf4549aba775db6cdfeff220",
+  "n_rows": 36,
   "reviews": [
     {
       "symbol": "ASPS",
@@ -527,6 +527,32 @@
       }
     },
     {
+      "symbol": "KNDI",
+      "qdate": "2013-06-17",
+      "close_return": 0.2424,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "June 17 08:05 ET issuer release announces deployment plans, describes June 8 groundbreaking and anticipates early-July first facility opening. Correct legacy implication that launch occurred June 17. A forward deployment plan could be class 8, but not yet a completed product launch or documented customer order; novelty and eligible primary category remain unresolved. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.globenewswire.com/news-release/2013/06/17/554450/23835/en/Kandi-Technologies-Plans-to-Deploy-5000-10000-Pure-EVs-in-Hangzhou-for-the-Initial-Launch-of-Public-EV-Sharing-System.html",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch11_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Hangzhou EV-sharing program groundbreaking; 5k–10k Kandi vehicles year-one. Sales/ops, not keep 2/3/4.",
+          "locator": "https://www.yahoo.com/news/kandi-shares-jump-news-ev-143818872.html"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.globenewswire.com/news-release/2013/06/17/554450/23835/en/Kandi-Technologies-Plans-to-Deploy-5000-10000-Pure-EVs-in-Hangzhou-for-the-Initial-Launch-of-Public-EV-Sharing-System.html"
+        ]
+      }
+    },
+    {
       "symbol": "NGL",
       "qdate": "2016-04-22",
       "close_return": 0.2412,
@@ -658,6 +684,61 @@
       }
     },
     {
+      "symbol": "RBA",
+      "qdate": "2016-08-30",
+      "close_return": 0.2361,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "August 29 primary release announces IronPlanet acquisition and schedules August 30 morning call; separate Caterpillar alliance is contingent on closing. Class 2/6 are substantively supported, but exact August 29 initial publication time is not recovered. Defer August 30 reaction-session assignment. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://s24.q4cdn.com/560830410/files/doc_events/2016/RB-IronPlanet-Acq-NEWS-RELEASE-FINAL-Aug-29-16.pdf",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch11_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Ritchie Bros as buyer agreed to acquire IronPlanet for $758.5M plus Caterpillar alliance. Acquirer deal, not target M&A keep.",
+          "locator": "https://www.foxbusiness.com/markets/shares-of-ritchie-bros-jump-as-investors-cheer-acquisition"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://s24.q4cdn.com/560830410/files/doc_events/2016/RB-IronPlanet-Acq-NEWS-RELEASE-FINAL-Aug-29-16.pdf",
+          "https://www.sec.gov/Archives/edgar/data/1046102/000127956916004280/v448121_8k.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "MMYT",
+      "qdate": "2016-01-07",
+      "close_return": 0.2357,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Counterparty release describes $180 million convertible investment, potential 26.6% holding and strategic relationship; no concrete operating collaboration is specified. Source dateline says 2015 while executed agreement is January 7, 2016. Preserve apparent source-year error; financing versus partnership-capital primary attribution requires review. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1269238/000110465916088764/a16-1519_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch11_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Ctrip $180M convertible-bond investment / stake path. Financing/strategic investment, not keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/general/2016/01/07/why-makemytrip-mistras-group-and-silver-wheaton-ju.aspx"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1269238/000110465916088764/a16-1519_1ex99d1.htm",
+          "https://www.sec.gov/Archives/edgar/data/1495153/000119312516436368/d113454dex992.htm",
+          "https://www.fool.com/investing/general/2016/01/07/why-makemytrip-mistras-group-and-silver-wheaton-ju.aspx"
+        ]
+      }
+    },
+    {
       "symbol": "AMED",
       "qdate": "2013-08-09",
       "close_return": 0.2244,
@@ -681,6 +762,33 @@
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/896262/000110465913061771/a13-18260_1sc13d.htm",
           "https://www.penews.com/articles/private-equity-kkr-amedisys-20130812"
+        ]
+      }
+    },
+    {
+      "symbol": "MNTX",
+      "qdate": "2016-12-21",
+      "close_return": 0.2206,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Later issuer 8-K explicitly refers to a December 21 report expecting higher 2017 production; same-day gainers list corroborates trading activity but not its cause. Forward-outlook class 8 is plausible. Original December 21 release, quantified forecast change and primary attribution still need recovery. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1302028/000119312517015416/d335510d8k.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch11_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://investorplace.com/2016/12/hottest-manufacturing-stocks-now-mrus-cala-invn-mntx/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1302028/000119312517015416/d335510d8k.htm",
+          "https://investorplace.com/2016/12/hottest-manufacturing-stocks-now-mrus-cala-invn-mntx/"
         ]
       }
     },
@@ -711,6 +819,32 @@
       }
     },
     {
+      "symbol": "CARA",
+      "qdate": "2016-07-22",
+      "close_return": 0.218,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Contemporaneous July 22 3:18 p.m. account explicitly calls the catalyst unclear, discussing analyst panel commentary and potential short covering. This does not establish newly successful clinical data or an issuer breakthrough. Preserve unresolved attribution rather than converting speculation into either a biotech keep or a definitive analyst-only exclusion. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.schaeffersresearch.com/content/news/2016/07/22/cara-therapeutics-inc-cara-bull-gap-draws-options-traders",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch12_6",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/CARA?date=2016-07-22&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.schaeffersresearch.com/content/news/2016/07/22/cara-therapeutics-inc-cara-bull-gap-draws-options-traders"
+        ]
+      }
+    },
+    {
       "symbol": "HRTX",
       "qdate": "2015-09-23",
       "close_return": 0.216,
@@ -735,6 +869,33 @@
           "https://www.sec.gov/Archives/edgar/data/818033/000119312515325677/d46378dex991.htm",
           "https://www.sec.gov/Archives/edgar/data/818033/000119312515325677/d46378d8k.htm",
           "https://www.benzinga.com/analyst-ratings/analyst-color/15/09/5859668/heron-therapeutics-has-even-more-upside-robust-data-show"
+        ]
+      }
+    },
+    {
+      "symbol": "CZR",
+      "qdate": "2016-09-21",
+      "close_return": 0.2144,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "September 21 issuer announcement proposes enhanced sponsor contributions to the CEOC restructuring plan amid creditor discussions. This is a proposal, not a completed legal settlement or court-approved unlock. Eligibility under legal-unlock or strategic-alternatives classes and session attribution remain unresolved; do not substitute later settlement news. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-and-its-sponsors-propose-increase",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch12_6",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "No confirmed same-day keep PR. Unclassified/restructuring, not keep 2/3/4.",
+          "locator": "https://exa.ai/library/markets/stock/CZR?date=2016-09-21&view=daily"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-and-its-sponsors-propose-increase",
+          "https://investor.caesars.com/static-files/0cc145d8-3132-4e4e-84f6-497d19415c5b"
         ]
       }
     },
