@@ -1,0 +1,1224 @@
+{
+  "screens": {
+    "single_q5": {
+      "3": {
+        "10": {
+          "dates": 956,
+          "qualifiers_mean": 33.06171548117155,
+          "date_hit_rate": 0.11192468619246862,
+          "filtered_base": 0.22565596083284842,
+          "quiet_base": 0.1198057864806835,
+          "pick_hit_rate": 0.0400976290097629,
+          "false_picks_per_hit": 23.93913043478261,
+          "hits": {
+            "ma": 10,
+            "earnings": 19,
+            "other": 86,
+            "total": 115
+          }
+        },
+        "20": {
+          "dates": 871,
+          "qualifiers_mean": 33.29276693455798,
+          "date_hit_rate": 0.24913892078071181,
+          "filtered_base": 0.41430026297034256,
+          "quiet_base": 0.273657892198764,
+          "pick_hit_rate": 0.09491006505931879,
+          "false_picks_per_hit": 9.536290322580646,
+          "hits": {
+            "ma": 27,
+            "earnings": 46,
+            "other": 175,
+            "total": 248
+          }
+        }
+      },
+      "4": {
+        "10": {
+          "dates": 955,
+          "qualifiers_mean": 33.09319371727749,
+          "date_hit_rate": 0.1382198952879581,
+          "filtered_base": 0.2845321057704822,
+          "quiet_base": 0.15502667023318725,
+          "pick_hit_rate": 0.03717277486910995,
+          "false_picks_per_hit": 25.901408450704224,
+          "hits": {
+            "ma": 11,
+            "earnings": 24,
+            "other": 107,
+            "total": 142
+          }
+        },
+        "20": {
+          "dates": 868,
+          "qualifiers_mean": 33.30069124423963,
+          "date_hit_rate": 0.31105990783410137,
+          "filtered_base": 0.49950872526179035,
+          "quiet_base": 0.34141063275573263,
+          "pick_hit_rate": 0.09130184331797235,
+          "false_picks_per_hit": 9.952681388012618,
+          "hits": {
+            "ma": 30,
+            "earnings": 52,
+            "other": 235,
+            "total": 317
+          }
+        }
+      }
+    },
+    "multi_q5": {
+      "3": {
+        "10": {
+          "dates": 949,
+          "qualifiers_mean": 28.493150684931507,
+          "date_hit_rate": 0.1475237091675448,
+          "filtered_base": 0.22769534919690188,
+          "quiet_base": 0.12044454713123531,
+          "pick_hit_rate": 0.05233579206181946,
+          "false_picks_per_hit": 18.107382550335572,
+          "hits": {
+            "ma": 7,
+            "earnings": 27,
+            "other": 115,
+            "total": 149
+          }
+        },
+        "20": {
+          "dates": 851,
+          "qualifiers_mean": 28.239717978848415,
+          "date_hit_rate": 0.309048178613396,
+          "filtered_base": 0.41842595145503136,
+          "quiet_base": 0.27649927646139955,
+          "pick_hit_rate": 0.12025068546807677,
+          "false_picks_per_hit": 7.315960912052117,
+          "hits": {
+            "ma": 20,
+            "earnings": 42,
+            "other": 245,
+            "total": 307
+          }
+        }
+      },
+      "4": {
+        "10": {
+          "dates": 940,
+          "qualifiers_mean": 28.586170212765957,
+          "date_hit_rate": 0.1851063829787234,
+          "filtered_base": 0.28696629761616765,
+          "quiet_base": 0.15602895604350447,
+          "pick_hit_rate": 0.05079787234042553,
+          "false_picks_per_hit": 18.68586387434555,
+          "hits": {
+            "ma": 8,
+            "earnings": 35,
+            "other": 148,
+            "total": 191
+          }
+        },
+        "20": {
+          "dates": 840,
+          "qualifiers_mean": 28.35238095238095,
+          "date_hit_rate": 0.37023809523809526,
+          "filtered_base": 0.5042004748781186,
+          "quiet_base": 0.34503267531913995,
+          "pick_hit_rate": 0.11726190476190476,
+          "false_picks_per_hit": 7.527918781725888,
+          "hits": {
+            "ma": 21,
+            "earnings": 60,
+            "other": 313,
+            "total": 394
+          }
+        }
+      }
+    },
+    "single_q5_oi": {
+      "3": {
+        "10": {
+          "dates": 953,
+          "qualifiers_mean": 17.30849947534103,
+          "date_hit_rate": 0.10073452256033578,
+          "filtered_base": 0.225041122395457,
+          "quiet_base": 0.11970387566655334,
+          "pick_hit_rate": 0.035327037425673315,
+          "false_picks_per_hit": 27.306930693069308,
+          "hits": {
+            "ma": 8,
+            "earnings": 18,
+            "other": 75,
+            "total": 101
+          }
+        },
+        "20": {
+          "dates": 864,
+          "qualifiers_mean": 17.422453703703702,
+          "date_hit_rate": 0.22453703703703703,
+          "filtered_base": 0.41399952673391527,
+          "quiet_base": 0.2738769022445174,
+          "pick_hit_rate": 0.08912037037037036,
+          "false_picks_per_hit": 10.220779220779221,
+          "hits": {
+            "ma": 24,
+            "earnings": 37,
+            "other": 170,
+            "total": 231
+          }
+        }
+      },
+      "4": {
+        "10": {
+          "dates": 949,
+          "qualifiers_mean": 17.368809272918863,
+          "date_hit_rate": 0.1285563751317176,
+          "filtered_base": 0.283877407343311,
+          "quiet_base": 0.15488951496167022,
+          "pick_hit_rate": 0.03503688092729189,
+          "false_picks_per_hit": 27.541353383458645,
+          "hits": {
+            "ma": 9,
+            "earnings": 20,
+            "other": 104,
+            "total": 133
+          }
+        },
+        "20": {
+          "dates": 857,
+          "qualifiers_mean": 17.444574095682615,
+          "date_hit_rate": 0.29638273045507585,
+          "filtered_base": 0.49991017356103007,
+          "quiet_base": 0.34182427560342493,
+          "pick_hit_rate": 0.0913068844807468,
+          "false_picks_per_hit": 9.952076677316294,
+          "hits": {
+            "ma": 27,
+            "earnings": 49,
+            "other": 237,
+            "total": 313
+          }
+        }
+      }
+    },
+    "multi_q5_oi": {
+      "3": {
+        "10": {
+          "dates": 945,
+          "qualifiers_mean": 21.331216931216932,
+          "date_hit_rate": 0.15873015873015872,
+          "filtered_base": 0.22747068126160624,
+          "quiet_base": 0.12051621685496017,
+          "pick_hit_rate": 0.05890652557319224,
+          "false_picks_per_hit": 15.976047904191617,
+          "hits": {
+            "ma": 7,
+            "earnings": 30,
+            "other": 130,
+            "total": 167
+          }
+        },
+        "20": {
+          "dates": 844,
+          "qualifiers_mean": 21.25,
+          "date_hit_rate": 0.28672985781990523,
+          "filtered_base": 0.4179536738746568,
+          "quiet_base": 0.2762215000049152,
+          "pick_hit_rate": 0.1165086887835703,
+          "false_picks_per_hit": 7.583050847457627,
+          "hits": {
+            "ma": 12,
+            "earnings": 41,
+            "other": 242,
+            "total": 295
+          }
+        }
+      },
+      "4": {
+        "10": {
+          "dates": 934,
+          "qualifiers_mean": 21.422912205567453,
+          "date_hit_rate": 0.18522483940042828,
+          "filtered_base": 0.28506681553643604,
+          "quiet_base": 0.15545725943462735,
+          "pick_hit_rate": 0.05246252676659529,
+          "false_picks_per_hit": 18.06122448979592,
+          "hits": {
+            "ma": 6,
+            "earnings": 35,
+            "other": 155,
+            "total": 196
+          }
+        },
+        "20": {
+          "dates": 831,
+          "qualifiers_mean": 21.352587244283995,
+          "date_hit_rate": 0.35018050541516244,
+          "filtered_base": 0.5024013469103878,
+          "quiet_base": 0.3435781030495192,
+          "pick_hit_rate": 0.1125150421179302,
+          "false_picks_per_hit": 7.887700534759358,
+          "hits": {
+            "ma": 13,
+            "earnings": 55,
+            "other": 306,
+            "total": 374
+          }
+        }
+      }
+    },
+    "single_q5_earn": {
+      "3": {
+        "10": {
+          "dates": 955,
+          "qualifiers_mean": 31.734031413612566,
+          "date_hit_rate": 0.10157068062827225,
+          "filtered_base": 0.22567397988414525,
+          "quiet_base": 0.11993123756600359,
+          "pick_hit_rate": 0.0356020942408377,
+          "false_picks_per_hit": 27.08823529411765,
+          "hits": {
+            "ma": 7,
+            "earnings": 8,
+            "other": 87,
+            "total": 102
+          }
+        },
+        "20": {
+          "dates": 870,
+          "qualifiers_mean": 31.979310344827585,
+          "date_hit_rate": 0.2413793103448276,
+          "filtered_base": 0.41413210786146115,
+          "quiet_base": 0.27386468287945226,
+          "pick_hit_rate": 0.09118773946360154,
+          "false_picks_per_hit": 9.966386554621849,
+          "hits": {
+            "ma": 24,
+            "earnings": 34,
+            "other": 180,
+            "total": 238
+          }
+        }
+      },
+      "4": {
+        "10": {
+          "dates": 955,
+          "qualifiers_mean": 31.734031413612566,
+          "date_hit_rate": 0.12670157068062826,
+          "filtered_base": 0.2845321057704822,
+          "quiet_base": 0.15502667023318725,
+          "pick_hit_rate": 0.033507853403141365,
+          "false_picks_per_hit": 28.84375,
+          "hits": {
+            "ma": 8,
+            "earnings": 11,
+            "other": 109,
+            "total": 128
+          }
+        },
+        "20": {
+          "dates": 868,
+          "qualifiers_mean": 31.94930875576037,
+          "date_hit_rate": 0.30069124423963134,
+          "filtered_base": 0.49950872526179035,
+          "quiet_base": 0.34141063275573263,
+          "pick_hit_rate": 0.08784562211981567,
+          "false_picks_per_hit": 10.38360655737705,
+          "hits": {
+            "ma": 28,
+            "earnings": 38,
+            "other": 239,
+            "total": 305
+          }
+        }
+      }
+    },
+    "multi_q5_earn": {
+      "3": {
+        "10": {
+          "dates": 945,
+          "qualifiers_mean": 27.27936507936508,
+          "date_hit_rate": 0.1343915343915344,
+          "filtered_base": 0.22749821176118418,
+          "quiet_base": 0.12056343944150398,
+          "pick_hit_rate": 0.04797178130511464,
+          "false_picks_per_hit": 19.845588235294116,
+          "hits": {
+            "ma": 4,
+            "earnings": 13,
+            "other": 119,
+            "total": 136
+          }
+        },
+        "20": {
+          "dates": 848,
+          "qualifiers_mean": 27.00943396226415,
+          "date_hit_rate": 0.29952830188679247,
+          "filtered_base": 0.4178161039835102,
+          "quiet_base": 0.27655962500767056,
+          "pick_hit_rate": 0.1179245283018868,
+          "false_picks_per_hit": 7.48,
+          "hits": {
+            "ma": 17,
+            "earnings": 31,
+            "other": 252,
+            "total": 300
+          }
+        }
+      },
+      "4": {
+        "10": {
+          "dates": 939,
+          "qualifiers_mean": 27.369542066027687,
+          "date_hit_rate": 0.16826411075612355,
+          "filtered_base": 0.28643077988435495,
+          "quiet_base": 0.15597302005056252,
+          "pick_hit_rate": 0.0463258785942492,
+          "false_picks_per_hit": 20.586206896551722,
+          "hits": {
+            "ma": 7,
+            "earnings": 14,
+            "other": 153,
+            "total": 174
+          }
+        },
+        "20": {
+          "dates": 840,
+          "qualifiers_mean": 27.120238095238093,
+          "date_hit_rate": 0.35714285714285715,
+          "filtered_base": 0.503645376438304,
+          "quiet_base": 0.34492894594676804,
+          "pick_hit_rate": 0.11398809523809524,
+          "false_picks_per_hit": 7.772845953002611,
+          "hits": {
+            "ma": 21,
+            "earnings": 41,
+            "other": 321,
+            "total": 383
+          }
+        }
+      }
+    },
+    "single_q3": {
+      "3": {
+        "10": {
+          "dates": 955,
+          "qualifiers_mean": 22.099476439790575,
+          "date_hit_rate": 0.10575916230366492,
+          "filtered_base": 0.22611573869068816,
+          "quiet_base": 0.1198152661716424,
+          "pick_hit_rate": 0.03769633507853403,
+          "false_picks_per_hit": 25.52777777777778,
+          "hits": {
+            "ma": 8,
+            "earnings": 14,
+            "other": 86,
+            "total": 108
+          }
+        },
+        "20": {
+          "dates": 869,
+          "qualifiers_mean": 22.295742232451094,
+          "date_hit_rate": 0.24626006904487918,
+          "filtered_base": 0.4149524461636955,
+          "quiet_base": 0.2736146552072289,
+          "pick_hit_rate": 0.09474491752972766,
+          "false_picks_per_hit": 9.554655870445345,
+          "hits": {
+            "ma": 27,
+            "earnings": 37,
+            "other": 183,
+            "total": 247
+          }
+        }
+      },
+      "4": {
+        "10": {
+          "dates": 949,
+          "qualifiers_mean": 22.188619599578505,
+          "date_hit_rate": 0.12750263435194942,
+          "filtered_base": 0.28466205745691575,
+          "quiet_base": 0.15482743825232065,
+          "pick_hit_rate": 0.03503688092729189,
+          "false_picks_per_hit": 27.541353383458645,
+          "hits": {
+            "ma": 9,
+            "earnings": 16,
+            "other": 108,
+            "total": 133
+          }
+        },
+        "20": {
+          "dates": 860,
+          "qualifiers_mean": 22.327906976744185,
+          "date_hit_rate": 0.3023255813953488,
+          "filtered_base": 0.49990710109247216,
+          "quiet_base": 0.3412152160816909,
+          "pick_hit_rate": 0.0933139534883721,
+          "false_picks_per_hit": 9.71651090342679,
+          "hits": {
+            "ma": 28,
+            "earnings": 46,
+            "other": 247,
+            "total": 321
+          }
+        }
+      }
+    },
+    "multi_q3": {
+      "3": {
+        "10": {
+          "dates": 943,
+          "qualifiers_mean": 18.49098621420997,
+          "date_hit_rate": 0.1325556733828208,
+          "filtered_base": 0.2277884324930818,
+          "quiet_base": 0.12072393786407161,
+          "pick_hit_rate": 0.045952633439377874,
+          "false_picks_per_hit": 20.76153846153846,
+          "hits": {
+            "ma": 11,
+            "earnings": 18,
+            "other": 101,
+            "total": 130
+          }
+        },
+        "20": {
+          "dates": 843,
+          "qualifiers_mean": 18.309608540925268,
+          "date_hit_rate": 0.27995255041518385,
+          "filtered_base": 0.4193516419133898,
+          "quiet_base": 0.2768955086981837,
+          "pick_hit_rate": 0.10952945828390669,
+          "false_picks_per_hit": 8.129963898916968,
+          "hits": {
+            "ma": 18,
+            "earnings": 39,
+            "other": 220,
+            "total": 277
+          }
+        }
+      },
+      "4": {
+        "10": {
+          "dates": 931,
+          "qualifiers_mean": 18.674543501611172,
+          "date_hit_rate": 0.16756176154672395,
+          "filtered_base": 0.2873877115244507,
+          "quiet_base": 0.15643260689453542,
+          "pick_hit_rate": 0.045381310418904405,
+          "false_picks_per_hit": 21.035502958579883,
+          "hits": {
+            "ma": 12,
+            "earnings": 24,
+            "other": 133,
+            "total": 169
+          }
+        },
+        "20": {
+          "dates": 825,
+          "qualifiers_mean": 18.533333333333335,
+          "date_hit_rate": 0.33454545454545453,
+          "filtered_base": 0.5040604392719863,
+          "quiet_base": 0.3447041784623135,
+          "pick_hit_rate": 0.10575757575757576,
+          "false_picks_per_hit": 8.455587392550143,
+          "hits": {
+            "ma": 20,
+            "earnings": 52,
+            "other": 277,
+            "total": 349
+          }
+        }
+      }
+    },
+    "single_delta": {
+      "3": {
+        "10": {
+          "dates": 963,
+          "qualifiers_mean": 27.7871235721703,
+          "date_hit_rate": 0.09968847352024922,
+          "filtered_base": 0.2262274354636293,
+          "quiet_base": 0.12288037426315447,
+          "pick_hit_rate": 0.033921772239529246,
+          "false_picks_per_hit": 28.479591836734695,
+          "hits": {
+            "ma": 1,
+            "earnings": 18,
+            "other": 79,
+            "total": 98
+          }
+        },
+        "20": {
+          "dates": 879,
+          "qualifiers_mean": 28.042093287827075,
+          "date_hit_rate": 0.23435722411831628,
+          "filtered_base": 0.4141631396515913,
+          "quiet_base": 0.27638151107940984,
+          "pick_hit_rate": 0.0875995449374289,
+          "false_picks_per_hit": 10.415584415584416,
+          "hits": {
+            "ma": 3,
+            "earnings": 52,
+            "other": 176,
+            "total": 231
+          }
+        }
+      },
+      "4": {
+        "10": {
+          "dates": 961,
+          "qualifiers_mean": 27.801248699271593,
+          "date_hit_rate": 0.12903225806451613,
+          "filtered_base": 0.2851148197376952,
+          "quiet_base": 0.15886071270818197,
+          "pick_hit_rate": 0.0345993756503642,
+          "false_picks_per_hit": 27.902255639097746,
+          "hits": {
+            "ma": 3,
+            "earnings": 20,
+            "other": 110,
+            "total": 133
+          }
+        },
+        "20": {
+          "dates": 877,
+          "qualifiers_mean": 28.027366020524514,
+          "date_hit_rate": 0.29418472063854045,
+          "filtered_base": 0.49982925800848493,
+          "quiet_base": 0.3446748627265745,
+          "pick_hit_rate": 0.08722919042189281,
+          "false_picks_per_hit": 10.4640522875817,
+          "hits": {
+            "ma": 7,
+            "earnings": 66,
+            "other": 233,
+            "total": 306
+          }
+        }
+      }
+    },
+    "multi_delta": {
+      "3": {
+        "10": {
+          "dates": 940,
+          "qualifiers_mean": 22.127659574468087,
+          "date_hit_rate": 0.13617021276595745,
+          "filtered_base": 0.2275416652246409,
+          "quiet_base": 0.12341695888563275,
+          "pick_hit_rate": 0.04929078014184397,
+          "false_picks_per_hit": 19.287769784172664,
+          "hits": {
+            "ma": 11,
+            "earnings": 22,
+            "other": 106,
+            "total": 139
+          }
+        },
+        "20": {
+          "dates": 847,
+          "qualifiers_mean": 22.068476977567887,
+          "date_hit_rate": 0.29279811097992914,
+          "filtered_base": 0.4161781929226861,
+          "quiet_base": 0.27783090536873345,
+          "pick_hit_rate": 0.11609602518693428,
+          "false_picks_per_hit": 7.613559322033899,
+          "hits": {
+            "ma": 28,
+            "earnings": 45,
+            "other": 222,
+            "total": 295
+          }
+        }
+      },
+      "4": {
+        "10": {
+          "dates": 935,
+          "qualifiers_mean": 22.22994652406417,
+          "date_hit_rate": 0.1572192513368984,
+          "filtered_base": 0.2868327708907509,
+          "quiet_base": 0.15949620654756705,
+          "pick_hit_rate": 0.04438502673796792,
+          "false_picks_per_hit": 21.53012048192771,
+          "hits": {
+            "ma": 13,
+            "earnings": 25,
+            "other": 128,
+            "total": 166
+          }
+        },
+        "20": {
+          "dates": 841,
+          "qualifiers_mean": 22.141498216409037,
+          "date_hit_rate": 0.3341260404280618,
+          "filtered_base": 0.5007851545999934,
+          "quiet_base": 0.34566652455086344,
+          "pick_hit_rate": 0.10879904875148633,
+          "false_picks_per_hit": 8.191256830601093,
+          "hits": {
+            "ma": 33,
+            "earnings": 60,
+            "other": 273,
+            "total": 366
+          }
+        }
+      }
+    },
+    "single_conc": {
+      "3": {
+        "10": {
+          "dates": 955,
+          "qualifiers_mean": 20.23455497382199,
+          "date_hit_rate": 0.1099476439790576,
+          "filtered_base": 0.22604579917765152,
+          "quiet_base": 0.11996553505124614,
+          "pick_hit_rate": 0.039790575916230364,
+          "false_picks_per_hit": 24.13157894736842,
+          "hits": {
+            "ma": 7,
+            "earnings": 20,
+            "other": 87,
+            "total": 114
+          }
+        },
+        "20": {
+          "dates": 872,
+          "qualifiers_mean": 20.452981651376145,
+          "date_hit_rate": 0.24311926605504589,
+          "filtered_base": 0.4139574274190634,
+          "quiet_base": 0.2734143092349836,
+          "pick_hit_rate": 0.09288990825688073,
+          "false_picks_per_hit": 9.765432098765432,
+          "hits": {
+            "ma": 25,
+            "earnings": 44,
+            "other": 174,
+            "total": 243
+          }
+        }
+      },
+      "4": {
+        "10": {
+          "dates": 950,
+          "qualifiers_mean": 20.309473684210527,
+          "date_hit_rate": 0.14,
+          "filtered_base": 0.28440918205087645,
+          "quiet_base": 0.15464310522479074,
+          "pick_hit_rate": 0.038421052631578946,
+          "false_picks_per_hit": 25.027397260273972,
+          "hits": {
+            "ma": 8,
+            "earnings": 27,
+            "other": 111,
+            "total": 146
+          }
+        },
+        "20": {
+          "dates": 864,
+          "qualifiers_mean": 20.506944444444443,
+          "date_hit_rate": 0.3136574074074074,
+          "filtered_base": 0.4993857904126945,
+          "quiet_base": 0.3412242165918293,
+          "pick_hit_rate": 0.0943287037037037,
+          "false_picks_per_hit": 9.60122699386503,
+          "hits": {
+            "ma": 28,
+            "earnings": 61,
+            "other": 237,
+            "total": 326
+          }
+        }
+      }
+    },
+    "multi_conc": {
+      "3": {
+        "10": {
+          "dates": 940,
+          "qualifiers_mean": 16.424468085106383,
+          "date_hit_rate": 0.13191489361702127,
+          "filtered_base": 0.2275802757730316,
+          "quiet_base": 0.12056641885925619,
+          "pick_hit_rate": 0.04680851063829787,
+          "false_picks_per_hit": 20.363636363636363,
+          "hits": {
+            "ma": 8,
+            "earnings": 18,
+            "other": 106,
+            "total": 132
+          }
+        },
+        "20": {
+          "dates": 839,
+          "qualifiers_mean": 16.199046483909417,
+          "date_hit_rate": 0.29201430274135876,
+          "filtered_base": 0.4184546785629912,
+          "quiet_base": 0.2768996116545232,
+          "pick_hit_rate": 0.10885975367500993,
+          "false_picks_per_hit": 8.186131386861314,
+          "hits": {
+            "ma": 20,
+            "earnings": 39,
+            "other": 215,
+            "total": 274
+          }
+        }
+      },
+      "4": {
+        "10": {
+          "dates": 928,
+          "qualifiers_mean": 16.529094827586206,
+          "date_hit_rate": 0.16810344827586207,
+          "filtered_base": 0.28557528253796033,
+          "quiet_base": 0.15541564024672466,
+          "pick_hit_rate": 0.04822198275862069,
+          "false_picks_per_hit": 19.737430167597765,
+          "hits": {
+            "ma": 10,
+            "earnings": 26,
+            "other": 143,
+            "total": 179
+          }
+        },
+        "20": {
+          "dates": 824,
+          "qualifiers_mean": 16.274271844660195,
+          "date_hit_rate": 0.3604368932038835,
+          "filtered_base": 0.5032627443462534,
+          "quiet_base": 0.3445294476521516,
+          "pick_hit_rate": 0.11013349514563107,
+          "false_picks_per_hit": 8.079889807162534,
+          "hits": {
+            "ma": 29,
+            "earnings": 58,
+            "other": 276,
+            "total": 363
+          }
+        }
+      }
+    }
+  },
+  "qualifier_counts": {
+    "single_q5": {
+      "days": 1050,
+      "mean": 32.846666666666664,
+      "median": 33.0,
+      "share_at_least_3": 0.9990476190476191
+    },
+    "multi_q5": {
+      "days": 1050,
+      "mean": 28.212380952380954,
+      "median": 27.0,
+      "share_at_least_3": 0.9980952380952381
+    },
+    "single_q5_oi": {
+      "days": 1050,
+      "mean": 17.045714285714286,
+      "median": 16.0,
+      "share_at_least_3": 0.9942857142857143
+    },
+    "multi_q5_oi": {
+      "days": 1050,
+      "mean": 20.921904761904763,
+      "median": 20.0,
+      "share_at_least_3": 0.9933333333333333
+    },
+    "single_q5_earn": {
+      "days": 1050,
+      "mean": 31.51809523809524,
+      "median": 31.0,
+      "share_at_least_3": 0.9980952380952381
+    },
+    "multi_q5_earn": {
+      "days": 1050,
+      "mean": 27.02285714285714,
+      "median": 26.0,
+      "share_at_least_3": 0.9971428571428571
+    },
+    "single_q3": {
+      "days": 1049,
+      "mean": 21.929456625357485,
+      "median": 22,
+      "share_at_least_3": 0.9990467111534795
+    },
+    "multi_q3": {
+      "days": 1048,
+      "mean": 18.20706106870229,
+      "median": 17.0,
+      "share_at_least_3": 0.9923664122137404
+    },
+    "single_delta": {
+      "days": 1049,
+      "mean": 27.470924690181125,
+      "median": 27,
+      "share_at_least_3": 0.9990467111534795
+    },
+    "multi_delta": {
+      "days": 1049,
+      "mean": 21.839847473784555,
+      "median": 21,
+      "share_at_least_3": 0.9952335557673975
+    },
+    "single_conc": {
+      "days": 1048,
+      "mean": 20.017175572519083,
+      "median": 19.0,
+      "share_at_least_3": 0.9971374045801527
+    },
+    "multi_conc": {
+      "days": 1048,
+      "mean": 16.21469465648855,
+      "median": 15.0,
+      "share_at_least_3": 0.9933206106870229
+    }
+  },
+  "examples": [
+    {
+      "symbol": "COMP",
+      "day": "2025-12-12",
+      "ratio": 162.7293844367015,
+      "five_ratio": 35.26887340301975,
+      "r10": 0.030710172744721653,
+      "spike_days": 3,
+      "consecutive": 3,
+      "single": false,
+      "what": "ma"
+    },
+    {
+      "symbol": "COMP",
+      "day": "2025-12-11",
+      "ratio": 158.67497168742923,
+      "five_ratio": 33.440543601359,
+      "r10": 0.03262955854126681,
+      "spike_days": 2,
+      "consecutive": 2,
+      "single": false,
+      "what": "ma"
+    },
+    {
+      "symbol": "DAY",
+      "day": "2025-08-15",
+      "ratio": 59.23904688701,
+      "five_ratio": 11.926210607225212,
+      "r10": -0.04324226524335084,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": true,
+      "what": "ma"
+    },
+    {
+      "symbol": "SGFY",
+      "day": "2022-02-04",
+      "ratio": 55.4497781363453,
+      "five_ratio": 18.98184751916095,
+      "r10": 0.046454767726161306,
+      "spike_days": 2,
+      "consecutive": 1,
+      "single": false,
+      "what": "ma"
+    },
+    {
+      "symbol": "WWE",
+      "day": "2023-03-20",
+      "ratio": 53.43582409724705,
+      "five_ratio": 11.890454057919198,
+      "r10": 0.03667930064800107,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": false,
+      "what": "ma"
+    },
+    {
+      "symbol": "WWE",
+      "day": "2023-03-17",
+      "ratio": 53.40145776761469,
+      "five_ratio": 11.382592539659854,
+      "r10": -0.002991146207226625,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": false,
+      "what": "ma"
+    },
+    {
+      "symbol": "SGFY",
+      "day": "2022-02-03",
+      "ratio": 53.15545243619489,
+      "five_ratio": 18.33720030935808,
+      "r10": 0.007892659826361559,
+      "spike_days": 2,
+      "consecutive": 1,
+      "single": false,
+      "what": "ma"
+    },
+    {
+      "symbol": "WNS",
+      "day": "2025-06-18",
+      "ratio": 47.67422334172964,
+      "five_ratio": 9.711167086481948,
+      "r10": 0.0065314541079408706,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": true,
+      "what": "ma"
+    },
+    {
+      "symbol": "PUMP",
+      "day": "2026-04-20",
+      "ratio": 43.80789022298457,
+      "five_ratio": 9.246998284734135,
+      "r10": 0.012381646030589888,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": false,
+      "what": "ma"
+    },
+    {
+      "symbol": "SAVE",
+      "day": "2022-01-20",
+      "ratio": 43.20968523002421,
+      "five_ratio": 12.619467312348668,
+      "r10": 0.0013026487190619385,
+      "spike_days": 4,
+      "consecutive": 3,
+      "single": false,
+      "what": "ma"
+    },
+    {
+      "symbol": "SAVE",
+      "day": "2022-01-19",
+      "ratio": 41.8969807954172,
+      "five_ratio": 11.483683147861202,
+      "r10": -0.032835820895522394,
+      "spike_days": 3,
+      "consecutive": 3,
+      "single": false,
+      "what": "ma"
+    },
+    {
+      "symbol": "PR",
+      "day": "2023-07-27",
+      "ratio": 41.20508744038156,
+      "five_ratio": 8.644197138314786,
+      "r10": -0.04442508710801396,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": true,
+      "what": "ma"
+    },
+    {
+      "symbol": "PR",
+      "day": "2023-07-26",
+      "ratio": 38.79940119760479,
+      "five_ratio": 8.08562874251497,
+      "r10": -0.022707423580786035,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": true,
+      "what": "ma"
+    },
+    {
+      "symbol": "WNS",
+      "day": "2025-06-17",
+      "ratio": 35.10355486862442,
+      "five_ratio": 7.14435857805255,
+      "r10": 0.033060727336001294,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": true,
+      "what": "ma"
+    },
+    {
+      "symbol": "DINO",
+      "day": "2025-08-08",
+      "ratio": 30.258823529411764,
+      "five_ratio": 6.291764705882353,
+      "r10": 0.008568781843445894,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": true,
+      "what": "ma"
+    },
+    {
+      "symbol": "DINO",
+      "day": "2025-08-07",
+      "ratio": 29.46162657502864,
+      "five_ratio": 6.146620847651776,
+      "r10": -0.007294278550262101,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": true,
+      "what": "ma"
+    },
+    {
+      "symbol": "MGI",
+      "day": "2022-02-11",
+      "ratio": 28.436291331259422,
+      "five_ratio": 6.015073281806228,
+      "r10": -0.028184892897407,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": true,
+      "what": "ma"
+    },
+    {
+      "symbol": "RDNT",
+      "day": "2025-04-22",
+      "ratio": 26.65686274509804,
+      "five_ratio": 6.272549019607843,
+      "r10": -0.02251978088861839,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": false,
+      "what": "ma"
+    },
+    {
+      "symbol": "RDNT",
+      "day": "2025-04-23",
+      "ratio": 25.87059942911513,
+      "five_ratio": 5.9372026641294005,
+      "r10": 0.023173277661795444,
+      "spike_days": 1,
+      "consecutive": 1,
+      "single": false,
+      "what": "ma"
+    },
+    {
+      "symbol": "SSYS",
+      "day": "2023-07-03",
+      "ratio": 22.552544948088123,
+      "five_ratio": 5.628091499957796,
+      "r10": 0.0017251293847038163,
+      "spike_days": 2,
+      "consecutive": 1,
+      "single": false,
+      "what": "ma"
+    }
+  ],
+  "cases": {
+    "flagged": {
+      "lantheus_2022": false,
+      "maxar_2022": true,
+      "pfizer_2021": true,
+      "zogenix_2022": false
+    },
+    "detail": {
+      "lantheus_2022": {
+        "id": "lantheus_2022",
+        "symbol": "LNTH",
+        "day": "2022-02-11",
+        "single": false,
+        "multi": false,
+        "quiet_5": false,
+        "ratio": 2.3799582463465554,
+        "r10": 0.1493742430359306,
+        "spike_days": 0,
+        "consecutive": 0,
+        "mean_call": 23.95
+      },
+      "maxar_2022": {
+        "id": "maxar_2022",
+        "symbol": "MAXR",
+        "day": "2022-12-12",
+        "single": false,
+        "multi": true,
+        "quiet_5": false,
+        "ratio": 19.64923076923077,
+        "r10": 0.06279982555604025,
+        "spike_days": 4,
+        "consecutive": 2,
+        "mean_call": 162.5
+      },
+      "pfizer_2021": {
+        "id": "pfizer_2021",
+        "symbol": "PFE",
+        "day": "2021-11-04",
+        "single": false,
+        "multi": true,
+        "quiet_5": true,
+        "ratio": 7.114773563962971,
+        "r10": 0.023098460102659812,
+        "spike_days": 4,
+        "consecutive": 4,
+        "mean_call": 40677.05
+      },
+      "zogenix_2022": {
+        "id": "zogenix_2022",
+        "symbol": "ZGNX",
+        "day": "2022-01-18",
+        "single": false,
+        "multi": false,
+        "quiet_5": false,
+        "ratio": 1.746765974127793,
+        "r10": -0.09543088490456908,
+        "spike_days": 0,
+        "consecutive": 0,
+        "mean_call": 637.75
+      }
+    }
+  },
+  "pnl": {
+    "single_q5": {
+      "3": {
+        "10": {
+          "n": 587,
+          "mean": 0.30116701273910035,
+          "median": -0.22473022473022472,
+          "hit_rate": 0.393526405451448,
+          "worst_decile": -0.88
+        },
+        "20": {
+          "n": 374,
+          "mean": 1.3486919399595596,
+          "median": 0.6765151515151515,
+          "hit_rate": 0.6203208556149733,
+          "worst_decile": -0.8333333333333333
+        }
+      },
+      "4": {
+        "10": {
+          "n": 644,
+          "mean": 0.2732379263264378,
+          "median": -0.20634920634920634,
+          "hit_rate": 0.40217391304347827,
+          "worst_decile": -0.8761904761904762
+        },
+        "20": {
+          "n": 448,
+          "mean": 1.2431520858572185,
+          "median": 0.6666666666666667,
+          "hit_rate": 0.6183035714285714,
+          "worst_decile": -0.8333333333333333
+        }
+      }
+    },
+    "multi_q5": {
+      "3": {
+        "10": {
+          "n": 641,
+          "mean": 0.5342779205063347,
+          "median": -0.15062761506276157,
+          "hit_rate": 0.44929797191887677,
+          "worst_decile": -0.9
+        },
+        "20": {
+          "n": 414,
+          "mean": 1.81469681163957,
+          "median": 1.060810810810811,
+          "hit_rate": 0.6980676328502415,
+          "worst_decile": -0.8095238095238095
+        }
+      },
+      "4": {
+        "10": {
+          "n": 700,
+          "mean": 0.5649465427684552,
+          "median": -0.09747925685425685,
+          "hit_rate": 0.4714285714285714,
+          "worst_decile": -0.879585326953748
+        },
+        "20": {
+          "n": 492,
+          "mean": 1.710931549848258,
+          "median": 1.0,
+          "hit_rate": 0.6951219512195121,
+          "worst_decile": -0.8055555555555556
+        }
+      }
+    }
+  }
+}
