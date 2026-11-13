@@ -1,7 +1,7 @@
 from datetime import date
 import unittest
 
-from insider_model import auc, evaluate_model, fit_ridge_logistic, predict, window_features
+from insider_model import auc, evaluate_model, fit_ridge_logistic, gap_quantiles, predict, window_features
 
 
 class WindowFeatureTests(unittest.TestCase):
@@ -42,6 +42,12 @@ class LogisticTests(unittest.TestCase):
         self.assertTrue(result['fit'])
         self.assertGreater(result['folds']['holdout_2016']['auc'], 0.9)
         self.assertGreater(result['coefficients']['log_volume_ratio'], 0)
+
+    def test_gap_quantiles_keep_the_center_and_the_tail(self):
+        summary = gap_quantiles([-1.0, -0.2, 0.0, 0.2, 1.0])
+        self.assertEqual(summary['p50'], 0.0)
+        self.assertGreater(summary['p90'], 0.5)
+        self.assertLess(summary['p10'], -0.5)
 
     def test_auc_ties(self):
         self.assertEqual(auc([0.5, 0.5], [1, 0]), 0.5)

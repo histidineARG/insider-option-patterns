@@ -2,6 +2,11 @@
 
 Features and the ridge penalty are fixed. Training uses 2013–2014 only.
 2015 is reported and does not change the fit. 2016 is the holdout.
+
+A class-2 jump is an event label, not an insider-trading label. Many of those
+jumps have no informed option trade. The fit therefore asks only whether a
+footprint is common across the set. A pattern that belongs to a minority
+would appear in the upper tail of the paired score gap, not as a high AUC.
 """
 import math
 import statistics
@@ -150,6 +155,33 @@ def paired(samples, scores_by_id, role):
                 win_rate=(wins / total) if total else None)
 
 
+def score_gaps(samples, scores_by_id, role) -> list[float]:
+    gaps = []
+    for sample in samples:
+        if sample['role'] != 'case':
+            continue
+        case = scores_by_id.get((sample['symbol'], sample['event'], 'case'))
+        control = scores_by_id.get((sample['symbol'], sample['event'], role))
+        if case is None or control is None:
+            continue
+        gaps.append(case - control)
+    return gaps
+
+
+def gap_quantiles(values) -> dict | None:
+    if not values:
+        return None
+    ordered = sorted(values)
+
+    def at(fraction):
+        position = (len(ordered) - 1) * fraction
+        low = int(position)
+        high = min(low + 1, len(ordered) - 1)
+        return ordered[low] + (ordered[high] - ordered[low]) * (position - low)
+
+    return dict(n=len(values), p10=at(0.10), p50=at(0.50), p90=at(0.90))
+
+
 def _fold_report(samples, scores_by_id):
     scores = [scores_by_id[(s['symbol'], s['event'], s['role'])] for s in samples]
     labels = [s['label'] for s in samples]
@@ -160,6 +192,8 @@ def _fold_report(samples, scores_by_id):
         auc=auc(scores, labels),
         paired_placebo=paired(samples, scores_by_id, 'placebo'),
         paired_earnings=paired(samples, scores_by_id, 'earnings'),
+        gap_versus_placebo=gap_quantiles(score_gaps(samples, scores_by_id, 'placebo')),
+        gap_versus_earnings=gap_quantiles(score_gaps(samples, scores_by_id, 'earnings')),
     )
 
 
@@ -239,7 +273,7 @@ def render_model_report(result) -> str:
         '',
         'One ridge logistic. Features are taken from the single pre-event session with the largest call-volume ratio: log volume ratio, share of call volume in the delta 0.10–0.35 band, that band\'s top strike share, call share of call-plus-put volume, and log band volume per contract of open interest. Ridge penalty is 1 on the standardized features. Fit uses 2013–2014. The 2015 numbers were not used to change anything. 2016 is the holdout.',
         '',
-        'The label is a class-2 window versus that name\'s own placebo and earnings windows. A higher score means the session looks more like the pre-jump windows in the training years. It is not a probability that a person traded on inside information.',
+        'The label is a class-2 window versus that name\'s own placebo and earnings windows. Many of those jumps have no informed option trade, so the positive class is a mixture. A higher score means the session looks more like the pre-jump windows in the training years. It is not a probability that a person traded on inside information. AUC near one half means the footprint is not common to the set. A minority pattern would show as a positive upper tail in the score gap, with the median gap still near zero.',
         '',
         '| Fold | Windows | AUC | M&A scores above its placebo | M&A scores above its earnings |',
         '| --- | ---: | ---: | ---: | ---: |',
@@ -252,6 +286,13 @@ def render_model_report(result) -> str:
     lines += [
         '',
         f"A model that uses only the volume ratio has 2016 AUC {_fmt(result['volume_only_holdout_auc'])}.",
+        '',
+        'Paired score gap on the holdout, case minus control. The median is the typical event. The 90th percentile is the upper tail, where a minority of informed trades would have to sit:',
+        '',
+        f"| Versus | 10th | Median | 90th |",
+        '| --- | ---: | ---: | ---: |',
+        f"| Placebo | {_gap(holdout.get('gap_versus_placebo'), 'p10')} | {_gap(holdout.get('gap_versus_placebo'), 'p50')} | {_gap(holdout.get('gap_versus_placebo'), 'p90')} |",
+        f"| Earnings | {_gap(holdout.get('gap_versus_earnings'), 'p10')} | {_gap(holdout.get('gap_versus_earnings'), 'p50')} | {_gap(holdout.get('gap_versus_earnings'), 'p90')} |",
         '',
         'Standardized coefficients, intercept unpenalized:',
         '',
@@ -268,6 +309,12 @@ def render_model_report(result) -> str:
 
 def _fmt(value):
     return 'n/a' if value is None else f'{value:.3f}'
+
+
+def _gap(summary, key):
+    if not summary:
+        return 'n/a'
+    return _fmt(summary.get(key))
 
 
 def _pair(pair):

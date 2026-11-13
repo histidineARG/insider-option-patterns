@@ -60,4 +60,6 @@ Features, taken from the one pre-event session with the largest call-volume rati
 
 Ridge penalty is 1 on features standardized with the 2013–2014 mean and spread. The intercept is unpenalized. 2015 is reported and does not change the fit. 2016 is the holdout. A one-feature volume-ratio model is the comparison.
 
+A class-2 jump is not an insider-trading label. Earnings, scheduled catalysts, and ordinary speculation produce the same kind of price jump with no informed option trade. The logistic therefore cannot treat a miss as a missed insider. It can only show whether a footprint is common. A pattern that is present in a minority of events would leave the median paired score gap near zero and move the upper tail.
+
 Label the 262 pending rows before any of them enter the case set. A lower jump threshold is a separate sensitivity and is not part of this fit.
