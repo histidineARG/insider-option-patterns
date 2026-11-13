@@ -160,10 +160,11 @@ def score_day(rows, next_rows, stock_return, thresholds, event) -> dict:
         # opening are not one position.
         if is_large(row['volume'], row['oi'], same_contract_oi(row, next_rows)):
             large.append(row)
+    matches = [contract_match(row, next_rows) for row in large]
     if len(large) > MAX_CONTRACTS:
-        return dict(hit=False, reason='broad_chain', contracts=len(large))
+        return dict(hit=False, reason='broad_chain', contracts=len(large), matches=matches)
     if not large:
-        return dict(hit=False, contracts=0)
+        return dict(hit=False, contracts=0, matches=[])
     top = max(large, key=lambda row: int(row['volume'] or 0))
     return dict(
         hit=True,
@@ -171,6 +172,20 @@ def score_day(rows, next_rows, stock_return, thresholds, event) -> dict:
         volume=sum(int(row['volume'] or 0) for row in large),
         strike=float(top['strike']),
         expiry=top['edate'].isoformat() if hasattr(top['edate'], 'isoformat') else str(top['edate']),
+        matches=matches,
+    )
+
+
+def contract_match(row, next_rows) -> dict:
+    nxt = same_contract_oi(row, next_rows)
+    return dict(
+        strike=float(row['strike']),
+        expiry=row['edate'].isoformat() if hasattr(row['edate'], 'isoformat') else str(row['edate']),
+        edate=row['edate'],
+        volume=int(row['volume'] or 0),
+        oi=int(row['oi'] or 0),
+        next_oi=None if nxt is None else int(nxt),
+        klass=expiry_class(row['edate']),
     )
 
 
@@ -268,13 +283,16 @@ def evaluate_period(chain, stock, sessions, index, signal, baseline, event) -> d
         scored = score_day(chain.get(day, []), chain.get(nxt, []),
                            stock_return(stock, sessions, index, day), thresholds, event)
         if scored['hit']:
-            scored['qdate'] = day.isoformat()
-            hits.append(scored)
+            for match in scored['matches']:
+                match = dict(match)
+                match['qdate'] = day.isoformat()
+                hits.append(match)
     return dict(eligible=True, hit=bool(hits), days=len(signal), cycle=cycle,
+                matches=hits,
                 thresholds={k: round(v, 1) for k, v in thresholds.items()},
-                alert_dates=[row['qdate'] for row in hits],
+                alert_dates=sorted({row['qdate'] for row in hits}),
                 volume=sum(row['volume'] for row in hits),
-                contracts=max((row['contracts'] for row in hits), default=0))
+                contracts=max((sum(1 for row in hits if row['qdate'] == day) for day in {row['qdate'] for row in hits}), default=0))
 
 
 def cover(days, sessions, index):
