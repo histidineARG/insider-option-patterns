@@ -1,7 +1,7 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "aa41fc612985fa324a6911b943887d2def2d327e2de7a825a7040be54ab29be6",
-  "n_rows": 444,
+  "ledger_sha256": "4718319fa4f1e4a6837586f350ebdbdcebae24ed2561e3fe1ebc8161db5464db",
+  "n_rows": 409,
   "reviews": [
     {
       "symbol": "GALT",
@@ -42,26 +42,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "CEO interview suggested additional North America automaker order; next day clarified as already-disclosed. Commercial-order chatter, not keep 2/3/4.",
       "locator": "https://moneymorning.com/2014/03/26/plug-power-nasdaq-plug-stock-tumbling-today-49-leap"
-    },
-    {
-      "symbol": "NGL",
-      "qdate": "2016-01-08",
-      "close_return": 0.456,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Sold TransMontaigne GP/IDRs to ArcLight for $350M cash. Asset/GP sale by NGL, not keep 2/3/4 takeout of NGL.",
-      "locator": "https://www.sec.gov/Archives/edgar/data/1504461/000110465916089165/a16-1613_1ex99d1.htm"
-    },
-    {
-      "symbol": "CRC",
-      "qdate": "2016-11-30",
-      "close_return": 0.444,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "OPEC agreed ~1.2M bpd production cut; oil/E&P sector rally. Commodity/macro move, not keep 2/3/4.",
-      "locator": "https://valley.labusinessjournal.com/technology/energy/california-resources-rises-44-percent-opec-news/"
     },
     {
       "symbol": "GOL",
@@ -114,16 +94,6 @@
       "locator": "https://www.genomeweb.com/clinical-genomics/cms-finalizes-ncd-exacts-cologuard-issues-preliminary-pricing-line-company-propo"
     },
     {
-      "symbol": "VISN",
-      "qdate": "2015-07-09",
-      "close_return": 0.35,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Broad China/ADR rebound after A-share rescue measures (Shanghai +~6%). Macro/sector bounce, not keep 2/3/4.",
-      "locator": "https://www.marketwatch.com/story/china-gains-gather-pace-2015-07-09"
-    },
-    {
       "symbol": "BTU",
       "qdate": "2015-10-06",
       "close_return": 0.344,
@@ -142,36 +112,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Heavily shorted ITT Educational bounce tied to Cerberus $100M term-loan liquidity relief. Financing/short-squeeze, not keep 2/3/4.",
       "locator": "https://www.pleaseactaccordingly.com/the-library/ESI"
-    },
-    {
-      "symbol": "LXU",
-      "qdate": "2016-05-12",
-      "close_return": 0.343,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "LSB selling Climate Control Business to NIBE for $364M cash to cut debt. Divisional asset sale, not takeout of LXU under keep-2.",
-      "locator": "https://investors.lsbindustries.com/news-releases/news-release-details/lsb-industries-inc-sell-climate-control-business-nibe-industrier"
-    },
-    {
-      "symbol": "SCTY",
-      "qdate": "2015-12-16",
-      "close_return": 0.341,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Congress agreed to extend solar investment tax credit; broad solar-sector rally. Policy/tax subsidy, not keep 2/3/4.",
-      "locator": "https://www.marketwatch.com/story/solarcity-stars-in-scorching-solar-sector-as-tax-break-saved-2015-12-16"
-    },
-    {
-      "symbol": "EXAS",
-      "qdate": "2016-06-14",
-      "close_return": 0.334,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Leaked/early USPSTF final colorectal screening guidelines including Cologuard (JAMA). Guideline/coverage catalyst, not trial/M&A/tech under keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/2016/06/14/why-exact-sciences-stock-is-soaring-265-today.aspx"
     },
     {
       "symbol": "ASYS",
@@ -214,36 +154,6 @@
       "locator": "https://www.reuters.com/article/idUSKCN0PR1WA20150717/"
     },
     {
-      "symbol": "ESI",
-      "qdate": "2013-04-25",
-      "close_return": 0.3046,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "ITT Educational Q1 earnings beat (EPS/revenue vs consensus) with softer new-student enrollment decline; earnings reaction. Note cik2symbol may not match historical ITT Educational CIK.",
-      "locator": "https://www.fool.com/investing/general/2013/04/25/why-itt-education-shares-popped.aspx"
-    },
-    {
-      "symbol": "ADXS",
-      "qdate": "2014-12-22",
-      "close_return": 0.303,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Closed ~$16.7M registered direct financing (~3.9M shares at $4.25) led by Adage (~19% stake) with T. Rowe; financing/stake build, not keep 2/3/4.",
-      "locator": "https://www.biospace.com/advaxis-inc-completes-17-million-financing"
-    },
-    {
-      "symbol": "BLDP",
-      "qdate": "2014-03-10",
-      "close_return": 0.303,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Fuel-cell peer rally spillover after Plug Power Walmart GenDrive momentum; no Ballard-specific M&A/trial/breakthrough same session. Sector momentum, not keep 2/3/4.",
-      "locator": "https://www.cantechletter.com/2014/03/ballard-power-hydrogenics-bring-canadian-content-fuel-cell-stock-rally/"
-    },
-    {
       "symbol": "GDP",
       "qdate": "2014-04-14",
       "close_return": 0.3022,
@@ -284,26 +194,6 @@
       "locator": "https://warriortradingnews.com/2015/06/24/energous-watt-stock-finally-pulling-the-plug/"
     },
     {
-      "symbol": "CDZI",
-      "qdate": "2014-05-05",
-      "close_return": 0.2945,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Orange County Superior Court denied CEQA petitions challenging Cadiz Valley Water Project approvals. Litigation/permitting win, not keep 2/3/4.",
-      "locator": "https://cadizinc.com/news-controversial-pipeline-project-in-the-mojave-desert-surges-forward/"
-    },
-    {
-      "symbol": "ANGI",
-      "qdate": "2013-04-25",
-      "close_return": 0.2889,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Angie's List Q1 earnings beat/strong membership growth and upbeat Q2 outlook. Earnings. Note cik2symbol may not match historical Angie's List CIK.",
-      "locator": "https://www.investors.com/news/technology/angies-list-guidance-beats-wall-street-expectations/"
-    },
-    {
       "symbol": "GOL",
       "qdate": "2016-05-04",
       "close_return": 0.2869,
@@ -334,16 +224,6 @@
       "locator": "https://www.cnbc.com/2015/10/06/european-markets.html"
     },
     {
-      "symbol": "EYES",
-      "qdate": "2016-02-23",
-      "close_return": 0.2836,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Second Sight Argus II featured in upcoming HBO VICE 'Beating Blindness' episode; media attention. Not keep 2/3/4.",
-      "locator": "https://valley.labusinessjournal.com/healthcare/biotechnology/second-sight-shares-rise-pending-hbo-appearance/"
-    },
-    {
       "symbol": "GLF",
       "qdate": "2016-03-07",
       "close_return": 0.2812,
@@ -352,26 +232,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Offshore OSV name in oil/commodity rally as Brent/WTI jumped ~5.5%. Commodity/sector, not keep 2/3/4.",
       "locator": "https://www.reuters.com/article/global-markets/global-markets-brent-hits-2016-peak-above-40-u-s-stocks-dip-idUKL1N16F1IJ/"
-    },
-    {
-      "symbol": "SRPT",
-      "qdate": "2015-11-20",
-      "close_return": 0.2796,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "FDA briefing docs critical of rival BioMarin drisapersen ahead of AdCom; competitive/regulatory for peer, not Sarepta own trial keep.",
-      "locator": "https://www.fool.com/investing/general/2015/11/20/why-sarepta-therapeutics-inc-is-soaring-today.aspx"
-    },
-    {
-      "symbol": "EGRX",
-      "qdate": "2016-06-10",
-      "close_return": 0.278,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Delaware court upheld Teva/Cephalon Treanda bendamustine patent claims aiding Bendeka franchise. Partner patent litigation, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/2016/06/10/why-eagle-pharmaceuticals-inc-skyrocketed-29-today.aspx"
     },
     {
       "symbol": "LTRPA",
@@ -452,16 +312,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "JV sold 4,114 Kandi EVs in Q2 (+238% QoQ) plus China EV tax-waiver commentary. Sales/operational, not keep 2/3/4.",
       "locator": "https://www.newsfilecorp.com/release/10763/Kandi-Announces-its-JVs-Sale-of-4114-Kandi-Brand-EV-In-the-Second-Quarter-a-238-Increase-from-the-Previous-Quarter"
-    },
-    {
-      "symbol": "SRPT",
-      "qdate": "2016-05-25",
-      "close_return": 0.2663,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "FDA said it would not finish eteplirsen NDA review by May 26 PDUFA; delay speculation, not approval/trial readout keep.",
-      "locator": "https://www.businesswire.com/news/home/20160525005442/en/Sarepta-Therapeutics-Announces-FDA-Complete-Review-Eteplirsen"
     },
     {
       "symbol": "ADXS",
@@ -574,16 +424,6 @@
       "locator": "https://www.foxbusiness.com/markets/why-radius-health-inc-is-screaming-higher-today"
     },
     {
-      "symbol": "LTRPA",
-      "qdate": "2015-02-12",
-      "close_return": 0.2541,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Liberty TripAdvisor tracked TripAdvisor Q4 beat and high-20s 2015 revenue guide. Earnings, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2015/02/12/why-tripadvisor-inc-stock-skyrocketed-today.aspx"
-    },
-    {
       "symbol": "SRNE",
       "qdate": "2015-12-22",
       "close_return": 0.2535,
@@ -602,16 +442,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day company keep catalyst (Clarient deal came Oct 2015); heavy-volume unclassified move. Not keep 2/3/4.",
       "locator": "https://www.wsnewspublishers.com/pre-market-news-report-on-sysco-nysesyy-target-nysetgt-neogenomics-nasdaqneo-stmicroelectronics-nv-nysestm/1516107/"
-    },
-    {
-      "symbol": "ATHN",
-      "qdate": "2014-02-07",
-      "close_return": 0.2506,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q4 earnings beat: non-GAAP EPS $0.57 vs ~$0.44–0.45, revenue +48% to $171.6M. Earnings, not keep 2/3/4.",
-      "locator": "https://www.investors.com/news/technology/athn-earnings-beat-estimates-stock-jumps/"
     },
     {
       "symbol": "DQ",
@@ -674,46 +504,6 @@
       "locator": "https://www-biocentury-com.proxy.lib.umich.edu/article/272678/agios-rises-in-advance-of-ag-120-presentation"
     },
     {
-      "symbol": "LL",
-      "qdate": "2015-12-15",
-      "close_return": 0.2468,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Whitney Tilson covered short after concluding management likely unaware of formaldehyde issue. Short-covering/media, not keep 2/3/4.",
-      "locator": "https://www.usatoday.com/story/money/2015/12/15/lumber-liquidators-soars-short-seller-reverses-position/77358488/"
-    },
-    {
-      "symbol": "KIRK",
-      "qdate": "2014-11-20",
-      "close_return": 0.2454,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q3 sales +10.4%, comps +6.3%, raised FY EPS guide. Earnings, not keep 2/3/4.",
-      "locator": "https://www.b2i.us/profiles/investor/ResLibraryView.asp?BzID=2097&Category=2068&GoTopage=19&ResLibraryID=73973"
-    },
-    {
-      "symbol": "PI",
-      "qdate": "2016-12-07",
-      "close_return": 0.2451,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Closed follow-on equity offering (~$38.7M net). Financing, not keep 2/3/4.",
-      "locator": "https://www.geekwire.com/2016/impinj-raises-another-39m-stock-continues-rise/"
-    },
-    {
-      "symbol": "ARWR",
-      "qdate": "2014-03-05",
-      "close_return": 0.2446,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Deutsche Bank and RBC initiated Buy/Outperform coverage on ARC-520 HBV story. Analyst initiations, not keep 2/3/4.",
-      "locator": "https://www.investors.com/news/technology/arwr-stock-soars-on-two-initiation-reports/"
-    },
-    {
       "symbol": "CONN",
       "qdate": "2015-02-05",
       "close_return": 0.2444,
@@ -722,16 +512,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Reported 4Q net sales $350.5M / January comps update. Sales/earnings, not keep 2/3/4.",
       "locator": "https://hfbusiness.com/hfbnow/ArticlePage/2138/cid/15"
-    },
-    {
-      "symbol": "TTOO",
-      "qdate": "2016-08-01",
-      "close_return": 0.2438,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q2 earnings: revenue +75% to $990k; said T2Candida cartridge invalid-result hold resolved. Earnings, not keep 2/3/4.",
-      "locator": "https://www.genomeweb.com/molecular-diagnostics/t2-biosystems-q2-revenues-impacted-recent-test-cartridge-shipment-hold"
     },
     {
       "symbol": "MSB",
@@ -774,16 +554,6 @@
       "locator": "https://qz.com/85330/goldman-sachs-makes-a-500-million-bet-on-elon-musks-solar-business"
     },
     {
-      "symbol": "GRUB",
-      "qdate": "2016-07-28",
-      "close_return": 0.2411,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q2 beat: revenue $120.2M (+37%), non-GAAP EPS $0.23. Earnings, not keep 2/3/4.",
-      "locator": "https://www.foxbusiness.com/markets/why-grubhub-stock-is-rocketing-higher-today"
-    },
-    {
       "symbol": "CVI",
       "qdate": "2016-11-09",
       "close_return": 0.2408,
@@ -792,26 +562,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Post-election refining rally on Trump RFS/RIN deregulation hopes. Policy/sector, not keep 2/3/4.",
       "locator": "https://www.fool.com/investing/2016/11/09/trumps-win-fuels-a-massive-rally-in-refining-stock.aspx"
-    },
-    {
-      "symbol": "ATHN",
-      "qdate": "2013-10-18",
-      "close_return": 0.2404,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q3 results: revenue +43% to $151.5M; held FY EPS guide. Earnings, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2013/10/18/why-athenahealth-inc-shares-skyrocketed.aspx"
-    },
-    {
-      "symbol": "MBI",
-      "qdate": "2013-03-04",
-      "close_return": 0.2396,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "NY court dismissed BofA/SocGen suit challenging 2009 restructuring. Litigation win, not keep 2/3/4.",
-      "locator": "https://www.reuters.com/article/breakingviews/mbia-wins-end-to-banks-lawsuit-over-restructuring-idUSBRE9230YV/"
     },
     {
       "symbol": "OSUR",
@@ -832,26 +582,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "First design win / license with undisclosed Tier-One South Korea consumer-electronics OEM. Partnership/design-win, not keep 2/3/4.",
       "locator": "https://www.fool.com/investing/general/2013/09/05/why-neonode-shares-popped.aspx"
-    },
-    {
-      "symbol": "NOAH",
-      "qdate": "2013-08-09",
-      "close_return": 0.2385,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Oppenheimer upgrade to Outperform/$18 plus raised 2013 profit guide. Analyst/guidance, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2013/08/09/why-noah-holdings-shares-soared.aspx"
-    },
-    {
-      "symbol": "ANGI",
-      "qdate": "2013-02-14",
-      "close_return": 0.2379,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q4 surprise profit/revenue beat and Q1 guide raise. Earnings, not keep 2/3/4.",
-      "locator": "https://www.forbes.com/sites/ericsavitz/2013/02/13/angies-list-soars-as-q4-results-top-street-views/"
     },
     {
       "symbol": "EXPR",
@@ -954,16 +684,6 @@
       "locator": "https://www.foxbusiness.com/markets/opec-and-easing-credit-concerns-fuel-a-big-energy-stock-rally-this-week-chk-swn-sm-felp-pkd"
     },
     {
-      "symbol": "KNDI",
-      "qdate": "2014-03-17",
-      "close_return": 0.2333,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q4 results: revenue +92%, EV sales +194%, adj. profit +259%. Earnings, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2014/03/17/dow-jumps-alongside-irobot-and-kandi-technologies.aspx"
-    },
-    {
       "symbol": "GLF",
       "qdate": "2015-11-30",
       "close_return": 0.2324,
@@ -984,16 +704,6 @@
       "locator": "https://www.fool.com/investing/general/2013/10/11/why-solarcity-shares-soared.aspx"
     },
     {
-      "symbol": "BIG",
-      "qdate": "2014-03-07",
-      "close_return": 0.2297,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q4 earnings beat plus $125M buyback. Earnings/financing, not keep 2/3/4.",
-      "locator": "https://www.investors.com/news/big-lots-shares-rise-on-earnings-amid-turnaround/"
-    },
-    {
       "symbol": "SJT",
       "qdate": "2016-01-29",
       "close_return": 0.2292,
@@ -1012,16 +722,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "OPEC production-cut agreement day / oil rally. Commodity/policy, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/CLR?date=2016-11-30&view=daily"
-    },
-    {
-      "symbol": "ATHN",
-      "qdate": "2016-12-15",
-      "close_return": 0.2283,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Investor Day: strong 2017 guidance and bookings outlook. Guidance/earnings, not keep 2/3/4.",
-      "locator": "https://app.hedgeye.com/insights/56040-athenahealth-why-it-s-up-20-today-and-why-40-upside-may-remain"
     },
     {
       "symbol": "BCPC",
@@ -1084,16 +784,6 @@
       "locator": "https://exa.ai/library/markets/stock/NE?date=2016-03-04&view=daily"
     },
     {
-      "symbol": "TRNX",
-      "qdate": "2013-08-07",
-      "close_return": 0.2253,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Q2 results plus in-line FY guidance. Earnings, not keep 2/3/4.",
-      "locator": "https://www.fool.com/investing/general/2013/08/07/why-tornier-nv-shares-soared.aspx"
-    },
-    {
       "symbol": "CZR",
       "qdate": "2015-07-21",
       "close_return": 0.2244,
@@ -1102,16 +792,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "Reports CEOC bankruptcy restructuring talks with lenders restarted. Financing/restructuring, not keep 2/3/4.",
       "locator": "https://www.reviewjournal.com/business/casinos-gaming/caesars-shares-rise-as-other-gaming-stocks-slip/"
-    },
-    {
-      "symbol": "AMED",
-      "qdate": "2013-08-09",
-      "close_return": 0.2244,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "KKR disclosed 8.5% stake and possible talks with management. Activist stake, not confirmed M&A keep.",
-      "locator": "https://www.wsj.com/articles/DJFLBO0020130809e989fyo6o"
     },
     {
       "symbol": "GOL",
@@ -1814,16 +1494,6 @@
       "locator": "https://exa.ai/library/markets/stock/NEOG?date=2015-07-21&view=daily"
     },
     {
-      "symbol": "FSLR",
-      "qdate": "2014-03-19",
-      "close_return": 0.2057,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Analyst Day 2014–16 guidance raise. Guidance/earnings, not keep 2/3/4.",
-      "locator": "https://www.prnewswire.com/news-releases/full-year-guidance-supply-agreements-upcoming-events-solar-powered-homes-and-arbitration-settlements---analyst-notes-on-first-solar-gt-canadian-solar-sunpower-and-trina-solar-252426021.html"
-    },
-    {
       "symbol": "TBPH",
       "qdate": "2014-06-03",
       "close_return": 0.2056,
@@ -2022,16 +1692,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "MacroGenics jumped with broad post-election biotech rally. Macro/sector, not company keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/MGNX?date=2016-11-09&view=daily"
-    },
-    {
-      "symbol": "TRIB",
-      "qdate": "2015-10-22",
-      "close_return": 0.2011,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Trinity Biotech Q3 financial results release. Earnings, not keep 2/3/4.",
-      "locator": "https://www.globenewswire.com/fr/news-release/2015/10/22/779115/8624/en/trinity-biotech-announces-quarter-3-financial-results.html"
     },
     {
       "symbol": "PERI",
@@ -2622,16 +2282,6 @@
       "news_filter": "drop_other_not_234",
       "detail": "No confirmed same-day keep PR for China Automotive Systems. Unclassified, not keep 2/3/4.",
       "locator": "https://exa.ai/library/markets/stock/CAAS?date=2013-11-13&view=daily"
-    },
-    {
-      "symbol": "EBS",
-      "qdate": "2016-12-09",
-      "close_return": 0.1892,
-      "jump_cause": null,
-      "cause_class": "unclassified_other",
-      "news_filter": "drop_other_not_234",
-      "detail": "Emergent BARDA NuThrax contract award (govt procurement/funding). Contract/financing, not keep 2/3/4.",
-      "locator": "https://www.rttnews.com/2698344/depo-wins-patent-suit-ebs-surges-on-barda-funding-regn-s-eylea-combo-fails.aspx"
     },
     {
       "symbol": "RVNC",

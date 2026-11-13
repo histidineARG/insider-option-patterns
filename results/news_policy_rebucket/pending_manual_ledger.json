@@ -1,7 +1,7 @@
 {
   "scope": "681-row manual review ledger only; not a complete population pending queue",
-  "ledger_sha256": "aa41fc612985fa324a6911b943887d2def2d327e2de7a825a7040be54ab29be6",
-  "n_rows": 10,
+  "ledger_sha256": "4718319fa4f1e4a6837586f350ebdbdcebae24ed2561e3fe1ebc8161db5464db",
+  "n_rows": 18,
   "reviews": [
     {
       "symbol": "SPWR",
@@ -24,6 +24,32 @@
           "locator": "https://www.reuters.com/article/business/sunpower-inks-25-billion-deal-with-buffett-utility-idUSBRE9010M1/"
         },
         "decision": "pending_news_review"
+      }
+    },
+    {
+      "symbol": "NGL",
+      "qdate": "2016-01-08",
+      "close_return": 0.456,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "January 8 release announces sale of TransMontaigne GP/IDRs, retained terminal relationships and improved liquidity. This is not a takeout of NGL. Attribution between divestiture, ongoing commercial arrangements and outlook is mixed; defer class 6/11 eligibility rather than stretch the acquirer exception. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1504461/000110465916089165/a16-1613_1ex99d1.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch07_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Sold TransMontaigne GP/IDRs to ArcLight for $350M cash. Asset/GP sale by NGL, not keep 2/3/4 takeout of NGL.",
+          "locator": "https://www.sec.gov/Archives/edgar/data/1504461/000110465916089165/a16-1613_1ex99d1.htm"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1504461/000110465916089165/a16-1613_1ex99d1.htm"
+        ]
       }
     },
     {
@@ -80,6 +106,110 @@
       }
     },
     {
+      "symbol": "LXU",
+      "qdate": "2016-05-12",
+      "close_return": 0.343,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "May 12 issuer release announces Climate Control divestiture to NIBE and debt reduction. This is a sale of a division rather than acquisition of LXU; class 11 strategic-alternatives eligibility versus ordinary divestiture remains unresolved. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://investors.lsbindustries.com/news-releases/news-release-details/lsb-industries-inc-sell-climate-control-business-nibe-industrier",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch07_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "LSB selling Climate Control Business to NIBE for $364M cash to cut debt. Divisional asset sale, not takeout of LXU under keep-2.",
+          "locator": "https://investors.lsbindustries.com/news-releases/news-release-details/lsb-industries-inc-sell-climate-control-business-nibe-industrier"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://investors.lsbindustries.com/news-releases/news-release-details/lsb-industries-inc-sell-climate-control-business-nibe-industrier"
+        ]
+      }
+    },
+    {
+      "symbol": "EXAS",
+      "qdate": "2016-06-14",
+      "close_return": 0.334,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Located market account concerns final colorectal screening recommendations for an already-approved test. Do not equate guideline inclusion with a new FDA approval. Independent timing of early guideline publication and eligibility as an equivalent regulatory/commercial decision need review. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.fool.com/investing/2016/06/14/why-exact-sciences-stock-is-soaring-265-today.aspx",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch07_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Leaked/early USPSTF final colorectal screening guidelines including Cologuard (JAMA). Guideline/coverage catalyst, not trial/M&A/tech under keep 2/3/4.",
+          "locator": "https://www.fool.com/investing/2016/06/14/why-exact-sciences-stock-is-soaring-265-today.aspx"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.fool.com/investing/2016/06/14/why-exact-sciences-stock-is-soaring-265-today.aspx"
+        ]
+      }
+    },
+    {
+      "symbol": "ADXS",
+      "qdate": "2014-12-22",
+      "close_return": 0.303,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Syndicated issuer release is internally dated December 19 although the hosting page is December 22. It reports signed purchase agreements, not necessarily closing that session. Financing category is plausible, but correct publication/reaction timing and any separate December 22 catalyst remain unresolved. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.biospace.com/advaxis-inc-completes-17-million-financing",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch07_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Closed ~$16.7M registered direct financing (~3.9M shares at $4.25) led by Adage (~19% stake) with T. Rowe; financing/stake build, not keep 2/3/4.",
+          "locator": "https://www.biospace.com/advaxis-inc-completes-17-million-financing"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.biospace.com/advaxis-inc-completes-17-million-financing"
+        ]
+      }
+    },
+    {
+      "symbol": "CDZI",
+      "qdate": "2014-05-05",
+      "close_return": 0.2945,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Issuer quarterly filing says court denied six project petitions on May 1. A favorable legal ruling could fit class 9, but this source does not establish first public dissemination or a fresh May 5 catalyst. Defer session alignment. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/727273/000072727314000007/form10q_mar2014.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch07_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Orange County Superior Court denied CEQA petitions challenging Cadiz Valley Water Project approvals. Litigation/permitting win, not keep 2/3/4.",
+          "locator": "https://cadizinc.com/news-controversial-pipeline-project-in-the-mojave-desert-surges-forward/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/727273/000072727314000007/form10q_mar2014.htm"
+        ]
+      }
+    },
+    {
       "symbol": "ANAC",
       "qdate": "2013-10-18",
       "close_return": 0.2841,
@@ -103,6 +233,32 @@
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/1411158/000110465913076447/a13-22520_18k.htm",
           "https://ir.bauschhealth.com/tools/viewpdf.aspx?page=%7B4ABF1761-2C9E-4CF0-9E98-846F8B34CC59%7D"
+        ]
+      }
+    },
+    {
+      "symbol": "EYES",
+      "qdate": "2016-02-23",
+      "close_return": 0.2836,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Located HBO publicity article is dated February 22 and describes a closed-session rally that day, while this ledger row is February 23. Publicity is not itself new product commercialization; defer both session attribution and any independent qualifying catalyst. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://valley.labusinessjournal.com/healthcare/biotechnology/second-sight-shares-rise-pending-hbo-appearance/",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch07_15",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Second Sight Argus II featured in upcoming HBO VICE 'Beating Blindness' episode; media attention. Not keep 2/3/4.",
+          "locator": "https://valley.labusinessjournal.com/healthcare/biotechnology/second-sight-shares-rise-pending-hbo-appearance/"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://valley.labusinessjournal.com/healthcare/biotechnology/second-sight-shares-rise-pending-hbo-appearance/"
         ]
       }
     },
@@ -261,6 +417,61 @@
         "decision": "defer",
         "sources": [
           "https://www.sec.gov/Archives/edgar/data/77877/000119312514438892/d835521dex991.htm"
+        ]
+      }
+    },
+    {
+      "symbol": "AMED",
+      "qdate": "2013-08-09",
+      "close_return": 0.2244,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "KKR Schedule 13D supports an ownership position and potential discussions with management, so class 11 merits consideration. Filing agreement is dated August 8; exact public filing time and August 9 reaction alignment require verification before keep. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/896262/000110465913061771/a13-18260_1sc13d.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch05_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "KKR disclosed 8.5% stake and possible talks with management. Activist stake, not confirmed M&A keep.",
+          "locator": "https://www.wsj.com/articles/DJFLBO0020130809e989fyo6o"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/896262/000110465913061771/a13-18260_1sc13d.htm",
+          "https://www.penews.com/articles/private-equity-kkr-amedisys-20130812"
+        ]
+      }
+    },
+    {
+      "symbol": "EBS",
+      "qdate": "2016-12-09",
+      "close_return": 0.1892,
+      "jump_cause": null,
+      "cause_class": "unclassified",
+      "news_filter": "pending_news_review",
+      "detail": "Primary release corrects prior catalyst description: December 8 event is a CDC BioThrax supply contract up to $911 million and BARDA sole-source notice, plus an outlook update. The NuThrax BARDA award was September 30. Class 5 is plausible but exact December 8 public-release time and December 9 reaction alignment remain unresolved. Policy reassessment only; no first-public completeness or training-readiness certification.",
+      "locator": "https://www.sec.gov/Archives/edgar/data/1367644/000136764416000084/exhibit99.htm",
+      "policy_review": {
+        "reviewed_on": "2026-11-12",
+        "policy": "keep_2_through_11",
+        "batch": "autonomous_batch05_10",
+        "previous": {
+          "jump_cause": null,
+          "cause_class": "unclassified_other",
+          "news_filter": "drop_other_not_234",
+          "detail": "Emergent BARDA NuThrax contract award (govt procurement/funding). Contract/financing, not keep 2/3/4.",
+          "locator": "https://www.rttnews.com/2698344/depo-wins-patent-suit-ebs-surges-on-barda-funding-regn-s-eylea-combo-fails.aspx"
+        },
+        "decision": "defer",
+        "sources": [
+          "https://www.sec.gov/Archives/edgar/data/1367644/000136764416000084/exhibit99.htm",
+          "https://www.sec.gov/Archives/edgar/data/1367644/000136764416000084/form8kearningsq3q2016.htm",
+          "https://investors.emergentbiosolutions.com/news/news-details/2016/Emergent-BioSolutions-Awarded-BARDA-Contract-for-Advanced-Development-and-Delivery-of-NuThrax-a-Next-Generation-Anthrax-Vaccine-Valued-at-Up-to-1-6-Billion-09-30-2016/default.aspx"
         ]
       }
     }

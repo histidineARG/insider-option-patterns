@@ -98,3 +98,29 @@ Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
 - Reassessed 50 additional rows: 17 promoted, 24 confirmed drops, 9 deferred (7 timing, 2 category/primary-cause). Ledger: 198 keep, 444 legacy reassessments remaining, 10 manual pending, 29 explicit drops. Expanded-policy reviews total 76.
 - `results/news_policy_rebucket/CURRENT_STATUS.md` and `.json` summarize current counts. The adjacent legacy and pending queues are scoped to the 681-row manual ledger, not the full population. Saved population queue and database snapshots are unchanged.
 - Validation: 74 unit tests pass, unique keys and all 50 prior-label/source overlays checked, `git diff --check` passes. Continue filtering without approval prompts; preserve timing and training gates.
+
+## 2026-11-12 autonomous_batch05_10
+
+- Reviewed 10 legacy rows: {'drop': 4, 'keep': 4, 'defer': 2}.
+- Current ledger: {'keep': 202, 'drop_earnings': 24, 'drop_other_not_234': 434, 'drop_mechanical': 1, 'pending_news_review': 12, 'drop_macro_sector': 3, 'drop_analyst': 2, 'drop_financing': 2, 'drop_etf': 1}. Cumulative expanded-policy reviews: 86.
+- Audit: `results/news_policy_rebucket/autonomous_batch05_10.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch06_10
+
+- Reviewed 10 legacy rows: {'drop': 10}.
+- Current ledger: {'keep': 202, 'drop_earnings': 32, 'drop_other_not_234': 424, 'drop_mechanical': 1, 'pending_news_review': 12, 'drop_macro_sector': 3, 'drop_analyst': 3, 'drop_financing': 2, 'drop_peer_earnings': 1, 'drop_etf': 1}. Cumulative expanded-policy reviews: 96.
+- Audit: `results/news_policy_rebucket/autonomous_batch06_10.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 autonomous_batch07_15
+
+- Reviewed 15 legacy rows: {'drop': 9, 'defer': 6}.
+- Current ledger: {'keep': 202, 'drop_earnings': 32, 'drop_other_not_234': 409, 'drop_mechanical': 1, 'pending_news_review': 18, 'drop_macro_sector': 6, 'drop_analyst': 4, 'drop_financing': 3, 'drop_peer_sympathy': 2, 'drop_regulatory_process': 1, 'drop_peer_earnings': 1, 'drop_short_covering_media': 1, 'drop_etf': 1}. Cumulative expanded-policy reviews: 111.
+- Audit: `results/news_policy_rebucket/autonomous_batch07_15.md` and `.json`; prior fields retained. Saved database snapshots and queues remain stale; timing, training and evaluation gates remain in place.
+
+## 2026-11-12 extended autonomous checkpoint
+
+- This run now totals 85 reassessments: 21 promoted, 47 confirmed drops, 17 deferred (12 timing, 5 category/primary-cause). Expanded-policy reviews total 111.
+- Current 681-row ledger: 202 keep, 409 legacy reassessments remaining, 18 manual pending, 52 explicit drops. `results/news_policy_rebucket/CURRENT_STATUS.md` and `.json` supersede the earlier 50-row summary; adjacent ledger queues were regenerated with matching source checksums.
+- Corrected EBS catalyst chronology: December 8 release concerns CDC BioThrax procurement; NuThrax BARDA award was September 30. EBS December 9 remains pending for reaction timing. ADXS December 22 and EYES February 23 also have earlier-source date conflicts. Preserve prior descriptions for audit.
+- Validation: 74 unit tests pass; all 85 production overlays reproduce saved labels, preserve earnings precedence, and retain prior fields and source locators. Unique symbol/session keys and diff whitespace checks pass.
+- Remaining work: 409 legacy reviews plus 18 deferred manual rows; saved population queue remains separate and stale. Continue source-backed filtering without approval prompts. Training and evaluation gates stay blocked.
