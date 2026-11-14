@@ -1,0 +1,174 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch60_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 1,
+  "n_confirmed_drop": 1,
+  "n_deferred": 8,
+  "n_timing_deferred": 7,
+  "n_category_deferred": 1,
+  "cumulative_n_policy_reviewed": 481,
+  "review_counts": {
+    "keep": 242,
+    "drop_earnings": 84,
+    "drop_peer_sympathy": 12,
+    "pending_news_review": 230,
+    "drop_mechanical": 2,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 30,
+    "drop_analyst": 11,
+    "drop_financing": 12,
+    "drop_operating_update": 6,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2,
+    "drop_other_not_234": 39
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "JKS",
+      "qdate": "2013-07-15",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Contemporaneous coverage reports JinkoSolar, Suntech, and Canadian Solar all rose sharply as investors reacted to signs of easing panel oversupply and improving solar-sector conditions. This is a sector-wide move, not a Jinko-specific catalyst.",
+      "sources": [
+        "https://www.yahoo.com/news/sector-snap-solar-cos-171716017.html"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "ETSY",
+      "qdate": "2016-08-01",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The next-day earnings release is dated August 2, after the saved August 1 jump session. Targeted review did not establish a same-session Etsy catalyst; do not backdate the earnings report.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/ETSY?date=2016-08-01&view=daily",
+        "https://techcrunch.com/2016/08/02/etsy-shows-signs-of-life-in-q2-earnings-with-merchant-sales-hitting-669-7-million/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SC",
+      "qdate": "2016-03-31",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Santander Consumer filed an update on its delayed filings on March 23, and its overdue 2015 Form 10-K was filed April 1. Neither source establishes a positive issuer catalyst on March 31; retain pending rather than guess about reporting/timing effects.",
+      "sources": [
+        "https://investors.santanderconsumerusa.com/news/news-releases-details/2016/Santander-Consumer-USA-Holdings-Inc-Provides-Update-on-Filings/default.aspx",
+        "https://s22.q4cdn.com/451161776/files/doc_downloads/prospectus/SDART-2016-2/SDART-2016-2-Final-Prospectus.pdf"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ACAD",
+      "qdate": "2015-03-10",
+      "decision": "keep",
+      "cause_class": "2_ma_rumor",
+      "jump_cause": "ma_rumor",
+      "news_filter": "keep",
+      "rationale": "Contemporaneous March 10 coverage ties Acadia’s 18% same-session rise to speculation that a canceled investor-conference appearance signaled possible acquisition talks. This is issuer-target M&A rumor attribution under class 2; it does not establish that a deal existed.",
+      "sources": [
+        "https://www.biospace.com/acadia-stock-hits-all-time-high-as-canceled-meetings-spur-m-and-a-rumors",
+        "https://www.fiercebiotech.com/financials/acadia-s-shifting-calendar-spurs-market-moving-takeout-rumors"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "ESI",
+      "qdate": "2013-05-14",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific search did not establish an eligible Energy Solutions announcement or reliable attribution for May 14. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/ESI?date=2013-05-14&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SGMS",
+      "qdate": "2014-09-04",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not identify a qualifying Scientific Games announcement or a source attributing the September 4 rise. Keep pending rather than infer from its acquisition history.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/SGMS?date=2014-09-04&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ADXS",
+      "qdate": "2015-06-30",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The located litigation record describes April clinical and peer-IPO-related price effects, not a June 30 event. Targeted review did not establish an eligible same-session cause for June 30; retain pending.",
+      "sources": [
+        "https://www.govinfo.gov/content/pkg/USCOURTS-njd-3_15-cv-06326/pdf/USCOURTS-njd-3_15-cv-06326-0.pdf",
+        "https://exa.ai/library/markets/stock/ADXS?date=2015-06-30&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "FF",
+      "qdate": "2015-10-02",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not establish a reliable FutureFuel catalyst on October 2; the major third-quarter earnings release found in search was November 9. Keep pending rather than attribute the move to later results.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/FF?date=2015-10-02&view=daily",
+        "https://finance.yahoo.com/news/futurefuel-posts-3q-profit-230158080.html"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ICPT",
+      "qdate": "2015-01-30",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The move followed an FDA Breakthrough Therapy designation for obeticholic acid, but this designation is a regulatory status rather than an approval or clearance. Defer pending a precise policy mapping, consistent with the unresolved treatment of other breakthrough designations.",
+      "sources": [
+        "https://www.schaeffersresearch.com/content/news/2015/01/30/buzz-stocks-intercept-pharmaceuticals-inc-gilead-sciences-inc-and-the-manitowoc-company-inc"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "VISN",
+      "qdate": "2014-04-08",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "VisionChina’s later stock coverage and ticker history do not establish a reliable same-session April 8, 2014 catalyst. Keep pending; do not use the 2015 legacy ticker feed or unrelated July 2014 stories as attribution.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/VISN?date=2014-04-08&view=daily"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Unresolved source and regulatory-category cases remain pending.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

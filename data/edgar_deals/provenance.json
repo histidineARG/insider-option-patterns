@@ -1,0 +1,311 @@
+{
+  "retrieved_at": "2026-11-13",
+  "endpoint": "https://efts.sec.gov/LATEST/search-index",
+  "through": "2026-11-12",
+  "user_agent_source": "SEC_USER_AGENT or edgar_earnings_calendar.DEFAULT_SEC_USER_AGENT",
+  "forms": [
+    "DEFM14A,PREM14A",
+    "SC 14D9",
+    "SC TO-T",
+    "SC TO-I",
+    "425",
+    "8-K",
+    "8-K",
+    "8-K"
+  ],
+  "coverage": [
+    {
+      "family": "proxy",
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "expected": 401,
+      "retrieved": 401
+    },
+    {
+      "family": "proxy",
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "expected": 341,
+      "retrieved": 341
+    },
+    {
+      "family": "proxy",
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "expected": 409,
+      "retrieved": 409
+    },
+    {
+      "family": "proxy",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "expected": 379,
+      "retrieved": 379
+    },
+    {
+      "family": "proxy",
+      "start": "2026-01-01",
+      "end": "2026-11-12",
+      "expected": 366,
+      "retrieved": 366
+    },
+    {
+      "family": "sc14d9",
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "expected": 253,
+      "retrieved": 253
+    },
+    {
+      "family": "sc14d9",
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "expected": 242,
+      "retrieved": 242
+    },
+    {
+      "family": "sc14d9",
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "expected": 175,
+      "retrieved": 175
+    },
+    {
+      "family": "sc14d9",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "expected": 229,
+      "retrieved": 229
+    },
+    {
+      "family": "sc14d9",
+      "start": "2026-01-01",
+      "end": "2026-11-12",
+      "expected": 151,
+      "retrieved": 151
+    },
+    {
+      "family": "tot",
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "expected": 267,
+      "retrieved": 267
+    },
+    {
+      "family": "tot",
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "expected": 258,
+      "retrieved": 258
+    },
+    {
+      "family": "tot",
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "expected": 222,
+      "retrieved": 222
+    },
+    {
+      "family": "tot",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "expected": 273,
+      "retrieved": 273
+    },
+    {
+      "family": "tot",
+      "start": "2026-01-01",
+      "end": "2026-11-12",
+      "expected": 181,
+      "retrieved": 181
+    },
+    {
+      "family": "toi",
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "expected": 911,
+      "retrieved": 911
+    },
+    {
+      "family": "toi",
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "expected": 1069,
+      "retrieved": 1069
+    },
+    {
+      "family": "toi",
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "expected": 1309,
+      "retrieved": 1309
+    },
+    {
+      "family": "toi",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "expected": 1275,
+      "retrieved": 1275
+    },
+    {
+      "family": "toi",
+      "start": "2026-01-01",
+      "end": "2026-11-12",
+      "expected": 1222,
+      "retrieved": 1222
+    },
+    {
+      "family": "form425",
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "expected": 4441,
+      "retrieved": 4441
+    },
+    {
+      "family": "form425",
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "expected": 4635,
+      "retrieved": 4635
+    },
+    {
+      "family": "form425",
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "expected": 3150,
+      "retrieved": 3150
+    },
+    {
+      "family": "form425",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "expected": 4463,
+      "retrieved": 4463
+    },
+    {
+      "family": "form425",
+      "start": "2026-01-01",
+      "end": "2026-11-12",
+      "expected": 3952,
+      "retrieved": 3952
+    },
+    {
+      "family": "eightk_merger",
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "expected": 3580,
+      "retrieved": 3580
+    },
+    {
+      "family": "eightk_merger",
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "expected": 3493,
+      "retrieved": 3493
+    },
+    {
+      "family": "eightk_merger",
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "expected": 3297,
+      "retrieved": 3297
+    },
+    {
+      "family": "eightk_merger",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "expected": 3197,
+      "retrieved": 3197
+    },
+    {
+      "family": "eightk_merger",
+      "start": "2026-01-01",
+      "end": "2026-11-12",
+      "expected": 3078,
+      "retrieved": 3078
+    },
+    {
+      "family": "eightk_plan",
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "expected": 3118,
+      "retrieved": 3118
+    },
+    {
+      "family": "eightk_plan",
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "expected": 3075,
+      "retrieved": 3075
+    },
+    {
+      "family": "eightk_plan",
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "expected": 2824,
+      "retrieved": 2824
+    },
+    {
+      "family": "eightk_plan",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "expected": 2748,
+      "retrieved": 2748
+    },
+    {
+      "family": "eightk_plan",
+      "start": "2026-01-01",
+      "end": "2026-11-12",
+      "expected": 2605,
+      "retrieved": 2605
+    },
+    {
+      "family": "eightk_bca",
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "expected": 1694,
+      "retrieved": 1694
+    },
+    {
+      "family": "eightk_bca",
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "expected": 1773,
+      "retrieved": 1773
+    },
+    {
+      "family": "eightk_bca",
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "expected": 1328,
+      "retrieved": 1328
+    },
+    {
+      "family": "eightk_bca",
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "expected": 1247,
+      "retrieved": 1247
+    },
+    {
+      "family": "eightk_bca",
+      "start": "2026-01-01",
+      "end": "2026-11-12",
+      "expected": 1376,
+      "retrieved": 1376
+    }
+  ],
+  "deals": 18044,
+  "with_symbol": 18044,
+  "target_side_with_symbol": 2484,
+  "earnings_rows": 42026,
+  "limitations": [
+    "8-K rows are Item 1.01 filings whose text matched a merger-agreement phrase. The filer may be the buyer or the target.",
+    "SC TO-T uses the first display name as the subject company and the second as the bidder.",
+    "SC TO-I is an issuer self-tender, kept because it was requested, and marked issuer_tender.",
+            "Ticker mapping uses the EDGAR display ticker, then company_tickers.json, then the local cik2symbol snapshot. An earlier request for company_tickers.json returned 403; the copy used here was retrieved on the retry.",
+    "A display name with no ticker and no company_tickers entry stays unmapped. Private targets are expected to be unmapped.",
+    "Acceptance time comes from the submissions API. file_date_only means that stamp was missing.",
+    "Full submissions JSON stays in data/edgar_deals/submissions and is not the committed extract."
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "reviewed_on": "2026-11-12",
+  "changes": [
+    {
+      "symbol": "ERII",
+      "qdate": "2015-10-20",
+      "cause_class": "6_partnership_license",
+      "source": "https://www.sec.gov/Archives/edgar/data/1421517/000143774915018747/ex99-1.htm"
+    },
+    {
+      "symbol": "ZIOP",
+      "qdate": "2015-01-14",
+      "cause_class": "6_partnership_license",
+      "source": "https://www.sec.gov/Archives/edgar/data/1107421/000119312515009772/d851771dex991.htm"
+    },
+    {
+      "symbol": "GLNG",
+      "qdate": "2016-01-22",
+      "cause_class": "6_partnership_license",
+      "source": "https://www.sec.gov/Archives/edgar/data/1207179/000117184316007394/newsrelease.htm"
+    },
+    {
+      "symbol": "MBI",
+      "qdate": "2013-05-06",
+      "cause_class": "9_legal_unlock",
+      "source": "https://s22.q4cdn.com/567650046/files/doc_news/MBIA-Announces-Comprehensive-Settlement-with-Bank-of-America.pdf"
+    },
+    {
+      "symbol": "INFI",
+      "qdate": "2014-09-03",
+      "cause_class": "6_partnership_license",
+      "source": "https://news.abbvie.com/2014-09-03-Infinity-And-AbbVie-Announce-Global-Strategic-Collaboration-To-Develop-And-Commercialize-Duvelisib-IPI-145-In-Oncology"
+    },
+    {
+      "symbol": "ALNY",
+      "qdate": "2014-01-13",
+      "cause_class": "6_partnership_license",
+      "source": "https://www.sec.gov/Archives/edgar/data/1178670/000119312514008903/d659671dex991.htm"
+    },
+    {
+      "symbol": "NAV",
+      "qdate": "2016-09-06",
+      "cause_class": "6_partnership_license",
+      "source": "https://www.sec.gov/Archives/edgar/data/808450/000119312516701448/d242623dex991.htm"
+    },
+    {
+      "symbol": "CGEN",
+      "qdate": "2013-08-05",
+      "cause_class": "6_partnership_license",
+      "source": "https://www.sec.gov/Archives/edgar/data/1119774/000117891314002773/exhibit_10-1.htm"
+    }
+  ],
+  "review_counts": {
+    "keep": 169,
+    "drop_other_not_234": 512
+  },
+  "limitations": [
+    "Existing price and option-presence measurements were not requeried.",
+    "Exact first-public timing is not newly certified.",
+    "Database-derived snapshots await refresh; 233 pending ge15 reviews are unchanged.",
+    "Training and population/trading gates remain blocked."
+  ]
+}

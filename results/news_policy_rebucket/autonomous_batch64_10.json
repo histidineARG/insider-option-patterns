@@ -1,0 +1,156 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch64_10",
+  "n_reviewed": 9,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 0,
+  "n_deferred": 9,
+  "n_timing_deferred": 9,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 520,
+  "review_counts": {
+    "drop_analyst": 12,
+    "drop_earnings": 85,
+    "drop_etf": 2,
+    "drop_financing": 12,
+    "drop_macro_sector": 30,
+    "drop_mechanical": 2,
+    "drop_operating_update": 6,
+    "drop_passive_ownership": 2,
+    "drop_peer_earnings": 1,
+    "drop_peer_sympathy": 13,
+    "drop_regulatory_process": 4,
+    "drop_short_covering_media": 1,
+    "drop_stale_news": 1,
+    "drop_trial_anticipation": 2,
+    "keep": 246,
+    "pending_news_review": 262
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "JRJC",
+      "qdate": "2014-11-10",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not establish the cause of China Finance Online’s November 10 move. Keep pending rather than infer from the intraday rise alone.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/JRJC?date=2014-11-10&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "CALA",
+      "qdate": "2015-07-21",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific search did not establish a qualifying same-session catalyst or reliable attribution for CALA. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/CALA?date=2015-07-21&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ICAD",
+      "qdate": "2013-10-18",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific search did not establish a qualifying same-session catalyst or reliable attribution for ICAD. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/ICAD?date=2013-10-18&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "COUP",
+      "qdate": "2014-06-02",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific search did not establish a qualifying same-session catalyst or reliable attribution for COUP. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/COUP?date=2014-06-02&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ZEN",
+      "qdate": "2014-10-03",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific search did not establish a qualifying same-session catalyst or reliable attribution for ZEN. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/ZEN?date=2014-10-03&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SHLX",
+      "qdate": "2015-09-30",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific search did not establish a qualifying same-session catalyst or reliable attribution for SHLX. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/SHLX?date=2015-09-30&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "CAAS",
+      "qdate": "2016-11-28",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific search did not establish a qualifying same-session catalyst or reliable attribution for CAAS. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/CAAS?date=2016-11-28&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "CLVS",
+      "qdate": "2015-05-14",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific search did not establish a qualifying same-session catalyst or reliable attribution for CLVS. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/CLVS?date=2015-05-14&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "MBII",
+      "qdate": "2014-05-27",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific search did not establish a qualifying same-session catalyst or reliable attribution for MBII. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/MBII?date=2014-05-27&view=daily"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Unresolved date-specific attribution cases remain pending.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ],
+  "ledger_sha256": "a13a14f2c560ba32e6ae3ed1730a156007963b212059f5df9f68db0f292f88d6"
+}

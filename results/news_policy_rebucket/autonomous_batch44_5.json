@@ -1,0 +1,124 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch44_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 1,
+  "n_deferred": 4,
+  "n_timing_deferred": 1,
+  "n_category_deferred": 3,
+  "cumulative_n_policy_reviewed": 341,
+  "review_counts": {
+    "keep": 233,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 120,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 22,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 179,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 233,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 116,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 184,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "CMC",
+      "qdate": "2016-11-09",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Same-session ABC report identifies Commercial Metals rally alongside steel peers on expected trade protection and infrastructure spending after election. This supports macro/sector exclusion, not issuer regulatory approval.",
+      "sources": [
+        "https://abcnews.com/Business/stocks-sectors-embattled-obama-rally-trump-election-upset/story?id=43418106"
+      ]
+    },
+    {
+      "symbol": "RYI",
+      "qdate": "2016-11-09",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Issuer third-quarter results were November 2 with November 3 call, not November 9. Broad election/metals coverage does not establish recovered row-specific attribution; original sector explanation remains candidate only.",
+      "sources": [
+        "https://ir.ryerson.com/news/news-details/2016/Ryerson-Reports-Third-Quarter-2016-Results/default.aspx",
+        "https://republicofmining.com/2016/11/09/copper-hits-15-month-high-after-trump-wins-white-house-by-clara-denina-reuters-u-s-november-9-2016/"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "CLF",
+      "qdate": "2016-11-09",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Recovered steel analyst upgrade is November 14, after jump. Election steel rally is plausible but targeted searches did not establish direct November 9 Cliffs attribution. Do not backdate later upgrade or infer issuer cause from peers.",
+      "sources": [
+        "https://www.fool.com/investing/2016/11/14/steel-stocks-upgraded-could-trump-triple-prices-fo.aspx",
+        "https://abcnews.com/Business/stocks-sectors-embattled-obama-rally-trump-election-upset/story?id=43418106"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "AKBA",
+      "qdate": "2015-06-22",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Contemporaneous analyst roundup confirms JMP initiation at Market Outperform with $24 target; prior price was $7.99. Original Reuters locator could not be fetched and no direct jump attribution recovered. Analyst-only explanation remains candidate, not confirmed clinical catalyst or certified exclusion.",
+      "sources": [
+        "https://247wallst.com/investing/2015/06/22/top-analyst-upgrades-and-downgrades-alcoa-fireeye-metlife-micron-symantec-and-more/",
+        "https://uk.finance.yahoo.com/news/buzz-u-stocks-move-housing-162822477.html"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "CARA",
+      "qdate": "2016-11-16",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted session searches did not verify old analyst-target explanation. Recovered Wainwright initiation is October 13, not November 16; later licensing coverage cannot establish this session cause.",
+      "sources": [
+        "https://cdn6.benzinga.com/analyst-ratings/analyst-color/16/10/8558122/h-c-wainwright-is-bullish-on-cara-therapeutics-shares"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

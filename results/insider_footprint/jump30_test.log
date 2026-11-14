@@ -1,0 +1,298 @@
+prices
+prices 500/5299
+prices 1000/5299
+prices 1500/5299
+prices 2000/5299
+prices 2500/5299
+prices 3000/5299
+prices 3500/5299
+prices 4000/5299
+prices 4500/5299
+prices 5000/5299
+prices 5299/5299
+load 1d/100
+score 1d
+  hbos 1d 2018
+  hbos 1d 2019
+  hbos 1d 2020
+  hbos 1d 2021
+  hbos 1d 2022
+  hbos 1d 2023
+  hbos 1d 2024
+  hbos 1d 2025
+  hbos 1d 2025
+  iforest 1d 2018
+  iforest 1d 2019
+  iforest 1d 2020
+  iforest 1d 2021
+  iforest 1d 2022
+  iforest 1d 2023
+  iforest 1d 2024
+  iforest 1d 2025
+  iforest 1d 2025
+  model logistic 2018
+  model logistic 2019
+  model logistic 2020
+  model logistic 2021
+  model logistic 2022
+  model logistic 2023
+  model logistic 2024
+  model logistic 2025
+  model logistic holdout
+  model boost 2018
+  model boost 2019
+  model boost 2020
+  model boost 2021
+  model boost 2022
+  model boost 2023
+  model boost 2024
+  model boost 2025
+  model boost holdout
+load 3d/100
+score 3d
+  hbos 3d 2018
+  hbos 3d 2019
+  hbos 3d 2020
+  hbos 3d 2021
+  hbos 3d 2022
+  hbos 3d 2023
+  hbos 3d 2024
+  hbos 3d 2025
+  hbos 3d 2025
+  iforest 3d 2018
+  iforest 3d 2019
+  iforest 3d 2020
+  iforest 3d 2021
+  iforest 3d 2022
+  iforest 3d 2023
+  iforest 3d 2024
+  iforest 3d 2025
+  iforest 3d 2025
+load 5d/100
+score 5d
+  hbos 5d 2018
+  hbos 5d 2019
+  hbos 5d 2020
+  hbos 5d 2021
+  hbos 5d 2022
+  hbos 5d 2023
+  hbos 5d 2024
+  hbos 5d 2025
+  hbos 5d 2025
+  iforest 5d 2018
+  iforest 5d 2019
+  iforest 5d 2020
+  iforest 5d 2021
+  iforest 5d 2022
+  iforest 5d 2023
+  iforest 5d 2024
+  iforest 5d 2025
+  iforest 5d 2025
+trade rows 472874
+calls 60521
+# +30% events and a timed stock hold
+
+A +30% event is a forward high, or a close, at least 30% above the signal close within 5, 10, 20, or 40 sessions. An earnings reaction inside that window blanks the event. The trade is separate: buy the next open and sell the close after 5, 10, 20, or 40 of the name's sessions. There is no stop and no target. The cost is 10 bps round trip. The hold with the highest deduped walk-forward mean is the one whose holdout is read.
+
+Market cap is not usable: the cap table has 28 rows and no current names.
+
+## Base rate in the filtered universe
+
+| Kind | Horizon | Sample | N | Rate |
+| --- | ---: | --- | ---: | ---: |
+| high | 5 | walk | 3426487 | 0.007 |
+| high | 5 | holdout | 460070 | 0.012 |
+| close | 5 | walk | 3426487 | 0.003 |
+| close | 5 | holdout | 460070 | 0.006 |
+| high | 10 | walk | 3250568 | 0.018 |
+| high | 10 | holdout | 439059 | 0.029 |
+| close | 10 | walk | 3250568 | 0.008 |
+| close | 10 | holdout | 439059 | 0.014 |
+| high | 20 | walk | 2902709 | 0.046 |
+| high | 20 | holdout | 398561 | 0.073 |
+| close | 20 | walk | 2902709 | 0.021 |
+| close | 20 | holdout | 398561 | 0.034 |
+| high | 40 | walk | 2233471 | 0.102 |
+| high | 40 | holdout | 320380 | 0.157 |
+| close | 40 | walk | 2233471 | 0.048 |
+| close | 40 | holdout | 320380 | 0.074 |
+
+## Lift for a 20-session high of at least 30%
+
+| Method | Window | Tail | Sample | Lift | Conditional | Base | N | Interval |
+| --- | ---: | --- | --- | ---: | ---: | ---: | ---: | --- |
+| hbos | 1 | 1% | walk | 2.850 | 0.131 | 0.046 | 37511 | 2.69 to 3.02 |
+| hbos | 1 | 1% | holdout | 2.494 | 0.182 | 0.073 | 3832 | 2.17 to 2.82 |
+| hbos | 1 | 0.5% | walk | 2.972 | 0.136 | 0.046 | 19742 | n/a |
+| hbos | 1 | 0.5% | holdout | 2.601 | 0.190 | 0.073 | 1803 | n/a |
+| hbos | 1 | 0.1% | walk | 2.994 | 0.137 | 0.046 | 5229 | 2.67 to 3.33 |
+| hbos | 1 | 0.1% | holdout | 2.746 | 0.201 | 0.073 | 244 | 1.93 to 3.73 |
+| iforest | 1 | 1% | walk | 2.474 | 0.113 | 0.046 | 32815 | 2.34 to 2.63 |
+| iforest | 1 | 1% | holdout | 1.697 | 0.124 | 0.073 | 3705 | 1.48 to 1.94 |
+| iforest | 1 | 0.5% | walk | 2.780 | 0.127 | 0.046 | 16862 | n/a |
+| iforest | 1 | 0.5% | holdout | 2.001 | 0.146 | 0.073 | 1688 | n/a |
+| iforest | 1 | 0.1% | walk | 3.567 | 0.163 | 0.046 | 3961 | 3.12 to 3.96 |
+| iforest | 1 | 0.1% | holdout | 2.272 | 0.166 | 0.073 | 331 | 1.60 to 2.97 |
+| hbos | 3 | 1% | walk | 2.846 | 0.130 | 0.046 | 37674 | 2.67 to 3.04 |
+| hbos | 3 | 1% | holdout | 2.361 | 0.173 | 0.073 | 3840 | 2.04 to 2.74 |
+| hbos | 3 | 0.5% | walk | 3.063 | 0.140 | 0.046 | 19525 | n/a |
+| hbos | 3 | 0.5% | holdout | 2.611 | 0.191 | 0.073 | 1747 | n/a |
+| hbos | 3 | 0.1% | walk | 3.122 | 0.143 | 0.046 | 4053 | 2.73 to 3.58 |
+| hbos | 3 | 0.1% | holdout | 2.750 | 0.201 | 0.073 | 442 | 1.96 to 3.56 |
+| iforest | 3 | 1% | walk | 2.452 | 0.112 | 0.046 | 32605 | 2.27 to 2.63 |
+| iforest | 3 | 1% | holdout | 1.730 | 0.127 | 0.073 | 4192 | 1.46 to 1.99 |
+| iforest | 3 | 0.5% | walk | 2.916 | 0.134 | 0.046 | 16610 | n/a |
+| iforest | 3 | 0.5% | holdout | 1.885 | 0.138 | 0.073 | 2000 | n/a |
+| iforest | 3 | 0.1% | walk | 3.956 | 0.181 | 0.046 | 3850 | 3.46 to 4.51 |
+| iforest | 3 | 0.1% | holdout | 2.244 | 0.164 | 0.073 | 286 | 1.58 to 3.08 |
+| hbos | 5 | 1% | walk | 2.893 | 0.133 | 0.046 | 35926 | 2.70 to 3.10 |
+| hbos | 5 | 1% | holdout | 2.486 | 0.182 | 0.073 | 3978 | 2.12 to 2.92 |
+| hbos | 5 | 0.5% | walk | 3.205 | 0.147 | 0.046 | 19317 | n/a |
+| hbos | 5 | 0.5% | holdout | 2.577 | 0.189 | 0.073 | 2022 | n/a |
+| hbos | 5 | 0.1% | walk | 3.589 | 0.164 | 0.046 | 4560 | 3.12 to 4.08 |
+| hbos | 5 | 0.1% | holdout | 2.973 | 0.218 | 0.073 | 500 | 2.19 to 3.96 |
+| iforest | 5 | 1% | walk | 2.519 | 0.115 | 0.046 | 31273 | 2.32 to 2.69 |
+| iforest | 5 | 1% | holdout | 1.788 | 0.131 | 0.073 | 4379 | 1.50 to 2.07 |
+| iforest | 5 | 0.5% | walk | 3.002 | 0.138 | 0.046 | 16319 | n/a |
+| iforest | 5 | 0.5% | holdout | 2.202 | 0.161 | 0.073 | 2081 | n/a |
+| iforest | 5 | 0.1% | walk | 4.171 | 0.191 | 0.046 | 4012 | 3.63 to 4.75 |
+| iforest | 5 | 0.1% | holdout | 2.079 | 0.152 | 0.073 | 479 | 1.35 to 2.79 |
+
+## Features higher before a 20-session +30% high
+
+- persist_mean: event 0.844, other names 0.398
+- persist_max: event 0.844, other names 0.398
+- vol_put_otm_d45: event 1.478, other names 1.134
+- vol_call_atm_d45: event 1.453, other names 1.119
+- vol_call_dotm_d07: event 1.498, other names 1.168
+- vol_put_dotm_d45: event 1.501, other names 1.180
+- vol_put_otm_d21: event 1.474, other names 1.163
+- vol_call_atm_d21: event 1.467, other names 1.157
+
+## Sector, HBOS top 1%, 20-session high
+
+- Utilities: top-1% rate 0.088 versus base 0.011, lift 7.923, n 260
+- Financial: top-1% rate 0.082 versus base 0.020, lift 4.211, n 2264
+- Conglomerates: top-1% rate 0.190 versus base 0.048, lift 3.928, n 84
+- Industrial Goods: top-1% rate 0.081 versus base 0.026, lift 3.136, n 1291
+- Services: top-1% rate 0.110 versus base 0.037, lift 2.958, n 5659
+- unknown: top-1% rate 0.174 versus base 0.062, lift 2.816, n 13650
+- Technology: top-1% rate 0.112 versus base 0.041, lift 2.732, n 6521
+- Basic Materials: top-1% rate 0.098 versus base 0.036, lift 2.722, n 1923
+
+## Classifier precision on the 20-session +30% high
+
+| Model | Rule | Sample | Precision | Base | Lift | N |
+| --- | --- | --- | ---: | ---: | ---: | ---: |
+| logistic | top4 | walk | 0.115 | 0.046 | 2.513 | 7888 |
+| logistic | 0.5% | walk | 0.105 | 0.046 | 2.299 | 15224 |
+| logistic | 0.1% | walk | 0.139 | 0.046 | 3.033 | 3045 |
+| logistic | top4 | holdout | 0.142 | 0.073 | 1.944 | 872 |
+| logistic | 0.5% | holdout | 0.127 | 0.073 | 1.738 | 2037 |
+| logistic | 0.1% | holdout | 0.135 | 0.073 | 1.843 | 408 |
+| boost | top4 | walk | 0.308 | 0.046 | 6.732 | 7888 |
+| boost | 0.5% | walk | 0.320 | 0.046 | 6.977 | 15224 |
+| boost | 0.1% | walk | 0.363 | 0.046 | 7.916 | 3045 |
+| boost | top4 | holdout | 0.364 | 0.073 | 4.970 | 872 |
+| boost | 0.5% | holdout | 0.382 | 0.073 | 5.229 | 2037 |
+| boost | 0.1% | holdout | 0.387 | 0.073 | 5.295 | 408 |
+
+## Timed stock hold, deduped
+
+| Signal | Hold | Sample | N | Mean | Median | P10 | P90 | At least +30% | At or below -20% | Win | Random mean |
+| --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| boost 1d p05 | 10 | walk | 3905 | 0.014 | -0.012 | -0.255 | 0.267 | 0.084 | 0.152 | 0.471 | -0.002 |
+| boost 1d p05 | 10 | holdout | 686 | 0.028 | -0.028 | -0.306 | 0.279 | 0.093 | 0.216 | 0.449 | 0.007 |
+| boost 1d p05 | 20 | walk | 3877 | 0.007 | -0.038 | -0.324 | 0.326 | 0.114 | 0.243 | 0.435 | -0.009 |
+| boost 1d p05 | 20 | holdout | 676 | -0.002 | -0.068 | -0.400 | 0.362 | 0.124 | 0.331 | 0.417 | 0.004 |
+| boost 1d p05 | 40 | walk | 3142 | -0.027 | -0.107 | -0.469 | 0.435 | 0.150 | 0.377 | 0.375 | -0.028 |
+| boost 1d p05 | 40 | holdout | 604 | -0.016 | -0.141 | -0.553 | 0.538 | 0.187 | 0.445 | 0.374 | 0.015 |
+| boost 1d top4 | 10 | walk | 3235 | -0.000 | -0.025 | -0.259 | 0.228 | 0.064 | 0.158 | 0.437 | 0.003 |
+| boost 1d top4 | 10 | holdout | 439 | 0.032 | -0.048 | -0.337 | 0.284 | 0.091 | 0.248 | 0.419 | 0.063 |
+| boost 1d top4 | 20 | walk | 3210 | 0.006 | -0.038 | -0.327 | 0.324 | 0.112 | 0.232 | 0.425 | 0.040 |
+| boost 1d top4 | 20 | holdout | 432 | 0.029 | -0.093 | -0.488 | 0.408 | 0.139 | 0.359 | 0.387 | 0.076 |
+| boost 1d top4 | 40 | walk | 2597 | 0.018 | -0.088 | -0.466 | 0.442 | 0.161 | 0.358 | 0.386 | 0.003 |
+| boost 1d top4 | 40 | holdout | 368 | -0.022 | -0.174 | -0.609 | 0.549 | 0.177 | 0.478 | 0.351 | 0.016 |
+| hbos 1d p05 | 10 | walk | 11599 | -0.004 | -0.004 | -0.150 | 0.132 | 0.023 | 0.060 | 0.480 | 0.004 |
+| hbos 1d p05 | 10 | holdout | 1083 | 0.008 | -0.006 | -0.157 | 0.176 | 0.046 | 0.064 | 0.476 | -0.000 |
+| hbos 1d p05 | 20 | walk | 10615 | -0.002 | -0.006 | -0.197 | 0.171 | 0.043 | 0.098 | 0.478 | 0.008 |
+| hbos 1d p05 | 20 | holdout | 1015 | 0.008 | -0.007 | -0.203 | 0.230 | 0.065 | 0.102 | 0.471 | 0.005 |
+| hbos 1d p05 | 40 | walk | 8928 | 0.005 | -0.008 | -0.268 | 0.246 | 0.075 | 0.153 | 0.479 | 0.023 |
+| hbos 1d p05 | 40 | holdout | 873 | 0.016 | -0.006 | -0.301 | 0.349 | 0.127 | 0.184 | 0.478 | -0.016 |
+| hbos 1d p1 | 10 | walk | 19644 | -0.002 | -0.003 | -0.145 | 0.130 | 0.022 | 0.054 | 0.482 | 0.004 |
+| hbos 1d p1 | 10 | holdout | 2069 | 0.002 | -0.005 | -0.163 | 0.160 | 0.032 | 0.070 | 0.480 | 0.001 |
+| hbos 1d p1 | 20 | walk | 17959 | 0.000 | -0.004 | -0.190 | 0.173 | 0.040 | 0.091 | 0.484 | 0.007 |
+| hbos 1d p1 | 20 | holdout | 1941 | 0.007 | -0.008 | -0.203 | 0.217 | 0.060 | 0.105 | 0.475 | 0.006 |
+| hbos 1d p1 | 40 | walk | 15012 | 0.005 | -0.005 | -0.258 | 0.242 | 0.073 | 0.146 | 0.486 | 0.015 |
+| hbos 1d p1 | 40 | holdout | 1673 | 0.018 | -0.006 | -0.285 | 0.322 | 0.113 | 0.175 | 0.492 | 0.006 |
+| hbos 1d top4 | 10 | walk | 4516 | -0.004 | -0.004 | -0.153 | 0.130 | 0.025 | 0.066 | 0.482 | 0.005 |
+| hbos 1d top4 | 10 | holdout | 529 | 0.011 | 0.003 | -0.158 | 0.174 | 0.042 | 0.070 | 0.509 | 0.005 |
+| hbos 1d top4 | 20 | walk | 4094 | -0.004 | -0.006 | -0.200 | 0.167 | 0.042 | 0.100 | 0.480 | 0.007 |
+| hbos 1d top4 | 20 | holdout | 479 | 0.022 | 0.002 | -0.217 | 0.273 | 0.081 | 0.115 | 0.509 | 0.008 |
+| hbos 1d top4 | 40 | walk | 3412 | -0.003 | -0.006 | -0.267 | 0.242 | 0.071 | 0.162 | 0.482 | 0.018 |
+| hbos 1d top4 | 40 | holdout | 393 | 0.036 | -0.000 | -0.300 | 0.447 | 0.158 | 0.183 | 0.499 | 0.014 |
+| hbos 5d p05 | 10 | walk | 5461 | -0.007 | -0.006 | -0.173 | 0.139 | 0.031 | 0.079 | 0.466 | 0.001 |
+| hbos 5d p05 | 10 | holdout | 514 | 0.003 | -0.007 | -0.190 | 0.174 | 0.039 | 0.086 | 0.479 | 0.004 |
+| hbos 5d p05 | 20 | walk | 4985 | -0.002 | -0.007 | -0.228 | 0.192 | 0.053 | 0.119 | 0.476 | 0.008 |
+| hbos 5d p05 | 20 | holdout | 500 | 0.017 | -0.005 | -0.212 | 0.267 | 0.080 | 0.112 | 0.478 | 0.012 |
+| hbos 5d p05 | 40 | walk | 4124 | -0.002 | -0.010 | -0.300 | 0.255 | 0.079 | 0.176 | 0.468 | 0.011 |
+| hbos 5d p05 | 40 | holdout | 432 | 0.023 | -0.001 | -0.310 | 0.375 | 0.137 | 0.194 | 0.491 | 0.017 |
+| hbos 5d p1 | 10 | walk | 9556 | -0.005 | -0.004 | -0.159 | 0.132 | 0.028 | 0.067 | 0.476 | 0.004 |
+| hbos 5d p1 | 10 | holdout | 968 | -0.001 | -0.011 | -0.169 | 0.155 | 0.037 | 0.071 | 0.462 | -0.003 |
+| hbos 5d p1 | 20 | walk | 8689 | 0.000 | -0.005 | -0.202 | 0.186 | 0.046 | 0.102 | 0.481 | 0.012 |
+| hbos 5d p1 | 20 | holdout | 934 | 0.013 | -0.004 | -0.217 | 0.249 | 0.075 | 0.120 | 0.486 | -0.003 |
+| hbos 5d p1 | 40 | walk | 7197 | 0.003 | -0.009 | -0.274 | 0.256 | 0.080 | 0.162 | 0.477 | 0.018 |
+| hbos 5d p1 | 40 | holdout | 804 | 0.004 | -0.009 | -0.345 | 0.344 | 0.124 | 0.204 | 0.474 | -0.012 |
+| hbos 5d top4 | 10 | walk | 2247 | -0.010 | -0.009 | -0.167 | 0.137 | 0.031 | 0.076 | 0.449 | 0.005 |
+| hbos 5d top4 | 10 | holdout | 248 | 0.022 | -0.000 | -0.172 | 0.209 | 0.065 | 0.069 | 0.496 | 0.005 |
+| hbos 5d top4 | 20 | walk | 2045 | -0.008 | -0.009 | -0.222 | 0.190 | 0.055 | 0.115 | 0.462 | 0.042 |
+| hbos 5d top4 | 20 | holdout | 234 | 0.027 | 0.000 | -0.222 | 0.310 | 0.111 | 0.128 | 0.500 | 0.007 |
+| hbos 5d top4 | 40 | walk | 1703 | -0.009 | -0.014 | -0.306 | 0.253 | 0.076 | 0.185 | 0.462 | 0.087 |
+| hbos 5d top4 | 40 | holdout | 197 | 0.028 | 0.006 | -0.306 | 0.351 | 0.142 | 0.213 | 0.503 | -0.001 |
+| iforest 1d p05 | 10 | walk | 11976 | 0.041 | -0.005 | -0.153 | 0.126 | 0.023 | 0.062 | 0.468 | 0.003 |
+| iforest 1d p05 | 10 | holdout | 1192 | 0.002 | -0.005 | -0.157 | 0.153 | 0.030 | 0.058 | 0.477 | -0.003 |
+| iforest 1d p05 | 20 | walk | 10851 | -0.003 | -0.004 | -0.197 | 0.165 | 0.039 | 0.098 | 0.483 | 0.003 |
+| iforest 1d p05 | 20 | holdout | 1124 | 0.003 | -0.004 | -0.196 | 0.194 | 0.052 | 0.096 | 0.483 | -0.001 |
+| iforest 1d p05 | 40 | walk | 8876 | -0.001 | -0.007 | -0.266 | 0.232 | 0.070 | 0.154 | 0.477 | 0.009 |
+| iforest 1d p05 | 40 | holdout | 963 | 0.014 | -0.001 | -0.270 | 0.293 | 0.096 | 0.159 | 0.498 | -0.004 |
+| iforest 1d p1 | 10 | walk | 21418 | 0.023 | -0.003 | -0.139 | 0.118 | 0.019 | 0.052 | 0.483 | 0.004 |
+| iforest 1d p1 | 10 | holdout | 2461 | -0.001 | -0.005 | -0.150 | 0.136 | 0.025 | 0.055 | 0.476 | 0.002 |
+| iforest 1d p1 | 20 | walk | 19474 | 0.000 | -0.001 | -0.178 | 0.165 | 0.037 | 0.083 | 0.495 | 0.005 |
+| iforest 1d p1 | 20 | holdout | 2313 | 0.001 | -0.004 | -0.184 | 0.188 | 0.042 | 0.083 | 0.483 | 0.008 |
+| iforest 1d p1 | 40 | walk | 15929 | 0.006 | -0.002 | -0.241 | 0.223 | 0.066 | 0.134 | 0.493 | 0.010 |
+| iforest 1d p1 | 40 | holdout | 1970 | 0.016 | 0.002 | -0.256 | 0.283 | 0.091 | 0.153 | 0.504 | 0.017 |
+| iforest 1d top4 | 10 | walk | 5046 | -0.008 | -0.004 | -0.165 | 0.130 | 0.029 | 0.073 | 0.470 | 0.006 |
+| iforest 1d top4 | 10 | holdout | 612 | 0.003 | -0.001 | -0.173 | 0.166 | 0.031 | 0.067 | 0.493 | -0.002 |
+| iforest 1d top4 | 20 | walk | 4586 | -0.006 | -0.008 | -0.208 | 0.168 | 0.046 | 0.107 | 0.468 | 0.003 |
+| iforest 1d top4 | 20 | holdout | 565 | 0.007 | -0.001 | -0.205 | 0.199 | 0.064 | 0.110 | 0.497 | 0.004 |
+| iforest 1d top4 | 40 | walk | 3695 | -0.006 | -0.009 | -0.288 | 0.247 | 0.077 | 0.170 | 0.471 | 0.010 |
+| iforest 1d top4 | 40 | holdout | 457 | 0.005 | -0.006 | -0.296 | 0.287 | 0.092 | 0.199 | 0.486 | -0.011 |
+| iforest 5d p05 | 10 | walk | 4640 | -0.008 | -0.005 | -0.169 | 0.138 | 0.030 | 0.078 | 0.470 | 0.002 |
+| iforest 5d p05 | 10 | holdout | 549 | 0.001 | -0.004 | -0.171 | 0.150 | 0.040 | 0.066 | 0.470 | -0.005 |
+| iforest 5d p05 | 20 | walk | 4216 | -0.002 | -0.004 | -0.226 | 0.183 | 0.051 | 0.118 | 0.484 | 0.027 |
+| iforest 5d p05 | 20 | holdout | 521 | 0.010 | -0.007 | -0.223 | 0.257 | 0.081 | 0.119 | 0.466 | -0.010 |
+| iforest 5d p05 | 40 | walk | 3404 | -0.005 | -0.010 | -0.310 | 0.262 | 0.084 | 0.182 | 0.470 | 0.010 |
+| iforest 5d p05 | 40 | holdout | 430 | 0.016 | 0.002 | -0.298 | 0.345 | 0.121 | 0.170 | 0.502 | -0.009 |
+| iforest 5d p1 | 10 | walk | 8572 | -0.006 | -0.003 | -0.152 | 0.124 | 0.024 | 0.061 | 0.478 | 0.001 |
+| iforest 5d p1 | 10 | holdout | 1137 | -0.001 | -0.006 | -0.157 | 0.139 | 0.026 | 0.059 | 0.470 | -0.005 |
+| iforest 5d p1 | 20 | walk | 7764 | -0.001 | -0.002 | -0.194 | 0.168 | 0.040 | 0.095 | 0.492 | 0.004 |
+| iforest 5d p1 | 20 | holdout | 1071 | 0.004 | -0.006 | -0.196 | 0.205 | 0.053 | 0.098 | 0.472 | -0.001 |
+| iforest 5d p1 | 40 | walk | 6248 | -0.002 | -0.007 | -0.272 | 0.242 | 0.072 | 0.154 | 0.477 | 0.014 |
+| iforest 5d p1 | 40 | holdout | 887 | 0.043 | -0.007 | -0.265 | 0.280 | 0.092 | 0.161 | 0.479 | 0.007 |
+| iforest 5d top4 | 10 | walk | 2159 | -0.010 | -0.005 | -0.193 | 0.136 | 0.030 | 0.094 | 0.466 | 0.004 |
+| iforest 5d top4 | 10 | holdout | 254 | 0.008 | 0.003 | -0.170 | 0.176 | 0.047 | 0.071 | 0.516 | 0.003 |
+| iforest 5d top4 | 20 | walk | 1953 | -0.003 | -0.006 | -0.251 | 0.199 | 0.054 | 0.130 | 0.472 | 0.002 |
+| iforest 5d top4 | 20 | holdout | 235 | 0.030 | 0.002 | -0.189 | 0.332 | 0.119 | 0.094 | 0.506 | 0.014 |
+| iforest 5d top4 | 40 | walk | 1558 | -0.007 | -0.010 | -0.345 | 0.268 | 0.086 | 0.193 | 0.467 | 0.012 |
+| iforest 5d top4 | 40 | holdout | 185 | 0.040 | 0.011 | -0.342 | 0.382 | 0.162 | 0.173 | 0.524 | -0.001 |
+
+## Chosen hold and the call
+
+Walk-forward choice: iforest 1-day p05, exit after 10 sessions. Holdout deduped mean 0.002.
+OTM call on that rule, ask in and bid out, same time exit: n 31148, dropped 29373, mean -0.215, median -0.668, at least +30% 0.163, at or below -20% 0.734.
+
+## Verdict
+
+iforest 1-day p05, 10 sessions is the walk-forward hold with the highest deduped mean. The holdout mean stays positive and beats the matched random hold by 0.005.
+
+EXIT:0

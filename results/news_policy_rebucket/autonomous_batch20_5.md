@@ -1,0 +1,15 @@
+# autonomous_batch20_5
+
+Reviewed 2026-11-12. {'drop': 5}
+
+- **CMRE 2016-01-28 — drop / 1_earnings**: January 27 primary release reports Q4/year-end results preceding January 28 jump. Retain legacy earnings attribution with primary support; charter, financing and dividend updates inside results do not supersede class 1. Exact initial release time is not independently certified. [Source 1](https://www.sec.gov/Archives/edgar/data/1503584/000110262416002019/exh99_1.htm)
+- **MMYT 2014-05-21 — drop / 1_earnings**: May 21 primary release reports fiscal Q4/full-year financial results. This replaces generic no-news label with documented earnings event; guidance and growth metrics bundled with results remain class 1. Exact first-public timestamp and exclusive price causality are not certified. [Source 1](https://www.sec.gov/Archives/edgar/data/1495153/000119312514207394/d729170dex991.htm)
+- **GTS 2015-11-05 — drop / 1_earnings**: November 5 primary results release schedules same-day 9 a.m. Eastern earnings call, supporting pre-open event despite later SEC acceptance. Medicaid contract conversion is historical operating context within quarterly report, not a new same-day award. Class 1 applies. [Source 1](https://www.sec.gov/Archives/edgar/data/1171662/000114036115039838/ex99_1.htm) [Source 2](https://www.sec.gov/Archives/edgar/data/1171662/000114036115039838/form8k.htm)
+- **AEM 2013-10-24 — drop / 1_earnings**: October 23 issuer Q3 release and October 24 morning call establish quarterly-results event; same-day market account explicitly attributes rally to earnings. Positive revision to gold-production guidance is bundled with results and remains class 1. [Source 1](https://www.prnewswire.com/news-releases/agnico-eagle-reports-third-quarter-2013-results---strong-operational-performance-leads-to-record-quarterly-gold-production-and-positive-revision-to-2013-guidance-228991601.html) [Source 2](https://investorplace.com/2013/10/weak-u-s-dollar-stronger-china-send-gold-higher/)
+- **AEO 2016-05-19 — drop / 1_earnings**: May 18 primary Q1 earnings release and contemporaneous 4:12 p.m. after-hours account support May 19 earnings reaction. Forward Q2 EPS outlook inside results is class 1, not standalone guidance keep. [Source 1](https://www.sec.gov/Archives/edgar/data/919012/000119312516599120/d154112dex991.htm) [Source 2](https://www.thestreet.com/story/13576846/1/american-eagle-aeo-stock-soars-in-after-hours-trading-on-q1-beat.html)
+
+Current ledger: {'keep': 220, 'drop_earnings': 65, 'drop_other_not_234': 299, 'pending_news_review': 54, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 13, 'drop_analyst': 6, 'drop_financing': 8, 'drop_peer_sympathy': 3, 'drop_operating_update': 3, 'drop_regulatory_process': 2, 'drop_peer_earnings': 1, 'drop_passive_ownership': 1, 'drop_trial_anticipation': 1, 'drop_short_covering_media': 1, 'drop_etf': 2}.
+
+No database-derived snapshot or saved news queue refreshed.
+Existing price attribution retained unless a conflict is explicitly deferred.
+No exhaustive earlier-public search; no training or evaluation gates unlocked.

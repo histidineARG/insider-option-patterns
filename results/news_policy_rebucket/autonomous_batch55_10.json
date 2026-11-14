@@ -1,0 +1,174 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch55_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 1,
+  "n_deferred": 9,
+  "n_timing_deferred": 9,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 431,
+  "review_counts": {
+    "keep": 237,
+    "drop_earnings": 83,
+    "drop_peer_sympathy": 12,
+    "pending_news_review": 189,
+    "drop_mechanical": 2,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 29,
+    "drop_analyst": 11,
+    "drop_financing": 11,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2,
+    "drop_other_not_234": 89
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "DQ",
+      "qdate": "2013-04-09",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The reviewed material supports broad solar and polysilicon industry context but does not establish a Daqo-specific same-session cause for April 9. Keep pending rather than infer sector sympathy from general conditions.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/DQ?date=2013-04-09&view=daily",
+        "https://www.arabnews.com/polysilicon-plants-buoyed-%E2%80%98revenge%E2%80%99-import-tax"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "FORM",
+      "qdate": "2014-09-02",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The located issuer calendar shows a Citi technology conference appearance on September 2 but does not attribute a qualifying company catalyst or the large price move to it. Retain pending.",
+      "sources": [
+        "https://investors.formfactor.com/events-and-presentations?mobile=1&page=17%2C0"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "IMH",
+      "qdate": "2016-02-04",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible issuer catalyst for February 4. The located Q4 2015 earnings call occurred later, on February 19, so do not assign this move to earnings without separate evidence.",
+      "sources": [
+        "https://www.accessnewswire.com/442375/coverage-of-top-gainers-imprivata-ocean-shore-holding-evolent-health-and-juno-therapeutics",
+        "https://investors.impaccompanies.com/static-files/fb5e5867-13fc-48f8-803d-14e37f2e8be6"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SRNE",
+      "qdate": "2015-06-22",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The identified Cynviloq/Igdrasol acquisition announcement and associated stock coverage are dated May 15, not June 22. This is an earlier-public timing conflict; do not transfer that catalyst to the saved June reaction session.",
+      "sources": [
+        "https://investorplace.com/2015/05/netflix-inc-nflx-hertz-global-holdings-inc-srne-sorrento-therapeutics-inc-3-todays-best-stocks/",
+        "https://exa.ai/library/markets/stock/SRNE?date=2015-06-22&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SMLP",
+      "qdate": "2015-12-11",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The legacy rationale refers to sponsor support and a drop-down financing plan, but the source located in review reports a 2016 transaction/results date rather than a verified December 11, 2015 catalyst. Defer instead of carrying a date-mismatched financing label.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1549922/000154992216000109/ex991-earningsrelease1215.htm"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SFUN",
+      "qdate": "2013-07-16",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not recover reliable issuer news or a source attributing Fang Holdings’ move on July 16. Keep pending; do not treat a China internet or property context alone as attribution.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/SFUN?date=2013-07-16&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2016-04-06",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The major eteplirsen advisory committee meeting was later in April; targeted review did not establish a same-session April 6 trial or regulatory catalyst. Retain pending without extending later FDA-path news backward.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/SRPT?date=2016-04-06&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "CONN",
+      "qdate": "2015-11-02",
+      "decision": "drop",
+      "cause_class": "financing",
+      "jump_cause": "financing",
+      "news_filter": "drop_financing",
+      "rationale": "Conn’s announced a same-day amendment to its $810 million asset-based revolving credit facility, including a higher leverage covenant that expanded borrowing capacity. The jump is attributed to a financing change, excluded under the manual ledger policy.",
+      "sources": [
+        "https://www.foxbusiness.com/markets/why-shares-of-conns-inc-soared-20-on-monday",
+        "https://www.sec.gov/Archives/edgar/data/1223389/000122338915000058/conns2015103110-q.htm"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "MTL",
+      "qdate": "2016-11-14",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The located report identifies a 19% rise but does not provide a reliable same-session company catalyst. Commodity context alone is insufficient to code a macro/sector drop.",
+      "sources": [
+        "https://www.fool.com/investing/2016/11/14/why-is-mechel-pao-stock-up-a-red-hot-19-today/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ORMP",
+      "qdate": "2015-07-02",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The identified Sinopharm China-rights letter of intent was announced on July 7, after the July 2 jump session. Do not backdate the partnership catalyst; retain pending for a same-session cause.",
+      "sources": [
+        "https://oramed.com/wp-content/uploads/2022/06/MLV-Update-Jul-7-15.pdf",
+        "https://exa.ai/library/markets/stock/ORMP?date=2015-07-02&view=daily"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Unresolved date-specific cases remain pending; no earnings or sector labels inferred from broad context.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

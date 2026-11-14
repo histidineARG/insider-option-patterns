@@ -1,0 +1,218 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch14_12",
+  "n_reviewed": 12,
+  "n_promoted_to_keep": 1,
+  "n_confirmed_drop": 4,
+  "n_deferred": 7,
+  "n_timing_deferred": 4,
+  "n_category_deferred": 3,
+  "cumulative_n_policy_reviewed": 179,
+  "review_counts": {
+    "keep": 213,
+    "drop_earnings": 37,
+    "drop_other_not_234": 341,
+    "pending_news_review": 47,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 13,
+    "drop_analyst": 6,
+    "drop_financing": 8,
+    "drop_peer_sympathy": 3,
+    "drop_operating_update": 3,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 212,
+    "drop_earnings": 37,
+    "drop_other_not_234": 353,
+    "pending_news_review": 40,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 10,
+    "drop_analyst": 6,
+    "drop_financing": 8,
+    "drop_peer_sympathy": 3,
+    "drop_operating_update": 3,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 1
+  },
+  "changes": [
+    {
+      "symbol": "NXPI",
+      "qdate": "2015-03-02",
+      "decision": "keep",
+      "cause_class": "2_ma_news",
+      "jump_cause": "ma_news",
+      "news_filter": "keep",
+      "rationale": "Primary merger documents confirm public announcement on March 1 evening New York time ahead of March 2 markets; contemporaneous trade account attributes NXP stock increase to Freescale merger. Class 2 acquirer exception applies. Do not conflate this 2015 acquisition with later Qualcomm bid for NXP.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1413447/000119312515209237/d937349d424b3.htm",
+        "https://www.sec.gov/Archives/edgar/data/1392522/000119312515071411/d884465dex991.htm",
+        "https://www.rcrwireless.com/20150302/chips/nxp-freescale-merge-40-billion-deal-tag4"
+      ]
+    },
+    {
+      "symbol": "ROLL",
+      "qdate": "2015-03-27",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Sargent acquisition is substantively eligible under class 2 acquirer exception, contrary to legacy categorical exclusion. Primary release and filing say March 26, with March 27 2 p.m. ET call. Exact initial release time and independent March 27 price attribution not recovered in targeted search; defer session alignment rather than automatically promoting.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1324948/000114420415018685/v405578_ex99-1.htm",
+        "https://www.sec.gov/Archives/edgar/data/1324948/000114420415018685/v405578_8k.htm"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "MATX",
+      "qdate": "2014-11-12",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Primary November 11 release establishes Horizon acquisition and 5 p.m. ET transaction call, a plausible next-session class 2 acquirer catalyst. Targeted search recovered deal evidence but not direct November 12 jump attribution or exact initial release timestamp. Preserve candidate acquisition rather than unsupported no-news description; attribution remains pending.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/3453/000110465914079226/a14-24264_1ex99d1.htm",
+        "https://www.sec.gov/Archives/edgar/data/3453/000110465914079225/a14-24264_18k.htm"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ASYS",
+      "qdate": "2015-12-21",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Recovered same-title issuer repurchase release is dated January 5, 2009, not December 2015; original locator is inaccessible. This cannot establish a December 21 buyback catalyst. Targeted date/issuer search did not recover a supported same-session order, partnership or guidance change. Leave attribution unresolved rather than infer financing or sector causality from stale source.",
+      "sources": [
+        "https://www.amtechsystems.com/news-media/press-releases/detail/254/amtech-systems-announces-stock-repurchase-program"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2013-12-27",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "December 27 contemporaneous account attributes rally to EV sales acceleration comments earlier that week. Expanded class 8 could cover a material standalone forward step-up, but original comments, quantified change and earliest public timing were not recovered. Do not dismiss solely under old 2/3/4 policy or assume the comments first appeared on jump date.",
+      "sources": [
+        "https://www.fool.com/investing/general/2013/12/27/why-kandi-technologies-amyris-and-solazyme-are-tod.aspx"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "FXF",
+      "qdate": "2015-01-15",
+      "decision": "drop",
+      "cause_class": "etf",
+      "jump_cause": "etf",
+      "news_filter": "drop_etf",
+      "rationale": "Contemporaneous-period annual filing identifies FXF as CurrencyShares Swiss Franc Trust, an exchange-traded currency trust. Hard product exclusion applies independently of economic explanation for Swiss-franc move; this is not an operating-company catalyst.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1353615/000119312515010601/d844665d10k.htm"
+      ]
+    },
+    {
+      "symbol": "NBR",
+      "qdate": "2016-11-30",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Contemporaneous OPEC-day sector roundup names NBR among energy stocks advancing with the production-cut agreement. Broad commodity revaluation is outside issuer-specific keep classes. No product approval, issuer legal settlement or company-specific partnership is established by the OPEC agreement; competing-news completeness is not certified.",
+      "sources": [
+        "https://finance.yahoo.com/news/opec-finally-cuts-output-energy-161604686.html",
+        "https://www.investors.com/stock-lists/new-highs/oil-stocks-rally-to-new-highs-on-opec-deal-dows-united-tech-reverses/"
+      ]
+    },
+    {
+      "symbol": "CPE",
+      "qdate": "2016-11-30",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Contemporaneous OPEC-day sector roundup names CPE among energy stocks advancing with the production-cut agreement. Broad commodity revaluation is outside issuer-specific keep classes. No product approval, issuer legal settlement or company-specific partnership is established by the OPEC agreement; competing-news completeness is not certified.",
+      "sources": [
+        "https://finance.yahoo.com/news/opec-finally-cuts-output-energy-161604686.html",
+        "https://www.investors.com/stock-lists/new-highs/oil-stocks-rally-to-new-highs-on-opec-deal-dows-united-tech-reverses/"
+      ]
+    },
+    {
+      "symbol": "MRO",
+      "qdate": "2016-11-30",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Contemporaneous OPEC-day sector roundup names MRO among energy stocks advancing with the production-cut agreement. Broad commodity revaluation is outside issuer-specific keep classes. No product approval, issuer legal settlement or company-specific partnership is established by the OPEC agreement; competing-news completeness is not certified.",
+      "sources": [
+        "https://finance.yahoo.com/news/opec-finally-cuts-output-energy-161604686.html",
+        "https://www.investors.com/stock-lists/new-highs/oil-stocks-rally-to-new-highs-on-opec-deal-dows-united-tech-reverses/"
+      ]
+    },
+    {
+      "symbol": "GOL",
+      "qdate": "2016-03-02",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Reuters March 2 account confirms provisional ownership-cap change from 20% to 49%, with prior anticipation already affecting Gol. Broader sector rule versus class 9 issuer regulatory unlock and distinct reaction-session attribution remain unresolved. Primary ADS ratio change was expected February 26, so it is not automatically a March 2/3 mechanical explanation.",
+      "sources": [
+        "https://uk.investing.com/news/stock-market-news/brazil-raises-foreign-ownership-limit-on-airlines-to-49-pct-91144",
+        "https://www.sec.gov/Archives/edgar/data/1291733/000129281416003600/gol20160225_6k.htm"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "GOL",
+      "qdate": "2016-03-03",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Reuters March 2 account confirms provisional ownership-cap change from 20% to 49%, with prior anticipation already affecting Gol. Broader sector rule versus class 9 issuer regulatory unlock and distinct reaction-session attribution remain unresolved. Primary ADS ratio change was expected February 26, so it is not automatically a March 2/3 mechanical explanation.",
+      "sources": [
+        "https://uk.investing.com/news/stock-market-news/brazil-raises-foreign-ownership-limit-on-airlines-to-49-pct-91144",
+        "https://www.sec.gov/Archives/edgar/data/1291733/000129281416003600/gol20160225_6k.htm"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "X",
+      "qdate": "2016-03-02",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Commerce March 1 fact sheet establishes affirmative preliminary cold-rolled-steel antidumping determinations; March 2 market account links steel rally to duties. Expanded class 9 may apply to a petition-related regulatory unlock, but preliminary industry-wide trade remedy versus issuer-specific final resolution needs consistent policy treatment. Do not automatically reject simply as old-policy trade news or assert final approval.",
+      "sources": [
+        "https://enforcement.trade.gov/download/factsheets/factsheet-multiple-cold-rolled-steel-flat-products-ad-prelim-030116.pdf",
+        "https://www.foxbusiness.com/markets/steel-stocks-soar-after-the-u-s-slaps-anti-dumping-tariffs-on-china-x-aks-mt-tmst"
+      ],
+      "defer_reason": "category"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

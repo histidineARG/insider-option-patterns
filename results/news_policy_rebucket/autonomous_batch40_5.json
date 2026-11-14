@@ -1,0 +1,127 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch40_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 0,
+  "n_deferred": 5,
+  "n_timing_deferred": 3,
+  "n_category_deferred": 2,
+  "cumulative_n_policy_reviewed": 321,
+  "review_counts": {
+    "keep": 231,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 104,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 199,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 231,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 99,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 204,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "EMKR",
+      "qdate": "2016-04-13",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Primary April 13 release announces favorable Sumitomo arbitration ruling rejecting $47.5 million claims and awarding fees. This supplies a class 9 candidate absent from old label, but exact public timing and direct price attribution were not recovered. Do not promote solely on matching announcement date.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/808326/000080832616000046/exhibit991-pressreleasesum.htm",
+        "https://compoundsemiconductor.net/article/99129/Emcore_gets_Favourable_Ruling_from_Sumitomo_Arbitration"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ORBC",
+      "qdate": "2014-01-28",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Same-day analyst roundup identifies Canaccord Buy initiation, a possible excluded catalyst. Primary offering was announced January 16 and priced January 17, preceding jump by multiple sessions. No direct attribution recovered to select analyst initiation versus another issuer event.",
+      "sources": [
+        "https://247wallst.com/investing/2014/01/28/top-analyst-upgrades-and-downgrades-apple-biocryst-dow-chemical-sanmina-sally-beauty-and-more/",
+        "https://www.sec.gov/Archives/edgar/data/1361983/000119312514013224/d655708dex99.htm"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "CVU",
+      "qdate": "2016-05-23",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted CPI Aero/date/contract search recovered May 9 credit amendment and May 10 quarterly results, not attributable May 23 customer award or other event. Do not backdate earlier financial disclosures or infer contract success from ongoing business description.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/889348/000143774916031321/cpi20160509_8k.htm",
+        "https://investors.cpiaero.com/events-and-presentations/news/news-details/2016/CPI-Aerostructures-Announces-2016-First-Quarter-Financial-Results-05-10-2016/default.aspx"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "REFR",
+      "qdate": "2013-11-21",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted issuer/date/Mercedes search found no attributable same-session commercialization event. Primary annual report dates S-Class Magic Sky Control announcement to August 2013, with availability planned for 2014. Insider transaction dated November 21 alone does not establish same-day public cause.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/793524/000120677414000818/research_10k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1223064/000120677413004170/lapointe_form4.xml"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "VUZI",
+      "qdate": "2015-04-10",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Same-date industry coverage discusses Vuzix technology and investment performance, while other coverage concerns Six15 business sold in 2012. Neither establishes a new Vuzix contract or product launch and direct price attribution. Leave pending rather than equate media mention with issuer breakthrough.",
+      "sources": [
+        "https://displaydaily.com/six15-aims-at-commercial-markets/",
+        "https://moneymorning.com/2015/04/10/this-little-known-industry-is-producing-the-fastest-growing-stocks/?sid1=X304TBH3&sub1=X304TBH3&xcode=X304TBH3"
+      ],
+      "defer_reason": "category"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

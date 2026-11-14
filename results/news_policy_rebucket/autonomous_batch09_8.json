@@ -1,0 +1,156 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch09_8",
+  "n_reviewed": 8,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 5,
+  "n_deferred": 3,
+  "n_timing_deferred": 1,
+  "n_category_deferred": 2,
+  "cumulative_n_policy_reviewed": 135,
+  "review_counts": {
+    "keep": 205,
+    "drop_earnings": 32,
+    "drop_other_not_234": 385,
+    "pending_news_review": 28,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 8,
+    "drop_analyst": 6,
+    "drop_financing": 6,
+    "drop_peer_sympathy": 3,
+    "drop_regulatory_process": 2,
+    "drop_operating_update": 1,
+    "drop_peer_earnings": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 1
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 205,
+    "drop_earnings": 32,
+    "drop_other_not_234": 393,
+    "pending_news_review": 25,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 7,
+    "drop_analyst": 6,
+    "drop_financing": 4,
+    "drop_peer_sympathy": 2,
+    "drop_operating_update": 1,
+    "drop_regulatory_process": 1,
+    "drop_peer_earnings": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 1
+  },
+  "changes": [
+    {
+      "symbol": "RDUS",
+      "qdate": "2016-02-22",
+      "decision": "drop",
+      "cause_class": "peer_sympathy",
+      "jump_cause": "peer_sympathy",
+      "news_filter": "drop_peer_sympathy",
+      "rationale": "February 22 market account attributes Radius gains to mixed competitor Amgen/UCB romosozumab trial results, particularly failure on a secondary endpoint. Correct overly simple prior description of peer results as wholly positive. No Radius-owned clinical readout is established.",
+      "sources": [
+        "https://www.proactiveinvestors.co.uk/companies/news/122812/radius-soars-as-amgen-sees-mixed-results-for-osteoporosis-drug-122812.html"
+      ]
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2016-09-14",
+      "decision": "drop",
+      "cause_class": "regulatory_process",
+      "jump_cause": "regulatory_process",
+      "news_filter": "drop_regulatory_process",
+      "rationale": "September 14 market account reports departure of an FDA reviewer and speculation about future eteplirsen approval. Personnel change and approval hopes are not a completed approval, clinical success or final regulatory resolution.",
+      "sources": [
+        "https://www.fool.com/investing/2016/09/14/why-sarepta-therapeutics-shares-are-skyrocketing-2.aspx",
+        "https://cdn3.benzinga.com/news/16/09/8457937/dr-ron-farkas-leaves-the-fda-boosting-sarepta-shares-heres-where-you-couldve-hear"
+      ]
+    },
+    {
+      "symbol": "BCEI",
+      "qdate": "2015-11-03",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "November 3 contemporaneous account directly ties Bonanza Creek gains to a 4.1% rise in WTI alongside other high-beta energy stocks. Retain commodity-sector attribution rather than infer a company-specific order or breakthrough.",
+      "sources": [
+        "https://www.insidermonkey.com/blog/why-are-shares-of-these-companies-surging-today-381840/"
+      ]
+    },
+    {
+      "symbol": "GOL",
+      "qdate": "2016-05-04",
+      "decision": "drop",
+      "cause_class": "financing",
+      "jump_cause": "financing",
+      "news_filter": "drop_financing",
+      "rationale": "May 4 issuer 6-K details note-exchange offers, lease renegotiations and capital-structure initiatives. Retain debt-restructuring financing category; no completed court/regulator ruling or new commercial contract is established.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1291733/000129281416004500/gol20160504_6k.htm"
+      ]
+    },
+    {
+      "symbol": "CRC",
+      "qdate": "2016-08-08",
+      "decision": "drop",
+      "cause_class": "financing",
+      "jump_cause": "financing",
+      "news_filter": "drop_financing",
+      "rationale": "August 8 issuer-distributed title announces upsize of cash offers for outstanding notes; later SEC release confirms August 8 tender update. Retain debt-tender/deleveraging category, with same-session price attribution inherited from the previous review.",
+      "sources": [
+        "https://www.oilandgas360.com/california-resources-corporation-announces-upsize-of-its-offers-to-purchase-outstanding-notes-for-cash/",
+        "https://www.sec.gov/Archives/edgar/data/1609253/000160925316000328/a160815tenderearlyresultsf.htm"
+      ]
+    },
+    {
+      "symbol": "SM",
+      "qdate": "2016-03-03",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Existing source is explicitly a March 4 report about that days energy-stock short squeeze, not March 3 evidence. Commodity attribution is plausible, but the date mismatch prevents confirmation of this rows same-session cause.",
+      "sources": [
+        "https://www.fool.com/investing/general/2016/03/04/oil-stocks-short-sellers-got-scorched-today.aspx"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "HLF",
+      "qdate": "2014-07-22",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "July 22 contemporary account links rally to reaction against Ackmans presentation. Existing short-covering description is supported, but class 11 activist-involvement scope could overlap. No new activist stake or completed legal resolution is established; defer category judgment instead of assuming all activist presentations are excluded.",
+      "sources": [
+        "https://labusinessjournal.com/finance/stocks/herbalife-shares-rise-after-ackman-attack/",
+        "https://d1io3yog0oux5.cloudfront.net/_09fc167d57c58ff961d2ccc6e23f7328/herbalife/news/2014-07-22_Statement_from_Herbalife_in_Response_to_Bill_338.pdf"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "BTU",
+      "qdate": "2015-10-06",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Primary 8-K filed October 6 describes a 1-for-15 split effective after September 30 close, with split-adjusted trading starting October 1. This does not establish October 6 as a mechanical split jump. Existing sector-rally source was unavailable; defer price adjustment and fresh same-session cause review rather than certify either mechanical or macro attribution.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1064728/000106472815000088/btu_8-kx20150930xpostxsplit.htm",
+        "https://www.sec.gov/Archives/edgar/data/1064728/000119312516569478/d166323d10ka.htm"
+      ],
+      "defer_reason": "category"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

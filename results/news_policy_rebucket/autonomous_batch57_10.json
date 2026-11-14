@@ -1,0 +1,171 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch57_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 1,
+  "n_confirmed_drop": 0,
+  "n_deferred": 9,
+  "n_timing_deferred": 9,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 451,
+  "review_counts": {
+    "keep": 240,
+    "drop_earnings": 83,
+    "drop_peer_sympathy": 12,
+    "pending_news_review": 205,
+    "drop_mechanical": 2,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 29,
+    "drop_analyst": 11,
+    "drop_financing": 12,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2,
+    "drop_other_not_234": 69
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "NGL",
+      "qdate": "2016-02-16",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The identified distribution declaration was announced January 21 and is not a February 16 same-session catalyst. Search did not establish an eligible cause for this session; commodity/MLP context alone is insufficient.",
+      "sources": [
+        "https://www.marketscreener.com/quote/stock/NGL-ENERGY-PARTNERS-LP-7964790/news/NGL-Energy-Partners-LP-Declares-Quarterly-Distribution-for-the-Quarter-Ended-December-31-2015-Payab-38123562/",
+        "https://exa.ai/library/markets/stock/NGL?date=2016-02-16&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "WATT",
+      "qdate": "2014-12-24",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable issuer catalyst for the December 24 move. Keep pending; do not infer a product breakthrough from Energous’ general wireless-power claims or its prior offering.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/WATT?date=2014-12-24&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "JRJC",
+      "qdate": "2014-01-15",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted issuer/date review did not establish a reliable eligible catalyst for January 15. The available China market and financial-services context does not attribute the jump to company news.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/JRJC?date=2014-01-15&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2015-10-19",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted same-session review did not recover a reliable eligible Kandi announcement for October 19. Historical stock-promotion allegations do not establish attribution for this date.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/KNDI?date=2015-10-19&view=daily",
+        "https://sharesleuth.com/kandi-technologies-group-inc-the-return-of-the-cyber-shills/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "CZR",
+      "qdate": "2013-02-07",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not establish a reliable issuer-specific catalyst for the February 7, 2013 price move. Do not infer a restructuring or transaction event from Caesars’ broader financial history.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/CZR?date=2013-02-07&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ORMP",
+      "qdate": "2014-06-11",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not identify a company release or documented trial/regulatory catalyst on June 11, 2014. Retain pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/ORMP?date=2014-06-11&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "RPRX",
+      "qdate": "2014-08-28",
+      "decision": "keep",
+      "cause_class": "3_biotech_trial",
+      "jump_cause": "biotech_trial",
+      "news_filter": "keep",
+      "rationale": "Repros reported top-line results from its first Androxal study on August 28, 2014, including superiority on two co-primary endpoints versus AndroGel. Contemporaneous coverage ties the same-day rise to those data; class 3 applies.",
+      "sources": [
+        "https://www.thestreet.com/markets/why-repros-therapeutics-rprx-stock-is-surging-today-12859971"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "STXS",
+      "qdate": "2014-02-12",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific search did not establish a reliable eligible cause for the February 12 Stereotaxis move. The available record does not show a same-session clinical, regulatory, or commercial event.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/STXS?date=2014-02-12&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "MTL",
+      "qdate": "2016-12-12",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The prior review attributes the move generally to steel/coal commodities, but targeted search did not locate date-specific evidence of a broad sector catalyst or Mechel-specific news. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/MTL?date=2016-12-12&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2013-09-24",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted same-session search did not establish a qualifying Kandi company event or a reliable attribution for September 24. Keep pending; do not use later reporting or general electric-vehicle enthusiasm as proof.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/KNDI?date=2013-09-24&view=daily"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Unresolved date-specific attribution cases remain pending.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

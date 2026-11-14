@@ -1,0 +1,172 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch62_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 3,
+  "n_confirmed_drop": 1,
+  "n_deferred": 6,
+  "n_timing_deferred": 6,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 501,
+  "review_counts": {
+    "drop_analyst": 11,
+    "drop_earnings": 85,
+    "drop_etf": 2,
+    "drop_financing": 12,
+    "drop_macro_sector": 30,
+    "drop_mechanical": 2,
+    "drop_operating_update": 6,
+    "drop_other_not_234": 19,
+    "drop_passive_ownership": 2,
+    "drop_peer_earnings": 1,
+    "drop_peer_sympathy": 12,
+    "drop_regulatory_process": 4,
+    "drop_short_covering_media": 1,
+    "drop_stale_news": 1,
+    "drop_trial_anticipation": 2,
+    "keep": 246,
+    "pending_news_review": 245
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "MPX",
+      "qdate": "2016-01-29",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish an eligible Marine Products announcement or reliable cause for the January 29 move. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/MPX?date=2016-01-29&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ADXS",
+      "qdate": "2015-04-08",
+      "decision": "keep",
+      "cause_class": "3_biotech_trial",
+      "jump_cause": "biotech_trial",
+      "news_filter": "keep",
+      "rationale": "Advaxis announced on April 8 that it initiated a Phase 1/2 trial combining ADXS-PSA with KEYTRUDA. A contemporaneous court opinion recounts that the announcement coincided with a move from $15.39 to $18.10. This is a directly attributed class-3 trial initiation.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1100397/000119312515125129/def14a.htm",
+        "https://docs.justia.com/cases/federal/district-courts/new-jersey/njdce/3%3A2015cv06326/323650/51"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "CENX",
+      "qdate": "2013-10-22",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not establish a same-session Century Aluminum catalyst or evidence that a sector-wide metals move explains this return. Keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/CENX?date=2013-10-22&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "INO",
+      "qdate": "2014-07-23",
+      "decision": "keep",
+      "cause_class": "3_biotech_trial",
+      "jump_cause": "biotech_trial",
+      "news_filter": "keep",
+      "rationale": "Inovio reported that Phase 2 VGX-3100 results met the primary endpoint for regression of cervical lesions on July 23. This is a clinical-trial result, class 3.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1055726/000119312514276415/d764339dex991.htm"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "MOMO",
+      "qdate": "2016-07-07",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The located Momo takeover-related share move occurred in April 2016, not July 7. Targeted search did not establish a July 7 catalyst; keep pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/MOMO?date=2016-07-07&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SSYS",
+      "qdate": "2016-03-03",
+      "decision": "drop",
+      "cause_class": "earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "Stratasys reported fourth-quarter and full-year 2015 results on March 3 before/around the session; contemporaneous coverage says the shares were responding positively to the results and guidance. Exclude under the earnings category.",
+      "sources": [
+        "https://investors.stratasys.com/sec-filings/all-sec-filings/content/0001206774-16-004774/0001206774-16-004774.pdf",
+        "https://www.benzinga.com/analyst-ratings/analyst-color/16/03/6802657/3d-printing-stocks-are-exploding-but-the-best-trade-isnt"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "ORMP",
+      "qdate": "2015-11-30",
+      "decision": "keep",
+      "cause_class": "6_partnership_license",
+      "jump_cause": "partnership_license",
+      "news_filter": "keep",
+      "rationale": "Contemporaneous market coverage attributes Oramed’s 26.28% rise on November 30 to its announcement of licensing and investment agreements for its oral insulin capsule in China. This is a commercial license/partnership, class 6.",
+      "sources": [
+        "https://cdn2.benzinga.com/news/15/11/6008219/morning-market-gainers"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "ACAD",
+      "qdate": "2014-02-21",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted search did not establish a same-session Acadia catalyst for February 21; the located quarterly results were released February 27. Keep pending rather than backdate the later earnings release.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/ACAD?date=2014-02-21&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "XONE",
+      "qdate": "2014-12-26",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review found short-interest coverage on December 26, but it reported prior-period short-position data and did not attribute a same-session XONE rise. Keep pending.",
+      "sources": [
+        "https://247wallst.com/technology-3/2014/12/26/short-sellers-still-piling-on-two-3d-printing-stocks/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "DQ",
+      "qdate": "2013-06-17",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not establish a qualifying same-session Daqo New Energy catalyst or reliable attribution. Keep pending rather than infer from solar-sector context.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/DQ?date=2013-06-17&view=daily"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Unresolved date-specific attribution cases remain pending.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ],
+  "ledger_sha256": "a13a14f2c560ba32e6ae3ed1730a156007963b212059f5df9f68db0f292f88d6"
+}

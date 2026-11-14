@@ -1,0 +1,130 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch12_6",
+  "n_reviewed": 6,
+  "n_promoted_to_keep": 2,
+  "n_confirmed_drop": 2,
+  "n_deferred": 2,
+  "n_timing_deferred": 0,
+  "n_category_deferred": 2,
+  "cumulative_n_policy_reviewed": 157,
+  "review_counts": {
+    "keep": 211,
+    "drop_earnings": 37,
+    "drop_other_not_234": 363,
+    "pending_news_review": 36,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 8,
+    "drop_analyst": 6,
+    "drop_financing": 7,
+    "drop_peer_sympathy": 3,
+    "drop_operating_update": 3,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 1
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 209,
+    "drop_earnings": 37,
+    "drop_other_not_234": 369,
+    "pending_news_review": 34,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 8,
+    "drop_analyst": 6,
+    "drop_financing": 6,
+    "drop_peer_sympathy": 3,
+    "drop_operating_update": 2,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 1
+  },
+  "changes": [
+    {
+      "symbol": "MGI",
+      "qdate": "2015-05-06",
+      "decision": "keep",
+      "cause_class": "2_ma_rumor",
+      "jump_cause": "ma_rumor",
+      "news_filter": "keep",
+      "rationale": "May 5 late-evening report describes possible Western Union acquisition talks and after-hours MoneyGram reaction, supporting May 6 rumor-driven session. Western Union explicitly denied the discussions on May 6. Class 2 covers takeover rumors; retain the denial and do not describe an agreed or completed acquisition.",
+      "sources": [
+        "https://www.rttnews.com/2493608/western-union-in-early-stage-talks-to-buy-moneygram-bloomberg.aspx",
+        "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2015/Western-Union-Statement/default.aspx"
+      ]
+    },
+    {
+      "symbol": "BJRI",
+      "qdate": "2014-03-06",
+      "decision": "keep",
+      "cause_class": "11_activist_alt",
+      "jump_cause": "activist_alt",
+      "news_filter": "keep",
+      "rationale": "March 6 issuer release confirms PW Partners and Luxor, jointly holding approximately 12.4%, intend to nominate five directors; a separate shareholder also nominated directors. This is an active board challenge eligible for class 11, rather than passive ownership disclosure. Nominations are not completed control change; earliest public disclosure is not certified.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1013488/000117184314001134/exh_991.htm"
+      ]
+    },
+    {
+      "symbol": "CONN",
+      "qdate": "2015-02-05",
+      "decision": "drop",
+      "cause_class": "operating_update",
+      "jump_cause": "operating_update",
+      "news_filter": "drop_operating_update",
+      "rationale": "February 5 issuer release reports retrospective January and fourth-quarter sales plus delinquency data. It does not establish a standalone material forward outlook step-up, new contract or partnership. Retain exclusion as operating update; the preliminary quarterly sales data also warrant screening for earnings precedence in production.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1223389/000122338915000005/conn20150205ex991.htm"
+      ]
+    },
+    {
+      "symbol": "SNOW",
+      "qdate": "2016-01-12",
+      "decision": "drop",
+      "cause_class": "financing",
+      "jump_cause": "financing",
+      "news_filter": "drop_financing",
+      "rationale": "Historical SNOW is Intrawest Resorts Holdings, not Snowflake. January 12 issuer release announces up to $50 million modified Dutch-auction self-tender at $9-$10 versus prior close $7.03. Capital return via issuer repurchase does not itself establish acquisition, activist campaign or strategic alternatives under the expanded classes.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1587755/000156761916001653/s001153x1_exa5a.htm",
+        "https://www.sec.gov/Archives/edgar/data/1587755/000156761916001653/s001153x1_sctoi.htm"
+      ]
+    },
+    {
+      "symbol": "CZR",
+      "qdate": "2016-09-21",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "September 21 issuer announcement proposes enhanced sponsor contributions to the CEOC restructuring plan amid creditor discussions. This is a proposal, not a completed legal settlement or court-approved unlock. Eligibility under legal-unlock or strategic-alternatives classes and session attribution remain unresolved; do not substitute later settlement news.",
+      "sources": [
+        "https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-and-its-sponsors-propose-increase",
+        "https://investor.caesars.com/static-files/0cc145d8-3132-4e4e-84f6-497d19415c5b"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "CARA",
+      "qdate": "2016-07-22",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Contemporaneous July 22 3:18 p.m. account explicitly calls the catalyst unclear, discussing analyst panel commentary and potential short covering. This does not establish newly successful clinical data or an issuer breakthrough. Preserve unresolved attribution rather than converting speculation into either a biotech keep or a definitive analyst-only exclusion.",
+      "sources": [
+        "https://www.schaeffersresearch.com/content/news/2016/07/22/cara-therapeutics-inc-cara-bull-gap-draws-options-traders"
+      ],
+      "defer_reason": "category"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

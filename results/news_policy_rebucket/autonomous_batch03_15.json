@@ -1,0 +1,221 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch03_15",
+  "n_reviewed": 15,
+  "n_promoted_to_keep": 5,
+  "n_confirmed_drop": 8,
+  "n_timing_deferred": 1,
+  "cumulative_n_policy_reviewed": 68,
+  "review_counts": {
+    "keep": 195,
+    "drop_earnings": 19,
+    "drop_other_not_234": 452,
+    "drop_mechanical": 1,
+    "pending_news_review": 6,
+    "drop_macro_sector": 3,
+    "drop_analyst": 2,
+    "drop_financing": 2,
+    "drop_etf": 1
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 190,
+    "drop_earnings": 16,
+    "drop_other_not_234": 467,
+    "drop_mechanical": 1,
+    "pending_news_review": 4,
+    "drop_analyst": 1,
+    "drop_financing": 2
+  },
+  "changes": [
+    {
+      "symbol": "SHOP",
+      "qdate": "2015-09-17",
+      "decision": "keep",
+      "cause_class": "6_partnership_license",
+      "jump_cause": "partnership_license",
+      "news_filter": "keep",
+      "rationale": "September 17 issuer release announces Amazon Webstore migration partnership and merchant integrations with Amazon services. Category 6 partnership; future integration delivery is separate from announcement.",
+      "sources": [
+        "https://www.shopify.com/news/shopify-and-amazon-team-up-to-help-online-merchants-grow"
+      ]
+    },
+    {
+      "symbol": "VISN",
+      "qdate": "2014-07-28",
+      "decision": "keep",
+      "cause_class": "6_partnership_license",
+      "jump_cause": "partnership_license",
+      "news_filter": "keep",
+      "rationale": "Issuer-distributed release timestamped July 28 at 09:25 ET announces strategic Huawei cooperation to expand mass-transit WiFi, with phased network and infrastructure deployment. Class 6 partnership; do not confuse this row with later VISN sector rebounds or asset sales.",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/visionchina-media-partners-with-huawei-to-expedite-national-mass-transit-wifi-network-expansion-268877081.html"
+      ]
+    },
+    {
+      "symbol": "AKBA",
+      "qdate": "2016-12-20",
+      "decision": "keep",
+      "cause_class": "6_partnership_license",
+      "jump_cause": "partnership_license",
+      "news_filter": "keep",
+      "rationale": "December 20 joint release announces US vadadustat collaboration and license, shared development costs and commercialization responsibility. Capital supports a defined development/operating collaboration rather than a stand-alone equity raise.",
+      "sources": [
+        "https://www.otsuka.co.jp/en/company/newsreleases/2016/20161220_2.html",
+        "https://ir.akebia.com/static-files/5603434d-2290-4533-829e-5cd283d90176"
+      ]
+    },
+    {
+      "symbol": "ATRA",
+      "qdate": "2015-06-15",
+      "decision": "keep",
+      "cause_class": "6_partnership_license",
+      "jump_cause": "partnership_license",
+      "news_filter": "keep",
+      "rationale": "June 15 issuer release announces exercise of an existing MSK option for an exclusive license to clinical-stage allogeneic T-cell therapies. New license exercise is the category-6 event; no claim that the underlying option or technology was first disclosed that day.",
+      "sources": [
+        "https://investors.atarabio.com/news-events/press-releases/detail/27/atara-biotherapeutics-exercises-exclusive-license-to-t-cell"
+      ]
+    },
+    {
+      "symbol": "EHTH",
+      "qdate": "2013-07-31",
+      "decision": "keep",
+      "cause_class": "6_partnership_license",
+      "jump_cause": "partnership_license",
+      "news_filter": "keep",
+      "rationale": "July 31 issuer release announces a CMS web-broker agreement enabling exchange enrollment in 36 states. Agreement execution July 29 is distinct from the release; category 6 commercial cooperation. Earlier publicity has not been exhaustively excluded.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1333493/000119312513311356/d573648dex992.htm",
+        "https://www.sec.gov/Archives/edgar/data/1333493/000119312513311356/d573648d8k.htm"
+      ]
+    },
+    {
+      "symbol": "SWIR",
+      "qdate": "2014-11-06",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "Contemporaneous market report attributes November 6 jump to Q3 results and forward guidance exceeding expectations. Guidance bundled with earnings remains class 1.",
+      "sources": [
+        "https://www.fool.com/investing/general/2014/11/06/why-sierra-wireless.aspx"
+      ]
+    },
+    {
+      "symbol": "TZOO",
+      "qdate": "2013-01-24",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "Contemporaneous January 24 market report attributes the move to Q4 revenue and EPS above expectations. Retain class 1 earnings exclusion.",
+      "sources": [
+        "https://www.fool.com/investing/general/2013/01/24/why-travelzoo-shares-took-flight.aspx"
+      ]
+    },
+    {
+      "symbol": "WPRT",
+      "qdate": "2014-05-02",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "Contemporaneous May 2 market report attributes the move to quarterly results and outlook. Upbeat annual guidance inside an earnings reaction remains class 1.",
+      "sources": [
+        "https://www.fool.com/investing/general/2014/05/02/why-westport-innovations-inc-shares-skyrocketed.aspx"
+      ]
+    },
+    {
+      "symbol": "WLL",
+      "qdate": "2016-11-30",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "November 30 market account places this issuer in the broad oil-stock rally after the OPEC production agreement. Existing commodity/sector attribution retained; no issuer-specific class 2–11 catalyst established in this review.",
+      "sources": [
+        "https://247wallst.com/energy/2016/11/30/did-opec-production-cut-make-more-speculative-oil-stocks-rally-too-much/2/"
+      ]
+    },
+    {
+      "symbol": "OAS",
+      "qdate": "2016-11-30",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "November 30 market account places this issuer in the broad oil-stock rally after the OPEC production agreement. Existing commodity/sector attribution retained; no issuer-specific class 2–11 catalyst established in this review.",
+      "sources": [
+        "https://247wallst.com/energy/2016/11/30/did-opec-production-cut-make-more-speculative-oil-stocks-rally-too-much/2/"
+      ]
+    },
+    {
+      "symbol": "CXW",
+      "qdate": "2016-11-09",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Post-election prison-sector rally; no issuer-specific approval or legal resolution established.",
+      "sources": [
+        "https://www.pressherald.com/2016/11/09/prospect-of-trump-presidency-unnerves-companies-economists/"
+      ]
+    },
+    {
+      "symbol": "GWPH",
+      "qdate": "2014-04-22",
+      "decision": "drop",
+      "cause_class": "analyst",
+      "jump_cause": "analyst",
+      "news_filter": "drop_analyst",
+      "rationale": "April 22 market coverage ties the move to Morgan Stanley initiation and favorable media commentary. No newly established trial readout, partnership or regulatory approval in this account.",
+      "sources": [
+        "https://247wallst.com/health-and-healthcare/2014/04/22/gw-pharma-dual-cannabinoid-endorsement-morgan-stanley-and-jim-cramer/"
+      ]
+    },
+    {
+      "symbol": "ZSL",
+      "qdate": "2013-04-15",
+      "decision": "drop",
+      "cause_class": "etf",
+      "jump_cause": "etf",
+      "news_filter": "drop_etf",
+      "rationale": "Sponsor identifies ZSL as UltraShort Silver ETF with inception December 2008, predating this row. Instrument is subject to the ETF hard exclusion regardless of news; no claim about historical option availability is made.",
+      "sources": [
+        "https://www.proshares.com/our-etfs/leveraged-and-inverse/zsl"
+      ]
+    },
+    {
+      "symbol": "GALT",
+      "qdate": "2013-09-11",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Issuer patent announcement is dated September 10, before the September 11 jump. A patent grant is not itself a clinical result or marketing approval; exact reaction timing and any independent qualifying catalyst remain unresolved.",
+      "sources": [
+        "https://investor.galectintherapeutics.com/static-files/d19386da-63cf-496f-98ce-32c51288107d"
+      ]
+    },
+    {
+      "symbol": "NGL",
+      "qdate": "2016-04-22",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Release combines $200 million convertible preferred financing, distribution reduction, revised guidance and an Oaktree strategic relationship to pursue assets jointly. Defined operating ambitions could fit class 6, but primary attribution between financing, outlook and collaboration is unresolved; do not automatically keep or confirm financing-only drop.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1504461/000150446116000005/exhibit991preferredunittra.htm"
+      ]
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ],
+  "n_deferred": 2,
+  "n_category_deferred": 1
+}

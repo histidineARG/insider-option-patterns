@@ -1,0 +1,171 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch56_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 2,
+  "n_confirmed_drop": 1,
+  "n_deferred": 7,
+  "n_timing_deferred": 6,
+  "n_category_deferred": 1,
+  "cumulative_n_policy_reviewed": 441,
+  "review_counts": {
+    "keep": 239,
+    "drop_earnings": 83,
+    "drop_peer_sympathy": 12,
+    "pending_news_review": 196,
+    "drop_mechanical": 2,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 29,
+    "drop_analyst": 11,
+    "drop_financing": 12,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2,
+    "drop_other_not_234": 79
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "QIWI",
+      "qdate": "2013-10-01",
+      "decision": "drop",
+      "cause_class": "financing",
+      "jump_cause": "financing",
+      "news_filter": "drop_financing",
+      "rationale": "A QIWI shareholder secondary offering began on October 1, 2013, when shareholders sold 9.43 million ADSs at $30.50 each, approximately 18.1% of issued share capital. This is a financing/secondary-sale event, not an eligible issuer catalyst.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1561566/000119312515088634/d888283d20f.htm",
+        "https://mondovisione.com/news/qiwi-depositary-shares-start-trading-on-moscow-exchange-2013108/"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "GPRO",
+      "qdate": "2016-04-13",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Contemporaneous coverage confirms the 19% rise but also reports a bearish Goldman analyst note; it does not explain what drove the upward move. No eligible cause is established for the recorded session.",
+      "sources": [
+        "https://www.benzinga.com/analyst-ratings/analyst-color/16/04/7837827/goldman-is-bearish-on-gopro-heading-into-earnings"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "CYTR",
+      "qdate": "2014-01-10",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Later litigation and press accounts describe a broader stock-promotion campaign and a multi-month price rise, but do not establish a distinct eligible catalyst or reliable attribution for January 10. Retain pending rather than infer a clinical result.",
+      "sources": [
+        "https://www.latimes.com/business/la-fi-stock-spotlight-cytrx-20140901-story.html",
+        "https://docs.justia.com/cases/federal/district-courts/california/cacdce/2%3A2014cv01956/585115/117/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "VISN",
+      "qdate": "2015-06-03",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The ticker history is complicated by the issuer’s prior delisting and later trading under a legacy symbol. Targeted review did not establish the correct security identity or an eligible same-session cause for this 2015 row; defer pending identity review.",
+      "sources": [
+        "https://www.investing.com/equities/visionchina-media-historical-data"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "EGY",
+      "qdate": "2014-03-14",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Oil/commodity context alone does not prove that the March 14 Vaalco move was a broad sector reaction, and no dated issuer-specific attribution was established. Retain pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/EGY?date=2014-03-14&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "TGI",
+      "qdate": "2015-12-29",
+      "decision": "keep",
+      "cause_class": "11_activist_alt",
+      "jump_cause": "activist_alt",
+      "news_filter": "keep",
+      "rationale": "Triumph appointed a new CEO and president on December 29, who announced a top-to-bottom strategic review aimed at improving performance and margins. This is a same-session strategic-review catalyst within class 11; the policy label does not assert a sale process.",
+      "sources": [
+        "https://www.yahoo.com/news/triumph-group-names-raytheons-crowley-192355237.html"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "EZPW",
+      "qdate": "2014-05-21",
+      "decision": "keep",
+      "cause_class": "11_activist_alt",
+      "jump_cause": "activist_alt",
+      "news_filter": "keep",
+      "rationale": "EZCORP announced that investor Jeffrey Cohen would advise on its business and long-term strategic plan through September. The issuer-specific strategic-review/advisor development fits class 11.",
+      "sources": [
+        "https://www.ezcorp.com/static-files/11472318-80b8-4678-81bb-b6d46c8d3ccc"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2013-12-12",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The known November FDA correspondence and clinical developments preceded this date; targeted review did not identify a qualifying December 12 event. Keep pending rather than infer a trial readout from the stock move.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/SRPT?date=2013-12-12&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "RVNC",
+      "qdate": "2016-09-16",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not recover a reliable dated issuer release or attributable event for the September 16 move. Keep pending; later company development and general biotech context are insufficient.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/RVNC?date=2016-09-16&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ICAD",
+      "qdate": "2013-10-10",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible cause for iCAD’s October 10 move. Keep pending rather than infer from the company’s earlier product and financing history.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/ICAD?date=2013-10-10&view=daily"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Unresolved attribution and security-identity cases remain pending.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

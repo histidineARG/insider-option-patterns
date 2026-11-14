@@ -1,0 +1,123 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch33_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 3,
+  "n_deferred": 2,
+  "n_timing_deferred": 2,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 286,
+  "review_counts": {
+    "keep": 225,
+    "drop_earnings": 77,
+    "drop_peer_sympathy": 9,
+    "pending_news_review": 83,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 8,
+    "drop_financing": 8,
+    "drop_other_not_234": 234,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 3,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 225,
+    "drop_earnings": 77,
+    "drop_peer_sympathy": 7,
+    "pending_news_review": 81,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 20,
+    "drop_analyst": 8,
+    "drop_financing": 8,
+    "drop_other_not_234": 239,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 3,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "NE",
+      "qdate": "2016-03-04",
+      "decision": "drop",
+      "cause_class": "peer_sympathy",
+      "jump_cause": "peer_sympathy",
+      "news_filter": "drop_peer_sympathy",
+      "rationale": "Peer-led relief rally; no issuer-specific keep event.",
+      "sources": [
+        "https://www.foxbusiness.com/markets/offshore-oil-gas-stocks-gain-big-on-seadrills-potential-bailout-sdrl-rig-esv-ne-tdw",
+        "https://www.fool.com/investing/general/2016/03/04/short-sellers-are-getting-scorched-as-the-atwood-o.aspx"
+      ]
+    },
+    {
+      "symbol": "RIG",
+      "qdate": "2016-03-04",
+      "decision": "drop",
+      "cause_class": "peer_sympathy",
+      "jump_cause": "peer_sympathy",
+      "news_filter": "drop_peer_sympathy",
+      "rationale": "Peer-led relief rally; no issuer-specific keep event.",
+      "sources": [
+        "https://www.foxbusiness.com/markets/offshore-oil-gas-stocks-gain-big-on-seadrills-potential-bailout-sdrl-rig-esv-ne-tdw"
+      ]
+    },
+    {
+      "symbol": "TDW",
+      "qdate": "2016-03-04",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Issuer legal-enforcement announcement is March 1, and trade coverage is March 3. March 4 commentary conflicts with that chronology. A legal unlock is plausible under class 9, but no distinct March 4 decision or first-public release is verified. Do not treat the earlier enforcement permission as a same-day award or received payment.",
+      "sources": [
+        "https://investor.tdw.com/news/news-details/2016/ICSID-Decides-that-Tidewater-is-Now-Free-to-Enforce-37-Million-of-the-65-Million-Arbitral-Award-for-the-Taking-of-the-Companys-Venezuelan-Operations/default.aspx",
+        "https://www.marinelog.com/offshore/oil-gas/tidewater-gets-ok-to-try-to-collect-part-of-venezuela-award/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "CLR",
+      "qdate": "2016-11-30",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Contemporaneous account explicitly links Continental Resources share gain to OPEC output agreement and oil-price rally. Retain commodity-policy exclusion; agreement is between producer countries, not an issuer customer contract.",
+      "sources": [
+        "https://oilprice.com/Energy/Energy-General/3-Billion-In-3-Hours-Energy-Mogul-Hamm-Cashes-In-On-OPEC-Deal.html",
+        "https://ca.investing.com/news/stock-market-news/global-markets-oil-jumps-on-opec-deal%3B-bond-rout-resumes-106374"
+      ]
+    },
+    {
+      "symbol": "NRP",
+      "qdate": "2016-06-20",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Legacy market-mover locator does not discuss Natural Resource Partners; it covers five other issuers. Primary Williston asset-sale announcement was June 14, six days earlier. Commodity rebound supplies context, but direct June 20 catalyst is unverified; leave pending rather than certify unsupported legacy attribution.",
+      "sources": [
+        "https://www.insidermonkey.com/blog/heres-why-these-five-stocks-are-advancing-on-monday-461071/",
+        "https://www.prnewswire.com/news-releases/natural-resource-partners-to-sell-non-operated-oil-and-gas-working-interest-assets-300284062.html"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

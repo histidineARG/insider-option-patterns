@@ -1,0 +1,181 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch02_12",
+  "n_reviewed": 12,
+  "n_promoted_to_keep": 4,
+  "n_confirmed_drop": 8,
+  "n_timing_deferred": 0,
+  "cumulative_n_policy_reviewed": 53,
+  "review_counts": {
+    "keep": 190,
+    "drop_earnings": 16,
+    "drop_other_not_234": 467,
+    "drop_mechanical": 1,
+    "pending_news_review": 4,
+    "drop_analyst": 1,
+    "drop_financing": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 186,
+    "drop_other_not_234": 479,
+    "drop_mechanical": 1,
+    "pending_news_review": 4,
+    "drop_earnings": 9,
+    "drop_analyst": 1,
+    "drop_financing": 1
+  },
+  "changes": [
+    {
+      "symbol": "INO",
+      "qdate": "2015-08-10",
+      "decision": "keep",
+      "cause_class": "6_partnership_license",
+      "jump_cause": "partnership_license",
+      "news_filter": "keep",
+      "rationale": "August 10 counterparty release announces MedImmune exclusive INO-3112 rights and development collaboration, with $27.5 million upfront and milestone/royalty economics. Category is license collaboration rather than trial results.",
+      "sources": [
+        "https://www.astrazeneca.com/media-centre/press-releases/2015/medimmune-inovio-pharmaceuticals-cancer-vaccine-10082015.html"
+      ]
+    },
+    {
+      "symbol": "TRIP",
+      "qdate": "2015-10-14",
+      "decision": "keep",
+      "cause_class": "6_partnership_license",
+      "jump_cause": "partnership_license",
+      "news_filter": "keep",
+      "rationale": "October 14 joint release announces Priceline brands joining TripAdvisor instant booking, initially Booking.com. Integration is forthcoming; this is partnership announcement rather than earnings.",
+      "sources": [
+        "https://tripadvisor.mediaroom.com/2015-10-14-TripAdvisor-and-The-Priceline-Group-Announce-Instant-Booking-Partnership"
+      ]
+    },
+    {
+      "symbol": "GDOT",
+      "qdate": "2014-09-24",
+      "decision": "keep",
+      "cause_class": "10_product_launch",
+      "jump_cause": "product_launch",
+      "news_filter": "keep",
+      "rationale": "September 24 joint release announces nationwide GoBank checking-account rollout exclusively at Walmart, with nationwide availability expected by end of October. Class 10 commercialization is primary; Walmart partnership is concurrent context.",
+      "sources": [
+        "https://ir.greendot.com/news-releases/news-release-details/green-dots-gobank-checking-account-launches-exclusively-walmart"
+      ]
+    },
+    {
+      "symbol": "LITB",
+      "qdate": "2014-06-27",
+      "decision": "keep",
+      "cause_class": "8_guidance_stepup",
+      "jump_cause": "guidance_stepup",
+      "news_filter": "keep",
+      "rationale": "June 27 standalone release raises Q2 revenue forecast from $84–86 million to $86–88 million. It provides a forward quarterly revenue range without a routine quarterly earnings release; class 8 standalone guidance update.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1523836/000110465914049070/a14-16205_1ex99d1.htm"
+      ]
+    },
+    {
+      "symbol": "CSTM",
+      "qdate": "2015-11-05",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "November 5 release reports Q3 results. Muscle Shoals alternatives are mentioned inside the earnings report; existing earnings-led attribution retained rather than treating that context as a separately verified activist catalyst.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1563411/000119312515368509/d52641dex991.htm"
+      ]
+    },
+    {
+      "symbol": "MPAA",
+      "qdate": "2013-11-12",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "November 12 release reports fiscal Q2 and six-month results, including a return to profit. Product-line discussion appears within quarterly results; earnings exclusion applies.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/918251/000114036113042172/ex99_1.htm"
+      ]
+    },
+    {
+      "symbol": "ANF",
+      "qdate": "2015-11-20",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "November 20 release reports Q3 GAAP and adjusted earnings and operating performance. Existing earnings-led jump attribution retained.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1018840/000101884015000060/q32015earningsrelease.htm"
+      ]
+    },
+    {
+      "symbol": "BBSI",
+      "qdate": "2016-05-26",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "May 26 release reports delayed Q4/full-year 2015 results and filed restatements. Filing catch-up and improved earnings are mixed context; no independently verified legal resolution is established.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/902791/000114420416105394/v441166_ex99-1.htm"
+      ]
+    },
+    {
+      "symbol": "CSIQ",
+      "qdate": "2014-08-13",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "August 13 issuer release reports Q2 financial results and provides guidance. Existing earnings-led jump attribution retained.",
+      "sources": [
+        "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-reports-second-quarter-2014-results"
+      ]
+    },
+    {
+      "symbol": "ESI",
+      "qdate": "2014-10-17",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "October 17 historical ITT Educational release reports preliminary Q2/Q3 operating results, enrollment and liquidity figures. This is retrospective period-results news, not a standalone forward guidance step-up. Preserve historical CIK 922475 identity caveat.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/922475/000092247514000032/exhibit99_1.htm"
+      ]
+    },
+    {
+      "symbol": "AMED",
+      "qdate": "2014-06-27",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "June 27 release previews the nearly completed quarter with revenue and EPS estimates tied to recent operating results. Treat preliminary quarterly earnings as class 1; do not promote a retrospective results preview as a standalone forward outlook step-change.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/896262/000119312514251863/d750974dex991.htm"
+      ]
+    },
+    {
+      "symbol": "FRBK",
+      "qdate": "2016-12-06",
+      "decision": "drop",
+      "cause_class": "financing",
+      "jump_cause": "financing",
+      "news_filter": "drop_financing",
+      "rationale": "December 5 issuer release announces completion of a $100 million new-share offering and Vernon Hill appointment as chairman. Primary financing and governance event; no activist campaign or operating partnership substantiated by this release.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/834285/000095015916000819/exhibit99-1.htm"
+      ]
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ],
+  "n_deferred": 0,
+  "n_category_deferred": 0
+}

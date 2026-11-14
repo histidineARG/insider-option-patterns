@@ -1,6 +1,9 @@
 """Examine ≥15% NYSE-calendar jumps and drop earnings using the EDGAR 8-K 2.02 calendar.
 
-Policy: keep 2 (M&A), 3 (biotech trial), 4 (tech breakthrough); drop 1 (earnings).
+Policy: keep 2–11; drop 1 (earnings). Canonical taxonomy: METHODOLOGY.md §9.
+Keep: 2 M&A, 3 biotech trial, 4 tech breakthrough, 5 commercial contract,
+6 partnership/license, 7 regulatory approval, 8 guidance step-up, 9 legal unlock,
+10 product launch, 11 activist/alternatives.
 Earnings drops are assigned when a jump's reaction session is the first NYSE session
 at/after an EDGAR Item 2.02 acceptance datetime (same calendar day before open counts
 as that session; after-close acceptance maps to the next session).
@@ -414,8 +417,8 @@ def write_outputs(root: Path, rows: list[dict], start: date, end: date) -> dict:
         cause_class_counts=counts,
         news_filter_counts=filter_counts,
         policy=(
-            'keep 2,3,4; drop 1 (earnings via EDGAR 8-K Item 2.02); '
-            'hard-drop sub_$5, ETF/ETN denylist, no_option'
+            'keep 2-11; drop 1 (earnings via EDGAR 8-K Item 2.02); '
+            'hard-drop sub_$5, ETF/ETN denylist, no_option; see METHODOLOGY.md §9'
         ),
         notes=[
             'Jumps are NYSE-calendar consecutive close-to-close with volume ≥2× prior session.',
@@ -423,21 +426,21 @@ def write_outputs(root: Path, rows: list[dict], start: date, end: date) -> dict:
             'drop_sub_5 uses prev_close < $5; drop_etf uses data/event_review_overrides.json etf_etn_denylist.',
             'drop_no_option requires absence from both optiondaily and optiondaily3 on qdate.',
             'Manual reviews in data/price_jump_news_reviews.json overlay pending rows; earnings still wins.',
-            'Unclassified pending rows still need news review for classes 2/3/4.',
+            'Unclassified pending rows still need news review for keep classes 2-11.',
         ],
     )
     (out / f'manifest_{stamp}.json').write_text(json.dumps(manifest, indent=2) + '\n')
     lines = [
         f'# Price-jump examine {start} → {end}',
         '',
-        'Policy: **keep 2/3/4**, **drop 1** (EDGAR 8-K Item 2.02), plus hard drops '
-        '**sub-$5 / ETF / no-option**.',
+        'Policy: **keep 2–11**, **drop 1** (EDGAR 8-K Item 2.02), plus hard drops '
+        '**sub-$5 / ETF / no-option** (METHODOLOGY.md §9).',
         '',
         f"Jumps (≥15%, vol≥2×): **{len(rows)}**. With CIK map: **{with_cik}**.",
         f"Cause counts: {counts}.",
         f"Filter counts: {filter_counts}.",
         '',
-        'Pending rows still need news review for keep classes 2/3/4.',
+        'Pending rows still need news review for keep classes 2–11.',
         '',
     ]
     (out / f'REPORT_{stamp}.md').write_text('\n'.join(lines))
