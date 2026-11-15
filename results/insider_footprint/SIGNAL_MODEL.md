@@ -53,26 +53,50 @@ A higher score means the window looks more like the pre-deal windows in the trai
 
 ## Daily top picks, 2026-11-13
 
-On each session the frozen logistic scores every optionable name from the ten sessions ending at that close. Names are ordered by the linear score, because the probability saturates near 1 when that ten-session return is very large. It names the top 3 and the top 4. A hit is a later close at least 15% above that close, either at the horizon or at the highest close inside it. A one-day move of +100% or −50%, or a split, is not counted as a jump. A session counts only when every name in the slate has a close at that horizon. The coefficients are the 2013–2019 fit. This test does not choose a new cutoff.
+On each session the frozen logistic scores every optionable name from the sessions in the 40 calendar days ending at that close. A single day in that span sets the peak call volume and the largest open-interest build. Several days add up in the call/put total. Names are ordered by the linear score. The five-feature score still includes the stock’s own return over that span. The option-only score leaves that return out, so one call print can rank a name that has not already run up. It names the top 3 and the top 4. A hit is a later close at least 15% above the scoring close, either at 5, 10, or 20 sessions or inside the next 40 calendar days. A one-day move of +100% or −50%, or a split, is not counted as a jump. A session counts only when every name in the slate has a close at that horizon. The coefficients are the 2013–2019 fit. This test does not choose a new cutoff.
 
-The stock return in the score is the change from ten sessions earlier through the scoring close. It does not use the path into a later headline. That return has the largest frozen weight, so the top of the list is the names that already rose the most. On this run the median ten-session return of the highest-ranked name was about 25 times, and the 10th percentile was still about 9 times.
+The stock return stops at the scoring close. It does not use the path into a later headline.
 
-Names scanned: 8616. Scoring sessions: 1221. Standardization check gap: 0.0.
+Names scanned: 6185. Scoring sessions: 1182. Standardization check gap: 0.0.
 
-| Slate | Horizon | Jump | Dates | Date hit rate | Random slate | Hit rate per pick | False picks per hit | M&A | Earnings | Other |
-| --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| top 3 | 5 | terminal | 956 | 0.306 | 0.080 | 0.120 | 7.337 | 0 | 11 | 333 |
-| top 3 | 5 | peak | 956 | 0.474 | 0.108 | 0.199 | 4.032 | 2 | 20 | 548 |
-| top 3 | 10 | terminal | 777 | 0.413 | 0.148 | 0.177 | 4.658 | 1 | 32 | 379 |
-| top 3 | 10 | peak | 777 | 0.644 | 0.221 | 0.311 | 2.211 | 7 | 48 | 671 |
-| top 3 | 20 | terminal | 505 | 0.481 | 0.246 | 0.202 | 3.951 | 8 | 34 | 264 |
-| top 3 | 20 | peak | 505 | 0.770 | 0.386 | 0.411 | 1.432 | 15 | 72 | 536 |
-| top 4 | 5 | terminal | 934 | 0.401 | 0.104 | 0.127 | 6.899 | 1 | 13 | 459 |
-| top 4 | 5 | peak | 934 | 0.584 | 0.141 | 0.204 | 3.896 | 3 | 22 | 738 |
-| top 4 | 10 | terminal | 746 | 0.517 | 0.191 | 0.181 | 4.536 | 3 | 41 | 495 |
-| top 4 | 10 | peak | 746 | 0.752 | 0.282 | 0.316 | 2.168 | 11 | 62 | 869 |
-| top 4 | 20 | terminal | 472 | 0.568 | 0.311 | 0.209 | 3.792 | 11 | 38 | 345 |
-| top 4 | 20 | peak | 472 | 0.852 | 0.473 | 0.412 | 1.430 | 18 | 84 | 675 |
+| Score | Slate | Horizon | Jump | Dates | Date hit rate | Random slate | Hit rate per pick | False picks per hit | M&A | Earnings | Other |
+| --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| five-feature | top 3 | 5 | terminal | 927 | 0.303 | 0.097 | 0.118 | 7.453 | 6 | 27 | 296 |
+| five-feature | top 3 | 5 | peak | 927 | 0.451 | 0.131 | 0.186 | 4.390 | 8 | 36 | 472 |
+| five-feature | top 3 | 10 | terminal | 742 | 0.414 | 0.178 | 0.169 | 4.905 | 5 | 45 | 327 |
+| five-feature | top 3 | 10 | peak | 742 | 0.636 | 0.264 | 0.296 | 2.373 | 12 | 67 | 581 |
+| five-feature | top 3 | 20 | terminal | 446 | 0.442 | 0.296 | 0.207 | 3.830 | 7 | 46 | 224 |
+| five-feature | top 3 | 20 | peak | 446 | 0.722 | 0.451 | 0.402 | 1.487 | 13 | 87 | 438 |
+| five-feature | top 3 | 40d | terminal | 375 | 0.427 | 0.366 | 0.220 | 3.536 | 3 | 46 | 199 |
+| five-feature | top 3 | 40d | peak | 375 | 0.765 | 0.547 | 0.445 | 1.246 | 11 | 94 | 396 |
+| five-feature | top 4 | 5 | terminal | 919 | 0.366 | 0.126 | 0.118 | 7.470 | 6 | 31 | 397 |
+| five-feature | top 4 | 5 | peak | 919 | 0.522 | 0.169 | 0.183 | 4.454 | 9 | 41 | 624 |
+| five-feature | top 4 | 10 | terminal | 730 | 0.479 | 0.226 | 0.163 | 5.134 | 5 | 53 | 418 |
+| five-feature | top 4 | 10 | peak | 730 | 0.690 | 0.329 | 0.287 | 2.484 | 14 | 80 | 744 |
+| five-feature | top 4 | 20 | terminal | 435 | 0.510 | 0.367 | 0.206 | 3.847 | 9 | 57 | 293 |
+| five-feature | top 4 | 20 | peak | 435 | 0.782 | 0.542 | 0.403 | 1.479 | 17 | 106 | 579 |
+| five-feature | top 4 | 40d | terminal | 366 | 0.503 | 0.447 | 0.221 | 3.533 | 6 | 58 | 259 |
+| five-feature | top 4 | 40d | peak | 366 | 0.820 | 0.642 | 0.441 | 1.270 | 16 | 114 | 515 |
+
+Highest five-feature name: median lookback return 33.600, 10th percentile 15.659.
+| option-only | top 3 | 5 | terminal | 1088 | 0.090 | 0.100 | 0.032 | 29.792 | 5 | 1 | 100 |
+| option-only | top 3 | 5 | peak | 1088 | 0.114 | 0.134 | 0.041 | 23.358 | 5 | 3 | 126 |
+| option-only | top 3 | 10 | terminal | 1000 | 0.185 | 0.180 | 0.065 | 14.306 | 7 | 4 | 185 |
+| option-only | top 3 | 10 | peak | 1000 | 0.271 | 0.266 | 0.099 | 9.067 | 8 | 5 | 285 |
+| option-only | top 3 | 20 | terminal | 852 | 0.311 | 0.293 | 0.119 | 7.380 | 18 | 17 | 270 |
+| option-only | top 3 | 20 | peak | 852 | 0.477 | 0.446 | 0.192 | 4.195 | 24 | 32 | 436 |
+| option-only | top 3 | 40d | terminal | 763 | 0.381 | 0.355 | 0.159 | 5.306 | 32 | 42 | 289 |
+| option-only | top 3 | 40d | peak | 763 | 0.549 | 0.539 | 0.248 | 3.037 | 34 | 71 | 462 |
+| option-only | top 4 | 5 | terminal | 1081 | 0.107 | 0.129 | 0.030 | 32.262 | 6 | 1 | 123 |
+| option-only | top 4 | 5 | peak | 1081 | 0.137 | 0.172 | 0.038 | 25.048 | 6 | 3 | 157 |
+| option-only | top 4 | 10 | terminal | 988 | 0.222 | 0.229 | 0.061 | 15.398 | 9 | 4 | 228 |
+| option-only | top 4 | 10 | peak | 988 | 0.328 | 0.332 | 0.095 | 9.511 | 11 | 7 | 358 |
+| option-only | top 4 | 20 | terminal | 825 | 0.366 | 0.362 | 0.114 | 7.753 | 25 | 23 | 329 |
+| option-only | top 4 | 20 | peak | 825 | 0.554 | 0.533 | 0.185 | 4.392 | 34 | 41 | 537 |
+| option-only | top 4 | 40d | terminal | 734 | 0.447 | 0.430 | 0.154 | 5.510 | 40 | 59 | 352 |
+| option-only | top 4 | 40d | peak | 734 | 0.638 | 0.628 | 0.244 | 3.095 | 47 | 94 | 576 |
+
+Highest option-only name: median lookback return 0.015, 10th percentile -0.116.
 
 Date hit rate is the share of sessions where at least one name in the slate jumps. Random slate is the average probability that a random draw of the same size, from that session’s optionable names, contains a jump. False picks per hit is the number of slate names that do not jump divided by the number that do.
 

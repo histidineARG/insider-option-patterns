@@ -6,6 +6,7 @@ import math
 from pathlib import Path
 
 from exploratory_patterns import alert, valid
+from etp_exclusion import partition_rows
 from research_cohort import write_rows
 
 
@@ -154,11 +155,13 @@ def event_recall_stub(events, episodes):
                 recall=(hit / len(ready) if ready else None))
 
 
-def run(root=Path('.')):
+def run(root=Path('.'), include_etp=False):
     protocol = json.loads((root/'data/evaluation_protocol.json').read_text())
     observations = json.loads((root/'results/research_dataset/observations.json').read_text())
+    observations, etp_observations = partition_rows(observations, include_etp=include_etp)
     dataset_manifest = json.loads((root/'results/research_dataset/manifest.json').read_text())
     events = json.loads((root/'results/reviewed_cohort/events.json').read_text())
+    events, etp_events = partition_rows(events, include_etp=include_etp)
     calendar = json.loads((root/'data/calendar/nyse_sessions.json').read_text())
     calendar_index = {r['session']: i for i, r in enumerate(calendar)}
     blocked = blocked_gates(dataset_manifest, protocol, observations)
@@ -186,6 +189,7 @@ def run(root=Path('.')):
         logistic_weights=logistic_weights,
         event_recall=recall,
         fixed_rule_summary=summary,
+        etp_exclusion=dict(observations=etp_observations, events=etp_events),
         source_sha256={
             'results/research_dataset/observations.json':
                 hashlib.sha256((root/'results/research_dataset/observations.json').read_bytes()).hexdigest(),
@@ -197,6 +201,9 @@ def run(root=Path('.')):
              'Fixed-rule episode construction and logistic interfaces are implemented against '
              'the time-safe observation table. Population accuracy, precision, false-positive '
              'rates, and trading returns remain unauthorized while evidence gates fail.', '',
+             f"ETP exclusion removed {etp_observations['removed']} observations and {etp_events['removed']} events from this table. "
+             'The research dataset applies the same filter when it is rebuilt, so a second pass here removes only names still present in the saved file.',
+             '',
              '## Blocked gates' if blocked else '## Gates', '']
     if blocked:
         lines += [f'- {g}' for g in blocked]

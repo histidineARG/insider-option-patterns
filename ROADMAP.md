@@ -1,6 +1,10 @@
 # Research roadmap
 
-Updated: 2026-11-06. Governing protocol: METHODOLOGY.md.
+Updated: 2026-11-15. Governing protocol: METHODOLOGY.md.
+
+## ETF and ETP exclusion
+
+Candidate universes, screens, backtests, and the random or matched draws taken from those universes drop ETFs, ETNs, and other exchange-traded products by default. The shared filter is `etp_exclusion.py` with the snapshot in `data/etp/etp_universe.json`. `--include-etp` keeps them for one run. SPY remains available as a market benchmark where a script loads that series on its own. Refresh and coverage limits are in `data/etp/README.md`. Chain-scan refits were not rerun with this filter; see `results/etp_exclusion/CENSUS.md`.
 
 ## Completed before this run
 

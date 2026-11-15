@@ -8,8 +8,10 @@ Event counts use the last 10 pre-announcement sessions and require the next-sess
 
 | Minimum volume | Prior-volume multiple | Events with alert / events with usable data | Background observations with alert / usable observations |
 | ---: | ---: | ---: | ---: |
-| 100 | 3 | 10 / 23 | 52 / 1181 |
-| 500 | 5 | 8 / 23 | 25 / 1181 |
-| 1000 | 10 | 4 / 23 | 8 / 1181 |
+| 100 | 3 | 10 / 23 | 51 / 1178 |
+| 500 | 5 | 8 / 23 | 17 / 1178 |
+| 1000 | 10 | 4 / 23 | 8 / 1178 |
+
+ETP exclusion removed 0 event rows and 0 background rows before these counts.
 
 Do not choose a winning threshold from this table. Next steps are primary-source first-disclosure review, event-universe expansion, historical security classification and coverage repair, followed by chronological training/validation/test construction. An event without an alert in this diagnostic is not yet a validated false negative.

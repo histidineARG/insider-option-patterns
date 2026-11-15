@@ -9,6 +9,7 @@ from datetime import date, timedelta
 from pathlib import Path
 
 from insider_resolved import connect, expiry_class, load_sessions
+from etp_exclusion import add_argument, partition_rows, stats_line
 
 MIN_PATH = 0.15
 HAZARD_UP = 1.0
@@ -167,10 +168,12 @@ def load_pool(root: Path):
     return [row for row in payload['events'] if row['path'] >= MIN_PATH]
 
 
-def run(root: Path) -> dict:
+def run(root: Path, include_etp: bool = False) -> dict:
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
     pool = load_pool(root)
+    pool, etp_stats = partition_rows(pool, include_etp=include_etp)
+    print(stats_line(etp_stats), flush=True)
     connection = connect()
     spy = {}
     results = []
@@ -214,6 +217,7 @@ def run(root: Path) -> dict:
         baseline_consistent=sum(row.get('status') == 'baseline-consistent' for row in admitted),
         baseline_missing=sum(row.get('status') == 'baseline-missing' for row in admitted),
         by_year={},
+        etp_exclusion=etp_stats,
     )
     for row in candidates:
         summary['by_year'][row['qdate'][:4]] = summary['by_year'].get(row['qdate'][:4], 0) + 1
@@ -356,7 +360,11 @@ def render(summary, sample) -> str:
 
 
 def main():
-    run(Path('.'))
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path('.'), include_etp=args.include_etp)
     return 0
 
 

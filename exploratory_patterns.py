@@ -3,6 +3,7 @@ from collections import defaultdict
 import json
 from pathlib import Path
 
+from etp_exclusion import partition_rows
 from research_cohort import write_rows
 
 
@@ -17,9 +18,11 @@ def alert(row,minimum_volume,multiple):
                 (row.get('otm_ratio20') is not None and row['otm_ratio20']>=multiple))
 
 
-def run(root=Path('.')):
+def run(root=Path('.'), include_etp=False):
     events=json.loads((root/'results/research_cohort/pre_event_features.json').read_text())
     background=json.loads((root/'results/background_sample/observations.json').read_text())
+    events, etp_events = partition_rows(events, include_etp=include_etp)
+    background, etp_background = partition_rows(background, include_etp=include_etp)
     groups=defaultdict(list)
     for r in events:groups[r['symbol'],r['announcement_date']].append(r)
     summary=[];details=[]
@@ -54,7 +57,10 @@ def run(root=Path('.')):
            '| ---: | ---: | ---: | ---: |']
     for r in summary:
         lines.append(f"| {r['min_otm_call_volume']} | {r['min_ratio20']} | {r['events_with_descriptive_alert']} / {r['events_with_any_usable_entry_proxy_session']} | {r['background_alert_observations']} / {r['background_valid_observations']} |")
-    lines+=['','Do not choose a winning threshold from this table. Next steps are primary-source first-disclosure review, event-universe expansion, historical security classification and coverage repair, followed by chronological training/validation/test construction. An event without an alert in this diagnostic is not yet a validated false negative.','']
+    lines+=['',
+            f"ETP exclusion removed {etp_events['removed']} event rows and {etp_background['removed']} background rows before these counts.",
+            '',
+            'Do not choose a winning threshold from this table. Next steps are primary-source first-disclosure review, event-universe expansion, historical security classification and coverage repair, followed by chronological training/validation/test construction. An event without an alert in this diagnostic is not yet a validated false negative.','']
     (folder/'REPORT.md').write_text('\n'.join(lines))
     print(json.dumps(summary,indent=2))
     return summary

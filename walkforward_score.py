@@ -13,6 +13,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, timedelta
 from pathlib import Path
 
+from etp_exclusion import add_argument, partition_symbols, stats_line
 from insider_model import fit_ridge_logistic
 from insider_resolved import connect, expiry_class, load_sessions
 from ma_candidate_screen import covering
@@ -416,7 +417,7 @@ def _fmt(value):
     return 'n/a' if value is None else f'{value:.3f}'
 
 
-def run(root: Path) -> dict:
+def run(root: Path, include_etp: bool = False) -> dict:
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
     monthlies = monthly_dates(CHAIN_FROM, date(2027, 2, 1))
@@ -432,6 +433,8 @@ def run(root: Path) -> dict:
                 (START, END),
             )
             symbols = sorted(row['symbol'] for row in cursor.fetchall())
+            symbols, etp_stats = partition_symbols(symbols, include_etp=include_etp)
+            print(stats_line(etp_stats), flush=True)
             cursor.execute(
                 "SELECT symbol, splitdate FROM split WHERE splitdate BETWEEN %s AND %s",
                 (CHAIN_FROM, END),
@@ -442,7 +445,8 @@ def run(root: Path) -> dict:
         connection.close()
     if not standard.get('ok'):
         report = dict(reason='recovered training coefficients do not match the frozen fit',
-                      five_gap=standard.get('five_gap'), option_gap=standard.get('option_gap'), symbols=0, sessions=0)
+                      five_gap=standard.get('five_gap'), option_gap=standard.get('option_gap'), symbols=0, sessions=0,
+                      etp_exclusion=etp_stats)
         _write(root, report)
         return report
     scan_symbol.means = standard['means']
@@ -453,7 +457,11 @@ def run(root: Path) -> dict:
     scan_symbol.option_beta = standard['option_beta']
     checkpoint = root / 'results' / 'insider_footprint' / 'walk_checkpoint.json'
     saved = json.loads(checkpoint.read_text()) if checkpoint.exists() else {}
-    if saved.get('version') == 2:
+    resume = (
+        (include_etp and saved.get('version') == 2)
+        or ((not include_etp) and saved.get('version') == 3 and saved.get('etp_excluded') is True)
+    )
+    if resume:
         heaps = saved['heaps']
         counts = saved['counts']
         done = set(saved['done'])
@@ -466,7 +474,11 @@ def run(root: Path) -> dict:
     finished = len(done)
 
     def _checkpoint():
-        checkpoint.write_text(json.dumps(dict(version=2, heaps=heaps, counts=counts, done=sorted(done))) + '\n')
+        checkpoint.write_text(json.dumps(dict(
+            version=2 if include_etp else 3,
+            etp_excluded=not include_etp,
+            heaps=heaps, counts=counts, done=sorted(done),
+        )) + '\n')
 
     with ThreadPoolExecutor(max_workers=4) as pool:
         futures = {pool.submit(scan_symbol, symbol, sessions, index, monthlies, splits): symbol for symbol in pending}
@@ -487,6 +499,7 @@ def run(root: Path) -> dict:
     _checkpoint()
     ma, earn = _load_news(root, sessions, index)
     report = _finish(symbols, heaps, counts, standard, sessions, index, ma, earn)
+    report['etp_exclusion'] = etp_stats
     _write(root, report)
     return report
 
@@ -572,7 +585,11 @@ def _write(root: Path, report: dict) -> None:
 
 
 def main():
-    run(Path('.'))
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path('.'), include_etp=args.include_etp)
     return 0
 
 

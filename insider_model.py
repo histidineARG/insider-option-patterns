@@ -241,7 +241,10 @@ def evaluate_model(samples, names=FEATURE_NAMES, ridge=RIDGE):
     )
 
 
-def samples_from_records(records) -> list[dict]:
+def samples_from_records(records, include_etp: bool = False) -> list[dict]:
+    if not include_etp:
+        from etp_exclusion import partition_rows
+        records, _stats = partition_rows(records)
     samples = []
     for record in records:
         if record.get('tier') != 'A':

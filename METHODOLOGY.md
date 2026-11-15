@@ -149,7 +149,7 @@ same-session public cause before any training label is considered.
 
 1. Take NYSE-calendar consecutive close-to-close returns of at least 15% with
    volume at least 2× the prior session (`price_jump_examine.py`).
-2. Hard-drop ETF/ETN denylist symbols, prior close under $5, and symbols with no
+2. Hard-drop exchange-traded products from `etp_exclusion.py` (`data/etp/etp_universe.json`), prior close under $5, and symbols with no
    `optiondaily` / `optiondaily3` row on the jump date.
 3. Auto-drop earnings when a mapped CIK has an EDGAR 8-K Item 2.02 acceptance
    whose reaction session equals the jump session (`edgar_earnings_calendar.py`).
@@ -194,7 +194,7 @@ Class notes:
 
 ### Still dropped (not keep classes)
 
-- Hard filters: sub-$5 prior close, ETF/ETN denylist, no option chain that day.
+- Hard filters: sub-$5 prior close, exchange-traded products (`etp_exclusion.py`), no option chain that day.
 - Mechanical prints (for example reverse splits) and other non-economic artifacts.
 - Dilutive financing / offerings as the primary attributed cause.
 - Peer-sympathy moves with no issuer-specific catalyst.

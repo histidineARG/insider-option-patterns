@@ -8,10 +8,11 @@ import re
 import statistics
 
 from sec_match import connection
+from etp_exclusion import add_argument, is_etp
 from market_calendar import sessions
 
 
-def scan(c, root=Path('.'), minimum_return=0.10, filing_lag_days=180):
+def scan(c, root=Path('.'), minimum_return=0.10, filing_lag_days=180, include_etp=False):
     source=root/'data/m_and_a/sec_filing_search/merger_filings_2013_2026.csv'
     filings=list(csv.DictReader(source.open()))
     with c.cursor() as q:
@@ -30,8 +31,11 @@ def scan(c, root=Path('.'), minimum_return=0.10, filing_lag_days=180):
                 for token in re.split(r'[,; ]+',text):
                     if re.fullmatch(r'[A-Z][A-Z0-9.\-]{0,9}',token) and token!='CIK':symbols.add(token)
             for symbol in symbols:by_symbol.setdefault(symbol,[]).append(f)
-        output=[];symbols_with_quotes=0
+        output=[];symbols_with_quotes=0;etp_skipped=0
         for i,(symbol,docs) in enumerate(sorted(by_symbol.items())):
+            if not include_etp and is_etp(symbol):
+                etp_skipped += 1
+                continue
             docs=sorted(docs,key=lambda f:f['filing_date'])
             dates=[date.fromisoformat(f['filing_date']) for f in docs]
             start=max(date(2013,1,1),dates[0]-timedelta(days=filing_lag_days+35))
@@ -74,6 +78,7 @@ def scan(c, root=Path('.'), minimum_return=0.10, filing_lag_days=180):
             row=dict(row,ciks=';'.join(row['ciks']),filer_names=';'.join(row['filer_names']))
             writer.writerow(row)
     manifest=dict(symbols_considered=len(by_symbol),symbols_with_quotes=symbols_with_quotes,
+                  etp_symbols_skipped=etp_skipped,
                   calendar_source='data/calendar/manifest.json',
                   price_action_leads=len(output),at_least_15pct=sum(r['close_return_pct']>=15 for r in output),
                   minimum_return_pct=minimum_return*100,maximum_filing_lag_days=filing_lag_days,
@@ -90,4 +95,8 @@ def scan(c, root=Path('.'), minimum_return=0.10, filing_lag_days=180):
 
 
 if __name__=='__main__':
-    with connection() as c:scan(c)
+    import argparse
+    parser=argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args=parser.parse_args()
+    with connection() as c:scan(c, include_etp=args.include_etp)

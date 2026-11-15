@@ -11,6 +11,7 @@ from datetime import date, timedelta
 from pathlib import Path
 
 from insider_model import auc, fit_ridge_logistic, predict
+from etp_exclusion import add_argument, partition_rows, stats_line
 from ma_candidate_screen import covering, fetch_chain, series_metrics
 from insider_resolved import connect, load_sessions
 
@@ -147,11 +148,13 @@ def features_for(connection, sessions, index, symbol, days, cover_event):
     return window_features(rows, cover, days, closes)
 
 
-def run(root: Path) -> dict:
+def run(root: Path, include_etp: bool = False) -> dict:
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
     payload = json.loads((root / 'results/insider_footprint/candidate_screen.json').read_text())
     events = [row for row in payload['events'] if row.get('admitted') and row.get('t_start')]
+    events, etp_stats = partition_rows(events, include_etp=include_etp)
+    print(stats_line(etp_stats), flush=True)
     symbols = sorted({row['symbol'] for row in events})
     connection = connect()
     earnings = {symbol: [] for symbol in symbols}
@@ -207,6 +210,7 @@ def run(root: Path) -> dict:
         connection.close()
     kept = [row for row in samples if row['fold'] != 'holdout']
     report = evaluate(kept)
+    report['etp_exclusion'] = etp_stats
     report['train_means'] = train_means(kept)
     report['without_pre_return'] = evaluate(kept, features=OPTION_FEATURES)
     report['holdout_rows'] = sum(row['fold'] == 'holdout' for row in samples)
@@ -293,7 +297,11 @@ def render(report) -> str:
 
 
 def main():
-    run(Path('.'))
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path('.'), include_etp=args.include_etp)
     return 0
 
 

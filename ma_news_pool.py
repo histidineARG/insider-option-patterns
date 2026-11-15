@@ -14,6 +14,7 @@ from datetime import date, timedelta
 from pathlib import Path
 
 from insider_resolved import connect, load_sessions
+from etp_exclusion import add_argument, partition_rows, stats_line
 
 MIN_RETURN = 0.15
 LOOKBACK = 10
@@ -120,7 +121,7 @@ def quotes_for(connection, symbol, start, end):
         return {row['qdate']: float(row['close']) for row in cursor.fetchall() if row['close']}
 
 
-def run(root: Path) -> dict:
+def run(root: Path, include_etp: bool = False) -> dict:
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
     connection = connect()
@@ -129,6 +130,8 @@ def run(root: Path) -> dict:
             cursor.execute('SET SESSION MAX_EXECUTION_TIME=300000')
             cursor.execute('START TRANSACTION READ ONLY')
         raw = collect(connection, root)
+        raw, etp_stats = partition_rows(raw, include_etp=include_etp)
+        print(stats_line(etp_stats), flush=True)
         print(f'candidate rows {len(raw)}', flush=True)
         by_symbol = {}
         for row in raw:
@@ -192,6 +195,7 @@ def run(root: Path) -> dict:
         events=len(events),
         path_only_events=path_only,
         by_year=dict(sorted(by_year.items())),
+        etp_exclusion=etp_stats,
     )
     folder = root / 'results' / 'insider_footprint'
     folder.mkdir(parents=True, exist_ok=True)
@@ -227,7 +231,11 @@ def render(summary) -> str:
 
 
 def main():
-    run(Path(os.environ.get('FOOTPRINT_ROOT', '.')))
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path(os.environ.get('FOOTPRINT_ROOT', '.')), include_etp=args.include_etp)
     return 0
 
 

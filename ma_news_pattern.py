@@ -12,6 +12,7 @@ from datetime import date
 from pathlib import Path
 
 from insider_footprint import choose_earnings, earnings_dates
+from etp_exclusion import add_argument, partition_rows, stats_line
 from insider_resolved import (
     BASELINE,
     WINDOW,
@@ -129,10 +130,12 @@ def render(summary) -> str:
     return '\n'.join(lines)
 
 
-def run(root: Path) -> dict:
+def run(root: Path, include_etp: bool = False) -> dict:
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
     keeps = [row for row in load_keeps(root) if row['tier'] == 'A']
+    keeps, etp_stats = partition_rows(keeps, include_etp=include_etp)
+    print(stats_line(etp_stats), flush=True)
     details = {}
     payload = json.loads((root / 'data/price_jump_news_reviews.json').read_text())
     for row in payload['reviews']:
@@ -191,6 +194,7 @@ def run(root: Path) -> dict:
             qdate=row['contract']['qdate'], volume=row['contract']['volume'], oi=row['contract']['oi'],
             prior=row.get('prior'), announcement=row.get('announcement'), detail=row.get('detail') or '',
         ) for row in held],
+        etp_exclusion=etp_stats,
     )
     folder = root / 'results' / 'insider_footprint'
     folder.mkdir(parents=True, exist_ok=True)
@@ -203,7 +207,11 @@ def run(root: Path) -> dict:
 
 
 def main():
-    run(Path('.'))
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path('.'), include_etp=args.include_etp)
     return 0
 
 

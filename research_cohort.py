@@ -12,6 +12,7 @@ from pathlib import Path
 import statistics
 
 from sec_match import connection
+from etp_exclusion import add_argument, partition_rows
 from market_calendar import sessions
 
 
@@ -99,9 +100,10 @@ def write_rows(folder,name,rows):
             writer.writerow({k:json.dumps(v) if isinstance(v,(dict,list)) else v for k,v in row.items()})
 
 
-def run(c,root=Path('.')):
+def run(c,root=Path('.'), include_etp=False):
     source=root/'results/ma_stock_confirmation/all_candidates.json'
     inputs=json.loads(source.read_text())
+    inputs, etp_stats = partition_rows(inputs, include_etp=include_etp)
     cohort=[];daily=[]
     with c.cursor() as q:
         q.execute('SET SESSION MAX_EXECUTION_TIME=60000')
@@ -145,6 +147,7 @@ def run(c,root=Path('.')):
                   price_qualified_count=len(qualified),volume_filter=False,
                   option_coverage_counts=dict(Counter(r['option_coverage_status'] for r in qualified)),
                   daily_observations=len(daily),training_ready_events=0,
+                  etp_exclusion=etp_stats,
                   notes=['Nonexhaustive, enforcement-enriched event sample; not a population estimate.',
                          'Price qualification does not imply completed corporate-action or first-public-disclosure review.',
                          'No source-series selection or future option activity enters features.',
@@ -169,8 +172,9 @@ def run(c,root=Path('.')):
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--root',type=Path,default=Path('.'))
+    add_argument(parser)
     args=parser.parse_args()
-    with connection() as c:run(c,args.root)
+    with connection() as c:run(c,args.root, include_etp=args.include_etp)
 
 
 if __name__=='__main__':main()

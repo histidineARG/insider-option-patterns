@@ -6,11 +6,14 @@ the signal or the hold.
 """
 from __future__ import annotations
 
+import argparse
 import json
 from datetime import date
 from pathlib import Path
 
 import numpy as np
+
+from etp_exclusion import add_argument, read_symbol_file, stats_line
 
 from anomaly_flow import (
     FEATURES, HOLDOUT_START, _as_date, _cap_sample, _f, _folds, _score_pair, clustered_lift, load_config, load_earnings,
@@ -104,8 +107,9 @@ def dedupe_mask(symbols: np.ndarray, dates: np.ndarray, index: dict, gap: int = 
     return keep
 
 
-def run(root: Path):
-    symbols = [line.strip() for line in Path('/tmp/anomaly_symbol_list.txt').read_text().splitlines() if line.strip()]
+def run(root: Path, include_etp: bool = False):
+    symbols, etp_stats = read_symbol_file('/tmp/anomaly_symbol_list.txt', include_etp=include_etp)
+    print(stats_line(etp_stats), flush=True)
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
     print('prices', flush=True)
@@ -149,6 +153,7 @@ def run(root: Path):
         calls=calls, has_features=kept_x is not None,
         missing=['Market cap is not usable: the cap table has 28 rows and no current names.'],
         verdict=verdict_text(chosen, held, calls),
+        etp_exclusion=etp_stats,
     )
     folder = root / 'results' / 'insider_footprint'
     folder.mkdir(parents=True, exist_ok=True)
@@ -810,7 +815,10 @@ def _span(pair):
 
 
 def main():
-    run(Path('.'))
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path('.'), include_etp=args.include_etp)
     return 0
 
 

@@ -5,11 +5,14 @@ grid is scored on the walk-forward only. The holdout is read after that choice.
 """
 from __future__ import annotations
 
+import argparse
 import json
 from datetime import date
 from pathlib import Path
 
 import numpy as np
+
+from etp_exclusion import add_argument, read_symbol_file, stats_line
 
 from anomaly_flow import HOLDOUT_START, _as_date, _f, adjust_closes, load_earnings
 from insider_footprint import load_sessions
@@ -204,8 +207,9 @@ def portfolio_curve(entry_i, exit_i, rets, scores, stop, risk, sessions_n):
     return dict(cagr=cagr, max_drawdown=drawdown, sharpe=sharpe, terminal=float(path[-1]))
 
 
-def run(root: Path):
-    symbols = [line.strip() for line in Path('/tmp/anomaly_symbol_list.txt').read_text().splitlines() if line.strip()]
+def run(root: Path, include_etp: bool = False):
+    symbols, etp_stats = read_symbol_file('/tmp/anomaly_symbol_list.txt', include_etp=include_etp)
+    print(stats_line(etp_stats), flush=True)
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
     print('scoring', flush=True)
@@ -225,6 +229,7 @@ def run(root: Path):
     earnings = {symbol: {day.toordinal() for day in days} for symbol, days in load_earnings(root).items()}
     print('simulating', flush=True)
     report = _simulate(signals, matches, symbols, bars, earnings, sessions, index)
+    report['etp_exclusion'] = etp_stats
     folder = root / 'results' / 'insider_footprint'
     folder.mkdir(parents=True, exist_ok=True)
     (folder / 'bracket_test.json').write_text(json.dumps(report, indent=2) + '\n')
@@ -590,7 +595,10 @@ def verdict_text(chosen, held) -> str:
 
 
 def main():
-    run(Path('.'))
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path('.'), include_etp=args.include_etp)
     return 0
 
 

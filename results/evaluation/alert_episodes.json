@@ -1,21 +1,10 @@
 [
   {
-    "symbol": "ABB",
-    "start": "2019-02-19",
-    "end": "2019-02-19",
+    "symbol": "ADS",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
     "observation_ids": [
-      "ABB:2019-02-19"
-    ],
-    "outcome_event_ids": [],
-    "episode_label": null,
-    "rule": "volume_100_ratio_3"
-  },
-  {
-    "symbol": "ADCT",
-    "start": "2024-07-12",
-    "end": "2024-07-12",
-    "observation_ids": [
-      "ADCT:2024-07-12"
+      "ADS:2018-04-20"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -45,6 +34,17 @@
     "rule": "volume_100_ratio_3"
   },
   {
+    "symbol": "AFFX",
+    "start": "2015-12-02",
+    "end": "2015-12-02",
+    "observation_ids": [
+      "AFFX:2015-12-02"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
     "symbol": "AFOP",
     "start": "2016-03-21",
     "end": "2016-04-05",
@@ -60,44 +60,82 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "ALK",
-    "start": "2015-07-01",
-    "end": "2015-07-01",
+    "symbol": "AJAX",
+    "start": "2021-07-26",
+    "end": "2021-07-26",
     "observation_ids": [
-      "ALK:2015-07-01"
+      "AJAX:2021-07-26"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "ALLO",
-    "start": "2020-02-19",
-    "end": "2020-02-19",
+    "symbol": "ALR",
+    "start": "2016-01-04",
+    "end": "2016-01-22",
     "observation_ids": [
-      "ALLO:2020-02-19"
+      "ALR:2016-01-04",
+      "ALR:2016-01-06",
+      "ALR:2016-01-11",
+      "ALR:2016-01-22"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "ALLY",
-    "start": "2024-08-29",
-    "end": "2024-08-29",
+    "symbol": "APH",
+    "start": "2017-08-16",
+    "end": "2017-08-16",
     "observation_ids": [
-      "ALLY:2024-08-29"
+      "APH:2017-08-16"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "APPH",
-    "start": "2021-03-04",
-    "end": "2021-03-04",
+    "symbol": "ARG",
+    "start": "2015-10-12",
+    "end": "2015-10-23",
     "observation_ids": [
-      "APPH:2021-03-04"
+      "ARG:2015-10-12",
+      "ARG:2015-10-22",
+      "ARG:2015-10-23"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ARG",
+    "start": "2015-11-13",
+    "end": "2015-11-13",
+    "observation_ids": [
+      "ARG:2015-11-13"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ASUR",
+    "start": "2024-11-01",
+    "end": "2024-11-01",
+    "observation_ids": [
+      "ASUR:2024-11-01"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "AU",
+    "start": "2017-08-10",
+    "end": "2017-08-10",
+    "observation_ids": [
+      "AU:2017-08-10"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -117,22 +155,44 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "AXDX",
-    "start": "2017-09-19",
-    "end": "2017-09-19",
+    "symbol": "BAND",
+    "start": "2022-05-12",
+    "end": "2022-05-12",
     "observation_ids": [
-      "AXDX:2017-09-19"
+      "BAND:2022-05-12"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "BITA",
-    "start": "2014-08-26",
-    "end": "2014-08-26",
+    "symbol": "BAP",
+    "start": "2015-10-05",
+    "end": "2015-10-05",
     "observation_ids": [
-      "BITA:2014-08-26"
+      "BAP:2015-10-05"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "BEAM",
+    "start": "2013-12-10",
+    "end": "2013-12-10",
+    "observation_ids": [
+      "BEAM:2013-12-10"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "BEBE",
+    "start": "2014-03-03",
+    "end": "2014-03-03",
+    "observation_ids": [
+      "BEBE:2014-03-03"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -162,11 +222,55 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "BXC",
-    "start": "2020-02-19",
-    "end": "2020-02-19",
+    "symbol": "BJ",
+    "start": "2023-04-26",
+    "end": "2023-04-26",
     "observation_ids": [
-      "BXC:2020-02-19"
+      "BJ:2023-04-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "BMC",
+    "start": "2013-07-26",
+    "end": "2013-07-26",
+    "observation_ids": [
+      "BMC:2013-07-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "BMI",
+    "start": "2019-05-01",
+    "end": "2019-05-01",
+    "observation_ids": [
+      "BMI:2019-05-01"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "CARR",
+    "start": "2021-06-29",
+    "end": "2021-06-29",
+    "observation_ids": [
+      "CARR:2021-06-29"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "CBL",
+    "start": "2013-07-26",
+    "end": "2013-07-26",
+    "observation_ids": [
+      "CBL:2013-07-26"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -189,17 +293,6 @@
     "end": "2017-01-04",
     "observation_ids": [
       "CEB:2017-01-04"
-    ],
-    "outcome_event_ids": [],
-    "episode_label": null,
-    "rule": "volume_100_ratio_3"
-  },
-  {
-    "symbol": "CI",
-    "start": "2018-04-20",
-    "end": "2018-04-20",
-    "observation_ids": [
-      "CI:2018-04-20"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -232,6 +325,17 @@
     "rule": "volume_100_ratio_3"
   },
   {
+    "symbol": "COH",
+    "start": "2016-10-28",
+    "end": "2016-10-28",
+    "observation_ids": [
+      "COH:2016-10-28"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
     "symbol": "COHR",
     "start": "2020-12-04",
     "end": "2020-12-18",
@@ -256,88 +360,33 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "COL",
-    "start": "2014-03-03",
-    "end": "2014-03-03",
-    "observation_ids": [
-      "COL:2014-03-03"
-    ],
-    "outcome_event_ids": [],
-    "episode_label": null,
-    "rule": "volume_100_ratio_3"
-  },
-  {
-    "symbol": "CPRI",
-    "start": "2023-07-19",
-    "end": "2023-07-19",
-    "observation_ids": [
-      "CPRI:2023-07-19"
-    ],
-    "outcome_event_ids": [],
-    "episode_label": null,
-    "rule": "volume_100_ratio_3"
-  },
-  {
-    "symbol": "DATA",
-    "start": "2013-07-11",
-    "end": "2013-07-11",
-    "observation_ids": [
-      "DATA:2013-07-11"
-    ],
-    "outcome_event_ids": [],
-    "episode_label": null,
-    "rule": "volume_100_ratio_3"
-  },
-  {
-    "symbol": "DBD",
-    "start": "2018-08-13",
-    "end": "2018-08-13",
-    "observation_ids": [
-      "DBD:2018-08-13"
-    ],
-    "outcome_event_ids": [],
-    "episode_label": null,
-    "rule": "volume_100_ratio_3"
-  },
-  {
-    "symbol": "DPS",
-    "start": "2015-10-05",
-    "end": "2015-10-05",
-    "observation_ids": [
-      "DPS:2015-10-05"
-    ],
-    "outcome_event_ids": [],
-    "episode_label": null,
-    "rule": "volume_100_ratio_3"
-  },
-  {
-    "symbol": "DRNA",
-    "start": "2018-04-20",
-    "end": "2018-04-20",
-    "observation_ids": [
-      "DRNA:2018-04-20"
-    ],
-    "outcome_event_ids": [],
-    "episode_label": null,
-    "rule": "volume_100_ratio_3"
-  },
-  {
-    "symbol": "DRTX",
+    "symbol": "CROX",
     "start": "2014-08-26",
     "end": "2014-08-26",
     "observation_ids": [
-      "DRTX:2014-08-26"
+      "CROX:2014-08-26"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "ECL",
-    "start": "2019-03-06",
-    "end": "2019-03-06",
+    "symbol": "CYD",
+    "start": "2017-08-10",
+    "end": "2017-08-10",
     "observation_ids": [
-      "ECL:2019-03-06"
+      "CYD:2017-08-10"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "DISCA",
+    "start": "2013-07-11",
+    "end": "2013-07-11",
+    "observation_ids": [
+      "DISCA:2013-07-11"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -355,44 +404,69 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "FDN",
-    "start": "2021-11-24",
-    "end": "2021-11-24",
+    "symbol": "FLDM",
+    "start": "2016-03-29",
+    "end": "2016-03-29",
     "observation_ids": [
-      "FDN:2021-11-24"
+      "FLDM:2016-03-29"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "FIS",
-    "start": "2022-10-19",
-    "end": "2022-10-19",
+    "symbol": "FMI",
+    "start": "2014-11-26",
+    "end": "2014-11-26",
     "observation_ids": [
-      "FIS:2022-10-19"
+      "FMI:2014-11-26"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "GIII",
-    "start": "2022-12-02",
-    "end": "2022-12-02",
+    "symbol": "FMI",
+    "start": "2014-12-19",
+    "end": "2014-12-19",
     "observation_ids": [
-      "GIII:2022-12-02"
+      "FMI:2014-12-19"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "GM",
-    "start": "2013-04-24",
-    "end": "2013-04-24",
+    "symbol": "G",
+    "start": "2024-08-29",
+    "end": "2024-08-29",
     "observation_ids": [
-      "GM:2013-04-24"
+      "G:2024-08-29"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "GNCMA",
+    "start": "2017-03-01",
+    "end": "2017-03-03",
+    "observation_ids": [
+      "GNCMA:2017-03-01",
+      "GNCMA:2017-03-02",
+      "GNCMA:2017-03-03"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "GNCMA",
+    "start": "2017-03-20",
+    "end": "2017-03-22",
+    "observation_ids": [
+      "GNCMA:2017-03-20",
+      "GNCMA:2017-03-22"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -426,22 +500,33 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "GWRE",
-    "start": "2019-03-06",
-    "end": "2019-03-06",
+    "symbol": "GUID",
+    "start": "2015-05-14",
+    "end": "2015-05-14",
     "observation_ids": [
-      "GWRE:2019-03-06"
+      "GUID:2015-05-14"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "ICPT",
-    "start": "2023-04-26",
-    "end": "2023-04-26",
+    "symbol": "HLF",
+    "start": "2020-02-19",
+    "end": "2020-02-19",
     "observation_ids": [
-      "ICPT:2023-04-26"
+      "HLF:2020-02-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ICE",
+    "start": "2019-05-01",
+    "end": "2019-05-01",
+    "observation_ids": [
+      "ICE:2019-05-01"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -471,11 +556,11 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "IO",
-    "start": "2016-03-29",
-    "end": "2016-03-29",
+    "symbol": "INCY",
+    "start": "2013-04-24",
+    "end": "2013-04-24",
     "observation_ids": [
-      "IO:2016-03-29"
+      "INCY:2013-04-24"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -526,11 +611,35 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "KEY",
-    "start": "2013-03-07",
-    "end": "2013-03-07",
+    "symbol": "KLAC",
+    "start": "2015-09-22",
+    "end": "2015-09-22",
     "observation_ids": [
-      "KEY:2013-03-07"
+      "KLAC:2015-09-22"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "KLAC",
+    "start": "2015-10-12",
+    "end": "2015-10-20",
+    "observation_ids": [
+      "KLAC:2015-10-12",
+      "KLAC:2015-10-19",
+      "KLAC:2015-10-20"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "KND",
+    "start": "2015-10-05",
+    "end": "2015-10-05",
+    "observation_ids": [
+      "KND:2015-10-05"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -561,11 +670,45 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "LCII",
-    "start": "2021-03-04",
-    "end": "2021-03-04",
+    "symbol": "LF",
+    "start": "2015-12-22",
+    "end": "2015-12-31",
     "observation_ids": [
-      "LCII:2021-03-04"
+      "LF:2015-12-22",
+      "LF:2015-12-31"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "LF",
+    "start": "2016-02-04",
+    "end": "2016-02-04",
+    "observation_ids": [
+      "LF:2016-02-04"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "LILAK",
+    "start": "2019-01-23",
+    "end": "2019-01-23",
+    "observation_ids": [
+      "LILAK:2019-01-23"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "MASI",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
+    "observation_ids": [
+      "MASI:2018-04-20"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -595,33 +738,55 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "MTOR",
-    "start": "2013-09-20",
-    "end": "2013-09-20",
+    "symbol": "MDVN",
+    "start": "2014-01-17",
+    "end": "2014-01-17",
     "observation_ids": [
-      "MTOR:2013-09-20"
+      "MDVN:2014-01-17"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "NBR",
-    "start": "2013-07-11",
-    "end": "2013-07-11",
+    "symbol": "MGM",
+    "start": "2020-02-04",
+    "end": "2020-02-04",
     "observation_ids": [
-      "NBR:2013-07-11"
+      "MGM:2020-02-04"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "NXTD",
-    "start": "2021-07-26",
-    "end": "2021-07-26",
+    "symbol": "NPTN",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
     "observation_ids": [
-      "NXTD:2021-07-26"
+      "NPTN:2018-04-20"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "NSM",
+    "start": "2016-02-24",
+    "end": "2016-02-24",
+    "observation_ids": [
+      "NSM:2016-02-24"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "OCN",
+    "start": "2015-10-05",
+    "end": "2015-10-05",
+    "observation_ids": [
+      "OCN:2015-10-05"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -639,55 +804,77 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "OSPN",
-    "start": "2024-04-10",
-    "end": "2024-04-10",
+    "symbol": "PANW",
+    "start": "2013-09-20",
+    "end": "2013-09-20",
     "observation_ids": [
-      "OSPN:2024-04-10"
+      "PANW:2013-09-20"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "PBYI",
-    "start": "2019-02-19",
-    "end": "2019-02-19",
+    "symbol": "PAYX",
+    "start": "2016-03-29",
+    "end": "2016-03-29",
     "observation_ids": [
-      "PBYI:2019-02-19"
+      "PAYX:2016-03-29"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "PTX",
-    "start": "2017-07-13",
-    "end": "2017-07-13",
+    "symbol": "PCP",
+    "start": "2015-07-06",
+    "end": "2015-07-06",
     "observation_ids": [
-      "PTX:2017-07-13"
+      "PCP:2015-07-06"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "PVH",
-    "start": "2014-08-26",
-    "end": "2014-08-26",
+    "symbol": "PCP",
+    "start": "2015-07-24",
+    "end": "2015-07-24",
     "observation_ids": [
-      "PVH:2014-08-26"
+      "PCP:2015-07-24"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "R",
-    "start": "2013-04-24",
-    "end": "2013-04-24",
+    "symbol": "PEN",
+    "start": "2020-08-17",
+    "end": "2020-08-17",
     "observation_ids": [
-      "R:2013-04-24"
+      "PEN:2020-08-17"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "PGR",
+    "start": "2015-05-14",
+    "end": "2015-05-14",
+    "observation_ids": [
+      "PGR:2015-05-14"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "POZN",
+    "start": "2015-06-01",
+    "end": "2015-06-01",
+    "observation_ids": [
+      "POZN:2015-06-01"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -717,11 +904,34 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "RIO",
-    "start": "2016-10-28",
-    "end": "2016-10-28",
+    "symbol": "RIGL",
+    "start": "2023-07-19",
+    "end": "2023-07-19",
     "observation_ids": [
-      "RIO:2016-10-28"
+      "RIGL:2023-07-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "RKUS",
+    "start": "2016-03-10",
+    "end": "2016-03-24",
+    "observation_ids": [
+      "RKUS:2016-03-10",
+      "RKUS:2016-03-24"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "SABR",
+    "start": "2020-02-04",
+    "end": "2020-02-04",
+    "observation_ids": [
+      "SABR:2020-02-04"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -750,77 +960,84 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "SBLK",
-    "start": "2024-08-29",
-    "end": "2024-08-29",
+    "symbol": "SAP",
+    "start": "2013-09-20",
+    "end": "2013-09-20",
     "observation_ids": [
-      "SBLK:2024-08-29"
+      "SAP:2013-09-20"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "SFM",
+    "symbol": "SCI",
     "start": "2019-02-19",
     "end": "2019-02-19",
     "observation_ids": [
-      "SFM:2019-02-19"
+      "SCI:2019-02-19"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "SJI",
-    "start": "2018-07-19",
-    "end": "2018-07-19",
+    "symbol": "SFD",
+    "start": "2013-04-22",
+    "end": "2013-05-24",
     "observation_ids": [
-      "SJI:2018-07-19"
+      "SFD:2013-04-22",
+      "SFD:2013-04-23",
+      "SFD:2013-05-02",
+      "SFD:2013-05-09",
+      "SFD:2013-05-14",
+      "SFD:2013-05-21",
+      "SFD:2013-05-23",
+      "SFD:2013-05-24"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "SMMT",
-    "start": "2021-06-29",
-    "end": "2021-06-29",
+    "symbol": "SFUN",
+    "start": "2013-09-20",
+    "end": "2013-09-20",
     "observation_ids": [
-      "SMMT:2021-06-29"
+      "SFUN:2013-09-20"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "SNCR",
-    "start": "2014-01-17",
-    "end": "2014-01-17",
+    "symbol": "SJM",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
     "observation_ids": [
-      "SNCR:2014-01-17"
+      "SJM:2018-04-20"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "SOYB",
-    "start": "2023-04-26",
-    "end": "2023-04-26",
+    "symbol": "SPG",
+    "start": "2017-07-13",
+    "end": "2017-07-13",
     "observation_ids": [
-      "SOYB:2023-04-26"
+      "SPG:2017-07-13"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "SPYG",
-    "start": "2020-02-04",
-    "end": "2020-02-04",
+    "symbol": "SUSS",
+    "start": "2014-03-19",
+    "end": "2014-03-19",
     "observation_ids": [
-      "SPYG:2020-02-04"
+      "SUSS:2014-03-19"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -852,33 +1069,82 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "TTC",
-    "start": "2017-08-10",
-    "end": "2017-08-10",
+    "symbol": "TMO",
+    "start": "2018-07-19",
+    "end": "2018-07-19",
     "observation_ids": [
-      "TTC:2017-08-10"
+      "TMO:2018-07-19"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "URBN",
-    "start": "2021-06-29",
-    "end": "2021-06-29",
+    "symbol": "USPH",
+    "start": "2022-09-14",
+    "end": "2022-09-14",
     "observation_ids": [
-      "URBN:2021-06-29"
+      "USPH:2022-09-14"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "VIAV",
-    "start": "2017-08-16",
-    "end": "2017-08-16",
+    "symbol": "VA",
+    "start": "2016-03-14",
+    "end": "2016-04-01",
     "observation_ids": [
-      "VIAV:2017-08-16"
+      "VA:2016-03-14",
+      "VA:2016-03-17",
+      "VA:2016-03-21",
+      "VA:2016-03-23",
+      "VA:2016-04-01"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "VAL",
+    "start": "2016-02-17",
+    "end": "2016-02-18",
+    "observation_ids": [
+      "VAL:2016-02-17",
+      "VAL:2016-02-18"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "VAL",
+    "start": "2016-03-17",
+    "end": "2016-03-17",
+    "observation_ids": [
+      "VAL:2016-03-17"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "VRSK",
+    "start": "2019-02-19",
+    "end": "2019-02-19",
+    "observation_ids": [
+      "VRSK:2019-02-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "VRT",
+    "start": "2023-04-26",
+    "end": "2023-04-26",
+    "observation_ids": [
+      "VRT:2023-04-26"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -896,33 +1162,45 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "WE",
-    "start": "2023-07-19",
-    "end": "2023-07-19",
+    "symbol": "VRTX",
+    "start": "2014-01-17",
+    "end": "2014-01-17",
     "observation_ids": [
-      "WE:2023-07-19"
+      "VRTX:2014-01-17"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "WRBY",
-    "start": "2022-12-02",
-    "end": "2022-12-02",
+    "symbol": "WAGE",
+    "start": "2018-08-13",
+    "end": "2018-08-13",
     "observation_ids": [
-      "WRBY:2022-12-02"
+      "WAGE:2018-08-13"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "XXIA",
-    "start": "2013-03-07",
-    "end": "2013-03-07",
+    "symbol": "WEST",
+    "start": "2022-10-19",
+    "end": "2022-10-19",
     "observation_ids": [
-      "XXIA:2013-03-07"
+      "WEST:2022-10-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "XRTX",
+    "start": "2013-12-17",
+    "end": "2013-12-20",
+    "observation_ids": [
+      "XRTX:2013-12-17",
+      "XRTX:2013-12-20"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -942,22 +1220,34 @@
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "ZTO",
-    "start": "2019-05-01",
-    "end": "2019-05-01",
+    "symbol": "ZLC",
+    "start": "2014-01-10",
+    "end": "2014-01-13",
     "observation_ids": [
-      "ZTO:2019-05-01"
+      "ZLC:2014-01-10",
+      "ZLC:2014-01-13"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_100_ratio_3"
   },
   {
-    "symbol": "ABB",
-    "start": "2019-02-19",
-    "end": "2019-02-19",
+    "symbol": "ZLC",
+    "start": "2014-02-04",
+    "end": "2014-02-04",
     "observation_ids": [
-      "ABB:2019-02-19"
+      "ZLC:2014-02-04"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_100_ratio_3"
+  },
+  {
+    "symbol": "ADS",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
+    "observation_ids": [
+      "ADS:2018-04-20"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -999,22 +1289,68 @@
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "ALK",
-    "start": "2015-07-01",
-    "end": "2015-07-01",
+    "symbol": "AJAX",
+    "start": "2021-07-26",
+    "end": "2021-07-26",
     "observation_ids": [
-      "ALK:2015-07-01"
+      "AJAX:2021-07-26"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "APPH",
-    "start": "2021-03-04",
-    "end": "2021-03-04",
+    "symbol": "ALR",
+    "start": "2016-01-04",
+    "end": "2016-01-06",
     "observation_ids": [
-      "APPH:2021-03-04"
+      "ALR:2016-01-04",
+      "ALR:2016-01-06"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "APH",
+    "start": "2017-08-16",
+    "end": "2017-08-16",
+    "observation_ids": [
+      "APH:2017-08-16"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "ARG",
+    "start": "2015-10-12",
+    "end": "2015-10-22",
+    "observation_ids": [
+      "ARG:2015-10-12",
+      "ARG:2015-10-22"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "ARG",
+    "start": "2015-11-13",
+    "end": "2015-11-13",
+    "observation_ids": [
+      "ARG:2015-11-13"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "AU",
+    "start": "2017-08-10",
+    "end": "2017-08-10",
+    "observation_ids": [
+      "AU:2017-08-10"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1033,11 +1369,11 @@
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "AXDX",
-    "start": "2017-09-19",
-    "end": "2017-09-19",
+    "symbol": "BEAM",
+    "start": "2013-12-10",
+    "end": "2013-12-10",
     "observation_ids": [
-      "AXDX:2017-09-19"
+      "BEAM:2013-12-10"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1055,11 +1391,22 @@
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "BXC",
-    "start": "2020-02-19",
-    "end": "2020-02-19",
+    "symbol": "BJ",
+    "start": "2023-04-26",
+    "end": "2023-04-26",
     "observation_ids": [
-      "BXC:2020-02-19"
+      "BJ:2023-04-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "CARR",
+    "start": "2021-06-29",
+    "end": "2021-06-29",
+    "observation_ids": [
+      "CARR:2021-06-29"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1077,6 +1424,17 @@
     "rule": "volume_500_ratio_5"
   },
   {
+    "symbol": "COH",
+    "start": "2016-10-28",
+    "end": "2016-10-28",
+    "observation_ids": [
+      "COH:2016-10-28"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
     "symbol": "COHR",
     "start": "2021-01-11",
     "end": "2021-01-11",
@@ -1088,55 +1446,56 @@
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "CPRI",
-    "start": "2023-07-19",
-    "end": "2023-07-19",
+    "symbol": "CROX",
+    "start": "2014-08-26",
+    "end": "2014-08-26",
     "observation_ids": [
-      "CPRI:2023-07-19"
+      "CROX:2014-08-26"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "DATA",
-    "start": "2013-07-11",
-    "end": "2013-07-11",
+    "symbol": "FMI",
+    "start": "2014-11-26",
+    "end": "2014-11-26",
     "observation_ids": [
-      "DATA:2013-07-11"
+      "FMI:2014-11-26"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "DBD",
-    "start": "2018-08-13",
-    "end": "2018-08-13",
+    "symbol": "FMI",
+    "start": "2014-12-19",
+    "end": "2014-12-19",
     "observation_ids": [
-      "DBD:2018-08-13"
+      "FMI:2014-12-19"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "DRNA",
-    "start": "2018-04-20",
-    "end": "2018-04-20",
+    "symbol": "GNCMA",
+    "start": "2017-03-02",
+    "end": "2017-03-03",
     "observation_ids": [
-      "DRNA:2018-04-20"
+      "GNCMA:2017-03-02",
+      "GNCMA:2017-03-03"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "GM",
-    "start": "2013-04-24",
-    "end": "2013-04-24",
+    "symbol": "GNCMA",
+    "start": "2017-03-22",
+    "end": "2017-03-22",
     "observation_ids": [
-      "GM:2013-04-24"
+      "GNCMA:2017-03-22"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1157,11 +1516,11 @@
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "GWRE",
-    "start": "2019-03-06",
-    "end": "2019-03-06",
+    "symbol": "HLF",
+    "start": "2020-02-19",
+    "end": "2020-02-19",
     "observation_ids": [
-      "GWRE:2019-03-06"
+      "HLF:2020-02-19"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1201,11 +1560,33 @@
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "KEY",
-    "start": "2013-03-07",
-    "end": "2013-03-07",
+    "symbol": "KLAC",
+    "start": "2015-09-22",
+    "end": "2015-09-22",
     "observation_ids": [
-      "KEY:2013-03-07"
+      "KLAC:2015-09-22"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "KLAC",
+    "start": "2015-10-12",
+    "end": "2015-10-12",
+    "observation_ids": [
+      "KLAC:2015-10-12"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "KND",
+    "start": "2015-10-05",
+    "end": "2015-10-05",
+    "observation_ids": [
+      "KND:2015-10-05"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1217,6 +1598,17 @@
     "end": "2015-03-10",
     "observation_ids": [
       "KRFT:2015-03-10"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "MASI",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
+    "observation_ids": [
+      "MASI:2018-04-20"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1235,66 +1627,66 @@
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "MTOR",
-    "start": "2013-09-20",
-    "end": "2013-09-20",
+    "symbol": "MDVN",
+    "start": "2014-01-17",
+    "end": "2014-01-17",
     "observation_ids": [
-      "MTOR:2013-09-20"
+      "MDVN:2014-01-17"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "NBR",
-    "start": "2013-07-11",
-    "end": "2013-07-11",
+    "symbol": "MGM",
+    "start": "2020-02-04",
+    "end": "2020-02-04",
     "observation_ids": [
-      "NBR:2013-07-11"
+      "MGM:2020-02-04"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "NXTD",
-    "start": "2021-07-26",
-    "end": "2021-07-26",
+    "symbol": "NPTN",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
     "observation_ids": [
-      "NXTD:2021-07-26"
+      "NPTN:2018-04-20"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "PTX",
-    "start": "2017-07-13",
-    "end": "2017-07-13",
+    "symbol": "NSM",
+    "start": "2016-02-24",
+    "end": "2016-02-24",
     "observation_ids": [
-      "PTX:2017-07-13"
+      "NSM:2016-02-24"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "PVH",
-    "start": "2014-08-26",
-    "end": "2014-08-26",
+    "symbol": "PCP",
+    "start": "2015-07-06",
+    "end": "2015-07-06",
     "observation_ids": [
-      "PVH:2014-08-26"
+      "PCP:2015-07-06"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "R",
-    "start": "2013-04-24",
-    "end": "2013-04-24",
+    "symbol": "PCP",
+    "start": "2015-07-24",
+    "end": "2015-07-24",
     "observation_ids": [
-      "R:2013-04-24"
+      "PCP:2015-07-24"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1312,44 +1704,15 @@
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "RIO",
-    "start": "2016-10-28",
-    "end": "2016-10-28",
+    "symbol": "SFD",
+    "start": "2013-04-23",
+    "end": "2013-05-21",
     "observation_ids": [
-      "RIO:2016-10-28"
-    ],
-    "outcome_event_ids": [],
-    "episode_label": null,
-    "rule": "volume_500_ratio_5"
-  },
-  {
-    "symbol": "SBLK",
-    "start": "2024-08-29",
-    "end": "2024-08-29",
-    "observation_ids": [
-      "SBLK:2024-08-29"
-    ],
-    "outcome_event_ids": [],
-    "episode_label": null,
-    "rule": "volume_500_ratio_5"
-  },
-  {
-    "symbol": "SFM",
-    "start": "2019-02-19",
-    "end": "2019-02-19",
-    "observation_ids": [
-      "SFM:2019-02-19"
-    ],
-    "outcome_event_ids": [],
-    "episode_label": null,
-    "rule": "volume_500_ratio_5"
-  },
-  {
-    "symbol": "SPYG",
-    "start": "2020-02-04",
-    "end": "2020-02-04",
-    "observation_ids": [
-      "SPYG:2020-02-04"
+      "SFD:2013-04-23",
+      "SFD:2013-05-02",
+      "SFD:2013-05-09",
+      "SFD:2013-05-14",
+      "SFD:2013-05-21"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1368,11 +1731,56 @@
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "WRBY",
-    "start": "2022-12-02",
-    "end": "2022-12-02",
+    "symbol": "USPH",
+    "start": "2022-09-14",
+    "end": "2022-09-14",
     "observation_ids": [
-      "WRBY:2022-12-02"
+      "USPH:2022-09-14"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "VA",
+    "start": "2016-03-23",
+    "end": "2016-03-23",
+    "observation_ids": [
+      "VA:2016-03-23"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "VAL",
+    "start": "2016-02-17",
+    "end": "2016-02-18",
+    "observation_ids": [
+      "VAL:2016-02-17",
+      "VAL:2016-02-18"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "VAL",
+    "start": "2016-03-17",
+    "end": "2016-03-17",
+    "observation_ids": [
+      "VAL:2016-03-17"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "XRTX",
+    "start": "2013-12-17",
+    "end": "2013-12-17",
+    "observation_ids": [
+      "XRTX:2013-12-17"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1390,11 +1798,22 @@
     "rule": "volume_500_ratio_5"
   },
   {
-    "symbol": "ZTO",
-    "start": "2019-05-01",
-    "end": "2019-05-01",
+    "symbol": "ZLC",
+    "start": "2014-01-10",
+    "end": "2014-01-10",
     "observation_ids": [
-      "ZTO:2019-05-01"
+      "ZLC:2014-01-10"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_500_ratio_5"
+  },
+  {
+    "symbol": "ZLC",
+    "start": "2014-02-04",
+    "end": "2014-02-04",
+    "observation_ids": [
+      "ZLC:2014-02-04"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1434,6 +1853,40 @@
     "rule": "volume_1000_ratio_10"
   },
   {
+    "symbol": "AJAX",
+    "start": "2021-07-26",
+    "end": "2021-07-26",
+    "observation_ids": [
+      "AJAX:2021-07-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "APH",
+    "start": "2017-08-16",
+    "end": "2017-08-16",
+    "observation_ids": [
+      "APH:2017-08-16"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "ARG",
+    "start": "2015-10-12",
+    "end": "2015-10-22",
+    "observation_ids": [
+      "ARG:2015-10-12",
+      "ARG:2015-10-22"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
     "symbol": "AVXS",
     "start": "2018-03-13",
     "end": "2018-03-16",
@@ -1446,11 +1899,55 @@
     "rule": "volume_1000_ratio_10"
   },
   {
-    "symbol": "DRNA",
-    "start": "2018-04-20",
-    "end": "2018-04-20",
+    "symbol": "BEAM",
+    "start": "2013-12-10",
+    "end": "2013-12-10",
     "observation_ids": [
-      "DRNA:2018-04-20"
+      "BEAM:2013-12-10"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "COH",
+    "start": "2016-10-28",
+    "end": "2016-10-28",
+    "observation_ids": [
+      "COH:2016-10-28"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "CROX",
+    "start": "2014-08-26",
+    "end": "2014-08-26",
+    "observation_ids": [
+      "CROX:2014-08-26"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "FMI",
+    "start": "2014-12-19",
+    "end": "2014-12-19",
+    "observation_ids": [
+      "FMI:2014-12-19"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "GNCMA",
+    "start": "2017-03-02",
+    "end": "2017-03-02",
+    "observation_ids": [
+      "GNCMA:2017-03-02"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1469,22 +1966,22 @@
     "rule": "volume_1000_ratio_10"
   },
   {
-    "symbol": "GWRE",
-    "start": "2019-03-06",
-    "end": "2019-03-06",
+    "symbol": "KLAC",
+    "start": "2015-09-22",
+    "end": "2015-09-22",
     "observation_ids": [
-      "GWRE:2019-03-06"
+      "KLAC:2015-09-22"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_1000_ratio_10"
   },
   {
-    "symbol": "KEY",
-    "start": "2013-03-07",
-    "end": "2013-03-07",
+    "symbol": "MASI",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
     "observation_ids": [
-      "KEY:2013-03-07"
+      "MASI:2018-04-20"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1502,11 +1999,55 @@
     "rule": "volume_1000_ratio_10"
   },
   {
-    "symbol": "NXTD",
-    "start": "2021-07-26",
-    "end": "2021-07-26",
+    "symbol": "MDVN",
+    "start": "2014-01-17",
+    "end": "2014-01-17",
     "observation_ids": [
-      "NXTD:2021-07-26"
+      "MDVN:2014-01-17"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "NPTN",
+    "start": "2018-04-20",
+    "end": "2018-04-20",
+    "observation_ids": [
+      "NPTN:2018-04-20"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "NSM",
+    "start": "2016-02-24",
+    "end": "2016-02-24",
+    "observation_ids": [
+      "NSM:2016-02-24"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "PCP",
+    "start": "2015-07-06",
+    "end": "2015-07-06",
+    "observation_ids": [
+      "PCP:2015-07-06"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "PCP",
+    "start": "2015-07-24",
+    "end": "2015-07-24",
+    "observation_ids": [
+      "PCP:2015-07-24"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1524,33 +2065,34 @@
     "rule": "volume_1000_ratio_10"
   },
   {
-    "symbol": "RIO",
-    "start": "2016-10-28",
-    "end": "2016-10-28",
+    "symbol": "SFD",
+    "start": "2013-04-23",
+    "end": "2013-04-23",
     "observation_ids": [
-      "RIO:2016-10-28"
+      "SFD:2013-04-23"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_1000_ratio_10"
   },
   {
-    "symbol": "SBLK",
-    "start": "2024-08-29",
-    "end": "2024-08-29",
+    "symbol": "VA",
+    "start": "2016-03-23",
+    "end": "2016-03-23",
     "observation_ids": [
-      "SBLK:2024-08-29"
+      "VA:2016-03-23"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
     "rule": "volume_1000_ratio_10"
   },
   {
-    "symbol": "SPYG",
-    "start": "2020-02-04",
-    "end": "2020-02-04",
+    "symbol": "VAL",
+    "start": "2016-02-17",
+    "end": "2016-02-18",
     "observation_ids": [
-      "SPYG:2020-02-04"
+      "VAL:2016-02-17",
+      "VAL:2016-02-18"
     ],
     "outcome_event_ids": [],
     "episode_label": null,
@@ -1562,6 +2104,17 @@
     "end": "2021-12-31",
     "observation_ids": [
       "ZGNX:2021-12-31"
+    ],
+    "outcome_event_ids": [],
+    "episode_label": null,
+    "rule": "volume_1000_ratio_10"
+  },
+  {
+    "symbol": "ZLC",
+    "start": "2014-02-04",
+    "end": "2014-02-04",
+    "observation_ids": [
+      "ZLC:2014-02-04"
     ],
     "outcome_event_ids": [],
     "episode_label": null,

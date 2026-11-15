@@ -1,198 +1,209 @@
 ## Quiet stock, loud options, 2026-11-13
 
+Exchange-traded products were removed before this rerun (2,431 of 8,616 symbols). Call P&L is the ask-to-bid return on the slate.
+
+| Screen | Slate | Horizon | Call mean before | After | Call median before | After |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Single day | 3 | 20 | 1.322 | 1.335 | 0.706 | 0.717 |
+| Single day | 4 | 20 | 1.274 | 1.274 | 0.745 | 0.726 |
+| Multi-day | 3 | 20 | 1.632 | 1.560 | 0.667 | 0.667 |
+| Multi-day | 4 | 20 | 1.486 | 1.425 | 0.775 | 0.778 |
+
+The 20-session call means stay above 1.
+
 The stock is quiet and call volume rises on one day or across several days. A single day is call volume at least 5 times the prior 20-session mean and at least 500 contracts, without a second elevated day. A multi-day build is two or more of the last five sessions at least 3 times that mean, or a five-session total at least 5 times a normal five-session total spread over two or more days. The prior 20 sessions sit before that five-session window and average at least 100 contracts. Out-of-the-money calls (delta 0.10–0.35, 5–45 days) are at least 40% of call volume. The 10-session absolute return is under 5% (a second cut uses 3%), the scoring day is under 3%, and stock volume is under twice its prior 20-session median. Price is at least $5 and median dollar volume is at least $5 million. Names are ordered by the call-volume ratio times the out-of-the-money share. Open-interest confirmation and the earnings blackout are reported beside the main screen. Downside hit rates are not part of this test.
 
 An earlier request for company_tickers.json returned 403. The retry succeeded and was used with display tickers and cik2symbol.
 
 ### Single day, call baseline, 10-session move under 5%
 
-Days with a qualifying name: 1045. Mean qualifiers on those days: 9.650. Share of those days with at least 3: 0.962.
+Days with a qualifying name: 1041. Mean qualifiers on those days: 8.322. Share of those days with at least 3: 0.945.
 
 | Slate | Horizon | Jump | Dates | Date hit rate | Tradable base | Quiet base | Per pick | Misses per hit | M&A | Earnings | Other |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 3 | 5 | terminal | 961 | 0.021 | 0.069 | 0.031 | 0.007 | 143.150 | 1 | 3 | 16 |
-| 3 | 5 | peak | 961 | 0.030 | 0.090 | 0.039 | 0.010 | 98.414 | 1 | 3 | 25 |
-| 3 | 10 | terminal | 923 | 0.069 | 0.142 | 0.078 | 0.023 | 41.600 | 6 | 7 | 52 |
-| 3 | 10 | peak | 923 | 0.093 | 0.205 | 0.110 | 0.031 | 30.828 | 8 | 11 | 68 |
-| 3 | 20 | terminal | 844 | 0.161 | 0.260 | 0.174 | 0.061 | 15.335 | 24 | 27 | 104 |
-| 3 | 20 | peak | 844 | 0.230 | 0.391 | 0.259 | 0.089 | 10.253 | 27 | 40 | 158 |
-| 4 | 5 | terminal | 928 | 0.032 | 0.091 | 0.041 | 0.008 | 122.733 | 1 | 5 | 24 |
-| 4 | 5 | peak | 928 | 0.040 | 0.117 | 0.051 | 0.010 | 96.684 | 1 | 5 | 32 |
-| 4 | 10 | terminal | 891 | 0.094 | 0.183 | 0.102 | 0.024 | 40.442 | 7 | 10 | 69 |
-| 4 | 10 | peak | 891 | 0.128 | 0.262 | 0.143 | 0.034 | 28.213 | 11 | 14 | 97 |
-| 4 | 20 | terminal | 814 | 0.224 | 0.325 | 0.222 | 0.068 | 13.800 | 33 | 37 | 150 |
-| 4 | 20 | peak | 814 | 0.306 | 0.476 | 0.326 | 0.096 | 9.436 | 36 | 54 | 222 |
+| 3 | 5 | terminal | 945 | 0.022 | 0.070 | 0.034 | 0.007 | 134.000 | 1 | 4 | 16 |
+| 3 | 5 | peak | 945 | 0.034 | 0.090 | 0.042 | 0.011 | 87.594 | 1 | 5 | 26 |
+| 3 | 10 | terminal | 907 | 0.078 | 0.145 | 0.085 | 0.026 | 36.792 | 6 | 10 | 56 |
+| 3 | 10 | peak | 907 | 0.107 | 0.208 | 0.119 | 0.037 | 25.941 | 10 | 15 | 76 |
+| 3 | 20 | terminal | 831 | 0.189 | 0.268 | 0.189 | 0.071 | 13.006 | 26 | 32 | 120 |
+| 3 | 20 | peak | 831 | 0.260 | 0.398 | 0.279 | 0.101 | 8.932 | 30 | 47 | 174 |
+| 4 | 5 | terminal | 896 | 0.033 | 0.091 | 0.045 | 0.008 | 118.467 | 2 | 6 | 22 |
+| 4 | 5 | peak | 896 | 0.047 | 0.117 | 0.056 | 0.012 | 80.455 | 2 | 7 | 35 |
+| 4 | 10 | terminal | 862 | 0.103 | 0.187 | 0.112 | 0.028 | 35.295 | 8 | 15 | 72 |
+| 4 | 10 | peak | 862 | 0.148 | 0.264 | 0.155 | 0.041 | 23.454 | 12 | 21 | 108 |
+| 4 | 20 | terminal | 787 | 0.250 | 0.335 | 0.242 | 0.077 | 12.062 | 36 | 44 | 161 |
+| 4 | 20 | peak | 787 | 0.343 | 0.484 | 0.350 | 0.110 | 8.125 | 41 | 64 | 240 |
 
 ### Multi-day build, call baseline, 10-session move under 5%
 
-Days with a qualifying name: 1028. Mean qualifiers on those days: 5.596. Share of those days with at least 3: 0.870.
+Days with a qualifying name: 1012. Mean qualifiers on those days: 4.934. Share of those days with at least 3: 0.790.
 
 | Slate | Horizon | Jump | Dates | Date hit rate | Tradable base | Quiet base | Per pick | Misses per hit | M&A | Earnings | Other |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 3 | 5 | terminal | 856 | 0.039 | 0.068 | 0.031 | 0.013 | 74.529 | 1 | 9 | 24 |
-| 3 | 5 | peak | 856 | 0.053 | 0.090 | 0.039 | 0.018 | 53.638 | 1 | 11 | 35 |
-| 3 | 10 | terminal | 822 | 0.074 | 0.142 | 0.079 | 0.027 | 36.364 | 2 | 13 | 51 |
-| 3 | 10 | peak | 822 | 0.127 | 0.206 | 0.111 | 0.045 | 21.018 | 3 | 21 | 88 |
-| 3 | 20 | terminal | 753 | 0.154 | 0.258 | 0.173 | 0.056 | 16.929 | 10 | 22 | 94 |
-| 3 | 20 | peak | 753 | 0.246 | 0.390 | 0.259 | 0.093 | 9.809 | 13 | 44 | 152 |
-| 4 | 5 | terminal | 725 | 0.052 | 0.089 | 0.040 | 0.014 | 71.500 | 3 | 9 | 28 |
-| 4 | 5 | peak | 725 | 0.070 | 0.117 | 0.051 | 0.019 | 52.704 | 3 | 11 | 40 |
-| 4 | 10 | terminal | 691 | 0.110 | 0.184 | 0.104 | 0.030 | 32.707 | 2 | 19 | 61 |
-| 4 | 10 | peak | 691 | 0.175 | 0.263 | 0.146 | 0.049 | 19.474 | 5 | 29 | 101 |
-| 4 | 20 | terminal | 631 | 0.214 | 0.326 | 0.225 | 0.061 | 15.390 | 11 | 29 | 114 |
-| 4 | 20 | peak | 631 | 0.330 | 0.480 | 0.330 | 0.100 | 8.976 | 14 | 54 | 185 |
+| 3 | 5 | terminal | 770 | 0.045 | 0.069 | 0.034 | 0.016 | 63.167 | 2 | 9 | 25 |
+| 3 | 5 | peak | 770 | 0.061 | 0.090 | 0.043 | 0.021 | 46.143 | 2 | 11 | 36 |
+| 3 | 10 | terminal | 741 | 0.077 | 0.145 | 0.086 | 0.027 | 35.443 | 1 | 13 | 47 |
+| 3 | 10 | peak | 741 | 0.138 | 0.209 | 0.121 | 0.049 | 19.394 | 3 | 21 | 85 |
+| 3 | 20 | terminal | 679 | 0.171 | 0.264 | 0.187 | 0.064 | 14.669 | 10 | 25 | 95 |
+| 3 | 20 | peak | 679 | 0.271 | 0.397 | 0.278 | 0.105 | 8.519 | 13 | 46 | 155 |
+| 4 | 5 | terminal | 628 | 0.054 | 0.089 | 0.044 | 0.015 | 66.892 | 3 | 8 | 26 |
+| 4 | 5 | peak | 628 | 0.072 | 0.116 | 0.056 | 0.020 | 50.265 | 3 | 9 | 37 |
+| 4 | 10 | terminal | 598 | 0.117 | 0.185 | 0.112 | 0.032 | 30.065 | 2 | 19 | 56 |
+| 4 | 10 | peak | 598 | 0.189 | 0.265 | 0.158 | 0.053 | 17.835 | 5 | 27 | 95 |
+| 4 | 20 | terminal | 545 | 0.226 | 0.330 | 0.239 | 0.065 | 14.461 | 12 | 26 | 103 |
+| 4 | 20 | peak | 545 | 0.347 | 0.484 | 0.350 | 0.109 | 8.198 | 15 | 51 | 171 |
 
 ### Single day, next-morning open-interest confirmation
 
-Days with a qualifying name: 1025. Mean qualifiers on those days: 5.071. Share of those days with at least 3: 0.830.
+Days with a qualifying name: 1014. Mean qualifiers on those days: 4.420. Share of those days with at least 3: 0.777.
 
 | Slate | Horizon | Jump | Dates | Date hit rate | Tradable base | Quiet base | Per pick | Misses per hit | M&A | Earnings | Other |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 3 | 5 | terminal | 818 | 0.029 | 0.070 | 0.031 | 0.010 | 101.250 | 1 | 5 | 18 |
-| 3 | 5 | peak | 818 | 0.038 | 0.091 | 0.039 | 0.013 | 75.688 | 1 | 5 | 26 |
-| 3 | 10 | terminal | 785 | 0.084 | 0.143 | 0.079 | 0.028 | 34.149 | 4 | 9 | 54 |
-| 3 | 10 | peak | 785 | 0.117 | 0.207 | 0.111 | 0.041 | 23.531 | 6 | 13 | 77 |
-| 3 | 20 | terminal | 720 | 0.201 | 0.264 | 0.179 | 0.077 | 12.012 | 20 | 34 | 112 |
-| 3 | 20 | peak | 720 | 0.263 | 0.395 | 0.264 | 0.107 | 8.310 | 21 | 51 | 160 |
-| 4 | 5 | terminal | 683 | 0.045 | 0.094 | 0.043 | 0.012 | 84.375 | 2 | 6 | 24 |
-| 4 | 5 | peak | 683 | 0.056 | 0.120 | 0.053 | 0.015 | 67.300 | 2 | 6 | 32 |
-| 4 | 10 | terminal | 656 | 0.117 | 0.186 | 0.105 | 0.030 | 31.800 | 6 | 12 | 62 |
-| 4 | 10 | peak | 656 | 0.160 | 0.266 | 0.147 | 0.043 | 22.018 | 9 | 17 | 88 |
-| 4 | 20 | terminal | 599 | 0.265 | 0.332 | 0.229 | 0.080 | 11.545 | 25 | 41 | 125 |
-| 4 | 20 | peak | 599 | 0.339 | 0.482 | 0.334 | 0.110 | 8.110 | 26 | 60 | 177 |
+| 3 | 5 | terminal | 760 | 0.030 | 0.071 | 0.035 | 0.010 | 98.130 | 2 | 5 | 16 |
+| 3 | 5 | peak | 760 | 0.045 | 0.091 | 0.043 | 0.015 | 64.143 | 2 | 6 | 27 |
+| 3 | 10 | terminal | 729 | 0.102 | 0.148 | 0.088 | 0.034 | 28.160 | 6 | 12 | 57 |
+| 3 | 10 | peak | 729 | 0.140 | 0.212 | 0.122 | 0.049 | 19.250 | 10 | 18 | 80 |
+| 3 | 20 | terminal | 668 | 0.244 | 0.276 | 0.197 | 0.092 | 9.832 | 26 | 37 | 122 |
+| 3 | 20 | peak | 668 | 0.308 | 0.406 | 0.287 | 0.127 | 6.859 | 27 | 57 | 171 |
+| 4 | 5 | terminal | 582 | 0.053 | 0.096 | 0.048 | 0.014 | 71.750 | 3 | 7 | 22 |
+| 4 | 5 | peak | 582 | 0.069 | 0.122 | 0.059 | 0.018 | 54.429 | 3 | 8 | 31 |
+| 4 | 10 | terminal | 561 | 0.130 | 0.193 | 0.117 | 0.036 | 27.050 | 7 | 15 | 58 |
+| 4 | 10 | peak | 561 | 0.185 | 0.272 | 0.163 | 0.053 | 17.700 | 10 | 23 | 87 |
+| 4 | 20 | terminal | 512 | 0.291 | 0.345 | 0.252 | 0.089 | 10.253 | 24 | 45 | 113 |
+| 4 | 20 | peak | 512 | 0.365 | 0.492 | 0.359 | 0.121 | 7.258 | 25 | 67 | 156 |
 
 ### Multi-day, next-morning open-interest confirmation
 
-Days with a qualifying name: 1014. Mean qualifiers on those days: 4.509. Share of those days with at least 3: 0.772.
+Days with a qualifying name: 986. Mean qualifiers on those days: 4.017. Share of those days with at least 3: 0.689.
 
 | Slate | Horizon | Jump | Dates | Date hit rate | Tradable base | Quiet base | Per pick | Misses per hit | M&A | Earnings | Other |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 3 | 5 | terminal | 749 | 0.053 | 0.068 | 0.031 | 0.019 | 52.500 | 3 | 10 | 29 |
-| 3 | 5 | peak | 749 | 0.069 | 0.091 | 0.040 | 0.024 | 39.855 | 3 | 12 | 40 |
-| 3 | 10 | terminal | 718 | 0.085 | 0.144 | 0.081 | 0.031 | 31.636 | 3 | 13 | 50 |
-| 3 | 10 | peak | 718 | 0.149 | 0.208 | 0.114 | 0.055 | 17.254 | 6 | 23 | 89 |
-| 3 | 20 | terminal | 656 | 0.157 | 0.259 | 0.175 | 0.058 | 16.263 | 11 | 23 | 80 |
-| 3 | 20 | peak | 656 | 0.255 | 0.392 | 0.262 | 0.100 | 9.041 | 13 | 43 | 140 |
-| 4 | 5 | terminal | 586 | 0.056 | 0.088 | 0.041 | 0.015 | 67.941 | 3 | 8 | 23 |
-| 4 | 5 | peak | 586 | 0.073 | 0.115 | 0.051 | 0.019 | 51.089 | 3 | 10 | 32 |
-| 4 | 10 | terminal | 565 | 0.108 | 0.180 | 0.103 | 0.030 | 32.731 | 3 | 16 | 48 |
-| 4 | 10 | peak | 565 | 0.182 | 0.260 | 0.145 | 0.050 | 18.825 | 5 | 25 | 84 |
-| 4 | 20 | terminal | 512 | 0.217 | 0.319 | 0.219 | 0.060 | 15.787 | 10 | 24 | 88 |
-| 4 | 20 | peak | 512 | 0.320 | 0.472 | 0.324 | 0.097 | 9.343 | 13 | 43 | 142 |
+| 3 | 5 | terminal | 653 | 0.060 | 0.068 | 0.035 | 0.021 | 46.780 | 4 | 10 | 27 |
+| 3 | 5 | peak | 653 | 0.078 | 0.089 | 0.043 | 0.028 | 35.278 | 4 | 12 | 38 |
+| 3 | 10 | terminal | 629 | 0.084 | 0.144 | 0.086 | 0.030 | 32.105 | 3 | 13 | 41 |
+| 3 | 10 | peak | 629 | 0.157 | 0.208 | 0.122 | 0.058 | 16.312 | 6 | 23 | 80 |
+| 3 | 20 | terminal | 572 | 0.173 | 0.261 | 0.185 | 0.064 | 14.743 | 11 | 23 | 75 |
+| 3 | 20 | peak | 572 | 0.278 | 0.394 | 0.277 | 0.110 | 8.079 | 13 | 41 | 135 |
+| 4 | 5 | terminal | 478 | 0.054 | 0.086 | 0.044 | 0.014 | 72.538 | 2 | 6 | 18 |
+| 4 | 5 | peak | 478 | 0.071 | 0.114 | 0.056 | 0.018 | 53.629 | 2 | 7 | 26 |
+| 4 | 10 | terminal | 458 | 0.116 | 0.182 | 0.112 | 0.032 | 30.586 | 4 | 13 | 41 |
+| 4 | 10 | peak | 458 | 0.190 | 0.261 | 0.157 | 0.053 | 17.887 | 5 | 20 | 72 |
+| 4 | 20 | terminal | 414 | 0.222 | 0.325 | 0.236 | 0.061 | 15.396 | 9 | 20 | 72 |
+| 4 | 20 | peak | 414 | 0.326 | 0.475 | 0.344 | 0.100 | 8.976 | 11 | 35 | 120 |
 
 ### Single day, no earnings filing in the next 5 sessions
 
-Days with a qualifying name: 1044. Mean qualifiers on those days: 9.244. Share of those days with at least 3: 0.959.
+Days with a qualifying name: 1040. Mean qualifiers on those days: 7.913. Share of those days with at least 3: 0.939.
 
 | Slate | Horizon | Jump | Dates | Date hit rate | Tradable base | Quiet base | Per pick | Misses per hit | M&A | Earnings | Other |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 3 | 5 | terminal | 957 | 0.019 | 0.069 | 0.031 | 0.006 | 158.500 | 1 | 0 | 17 |
-| 3 | 5 | peak | 957 | 0.028 | 0.090 | 0.038 | 0.009 | 105.333 | 1 | 0 | 26 |
-| 3 | 10 | terminal | 919 | 0.070 | 0.142 | 0.078 | 0.024 | 41.415 | 6 | 4 | 55 |
-| 3 | 10 | peak | 919 | 0.091 | 0.205 | 0.110 | 0.031 | 31.435 | 8 | 5 | 72 |
-| 3 | 20 | terminal | 841 | 0.159 | 0.260 | 0.174 | 0.060 | 15.599 | 23 | 18 | 111 |
-| 3 | 20 | peak | 841 | 0.227 | 0.391 | 0.259 | 0.087 | 10.468 | 26 | 28 | 166 |
-| 4 | 5 | terminal | 924 | 0.028 | 0.090 | 0.041 | 0.007 | 141.154 | 2 | 0 | 24 |
-| 4 | 5 | peak | 924 | 0.036 | 0.117 | 0.051 | 0.009 | 107.706 | 2 | 0 | 32 |
-| 4 | 10 | terminal | 886 | 0.093 | 0.183 | 0.103 | 0.024 | 40.694 | 7 | 6 | 72 |
-| 4 | 10 | peak | 886 | 0.122 | 0.262 | 0.143 | 0.032 | 29.817 | 9 | 7 | 99 |
-| 4 | 20 | terminal | 810 | 0.216 | 0.325 | 0.222 | 0.065 | 14.283 | 30 | 25 | 157 |
-| 4 | 20 | peak | 810 | 0.296 | 0.476 | 0.326 | 0.093 | 9.728 | 33 | 39 | 230 |
+| 3 | 5 | terminal | 938 | 0.021 | 0.069 | 0.033 | 0.007 | 139.700 | 2 | 0 | 18 |
+| 3 | 5 | peak | 938 | 0.032 | 0.090 | 0.042 | 0.011 | 92.800 | 2 | 0 | 28 |
+| 3 | 10 | terminal | 899 | 0.080 | 0.145 | 0.085 | 0.027 | 35.945 | 6 | 4 | 63 |
+| 3 | 10 | peak | 899 | 0.105 | 0.207 | 0.119 | 0.036 | 27.094 | 8 | 5 | 83 |
+| 3 | 20 | terminal | 823 | 0.185 | 0.268 | 0.189 | 0.069 | 13.439 | 23 | 19 | 129 |
+| 3 | 20 | peak | 823 | 0.254 | 0.398 | 0.279 | 0.098 | 9.245 | 27 | 30 | 184 |
+| 4 | 5 | terminal | 875 | 0.027 | 0.090 | 0.044 | 0.007 | 144.833 | 1 | 0 | 23 |
+| 4 | 5 | peak | 875 | 0.040 | 0.116 | 0.055 | 0.011 | 93.595 | 1 | 0 | 36 |
+| 4 | 10 | terminal | 844 | 0.097 | 0.186 | 0.111 | 0.026 | 36.933 | 7 | 7 | 75 |
+| 4 | 10 | peak | 844 | 0.142 | 0.263 | 0.154 | 0.039 | 24.576 | 9 | 9 | 114 |
+| 4 | 20 | terminal | 770 | 0.244 | 0.335 | 0.242 | 0.075 | 12.333 | 33 | 27 | 171 |
+| 4 | 20 | peak | 770 | 0.338 | 0.483 | 0.349 | 0.108 | 8.249 | 38 | 42 | 253 |
 
 ### Multi-day, no earnings filing in the next 5 sessions
 
-Days with a qualifying name: 1028. Mean qualifiers on those days: 5.319. Share of those days with at least 3: 0.857.
+Days with a qualifying name: 1010. Mean qualifiers on those days: 4.661. Share of those days with at least 3: 0.767.
 
 | Slate | Horizon | Jump | Dates | Date hit rate | Tradable base | Quiet base | Per pick | Misses per hit | M&A | Earnings | Other |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 3 | 5 | terminal | 843 | 0.033 | 0.067 | 0.030 | 0.011 | 89.321 | 2 | 0 | 26 |
-| 3 | 5 | peak | 843 | 0.045 | 0.089 | 0.038 | 0.015 | 63.846 | 2 | 0 | 37 |
-| 3 | 10 | terminal | 809 | 0.070 | 0.141 | 0.078 | 0.025 | 39.450 | 2 | 5 | 53 |
-| 3 | 10 | peak | 809 | 0.117 | 0.205 | 0.110 | 0.042 | 23.030 | 3 | 7 | 91 |
-| 3 | 20 | terminal | 741 | 0.148 | 0.257 | 0.172 | 0.054 | 17.681 | 10 | 13 | 96 |
-| 3 | 20 | peak | 741 | 0.240 | 0.389 | 0.258 | 0.089 | 10.227 | 13 | 28 | 157 |
-| 4 | 5 | terminal | 697 | 0.043 | 0.087 | 0.040 | 0.011 | 88.935 | 3 | 0 | 28 |
-| 4 | 5 | peak | 697 | 0.057 | 0.115 | 0.050 | 0.015 | 63.837 | 3 | 0 | 40 |
-| 4 | 10 | terminal | 667 | 0.100 | 0.181 | 0.102 | 0.027 | 35.548 | 3 | 6 | 64 |
-| 4 | 10 | peak | 667 | 0.156 | 0.260 | 0.143 | 0.043 | 22.200 | 5 | 7 | 103 |
-| 4 | 20 | terminal | 613 | 0.210 | 0.323 | 0.223 | 0.060 | 15.568 | 11 | 17 | 120 |
-| 4 | 20 | peak | 613 | 0.315 | 0.477 | 0.328 | 0.096 | 9.390 | 14 | 31 | 191 |
+| 3 | 5 | terminal | 747 | 0.040 | 0.068 | 0.033 | 0.014 | 71.290 | 3 | 0 | 28 |
+| 3 | 5 | peak | 747 | 0.054 | 0.089 | 0.042 | 0.019 | 52.357 | 3 | 0 | 39 |
+| 3 | 10 | terminal | 718 | 0.071 | 0.143 | 0.085 | 0.026 | 38.164 | 2 | 4 | 49 |
+| 3 | 10 | peak | 718 | 0.125 | 0.207 | 0.119 | 0.045 | 21.206 | 4 | 5 | 88 |
+| 3 | 20 | terminal | 661 | 0.162 | 0.262 | 0.185 | 0.060 | 15.805 | 12 | 14 | 92 |
+| 3 | 20 | peak | 661 | 0.257 | 0.395 | 0.276 | 0.099 | 9.117 | 15 | 27 | 154 |
+| 4 | 5 | terminal | 593 | 0.046 | 0.086 | 0.043 | 0.012 | 83.714 | 3 | 0 | 25 |
+| 4 | 5 | peak | 593 | 0.059 | 0.113 | 0.054 | 0.016 | 61.421 | 3 | 0 | 35 |
+| 4 | 10 | terminal | 566 | 0.108 | 0.179 | 0.108 | 0.029 | 33.303 | 3 | 5 | 58 |
+| 4 | 10 | peak | 566 | 0.168 | 0.258 | 0.152 | 0.046 | 20.562 | 5 | 6 | 94 |
+| 4 | 20 | terminal | 518 | 0.220 | 0.324 | 0.234 | 0.065 | 14.463 | 12 | 15 | 107 |
+| 4 | 20 | peak | 518 | 0.334 | 0.478 | 0.345 | 0.106 | 8.461 | 15 | 30 | 174 |
 
 ### Single day, 10-session move under 3%
 
-Days with a qualifying name: 1031. Mean qualifiers on those days: 6.468. Share of those days with at least 3: 0.887.
+Days with a qualifying name: 1025. Mean qualifiers on those days: 5.512. Share of those days with at least 3: 0.843.
 
 | Slate | Horizon | Jump | Dates | Date hit rate | Tradable base | Quiet base | Per pick | Misses per hit | M&A | Earnings | Other |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 3 | 5 | terminal | 882 | 0.022 | 0.069 | 0.029 | 0.008 | 131.300 | 0 | 3 | 17 |
-| 3 | 5 | peak | 882 | 0.029 | 0.090 | 0.036 | 0.010 | 97.000 | 0 | 4 | 23 |
-| 3 | 10 | terminal | 848 | 0.073 | 0.144 | 0.074 | 0.025 | 38.750 | 3 | 7 | 54 |
-| 3 | 10 | peak | 848 | 0.103 | 0.208 | 0.104 | 0.036 | 26.956 | 6 | 9 | 76 |
-| 3 | 20 | terminal | 771 | 0.161 | 0.264 | 0.167 | 0.063 | 14.952 | 19 | 20 | 106 |
-| 3 | 20 | peak | 771 | 0.232 | 0.395 | 0.249 | 0.091 | 9.962 | 22 | 33 | 156 |
-| 4 | 5 | terminal | 793 | 0.033 | 0.090 | 0.038 | 0.009 | 112.286 | 2 | 7 | 19 |
-| 4 | 5 | peak | 793 | 0.043 | 0.117 | 0.048 | 0.011 | 87.111 | 2 | 8 | 26 |
-| 4 | 10 | terminal | 763 | 0.092 | 0.186 | 0.098 | 0.025 | 39.693 | 4 | 12 | 59 |
-| 4 | 10 | peak | 763 | 0.132 | 0.265 | 0.137 | 0.036 | 27.000 | 8 | 17 | 84 |
-| 4 | 20 | terminal | 695 | 0.214 | 0.331 | 0.215 | 0.065 | 14.359 | 22 | 30 | 129 |
-| 4 | 20 | peak | 695 | 0.309 | 0.482 | 0.315 | 0.095 | 9.530 | 25 | 48 | 191 |
+| 3 | 5 | terminal | 834 | 0.025 | 0.069 | 0.032 | 0.009 | 112.727 | 1 | 4 | 17 |
+| 3 | 5 | peak | 834 | 0.034 | 0.089 | 0.039 | 0.012 | 85.276 | 1 | 5 | 23 |
+| 3 | 10 | terminal | 802 | 0.081 | 0.147 | 0.082 | 0.028 | 34.382 | 4 | 10 | 54 |
+| 3 | 10 | peak | 802 | 0.116 | 0.210 | 0.115 | 0.041 | 23.551 | 8 | 13 | 77 |
+| 3 | 20 | terminal | 730 | 0.185 | 0.273 | 0.186 | 0.072 | 12.861 | 20 | 24 | 114 |
+| 3 | 20 | peak | 730 | 0.266 | 0.404 | 0.273 | 0.105 | 8.563 | 23 | 39 | 167 |
+| 4 | 5 | terminal | 711 | 0.039 | 0.090 | 0.041 | 0.011 | 93.800 | 4 | 6 | 20 |
+| 4 | 5 | peak | 711 | 0.048 | 0.115 | 0.052 | 0.013 | 78.000 | 4 | 6 | 26 |
+| 4 | 10 | terminal | 685 | 0.105 | 0.187 | 0.108 | 0.028 | 35.053 | 5 | 10 | 61 |
+| 4 | 10 | peak | 685 | 0.146 | 0.264 | 0.148 | 0.039 | 24.370 | 7 | 14 | 87 |
+| 4 | 20 | terminal | 629 | 0.242 | 0.342 | 0.237 | 0.074 | 12.455 | 22 | 27 | 138 |
+| 4 | 20 | peak | 629 | 0.343 | 0.490 | 0.341 | 0.107 | 8.319 | 25 | 46 | 199 |
 
 ### Multi-day, 10-session move under 3%
 
-Days with a qualifying name: 992. Mean qualifiers on those days: 3.719. Share of those days with at least 3: 0.664.
+Days with a qualifying name: 958. Mean qualifiers on those days: 3.301. Share of those days with at least 3: 0.579.
 
 | Slate | Horizon | Jump | Dates | Date hit rate | Tradable base | Quiet base | Per pick | Misses per hit | M&A | Earnings | Other |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 3 | 5 | terminal | 626 | 0.027 | 0.066 | 0.028 | 0.010 | 103.333 | 1 | 4 | 13 |
-| 3 | 5 | peak | 626 | 0.043 | 0.087 | 0.035 | 0.015 | 66.071 | 1 | 5 | 22 |
-| 3 | 10 | terminal | 598 | 0.069 | 0.139 | 0.073 | 0.023 | 41.714 | 2 | 9 | 31 |
-| 3 | 10 | peak | 598 | 0.114 | 0.203 | 0.103 | 0.041 | 23.243 | 2 | 16 | 56 |
-| 3 | 20 | terminal | 541 | 0.152 | 0.250 | 0.156 | 0.056 | 16.835 | 7 | 21 | 63 |
-| 3 | 20 | peak | 541 | 0.248 | 0.382 | 0.239 | 0.094 | 9.678 | 9 | 41 | 102 |
-| 4 | 5 | terminal | 433 | 0.044 | 0.089 | 0.038 | 0.011 | 90.158 | 2 | 4 | 13 |
-| 4 | 5 | peak | 433 | 0.065 | 0.117 | 0.048 | 0.017 | 58.724 | 2 | 5 | 22 |
-| 4 | 10 | terminal | 413 | 0.109 | 0.182 | 0.095 | 0.029 | 33.417 | 3 | 8 | 37 |
-| 4 | 10 | peak | 413 | 0.174 | 0.262 | 0.135 | 0.048 | 19.650 | 3 | 13 | 64 |
-| 4 | 20 | terminal | 373 | 0.212 | 0.317 | 0.204 | 0.060 | 15.764 | 8 | 19 | 62 |
-| 4 | 20 | peak | 373 | 0.314 | 0.473 | 0.307 | 0.095 | 9.582 | 9 | 34 | 98 |
+| 3 | 5 | terminal | 528 | 0.027 | 0.066 | 0.032 | 0.009 | 104.600 | 1 | 4 | 10 |
+| 3 | 5 | peak | 528 | 0.045 | 0.087 | 0.040 | 0.016 | 62.360 | 1 | 5 | 19 |
+| 3 | 10 | terminal | 505 | 0.071 | 0.141 | 0.079 | 0.024 | 39.946 | 2 | 8 | 27 |
+| 3 | 10 | peak | 505 | 0.123 | 0.205 | 0.113 | 0.044 | 21.612 | 2 | 14 | 51 |
+| 3 | 20 | terminal | 459 | 0.161 | 0.257 | 0.173 | 0.060 | 15.590 | 8 | 20 | 55 |
+| 3 | 20 | peak | 459 | 0.264 | 0.391 | 0.262 | 0.102 | 8.836 | 10 | 38 | 92 |
+| 4 | 5 | terminal | 352 | 0.045 | 0.088 | 0.044 | 0.011 | 87.000 | 2 | 4 | 10 |
+| 4 | 5 | peak | 352 | 0.071 | 0.115 | 0.054 | 0.018 | 53.154 | 2 | 6 | 18 |
+| 4 | 10 | terminal | 335 | 0.116 | 0.183 | 0.106 | 0.031 | 30.905 | 3 | 7 | 32 |
+| 4 | 10 | peak | 335 | 0.188 | 0.264 | 0.150 | 0.052 | 18.143 | 3 | 13 | 54 |
+| 4 | 20 | terminal | 303 | 0.234 | 0.327 | 0.228 | 0.068 | 13.602 | 9 | 16 | 58 |
+| 4 | 20 | peak | 303 | 0.350 | 0.483 | 0.339 | 0.109 | 8.182 | 10 | 30 | 92 |
 
 ### Single day, calls-plus-puts baseline at least 100
 
-Days with a qualifying name: 1047. Mean qualifiers on those days: 10.984. Share of those days with at least 3: 0.974.
+Days with a qualifying name: 1045. Mean qualifiers on those days: 9.467. Share of those days with at least 3: 0.960.
 
 | Slate | Horizon | Jump | Dates | Date hit rate | Tradable base | Quiet base | Per pick | Misses per hit | M&A | Earnings | Other |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 3 | 5 | terminal | 974 | 0.022 | 0.066 | 0.031 | 0.007 | 138.143 | 1 | 4 | 16 |
-| 3 | 5 | peak | 974 | 0.034 | 0.086 | 0.038 | 0.012 | 84.941 | 1 | 4 | 29 |
-| 3 | 10 | terminal | 935 | 0.073 | 0.137 | 0.078 | 0.025 | 39.652 | 6 | 11 | 52 |
-| 3 | 10 | peak | 935 | 0.102 | 0.198 | 0.110 | 0.035 | 27.918 | 8 | 17 | 72 |
-| 3 | 20 | terminal | 852 | 0.170 | 0.254 | 0.174 | 0.061 | 15.280 | 23 | 35 | 99 |
-| 3 | 20 | peak | 852 | 0.239 | 0.381 | 0.259 | 0.090 | 10.113 | 25 | 46 | 159 |
-| 4 | 5 | terminal | 941 | 0.031 | 0.086 | 0.041 | 0.008 | 128.793 | 1 | 5 | 23 |
-| 4 | 5 | peak | 941 | 0.041 | 0.112 | 0.051 | 0.011 | 88.619 | 1 | 5 | 36 |
-| 4 | 10 | terminal | 903 | 0.097 | 0.176 | 0.102 | 0.025 | 38.692 | 7 | 13 | 71 |
-| 4 | 10 | peak | 903 | 0.131 | 0.251 | 0.143 | 0.035 | 27.441 | 11 | 19 | 97 |
-| 4 | 20 | terminal | 824 | 0.215 | 0.315 | 0.221 | 0.063 | 14.770 | 30 | 39 | 140 |
-| 4 | 20 | peak | 824 | 0.295 | 0.462 | 0.324 | 0.092 | 9.914 | 33 | 54 | 215 |
+| 3 | 5 | terminal | 964 | 0.024 | 0.067 | 0.034 | 0.008 | 124.739 | 1 | 4 | 18 |
+| 3 | 5 | peak | 964 | 0.038 | 0.087 | 0.042 | 0.013 | 75.105 | 1 | 5 | 32 |
+| 3 | 10 | terminal | 926 | 0.081 | 0.141 | 0.085 | 0.028 | 34.615 | 6 | 14 | 58 |
+| 3 | 10 | peak | 926 | 0.114 | 0.202 | 0.119 | 0.040 | 23.804 | 10 | 21 | 81 |
+| 3 | 20 | terminal | 844 | 0.192 | 0.262 | 0.189 | 0.070 | 13.386 | 25 | 38 | 113 |
+| 3 | 20 | peak | 844 | 0.269 | 0.389 | 0.278 | 0.102 | 8.852 | 29 | 51 | 177 |
+| 4 | 5 | terminal | 927 | 0.031 | 0.088 | 0.045 | 0.008 | 126.862 | 2 | 6 | 21 |
+| 4 | 5 | peak | 927 | 0.045 | 0.112 | 0.056 | 0.012 | 79.609 | 2 | 7 | 37 |
+| 4 | 10 | terminal | 889 | 0.109 | 0.181 | 0.112 | 0.029 | 33.524 | 8 | 17 | 78 |
+| 4 | 10 | peak | 889 | 0.151 | 0.256 | 0.155 | 0.041 | 23.190 | 12 | 25 | 110 |
+| 4 | 20 | terminal | 810 | 0.244 | 0.328 | 0.241 | 0.073 | 12.787 | 33 | 48 | 154 |
+| 4 | 20 | peak | 810 | 0.328 | 0.474 | 0.349 | 0.104 | 8.586 | 37 | 67 | 234 |
 
 ### Multi-day, calls-plus-puts baseline at least 100
 
-Days with a qualifying name: 1040. Mean qualifiers on those days: 7.417. Share of those days with at least 3: 0.940.
+Days with a qualifying name: 1034. Mean qualifiers on those days: 6.467. Share of those days with at least 3: 0.898.
 
 | Slate | Horizon | Jump | Dates | Date hit rate | Tradable base | Quiet base | Per pick | Misses per hit | M&A | Earnings | Other |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 3 | 5 | terminal | 939 | 0.048 | 0.067 | 0.031 | 0.017 | 58.936 | 1 | 14 | 32 |
-| 3 | 5 | peak | 939 | 0.058 | 0.088 | 0.039 | 0.020 | 48.421 | 1 | 15 | 41 |
-| 3 | 10 | terminal | 901 | 0.089 | 0.139 | 0.079 | 0.031 | 31.566 | 3 | 20 | 60 |
-| 3 | 10 | peak | 901 | 0.130 | 0.201 | 0.112 | 0.047 | 20.452 | 4 | 24 | 98 |
-| 3 | 20 | terminal | 825 | 0.179 | 0.255 | 0.175 | 0.065 | 14.373 | 13 | 34 | 114 |
-| 3 | 20 | peak | 825 | 0.261 | 0.384 | 0.261 | 0.101 | 8.900 | 17 | 50 | 183 |
-| 4 | 5 | terminal | 880 | 0.057 | 0.086 | 0.041 | 0.015 | 65.415 | 2 | 15 | 36 |
-| 4 | 5 | peak | 880 | 0.069 | 0.112 | 0.051 | 0.019 | 52.333 | 2 | 16 | 48 |
-| 4 | 10 | terminal | 842 | 0.108 | 0.176 | 0.103 | 0.029 | 33.722 | 2 | 25 | 70 |
-| 4 | 10 | peak | 842 | 0.164 | 0.253 | 0.144 | 0.046 | 20.870 | 4 | 33 | 117 |
-| 4 | 20 | terminal | 773 | 0.223 | 0.316 | 0.222 | 0.062 | 15.104 | 12 | 42 | 138 |
-| 4 | 20 | peak | 773 | 0.325 | 0.466 | 0.326 | 0.098 | 9.171 | 16 | 64 | 224 |
+| 3 | 5 | terminal | 894 | 0.048 | 0.066 | 0.034 | 0.017 | 58.600 | 2 | 13 | 30 |
+| 3 | 5 | peak | 894 | 0.058 | 0.086 | 0.043 | 0.021 | 47.764 | 2 | 14 | 39 |
+| 3 | 10 | terminal | 858 | 0.090 | 0.140 | 0.086 | 0.031 | 30.778 | 2 | 19 | 60 |
+| 3 | 10 | peak | 858 | 0.136 | 0.202 | 0.120 | 0.050 | 19.109 | 4 | 24 | 100 |
+| 3 | 20 | terminal | 788 | 0.188 | 0.261 | 0.188 | 0.069 | 13.503 | 12 | 35 | 116 |
+| 3 | 20 | peak | 788 | 0.284 | 0.389 | 0.278 | 0.111 | 7.989 | 16 | 53 | 194 |
+| 4 | 5 | terminal | 808 | 0.057 | 0.086 | 0.045 | 0.015 | 64.959 | 3 | 13 | 33 |
+| 4 | 5 | peak | 808 | 0.072 | 0.112 | 0.056 | 0.019 | 50.302 | 3 | 15 | 45 |
+| 4 | 10 | terminal | 775 | 0.119 | 0.179 | 0.112 | 0.031 | 30.959 | 5 | 25 | 67 |
+| 4 | 10 | peak | 775 | 0.175 | 0.256 | 0.156 | 0.049 | 19.395 | 7 | 33 | 112 |
+| 4 | 20 | terminal | 712 | 0.240 | 0.324 | 0.238 | 0.070 | 13.384 | 15 | 46 | 137 |
+| 4 | 20 | peak | 712 | 0.351 | 0.473 | 0.348 | 0.109 | 8.158 | 19 | 69 | 223 |
 
 ### Equal-weight P&L
 
@@ -200,43 +211,43 @@ Stock is bought at the scoring close. The call is the nearest monthly contract w
 
 | Screen | Horizon | Leg | Slates | Mean | Median | Hit rate | Worst decile |
 | --- | ---: | --- | ---: | ---: | ---: | ---: | ---: |
-| single 3 | 5 | stock | 964 | -0.000 | 0.001 | 0.520 | -0.040 |
-| single 3 | 5 | call | 676 | -0.174 | -0.466 | 0.237 | -0.872 |
-| single 3 | 10 | stock | 927 | -0.000 | -0.001 | 0.494 | -0.054 |
-| single 3 | 10 | call | 545 | 0.212 | -0.360 | 0.365 | -0.921 |
-| single 3 | 20 | stock | 852 | 0.000 | -0.000 | 0.495 | -0.083 |
-| single 3 | 20 | call | 360 | 1.322 | 0.706 | 0.647 | -0.824 |
-| single 4 | 5 | stock | 931 | 0.000 | 0.000 | 0.503 | -0.038 |
-| single 4 | 5 | call | 699 | -0.122 | -0.407 | 0.255 | -0.851 |
-| single 4 | 10 | stock | 896 | 0.001 | -0.000 | 0.493 | -0.050 |
-| single 4 | 10 | call | 580 | 0.296 | -0.216 | 0.405 | -0.906 |
-| single 4 | 20 | stock | 825 | 0.003 | 0.003 | 0.536 | -0.074 |
-| single 4 | 20 | call | 421 | 1.274 | 0.745 | 0.663 | -0.816 |
-| multi 3 | 5 | stock | 857 | 0.002 | 0.003 | 0.530 | -0.040 |
-| multi 3 | 5 | call | 629 | 0.009 | -0.405 | 0.296 | -0.860 |
-| multi 3 | 10 | stock | 825 | 0.002 | 0.001 | 0.512 | -0.057 |
-| multi 3 | 10 | call | 511 | 0.467 | -0.200 | 0.440 | -0.900 |
-| multi 3 | 20 | stock | 756 | -0.004 | -0.001 | 0.487 | -0.084 |
-| multi 3 | 20 | call | 306 | 1.632 | 0.667 | 0.660 | -0.830 |
-| multi 4 | 5 | stock | 726 | 0.002 | 0.002 | 0.525 | -0.038 |
-| multi 4 | 5 | call | 560 | -0.019 | -0.377 | 0.302 | -0.851 |
-| multi 4 | 10 | stock | 696 | 0.002 | 0.003 | 0.545 | -0.058 |
-| multi 4 | 10 | call | 470 | 0.415 | -0.149 | 0.432 | -0.875 |
-| multi 4 | 20 | stock | 636 | -0.002 | -0.000 | 0.498 | -0.078 |
-| multi 4 | 20 | call | 308 | 1.486 | 0.775 | 0.649 | -0.800 |
+| single 3 | 5 | stock | 943 | 0.000 | 0.001 | 0.514 | -0.042 |
+| single 3 | 5 | call | 669 | -0.161 | -0.455 | 0.253 | -0.876 |
+| single 3 | 10 | stock | 906 | -0.001 | -0.001 | 0.489 | -0.059 |
+| single 3 | 10 | call | 532 | 0.258 | -0.303 | 0.380 | -0.917 |
+| single 3 | 20 | stock | 834 | -0.000 | -0.000 | 0.494 | -0.090 |
+| single 3 | 20 | call | 344 | 1.335 | 0.717 | 0.657 | -0.800 |
+| single 4 | 5 | stock | 894 | 0.000 | 0.001 | 0.519 | -0.042 |
+| single 4 | 5 | call | 675 | -0.140 | -0.424 | 0.243 | -0.867 |
+| single 4 | 10 | stock | 862 | 0.000 | -0.000 | 0.499 | -0.055 |
+| single 4 | 10 | call | 556 | 0.342 | -0.151 | 0.424 | -0.897 |
+| single 4 | 20 | stock | 792 | 0.003 | 0.002 | 0.524 | -0.080 |
+| single 4 | 20 | call | 404 | 1.274 | 0.726 | 0.681 | -0.833 |
+| multi 3 | 5 | stock | 770 | 0.002 | 0.003 | 0.529 | -0.043 |
+| multi 3 | 5 | call | 560 | 0.008 | -0.404 | 0.291 | -0.866 |
+| multi 3 | 10 | stock | 743 | 0.002 | 0.002 | 0.518 | -0.058 |
+| multi 3 | 10 | call | 461 | 0.439 | -0.236 | 0.397 | -0.906 |
+| multi 3 | 20 | stock | 681 | -0.003 | -0.001 | 0.489 | -0.087 |
+| multi 3 | 20 | call | 270 | 1.560 | 0.667 | 0.626 | -0.857 |
+| multi 4 | 5 | stock | 628 | 0.001 | 0.001 | 0.513 | -0.040 |
+| multi 4 | 5 | call | 485 | -0.019 | -0.370 | 0.299 | -0.856 |
+| multi 4 | 10 | stock | 603 | 0.001 | 0.001 | 0.506 | -0.059 |
+| multi 4 | 10 | call | 409 | 0.384 | -0.283 | 0.406 | -0.900 |
+| multi 4 | 20 | stock | 551 | -0.002 | -0.000 | 0.497 | -0.080 |
+| multi 4 | 20 | call | 261 | 1.425 | 0.778 | 0.640 | -0.843 |
 
-single top 3, 5 sessions, mean by year: 2021 stock -0.013 / call -0.408; 2022 stock -0.004 / call -0.316; 2023 stock 0.002 / call -0.065; 2024 stock 0.000 / call -0.161; 2025 stock 0.004 / call -0.103; 2026 stock -0.000 / call -0.302.
-single top 3, 10 sessions, mean by year: 2021 stock -0.012 / call -0.233; 2022 stock -0.016 / call -0.274; 2023 stock 0.000 / call 0.297; 2024 stock 0.006 / call 0.507; 2025 stock 0.012 / call 0.412; 2026 stock -0.006 / call -0.095.
-single top 3, 20 sessions, mean by year: 2021 stock -0.036 / call 0.581; 2022 stock -0.019 / call 0.523; 2023 stock 0.001 / call 1.875; 2024 stock 0.003 / call 1.688; 2025 stock 0.019 / call 1.454; 2026 stock 0.000 / call 0.396.
-single top 4, 5 sessions, mean by year: 2021 stock -0.014 / call -0.338; 2022 stock -0.005 / call -0.259; 2023 stock 0.003 / call -0.043; 2024 stock -0.001 / call -0.098; 2025 stock 0.005 / call -0.054; 2026 stock 0.002 / call -0.225.
-single top 4, 10 sessions, mean by year: 2021 stock -0.015 / call -0.135; 2022 stock -0.016 / call -0.147; 2023 stock 0.002 / call 0.400; 2024 stock 0.005 / call 0.543; 2025 stock 0.012 / call 0.429; 2026 stock -0.002 / call 0.101.
-single top 4, 20 sessions, mean by year: 2021 stock -0.038 / call 0.932; 2022 stock -0.014 / call 0.731; 2023 stock 0.005 / call 1.728; 2024 stock 0.001 / call 1.398; 2025 stock 0.021 / call 1.380; 2026 stock 0.010 / call 0.581.
-multi top 3, 5 sessions, mean by year: 2021 stock 0.005 / call 0.401; 2022 stock -0.003 / call -0.294; 2023 stock 0.002 / call 0.022; 2024 stock 0.001 / call -0.016; 2025 stock 0.006 / call 0.159; 2026 stock 0.001 / call -0.063.
-multi top 3, 10 sessions, mean by year: 2021 stock 0.001 / call 1.302; 2022 stock -0.014 / call 0.038; 2023 stock 0.002 / call 0.526; 2024 stock 0.002 / call 0.343; 2025 stock 0.010 / call 0.602; 2026 stock 0.009 / call 0.502.
-multi top 3, 20 sessions, mean by year: 2021 stock -0.032 / call 3.355; 2022 stock -0.022 / call 0.865; 2023 stock -0.004 / call 2.038; 2024 stock -0.001 / call 1.505; 2025 stock 0.008 / call 1.863; 2026 stock 0.013 / call 0.759.
-multi top 4, 5 sessions, mean by year: 2021 stock -0.000 / call -0.296; 2022 stock -0.002 / call -0.132; 2023 stock 0.001 / call -0.029; 2024 stock 0.001 / call -0.064; 2025 stock 0.005 / call 0.219; 2026 stock 0.004 / call -0.160.
-multi top 4, 10 sessions, mean by year: 2021 stock -0.005 / call 0.591; 2022 stock -0.014 / call 0.212; 2023 stock 0.000 / call 0.503; 2024 stock 0.004 / call 0.267; 2025 stock 0.009 / call 0.599; 2026 stock 0.013 / call 0.298.
-multi top 4, 20 sessions, mean by year: 2021 stock -0.034 / call 1.980; 2022 stock -0.023 / call 1.037; 2023 stock -0.000 / call 1.935; 2024 stock 0.005 / call 1.072; 2025 stock 0.005 / call 2.011; 2026 stock 0.017 / call 0.571.
+single top 3, 5 sessions, mean by year: 2021 stock -0.015 / call -0.406; 2022 stock -0.006 / call -0.283; 2023 stock 0.002 / call -0.143; 2024 stock 0.000 / call -0.027; 2025 stock 0.005 / call -0.107; 2026 stock 0.001 / call -0.305.
+single top 3, 10 sessions, mean by year: 2021 stock -0.016 / call -0.229; 2022 stock -0.020 / call -0.209; 2023 stock -0.001 / call 0.256; 2024 stock 0.006 / call 0.774; 2025 stock 0.013 / call 0.343; 2026 stock -0.005 / call -0.024.
+single top 3, 20 sessions, mean by year: 2021 stock -0.039 / call 1.242; 2022 stock -0.022 / call 0.641; 2023 stock 0.001 / call 2.041; 2024 stock 0.003 / call 1.683; 2025 stock 0.019 / call 1.201; 2026 stock 0.001 / call 0.459.
+single top 4, 5 sessions, mean by year: 2021 stock -0.018 / call -0.309; 2022 stock -0.007 / call -0.236; 2023 stock 0.003 / call -0.116; 2024 stock -0.001 / call -0.093; 2025 stock 0.006 / call -0.060; 2026 stock 0.003 / call -0.268.
+single top 4, 10 sessions, mean by year: 2021 stock -0.022 / call -0.061; 2022 stock -0.018 / call -0.109; 2023 stock -0.000 / call 0.411; 2024 stock 0.007 / call 0.696; 2025 stock 0.014 / call 0.438; 2026 stock -0.002 / call 0.083.
+single top 4, 20 sessions, mean by year: 2021 stock -0.042 / call 1.217; 2022 stock -0.014 / call 0.862; 2023 stock 0.002 / call 1.839; 2024 stock 0.003 / call 1.398; 2025 stock 0.022 / call 1.180; 2026 stock 0.013 / call 0.545.
+multi top 3, 5 sessions, mean by year: 2021 stock 0.002 / call 0.401; 2022 stock -0.004 / call -0.266; 2023 stock 0.001 / call 0.045; 2024 stock 0.003 / call -0.023; 2025 stock 0.006 / call 0.088; 2026 stock 0.004 / call 0.034.
+multi top 3, 10 sessions, mean by year: 2021 stock 0.003 / call 1.450; 2022 stock -0.015 / call 0.062; 2023 stock -0.001 / call 0.464; 2024 stock 0.005 / call 0.305; 2025 stock 0.011 / call 0.528; 2026 stock 0.013 / call 0.565.
+multi top 3, 20 sessions, mean by year: 2021 stock -0.031 / call 3.860; 2022 stock -0.021 / call 0.902; 2023 stock -0.007 / call 1.839; 2024 stock 0.005 / call 1.465; 2025 stock 0.005 / call 1.657; 2026 stock 0.019 / call 0.921.
+multi top 4, 5 sessions, mean by year: 2021 stock 0.001 / call -0.355; 2022 stock -0.002 / call -0.048; 2023 stock -0.000 / call -0.018; 2024 stock -0.000 / call -0.114; 2025 stock 0.005 / call 0.185; 2026 stock 0.004 / call -0.088.
+multi top 4, 10 sessions, mean by year: 2021 stock -0.003 / call 0.565; 2022 stock -0.014 / call 0.360; 2023 stock -0.004 / call 0.350; 2024 stock 0.005 / call 0.246; 2025 stock 0.009 / call 0.518; 2026 stock 0.009 / call 0.392.
+multi top 4, 20 sessions, mean by year: 2021 stock -0.030 / call 2.435; 2022 stock -0.022 / call 1.486; 2023 stock -0.004 / call 1.590; 2024 stock 0.009 / call 0.876; 2025 stock 0.002 / call 1.965; 2026 stock 0.010 / call 0.879.
 
 ### Examples with a 15% rise within 20 sessions
 

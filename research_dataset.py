@@ -5,6 +5,8 @@ import hashlib
 import json
 from pathlib import Path
 
+from etp_exclusion import partition_rows as drop_etp_rows
+
 from exploratory_patterns import valid
 from research_cohort import write_rows
 
@@ -156,15 +158,18 @@ def build(event_features, background, events, calendar, protocol, reviews, follo
     return partition_rows(output, protocol['partitions'])
 
 
-def run(root=Path('.')):
+def run(root=Path('.'), include_etp=False):
     paths = dict(event_features='results/reviewed_cohort/features.json',
                  background='results/background_sample/observations.json',
                  events='results/reviewed_cohort/events.json',
                  protocol='data/evaluation_protocol.json', reviews='data/outcome_coverage_reviews.json')
     loaded = {k: json.loads((root/p).read_text()) for k, p in paths.items()}
+    features, etp_features = drop_etp_rows(loaded['event_features'], include_etp=include_etp)
+    background, etp_background = drop_etp_rows(loaded['background'], include_etp=include_etp)
+    events, etp_events = drop_etp_rows(loaded['events'], include_etp=include_etp)
     # A complete calendar is not evidence of complete outcome follow-up.
-    followup_end = max((r['announcement_date'] for r in loaded['events']), default='2012-01-01')
-    rows = build(loaded['event_features'], loaded['background'], loaded['events'],
+    followup_end = max((r['announcement_date'] for r in events), default='2012-01-01')
+    rows = build(features, background, events,
                  calendar_rows(root), loaded['protocol'], loaded['reviews']['reviews'], followup_end)
     folder = root/'results/research_dataset'
     folder.mkdir(parents=True, exist_ok=True)
@@ -177,6 +182,7 @@ def run(root=Path('.')):
                     research_eligible=sum(r['research_eligible'] for r in rows),
                     known_positive_labels=sum(r['training_label'] == 1 for r in rows),
                     known_negative_labels=sum(r['training_label'] == 0 for r in rows),
+                    etp_exclusion=dict(features=etp_features, background=etp_background, events=etp_events),
                     source_sha256={p: hashlib.sha256((root/p).read_bytes()).hexdigest() for p in paths.values()},
                     gates=['Incomplete first-disclosure, corporate-action, and security identity review.',
                            'No complete scoped outcome reviews certify negatives.',
@@ -186,7 +192,9 @@ def run(root=Path('.')):
     (folder/'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
     lines = ['# Time-safe observation and label audit', '',
              f"{len(rows)} distinct stock-days; {manifest['known_positive_labels']} verified positives, "
-             f"{manifest['known_negative_labels']} certified negatives. Unknown labels remain null.", '',
+             f"{manifest['known_negative_labels']} certified negatives. Unknown labels remain null. "
+             f"ETP exclusion removed {etp_features['removed']} feature rows, "
+             f"{etp_background['removed']} background rows, and {etp_events['removed']} events.", '',
              'Feature history is the preceding 20 exchange sessions. Outcomes run after the '
              'feature close through the close of the tenth subsequent exchange session. Entry '
              'uses the next-session close as a conservative timing proxy, never an asserted fill.', '',
