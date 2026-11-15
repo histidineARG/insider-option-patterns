@@ -6,11 +6,14 @@ The holdout is not used to pick a rule.
 """
 from __future__ import annotations
 
+import argparse
 import json
 from datetime import date, timedelta
 from pathlib import Path
 
 import numpy as np
+
+from etp_exclusion import add_argument, read_symbol_file, stats_line
 
 from anomaly_flow import (
     HOLDOUT_START, _as_date, _cap_sample, _f, _folds, _score_pair, load_config, load_earnings,
@@ -362,8 +365,9 @@ def price_combo(entry_call, entry_put, exit_call, exit_put) -> dict | None:
     return dict(quote=quote, mid=mid, premium=first['ask'] + second['ask'])
 
 
-def run(root: Path):
-    symbols = [line.strip() for line in Path('/tmp/anomaly_symbol_list.txt').read_text().splitlines() if line.strip()]
+def run(root: Path, include_etp: bool = False):
+    symbols, etp_stats = read_symbol_file('/tmp/anomaly_symbol_list.txt', include_etp=include_etp)
+    print(stats_line(etp_stats), flush=True)
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
     panels, flags = score_signals(symbols)
@@ -383,6 +387,7 @@ def run(root: Path):
     earnings = load_earnings(root)
     trades, coverage = price_all(signals, universe, sessions, index, earnings)
     report = build_report(trades, coverage, sessions)
+    report['etp_exclusion'] = etp_stats
     folder = root / 'results' / 'insider_footprint'
     folder.mkdir(parents=True, exist_ok=True)
     (folder / 'straddle_test.json').write_text(json.dumps(report, indent=2) + '\n')
@@ -751,7 +756,10 @@ def _span(pair):
 
 
 def main():
-    run(Path('.'))
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path('.'), include_etp=args.include_etp)
     return 0
 
 

@@ -14,6 +14,7 @@ from collections import defaultdict
 from datetime import date
 from pathlib import Path
 
+from etp_exclusion import add_argument, partition_rows, stats_line
 from insider_model import evaluate_model, render_model_report, samples_from_records, window_features
 
 WINDOW = 10
@@ -343,10 +344,11 @@ def cover_range(window_dates, baseline_dates):
     return min(days), max(days)
 
 
-def run(root: Path, connection=None) -> dict:
+def run(root: Path, connection=None, include_etp: bool = False) -> dict:
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
-    keeps = load_keeps(root)
+    keeps, etp_stats = partition_rows(load_keeps(root), include_etp=include_etp)
+    print(stats_line(etp_stats), flush=True)
     own = close_connection = connection is None
     if own:
         connection = connect()
@@ -417,6 +419,7 @@ def run(root: Path, connection=None) -> dict:
                   top_share_min=TOP_SHARE_MIN, delta=[DELTA_LO, DELTA_HI], dte=[DTE_LO, DTE_HI],
                   otm=[OTM_LO, OTM_HI], placebo_shift=PLACEBO_SHIFT, earnings_gap=EARNINGS_GAP),
         counts=dict(keeps=len(keeps), tier_a=len(tier_a), tier_b=len(tier_b)),
+        etp_exclusion=etp_stats,
         tier_a=rate_row(tier_a),
         placebo=rate_row(placebo),
         earnings=rate_row(earnings_rows),
@@ -437,7 +440,7 @@ def run(root: Path, connection=None) -> dict:
     )
     folder = root / 'results' / 'insider_footprint'
     folder.mkdir(parents=True, exist_ok=True)
-    model = evaluate_model(samples_from_records(records))
+    model = evaluate_model(samples_from_records(records, include_etp=include_etp))
     summary['model'] = {key: model[key] for key in ('fit', 'n_train', 'volume_only_holdout_auc') if key in model}
     if model.get('fit'):
         summary['model']['holdout_2016'] = model['folds']['holdout_2016']
@@ -519,8 +522,9 @@ def render_report(summary) -> str:
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--root', type=Path, default=Path('.'))
+    add_argument(parser)
     args = parser.parse_args()
-    run(args.root)
+    run(args.root, include_etp=args.include_etp)
     return 0
 
 

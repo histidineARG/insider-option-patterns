@@ -8,12 +8,15 @@ removed. Nothing in a score uses a later close.
 """
 from __future__ import annotations
 
+import argparse
 import json
 import math
 from datetime import date, datetime
 from pathlib import Path
 
 import numpy as np
+
+from etp_exclusion import add_argument, read_symbol_file, stats_line
 
 HOLDOUT_START = date(2025, 11, 13)
 FIRST_TEST_YEAR = 2018
@@ -958,8 +961,9 @@ def verdict_text(configs) -> str:
     return ('These detectors clear the bar set before the run, on a 20-session 15 percent jump at the top 1 percent: ' + '; '.join(clears) + '.')
 
 
-def run(root: Path):
-    symbols = [line.strip() for line in Path('/tmp/anomaly_symbol_list.txt').read_text().splitlines() if line.strip()]
+def run(root: Path, include_etp: bool = False):
+    symbols, etp_stats = read_symbol_file('/tmp/anomaly_symbol_list.txt', include_etp=include_etp)
+    print(stats_line(etp_stats), flush=True)
     build_cache(root, symbols)
     earnings = load_earnings(root)
     uncovered = sum(1 for symbol in symbols if symbol.upper() not in earnings)
@@ -976,6 +980,7 @@ def run(root: Path):
     report = dict(
         configs=configs, uncovered_earnings=uncovered, splits='see build log',
         sec=sec_case_pass(symbols, cases), verdict='',
+        etp_exclusion=etp_stats,
     )
     report['verdict'] = verdict_text(configs)
     report['splits'] = 'applied inside each price series before the $10 filter and the jump labels'
@@ -1060,7 +1065,10 @@ def _apply_model(kind, train_x, score_x, ref_x, seed):
 
 
 def main():
-    run(Path('.'))
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path('.'), include_etp=args.include_etp)
     return 0
 
 

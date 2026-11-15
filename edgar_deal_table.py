@@ -176,6 +176,8 @@ def hit_row(hit: dict, family: str, ticker_by_cik: dict, local_by_cik: dict) -> 
     parties = assign_parties(source.get('form') or '', source.get('display_names') or [])
     target = parties['target']
     symbols = choose_symbols(target, ticker_by_cik, local_by_cik)
+    from etp_exclusion import partition_symbols
+    symbols, _etp_stats = partition_symbols(symbols)
     acquirer = parties['acquirer']
     cik = (target or {}).get('cik') or ''
     accession = source.get('adsh') or ''

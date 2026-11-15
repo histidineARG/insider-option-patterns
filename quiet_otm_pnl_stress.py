@@ -11,6 +11,7 @@ import statistics
 from datetime import date, timedelta
 from pathlib import Path
 
+from etp_exclusion import add_argument, partition_symbols, stats_line
 from insider_resolved import connect, expiry_class, load_sessions
 from quiet_otm_screen import _news, _screen_symbol
 from quiet_screen import _exit_day, _nearest_monthly, _option_return, _push, distribution
@@ -73,7 +74,7 @@ def by_hit(trades: list[dict]) -> dict:
     return {kind: distribution(grouped.get(kind, [])) for kind in ('ma', 'earnings', 'other')}
 
 
-def run(root: Path) -> dict:
+def run(root: Path, include_etp: bool = False) -> dict:
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
     earn_map, ma_map = _news(root)
@@ -85,6 +86,8 @@ def run(root: Path) -> dict:
                 "SELECT DISTINCT symbol FROM optionstat WHERE qdate BETWEEN '2022-01-01' AND '2026-11-12'"
             )
             symbols = sorted(row['symbol'] for row in cursor.fetchall())
+            symbols, etp_stats = partition_symbols(symbols, include_etp=include_etp)
+            print(stats_line(etp_stats), flush=True)
             cursor.execute(
                 "SELECT symbol, splitdate FROM split WHERE splitdate BETWEEN '2021-10-01' AND '2026-11-12'"
             )
@@ -144,6 +147,7 @@ def run(root: Path) -> dict:
         random_quiet_trades=distribution(
             [trade['call_return'] for trade in random_trades if trade.get('call_return') is not None]),
         example_fill=_example_fill(filled),
+        etp_exclusion=etp_stats,
     )
     _write(root, report)
     return report
@@ -291,7 +295,11 @@ def render(report: dict) -> str:
 
 
 def main():
-    run(Path('.'))
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path('.'), include_etp=args.include_etp)
     return 0
 
 

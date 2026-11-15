@@ -6,6 +6,7 @@ The holdout, from 2025-11-13, is read after that choice.
 """
 from __future__ import annotations
 
+import argparse
 import json
 from collections import defaultdict
 from datetime import date
@@ -13,6 +14,8 @@ from math import factorial
 from pathlib import Path
 
 import numpy as np
+
+from etp_exclusion import add_argument, read_symbol_file, stats_line
 
 from anomaly_flow import FEATURES, HOLDOUT_START, _as_date, _cap_sample, _f, load_config, load_earnings
 from insider_footprint import load_sessions
@@ -229,8 +232,9 @@ def performance(equity, day_ords):
     )
 
 
-def run(root: Path):
-    symbols = [line.strip() for line in Path('/tmp/anomaly_symbol_list.txt').read_text().splitlines() if line.strip()]
+def run(root: Path, include_etp: bool = False):
+    symbols, etp_stats = read_symbol_file('/tmp/anomaly_symbol_list.txt', include_etp=include_etp)
+    print(stats_line(etp_stats), flush=True)
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
     print('prices', flush=True)
@@ -275,6 +279,7 @@ def run(root: Path):
         years=years, extremes=extremes, portfolio=portfolios,
         levels=level_check(panel, books, symbols, bars),
         verdict=verdict(chosen, vol, overlap, importance, ablation, portfolios),
+        etp_exclusion=etp_stats,
     )
     folder = root / 'results' / 'insider_footprint'
     folder.mkdir(parents=True, exist_ok=True)
@@ -949,7 +954,7 @@ def verdict(chosen, vol, overlap, importance, ablation, portfolios):
     if full is not None and stock is not None:
         parts.append(f"Holdout top-4 lift is {full:.2f} with the option features and {stock:.2f} with trailing return and volatility only.")
         if full > stock + 0.3:
-        parts.append('The option-flow features add lift beyond the stock features.')
+            parts.append('The option-flow features add lift beyond the stock features.')
     else:
         parts.append('Removing the option-flow features leaves most of the lift in place.')
     parts.append('A 15% target with a 40-session cap has a median of +14.9% on the picks and the same median on the volatility-matched random book. The target, not the model, sets that median.')
@@ -1080,7 +1085,10 @@ def _fmt(value):
 
 
 def main():
-    run(Path('.'))
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path('.'), include_etp=args.include_etp)
     return 0
 
 

@@ -9,6 +9,8 @@ import os
 import statistics
 import sys
 
+from etp_exclusion import add_argument, partition_symbols, stats_line
+
 
 @dataclass(frozen=True)
 class Settings:
@@ -79,12 +81,18 @@ def load_days(connection, symbol, target, settings, table='optiondaily'):
         return cursor.fetchall()
 
 
+def screen_symbols(symbols, include_etp: bool = False):
+    """Candidate symbols for a detector run. ETPs are dropped unless opted out."""
+    return partition_symbols(symbols, include_etp=include_etp)
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--symbols', nargs='+', required=True)
     parser.add_argument('--date', type=date.fromisoformat, required=True)
     parser.add_argument('--table', choices=['optiondaily', 'optiondaily3'], default='optiondaily')
     parser.add_argument('--format', choices=['json', 'csv'], default='json')
+    add_argument(parser)
     for name, field in Settings.__dataclass_fields__.items():
         parser.add_argument('--' + name.replace('_', '-'), type=field.type, default=field.default)
     args = parser.parse_args()
@@ -108,13 +116,15 @@ def main():
         config['port'] = int(os.environ.get('OPTIONDB_PORT', '3306'))
     else:
         config['unix_socket'] = os.environ.get('OPTIONDB_SOCKET', '/run/mysqld/mysqld.sock')
+    symbols, etp_stats = screen_symbols(dict.fromkeys(s.upper() for s in args.symbols), include_etp=args.include_etp)
+    print(stats_line(etp_stats), file=sys.stderr)
     alerts = []
     try:
         with pymysql.connect(**config) as connection:
             with connection.cursor() as cursor:
                 cursor.execute('SET SESSION MAX_EXECUTION_TIME=60000')
                 cursor.execute('START TRANSACTION READ ONLY')
-            for symbol in dict.fromkeys(s.upper() for s in args.symbols):
+            for symbol in symbols:
                 days = load_days(connection, symbol, args.date, settings, args.table)
                 if not any(r['qdate'] == args.date for r in days):
                     print(f'{symbol}: no chain data on {args.date}', file=sys.stderr)
@@ -129,7 +139,7 @@ def main():
         return 1
     alerts.sort(key=lambda r: (r['volume_ratio'] is None, r['volume_ratio'] or 0, r['volume']), reverse=True)
     if args.format == 'json':
-        print(json.dumps(dict(settings=asdict(settings), alerts=alerts), indent=2, allow_nan=False))
+        print(json.dumps(dict(settings=asdict(settings), etp_exclusion=etp_stats, alerts=alerts), indent=2, allow_nan=False))
     else:
         fields = ['symbol', 'date', 'volume', 'open_interest', 'baseline_sessions',
                   'baseline_mean', 'baseline_std', 'volume_ratio', 'zscore',

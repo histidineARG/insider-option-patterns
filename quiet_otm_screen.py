@@ -13,6 +13,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, timedelta
 from pathlib import Path
 
+from etp_exclusion import add_argument, partition_symbols, stats_line
 from insider_resolved import connect, expiry_class, load_sessions
 from quiet_screen import (
     MIN_BASELINE, SINGLE_MIN, _add_universe, _attach_oi, _empty_counts, _exit_day,
@@ -240,7 +241,7 @@ def _exit_day_impl(sessions, index, entry, horizon, expiry):
     return impl(sessions, index, entry, horizon, expiry)
 
 
-def run(root: Path) -> dict:
+def run(root: Path, include_etp: bool = False) -> dict:
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
     earn_map, ma_map = _news(root)
@@ -255,6 +256,8 @@ def run(root: Path) -> dict:
             cursor.execute('SET SESSION MAX_EXECUTION_TIME=120000')
             cursor.execute('SELECT DISTINCT symbol FROM optionstat WHERE qdate BETWEEN %s AND %s', (START, END))
             symbols = sorted(row['symbol'] for row in cursor.fetchall())
+            symbols, etp_stats = partition_symbols(symbols, include_etp=include_etp)
+            print(stats_line(etp_stats), flush=True)
             cursor.execute('SELECT symbol, splitdate FROM split WHERE splitdate BETWEEN %s AND %s', (CHAIN_FROM, END))
             splits = {(row['symbol'], row['splitdate']) for row in cursor.fetchall()}
     finally:
@@ -305,6 +308,7 @@ def run(root: Path) -> dict:
         day += timedelta(days=1)
     pnl = _pnl(heaps, sessions, index, monthlies)
     report = _assemble(heaps, totals, qualifier_counts, sessions, index, ma_map, earn_map, case_rows, pnl)
+    report['etp_exclusion'] = etp_stats
     _write(root, report)
     return report
 
@@ -520,7 +524,11 @@ def _write(root: Path, report: dict) -> None:
 
 
 def main():
-    run(Path('.'))
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path('.'), include_etp=args.include_etp)
     return 0
 
 

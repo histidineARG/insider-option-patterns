@@ -11,6 +11,7 @@ from datetime import date, timedelta
 from pathlib import Path
 
 from insider_model import auc, fit_ridge_logistic, predict
+from etp_exclusion import add_argument, partition_rows, stats_line
 from insider_resolved import connect, load_sessions
 from ma_candidate_screen import score_event
 from ma_news_pool import path_return, quotes_for
@@ -152,7 +153,7 @@ def _check_fit(train, names, stored):
     return means, sds, gap
 
 
-def run(root: Path) -> dict:
+def run(root: Path, include_etp: bool = False) -> dict:
     table = root / 'data' / 'edgar_deals' / 'announcements.json'
     provenance_path = root / 'data' / 'edgar_deals' / 'provenance.json'
     if not table.exists() or not provenance_path.exists():
@@ -178,6 +179,7 @@ def run(root: Path) -> dict:
             cursor.execute("SELECT qdate, close FROM stockquote WHERE symbol='SPY' AND qdate>='2012-06-01'")
             spy = {row['qdate']: float(row['close']) for row in cursor.fetchall() if row['close']}
         fresh = _price_confirm(connection, sessions, index, deals)
+        fresh, fresh_stats = partition_rows(fresh, include_etp=include_etp)
         old_payload = json.loads((root / 'results/insider_footprint/ma_news_pool.json').read_text())
         old = []
         for row in old_payload['events']:
@@ -187,6 +189,8 @@ def run(root: Path) -> dict:
             old.append(dict(symbol=row['symbol'], qdate=day, title=row.get('title') or '',
                             sources=list(row.get('sources') or ['prior_pool']),
                             reaction=row['reaction'], path=row['path'], form_role='prior_pool'))
+        old, old_stats = partition_rows(old, include_etp=include_etp)
+        print(stats_line(old_stats), flush=True)
         merged = _merge_earliest(fresh + old)
         strict = [row for row in merged if row['path'] >= MIN_RETURN]
         extra = _load_extra_earnings(root)
@@ -204,6 +208,7 @@ def run(root: Path) -> dict:
                 admitted.append(record)
         screen = json.loads((root / 'results/insider_footprint/candidate_screen.json').read_text())
         historical = [row for row in screen['events'] if row.get('admitted') and row['qdate'] < '2022-01-01']
+        historical, hist_stats = partition_rows(historical, include_etp=include_etp)
         hist_symbols = sorted({row['symbol'] for row in historical} | {row['symbol'] for row in admitted})
         earnings = _earnings_map(connection, hist_symbols, extra)
         samples = []
@@ -245,6 +250,7 @@ def run(root: Path) -> dict:
         connection.rollback()
         connection.close()
     report = _assemble(deals, provenance, merged, strict, admitted, scored, cases, five_gap, option_gap)
+    report['etp_exclusion'] = dict(fresh=fresh_stats, prior_pool=old_stats, historical=hist_stats)
     _write(root, report)
     return report
 
@@ -429,7 +435,11 @@ def render(report: dict) -> str:
 
 
 def main():
-    run(Path('.'))
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path('.'), include_etp=args.include_etp)
     return 0
 
 

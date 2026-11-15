@@ -1,28 +1,84 @@
 {
-  "observations": 2650,
+  "observations": 2442,
   "outcome_followup_proxy": "2025-06-16",
   "label_status_counts": {
-    "incomplete_outcome_registry": 2131,
+    "incomplete_outcome_registry": 1925,
     "negative_from_complete_scoped_outcome_review": 9,
-    "insufficient_calendar_or_followup": 69,
+    "insufficient_calendar_or_followup": 67,
     "candidate_or_disclosure_review_unresolved": 441
   },
   "partition_counts": {
-    "validation": 450,
-    "train": 1690,
-    "development_audit": 510
+    "validation": 398,
+    "train": 1596,
+    "development_audit": 448
   },
   "purge_reason_counts": {
-    "feature_or_outcome_window_crosses_partition": 83
+    "feature_or_outcome_window_crosses_partition": 77
   },
-  "feature_coverage_ready": 2461,
+  "feature_coverage_ready": 2269,
   "research_eligible": 0,
   "known_positive_labels": 0,
   "known_negative_labels": 9,
+  "etp_exclusion": {
+    "features": {
+      "excluded": true,
+      "kind": "rows",
+      "universe_version": "2026-11-15+446029073ac3",
+      "universe_symbols": 6592,
+      "universe_ciks": 91,
+      "input": 1350,
+      "kept": 1350,
+      "removed": 0,
+      "removed_sample": []
+    },
+    "background": {
+      "excluded": true,
+      "kind": "rows",
+      "universe_version": "2026-11-15+446029073ac3",
+      "universe_symbols": 6592,
+      "universe_ciks": 91,
+      "input": 1300,
+      "kept": 1092,
+      "removed": 208,
+      "removed_sample": [
+        "IEF",
+        "SCHF",
+        "IDU",
+        "DLN",
+        "ELD",
+        "UCO",
+        "UST",
+        "EWS",
+        "EZA",
+        "TQQQ",
+        "DUG",
+        "HYS",
+        "SCHF",
+        "USD",
+        "VXZ",
+        "XPP",
+        "CEW",
+        "TYO",
+        "UVXY",
+        "BZF"
+      ]
+    },
+    "events": {
+      "excluded": true,
+      "kind": "rows",
+      "universe_version": "2026-11-15+446029073ac3",
+      "universe_symbols": 6592,
+      "universe_ciks": 91,
+      "input": 45,
+      "kept": 45,
+      "removed": 0,
+      "removed_sample": []
+    }
+  },
   "source_sha256": {
     "results/reviewed_cohort/features.json": "f197f0f35507af2e0c8578ee76c17d059b9b20310912d5dbc0a26c4dec8f30ea",
     "results/background_sample/observations.json": "a8c954176260b85789aa6f6d53437c4095f1e363e5075dc44468483cc9a74aeb",
-    "results/reviewed_cohort/events.json": "21e2a80bc9efbc2914073d71dde866a8347ff50a8bcb7796cb65235d7170a32d",
+    "results/reviewed_cohort/events.json": "17e28fb3ffe80ddbe8835c8110703e9decff074245b5972281fa4e5246a5f65e",
     "data/evaluation_protocol.json": "ce5dc34342acd35742d8b523757bbf115ccf6c0fb5a694a59284b9f1dda6fdce",
     "data/outcome_coverage_reviews.json": "1ac566e1885681e125df2539f908dd6ca35c3ad32ed18ccfceafd6ae13f8837a"
   },

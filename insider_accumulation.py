@@ -14,6 +14,7 @@ from collections import defaultdict
 from datetime import date, timedelta
 from pathlib import Path
 
+from etp_exclusion import add_argument, partition_rows, stats_line
 from insider_footprint import (
     connect,
     choose_earnings,
@@ -205,11 +206,13 @@ def _rate(rows):
     return dict(n=len(rows), eligible=len(eligible), hits=len(hits)), hits
 
 
-def run(root: Path) -> dict:
+def run(root: Path, include_etp: bool = False) -> dict:
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
-    cases = load_sec_cases(root)
+    cases, case_stats = partition_rows(load_sec_cases(root), include_etp=include_etp)
     keeps = [row for row in load_keeps(root) if row['tier'] == 'A']
+    keeps, keep_stats = partition_rows(keeps, include_etp=include_etp)
+    print(stats_line(keep_stats), flush=True)
     connection = connect()
     sec_rows = []
     sec_placebo = []
@@ -268,6 +271,7 @@ def run(root: Path) -> dict:
         sec_placebo=placebo_rate,
         candidates=candidate_rate,
         listed=len(listed),
+        etp_exclusion=dict(cases=case_stats, keeps=keep_stats),
         sec_hits=[dict(id=row['id'], symbol=row['symbol'], event=row['event'],
                        net_oi=row.get('net_oi'), daily_ratio=row.get('daily_ratio')) for row in sec_hits],
         listed_names=[dict(symbol=row['symbol'], event=row['event'], net_oi=row.get('net_oi'),
@@ -282,8 +286,12 @@ def run(root: Path) -> dict:
 
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
     root = Path(os.environ.get('FOOTPRINT_ROOT', '.'))
-    run(root)
+    run(root, include_etp=args.include_etp)
     return 0
 
 

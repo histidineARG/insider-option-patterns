@@ -12,6 +12,7 @@ import statistics
 from datetime import date, timedelta
 from pathlib import Path
 
+from etp_exclusion import add_argument, partition_rows, stats_line
 from insider_footprint import choose_earnings, connect, earnings_dates, load_keeps, load_sessions
 
 WINDOW = 15
@@ -337,11 +338,13 @@ def render(summary) -> str:
     return '\n'.join(lines)
 
 
-def run(root: Path) -> dict:
+def run(root: Path, include_etp: bool = False) -> dict:
     sessions = load_sessions(root)
     index = {day: i for i, day in enumerate(sessions)}
-    cases = load_resolved(root)
+    cases, case_stats = partition_rows(load_resolved(root), include_etp=include_etp)
     keeps = [row for row in load_keeps(root) if row['tier'] == 'A']
+    keeps, keep_stats = partition_rows(keeps, include_etp=include_etp)
+    print(stats_line(keep_stats), flush=True)
     connection = connect()
     case_rows = []
     candidate_rows = []
@@ -414,6 +417,7 @@ def run(root: Path) -> dict:
         in_reach_rows=[dict(id=row['id'], symbol=row['symbol'], hit=row['hit'],
                             placebo_hit=row['placebo_hit'], alert_dates=row['alert_dates']) for row in reach],
         peer=dict(hit=bool(peer.get('hit')), alert_dates=peer.get('alert_dates') or []),
+        etp_exclusion=dict(cases=case_stats, keeps=keep_stats),
         listed=len(listed),
         listed_names=[dict(symbol=row['symbol'], event=row['event'], cycle=row.get('cycle'),
                            alert_dates=row['alert_dates']) for row in listed],
@@ -427,7 +431,11 @@ def run(root: Path) -> dict:
 
 
 def main():
-    run(Path(os.environ.get('FOOTPRINT_ROOT', '.')))
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    add_argument(parser)
+    args = parser.parse_args()
+    run(Path(os.environ.get('FOOTPRINT_ROOT', '.')), include_etp=args.include_etp)
     return 0
 
 

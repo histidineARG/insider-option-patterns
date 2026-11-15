@@ -69,10 +69,8 @@ def load_cik2symbol(connection) -> dict[str, str]:
 
 
 def load_etf_denylist(root: Path) -> set[str]:
-    path = root / 'data/event_review_overrides.json'
-    raw = json.loads(path.read_text())
-    block = raw.get('etf_etn_denylist') or {}
-    return {str(s).strip().upper() for s in (block.get('symbols') or []) if str(s).strip()}
+    from etp_exclusion import load_universe
+    return set(load_universe(root).symbols)
 
 
 def load_news_reviews(root: Path) -> dict[tuple[str, str], dict]:
@@ -462,7 +460,8 @@ def ensure_earnings_for_ciks(root: Path, ciks: list[str], pause: float) -> None:
 
 
 def classify_rows(root: Path, jumps: list[dict], cik_by_symbol: dict[str, str],
-                  connection=None, fetch_earnings: bool = True, pause: float = 0.12) -> list[dict]:
+                  connection=None, fetch_earnings: bool = True, pause: float = 0.12,
+                  include_etp: bool = False) -> list[dict]:
     session_meta = load_session_meta(root)
     ciks = sorted({cik_by_symbol[j['symbol']] for j in jumps if j['symbol'] in cik_by_symbol})
     if fetch_earnings and ciks:
@@ -472,7 +471,7 @@ def classify_rows(root: Path, jumps: list[dict], cik_by_symbol: dict[str, str],
         ensure_earnings_for_ciks(root, ciks, pause=pause)
         earnings = load_earnings(root)
     rows = match_earnings(jumps, earnings, session_meta, cik_by_symbol)
-    etf = load_etf_denylist(root)
+    etf = set() if include_etp else load_etf_denylist(root)
     # option presence only for rows that would otherwise stay pending after price/ETF gates
     need_opt = [
         (r['symbol'], r['qdate']) for r in rows
@@ -495,20 +494,20 @@ def raw_jumps_from_classified(rows: list[dict]) -> list[dict]:
 
 
 def run(root: Path, start: date, end: date, pause: float = 0.12,
-        fetch_earnings: bool = True) -> dict:
+        fetch_earnings: bool = True, include_etp: bool = False) -> dict:
     calendar = sessions(root)
     with db_connect() as connection:
         cik_by_symbol = load_cik2symbol(connection)
         jumps = extract_jumps(connection, calendar, start, end)
         rows = classify_rows(
             root, jumps, cik_by_symbol, connection=connection,
-            fetch_earnings=fetch_earnings, pause=pause,
+            fetch_earnings=fetch_earnings, pause=pause, include_etp=include_etp,
         )
     return write_outputs(root, rows, start, end)
 
 
 def refresh_windows(root: Path, windows: list[tuple[date, date]], pause: float = 0.12,
-                    fetch_earnings: bool = False) -> dict:
+                    fetch_earnings: bool = False, include_etp: bool = False) -> dict:
     """Re-classify existing jump artifacts with hard filters + news overlay."""
     all_rows: list[dict] = []
     manifests = []
@@ -523,7 +522,7 @@ def refresh_windows(root: Path, windows: list[tuple[date, date]], pause: float =
             jumps = raw_jumps_from_classified(existing)
             rows = classify_rows(
                 root, jumps, cik_by_symbol, connection=connection,
-                fetch_earnings=fetch_earnings, pause=pause,
+                fetch_earnings=fetch_earnings, pause=pause, include_etp=include_etp,
             )
             manifests.append(write_outputs(root, rows, start, end))
             all_rows.extend(rows)
@@ -555,6 +554,8 @@ def main(argv=None):
     p.add_argument('--end', help='YYYY-MM-DD')
     p.add_argument('--pause', type=float, default=0.12)
     p.add_argument('--skip-earnings-fetch', action='store_true')
+    from etp_exclusion import add_argument
+    add_argument(p)
     p.add_argument(
         '--refresh-2013-2016',
         action='store_true',
@@ -571,6 +572,7 @@ def main(argv=None):
         summary = refresh_windows(
             root, windows, pause=args.pause,
             fetch_earnings=not args.skip_earnings_fetch,
+            include_etp=args.include_etp,
         )
         print(json.dumps(summary, indent=2))
         return
@@ -582,6 +584,7 @@ def main(argv=None):
         date.fromisoformat(args.end),
         pause=args.pause,
         fetch_earnings=not args.skip_earnings_fetch,
+        include_etp=args.include_etp,
     )
     print(json.dumps(manifest, indent=2))
 

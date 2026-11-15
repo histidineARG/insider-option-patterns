@@ -1,5 +1,5 @@
 {
-  "observations": 2080,
+  "observations": 2442,
   "blocked_gates": [
     "verified_outcome_labels",
     "historical_security_identity",
@@ -22,38 +22,62 @@
       "rule": "volume_100_ratio_3",
       "min_otm_call_volume": 100,
       "min_ratio20": 3,
-      "eligible_observations": 1861,
-      "alert_observations": 113,
-      "alert_episodes": 84,
-      "labeled_observations": 0,
-      "labeled_alert_observations": 0,
+      "eligible_observations": 2242,
+      "alert_observations": 161,
+      "alert_episodes": 106,
+      "labeled_observations": 8,
+      "labeled_alert_observations": 1,
       "population_metrics_authorized": false
     },
     {
       "rule": "volume_500_ratio_5",
       "min_otm_call_volume": 500,
       "min_ratio20": 5,
-      "eligible_observations": 1861,
-      "alert_observations": 48,
-      "alert_episodes": 40,
-      "labeled_observations": 0,
-      "labeled_alert_observations": 0,
+      "eligible_observations": 2242,
+      "alert_observations": 74,
+      "alert_episodes": 58,
+      "labeled_observations": 8,
+      "labeled_alert_observations": 1,
       "population_metrics_authorized": false
     },
     {
       "rule": "volume_1000_ratio_10",
       "min_otm_call_volume": 1000,
       "min_ratio20": 10,
-      "eligible_observations": 1861,
-      "alert_observations": 17,
-      "alert_episodes": 15,
-      "labeled_observations": 0,
+      "eligible_observations": 2242,
+      "alert_observations": 29,
+      "alert_episodes": 25,
+      "labeled_observations": 8,
       "labeled_alert_observations": 0,
       "population_metrics_authorized": false
     }
   ],
+  "etp_exclusion": {
+    "observations": {
+      "excluded": true,
+      "kind": "rows",
+      "universe_version": "2026-11-15+446029073ac3",
+      "universe_symbols": 6592,
+      "universe_ciks": 91,
+      "input": 2442,
+      "kept": 2442,
+      "removed": 0,
+      "removed_sample": []
+    },
+    "events": {
+      "excluded": true,
+      "kind": "rows",
+      "universe_version": "2026-11-15+446029073ac3",
+      "universe_symbols": 6592,
+      "universe_ciks": 91,
+      "input": 45,
+      "kept": 45,
+      "removed": 0,
+      "removed_sample": []
+    }
+  },
   "source_sha256": {
-    "results/research_dataset/observations.json": "f09f43bc6d6d39848af5ad6f82a32cec071d3daaa328d0e662c94fdebe2b5a89",
+    "results/research_dataset/observations.json": "95ea0e905e7b98da66fea34f7200802f0520c0dbd97584c5e60cb146c8dd0574",
     "data/evaluation_protocol.json": "ce5dc34342acd35742d8b523757bbf115ccf6c0fb5a694a59284b9f1dda6fdce"
   }
 }

@@ -11,6 +11,7 @@ from pathlib import Path
 import random
 
 from research_cohort import calendar_features, daily_sql, write_rows
+from etp_exclusion import add_argument, partition_symbols, stats_line
 from sec_match import connection
 from market_calendar import sessions
 
@@ -21,7 +22,7 @@ def choose(items,count,seed):
     return sorted(random.Random(seed).sample(values,min(count,len(values))))
 
 
-def run(c,root=Path('.'),start_year=2013,end_year=2025,dates_per_year=1,symbols_per_date=5,seed=1984):
+def run(c,root=Path('.'),start_year=2013,end_year=2025,dates_per_year=1,symbols_per_date=5,seed=1984,include_etp=False):
     if start_year>end_year or dates_per_year<1 or symbols_per_date<1:
         raise ValueError('Invalid year range or nonpositive sample size')
     rows=[];frames=[]
@@ -34,6 +35,8 @@ def run(c,root=Path('.'),start_year=2013,end_year=2025,dates_per_year=1,symbols_
             for target in choose(dates,dates_per_year,f'{seed}:dates:{year}'):
                 q.execute('SELECT symbol FROM stockquote WHERE qdate=%s AND close>0 ORDER BY symbol',(target,))
                 population=sorted(set(r['symbol'] for r in q.fetchall()))
+                population, etp_stats = partition_symbols(population, include_etp=include_etp)
+                print(stats_line(etp_stats), flush=True)
                 symbols=choose(population,symbols_per_date,f'{seed}:symbols:{target}')
                 frames.append(dict(qdate=target,year_sessions=len(dates),sampled_year_sessions=min(dates_per_year,len(dates)),
                                    stockquote_symbols=len(population),sampled_symbols=len(symbols)))
@@ -88,6 +91,7 @@ def main():
     parser.add_argument('--dates-per-year',type=int,default=1)
     parser.add_argument('--symbols-per-date',type=int,default=5)
     parser.add_argument('--seed',type=int,default=1984)
+    add_argument(parser)
     args=parser.parse_args()
     with connection() as c:run(c,**vars(args))
 
