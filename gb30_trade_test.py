@@ -1034,7 +1034,7 @@ def render(report):
             continue
         stats = row['deduped']
         lines.append(f"| {row['year']} | {stats['n']} | {_fmt(stats['mean'])} | {_fmt(stats.get('mean_cap'))} | {_fmt(stats['median'])} | {_fmt(stats['win'])} | {_fmt(row['random']['mean'])} |")
-    lines += ['', '## Largest top-4 trades, +40% target, 40-session cap', '', 'VXZ on 2019-07-22 is scored as a 566x gain. The raw quotes from 2019-07-01 through 2019-09-30 go from about 17.60 to 19.79. The split adjustment, not the market, produced that trade. FFIE, MULN, BFLY, KIDZ, and JDST are the same kind of print.', '']
+    lines += ['', '## Largest top-4 trades, +40% target, 40-session cap', '', 'These are the largest deduped top-4 returns on this target. A print of this size is checked against the raw quotes before it is treated as a market move. The run before exchange-traded products were removed scored VXZ on 2019-07-22 as a 565.571x gain; the raw quotes over that window went from about 17.60 to 19.79.', '']
     for row in report.get('extremes') or []:
         lines.append(f"- {row['symbol']} {row['date']}: {_fmt(row['ret'])}")
     lines += ['', '## Stock-only top 4, plain 20-session hold', '']

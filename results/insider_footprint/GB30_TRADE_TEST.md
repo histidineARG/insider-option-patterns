@@ -1,5 +1,28 @@
 # Gradient-boosting +30% book
 
+Exchange-traded products were removed before this refit (550 of 5,299 symbols). The comparison is the prior run of the same script, same exit rule `tp40-t40` on the daily top 4, which that run also chose on the walk-forward deduped mean.
+
+| Metric | Before | After |
+| --- | ---: | ---: |
+| Walk-forward deduped mean | 0.267 | 0.052 |
+| Walk-forward mean capped at +100% | 0.017 | 0.036 |
+| Walk-forward median | -0.019 | 0.005 |
+| Walk-forward volatility-matched random mean | 0.050 | 0.032 |
+| Holdout deduped mean | 0.337 | 0.013 |
+| Holdout mean capped at +100% | 0.009 | 0.012 |
+| Holdout median | 0.001 | -0.002 |
+| Holdout volatility-matched random mean | 0.059 | 2.166 |
+| Holdout predicted-volatility random mean | 0.011 | 0.024 |
+| Holdout trades | 373 | 288 |
+| Holdout portfolio CAGR | 0.857 | 0.264 |
+| Holdout portfolio max drawdown | -0.175 | -0.118 |
+| Holdout portfolio Sharpe | 1.223 | 1.035 |
+| Holdout SPY CAGR | 0.124 | 0.124 |
+| Holdout SPY max drawdown | -0.092 | -0.092 |
+| Holdout SPY Sharpe | 0.912 | 0.912 |
+
+The uncapped holdout mean does not survive. It falls from 0.337 to 0.013 and no longer beats the volatility-matched random mean. The capped means stay near zero. The holdout portfolio still finishes ahead of SPY on CAGR (0.264 versus 0.124) and Sharpe (1.035 versus 0.912), with a deeper drawdown than SPY (-0.118 versus -0.092). Walk-forward portfolio CAGR for this rule is 0.131 after exclusion, versus 0.285 before, against a walk-forward SPY CAGR of 0.125.
+
 The model is a histogram gradient booster trained on a 20-session high of at least 30% above the signal close, refit each year on earlier years only. The holdout starts 2025-11-13 and is not used to choose an exit. Entry is the next open. A same-day stop and target counts as the stop. A gap fills at the open. The trail uses the highest close so far and cannot fire on the entry session. The cost is 10 bps round trip. A hold that reaches an earnings reaction is dropped. The exit is the close H sessions after the entry session when no stop or target hits. The top 0.5% and top 0.1% are ranks within each test year, not a cut taken from later years.
 
 ## Are the picks just high-volatility names?
@@ -8,76 +31,76 @@ Tails are measured from the entry open over the following 20 sessions. The rando
 
 | Book | N | +30% high | -20% low | -30% low | Median drawdown | Mean forward vol | Random +30% | Random -30% | Random vol |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| top4 | 8651 | 0.315 | 0.477 | 0.285 | -0.273 | 1.294 | 0.203 | 0.166 | 1.243 |
-| p05 | 17099 | 0.319 | 0.476 | 0.281 | -0.270 | 1.295 | 0.200 | 0.162 | 1.229 |
-| p01 | 3424 | 0.351 | 0.471 | 0.291 | -0.276 | 1.291 | 0.201 | 0.176 | 1.146 |
+| top4 | 8631 | 0.314 | 0.461 | 0.266 | -0.262 | 1.239 | 0.188 | 0.149 | 1.198 |
+| p05 | 14344 | 0.322 | 0.457 | 0.261 | -0.260 | 1.229 | 0.193 | 0.157 | 1.048 |
+| p01 | 2870 | 0.352 | 0.454 | 0.278 | -0.268 | 1.274 | 0.197 | 0.153 | 0.971 |
 
 Drawdown percentiles from the running peak, top 4:
 
-Median -0.273, 10th percentile -0.523, 90th percentile -0.126. Matched-random median -0.202.
+Median -0.262, 10th percentile -0.517, 90th percentile -0.119. Matched-random median -0.196.
 
 ## Overlap with a model trained on the -30% low
 
-- top4: 1479 of 8760 upside picks are also downside picks, share 0.169, Jaccard 0.092.
-- p05: 4099 of 17265 upside picks are also downside picks, share 0.237, Jaccard 0.135.
-- p01: 304 of 3456 upside picks are also downside picks, share 0.088, Jaccard 0.046.
+- top4: 1546 of 8760 upside picks are also downside picks, share 0.176, Jaccard 0.097.
+- p05: 3267 of 14521 upside picks are also downside picks, share 0.225, Jaccard 0.127.
+- p01: 283 of 2909 upside picks are also downside picks, share 0.097, Jaccard 0.051.
 
 ## Trailing volatility of the picks
 
-- top4: median trailing vol 0.075 versus 0.022 for the filtered universe.
-- p05: median trailing vol 0.075 versus 0.022 for the filtered universe.
-- p01: median trailing vol 0.075 versus 0.022 for the filtered universe.
+- top4: median trailing vol 0.074 versus 0.023 for the filtered universe.
+- p05: median trailing vol 0.073 versus 0.023 for the filtered universe.
+- p01: median trailing vol 0.073 versus 0.023 for the filtered universe.
 
 ## Top 4 exits, deduped
 
 | Rule | Sample | N | Mean | Median | Win | Target | Stop | P10 | P90 | Vol-match mean | Pred-vol mean |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| hold-5 | walk | 3232 | -0.004 | -0.016 | 0.444 | 0.000 | 0.000 | -0.192 | 0.171 | 0.002 | 0.001 |
-| hold-5 | holdout | 438 | 0.175 | -0.045 | 0.395 | 0.000 | 0.000 | -0.247 | 0.225 | -0.007 | 0.004 |
-| hold-10 | walk | 3232 | -0.000 | -0.025 | 0.437 | 0.000 | 0.000 | -0.259 | 0.228 | 0.007 | 0.004 |
-| hold-10 | holdout | 438 | 0.032 | -0.048 | 0.420 | 0.000 | 0.000 | -0.337 | 0.284 | 0.022 | 0.005 |
-| hold-20 | walk | 3207 | 0.006 | -0.038 | 0.425 | 0.000 | 0.000 | -0.327 | 0.324 | 0.013 | 0.003 |
-| hold-20 | holdout | 431 | 0.029 | -0.094 | 0.387 | 0.000 | 0.000 | -0.489 | 0.408 | 0.031 | -0.003 |
-| hold-40 | walk | 2594 | 0.018 | -0.088 | 0.386 | 0.000 | 0.000 | -0.466 | 0.444 | 0.028 | 0.019 |
-| hold-40 | holdout | 367 | -0.021 | -0.170 | 0.351 | 0.000 | 0.000 | -0.610 | 0.549 | 0.012 | -0.017 |
-| tp15-t20 | walk | 3220 | 0.187 | 0.149 | 0.596 | 0.520 | 0.000 | -0.290 | 0.149 | 0.019 | 0.014 |
-| tp15-t20 | holdout | 432 | 0.179 | 0.149 | 0.602 | 0.581 | 0.000 | -0.429 | 0.156 | 0.005 | 0.015 |
-| tp20-t20 | walk | 3219 | 0.190 | 0.026 | 0.533 | 0.410 | 0.000 | -0.305 | 0.199 | 0.019 | 0.014 |
-| tp20-t20 | holdout | 431 | 0.180 | 0.117 | 0.541 | 0.492 | 0.000 | -0.432 | 0.201 | 0.006 | 0.009 |
-| tp25-t20 | walk | 3214 | 0.192 | -0.001 | 0.499 | 0.332 | 0.000 | -0.312 | 0.249 | 0.019 | 0.013 |
-| tp25-t20 | holdout | 431 | 0.185 | 0.017 | 0.510 | 0.427 | 0.000 | -0.435 | 0.249 | 0.044 | 0.010 |
-| tp30-t20 | walk | 3213 | 0.194 | -0.011 | 0.481 | 0.276 | 0.000 | -0.315 | 0.299 | 0.019 | 0.014 |
-| tp30-t20 | holdout | 431 | 0.186 | -0.014 | 0.485 | 0.357 | 0.000 | -0.441 | 0.299 | 0.041 | 0.007 |
-| tp40-t20 | walk | 3212 | 0.192 | -0.027 | 0.455 | 0.181 | 0.000 | -0.318 | 0.399 | 0.018 | 0.014 |
-| tp40-t20 | holdout | 431 | 0.267 | -0.051 | 0.445 | 0.262 | 0.000 | -0.461 | 0.399 | 0.035 | 0.004 |
-| tp15-t40 | walk | 2947 | 0.224 | 0.149 | 0.689 | 0.658 | 0.000 | -0.363 | 0.149 | 0.044 | 0.037 |
-| tp15-t40 | holdout | 379 | 0.229 | 0.149 | 0.704 | 0.694 | 0.000 | -0.521 | 0.164 | 0.034 | 0.024 |
-| tp20-t40 | walk | 2882 | 0.237 | 0.199 | 0.622 | 0.569 | 0.000 | -0.389 | 0.199 | 0.047 | 0.042 |
-| tp20-t40 | holdout | 375 | 0.233 | 0.199 | 0.635 | 0.619 | 0.000 | -0.542 | 0.211 | 0.039 | 0.024 |
-| tp25-t40 | walk | 2819 | 0.258 | 0.167 | 0.570 | 0.492 | 0.000 | -0.408 | 0.249 | 0.051 | 0.042 |
-| tp25-t40 | holdout | 375 | 0.243 | 0.249 | 0.608 | 0.568 | 0.000 | -0.553 | 0.259 | 0.084 | 0.023 |
-| tp30-t40 | walk | 2793 | 0.263 | 0.052 | 0.537 | 0.431 | 0.000 | -0.417 | 0.299 | 0.053 | 0.042 |
-| tp30-t40 | holdout | 374 | 0.241 | 0.299 | 0.561 | 0.511 | 0.000 | -0.560 | 0.299 | 0.074 | 0.020 |
-| tp40-t40 | walk | 2734 | 0.267 | -0.019 | 0.484 | 0.327 | 0.000 | -0.432 | 0.399 | 0.050 | 0.042 |
-| tp40-t40 | holdout | 373 | 0.337 | 0.001 | 0.501 | 0.416 | 0.000 | -0.582 | 0.408 | 0.059 | 0.011 |
-| trail10-40 | walk | 3188 | -0.012 | -0.055 | 0.331 | 0.000 | 0.986 | -0.154 | 0.172 | -0.006 | -0.010 |
-| trail10-40 | holdout | 379 | -0.021 | -0.060 | 0.296 | 0.000 | 1.000 | -0.169 | 0.184 | -0.000 | -0.009 |
-| trail15-40 | walk | 3109 | -0.013 | -0.080 | 0.314 | 0.000 | 0.942 | -0.193 | 0.232 | -0.014 | -0.012 |
-| trail15-40 | holdout | 377 | -0.022 | -0.083 | 0.292 | 0.000 | 0.989 | -0.201 | 0.242 | -0.006 | -0.010 |
-| trail20-40 | walk | 2998 | -0.009 | -0.107 | 0.306 | 0.000 | 0.858 | -0.236 | 0.297 | -0.015 | -0.013 |
-| trail20-40 | holdout | 371 | -0.035 | -0.117 | 0.305 | 0.000 | 0.946 | -0.244 | 0.280 | -0.010 | -0.013 |
-| stop10-tp30-40 | walk | 3136 | 0.177 | -0.101 | 0.247 | 0.215 | 0.740 | -0.101 | 0.299 | -0.009 | -0.007 |
-| stop10-tp30-40 | holdout | 379 | 0.215 | -0.101 | 0.224 | 0.208 | 0.773 | -0.110 | 0.299 | -0.005 | -0.014 |
-| stop15-tp30-40 | walk | 3081 | 0.188 | -0.151 | 0.333 | 0.283 | 0.630 | -0.151 | 0.299 | -0.005 | -0.002 |
-| stop15-tp30-40 | holdout | 376 | 0.215 | -0.151 | 0.301 | 0.277 | 0.686 | -0.151 | 0.299 | -0.007 | -0.008 |
-| stop20-tp30-40 | walk | 3029 | 0.193 | -0.201 | 0.391 | 0.326 | 0.537 | -0.201 | 0.299 | 0.002 | 0.002 |
-| stop20-tp30-40 | holdout | 370 | 0.223 | -0.201 | 0.376 | 0.343 | 0.600 | -0.204 | 0.299 | -0.008 | -0.005 |
+| hold-5 | walk | 2823 | -0.007 | -0.017 | 0.439 | 0.000 | 0.000 | -0.184 | 0.168 | -0.001 | 0.000 |
+| hold-5 | holdout | 335 | -0.026 | -0.034 | 0.412 | 0.000 | 0.000 | -0.235 | 0.179 | 1.677 | 0.000 |
+| hold-10 | walk | 2823 | -0.009 | -0.023 | 0.440 | 0.000 | 0.000 | -0.244 | 0.225 | -0.001 | 0.002 |
+| hold-10 | holdout | 336 | 0.060 | -0.023 | 0.440 | 0.000 | 0.000 | -0.297 | 0.282 | 1.717 | -0.004 |
+| hold-20 | walk | 2784 | 0.008 | -0.036 | 0.432 | 0.000 | 0.000 | -0.321 | 0.325 | -0.001 | 0.002 |
+| hold-20 | holdout | 333 | 0.059 | -0.022 | 0.456 | 0.000 | 0.000 | -0.369 | 0.359 | -0.035 | -0.002 |
+| hold-40 | walk | 2179 | -0.013 | -0.071 | 0.402 | 0.000 | 0.000 | -0.451 | 0.423 | 0.057 | 0.003 |
+| hold-40 | holdout | 279 | -0.005 | -0.091 | 0.394 | 0.000 | 0.000 | -0.501 | 0.524 | -0.056 | -0.002 |
+| tp15-t20 | walk | 2804 | 0.017 | 0.149 | 0.600 | 0.525 | 0.000 | -0.270 | 0.149 | 0.012 | 0.009 |
+| tp15-t20 | holdout | 333 | -0.004 | 0.149 | 0.619 | 0.553 | 0.000 | -0.354 | 0.149 | 1.816 | 0.013 |
+| tp20-t20 | walk | 2800 | 0.019 | 0.041 | 0.547 | 0.424 | 0.000 | -0.290 | 0.199 | 0.011 | 0.009 |
+| tp20-t20 | holdout | 333 | -0.004 | 0.051 | 0.559 | 0.456 | 0.000 | -0.355 | 0.199 | 1.826 | 0.011 |
+| tp25-t20 | walk | 2794 | 0.018 | 0.006 | 0.508 | 0.340 | 0.000 | -0.297 | 0.249 | 0.010 | 0.007 |
+| tp25-t20 | holdout | 333 | -0.001 | 0.012 | 0.523 | 0.363 | 0.000 | -0.355 | 0.249 | 1.840 | 0.009 |
+| tp30-t20 | walk | 2791 | 0.020 | -0.006 | 0.488 | 0.278 | 0.000 | -0.301 | 0.299 | 0.008 | 0.006 |
+| tp30-t20 | holdout | 333 | 0.000 | -0.002 | 0.495 | 0.297 | 0.000 | -0.364 | 0.299 | 1.843 | 0.011 |
+| tp40-t20 | walk | 2790 | 0.023 | -0.020 | 0.465 | 0.194 | 0.000 | -0.309 | 0.399 | 0.006 | 0.005 |
+| tp40-t20 | holdout | 333 | 0.003 | -0.009 | 0.477 | 0.201 | 0.000 | -0.364 | 0.399 | 1.849 | 0.010 |
+| tp15-t40 | walk | 2536 | 0.040 | 0.149 | 0.715 | 0.685 | 0.000 | -0.331 | 0.149 | 0.036 | 0.030 |
+| tp15-t40 | holdout | 295 | 0.002 | 0.149 | 0.685 | 0.678 | 0.000 | -0.436 | 0.149 | 2.050 | 0.026 |
+| tp20-t40 | walk | 2463 | 0.047 | 0.199 | 0.653 | 0.602 | 0.000 | -0.375 | 0.199 | 0.039 | 0.031 |
+| tp20-t40 | holdout | 290 | -0.003 | 0.199 | 0.610 | 0.586 | 0.000 | -0.457 | 0.199 | 2.076 | 0.024 |
+| tp25-t40 | walk | 2402 | 0.048 | 0.249 | 0.600 | 0.517 | 0.000 | -0.391 | 0.249 | 0.040 | 0.029 |
+| tp25-t40 | holdout | 290 | 0.007 | 0.249 | 0.576 | 0.524 | 0.000 | -0.457 | 0.249 | 2.095 | 0.024 |
+| tp30-t40 | walk | 2367 | 0.050 | 0.092 | 0.561 | 0.455 | 0.000 | -0.397 | 0.299 | 0.038 | 0.026 |
+| tp30-t40 | holdout | 289 | 0.003 | 0.100 | 0.533 | 0.453 | 0.000 | -0.484 | 0.299 | 2.123 | 0.025 |
+| tp40-t40 | walk | 2313 | 0.052 | 0.005 | 0.506 | 0.348 | 0.000 | -0.413 | 0.399 | 0.032 | 0.022 |
+| tp40-t40 | holdout | 288 | 0.013 | -0.002 | 0.490 | 0.368 | 0.000 | -0.485 | 0.399 | 2.166 | 0.024 |
+| trail10-40 | walk | 2772 | -0.010 | -0.053 | 0.336 | 0.000 | 0.984 | -0.154 | 0.181 | -0.009 | -0.010 |
+| trail10-40 | holdout | 291 | -0.017 | -0.040 | 0.347 | 0.000 | 0.997 | -0.165 | 0.191 | -0.017 | -0.009 |
+| trail15-40 | walk | 2687 | -0.017 | -0.080 | 0.322 | 0.000 | 0.939 | -0.194 | 0.255 | -0.019 | -0.013 |
+| trail15-40 | holdout | 288 | -0.033 | -0.071 | 0.285 | 0.000 | 0.979 | -0.203 | 0.194 | -0.034 | -0.014 |
+| trail20-40 | walk | 2567 | -0.021 | -0.106 | 0.314 | 0.000 | 0.850 | -0.235 | 0.312 | -0.025 | -0.018 |
+| trail20-40 | holdout | 281 | -0.039 | -0.102 | 0.320 | 0.000 | 0.915 | -0.247 | 0.276 | -0.048 | -0.014 |
+| stop10-tp30-40 | walk | 2721 | -0.009 | -0.101 | 0.251 | 0.218 | 0.739 | -0.101 | 0.299 | -0.007 | -0.007 |
+| stop10-tp30-40 | holdout | 294 | -0.016 | -0.101 | 0.238 | 0.204 | 0.762 | -0.101 | 0.299 | 1.941 | -0.004 |
+| stop15-tp30-40 | walk | 2657 | -0.008 | -0.151 | 0.338 | 0.287 | 0.627 | -0.151 | 0.299 | -0.007 | -0.005 |
+| stop15-tp30-40 | holdout | 286 | -0.015 | -0.151 | 0.325 | 0.276 | 0.661 | -0.151 | 0.299 | 1.968 | -0.001 |
+| stop20-tp30-40 | walk | 2598 | -0.009 | -0.201 | 0.395 | 0.330 | 0.538 | -0.201 | 0.299 | -0.002 | -0.002 |
+| stop20-tp30-40 | holdout | 283 | -0.010 | -0.201 | 0.396 | 0.329 | 0.562 | -0.201 | 0.299 | 2.020 | -0.002 |
 
 ## Chosen on the walk-forward deduped mean
 
-- top4: tp40-t40. Walk-forward mean 0.267. Holdout mean 0.337, median 0.001, volatility-match 0.059, predicted-vol match 0.011.
-- p05: tp40-t40. Walk-forward mean 0.178. Holdout mean 0.158, median -0.001, volatility-match -0.011, predicted-vol match 0.023.
-- p01: tp30-t40. Walk-forward mean 0.052. Holdout mean 0.029, median 0.299, volatility-match 0.034, predicted-vol match 7.619.
+- top4: tp40-t40. Walk-forward mean 0.052. Holdout mean 0.013, median -0.002, volatility-match 2.166, predicted-vol match 0.024.
+- p05: tp40-t40. Walk-forward mean 0.057. Holdout mean 0.081, median 0.035, volatility-match 0.847, predicted-vol match 2.555.
+- p01: tp40-t40. Walk-forward mean 0.089. Holdout mean 0.057, median 0.120, volatility-match 0.036, predicted-vol match 0.081.
 
 ## Top 4 by year, chosen exit, deduped
 
@@ -85,90 +108,88 @@ Mean cap replaces any trade above +100% with +100%, so one bad print cannot set 
 
 | Year | N | Mean | Mean cap | Median | Win | Vol-match mean |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 2018 | 282 | 0.032 | 0.015 | -0.021 | 0.461 | 0.077 |
-| 2019 | 327 | 1.769 | 0.033 | -0.022 | 0.474 | 0.025 |
-| 2020 | 407 | 0.202 | 0.118 | 0.214 | 0.619 | 0.166 |
-| 2021 | 323 | -0.002 | -0.002 | -0.063 | 0.446 | 0.039 |
-| 2022 | 443 | -0.032 | -0.032 | -0.056 | 0.438 | -0.016 |
-| 2023 | 278 | 0.152 | -0.055 | -0.107 | 0.421 | 0.030 |
-| 2024 | 358 | 0.020 | -0.016 | -0.077 | 0.425 | 0.045 |
-| 2025 | 351 | 0.072 | 0.055 | 0.100 | 0.561 | 0.069 |
-| holdout | 373 | 0.337 | 0.009 | 0.001 | 0.501 | 0.059 |
+| 2018 | 215 | 0.038 | 0.038 | -0.002 | 0.498 | 0.017 |
+| 2019 | 231 | 0.061 | 0.061 | 0.010 | 0.515 | 0.067 |
+| 2020 | 335 | 0.200 | 0.188 | 0.399 | 0.713 | 0.154 |
+| 2021 | 289 | 0.000 | 0.000 | -0.080 | 0.446 | 0.003 |
+| 2022 | 348 | -0.020 | -0.020 | -0.067 | 0.428 | -0.048 |
+| 2023 | 280 | 0.077 | -0.039 | -0.071 | 0.425 | 0.011 |
+| 2024 | 360 | 0.002 | -0.002 | -0.051 | 0.453 | 0.018 |
+| 2025 | 278 | 0.072 | 0.072 | 0.138 | 0.583 | 0.072 |
+| holdout | 288 | 0.013 | 0.012 | -0.002 | 0.490 | 2.166 |
 
 ## Largest top-4 trades, +40% target, 40-session cap
 
-VXZ on 2019-07-22 is scored as a 566x gain. The raw quotes from 2019-07-01 through 2019-09-30 go from about 17.60 to 19.79. The split adjustment, not the market, produced that trade. FFIE, MULN, BFLY, KIDZ, and JDST are the same kind of print.
+These are the largest deduped top-4 returns on this target. A print of this size is checked against the raw quotes before it is treated as a market move. The run before exchange-traded products were removed scored VXZ on 2019-07-22 as a 565.571x gain; the raw quotes over that window went from about 17.60 to 19.79.
 
-- VXZ 2019-07-22: 565.571
-- BFLY 2026-04-13: 88.536
+- FFIE 2023-08-23: 57.832
+- MULN 2024-08-30: 55.475
+- FFIE 2023-08-22: 54.736
+- FFIE 2023-08-21: 49.428
+- MULN 2024-08-29: 48.416
+- FFIE 2023-08-16: 47.135
+- KIDZ 2026-03-04: 45.428
 - KIDZ 2026-03-05: 45.428
-- FFIE 2023-07-19: 35.516
+- MULN 2024-08-28: 41.356
+- MULN 2024-08-27: 39.896
+- FFIE 2023-08-07: 35.516
 - KIDZ 2026-02-26: 35.110
-- KIDZ 2026-03-02: 35.110
-- FFIE 2023-08-01: 32.093
-- MULN 2023-10-27: 27.570
-- MULN 2023-10-26: 23.999
-- JDST 2020-04-13: 21.364
-- JDST 2020-04-21: 21.015
-- JDST 2020-04-17: 18.433
 
 ## Stock-only top 4, plain 20-session hold
 
-- walk: mean 0.002, median -0.052, volatility-match 0.054, n 2802.
-- holdout: mean -0.007, median -0.066, volatility-match -0.013, n 449.
+- walk: mean -0.004, median -0.045, volatility-match -0.003, n 2783.
+- holdout: mean 0.042, median -0.062, volatility-match -0.004, n 354.
 
 ## Portfolio, four names a day, equal slots, versus SPY
 
 | Rule | Sample | CAGR | Max drawdown | Sharpe | SPY CAGR | SPY drawdown | SPY Sharpe |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| hold-20 | walk | 0.010 | -0.895 | 0.312 | 0.127 | -0.342 | 0.719 |
-| hold-20 | holdout | 0.054 | -0.647 | 0.731 | 0.124 | -0.092 | 0.912 |
-| hold-40 | walk | 0.001 | -0.810 | 0.269 | 0.127 | -0.342 | 0.720 |
-| hold-40 | holdout | -0.034 | -0.462 | 0.422 | 0.124 | -0.092 | 0.912 |
-| tp30-t40 | walk | 0.321 | -0.210 | 0.430 | 0.127 | -0.342 | 0.720 |
-| tp30-t40 | holdout | 0.964 | -0.160 | 1.284 | 0.124 | -0.092 | 0.912 |
-| tp40-t40 | walk | 0.285 | -0.258 | 0.406 | 0.127 | -0.342 | 0.720 |
-| tp40-t40 | holdout | 0.857 | -0.175 | 1.223 | 0.124 | -0.092 | 0.912 |
+| hold-20 | walk | 0.018 | -0.484 | 0.183 | 0.125 | -0.342 | 0.705 |
+| hold-20 | holdout | 0.243 | -0.219 | 0.712 | 0.124 | -0.092 | 0.912 |
+| hold-40 | walk | -0.015 | -0.484 | -0.048 | 0.125 | -0.342 | 0.705 |
+| hold-40 | holdout | 0.017 | -0.210 | 0.188 | 0.124 | -0.092 | 0.912 |
+| tp40-t40 | walk | 0.131 | -0.196 | 0.897 | 0.125 | -0.342 | 0.705 |
+| tp40-t40 | holdout | 0.264 | -0.118 | 1.035 | 0.124 | -0.092 | 0.912 |
 
 ## Feature attribution
 
 Exact Shapley values of the four feature groups, on the model trained before 2025 and scored on 2025 before the holdout. The value is the average change in predicted probability.
-- option_volume: signed 0.003, mean absolute 0.005.
-- option_flow: signed -0.001, mean absolute 0.002.
-- persistence: signed -0.000, mean absolute 0.001.
-- stock: signed 0.039, mean absolute 0.044.
+- option_volume: signed 0.001, mean absolute 0.004.
+- option_flow: signed 0.001, mean absolute 0.002.
+- persistence: signed 0.002, mean absolute 0.002.
+- stock: signed 0.031, mean absolute 0.039.
 
 Largest single-feature drops in average precision when that column is shuffled:
-- rvol: 0.150
-- vol_put_dotm_d45: 0.007
-- ret_10: 0.003
-- vol_call_atm_dlong: 0.003
+- rvol: 0.169
+- ret_1: 0.005
+- ret_10: 0.004
+- share_put_otm_short: 0.004
 - dnot_call: 0.003
-- vol_put_itm_d45: 0.002
-- vol_call_otm_d45: 0.002
-- vol_put_atm_d21: 0.002
-- vol_call_atm_d07: 0.001
-- doi_z_put_otm_short: 0.001
-- vol_put_otm_d21: 0.001
-- vol_call_dotm_dlong: 0.001
+- vol_put_atm_d21: 0.003
+- vol_put_dotm_d21: 0.003
+- share_call_otm_short: 0.002
+- vol_put_otm_d45: 0.002
+- vol_put_dotm_dlong: 0.002
+- vol_call_itm_d07: 0.001
+- vol_call_otm_d07: 0.001
 
 ## Ablation, stock return and trailing volatility only
 
 | Model | Rule | Sample | Precision | Base | Lift | N |
 | --- | --- | --- | ---: | ---: | ---: | ---: |
-| full | top4 | walk | 0.308 | 0.046 | 6.732 | 7888 |
-| full | 0.5% | walk | 0.320 | 0.046 | 6.977 | 15224 |
-| full | 0.1% | walk | 0.363 | 0.046 | 7.916 | 3045 |
-| full | top4 | holdout | 0.364 | 0.073 | 4.970 | 872 |
-| full | 0.5% | holdout | 0.382 | 0.073 | 5.229 | 2037 |
-| full | 0.1% | holdout | 0.387 | 0.073 | 5.295 | 408 |
-| stock | top4 | walk | 0.310 | 0.046 | 6.762 | 7888 |
-| stock | 0.5% | walk | 0.312 | 0.046 | 6.823 | 15233 |
-| stock | 0.1% | walk | 0.350 | 0.046 | 7.653 | 3050 |
-| stock | top4 | holdout | 0.378 | 0.073 | 5.174 | 872 |
-| stock | 0.5% | holdout | 0.409 | 0.073 | 5.596 | 2045 |
-| stock | 0.1% | holdout | 0.447 | 0.073 | 6.116 | 427 |
+| full | top4 | walk | 0.309 | 0.047 | 6.576 | 7888 |
+| full | 0.5% | walk | 0.311 | 0.047 | 6.616 | 12871 |
+| full | 0.1% | walk | 0.351 | 0.047 | 7.458 | 2575 |
+| full | top4 | holdout | 0.325 | 0.069 | 4.694 | 872 |
+| full | 0.5% | holdout | 0.349 | 0.069 | 5.049 | 1647 |
+| full | 0.1% | holdout | 0.339 | 0.069 | 4.908 | 330 |
+| stock | top4 | walk | 0.308 | 0.047 | 6.544 | 7888 |
+| stock | 0.5% | walk | 0.307 | 0.047 | 6.520 | 12884 |
+| stock | 0.1% | walk | 0.331 | 0.047 | 7.048 | 2577 |
+| stock | top4 | holdout | 0.331 | 0.069 | 4.793 | 872 |
+| stock | 0.5% | holdout | 0.330 | 0.069 | 4.777 | 1650 |
+| stock | 0.1% | holdout | 0.406 | 0.069 | 5.873 | 330 |
 
 ## Verdict
 
-The daily top 4, held with tp40-t40, is the walk-forward exit with the highest deduped mean (26.7%). On the holdout that mean is 33.7%, the median is 0.1%, the same-month same-volatility random mean is 5.9%, and the same predicted-volatility random mean is 1.1%. The holdout mean is 27.7% above that volatility-matched random stock. Capping every trade at +100% cuts the walk-forward mean from 26.7% to 1.7% and the holdout mean from 33.7% to 0.9%. The uncapped mean is a thin gap tail, not the typical trade. VXZ on 2019-07-22 is scored as a 566x gain, while the raw quotes over that window go from about 17.60 to 19.79. From the entry, 31.5% of top-4 names reach a +30% high within 20 sessions and 28.5% reach a -30% low, against 20.3% and 16.6% for the volatility-matched names. Forward volatility is 129.4% against 124.3%. Once volatility is matched, the upside and downside tails are close. The model is largely selecting high-volatility names. 16.9% of the upside top 4 are also top-4 picks of the mirror model trained on a -30% low. Holdout top-4 lift is 4.97 with the option features and 5.17 with trailing return and volatility only. Removing the option-flow features leaves most of the lift in place. A 15% target with a 40-session cap has a median of +14.9% on the picks and the same median on the volatility-matched random book. The target, not the model, sets that median. The four-name holdout portfolio has CAGR 85.7%, max drawdown -17.5%, and Sharpe 1.22, against SPY at 12.4%, -9.2%, and 0.91.
+The daily top 4, held with tp40-t40, is the walk-forward exit with the highest deduped mean (5.2%). On the holdout that mean is 1.3%, the median is -0.2%, the same-month same-volatility random mean is 216.6%, and the same predicted-volatility random mean is 2.4%. That holdout does not clear a random stock from the same month and volatility decile. From the entry, 31.4% of top-4 names reach a +30% high within 20 sessions and 26.6% reach a -30% low, against 18.8% and 14.9% for the volatility-matched names. Forward volatility is 123.9% against 119.8%. Once volatility is matched, the upside and downside tails are close. The model is largely selecting high-volatility names. 17.6% of the upside top 4 are also top-4 picks of the mirror model trained on a -30% low. Holdout top-4 lift is 4.69 with the option features and 4.79 with trailing return and volatility only. A 15% target with a 40-session cap has a median of +14.9% on the picks and the same median on the volatility-matched random book. The target, not the model, sets that median. The four-name holdout portfolio has CAGR 26.4%, max drawdown -11.8%, and Sharpe 1.04, against SPY at 12.4%, -9.2%, and 0.91.
