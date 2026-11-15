@@ -1,31 +1,68 @@
 ## Daily top picks, 2026-11-13
 
-On each session the frozen logistic scores every optionable name from the ten sessions ending at that close. Names are ordered by the linear score, because the probability saturates near 1 when that ten-session return is very large. It names the top 3 and the top 4. A hit is a later close at least 15% above that close, either at the horizon or at the highest close inside it. A one-day move of +100% or −50%, or a split, is not counted as a jump. A session counts only when every name in the slate has a close at that horizon. The coefficients are the 2013–2019 fit. This test does not choose a new cutoff.
+Exchange-traded products were removed before this rerun (2,431 of 8,616 symbols; 6,185 scanned). Date hit rate is the share of sessions where at least one slate name jumps. The base rate is the random slate of the same size. These rows are the five-feature score, which includes the stock's own return.
 
-The stock return in the score is the change from ten sessions earlier through the scoring close. It does not use the path into a later headline. That return has the largest frozen weight, so the top of the list is the names that already rose the most. On this run the median ten-session return of the highest-ranked name was about 25 times, and the 10th percentile was still about 9 times.
+| Slate | Horizon | Jump | Date hit rate before | After | Random base before | After |
+| --- | ---: | --- | ---: | ---: | ---: | ---: |
+| top 3 | 20 | terminal | 0.481 | 0.442 | 0.246 | 0.296 |
+| top 3 | 20 | peak | 0.770 | 0.722 | 0.386 | 0.451 |
+| top 4 | 20 | terminal | 0.568 | 0.510 | 0.311 | 0.367 |
+| top 4 | 20 | peak | 0.852 | 0.782 | 0.473 | 0.542 |
 
-Names scanned: 8616. Scoring sessions: 1221. Standardization check gap: 0.0.
+The slates still beat a random slate of the same size. The gap is smaller. Top 3, 20 sessions, terminal: 0.481 versus 0.246 before, 0.442 versus 0.296 after.
 
-| Slate | Horizon | Jump | Dates | Date hit rate | Random slate | Hit rate per pick | False picks per hit | M&A | Earnings | Other |
-| --- | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| top 3 | 5 | terminal | 956 | 0.306 | 0.080 | 0.120 | 7.337 | 0 | 11 | 333 |
-| top 3 | 5 | peak | 956 | 0.474 | 0.108 | 0.199 | 4.032 | 2 | 20 | 548 |
-| top 3 | 10 | terminal | 777 | 0.413 | 0.148 | 0.177 | 4.658 | 1 | 32 | 379 |
-| top 3 | 10 | peak | 777 | 0.644 | 0.221 | 0.311 | 2.211 | 7 | 48 | 671 |
-| top 3 | 20 | terminal | 505 | 0.481 | 0.246 | 0.202 | 3.951 | 8 | 34 | 264 |
-| top 3 | 20 | peak | 505 | 0.770 | 0.386 | 0.411 | 1.432 | 15 | 72 | 536 |
-| top 4 | 5 | terminal | 934 | 0.401 | 0.104 | 0.127 | 6.899 | 1 | 13 | 459 |
-| top 4 | 5 | peak | 934 | 0.584 | 0.141 | 0.204 | 3.896 | 3 | 22 | 738 |
-| top 4 | 10 | terminal | 746 | 0.517 | 0.191 | 0.181 | 4.536 | 3 | 41 | 495 |
-| top 4 | 10 | peak | 746 | 0.752 | 0.282 | 0.316 | 2.168 | 11 | 62 | 869 |
-| top 4 | 20 | terminal | 472 | 0.568 | 0.311 | 0.209 | 3.792 | 11 | 38 | 345 |
-| top 4 | 20 | peak | 472 | 0.852 | 0.473 | 0.412 | 1.430 | 18 | 84 | 675 |
+
+On each session the frozen logistic scores every optionable name from the sessions in the 40 calendar days ending at that close. A single day in that span sets the peak call volume and the largest open-interest build. Several days add up in the call/put total. Names are ordered by the linear score. The five-feature score still includes the stock’s own return over that span. The option-only score leaves that return out, so one call print can rank a name that has not already run up. It names the top 3 and the top 4. A hit is a later close at least 15% above the scoring close, either at 5, 10, or 20 sessions or inside the next 40 calendar days. A one-day move of +100% or −50%, or a split, is not counted as a jump. A session counts only when every name in the slate has a close at that horizon. The coefficients are the 2013–2019 fit. This test does not choose a new cutoff.
+
+The stock return stops at the scoring close. It does not use the path into a later headline.
+
+Names scanned: 6185. Scoring sessions: 1182. Standardization check gap: 0.0.
+
+| Score | Slate | Horizon | Jump | Dates | Date hit rate | Random slate | Hit rate per pick | False picks per hit | M&A | Earnings | Other |
+| --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| five-feature | top 3 | 5 | terminal | 927 | 0.303 | 0.097 | 0.118 | 7.453 | 6 | 27 | 296 |
+| five-feature | top 3 | 5 | peak | 927 | 0.451 | 0.131 | 0.186 | 4.390 | 8 | 36 | 472 |
+| five-feature | top 3 | 10 | terminal | 742 | 0.414 | 0.178 | 0.169 | 4.905 | 5 | 45 | 327 |
+| five-feature | top 3 | 10 | peak | 742 | 0.636 | 0.264 | 0.296 | 2.373 | 12 | 67 | 581 |
+| five-feature | top 3 | 20 | terminal | 446 | 0.442 | 0.296 | 0.207 | 3.830 | 7 | 46 | 224 |
+| five-feature | top 3 | 20 | peak | 446 | 0.722 | 0.451 | 0.402 | 1.487 | 13 | 87 | 438 |
+| five-feature | top 3 | 40d | terminal | 375 | 0.427 | 0.366 | 0.220 | 3.536 | 3 | 46 | 199 |
+| five-feature | top 3 | 40d | peak | 375 | 0.765 | 0.547 | 0.445 | 1.246 | 11 | 94 | 396 |
+| five-feature | top 4 | 5 | terminal | 919 | 0.366 | 0.126 | 0.118 | 7.470 | 6 | 31 | 397 |
+| five-feature | top 4 | 5 | peak | 919 | 0.522 | 0.169 | 0.183 | 4.454 | 9 | 41 | 624 |
+| five-feature | top 4 | 10 | terminal | 730 | 0.479 | 0.226 | 0.163 | 5.134 | 5 | 53 | 418 |
+| five-feature | top 4 | 10 | peak | 730 | 0.690 | 0.329 | 0.287 | 2.484 | 14 | 80 | 744 |
+| five-feature | top 4 | 20 | terminal | 435 | 0.510 | 0.367 | 0.206 | 3.847 | 9 | 57 | 293 |
+| five-feature | top 4 | 20 | peak | 435 | 0.782 | 0.542 | 0.403 | 1.479 | 17 | 106 | 579 |
+| five-feature | top 4 | 40d | terminal | 366 | 0.503 | 0.447 | 0.221 | 3.533 | 6 | 58 | 259 |
+| five-feature | top 4 | 40d | peak | 366 | 0.820 | 0.642 | 0.441 | 1.270 | 16 | 114 | 515 |
+
+Highest five-feature name: median lookback return 33.600, 10th percentile 15.659.
+| option-only | top 3 | 5 | terminal | 1088 | 0.090 | 0.100 | 0.032 | 29.792 | 5 | 1 | 100 |
+| option-only | top 3 | 5 | peak | 1088 | 0.114 | 0.134 | 0.041 | 23.358 | 5 | 3 | 126 |
+| option-only | top 3 | 10 | terminal | 1000 | 0.185 | 0.180 | 0.065 | 14.306 | 7 | 4 | 185 |
+| option-only | top 3 | 10 | peak | 1000 | 0.271 | 0.266 | 0.099 | 9.067 | 8 | 5 | 285 |
+| option-only | top 3 | 20 | terminal | 852 | 0.311 | 0.293 | 0.119 | 7.380 | 18 | 17 | 270 |
+| option-only | top 3 | 20 | peak | 852 | 0.477 | 0.446 | 0.192 | 4.195 | 24 | 32 | 436 |
+| option-only | top 3 | 40d | terminal | 763 | 0.381 | 0.355 | 0.159 | 5.306 | 32 | 42 | 289 |
+| option-only | top 3 | 40d | peak | 763 | 0.549 | 0.539 | 0.248 | 3.037 | 34 | 71 | 462 |
+| option-only | top 4 | 5 | terminal | 1081 | 0.107 | 0.129 | 0.030 | 32.262 | 6 | 1 | 123 |
+| option-only | top 4 | 5 | peak | 1081 | 0.137 | 0.172 | 0.038 | 25.048 | 6 | 3 | 157 |
+| option-only | top 4 | 10 | terminal | 988 | 0.222 | 0.229 | 0.061 | 15.398 | 9 | 4 | 228 |
+| option-only | top 4 | 10 | peak | 988 | 0.328 | 0.332 | 0.095 | 9.511 | 11 | 7 | 358 |
+| option-only | top 4 | 20 | terminal | 825 | 0.366 | 0.362 | 0.114 | 7.753 | 25 | 23 | 329 |
+| option-only | top 4 | 20 | peak | 825 | 0.554 | 0.533 | 0.185 | 4.392 | 34 | 41 | 537 |
+| option-only | top 4 | 40d | terminal | 734 | 0.447 | 0.430 | 0.154 | 5.510 | 40 | 59 | 352 |
+| option-only | top 4 | 40d | peak | 734 | 0.638 | 0.628 | 0.244 | 3.095 | 47 | 94 | 576 |
+
+Highest option-only name: median lookback return 0.015, 10th percentile -0.116.
 
 Date hit rate is the share of sessions where at least one name in the slate jumps. Random slate is the average probability that a random draw of the same size, from that session’s optionable names, contains a jump. False picks per hit is the number of slate names that do not jump divided by the number that do.
 
 M&A uses the EDGAR announcement table and the earlier headline pool when the reaction session falls inside the forward window. Earnings uses 8-K Item 2.02 reaction sessions in that window. A jump with neither is other. A rank is a review tag, not an identification of a trader.
 
 No new high-precision rule is frozen from this table. A cutoff chosen after these rates would be a proposal for a later test.
+
 
 ## Quiet stock, loud options, 2026-11-13
 
@@ -306,54 +343,54 @@ The volume is only calls with strike above the spot and 1–45 days to expiry. A
 
 | Screen | Slate | Horizon | Dates | Date hit rate | Quiet base | Misses per hit | M&A | Earnings | Other |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| OTM strike, single, under 5% | 3 | 10 | 956 | 0.112 | 0.120 | 23.939 | 10 | 19 | 86 |
-| OTM strike, single, under 5% | 3 | 20 | 871 | 0.249 | 0.274 | 9.536 | 27 | 46 | 175 |
-| OTM strike, single, under 5% | 4 | 10 | 955 | 0.138 | 0.155 | 25.901 | 11 | 24 | 107 |
-| OTM strike, single, under 5% | 4 | 20 | 868 | 0.311 | 0.341 | 9.953 | 30 | 52 | 235 |
-| OTM strike, multi-day, under 5% | 3 | 10 | 949 | 0.148 | 0.120 | 18.107 | 7 | 27 | 115 |
-| OTM strike, multi-day, under 5% | 3 | 20 | 851 | 0.309 | 0.276 | 7.316 | 20 | 42 | 245 |
-| OTM strike, multi-day, under 5% | 4 | 10 | 940 | 0.185 | 0.156 | 18.686 | 8 | 35 | 148 |
-| OTM strike, multi-day, under 5% | 4 | 20 | 840 | 0.370 | 0.345 | 7.528 | 21 | 60 | 313 |
-| Single, open-interest confirmation | 3 | 10 | 953 | 0.101 | 0.120 | 27.307 | 8 | 18 | 75 |
-| Single, open-interest confirmation | 3 | 20 | 864 | 0.225 | 0.274 | 10.221 | 24 | 37 | 170 |
-| Single, open-interest confirmation | 4 | 10 | 949 | 0.129 | 0.155 | 27.541 | 9 | 20 | 104 |
-| Single, open-interest confirmation | 4 | 20 | 857 | 0.296 | 0.342 | 9.952 | 27 | 49 | 237 |
-| Multi-day, open-interest confirmation | 3 | 10 | 945 | 0.159 | 0.121 | 15.976 | 7 | 30 | 130 |
-| Multi-day, open-interest confirmation | 3 | 20 | 844 | 0.287 | 0.276 | 7.583 | 12 | 41 | 242 |
-| Multi-day, open-interest confirmation | 4 | 10 | 934 | 0.185 | 0.155 | 18.061 | 6 | 35 | 155 |
-| Multi-day, open-interest confirmation | 4 | 20 | 831 | 0.350 | 0.344 | 7.888 | 13 | 55 | 306 |
-| Single, no earnings in 5 sessions | 3 | 10 | 955 | 0.102 | 0.120 | 27.088 | 7 | 8 | 87 |
-| Single, no earnings in 5 sessions | 3 | 20 | 870 | 0.241 | 0.274 | 9.966 | 24 | 34 | 180 |
-| Single, no earnings in 5 sessions | 4 | 10 | 955 | 0.127 | 0.155 | 28.844 | 8 | 11 | 109 |
-| Single, no earnings in 5 sessions | 4 | 20 | 868 | 0.301 | 0.341 | 10.384 | 28 | 38 | 239 |
-| Multi-day, no earnings in 5 sessions | 3 | 10 | 945 | 0.134 | 0.121 | 19.846 | 4 | 13 | 119 |
-| Multi-day, no earnings in 5 sessions | 3 | 20 | 848 | 0.300 | 0.277 | 7.480 | 17 | 31 | 252 |
-| Multi-day, no earnings in 5 sessions | 4 | 10 | 939 | 0.168 | 0.156 | 20.586 | 7 | 14 | 153 |
-| Multi-day, no earnings in 5 sessions | 4 | 20 | 840 | 0.357 | 0.345 | 7.773 | 21 | 41 | 321 |
-| Single, 10-session move under 3% | 3 | 10 | 955 | 0.106 | 0.120 | 25.528 | 8 | 14 | 86 |
-| Single, 10-session move under 3% | 3 | 20 | 869 | 0.246 | 0.274 | 9.555 | 27 | 37 | 183 |
-| Single, 10-session move under 3% | 4 | 10 | 949 | 0.128 | 0.155 | 27.541 | 9 | 16 | 108 |
-| Single, 10-session move under 3% | 4 | 20 | 860 | 0.302 | 0.341 | 9.717 | 28 | 46 | 247 |
-| Multi-day, 10-session move under 3% | 3 | 10 | 943 | 0.133 | 0.121 | 20.762 | 11 | 18 | 101 |
-| Multi-day, 10-session move under 3% | 3 | 20 | 843 | 0.280 | 0.277 | 8.130 | 18 | 39 | 220 |
-| Multi-day, 10-session move under 3% | 4 | 10 | 931 | 0.168 | 0.156 | 21.036 | 12 | 24 | 133 |
-| Multi-day, 10-session move under 3% | 4 | 20 | 825 | 0.335 | 0.345 | 8.456 | 20 | 52 | 277 |
-| Delta 0.10–0.35, single | 3 | 10 | 963 | 0.100 | 0.123 | 28.480 | 1 | 18 | 79 |
-| Delta 0.10–0.35, single | 3 | 20 | 879 | 0.234 | 0.276 | 10.416 | 3 | 52 | 176 |
-| Delta 0.10–0.35, single | 4 | 10 | 961 | 0.129 | 0.159 | 27.902 | 3 | 20 | 110 |
-| Delta 0.10–0.35, single | 4 | 20 | 877 | 0.294 | 0.345 | 10.464 | 7 | 66 | 233 |
-| Delta 0.10–0.35, multi-day | 3 | 10 | 940 | 0.136 | 0.123 | 19.288 | 11 | 22 | 106 |
-| Delta 0.10–0.35, multi-day | 3 | 20 | 847 | 0.293 | 0.278 | 7.614 | 28 | 45 | 222 |
-| Delta 0.10–0.35, multi-day | 4 | 10 | 935 | 0.157 | 0.159 | 21.530 | 13 | 25 | 128 |
-| Delta 0.10–0.35, multi-day | 4 | 20 | 841 | 0.334 | 0.346 | 8.191 | 33 | 60 | 273 |
-| One strike at least half, single | 3 | 10 | 955 | 0.110 | 0.120 | 24.132 | 7 | 20 | 87 |
-| One strike at least half, single | 3 | 20 | 872 | 0.243 | 0.273 | 9.765 | 25 | 44 | 174 |
-| One strike at least half, single | 4 | 10 | 950 | 0.140 | 0.155 | 25.027 | 8 | 27 | 111 |
-| One strike at least half, single | 4 | 20 | 864 | 0.314 | 0.341 | 9.601 | 28 | 61 | 237 |
-| One strike at least half, multi-day | 3 | 10 | 940 | 0.132 | 0.121 | 20.364 | 8 | 18 | 106 |
-| One strike at least half, multi-day | 3 | 20 | 839 | 0.292 | 0.277 | 8.186 | 20 | 39 | 215 |
-| One strike at least half, multi-day | 4 | 10 | 928 | 0.168 | 0.155 | 19.737 | 10 | 26 | 143 |
-| One strike at least half, multi-day | 4 | 20 | 824 | 0.360 | 0.345 | 8.080 | 29 | 58 | 276 |
+| OTM strike, single, under 5% | 3 | 10 | 958 | 0.121 | 0.128 | 21.992 | 10 | 23 | 92 |
+| OTM strike, single, under 5% | 3 | 20 | 873 | 0.282 | 0.290 | 8.062 | 28 | 53 | 208 |
+| OTM strike, single, under 5% | 4 | 10 | 955 | 0.154 | 0.165 | 22.727 | 11 | 30 | 120 |
+| OTM strike, single, under 5% | 4 | 20 | 867 | 0.343 | 0.360 | 8.450 | 33 | 61 | 273 |
+| OTM strike, multi-day, under 5% | 3 | 10 | 948 | 0.160 | 0.129 | 16.236 | 7 | 29 | 129 |
+| OTM strike, multi-day, under 5% | 3 | 20 | 851 | 0.330 | 0.293 | 6.598 | 20 | 55 | 261 |
+| OTM strike, multi-day, under 5% | 4 | 10 | 942 | 0.193 | 0.166 | 17.291 | 7 | 36 | 163 |
+| OTM strike, multi-day, under 5% | 4 | 20 | 842 | 0.387 | 0.364 | 6.814 | 23 | 64 | 344 |
+| Single, open-interest confirmation | 3 | 10 | 951 | 0.113 | 0.127 | 24.248 | 8 | 19 | 86 |
+| Single, open-interest confirmation | 3 | 20 | 861 | 0.260 | 0.290 | 8.821 | 26 | 40 | 197 |
+| Single, open-interest confirmation | 4 | 10 | 941 | 0.151 | 0.165 | 23.442 | 11 | 22 | 121 |
+| Single, open-interest confirmation | 4 | 20 | 850 | 0.331 | 0.361 | 8.605 | 30 | 54 | 270 |
+| Multi-day, open-interest confirmation | 3 | 10 | 943 | 0.162 | 0.128 | 15.353 | 6 | 30 | 137 |
+| Multi-day, open-interest confirmation | 3 | 20 | 844 | 0.302 | 0.292 | 7.064 | 15 | 46 | 253 |
+| Multi-day, open-interest confirmation | 4 | 10 | 933 | 0.194 | 0.165 | 17.029 | 6 | 38 | 163 |
+| Multi-day, open-interest confirmation | 4 | 20 | 831 | 0.374 | 0.362 | 7.269 | 16 | 60 | 326 |
+| Single, no earnings in 5 sessions | 3 | 10 | 957 | 0.109 | 0.128 | 25.100 | 7 | 11 | 92 |
+| Single, no earnings in 5 sessions | 3 | 20 | 872 | 0.274 | 0.290 | 8.343 | 26 | 38 | 216 |
+| Single, no earnings in 5 sessions | 4 | 10 | 954 | 0.144 | 0.165 | 24.784 | 8 | 14 | 126 |
+| Single, no earnings in 5 sessions | 4 | 20 | 866 | 0.337 | 0.360 | 8.758 | 29 | 44 | 282 |
+| Multi-day, no earnings in 5 sessions | 3 | 10 | 946 | 0.149 | 0.129 | 17.429 | 4 | 13 | 137 |
+| Multi-day, no earnings in 5 sessions | 3 | 20 | 850 | 0.320 | 0.293 | 6.704 | 18 | 40 | 273 |
+| Multi-day, no earnings in 5 sessions | 4 | 10 | 941 | 0.180 | 0.166 | 18.503 | 7 | 14 | 172 |
+| Multi-day, no earnings in 5 sessions | 4 | 20 | 842 | 0.381 | 0.363 | 6.888 | 23 | 44 | 360 |
+| Single, 10-session move under 3% | 3 | 10 | 952 | 0.113 | 0.128 | 23.621 | 8 | 14 | 94 |
+| Single, 10-session move under 3% | 3 | 20 | 867 | 0.279 | 0.290 | 8.031 | 26 | 41 | 221 |
+| Single, 10-session move under 3% | 4 | 10 | 947 | 0.141 | 0.164 | 24.086 | 10 | 20 | 121 |
+| Single, 10-session move under 3% | 4 | 20 | 857 | 0.334 | 0.359 | 8.575 | 31 | 54 | 273 |
+| Multi-day, 10-session move under 3% | 3 | 10 | 938 | 0.142 | 0.128 | 18.817 | 11 | 20 | 111 |
+| Multi-day, 10-session move under 3% | 3 | 20 | 836 | 0.294 | 0.292 | 7.416 | 18 | 44 | 236 |
+| Multi-day, 10-session move under 3% | 4 | 10 | 923 | 0.184 | 0.166 | 18.638 | 13 | 29 | 146 |
+| Multi-day, 10-session move under 3% | 4 | 20 | 818 | 0.368 | 0.363 | 7.499 | 24 | 58 | 303 |
+| Delta 0.10–0.35, single | 3 | 10 | 964 | 0.114 | 0.130 | 24.148 | 3 | 20 | 92 |
+| Delta 0.10–0.35, single | 3 | 20 | 880 | 0.261 | 0.292 | 9.076 | 8 | 58 | 196 |
+| Delta 0.10–0.35, single | 4 | 10 | 959 | 0.150 | 0.168 | 23.590 | 4 | 22 | 130 |
+| Delta 0.10–0.35, single | 4 | 20 | 873 | 0.324 | 0.361 | 9.092 | 10 | 73 | 263 |
+| Delta 0.10–0.35, multi-day | 3 | 10 | 943 | 0.150 | 0.131 | 17.612 | 13 | 23 | 116 |
+| Delta 0.10–0.35, multi-day | 3 | 20 | 853 | 0.319 | 0.293 | 6.826 | 32 | 52 | 243 |
+| Delta 0.10–0.35, multi-day | 4 | 10 | 933 | 0.177 | 0.169 | 19.065 | 15 | 26 | 145 |
+| Delta 0.10–0.35, multi-day | 4 | 20 | 841 | 0.367 | 0.363 | 7.306 | 36 | 66 | 303 |
+| One strike at least half, single | 3 | 10 | 953 | 0.116 | 0.128 | 22.434 | 7 | 24 | 91 |
+| One strike at least half, single | 3 | 20 | 869 | 0.266 | 0.290 | 8.691 | 26 | 50 | 193 |
+| One strike at least half, single | 4 | 10 | 945 | 0.153 | 0.164 | 22.625 | 8 | 28 | 124 |
+| One strike at least half, single | 4 | 20 | 861 | 0.328 | 0.359 | 8.674 | 29 | 66 | 261 |
+| One strike at least half, multi-day | 3 | 10 | 939 | 0.138 | 0.128 | 18.699 | 9 | 21 | 113 |
+| One strike at least half, multi-day | 3 | 20 | 838 | 0.315 | 0.293 | 7.325 | 22 | 53 | 227 |
+| One strike at least half, multi-day | 4 | 10 | 923 | 0.181 | 0.165 | 18.743 | 10 | 27 | 150 |
+| One strike at least half, multi-day | 4 | 20 | 818 | 0.381 | 0.361 | 7.368 | 31 | 63 | 297 |
 
 ### Call P&L
 
@@ -361,21 +398,21 @@ Nearest monthly call with delta closest to 0.30, bought at the ask and sold at t
 
 | Screen | Slate | Horizon | Slates | Mean | Median | Hit rate | Worst decile |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| single | 3 | 10 | 587 | 0.301 | -0.225 | 0.394 | -0.880 |
-| single | 3 | 20 | 374 | 1.349 | 0.677 | 0.620 | -0.833 |
-| single | 4 | 10 | 644 | 0.273 | -0.206 | 0.402 | -0.876 |
-| single | 4 | 20 | 448 | 1.243 | 0.667 | 0.618 | -0.833 |
-| multi | 3 | 10 | 641 | 0.534 | -0.151 | 0.449 | -0.900 |
-| multi | 3 | 20 | 414 | 1.815 | 1.061 | 0.698 | -0.810 |
-| multi | 4 | 10 | 700 | 0.565 | -0.097 | 0.471 | -0.880 |
-| multi | 4 | 20 | 492 | 1.711 | 1.000 | 0.695 | -0.806 |
+| single | 3 | 10 | 586 | 0.298 | -0.254 | 0.389 | -0.873 |
+| single | 3 | 20 | 381 | 1.242 | 0.460 | 0.598 | -0.842 |
+| single | 4 | 10 | 655 | 0.319 | -0.154 | 0.424 | -0.863 |
+| single | 4 | 20 | 468 | 1.158 | 0.529 | 0.611 | -0.850 |
+| multi | 3 | 10 | 641 | 0.538 | -0.151 | 0.456 | -0.891 |
+| multi | 3 | 20 | 431 | 1.709 | 0.900 | 0.671 | -0.833 |
+| multi | 4 | 10 | 697 | 0.547 | -0.100 | 0.469 | -0.875 |
+| multi | 4 | 20 | 496 | 1.681 | 0.957 | 0.688 | -0.800 |
 
 ### The four previously loud resolved cases
 
-- lantheus_2022 LNTH not flagged. Loudest sample day 2022-02-11, ratio 2.380, 10-session return 0.149.
-- maxar_2022 MAXR flagged on 2022-12-14, single day, ratio 12.48, 10-session return -0.007, one spike day.
-- pfizer_2021 PFE flagged on 2021-11-04, multi-day, ratio 7.11, 10-session return 0.023, four spike days.
-- zogenix_2022 ZGNX not flagged. Loudest sample day 2022-01-18, ratio 1.747, 10-session return -0.095.
+- lantheus_2022 LNTH not flagged. Sample day 2022-02-11, ratio 2.380, 10-session return 0.149.
+- maxar_2022 MAXR flagged. Sample day 2022-12-14, ratio 12.485, 10-session return -0.007.
+- pfizer_2021 PFE flagged. Sample day 2021-11-04, ratio 7.115, 10-session return 0.023.
+- zogenix_2022 ZGNX not flagged. Sample day 2022-01-18, ratio 1.747, 10-session return -0.095.
 
 ### Examples with a 15% high within 20 sessions
 
@@ -406,34 +443,34 @@ A qualifying name is a review tag. It is not an identification of a trader.
 
 This is the 20-session call book for the multi-day short-dated OTM top 3. The contract is the nearest monthly call whose delta that morning is closest to 0.30 and between 0.20 and 0.40. It is bought at that day's ask and sold at the bid 20 sessions later, or on the last session on or before expiry if that comes first. The strike is chosen only from the entry day's quotes.
 
-Published slate median: 1.061. Recomputed slate median: 1.061. Recomputed slate mean: 1.815 across 414 dates. Individual filled trades: 555, median 0.955, mean 1.835.
+Published slate median: 1.061. Recomputed slate median: 0.900. Recomputed slate mean: 1.709 across 431 dates. Individual filled trades: 571, median 0.820, mean 1.775.
 
-After removing the 5 largest trades, the remaining trades have median 0.927 and mean 1.677. The slate median with those trades removed is 1.000. After removing the 10 largest, trade median 0.900, trade mean 1.579, slate median 1.000.
+After removing the 5 largest trades, the remaining trades have median 0.800 and mean 1.610. The slate median with those trades removed is 0.857. After removing the 10 largest, trade median 0.800, trade mean 1.496, slate median 0.800.
 
-Overlapping later signals in a name already held: 171. After keeping only the first open trade, the trade median is 0.827 and the slate median is 0.875. Deduped slate mean: 1.649.
+Overlapping later signals in a name already held: 172. After keeping only the first open trade, the trade median is 0.762 and the slate median is 0.800. Deduped slate mean: 1.510.
 
-The same call bought on three random quiet stocks on the same dates has slate median 0.894 and mean 1.444 across 485 dates.
+The same call bought on three random quiet stocks on the same dates has slate median 0.737 and mean 1.342 across 456 dates.
 
 ### By year
 
 | Year | Trades | Mean | Median |
 | --- | ---: | ---: | ---: |
-| 2021 | 18 | 2.745 | 1.127 |
-| 2022 | 89 | 1.011 | 0.187 |
-| 2023 | 148 | 2.434 | 1.631 |
-| 2024 | 106 | 1.654 | 0.546 |
-| 2025 | 142 | 1.873 | 0.962 |
-| 2026 | 52 | 1.496 | 1.000 |
+| 2021 | 18 | 2.648 | 0.698 |
+| 2022 | 88 | 1.103 | 0.185 |
+| 2023 | 151 | 2.086 | 1.042 |
+| 2024 | 121 | 2.068 | 0.600 |
+| 2025 | 136 | 1.557 | 0.714 |
+| 2026 | 57 | 1.611 | 1.000 |
 
 ### By what the next 20 sessions contained
 
 | Type | Trades | Mean | Median |
 | --- | ---: | ---: | ---: |
-| M&A | 16 | 1.718 | 1.000 |
-| Earnings | 58 | 1.976 | 1.519 |
-| Other | 481 | 1.822 | 0.900 |
+| M&A | 19 | 1.607 | 1.000 |
+| Earnings | 74 | 2.228 | 0.991 |
+| Other | 478 | 1.712 | 0.800 |
 
 The book survives only if the deduped slate median stays above the random quiet-stock call and the trade median stays positive after the 10 largest trades are removed.
 
 
-The edge does not survive this cut. The recomputed book is no longer clearly above the random quiet-stock call, or the median turns down once the largest trades or the overlapping repeats are removed.
+The edge survives this cut.

@@ -1,180 +1,513 @@
 {
-  "symbols": 8616,
-  "sessions": 1221,
+  "symbols": 6185,
+  "sessions": 1182,
+  "trade_days": 40,
   "five_gap": 0.0,
   "option_gap": 0.0,
-  "results": {
-    "3": {
-      "5": {
-        "terminal": {
-          "dates": 956,
-          "date_hit_rate": 0.3064853556485356,
-          "pick_hit_rate": 0.1199442119944212,
-          "false_picks_per_hit": 7.337209302325581,
-          "base_rate": 0.07962740449555669,
-          "hits": {
-            "ma": 0,
-            "earnings": 11,
-            "other": 333,
-            "total": 344
+  "models": {
+    "five": {
+      "results": {
+        "3": {
+          "5": {
+            "terminal": {
+              "dates": 927,
+              "date_hit_rate": 0.30312837108953616,
+              "pick_hit_rate": 0.11830276878820568,
+              "false_picks_per_hit": 7.452887537993921,
+              "base_rate": 0.09699666804177588,
+              "hits": {
+                "ma": 6,
+                "earnings": 27,
+                "other": 296,
+                "total": 329
+              }
+            },
+            "peak": {
+              "dates": 927,
+              "date_hit_rate": 0.45091693635382957,
+              "pick_hit_rate": 0.1855447680690399,
+              "false_picks_per_hit": 4.3895348837209305,
+              "base_rate": 0.13097892054658197,
+              "hits": {
+                "ma": 8,
+                "earnings": 36,
+                "other": 472,
+                "total": 516
+              }
+            }
+          },
+          "10": {
+            "terminal": {
+              "dates": 742,
+              "date_hit_rate": 0.4137466307277628,
+              "pick_hit_rate": 0.1693620844564241,
+              "false_picks_per_hit": 4.904509283819628,
+              "base_rate": 0.1781004062505223,
+              "hits": {
+                "ma": 5,
+                "earnings": 45,
+                "other": 327,
+                "total": 377
+              }
+            },
+            "peak": {
+              "dates": 742,
+              "date_hit_rate": 0.6361185983827493,
+              "pick_hit_rate": 0.29649595687331537,
+              "false_picks_per_hit": 2.3727272727272726,
+              "base_rate": 0.26363537243524265,
+              "hits": {
+                "ma": 12,
+                "earnings": 67,
+                "other": 581,
+                "total": 660
+              }
+            }
+          },
+          "20": {
+            "terminal": {
+              "dates": 446,
+              "date_hit_rate": 0.44170403587443946,
+              "pick_hit_rate": 0.2070254110612855,
+              "false_picks_per_hit": 3.8303249097472922,
+              "base_rate": 0.2962308536932121,
+              "hits": {
+                "ma": 7,
+                "earnings": 46,
+                "other": 224,
+                "total": 277
+              }
+            },
+            "peak": {
+              "dates": 446,
+              "date_hit_rate": 0.7219730941704036,
+              "pick_hit_rate": 0.4020926756352765,
+              "false_picks_per_hit": 1.486988847583643,
+              "base_rate": 0.4512123074283826,
+              "hits": {
+                "ma": 13,
+                "earnings": 87,
+                "other": 438,
+                "total": 538
+              }
+            }
+          },
+          "40d": {
+            "terminal": {
+              "dates": 375,
+              "date_hit_rate": 0.4266666666666667,
+              "pick_hit_rate": 0.22044444444444444,
+              "false_picks_per_hit": 3.536290322580645,
+              "base_rate": 0.3658769720649833,
+              "hits": {
+                "ma": 3,
+                "earnings": 46,
+                "other": 199,
+                "total": 248
+              }
+            },
+            "peak": {
+              "dates": 375,
+              "date_hit_rate": 0.7653333333333333,
+              "pick_hit_rate": 0.44533333333333336,
+              "false_picks_per_hit": 1.2455089820359282,
+              "base_rate": 0.5466108837946343,
+              "hits": {
+                "ma": 11,
+                "earnings": 94,
+                "other": 396,
+                "total": 501
+              }
+            }
           }
         },
-        "peak": {
-          "dates": 956,
-          "date_hit_rate": 0.47384937238493724,
-          "pick_hit_rate": 0.19874476987447698,
-          "false_picks_per_hit": 4.031578947368421,
-          "base_rate": 0.1082971292293628,
-          "hits": {
-            "ma": 2,
-            "earnings": 20,
-            "other": 548,
-            "total": 570
+        "4": {
+          "5": {
+            "terminal": {
+              "dates": 919,
+              "date_hit_rate": 0.36561479869423286,
+              "pick_hit_rate": 0.11806311207834602,
+              "false_picks_per_hit": 7.470046082949309,
+              "base_rate": 0.12577863345488746,
+              "hits": {
+                "ma": 6,
+                "earnings": 31,
+                "other": 397,
+                "total": 434
+              }
+            },
+            "peak": {
+              "dates": 919,
+              "date_hit_rate": 0.5223068552774756,
+              "pick_hit_rate": 0.18335146898803048,
+              "false_picks_per_hit": 4.454005934718101,
+              "base_rate": 0.1685967298872776,
+              "hits": {
+                "ma": 9,
+                "earnings": 41,
+                "other": 624,
+                "total": 674
+              }
+            }
+          },
+          "10": {
+            "terminal": {
+              "dates": 730,
+              "date_hit_rate": 0.4794520547945205,
+              "pick_hit_rate": 0.16301369863013698,
+              "false_picks_per_hit": 5.1344537815126055,
+              "base_rate": 0.22584682162576222,
+              "hits": {
+                "ma": 5,
+                "earnings": 53,
+                "other": 418,
+                "total": 476
+              }
+            },
+            "peak": {
+              "dates": 730,
+              "date_hit_rate": 0.6904109589041096,
+              "pick_hit_rate": 0.28698630136986303,
+              "false_picks_per_hit": 2.484486873508353,
+              "base_rate": 0.3290937200039934,
+              "hits": {
+                "ma": 14,
+                "earnings": 80,
+                "other": 744,
+                "total": 838
+              }
+            }
+          },
+          "20": {
+            "terminal": {
+              "dates": 435,
+              "date_hit_rate": 0.5103448275862069,
+              "pick_hit_rate": 0.20632183908045976,
+              "false_picks_per_hit": 3.8467966573816157,
+              "base_rate": 0.36685001200581935,
+              "hits": {
+                "ma": 9,
+                "earnings": 57,
+                "other": 293,
+                "total": 359
+              }
+            },
+            "peak": {
+              "dates": 435,
+              "date_hit_rate": 0.7816091954022989,
+              "pick_hit_rate": 0.40344827586206894,
+              "false_picks_per_hit": 1.4786324786324787,
+              "base_rate": 0.5415248240904085,
+              "hits": {
+                "ma": 17,
+                "earnings": 106,
+                "other": 579,
+                "total": 702
+              }
+            }
+          },
+          "40d": {
+            "terminal": {
+              "dates": 366,
+              "date_hit_rate": 0.5027322404371585,
+              "pick_hit_rate": 0.22062841530054644,
+              "false_picks_per_hit": 3.5325077399380804,
+              "base_rate": 0.4474461439704277,
+              "hits": {
+                "ma": 6,
+                "earnings": 58,
+                "other": 259,
+                "total": 323
+              }
+            },
+            "peak": {
+              "dates": 366,
+              "date_hit_rate": 0.819672131147541,
+              "pick_hit_rate": 0.4405737704918033,
+              "false_picks_per_hit": 1.2697674418604652,
+              "base_rate": 0.6417287641260552,
+              "hits": {
+                "ma": 16,
+                "earnings": 114,
+                "other": 515,
+                "total": 645
+              }
+            }
           }
         }
       },
-      "10": {
-        "terminal": {
-          "dates": 777,
-          "date_hit_rate": 0.41312741312741313,
-          "pick_hit_rate": 0.17674817674817675,
-          "false_picks_per_hit": 4.657766990291262,
-          "base_rate": 0.14782768367051674,
-          "hits": {
-            "ma": 1,
-            "earnings": 32,
-            "other": 379,
-            "total": 412
-          }
-        },
-        "peak": {
-          "dates": 777,
-          "date_hit_rate": 0.6435006435006435,
-          "pick_hit_rate": 0.31145431145431146,
-          "false_picks_per_hit": 2.2107438016528924,
-          "base_rate": 0.22149652060214187,
-          "hits": {
-            "ma": 7,
-            "earnings": 48,
-            "other": 671,
-            "total": 726
-          }
-        }
-      },
-      "20": {
-        "terminal": {
-          "dates": 505,
-          "date_hit_rate": 0.48118811881188117,
-          "pick_hit_rate": 0.201980198019802,
-          "false_picks_per_hit": 3.950980392156863,
-          "base_rate": 0.2464916467461482,
-          "hits": {
-            "ma": 8,
-            "earnings": 34,
-            "other": 264,
-            "total": 306
-          }
-        },
-        "peak": {
-          "dates": 505,
-          "date_hit_rate": 0.7702970297029703,
-          "pick_hit_rate": 0.41122112211221123,
-          "false_picks_per_hit": 1.4317817014446228,
-          "base_rate": 0.3857165782189908,
-          "hits": {
-            "ma": 15,
-            "earnings": 72,
-            "other": 536,
-            "total": 623
-          }
-        }
+      "top_pre_return": {
+        "median": 33.599999999999994,
+        "p10": 15.658536585365855
       }
     },
-    "4": {
-      "5": {
-        "terminal": {
-          "dates": 934,
-          "date_hit_rate": 0.4014989293361884,
-          "pick_hit_rate": 0.12660599571734477,
-          "false_picks_per_hit": 6.898520084566596,
-          "base_rate": 0.10391815566808651,
-          "hits": {
-            "ma": 1,
-            "earnings": 13,
-            "other": 459,
-            "total": 473
+    "option": {
+      "results": {
+        "3": {
+          "5": {
+            "terminal": {
+              "dates": 1088,
+              "date_hit_rate": 0.0900735294117647,
+              "pick_hit_rate": 0.032475490196078434,
+              "false_picks_per_hit": 29.79245283018868,
+              "base_rate": 0.0996716593234529,
+              "hits": {
+                "ma": 5,
+                "earnings": 1,
+                "other": 100,
+                "total": 106
+              }
+            },
+            "peak": {
+              "dates": 1088,
+              "date_hit_rate": 0.11397058823529412,
+              "pick_hit_rate": 0.04105392156862745,
+              "false_picks_per_hit": 23.35820895522388,
+              "base_rate": 0.13365478804091138,
+              "hits": {
+                "ma": 5,
+                "earnings": 3,
+                "other": 126,
+                "total": 134
+              }
+            }
+          },
+          "10": {
+            "terminal": {
+              "dates": 1000,
+              "date_hit_rate": 0.185,
+              "pick_hit_rate": 0.06533333333333333,
+              "false_picks_per_hit": 14.306122448979592,
+              "base_rate": 0.179691979055471,
+              "hits": {
+                "ma": 7,
+                "earnings": 4,
+                "other": 185,
+                "total": 196
+              }
+            },
+            "peak": {
+              "dates": 1000,
+              "date_hit_rate": 0.271,
+              "pick_hit_rate": 0.09933333333333333,
+              "false_picks_per_hit": 9.06711409395973,
+              "base_rate": 0.26576103680438895,
+              "hits": {
+                "ma": 8,
+                "earnings": 5,
+                "other": 285,
+                "total": 298
+              }
+            }
+          },
+          "20": {
+            "terminal": {
+              "dates": 852,
+              "date_hit_rate": 0.31103286384976525,
+              "pick_hit_rate": 0.11932707355242567,
+              "false_picks_per_hit": 7.380327868852459,
+              "base_rate": 0.2927836810334595,
+              "hits": {
+                "ma": 18,
+                "earnings": 17,
+                "other": 270,
+                "total": 305
+              }
+            },
+            "peak": {
+              "dates": 852,
+              "date_hit_rate": 0.4765258215962441,
+              "pick_hit_rate": 0.19248826291079812,
+              "false_picks_per_hit": 4.195121951219512,
+              "base_rate": 0.44555421143772933,
+              "hits": {
+                "ma": 24,
+                "earnings": 32,
+                "other": 436,
+                "total": 492
+              }
+            }
+          },
+          "40d": {
+            "terminal": {
+              "dates": 763,
+              "date_hit_rate": 0.381389252948886,
+              "pick_hit_rate": 0.15858453473132372,
+              "false_picks_per_hit": 5.305785123966942,
+              "base_rate": 0.3547017468627034,
+              "hits": {
+                "ma": 32,
+                "earnings": 42,
+                "other": 289,
+                "total": 363
+              }
+            },
+            "peak": {
+              "dates": 763,
+              "date_hit_rate": 0.5491480996068152,
+              "pick_hit_rate": 0.24770642201834864,
+              "false_picks_per_hit": 3.037037037037037,
+              "base_rate": 0.538932599756265,
+              "hits": {
+                "ma": 34,
+                "earnings": 71,
+                "other": 462,
+                "total": 567
+              }
+            }
           }
         },
-        "peak": {
-          "dates": 934,
-          "date_hit_rate": 0.5835117773019272,
-          "pick_hit_rate": 0.2042291220556745,
-          "false_picks_per_hit": 3.896461336828309,
-          "base_rate": 0.14083894330463326,
-          "hits": {
-            "ma": 3,
-            "earnings": 22,
-            "other": 738,
-            "total": 763
+        "4": {
+          "5": {
+            "terminal": {
+              "dates": 1081,
+              "date_hit_rate": 0.10730804810360776,
+              "pick_hit_rate": 0.030064754856614247,
+              "false_picks_per_hit": 32.261538461538464,
+              "base_rate": 0.12891292630426207,
+              "hits": {
+                "ma": 6,
+                "earnings": 1,
+                "other": 123,
+                "total": 130
+              }
+            },
+            "peak": {
+              "dates": 1081,
+              "date_hit_rate": 0.13691026827012026,
+              "pick_hit_rate": 0.03839037927844589,
+              "false_picks_per_hit": 25.048192771084338,
+              "base_rate": 0.17160245456617068,
+              "hits": {
+                "ma": 6,
+                "earnings": 3,
+                "other": 157,
+                "total": 166
+              }
+            }
+          },
+          "10": {
+            "terminal": {
+              "dates": 988,
+              "date_hit_rate": 0.2216599190283401,
+              "pick_hit_rate": 0.06098178137651822,
+              "false_picks_per_hit": 15.398340248962656,
+              "base_rate": 0.2289035170831973,
+              "hits": {
+                "ma": 9,
+                "earnings": 4,
+                "other": 228,
+                "total": 241
+              }
+            },
+            "peak": {
+              "dates": 988,
+              "date_hit_rate": 0.32793522267206476,
+              "pick_hit_rate": 0.0951417004048583,
+              "false_picks_per_hit": 9.51063829787234,
+              "base_rate": 0.33208026852920536,
+              "hits": {
+                "ma": 11,
+                "earnings": 7,
+                "other": 358,
+                "total": 376
+              }
+            }
+          },
+          "20": {
+            "terminal": {
+              "dates": 825,
+              "date_hit_rate": 0.3660606060606061,
+              "pick_hit_rate": 0.11424242424242424,
+              "false_picks_per_hit": 7.753315649867374,
+              "base_rate": 0.3624467414131118,
+              "hits": {
+                "ma": 25,
+                "earnings": 23,
+                "other": 329,
+                "total": 377
+              }
+            },
+            "peak": {
+              "dates": 825,
+              "date_hit_rate": 0.553939393939394,
+              "pick_hit_rate": 0.18545454545454546,
+              "false_picks_per_hit": 4.392156862745098,
+              "base_rate": 0.5333458348957694,
+              "hits": {
+                "ma": 34,
+                "earnings": 41,
+                "other": 537,
+                "total": 612
+              }
+            }
+          },
+          "40d": {
+            "terminal": {
+              "dates": 734,
+              "date_hit_rate": 0.44686648501362397,
+              "pick_hit_rate": 0.15361035422343325,
+              "false_picks_per_hit": 5.509977827050998,
+              "base_rate": 0.429667020939789,
+              "hits": {
+                "ma": 40,
+                "earnings": 59,
+                "other": 352,
+                "total": 451
+              }
+            },
+            "peak": {
+              "dates": 734,
+              "date_hit_rate": 0.6376021798365122,
+              "pick_hit_rate": 0.2442098092643052,
+              "false_picks_per_hit": 3.094839609483961,
+              "base_rate": 0.6284424146112135,
+              "hits": {
+                "ma": 47,
+                "earnings": 94,
+                "other": 576,
+                "total": 717
+              }
+            }
           }
         }
       },
-      "10": {
-        "terminal": {
-          "dates": 746,
-          "date_hit_rate": 0.517426273458445,
-          "pick_hit_rate": 0.18063002680965148,
-          "false_picks_per_hit": 4.536178107606679,
-          "base_rate": 0.1906525281171109,
-          "hits": {
-            "ma": 3,
-            "earnings": 41,
-            "other": 495,
-            "total": 539
-          }
-        },
-        "peak": {
-          "dates": 746,
-          "date_hit_rate": 0.7520107238605898,
-          "pick_hit_rate": 0.3156836461126005,
-          "false_picks_per_hit": 2.1677282377919322,
-          "base_rate": 0.28160154572531154,
-          "hits": {
-            "ma": 11,
-            "earnings": 62,
-            "other": 869,
-            "total": 942
-          }
-        }
-      },
-      "20": {
-        "terminal": {
-          "dates": 472,
-          "date_hit_rate": 0.5677966101694916,
-          "pick_hit_rate": 0.2086864406779661,
-          "false_picks_per_hit": 3.7918781725888326,
-          "base_rate": 0.31093454025422257,
-          "hits": {
-            "ma": 11,
-            "earnings": 38,
-            "other": 345,
-            "total": 394
-          }
-        },
-        "peak": {
-          "dates": 472,
-          "date_hit_rate": 0.8516949152542372,
-          "pick_hit_rate": 0.4115466101694915,
-          "false_picks_per_hit": 1.4298584298584298,
-          "base_rate": 0.4732762072288251,
-          "hits": {
-            "ma": 18,
-            "earnings": 84,
-            "other": 675,
-            "total": 777
-          }
-        }
+      "top_pre_return": {
+        "median": 0.01538461538461533,
+        "p10": -0.11612021857923505
       }
     }
+  },
+  "etp_exclusion": {
+    "excluded": true,
+    "kind": "symbols",
+    "universe_version": "2026-11-15+446029073ac3",
+    "universe_symbols": 6592,
+    "universe_ciks": 91,
+    "input": 8616,
+    "kept": 6185,
+    "removed": 2431,
+    "removed_sample": [
+      "AAAU",
+      "AAOG",
+      "AAOX",
+      "AAOZ",
+      "AAPB",
+      "AAPD",
+      "AAPU",
+      "AAPW",
+      "AAPX",
+      "AAPY",
+      "AAXJ",
+      "ABFL",
+      "ACES",
+      "ACIO",
+      "ACT",
+      "ACWI",
+      "ACWV",
+      "ACWX",
+      "ADBG",
+      "AFK"
+    ]
   }
 }
