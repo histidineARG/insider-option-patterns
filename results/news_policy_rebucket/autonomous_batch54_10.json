@@ -1,0 +1,170 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch54_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 1,
+  "n_confirmed_drop": 2,
+  "n_deferred": 7,
+  "n_timing_deferred": 7,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 421,
+  "review_counts": {
+    "keep": 237,
+    "drop_earnings": 83,
+    "drop_peer_sympathy": 12,
+    "pending_news_review": 180,
+    "drop_mechanical": 2,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 29,
+    "drop_analyst": 11,
+    "drop_financing": 10,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2,
+    "drop_other_not_234": 99
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "HTHT",
+      "qdate": "2015-05-15",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "China Lodging reported first-quarter 2015 financial results on May 14; the May 15 reaction session follows the earnings release. Earnings precedence applies even though analysts also upgraded the shares that day.",
+      "sources": [
+        "https://ir.hworld.com/zh-hant/node/7836"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "ADXS",
+      "qdate": "2015-01-27",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Contemporaneous coverage describes a multi-week rally involving biotech-sector enthusiasm, a new chief medical officer and investor ownership, but does not isolate a qualifying issuer-specific catalyst on January 27. Keep pending rather than assign a sector or company cause without session attribution.",
+      "sources": [
+        "https://www.thestreet.com/investing/stocks/advaxis-legit-reasons-to-take-another-look-at-under-appreciated-cancer-immunotherapy-13024047"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "XONE",
+      "qdate": "2015-11-25",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The located November 27 recap describes the prior session move on November 25 but gives no company catalyst; the available evidence does not establish a same-session cause. Do not infer a 3D-print sector move.",
+      "sources": [
+        "https://finance.yahoo.com/news/exone-company-xone-focus-stock-130501864.html"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "MOMO",
+      "qdate": "2016-02-23",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Momo filed that Joseph Tsai was appointed a director effective February 22. Later coverage linked the share rise to buyout speculation, but the filing itself does not establish that attribution; the privatization proposal was already public. Defer pending a stronger date-specific source tying the jump to a qualifying takeout development.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1610601/000119312516472443/d87226d6k.htm",
+        "https://technode.com/2016/02/24/momo-stock-surges-20-as-alibaba-vice-chairman-joins-board/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SUPN",
+      "qdate": "2016-02-05",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending rather than infer a cause from adjacent dates or sector context.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/SUPN?date=2016-02-05&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "EVH",
+      "qdate": "2016-07-13",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The nearby Valence Health acquisition was disclosed on July 12, and later coverage describes an upward reaction; the reviewed evidence does not establish whether the saved July 13 session is a separate attributable jump. Keep pending on timing.",
+      "sources": [
+        "https://www.massdevice.com/evolent-prices-upsized-170m-secondary-offering/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "VNDA",
+      "qdate": "2013-05-17",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The known Hetlioz regulatory milestones are not contemporaneous with this session, and targeted date-specific search did not identify an eligible May 17 catalyst. Keep pending; do not borrow later approval or unrelated May 31 NDA news.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/VNDA?date=2013-05-17&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "LXU",
+      "qdate": "2016-03-18",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible issuer catalyst or source for the session move. Keep pending rather than assign a commodity or sector cause.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/LXU?date=2016-03-18&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "INO",
+      "qdate": "2015-03-16",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "Inovio held its fourth-quarter 2014 earnings call on March 16 and filed its annual results that morning. Classify the reaction as earnings under class 1; do not recast it as a trial or regulatory catalyst.",
+      "sources": [
+        "https://www.rttnews.com/2470583/inovio-q4-14-earnings-conference-call-at-8-30-am-et.aspx"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "GLNG",
+      "qdate": "2015-05-05",
+      "decision": "keep",
+      "cause_class": "5_commercial_contract",
+      "jump_cause": "commercial_contract",
+      "news_filter": "keep",
+      "rationale": "Golar announced a binding heads of terms with Ophir to provide its GoFLNG Gimi vessel under a planned 20-year tolling contract. This issuer-specific commercial services agreement fits class 5; policy attribution does not certify first-public completeness or training readiness.",
+      "sources": [
+        "https://www.golarlng.com/investors/press-releases/pr-story.aspx?ResultPageURL=https%3A%2F%2Frss.globenewswire.com%2FHexMLItem%2FContent%2FFullText%2FAttachments%2FAll%2FIdentifier%2F731900%2Flanguage%2Fen"
+      ],
+      "defer_reason": null
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Existing price attribution retained except where the earnings cause is supported by session-date evidence.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

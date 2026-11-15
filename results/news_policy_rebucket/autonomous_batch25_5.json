@@ -1,0 +1,126 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch25_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 1,
+  "n_confirmed_drop": 1,
+  "n_deferred": 3,
+  "n_timing_deferred": 1,
+  "n_category_deferred": 2,
+  "cumulative_n_policy_reviewed": 246,
+  "review_counts": {
+    "keep": 224,
+    "drop_earnings": 69,
+    "drop_other_not_234": 274,
+    "pending_news_review": 68,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 13,
+    "drop_analyst": 6,
+    "drop_financing": 8,
+    "drop_peer_sympathy": 4,
+    "drop_operating_update": 4,
+    "drop_regulatory_process": 3,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 223,
+    "drop_earnings": 69,
+    "drop_other_not_234": 279,
+    "pending_news_review": 65,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 13,
+    "drop_analyst": 6,
+    "drop_financing": 8,
+    "drop_peer_sympathy": 4,
+    "drop_operating_update": 4,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "ACRX",
+      "qdate": "2013-12-16",
+      "decision": "keep",
+      "cause_class": "6_partnership_license",
+      "jump_cause": "partnership_license",
+      "news_filter": "keep",
+      "rationale": "December 16 primary agreements establish Zalviso commercialization license and supply partnership with Grunenthal; contemporaneous account directly attributes share gain to deal. Class 6 applies. PDUFA scheduling/earlier NDA acceptance are concurrent regulatory-process context, not FDA product approval.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1427925/000119312513479334/d647404d8k.htm",
+        "https://www.fiercebiotech.com/partnering/acelrx-spikes-on-250m-deal-for-late-stage-pain-drug-device-zalviso"
+      ]
+    },
+    {
+      "symbol": "ACAD",
+      "qdate": "2016-03-28",
+      "decision": "drop",
+      "cause_class": "regulatory_process",
+      "jump_cause": "regulatory_process",
+      "news_filter": "drop_regulatory_process",
+      "rationale": "March 28 market account describes run-up before March 29 advisory committee and analyst optimism; primary issuer confirms March 29 review and vote date. March 28 did not contain final FDA approval or new trial readout. Briefing/anticipation and analyst commentary are not class 7 approval; do not backdate later vote or approval.",
+      "sources": [
+        "https://247wallst.com/health-and-healthcare/2016/03/28/why-merrill-lynch-sees-acadia-rising-another-60/",
+        "https://acadia.com/en-us/media/news-releases/acadia-pharmaceuticals-stock-trading-halted-today",
+        "https://acadia.com/en-us/media/news-releases/fda-advisory-committee-votes-12-2-benefits-acadia"
+      ]
+    },
+    {
+      "symbol": "CARA",
+      "qdate": "2016-03-21",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted March 21 issuer/clinical-hold search did not recover attributable same-session event. Contemporary accounts date hold imposition February 25 and removal April 20; neither establishes a March 21 regulatory unlock. Leave pending rather than backdate April hold removal.",
+      "sources": [
+        "https://www.mysanantonio.com/business/article/Pharma-stock-in-free-fall-after-FDA-disclosure-6854765.php",
+        "https://www.biospace.com/fda-removes-clinical-hold-on-cara-therapeutics-s-phase-iii-postoperative-pain-study"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "INSM",
+      "qdate": "2013-04-24",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted issuer/date/trial/analyst search recovered same-day gainers account confirming trading activity but not catalyst. Nearby primary April 1 commercial-officer appointment and later financing do not establish April 24 trial success. No supported same-session attribution recovered; retain pending instead of unsupported no-news exclusion.",
+      "sources": [
+        "https://247wallst.com/investing/2013/04/24/market-close-big-winners-losers-for-april-24-2013/",
+        "https://www.sec.gov/Archives/edgar/data/1104506/000114036113014813/ex99_1.htm"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "FOLD",
+      "qdate": "2014-11-17",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Recovered primary November 15 weekend release announces additional positive Phase 3 migalastat secondary-endpoint data, an eligible class 3 candidate before Monday jump. November 17 offering is a separate concurrent candidate. Direct price attribution and original offering time relative to close remain unresolved; do not replace successful-data candidate with automatic financing drop.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1178879/000110465914081109/a14-24598_1ex99d1.htm",
+        "https://www.sec.gov/Archives/edgar/data/1178879/000110465914082806/a14-25015_18k.htm"
+      ],
+      "defer_reason": "category"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

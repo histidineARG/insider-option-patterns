@@ -1,0 +1,122 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch24_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 4,
+  "n_deferred": 1,
+  "n_timing_deferred": 1,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 241,
+  "review_counts": {
+    "keep": 223,
+    "drop_earnings": 69,
+    "drop_other_not_234": 279,
+    "pending_news_review": 65,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 13,
+    "drop_analyst": 6,
+    "drop_financing": 8,
+    "drop_peer_sympathy": 4,
+    "drop_operating_update": 4,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 223,
+    "drop_earnings": 65,
+    "drop_other_not_234": 284,
+    "pending_news_review": 64,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 13,
+    "drop_analyst": 6,
+    "drop_financing": 8,
+    "drop_peer_sympathy": 4,
+    "drop_operating_update": 4,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "GIB",
+      "qdate": "2013-04-30",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "April 30 issuer release reports fiscal Q2 financial results, including Logica integration costs and adjusted earnings. This replaces generic no-news label with quarterly-results event. Revenue growth due to acquired business is historical earnings context, not a new same-session acquisition. Exact initial release time is not independently certified.",
+      "sources": [
+        "https://www.cgi.com/en/CGI-posts-137-percent-revenue-growth-Q2-F2013",
+        "https://www.sec.gov/Archives/edgar/data/1061574/000119312513185961/d531450d6k.htm"
+      ]
+    },
+    {
+      "symbol": "MSTR",
+      "qdate": "2013-10-29",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "October 28 primary release and filing establish Q3 results before following session. Class 1 quarterly-results exclusion applies. Historical MicroStrategy enterprise-software earnings are distinct from later bitcoin strategy; exact initial publication time is not independently certified.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1050446/000119312513418752/d620662dex991.htm",
+        "https://www.prnewswire.com/news-releases/microstrategy-announces-third-quarter-2013-financial-results-229626371.html"
+      ]
+    },
+    {
+      "symbol": "PERI",
+      "qdate": "2014-11-06",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "November 6 primary release reports Q3 results with same-day morning earnings call. Class 1 applies to financial outlook and integration updates inside results; this is not independent same-day technology breakthrough.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1338940/000117891314003386/exhibit_1.htm",
+        "https://seekingalpha.com/article/2652375-perion-networks-peri-ceo-josef-mandelbaum-on-q3-2014-results-earnings-call-transcript"
+      ]
+    },
+    {
+      "symbol": "ISLE",
+      "qdate": "2015-02-25",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "February 25 primary release reports fiscal Q3 financial results and schedules 10 a.m. central results call that day. Casino operating improvements and other corporate updates within earnings remain class 1. No new takeout is established by this report.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/863015/000110465915013733/a15-5329_1ex99d1.htm"
+      ]
+    },
+    {
+      "symbol": "MSTR",
+      "qdate": "2014-04-24",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date/issuer search recovered Q1 results issued April 28, after April 24 jump. Do not backdate earnings or April 25 board decisions to explain earlier gain. No supported same-session keep catalyst recovered; retain pending with explicit timing conflict.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1050446/000119312514161274/d717141dex991.htm",
+        "https://www.sec.gov/Archives/edgar/data/1050446/000119312514161274/d717141d8k.htm"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "rule": {
+    "window": 10,
+    "baseline": 20,
+    "min_observed_window": 8,
+    "min_baseline": 10,
+    "min_volume": 100,
+    "volume_ratio": 3.0,
+    "band_share_min": 0.4,
+    "band_share_lift": 0.1,
+    "top_share_min": 0.5,
+    "delta": [
+      0.1,
+      0.35
+    ],
+    "dte": [
+      5,
+      45
+    ],
+    "otm": [
+      1.03,
+      1.25
+    ],
+    "placebo_shift": 60,
+    "earnings_gap": 40
+  },
+  "counts": {
+    "keeps": 246,
+    "tier_a": 86,
+    "tier_b": 160
+  },
+  "tier_a": {
+    "n": 86,
+    "eligible": 85,
+    "hits": 10,
+    "hit_rate": 0.11764705882352941
+  },
+  "placebo": {
+    "n": 86,
+    "eligible": 77,
+    "hits": 7,
+    "hit_rate": 0.09090909090909091
+  },
+  "earnings": {
+    "n": 86,
+    "eligible": 78,
+    "hits": 12,
+    "hit_rate": 0.15384615384615385
+  },
+  "tier_b": {
+    "n": 160,
+    "eligible": 158,
+    "hits": 11,
+    "hit_rate": 0.06962025316455696
+  },
+  "paired_placebo": {
+    "n": 77,
+    "both": 0,
+    "case_only": 9,
+    "control_only": 7,
+    "neither": 61,
+    "chi2": 0.0625,
+    "p_value": 0.8025873486341526
+  },
+  "paired_earnings": {
+    "n": 78,
+    "both": 1,
+    "case_only": 7,
+    "control_only": 11,
+    "neither": 59,
+    "chi2": 0.5,
+    "p_value": 0.4795001221869535
+  },
+  "tier_a_hits": [
+    {
+      "symbol": "WMS",
+      "event": "2013-01-31",
+      "alert_dates": [
+        "2013-01-30"
+      ]
+    },
+    {
+      "symbol": "LEAP",
+      "event": "2013-07-15",
+      "alert_dates": [
+        "2013-07-11"
+      ]
+    },
+    {
+      "symbol": "RAD",
+      "event": "2015-10-27",
+      "alert_dates": [
+        "2015-10-16"
+      ]
+    },
+    {
+      "symbol": "CTB",
+      "event": "2013-06-12",
+      "alert_dates": [
+        "2013-06-03"
+      ]
+    },
+    {
+      "symbol": "CYT",
+      "event": "2015-07-29",
+      "alert_dates": [
+        "2015-07-17"
+      ]
+    },
+    {
+      "symbol": "LIN",
+      "event": "2014-03-21",
+      "alert_dates": [
+        "2014-03-18"
+      ]
+    },
+    {
+      "symbol": "MEG",
+      "event": "2015-09-28",
+      "alert_dates": [
+        "2015-09-23"
+      ]
+    },
+    {
+      "symbol": "BRLI",
+      "event": "2015-06-04",
+      "alert_dates": [
+        "2015-05-22"
+      ]
+    },
+    {
+      "symbol": "LSCC",
+      "event": "2016-11-03",
+      "alert_dates": [
+        "2016-11-01"
+      ]
+    },
+    {
+      "symbol": "SIG",
+      "event": "2014-02-19",
+      "alert_dates": [
+        "2014-02-12"
+      ]
+    }
+  ],
+  "descriptive": {
+    "tier_a_median_max_ratio": 3.0351517142686473,
+    "tier_a_median_max_share": 0.3911786720005898,
+    "placebo_median_max_ratio": 2.975085490962384,
+    "placebo_median_max_share": 0.40770028519574797,
+    "earnings_median_max_ratio": 3.7912759885854053,
+    "earnings_median_max_share": 0.4015047879616963,
+    "tier_b_median_max_ratio": 3.993175686439387,
+    "tier_b_median_max_share": 0.2846251588310038
+  },
+  "model": {
+    "fit": true,
+    "n_train": 95,
+    "volume_only_holdout_auc": 0.43285123966942146,
+    "holdout_2016": {
+      "n": 66,
+      "positives": 22,
+      "negatives": 44,
+      "auc": 0.5289256198347108,
+      "paired_placebo": {
+        "n": 22,
+        "wins": 11,
+        "losses": 11,
+        "ties": 0,
+        "win_rate": 0.5
+      },
+      "paired_earnings": {
+        "n": 22,
+        "wins": 12,
+        "losses": 10,
+        "ties": 0,
+        "win_rate": 0.5454545454545454
+      },
+      "gap_versus_placebo": {
+        "n": 22,
+        "p10": -0.13478166486427434,
+        "p50": -0.0012541822276534165,
+        "p90": 0.15566440284298258
+      },
+      "gap_versus_earnings": {
+        "n": 22,
+        "p10": -0.10228513280755662,
+        "p50": 0.017243565833719138,
+        "p90": 0.09745216277034408
+      }
+    }
+  }
+}

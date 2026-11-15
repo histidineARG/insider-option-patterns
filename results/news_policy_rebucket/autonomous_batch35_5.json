@@ -1,0 +1,124 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch35_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 0,
+  "n_deferred": 5,
+  "n_timing_deferred": 2,
+  "n_category_deferred": 3,
+  "cumulative_n_policy_reviewed": 296,
+  "review_counts": {
+    "keep": 225,
+    "drop_earnings": 78,
+    "drop_peer_sympathy": 9,
+    "pending_news_review": 92,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 8,
+    "drop_financing": 8,
+    "drop_other_not_234": 224,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 3,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 225,
+    "drop_earnings": 78,
+    "drop_peer_sympathy": 9,
+    "pending_news_review": 87,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 8,
+    "drop_financing": 8,
+    "drop_other_not_234": 229,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 3,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "CRMD",
+      "qdate": "2015-06-01",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Primary premarket release presents Neutrolin post-approval surveillance outcomes from routine use. This is human outcome evidence, but it is not identified as a controlled clinical-trial readout; old exclusion merely for not being pivotal is insufficient under class 3. Resolve clinical-data eligibility and direct jump attribution.",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/cormedix-presents-neutrolin-post-marketing-surveillance-data-at-european-renal-association---european-dialysis-and-transplant-association-era-edta-conference-300092071.html"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "GALT",
+      "qdate": "2014-02-25",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Primary patent announcement is February 26, after jump date; patent issuance itself is dated February 25. Public availability and price attribution on February 25 remain unverified, and patent issuance is not automatically a drug approval or technical breakthrough.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1133416/000119312514068418/d685402dex991.htm",
+        "https://patents.justia.com/assignee/galectin-therapeutics-inc"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "VNDA",
+      "qdate": "2013-05-24",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Same-day 10:41 ET market account confirms rising price and volume but gives no company catalyst. Targeted issuer/date/FDA search did not establish same-session approval or trial success; unrelated later FDA news cannot explain May 24. Leave pending for attribution.",
+      "sources": [
+        "https://www.rttnews.com/2124781/vanda-pharmaceuticals-inc-vnda-has-climbed-to-a-new-high-for-the-year.aspx"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "ADMP",
+      "qdate": "2016-04-14",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Primary announcement of completed US Compounding acquisition was April 12, with agreement originally March 28. Nearby Glover ownership represents merger consideration, not independently verified activism. Direct April 14 attribution and any later incremental deal news remain unresolved; do not infer same-day takeout from earlier closing.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/887247/000138713116004941/ex99-1.htm",
+        "https://www.sec.gov/Archives/edgar/data/1671547/000138713116004984/xslF345X03/glover-form4_041316.xml"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SGMO",
+      "qdate": "2013-01-14",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted issuer/date/HIV search recovered archival price-gainer and investment-article links but no verified same-session clinical readout, commercial agreement or approval. Price-gainer listings alone do not establish cause. Leave pending for primary event and price attribution.",
+      "sources": [
+        "https://tigersoft.com/xxxindex.htm"
+      ],
+      "defer_reason": "category"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

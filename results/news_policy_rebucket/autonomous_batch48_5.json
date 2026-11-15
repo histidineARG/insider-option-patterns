@@ -1,0 +1,126 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch48_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 1,
+  "n_deferred": 4,
+  "n_timing_deferred": 2,
+  "n_category_deferred": 2,
+  "cumulative_n_policy_reviewed": 361,
+  "review_counts": {
+    "keep": 234,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 11,
+    "pending_news_review": 138,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 22,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 159,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 234,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 134,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 22,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 164,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "CBIO",
+      "qdate": "2015-08-31",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The merger and ticker transition were completed August 20–21, before the August 31 jump. The cited corporate action establishes the listing history but does not establish an eligible August 31 catalyst or prove a mechanical price effect; retain pending pending date-specific attribution.",
+      "sources": [
+        "https://ir.catalystbiosciences.com/news-releases/news-release-details/catalyst-biosciences-completes-merger-targacept-and-creates",
+        "https://www.sec.gov/Archives/edgar/data/1124105/000119312515297752/d24322dex991.htm"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "TROX",
+      "qdate": "2015-10-06",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "A contemporaneous buyout-rumor report describes Tronox surging more than 25%, but dates that reaction October 8, 2015, while this ledger row is October 6. The event may qualify as M&A rumor if linked to this session; defer until the date discrepancy is resolved.",
+      "sources": [
+        "https://www.stamfordadvocate.com/business/article/Stamford-co-stock-spikes-on-buyout-rumors-6558387.php",
+        "https://www.cnbc.com/2015/10/06/european-markets.html"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "GLF",
+      "qdate": "2016-03-07",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The legacy note attributes the jump to a broad oil and commodity rally, but the available cited report establishes the market backdrop rather than directly tying GulfMark’s March 7 session move to it. Defer the cause classification pending a contemporaneous security-specific attribution.",
+      "sources": [
+        "https://www.reuters.com/article/global-markets/global-markets-brent-hits-2016-peak-above-40-u-s-stocks-dip-idUKL1N16F1IJ/",
+        "https://www.gib.com/sites/default/files/forecasting_financial_trends_was_never_simple_especially_when_sudden_shifts_in_sentiment_rule_04.03.2016.pdf"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "RNA",
+      "qdate": "2014-05-23",
+      "decision": "drop",
+      "cause_class": "peer_sympathy",
+      "jump_cause": null,
+      "news_filter": "drop_peer_sympathy",
+      "rationale": "Contemporaneous May 23 report directly says Prosensa rose in sympathy with PTC Therapeutics after European regulators recommended conditional approval of Translarna. This is peer sympathy, not a Prosensa-specific clinical result; classify as excluded peer sympathy.",
+      "sources": [
+        "https://www.thestreet.com/investing/ptc-therapeutics-gets-warm-hug-from-europe-for-dmd-drug-12720041",
+        "https://www.globenewswire.com/news-release/2014/05/20/637807/26927/en/prosensa-announces-1st-quarter-2014-financial-results-and-recent-corporate-developments.html"
+      ]
+    },
+    {
+      "symbol": "VJET",
+      "qdate": "2014-12-26",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Contemporaneous coverage confirms Voxeljet shares gained about 26% in the prior session but does not identify an eligible company catalyst. Broader 3D-printing weakness and short-interest context do not establish the cause of this specific jump; leave pending.",
+      "sources": [
+        "https://finance.yahoo.com/news/voxeljet-ag-vjet-jumps-stock-140402578.html",
+        "https://247wallst.com/technology-3/2014/12/26/short-sellers-still-piling-on-two-3d-printing-stocks/"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

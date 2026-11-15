@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-05",
-  "coverage": "NON_EXHAUSTIVE; search-index discovery, not full archive census",
+  "as_of": "2026-11-13",
+  "coverage": "NON_EXHAUSTIVE; search-index discovery, not full archive census. afop_2016 added as a named acquisition case; the charged trades are common shares, not call purchases.",
   "trade_date_scope": "2013-01-01 onward",
   "cases": [
     {
@@ -123,6 +123,28 @@
       "notes": "Ticker reused by later ADT listing; analysis bounded to 2016.",
       "event_date_verified": true,
       "contract_set_scope": "documented_series_or_subset"
+    },
+    {
+      "id": "afop_2016",
+      "symbol": "AFOP",
+      "issuer": "Alliance Fiber Optic Products",
+      "actor": "Peter C. Chang and his brother",
+      "trade_start": "2016-02-19",
+      "trade_end": "2016-04-07",
+      "event_date": "2016-04-07",
+      "source_url": "https://www.sec.gov/files/litigation/complaints/2017/comp-pr2017-168.pdf",
+      "source_locator": "paragraphs 51-56",
+      "source_accessed": "2026-11-13",
+      "instrument": "common_stock",
+      "evidence_status": "complaint_allegation",
+      "window_quality": "documented_interval",
+      "announcement_session": "after_close",
+      "contracts": [],
+      "notes": "Corning cash tender at $18.50. The complaint alleges share purchases in nominee accounts from 2016-02-19 through the close on 2016-04-07, plus a tip to his brother. It distinguishes those purchases from compensation options he already held. The press release went out after the close on 2016-04-07, so the reaction session is 2016-04-08. The buy window starts on the 2016-02-19 earnings release.",
+      "announcement_timing_source": "https://www.sec.gov/files/litigation/complaints/2017/comp-pr2017-168.pdf",
+      "announcement_timing_locator": "paragraph 56: press release after the close on April 7, 2016",
+      "event_date_verified": true,
+      "contract_set_scope": "not_applicable_common_stock"
     },
     {
       "id": "joy_2016",

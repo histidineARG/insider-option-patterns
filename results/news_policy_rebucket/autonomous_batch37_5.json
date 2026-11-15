@@ -1,0 +1,122 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch37_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 3,
+  "n_deferred": 2,
+  "n_timing_deferred": 0,
+  "n_category_deferred": 2,
+  "cumulative_n_policy_reviewed": 306,
+  "review_counts": {
+    "keep": 227,
+    "drop_earnings": 78,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 96,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 9,
+    "drop_financing": 8,
+    "drop_other_not_234": 214,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 227,
+    "drop_earnings": 78,
+    "drop_peer_sympathy": 10,
+    "pending_news_review": 94,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 21,
+    "drop_analyst": 8,
+    "drop_financing": 8,
+    "drop_other_not_234": 219,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 3,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "RMTI",
+      "qdate": "2014-11-04",
+      "decision": "drop",
+      "cause_class": "regulatory_process",
+      "jump_cause": "regulatory_process",
+      "news_filter": "drop_regulatory_process",
+      "rationale": "Same-day report directly attributes rising Rockwell shares to FDA briefing documents for forthcoming advisory panel. Document review and anticipation are not final approval or new company clinical readout. Subsequent panel vote and financial results cannot be backdated.",
+      "sources": [
+        "https://www.thestreet.com/investing/fda-review-of-rockwells-dialysis-therapy-raises-doubts-about-need-12939832",
+        "https://getfilings.com/sec-filings/141107/ROCKWELL-MEDICAL-INC_8-K/"
+      ]
+    },
+    {
+      "symbol": "SRNE",
+      "qdate": "2015-12-22",
+      "decision": "drop",
+      "cause_class": "analyst",
+      "jump_cause": "analyst",
+      "news_filter": "drop_analyst",
+      "rationale": "Next-morning report explicitly describes Tuesday December 22 FBR Outperform initiation and resulting price rise. Confirms legacy analyst attribution; no new company clinical readout or commercial partnership established by that coverage.",
+      "sources": [
+        "https://www.rttnews.com/2594069/sorrento-therapeutics-inc-srne-rose-to-a-6-week-high.aspx"
+      ]
+    },
+    {
+      "symbol": "ESI",
+      "qdate": "2015-02-03",
+      "decision": "drop",
+      "cause_class": "passive_ownership",
+      "jump_cause": "passive_ownership",
+      "news_filter": "drop_passive_ownership",
+      "rationale": "Primary BlackRock 13G/A confirms 5.4% ownership and certifies ordinary-course holdings without intent to influence control. Retain legacy ownership attribution as excluded; it is not class 11 activism. December 31 reporting date and January 12 signature do not certify original publication timing.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/922475/000108636415001553/itt.educational.serv.txt"
+      ]
+    },
+    {
+      "symbol": "PBYI",
+      "qdate": "2015-03-05",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Same-day account attributes move to Citigroup target change plus AbbVie/Pharmacyclics deal read-through, and speculates Puma could be next. Distinguish generic peer valuation speculation from eligible issuer takeover rumor; no actual Puma bid or talks verified. Earlier-week earnings do not automatically explain this later session. Leave pending for class 2 versus analyst/peer eligibility.",
+      "sources": [
+        "https://www.fool.com/investing/general/2015/03/05/the-under-the-radar-reason-why-puma-biotechnology.aspx",
+        "https://www.pumabiotechnology.com/news/news-archive.html"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "ADXS",
+      "qdate": "2016-03-02",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Recovered dated March 2 ETF-mover excerpt identifies Advaxis gain within biotech ETF rally, but describes performance rather than attributing cause. Targeted company/date search did not establish a same-session issuer event. Sector membership alone is insufficient to confirm legacy macro attribution; leave pending.",
+      "sources": [
+        "https://www.forbes.com/investment-funds/mtum/",
+        "https://www.forbes.com/sites/marketnewsvideo/2016/03/02/wednesdays-etf-movers-xbi-mtum/"
+      ],
+      "defer_reason": "category"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

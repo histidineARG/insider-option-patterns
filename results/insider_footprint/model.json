@@ -1,0 +1,139 @@
+{
+  "fit": true,
+  "ridge": 1.0,
+  "features": [
+    "log_volume_ratio",
+    "band_share",
+    "top_share",
+    "call_fraction",
+    "log_band_turnover"
+  ],
+  "train_years": [
+    2013,
+    2014
+  ],
+  "n_train": 95,
+  "coefficients": {
+    "intercept": -0.5073454094474716,
+    "log_volume_ratio": 0.18090661360079355,
+    "band_share": -0.06553471406958879,
+    "top_share": 0.13291742102318738,
+    "call_fraction": 0.242472444053852,
+    "log_band_turnover": -0.0026150931952867245
+  },
+  "standardization": {
+    "mean": {
+      "log_volume_ratio": 1.6028582179525575,
+      "band_share": 0.14086479306125194,
+      "top_share": 0.45531489402955133,
+      "call_fraction": 0.8193953952603927,
+      "log_band_turnover": 0.5126882612303545
+    },
+    "sd": {
+      "log_volume_ratio": 0.992338777594843,
+      "band_share": 0.25043032503182683,
+      "top_share": 0.45385174164950515,
+      "call_fraction": 0.2163917506032565,
+      "log_band_turnover": 1.3390691216785495
+    }
+  },
+  "folds": {
+    "train": {
+      "n": 95,
+      "positives": 36,
+      "negatives": 59,
+      "auc": 0.602165725047081,
+      "paired_placebo": {
+        "n": 28,
+        "wins": 15,
+        "losses": 13,
+        "ties": 0,
+        "win_rate": 0.5357142857142857
+      },
+      "paired_earnings": {
+        "n": 31,
+        "wins": 21,
+        "losses": 10,
+        "ties": 0,
+        "win_rate": 0.6774193548387096
+      },
+      "gap_versus_placebo": {
+        "n": 28,
+        "p10": -0.07432834644426242,
+        "p50": 0.012044769702773073,
+        "p90": 0.1425434800927009
+      },
+      "gap_versus_earnings": {
+        "n": 31,
+        "p10": -0.0723833853175474,
+        "p50": 0.024795291605984593,
+        "p90": 0.12933123644258115
+      }
+    },
+    "validation_2015": {
+      "n": 79,
+      "positives": 27,
+      "negatives": 52,
+      "auc": 0.542022792022792,
+      "paired_placebo": {
+        "n": 27,
+        "wins": 19,
+        "losses": 8,
+        "ties": 0,
+        "win_rate": 0.7037037037037037
+      },
+      "paired_earnings": {
+        "n": 25,
+        "wins": 14,
+        "losses": 11,
+        "ties": 0,
+        "win_rate": 0.56
+      },
+      "gap_versus_placebo": {
+        "n": 27,
+        "p10": -0.060478304173682856,
+        "p50": 0.022068270291385028,
+        "p90": 0.11158284771743078
+      },
+      "gap_versus_earnings": {
+        "n": 25,
+        "p10": -0.11136996526596436,
+        "p50": 0.014056114548748777,
+        "p90": 0.08374254495306907
+      }
+    },
+    "holdout_2016": {
+      "n": 66,
+      "positives": 22,
+      "negatives": 44,
+      "auc": 0.5289256198347108,
+      "paired_placebo": {
+        "n": 22,
+        "wins": 11,
+        "losses": 11,
+        "ties": 0,
+        "win_rate": 0.5
+      },
+      "paired_earnings": {
+        "n": 22,
+        "wins": 12,
+        "losses": 10,
+        "ties": 0,
+        "win_rate": 0.5454545454545454
+      },
+      "gap_versus_placebo": {
+        "n": 22,
+        "p10": -0.13478166486427434,
+        "p50": -0.0012541822276534165,
+        "p90": 0.15566440284298258
+      },
+      "gap_versus_earnings": {
+        "n": 22,
+        "p10": -0.10228513280755662,
+        "p50": 0.017243565833719138,
+        "p90": 0.09745216277034408
+      }
+    }
+  },
+  "volume_only_holdout_auc": 0.43285123966942146
+}

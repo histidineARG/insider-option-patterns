@@ -1,0 +1,141 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch04_8",
+  "n_reviewed": 8,
+  "n_promoted_to_keep": 3,
+  "n_confirmed_drop": 1,
+  "n_timing_deferred": 3,
+  "cumulative_n_policy_reviewed": 76,
+  "review_counts": {
+    "keep": 198,
+    "drop_earnings": 20,
+    "drop_other_not_234": 444,
+    "drop_mechanical": 1,
+    "pending_news_review": 10,
+    "drop_macro_sector": 3,
+    "drop_analyst": 2,
+    "drop_financing": 2,
+    "drop_etf": 1
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 195,
+    "drop_earnings": 19,
+    "drop_other_not_234": 452,
+    "drop_mechanical": 1,
+    "pending_news_review": 6,
+    "drop_macro_sector": 3,
+    "drop_analyst": 2,
+    "drop_financing": 2,
+    "drop_etf": 1
+  },
+  "changes": [
+    {
+      "symbol": "CPSI",
+      "qdate": "2015-11-25",
+      "decision": "keep",
+      "cause_class": "2_ma_news",
+      "jump_cause": "ma_news",
+      "news_filter": "keep",
+      "rationale": "November 25 release announces acquisition of Healthland, and contemporaneous market coverage links CPSI gains to that announcement. CPSI is the buyer. METHODOLOGY section 9 class-2 note permits acquirer news when reviewed as the attributed jump cause; retain acquirer role explicitly.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1169445/000116944515000016/exhibit991-pressrelease.htm",
+        "https://cdn1.benzinga.com/news/15/11/6002305/morning-market-gainers"
+      ]
+    },
+    {
+      "symbol": "HZNP",
+      "qdate": "2015-03-30",
+      "decision": "keep",
+      "cause_class": "2_ma_news",
+      "jump_cause": "ma_news",
+      "news_filter": "keep",
+      "rationale": "March 30 Hyperion filing documents Horizon acquisition terms. Contemporaneous market coverage links Horizon gains to the deal. Horizon is the buyer; apply the explicit class-2 acquirer exception in METHODOLOGY section 9, not a target-takeover label.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1386858/000119312515112089/d899299d8k.htm",
+        "https://www.yahoo.com/news/irelands-horizon-buy-u-drugmaker-hyperion-1-1-105734739--finance.html"
+      ]
+    },
+    {
+      "symbol": "NEO",
+      "qdate": "2015-10-21",
+      "decision": "keep",
+      "cause_class": "2_ma_news",
+      "jump_cause": "ma_news",
+      "news_filter": "keep",
+      "rationale": "October 21 issuer release announces the Clarient acquisition and an 11 a.m. ET transaction call. Retain existing acquisition-led jump attribution; NEO is explicitly the buyer, qualifying under METHODOLOGY section 9 acquirer exception. GE receiving stock is transaction consideration rather than a standalone financing catalyst.",
+      "sources": [
+        "https://ir.neogenomics.com/news-events/press-releases/detail/55/neogenomics-signs-definitive-agreement-to-acquire-clarient-inc"
+      ]
+    },
+    {
+      "symbol": "BRLI",
+      "qdate": "2014-06-05",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "June 5 issuer release reports Q2 revenues, volumes, margins and EPS. Retain earnings exclusion despite positive operating headline.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/792641/000110465914044132/a14-14872_1ex99d1.htm"
+      ]
+    },
+    {
+      "symbol": "CSIQ",
+      "qdate": "2015-02-03",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Recurrent acquisition could qualify under the class-2 acquirer exception, but issuer page and later financial release identify February 2 announcement while Sharp notice is February 3. Exact public-release timing is unresolved for February 3 reaction; defer rather than assign a same-session keep.",
+      "sources": [
+        "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-acquire-recurrent-energy-sharp-corporation-265",
+        "https://global.sharp/corporate/ir/topics/pdf/150203-3.pdf",
+        "https://www.sec.gov/Archives/edgar/data/1375877/000110465915016914/a15-6048_1ex99d1.htm"
+      ]
+    },
+    {
+      "symbol": "PDCE",
+      "qdate": "2014-12-09",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Standalone 2015 budget and roughly 50% year-over-year production-growth outlook could fit class 8, but primary release is December 8. Exact announcement time and novelty relative to prior outlook are unresolved for December 9 jump.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/77877/000119312514438892/d835521dex991.htm"
+      ]
+    },
+    {
+      "symbol": "OKE",
+      "qdate": "2013-07-25",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "July 25 release authorizes pursuit of ONE Gas spin-off and schedules a July 26 call. Strategic separation could fit class 11, but exact release time and attribution to July 25 rather than July 26 need verification. Do not conflate a future separation plan with a mechanical ex-distribution print.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1039684/000103968413000074/okeannouncesonegasnewsrele.htm"
+      ]
+    },
+    {
+      "symbol": "REFR",
+      "qdate": "2015-03-30",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "March 30 filing confirms Lincoln Continental Concept used SPD-SmartGlass. A concept-car showcase alone does not establish a material commercial order or production launch. Defer class 5/10 eligibility pending evidence of commercialization rather than treat marketing language as a technical breakthrough.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/793524/000120677415001077/refr_8k.htm"
+      ]
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ],
+  "n_deferred": 4,
+  "n_category_deferred": 1
+}

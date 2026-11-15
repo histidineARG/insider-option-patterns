@@ -1,0 +1,15 @@
+# autonomous_batch45_5
+
+Reviewed 2026-11-12. {'keep': 1, 'defer': 4}
+
+- **IONS 2016-11-07 — keep / 3_biotech_trial**: Primary November 7 07:31 ET release reports CHERISH Phase 3 Spinraza interim primary-endpoint success. Same-day coverage links Ionis surge to readout. Original post-election explanation is impossible before November 8 election. Class 3 applies. [Source 1](https://ir.ionis.com/node/12436) [Source 2](https://ir.ionispharma.com/static-files/8bb21e8a-754c-429f-8de3-828cacb4e8c6) [Source 3](https://www.biospace.com/stocks-rocket-as-biogen-ionis-pharma-halt-study-on-positive-phase-iii)
+- **XLRN 2016-11-09 — defer / unclassified**: Primary results were November 3 after close, with separately reported November 4 reaction. December recap describes post-election gains but not direct November 9 attribution. No recovered session-specific readout establishes keep; sector candidate remains unverified. [Source 1](https://www.sec.gov/Archives/edgar/data/1280600/000128060016000113/xlrn-20161103ex991.htm) [Source 2](https://247wallst.com/health-and-healthcare/2016/11/04/acceleron-pharma-rises-despite-q3-revenue-miss/) [Source 3](https://www.investing.com/analysis/acceleron%2C-celgene-present-myelodysplastic-syndromes-data-200168211)
+- **MGNX 2016-11-09 — defer / unclassified**: Primary third-quarter results and pipeline update were November 2, one week earlier. Targeted session searches did not establish November 9 company catalyst or direct election-price attribution; do not infer blanket biotech classification. [Source 1](https://ir.macrogenics.com/news-releases/news-release-details/macrogenics-provides-update-corporate-progress-and-third-1)
+- **HEES 2016-11-09 — defer / unclassified**: Primary quarterly results were October 27, not jump session. Election-infrastructure explanation remains plausible but targeted searches did not recover issuer-specific November 9 price attribution or eligible announcement. [Source 1](https://www.sec.gov/Archives/edgar/data/1339605/000119312516748667/d277372dex991.htm)
+- **GSM 2016-11-10 — defer / unclassified**: Primary trust distribution announcement was November 7 and results November 14. Neither establishes attributable November 10 jump; original election-materials explanation lacks recovered session-specific confirmation. [Source 1](https://www.sec.gov/Archives/edgar/data/1639877/000119312516762655/d173472dex991.htm) [Source 2](https://www.sec.gov/Archives/edgar/data/1639877/000119312516766789/d286857d6k.htm)
+
+Current ledger: {'keep': 234, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 124, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 22, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 174, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 2, 'drop_short_covering_media': 1, 'drop_etf': 2}.
+
+No database-derived snapshot or saved news queue refreshed.
+Existing price attribution retained unless a conflict is explicitly deferred.
+No exhaustive earlier-public search; no training or evaluation gates unlocked.

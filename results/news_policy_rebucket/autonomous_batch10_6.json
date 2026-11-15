@@ -1,0 +1,132 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch10_6",
+  "n_reviewed": 6,
+  "n_promoted_to_keep": 1,
+  "n_confirmed_drop": 3,
+  "n_deferred": 2,
+  "n_timing_deferred": 2,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 141,
+  "review_counts": {
+    "keep": 206,
+    "drop_earnings": 35,
+    "drop_other_not_234": 379,
+    "pending_news_review": 30,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 8,
+    "drop_analyst": 6,
+    "drop_financing": 6,
+    "drop_peer_sympathy": 3,
+    "drop_regulatory_process": 2,
+    "drop_operating_update": 1,
+    "drop_peer_earnings": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 1
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 205,
+    "drop_earnings": 32,
+    "drop_other_not_234": 385,
+    "pending_news_review": 28,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 8,
+    "drop_analyst": 6,
+    "drop_financing": 6,
+    "drop_peer_sympathy": 3,
+    "drop_regulatory_process": 2,
+    "drop_operating_update": 1,
+    "drop_peer_earnings": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 1
+  },
+  "changes": [
+    {
+      "symbol": "EXPR",
+      "qdate": "2014-06-13",
+      "decision": "keep",
+      "cause_class": "11_activist_alt",
+      "jump_cause": "activist_alt",
+      "news_filter": "keep",
+      "rationale": "June 12 issuer release confirms Sycamore interest in acquiring Express, a 9.9% stake, a special committee and a rights plan; June 13 market coverage attributes gains to the buyout interest. Class 11 strategic-alternatives process rather than a definitive acquisition. Announcement-day and first-public bounds remain separate from this category review.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1483510/000119312514235388/d742569dex991.htm",
+        "https://www.bizjournals.com/columbus/blog/2014/06/express-shares-soar-on-sycamore-s-buyout-interest.html",
+        "https://www.sec.gov/Archives/edgar/data/1609768/000110465914045691/a14-15176_1ex99d3.htm"
+      ]
+    },
+    {
+      "symbol": "CRTO",
+      "qdate": "2014-11-05",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "November 4 issuer release reports Q3 financial results, raises full-year guidance and schedules its results call for 5 p.m. ET that day. Supports the November 5 earnings-reaction category; guidance bundled with results remains class 1. Exact initial release time is not independently certified.",
+      "sources": [
+        "https://criteo.investorroom.com/2014-11-04-Criteo-Reports-Record-Results-for-the-Third-Quarter-2014-and-Increases-Full-Year-2014-Guidance"
+      ]
+    },
+    {
+      "symbol": "SWIR",
+      "qdate": "2016-05-06",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "May 5 issuer release reports Q1 results and schedules the results call for 5:30 p.m. ET. Supports next-session earnings attribution; outlook inside results does not qualify separately as class 8.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1111863/000111186316000038/a2016q1pressrelease.htm"
+      ]
+    },
+    {
+      "symbol": "RDNT",
+      "qdate": "2014-05-09",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "May 9 issuer release reports Q1 financial results and raises several annual guidance ranges. Earnings event replaces the unsupported unclassified description; guidance within quarterly results remains class 1.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/790526/000101968714001757/radnet_8k-ex9901.htm",
+        "https://www.sec.gov/Archives/edgar/data/790526/000101968714001757/radnet_8k-050914.htm"
+      ]
+    },
+    {
+      "symbol": "HRTX",
+      "qdate": "2015-09-23",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Primary September 22 release reports positive HTX-011 Phase 2 data and schedules September 23 8:30 a.m. ET call. September 23 analyst coverage discusses those data. Clinical-readout category is established, but exact September 22 first-public time remains unresolved, so defer September 23 reaction mapping rather than leave a generic no-news drop.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/818033/000119312515325677/d46378dex991.htm",
+        "https://www.sec.gov/Archives/edgar/data/818033/000119312515325677/d46378d8k.htm",
+        "https://www.benzinga.com/analyst-ratings/analyst-color/15/09/5859668/heron-therapeutics-has-even-more-upside-robust-data-show"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "NOAH",
+      "qdate": "2013-05-28",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Located Q1 issuer release is May 6, not May 28. It cannot support a fresh May 28 earnings or outlook attribution. Targeted issuer/date and results searches did not establish an attributable same-session catalyst; keep unknown pending rather than certify an unexplained drop from the legacy generic locator.",
+      "sources": [
+        "https://ir.noahgroup.com/news-releases/news-release-details/noah-holdings-limited-announces-unaudited-financial-results-2/"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

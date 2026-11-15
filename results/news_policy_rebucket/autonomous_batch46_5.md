@@ -1,0 +1,15 @@
+# autonomous_batch46_5
+
+Reviewed 2026-11-12. {'defer': 5}
+
+- **PLUG 2014-03-07 — defer / unclassified**: Issuer confirms March 7 CNBC CEO appearance; price reporting links 30% rally to interview. Walmart contract was already public and March 6 offering is financing. Interview transcript needed to establish whether new material standalone outlook qualifies under class 8; appearance alone does not decide eligibility. [Source 1](https://www.plugpower.com/blog/blog-andy-marsh-on-cnbc/) [Source 2](https://moneymorning.com/2014/03/13/plug-power-inc-nasdaq-plug-stock-back-track-results-guidance/?xcode=X304TBH6) [Source 3](https://www.sec.gov/Archives/edgar/data/1093691/000119312514086859/d688923dex991.htm)
+- **LJPC 2015-09-08 — defer / unclassified**: Recovered primary underwriting agreement dates September 9. Targeted session searches did not verify attributable September 8 clinical or commercial event. Later financing cannot be assumed to explain earlier regular-session jump. [Source 1](https://www.sec.gov/Archives/edgar/data/920465/000119312515320451/d17765d8k.htm)
+- **NEO 2015-07-09 — defer / unclassified**: Primary quarterly results were July 23, not July 9. Targeted searches recovered no attributable July 9 preliminary results, product launch or transaction disclosure; future results cannot establish this session cause. [Source 1](https://www.sec.gov/Archives/edgar/data/1077183/000119312515260681/d13023dex991.htm)
+- **SNMX 2014-02-12 — defer / unclassified**: Issuer conference release schedules January 14 Needham presentation, not February 12. GRAS milestone in release archive is March 11. Neither establishes attributable February 12 cause; prior conference/momentum explanation remains unverified. [Source 1](https://www.biospace.com/senomyx-inc-to-webcast-corporate-presentation-at-the-16th-annual-b-needham-b-growth-conference) [Source 2](https://www.prnewswire.com/news/Senomyx/)
+- **OSUR 2015-05-18 — defer / unclassified**: May 18 Nasdaq advisory concerns hepatitis-awareness bell appearance and describes an already-approved test. No new approval or attributable session catalyst recovered; promotional reference to existing approval is not class 7 evidence. [Source 1](https://www.globenewswire.com/news-release/2015/05/18/736796/6948/en/orasure-technologies-inc-nasdaq-osur-to-ring-the-nasdaq-stock-market-opening-bell.html)
+
+Current ledger: {'keep': 234, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 129, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 22, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 169, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 2, 'drop_short_covering_media': 1, 'drop_etf': 2}.
+
+No database-derived snapshot or saved news queue refreshed.
+Existing price attribution retained unless a conflict is explicitly deferred.
+No exhaustive earlier-public search; no training or evaluation gates unlocked.

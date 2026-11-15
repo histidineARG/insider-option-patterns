@@ -1,0 +1,170 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch49_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 3,
+  "n_deferred": 7,
+  "n_timing_deferred": 7,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 411,
+  "review_counts": {
+    "keep": 236,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 12,
+    "pending_news_review": 173,
+    "drop_mechanical": 2,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 29,
+    "drop_analyst": 11,
+    "drop_financing": 10,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2,
+    "drop_other_not_234": 109
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "DQ",
+      "qdate": "2013-01-22",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/daqo-new-energy-corp-states-its-policy-not-to-comment-on-unusual-market-activity-or-speculative-matters-188043521.html"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "EYES",
+      "qdate": "2015-11-02",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://labusinessjournal.com/finance/stocks/stocks-rise-second-sight-soars-truecar-brakes/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "MSB",
+      "qdate": "2015-08-10",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://www.cnbc.com/2015/08/10/us-stocks-open-higher-amid-greece-dealmaking.html"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ASMB",
+      "qdate": "2016-10-10",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "http://shareholdersunite.com/mybb/showthread.php?tid=11316"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "VJET",
+      "qdate": "2014-07-01",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": null,
+      "news_filter": "drop_macro_sector",
+      "rationale": "Contemporaneous industry coverage describes a broad 3D-printing stock rally on this date; it does not identify a Voxeljet-specific breakthrough. Exclude as sector sympathy.",
+      "sources": [
+        "https://3dprint.com/7817/3d-printing-stocks-ddd/"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "SM",
+      "qdate": "2016-04-12",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": null,
+      "news_filter": "drop_macro_sector",
+      "rationale": "Same-day market coverage names SM among energy shares rallying on OPEC and credit concerns. This is a sector-wide move, not a company-specific eligible catalyst.",
+      "sources": [
+        "https://www.foxbusiness.com/markets/opec-and-easing-credit-concerns-fuel-a-big-energy-stock-rally-this-week-chk-swn-sm-felp-pkd"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "GLF",
+      "qdate": "2015-11-30",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/GLF?date=2015-11-30&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SJT",
+      "qdate": "2016-01-29",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://markets.financialcontent.com/stocks/quote/historical?Language=english%2F1000&Month=2&Range=3&Symbol=321%3A968278&Year=2016"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "WYNN",
+      "qdate": "2015-10-02",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": null,
+      "news_filter": "drop_macro_sector",
+      "rationale": "Contemporaneous coverage links Wynn and Macau gaming shares to China policy comments supporting Macau\u2019s economy. The move is regional sector sympathy.",
+      "sources": [
+        "https://www.scmp.com/business/article/1863525/macau-casino-stocks-gain-after-china-pledges-support-macau-economy",
+        "https://www.fool.com/investing/general/2015/10/02/wynn-resorts-limited-leads-a-resurgence-of-macau-g.aspx"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "GALT",
+      "qdate": "2014-08-27",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://investor.galectintherapeutics.com/news-releases/news-release-details/galectin-therapeutics-issues-statement-gr-md-02-development"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

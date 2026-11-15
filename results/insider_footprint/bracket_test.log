@@ -1,0 +1,102 @@
+scoring
+load 1d/100
+  hbos 1d 2018
+  hbos 1d 2019
+  hbos 1d 2020
+  hbos 1d 2021
+  hbos 1d 2022
+  hbos 1d 2023
+  hbos 1d 2024
+  hbos 1d 2025
+  hbos 1d holdout
+  iforest 1d 2018
+  iforest 1d 2019
+  iforest 1d 2020
+  iforest 1d 2021
+  iforest 1d 2022
+  iforest 1d 2023
+  iforest 1d 2024
+  iforest 1d 2025
+  iforest 1d holdout
+load 5d/100
+  hbos 5d 2018
+  hbos 5d 2019
+  hbos 5d 2020
+  hbos 5d 2021
+  hbos 5d 2022
+  hbos 5d 2023
+  hbos 5d 2024
+  hbos 5d 2025
+  hbos 5d holdout
+signals 243855 universe 3
+loading prices for 4286 names
+prices 400/4286
+prices 800/4286
+prices 1200/4286
+prices 1600/4286
+prices 2000/4286
+prices 2400/4286
+prices 2800/4286
+prices 3200/4286
+prices 3600/4286
+prices 4000/4286
+prices 4286/4286
+simulating
+paths 243441
+# Long-stock brackets on the anomaly tail
+
+Signals are the anomaly-test HBOS scores for the 1-day and 5-day windows and the isolation-forest scores for the 1-day window, against the 100-day baseline. Top 1% and top 0.5% use the training-score threshold. Top 4 is the four highest scores that day. The bracket is chosen by the highest deduped walk-forward mean. The holdout from 2025-11-13 is not part of that choice.
+
+The fill for the live book is the next session open. The signal-close fill is only a reference. Stops are 3%, 5%, and 8%. Targets are 15%, 20%, 25%, 28.33%, 30%, and 40%. A 5% stop needs a target above 28.33% before a 15% win rate has a positive expectancy, because the payoff ratio then exceeds 5.667. If the stop and the target are both touched in one session, the stop is filled. A gap through the stop is filled at the open. Time exits use that session's close. Costs are 10 bps round trip, plus 10 bps more on a stop. One name is kept once per 20 sessions in the deduped book. Random names are from the same month and the same volatility decile.
+
+## Five percent stop, 20 sessions, HBOS 1-day top 1%, next open
+
+| Target | Theoretical b | Sample | N | Target rate | Stop rate | Time exit | Realized p | Realized b | Mean | Median | Kelly f* | Random mean |
+| ---: | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 15.00% | 3.00 | walk | 19827 | 0.150 | 0.651 | 0.200 | 0.307 | 2.024 | -0.004 | -0.052 | -0.035 | -0.007 |
+| 15.00% | 3.00 | holdout | 2206 | 0.173 | 0.690 | 0.136 | 0.282 | 1.401 | -0.026 | -0.052 | -0.230 | 0.235 |
+| 20.00% | 4.00 | walk | 19724 | 0.096 | 0.668 | 0.236 | 0.288 | 2.172 | -0.005 | -0.052 | -0.040 | -0.007 |
+| 20.00% | 4.00 | holdout | 2201 | 0.121 | 0.714 | 0.165 | 0.259 | 1.559 | -0.028 | -0.052 | -0.217 | 0.235 |
+| 25.00% | 5.00 | walk | 19670 | 0.064 | 0.676 | 0.260 | 0.279 | 2.241 | -0.005 | -0.052 | -0.042 | -0.008 |
+| 25.00% | 5.00 | holdout | 2200 | 0.088 | 0.726 | 0.186 | 0.245 | 1.657 | -0.028 | -0.052 | -0.210 | 0.236 |
+| 28.33% | 5.67 | walk | 19651 | 0.050 | 0.679 | 0.271 | 0.276 | 2.265 | -0.005 | -0.052 | -0.043 | -0.008 |
+| 28.33% | 5.67 | holdout | 2198 | 0.067 | 0.731 | 0.202 | 0.241 | 1.661 | -0.030 | -0.052 | -0.217 | 0.235 |
+| 30.00% | 6.00 | walk | 19642 | 0.045 | 0.680 | 0.274 | 0.275 | 2.280 | -0.005 | -0.052 | -0.043 | -0.008 |
+| 30.00% | 6.00 | holdout | 2198 | 0.061 | 0.731 | 0.207 | 0.240 | 1.680 | -0.029 | -0.052 | -0.213 | 0.235 |
+| 40.00% | 8.00 | walk | 19608 | 0.025 | 0.685 | 0.290 | 0.270 | 2.320 | -0.006 | -0.052 | -0.045 | -0.009 |
+| 40.00% | 8.00 | holdout | 2193 | 0.035 | 0.736 | 0.228 | 0.234 | 1.800 | -0.028 | -0.052 | -0.192 | 0.235 |
+
+## Best walk-forward bracket for each signal, and its holdout
+
+| Signal | Stop | Target | Hold | Sample | Deduped mean | Median | Realized p | Realized b | Kelly f* | Random mean | Close-entry mean |
+| --- | ---: | ---: | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| hbos 1d p1 | 3% | 15.00% | 10 | walk | -0.001 | -0.032 | 0.258 | 2.706 | -0.016 | -0.004 | -0.002 |
+| hbos 1d p1 | 3% | 15.00% | 10 | holdout | -0.019 | -0.032 | 0.235 | 1.739 | -0.205 | -0.011 | -0.016 |
+| hbos 1d p05 | 3% | 15.00% | 10 | walk | -0.005 | -0.032 | 0.253 | 2.413 | -0.057 | -0.003 | -0.003 |
+| hbos 1d p05 | 3% | 15.00% | 10 | holdout | -0.016 | -0.032 | 0.226 | 1.943 | -0.173 | -0.015 | -0.016 |
+| hbos 1d top4 | 3% | 15.00% | 10 | walk | -0.004 | -0.032 | 0.256 | 2.458 | -0.046 | -0.003 | -0.003 |
+| hbos 1d top4 | 3% | 15.00% | 10 | holdout | -0.014 | -0.032 | 0.251 | 1.919 | -0.139 | -0.016 | -0.018 |
+| hbos 5d p1 | 3% | 15.00% | 10 | walk | -0.006 | -0.032 | 0.247 | 2.339 | -0.075 | 0.005 | -0.004 |
+| hbos 5d p1 | 3% | 15.00% | 10 | holdout | -0.023 | -0.032 | 0.219 | 1.619 | -0.264 | -0.015 | -0.024 |
+| hbos 5d p05 | 3% | 15.00% | 10 | walk | -0.003 | -0.032 | 0.250 | 2.590 | -0.040 | -0.004 | -0.003 |
+| hbos 5d p05 | 3% | 15.00% | 10 | holdout | -0.021 | -0.032 | 0.234 | 1.730 | -0.209 | -0.019 | -0.031 |
+| hbos 5d top4 | 3% | 15.00% | 10 | walk | -0.005 | -0.032 | 0.235 | 2.637 | -0.054 | -0.005 | -0.003 |
+| hbos 5d top4 | 3% | 15.00% | 10 | holdout | -0.022 | -0.032 | 0.247 | 1.616 | -0.219 | -0.011 | -0.030 |
+| iforest 1d p1 | 8% | 15.00% | 40 | walk | 0.030 | -0.082 | 0.366 | 2.545 | 0.117 | 0.026 | 0.035 |
+| iforest 1d p1 | 8% | 15.00% | 40 | holdout | 0.073 | -0.082 | 0.358 | 3.299 | 0.163 | -0.030 | -0.036 |
+| iforest 1d p05 | 3% | 15.00% | 20 | walk | 0.036 | -0.032 | 0.209 | 8.352 | 0.114 | -0.008 | 0.022 |
+| iforest 1d p05 | 3% | 15.00% | 20 | holdout | -0.028 | -0.032 | 0.194 | 1.760 | -0.264 | -0.016 | -0.023 |
+| iforest 1d top4 | 3% | 15.00% | 10 | walk | -0.005 | -0.032 | 0.255 | 2.338 | -0.063 | -0.005 | -0.003 |
+| iforest 1d top4 | 3% | 15.00% | 10 | holdout | -0.022 | -0.032 | 0.243 | 1.493 | -0.264 | -0.012 | -0.020 |
+
+## Chosen rule
+
+Walk-forward choice: iforest 1-day p05, stop 3%, target 15.00%, hold 20 sessions.
+One percent risk, 20 names at most: terminal 0.000, CAGR -0.880, max drawdown 1.000, Sharpe -1.301.
+Quarter-Kelly risk 0.029: terminal 0.000, CAGR -1.000, max drawdown 1.000, Sharpe -1.042.
+
+## Verdict
+
+iforest 1-day p05, stop 3%, target 15.00%, 20 sessions is the walk-forward choice. In the holdout the deduped mean is -0.028 and the matched random mean is -0.016, a difference of -0.012. The bracket does not beat the random book with a positive expectancy. Buying the stock on the anomaly and bracketing it is not an improvement on doing the same trade at random.
+
+EXIT:0

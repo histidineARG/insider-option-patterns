@@ -1,0 +1,15 @@
+# autonomous_batch33_5
+
+Reviewed 2026-11-12. {'drop': 3, 'defer': 2}
+
+- **NE 2016-03-04 — drop / peer_sympathy**: Peer-led relief rally; no issuer-specific keep event. [Source 1](https://www.foxbusiness.com/markets/offshore-oil-gas-stocks-gain-big-on-seadrills-potential-bailout-sdrl-rig-esv-ne-tdw) [Source 2](https://www.fool.com/investing/general/2016/03/04/short-sellers-are-getting-scorched-as-the-atwood-o.aspx)
+- **RIG 2016-03-04 — drop / peer_sympathy**: Peer-led relief rally; no issuer-specific keep event. [Source 1](https://www.foxbusiness.com/markets/offshore-oil-gas-stocks-gain-big-on-seadrills-potential-bailout-sdrl-rig-esv-ne-tdw)
+- **TDW 2016-03-04 — defer / unclassified**: Issuer legal-enforcement announcement is March 1, and trade coverage is March 3. March 4 commentary conflicts with that chronology. A legal unlock is plausible under class 9, but no distinct March 4 decision or first-public release is verified. Do not treat the earlier enforcement permission as a same-day award or received payment. [Source 1](https://investor.tdw.com/news/news-details/2016/ICSID-Decides-that-Tidewater-is-Now-Free-to-Enforce-37-Million-of-the-65-Million-Arbitral-Award-for-the-Taking-of-the-Companys-Venezuelan-Operations/default.aspx) [Source 2](https://www.marinelog.com/offshore/oil-gas/tidewater-gets-ok-to-try-to-collect-part-of-venezuela-award/)
+- **CLR 2016-11-30 — drop / macro_sector**: Contemporaneous account explicitly links Continental Resources share gain to OPEC output agreement and oil-price rally. Retain commodity-policy exclusion; agreement is between producer countries, not an issuer customer contract. [Source 1](https://oilprice.com/Energy/Energy-General/3-Billion-In-3-Hours-Energy-Mogul-Hamm-Cashes-In-On-OPEC-Deal.html) [Source 2](https://ca.investing.com/news/stock-market-news/global-markets-oil-jumps-on-opec-deal%3B-bond-rout-resumes-106374)
+- **NRP 2016-06-20 — defer / unclassified**: Legacy market-mover locator does not discuss Natural Resource Partners; it covers five other issuers. Primary Williston asset-sale announcement was June 14, six days earlier. Commodity rebound supplies context, but direct June 20 catalyst is unverified; leave pending rather than certify unsupported legacy attribution. [Source 1](https://www.insidermonkey.com/blog/heres-why-these-five-stocks-are-advancing-on-monday-461071/) [Source 2](https://www.prnewswire.com/news-releases/natural-resource-partners-to-sell-non-operated-oil-and-gas-working-interest-assets-300284062.html)
+
+Current ledger: {'keep': 225, 'drop_earnings': 77, 'drop_peer_sympathy': 9, 'pending_news_review': 83, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 21, 'drop_analyst': 8, 'drop_financing': 8, 'drop_other_not_234': 234, 'drop_operating_update': 5, 'drop_regulatory_process': 3, 'drop_peer_earnings': 1, 'drop_passive_ownership': 1, 'drop_trial_anticipation': 1, 'drop_short_covering_media': 1, 'drop_etf': 2}.
+
+No database-derived snapshot or saved news queue refreshed.
+Existing price attribution retained unless a conflict is explicitly deferred.
+No exhaustive earlier-public search; no training or evaluation gates unlocked.

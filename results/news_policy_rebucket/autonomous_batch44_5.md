@@ -1,0 +1,15 @@
+# autonomous_batch44_5
+
+Reviewed 2026-11-12. {'drop': 1, 'defer': 4}
+
+- **CMC 2016-11-09 — drop / macro_sector**: Same-session ABC report identifies Commercial Metals rally alongside steel peers on expected trade protection and infrastructure spending after election. This supports macro/sector exclusion, not issuer regulatory approval. [Source 1](https://abcnews.com/Business/stocks-sectors-embattled-obama-rally-trump-election-upset/story?id=43418106)
+- **RYI 2016-11-09 — defer / unclassified**: Issuer third-quarter results were November 2 with November 3 call, not November 9. Broad election/metals coverage does not establish recovered row-specific attribution; original sector explanation remains candidate only. [Source 1](https://ir.ryerson.com/news/news-details/2016/Ryerson-Reports-Third-Quarter-2016-Results/default.aspx) [Source 2](https://republicofmining.com/2016/11/09/copper-hits-15-month-high-after-trump-wins-white-house-by-clara-denina-reuters-u-s-november-9-2016/)
+- **CLF 2016-11-09 — defer / unclassified**: Recovered steel analyst upgrade is November 14, after jump. Election steel rally is plausible but targeted searches did not establish direct November 9 Cliffs attribution. Do not backdate later upgrade or infer issuer cause from peers. [Source 1](https://www.fool.com/investing/2016/11/14/steel-stocks-upgraded-could-trump-triple-prices-fo.aspx) [Source 2](https://abcnews.com/Business/stocks-sectors-embattled-obama-rally-trump-election-upset/story?id=43418106)
+- **AKBA 2015-06-22 — defer / unclassified**: Contemporaneous analyst roundup confirms JMP initiation at Market Outperform with $24 target; prior price was $7.99. Original Reuters locator could not be fetched and no direct jump attribution recovered. Analyst-only explanation remains candidate, not confirmed clinical catalyst or certified exclusion. [Source 1](https://247wallst.com/investing/2015/06/22/top-analyst-upgrades-and-downgrades-alcoa-fireeye-metlife-micron-symantec-and-more/) [Source 2](https://uk.finance.yahoo.com/news/buzz-u-stocks-move-housing-162822477.html)
+- **CARA 2016-11-16 — defer / unclassified**: Targeted session searches did not verify old analyst-target explanation. Recovered Wainwright initiation is October 13, not November 16; later licensing coverage cannot establish this session cause. [Source 1](https://cdn6.benzinga.com/analyst-ratings/analyst-color/16/10/8558122/h-c-wainwright-is-bullish-on-cara-therapeutics-shares)
+
+Current ledger: {'keep': 233, 'drop_earnings': 81, 'drop_peer_sympathy': 10, 'pending_news_review': 120, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 22, 'drop_analyst': 9, 'drop_financing': 8, 'drop_other_not_234': 179, 'drop_operating_update': 5, 'drop_regulatory_process': 4, 'drop_peer_earnings': 1, 'drop_passive_ownership': 2, 'drop_trial_anticipation': 2, 'drop_short_covering_media': 1, 'drop_etf': 2}.
+
+No database-derived snapshot or saved news queue refreshed.
+Existing price attribution retained unless a conflict is explicitly deferred.
+No exhaustive earlier-public search; no training or evaluation gates unlocked.

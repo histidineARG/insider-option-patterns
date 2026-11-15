@@ -1,0 +1,169 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch05_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 4,
+  "n_confirmed_drop": 4,
+  "n_timing_deferred": 2,
+  "cumulative_n_policy_reviewed": 86,
+  "review_counts": {
+    "keep": 202,
+    "drop_earnings": 24,
+    "drop_other_not_234": 434,
+    "drop_mechanical": 1,
+    "pending_news_review": 12,
+    "drop_macro_sector": 3,
+    "drop_analyst": 2,
+    "drop_financing": 2,
+    "drop_etf": 1
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 198,
+    "drop_earnings": 20,
+    "drop_other_not_234": 444,
+    "drop_mechanical": 1,
+    "pending_news_review": 10,
+    "drop_macro_sector": 3,
+    "drop_analyst": 2,
+    "drop_financing": 2,
+    "drop_etf": 1
+  },
+  "changes": [
+    {
+      "symbol": "ESI",
+      "qdate": "2013-04-25",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "April 25 market report attributes historical ITT Educational jump to its quarterly report. Preserve issuer identity caveat; current-page ticker rendering is not a historical issuer map.",
+      "sources": [
+        "https://www.fool.com/investing/general/2013/04/25/why-itt-education-shares-popped.aspx"
+      ]
+    },
+    {
+      "symbol": "ATHN",
+      "qdate": "2013-10-18",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "October 18 report attributes move to Q3 results; Epocrates acquisition contribution is included in the quarter, not new deal news that session.",
+      "sources": [
+        "https://www.fool.com/investing/general/2013/10/18/why-athenahealth-inc-shares-skyrocketed.aspx"
+      ]
+    },
+    {
+      "symbol": "TRNX",
+      "qdate": "2013-08-07",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "August 7 market account attributes Tornier shares move to Q2 earnings. Preserve historical Tornier identity; do not assume a modern TRNX ticker identifies the same security.",
+      "sources": [
+        "https://www.fool.com/investing/general/2013/08/07/why-tornier-nv-shares-soared.aspx"
+      ]
+    },
+    {
+      "symbol": "TRIB",
+      "qdate": "2015-10-22",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "Issuer release and 6-K report Q3 financial results on October 22. Earnings exclusion applies.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/888721/000119312515351408/d82368d6k.htm",
+        "https://trinitybiotech.com/wp-content/uploads/2015/10/Trinity-Biotech-Announces-Q3-2015-Financial-Results.pdf"
+      ]
+    },
+    {
+      "symbol": "FSLR",
+      "qdate": "2014-03-19",
+      "decision": "keep",
+      "cause_class": "8_guidance_stepup",
+      "jump_cause": "guidance_stepup",
+      "news_filter": "keep",
+      "rationale": "March 19 analyst-day release supplies standalone 2014 guidance and targets through 2016; contemporaneous market coverage identifies optimistic multiyear outlook as the catalyst. This is not a quarterly results release.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1274494/000127449414000013/ex991pressreleaseanalystda.htm",
+        "https://moneymorning.com/2014/03/19/first-solar-nasdaq-fslr-stock-21-today-headed-now"
+      ]
+    },
+    {
+      "symbol": "ATHN",
+      "qdate": "2016-12-15",
+      "decision": "keep",
+      "cause_class": "8_guidance_stepup",
+      "jump_cause": "guidance_stepup",
+      "news_filter": "keep",
+      "rationale": "December 14 issuer release timestamped 16:01 ET introduces 2017 guidance ahead of December 15 investor summit; next-session coverage attributes the rise to the outlook. Separate forward outlook event fits class 8.",
+      "sources": [
+        "https://www.globenewswire.com/news-release/2016/12/14/897715/8231/en/athenahealth-Inc-Reaffirms-Fiscal-Year-2016-Guidance-and-Initiates-Guidance-for-Fiscal-Year-2017.html",
+        "https://www.sec.gov/Archives/edgar/data/1131096/000113109616000413/exhibit991-athnpressreleas.htm",
+        "https://finance.yahoo.com/news/mondelez-takeover-talk-athenahealth-soars-pier-1-shares-skyrocket-161853559.html"
+      ]
+    },
+    {
+      "symbol": "MBI",
+      "qdate": "2013-03-04",
+      "decision": "keep",
+      "cause_class": "9_legal_unlock",
+      "jump_cause": "legal_unlock",
+      "news_filter": "keep",
+      "rationale": "March 4 court decision dismisses the Article 78 challenge to the insurance restructuring. Same-day counsel announcement and existing jump attribution support legal-unlock category. Other proceedings are separate; do not imply all litigation ended.",
+      "sources": [
+        "https://law.justia.com/cases/new-york/other-courts/2013/2013-ny-slip-op-23096.html",
+        "https://www.kasowitz.com/media/client-news/kasowitz-client-mbia-victorious-in-boasocgen-lawsuit-over-mbias-2009-restructuring/"
+      ]
+    },
+    {
+      "symbol": "EGRX",
+      "qdate": "2016-06-10",
+      "decision": "keep",
+      "cause_class": "9_legal_unlock",
+      "jump_cause": "legal_unlock",
+      "news_filter": "keep",
+      "rationale": "June 10 market account attributes Eagle rise to favorable Treanda patent litigation supporting the Bendeka franchise. Litigation is on partner Teva/Cephalon patents; Eagle benefits through its licensed product economics. Preserve indirect benefit rather than label it an Eagle-owned patent case.",
+      "sources": [
+        "https://www.fool.com/investing/2016/06/10/why-eagle-pharmaceuticals-inc-skyrocketed-29-today.aspx"
+      ]
+    },
+    {
+      "symbol": "EBS",
+      "qdate": "2016-12-09",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Primary release corrects prior catalyst description: December 8 event is a CDC BioThrax supply contract up to $911 million and BARDA sole-source notice, plus an outlook update. The NuThrax BARDA award was September 30. Class 5 is plausible but exact December 8 public-release time and December 9 reaction alignment remain unresolved.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1367644/000136764416000084/exhibit99.htm",
+        "https://www.sec.gov/Archives/edgar/data/1367644/000136764416000084/form8kearningsq3q2016.htm",
+        "https://investors.emergentbiosolutions.com/news/news-details/2016/Emergent-BioSolutions-Awarded-BARDA-Contract-for-Advanced-Development-and-Delivery-of-NuThrax-a-Next-Generation-Anthrax-Vaccine-Valued-at-Up-to-1-6-Billion-09-30-2016/default.aspx"
+      ]
+    },
+    {
+      "symbol": "AMED",
+      "qdate": "2013-08-09",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "KKR Schedule 13D supports an ownership position and potential discussions with management, so class 11 merits consideration. Filing agreement is dated August 8; exact public filing time and August 9 reaction alignment require verification before keep.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/896262/000110465913061771/a13-18260_1sc13d.htm",
+        "https://www.penews.com/articles/private-equity-kkr-amedisys-20130812"
+      ]
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ],
+  "n_deferred": 2,
+  "n_category_deferred": 0
+}

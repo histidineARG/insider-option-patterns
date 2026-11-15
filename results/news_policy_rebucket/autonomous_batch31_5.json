@@ -1,0 +1,120 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch31_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 5,
+  "n_deferred": 0,
+  "n_timing_deferred": 0,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 276,
+  "review_counts": {
+    "keep": 225,
+    "drop_earnings": 77,
+    "drop_peer_sympathy": 7,
+    "pending_news_review": 78,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 18,
+    "drop_analyst": 8,
+    "drop_financing": 8,
+    "drop_other_not_234": 244,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 3,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 225,
+    "drop_earnings": 77,
+    "drop_peer_sympathy": 7,
+    "pending_news_review": 78,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 13,
+    "drop_analyst": 8,
+    "drop_financing": 8,
+    "drop_other_not_234": 249,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 3,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "GEO",
+      "qdate": "2016-11-09",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Same-day reporting attributes GEO rally to election-driven expectations for private-prison policy. Prospective sector treatment is not an issuer contract award or completed regulatory resolution.",
+      "sources": [
+        "https://abcnews.com/Business/stocks-sectors-embattled-obama-rally-trump-election-upset/story?id=43418106"
+      ]
+    },
+    {
+      "symbol": "X",
+      "qdate": "2016-11-09",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Same-day report identifies U.S. Steel rally with anticipated trade protection and infrastructure demand after election. It does not establish a new issuer-specific contract, approval or legal resolution.",
+      "sources": [
+        "https://abcnews.com/Business/stocks-sectors-embattled-obama-rally-trump-election-upset/story?id=43418106"
+      ]
+    },
+    {
+      "symbol": "ARLP",
+      "qdate": "2016-11-09",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Legacy election attribution is supported by coal-sector event study, which specifically includes Alliance Resource Partners in day-after-election returns. Expected broad coal policy is not an issuer-specific keep event.",
+      "sources": [
+        "https://www.nber.org/system/files/working_papers/w24063/w24063.pdf",
+        "https://kleinmanenergy.upenn.edu/wp-content/uploads/2020/08/Whither-the-Regulatory-War-on-Coal-1.pdf"
+      ]
+    },
+    {
+      "symbol": "NAVI",
+      "qdate": "2016-11-09",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Contemporaneous November 9 account explicitly attributes Navient gain to changed expectations for political scrutiny after election. This is prospective sector policy, not a resolved company legal action.",
+      "sources": [
+        "https://dealbreaker.com/2016/11/dystopian-trump-portfolio-taking-shape",
+        "https://wolfstreet.com/2016/11/09/this-is-what-happened-to-the-trump-crash/"
+      ]
+    },
+    {
+      "symbol": "SLM",
+      "qdate": "2016-11-09",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "November 9 market account identifies Sallie Mae among student-loan and education stocks rising after election. Legacy sector attribution retained; no new SLM contract or completed regulatory resolution established.",
+      "sources": [
+        "https://wolfstreet.com/2016/11/09/this-is-what-happened-to-the-trump-crash/",
+        "https://www.investmentnews.com/retirement-planning/student-loans-poised-for-an-overhaul-under-president-trump/69872"
+      ]
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

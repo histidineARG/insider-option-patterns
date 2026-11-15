@@ -1,0 +1,125 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch32_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 2,
+  "n_deferred": 3,
+  "n_timing_deferred": 1,
+  "n_category_deferred": 2,
+  "cumulative_n_policy_reviewed": 281,
+  "review_counts": {
+    "keep": 225,
+    "drop_earnings": 77,
+    "drop_peer_sympathy": 7,
+    "pending_news_review": 81,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 20,
+    "drop_analyst": 8,
+    "drop_financing": 8,
+    "drop_other_not_234": 239,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 3,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 225,
+    "drop_earnings": 77,
+    "drop_peer_sympathy": 7,
+    "pending_news_review": 78,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 18,
+    "drop_analyst": 8,
+    "drop_financing": 8,
+    "drop_other_not_234": 244,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 3,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "CLVS",
+      "qdate": "2016-11-09",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Contemporaneous account identifies Clovis among election-driven biotech gainers. Legacy macro attribution retained.",
+      "sources": [
+        "https://www.foxbusiness.com/markets/heres-why-these-biopharma-stocks-soared-at-least-10-today",
+        "https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/"
+      ]
+    },
+    {
+      "symbol": "EXEL",
+      "qdate": "2016-11-09",
+      "decision": "drop",
+      "cause_class": "macro_sector",
+      "jump_cause": "macro_sector",
+      "news_filter": "drop_macro_sector",
+      "rationale": "Post-election review specifically links Exelixis gain to changed drug-pricing expectations. Retain sector exclusion.",
+      "sources": [
+        "https://www.foxbusiness.com/markets/election-2016s-healthcare-winners-and-losers",
+        "https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/"
+      ]
+    },
+    {
+      "symbol": "PRTA",
+      "qdate": "2016-11-09",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Primary Phase 1b PRX002 data release is timestamped November 9 at 16:05 ET, after this close-to-close session. Concurrent supply agreement makes Prothena the purchaser of manufacturing services, not recipient of a customer award. Broad election rally is corroborated, but direct issuer price attribution remains unresolved; do not backdate after-close data.",
+      "sources": [
+        "https://www.globenewswire.com/news-release/2016/11/09/888497/24041/en/prothena-reports-results-from-phase-1b-study-of-prx002-demonstrating-robust-antibody-cns-penetration-and-significant-reduction-of-free-serum-alpha-synuclein-in-patients-with-parkin.html",
+        "https://www.sec.gov/Archives/edgar/data/1559053/000155905316000089/a8-k2016rentschler.htm",
+        "https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "RVNC",
+      "qdate": "2016-11-09",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Search corroborates broad November 9 biotech rally, but did not recover issuer-specific price attribution sufficient to confirm old macro label. Primary financial results were November 3 and are not automatically a November 9 earnings cause. Leave pending rather than infer all sector constituents share one catalyst.",
+      "sources": [
+        "https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/",
+        "https://www.sec.gov/Archives/edgar/data/1479290/000147929016000054/rvnc11320168k.htm"
+      ],
+      "defer_reason": "category"
+    },
+    {
+      "symbol": "CNCE",
+      "qdate": "2016-11-09",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted Concert/date/results search did not establish attributable same-session company event or direct issuer election-rally attribution. General sector report corroborates context only. Leave pending rather than certify old macro assignment from sector membership.",
+      "sources": [
+        "https://www.statnews.com/2016/11/09/trump-biotech-stock-rally/"
+      ],
+      "defer_reason": "category"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

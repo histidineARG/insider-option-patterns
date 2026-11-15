@@ -1,0 +1,169 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch50_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 2,
+  "n_confirmed_drop": 1,
+  "n_deferred": 7,
+  "n_timing_deferred": 7,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 411,
+  "review_counts": {
+    "keep": 236,
+    "drop_earnings": 81,
+    "drop_peer_sympathy": 12,
+    "pending_news_review": 173,
+    "drop_mechanical": 2,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 29,
+    "drop_analyst": 11,
+    "drop_financing": 10,
+    "drop_operating_update": 5,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2,
+    "drop_other_not_234": 109
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "CZR",
+      "qdate": "2014-11-12",
+      "decision": "drop",
+      "cause_class": "financing",
+      "jump_cause": null,
+      "news_filter": "drop_financing",
+      "rationale": "Contemporaneous report directly ties Caesars\u2019 rise to tentative creditor debt restructuring and Chapter 11 reports. Financing/restructuring catalyst is excluded.",
+      "sources": [
+        "https://www.rttnews.com/2415608/caesars-entertainment-corp-czr-has-risen-to-a-6-week-high-on-media-reports.aspx"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "CZR",
+      "qdate": "2015-07-21",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "SEC filing confirms a restructuring support agreement dated July 20, but no source found directly ties the July 21 jump to that filing; defer attribution.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/858339/000119312515257430/d19530d8k.htm"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2015-10-01",
+      "decision": "keep",
+      "cause_class": "3_biotech_trial",
+      "jump_cause": "biotech_trial",
+      "news_filter": "keep",
+      "rationale": "Contemporaneous coverage directly links the surge to positive eteplirsen Phase IIb clinical data, an eligible biotech trial result.",
+      "sources": [
+        "https://investorplace.com/2015/10/sherwin-williams-co-shw-dave-busters-entertainment-inc-play-sarepta-therapeutics-inc-srpt-3-todays-best-stocks/"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "SPWR",
+      "qdate": "2013-02-14",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "http://markets.chroniclejournal.com/chroniclejournal/quote/historical?Month=2&Range=1&Symbol=537%3A14207120&Year=2013"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "MSB",
+      "qdate": "2016-03-14",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/65172/000110465916105155/a16-6378_18k.htm"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SCTY",
+      "qdate": "2013-09-10",
+      "decision": "keep",
+      "cause_class": "5_commercial_contract",
+      "jump_cause": "commercial_contract",
+      "news_filter": "keep",
+      "rationale": "Same-day market wrap directly attributes SolarCity\u2019s gain to its announced Direct Energy deal, an eligible commercial contract.",
+      "sources": [
+        "https://cdn1.benzinga.com/news/13/09/3902280/market-wrap-for-tuesday-september-10-once-again-china-moves-markets-higher"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "ICAD",
+      "qdate": "2013-12-06",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/ICAD?date=2013-12-06&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "UEPS",
+      "qdate": "2016-10-05",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/UEPS?date=2016-10-05&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2013-09-19",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/KNDI?date=2014-03-17&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "PPC",
+      "qdate": "2013-06-07",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a reliable eligible catalyst for this session. Keep pending; do not infer a cause from adjacent-day news or broad market context.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/PPC?date=2013-06-07&view=daily"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

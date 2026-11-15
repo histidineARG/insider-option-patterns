@@ -1,16 +1,25 @@
 # News jump-cause filter
 
-Policy: **keep 2, 3, 4; drop 1**.
+Policy: **keep 2–11; drop 1**. Canonical taxonomy: [METHODOLOGY.md](../../METHODOLOGY.md) §9.
 
 | # | Class | Action |
 | --- | --- | --- |
 | 1 | Earnings report | **drop** |
 | 2 | M&A rumor / news (`ma_rumor`, `ma_news`) | **keep** |
 | 3 | Biotech clinical-trial success (`biotech_trial`) | **keep** |
-| 4 | Tech product breakthrough (`tech_breakthrough`) | **keep** |
+| 4 | Tech breakthrough (`tech_breakthrough`) | **keep** |
+| 5 | Commercial contract / award / order (`commercial_contract`) | **keep** |
+| 6 | Partnership / license (`partnership_license`) | **keep** |
+| 7 | Regulatory approval / clearance (`regulatory_approval`) | **keep** |
+| 8 | Guidance / outlook step-up (`guidance_stepup`) | **keep** |
+| 9 | Legal / regulatory unlock (`legal_unlock`) | **keep** |
+| 10 | Product launch / commercialization (`product_launch`) | **keep** |
+| 11 | Activist / strategic alternatives (`activist_alt`) | **keep** |
+
+Hard drops (not numbered keep classes): sub-$5 prior close, ETF/ETN denylist, no option chain, mechanical prints, dilutive financing as primary cause, peer-sympathy, analyst-only, unexplained.
 
 Reviewed cohort **45** events under this filter: **45** keep, **0** drop_earnings.
-Cause counts: {'2_ma': 45}.
+Cause counts: {'2_ma': 45}. Cohort members remain class-2 only; classes 3–11 are reserved keeps when found. Prior `drop_other_not_234` reviews are re-bucket candidates and were not re-labeled in this policy update.
 
 Contamination (earlier-public / prior-process) does not change keep-vs-drop under this rule; it only blocks clean first-public / training labels.
 
@@ -62,4 +71,4 @@ Contamination (earlier-public / prior-process) does not change keep-vs-drop unde
 | ITCI:2025-01-13 | 2_ma | ma_rumor | keep_ma_contaminated | False |
 | SAGE:2025-06-16 | 2_ma | ma_news | keep_ma_contaminated | False |
 
-Biotech-trial keepers: 0. Tech-breakthrough keepers: 0. None in current reviewed cohort yet (cohort still M&A-sourced); policy reserves them as keep.
+Classes 3–11 keepers in this reviewed cohort: 0 (cohort still M&A-sourced). Policy reserves them as keep when jump-examine / news review finds them.

@@ -1,0 +1,218 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch01_15",
+  "n_reviewed": 15,
+  "n_promoted_to_keep": 5,
+  "n_confirmed_drop": 7,
+  "n_timing_deferred": 3,
+  "cumulative_n_policy_reviewed": 41,
+  "review_counts": {
+    "keep": 186,
+    "drop_other_not_234": 479,
+    "drop_mechanical": 1,
+    "pending_news_review": 4,
+    "drop_earnings": 9,
+    "drop_analyst": 1,
+    "drop_financing": 1
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 181,
+    "drop_other_not_234": 494,
+    "drop_mechanical": 1,
+    "pending_news_review": 1,
+    "drop_earnings": 4
+  },
+  "changes": [
+    {
+      "symbol": "HIMX",
+      "qdate": "2013-07-22",
+      "decision": "keep",
+      "news_filter": "keep",
+      "cause_class": "6_partnership_license",
+      "jump_cause": "partnership_license",
+      "rationale": "July 22 issuer release describes Google investment in the LCOS subsidiary as a strategic partnership to expand production for applications including Google Glass. Parent retains majority control; partnership capital fits class 6. Closing conditions are distinct from announcement.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1342338/000117184313002856/newsrelease.htm"
+      ]
+    },
+    {
+      "symbol": "CLDX",
+      "qdate": "2014-05-14",
+      "decision": "keep",
+      "news_filter": "keep",
+      "cause_class": "6_partnership_license",
+      "jump_cause": "partnership_license",
+      "rationale": "May 14 joint release announces BMS/Celldex combination-immunotherapy clinical collaboration, $5 million payment and shared development costs. This is a collaboration announcement rather than trial results.",
+      "sources": [
+        "https://news.bms.com/news/details/2014/Bristol-Myers-Squibb-and-Celldex-Therapeutics-Announce-Clinical-Trial-Collaboration-to-Evaluate-the-Combination-of-Investigational-Immunotherapies-Nivolumab-and-Varlilumab/default.aspx"
+      ]
+    },
+    {
+      "symbol": "UEPS",
+      "qdate": "2013-03-27",
+      "decision": "keep",
+      "news_filter": "keep",
+      "cause_class": "9_legal_unlock",
+      "jump_cause": "legal_unlock",
+      "rationale": "March 27 Form 8-K states the issuer announced that South Africa's Supreme Court of Appeal upheld the SASSA tender process and award to its CPS subsidiary. Favorable contract litigation resolution fits class 9; later legal developments are outside this event review.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1041514/000106299313001433/form8k.htm"
+      ]
+    },
+    {
+      "symbol": "UTHR",
+      "qdate": "2014-08-29",
+      "decision": "keep",
+      "news_filter": "keep",
+      "cause_class": "9_legal_unlock",
+      "jump_cause": "legal_unlock",
+      "rationale": "August 29 issuer release reports Remodulin patent enforcement and an injunction against Sandoz generic marketing through October 2017. Mixed ruling preserved: the separate patent expiring in 2029 was not infringed.",
+      "sources": [
+        "https://ir.unither.com/press-releases/2014/08-29-2014-014552327"
+      ]
+    },
+    {
+      "symbol": "PDFS",
+      "qdate": "2015-01-08",
+      "decision": "keep",
+      "news_filter": "keep",
+      "cause_class": "5_commercial_contract",
+      "jump_cause": "commercial_contract",
+      "rationale": "January 7 release confirms two previously unresolved customer contracts, with about $6 million expected Q1 revenue impact and future Gainshare fees. Filing archive lists January 7 at 4:08 p.m., consistent with the January 8 reaction. Acceptance timing is not proof of earliest public release; existing jump attribution retained.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1120914/000143774915000389/ex99-1.htm",
+        "https://getfilings.com/sec-filings/150107/"
+      ]
+    },
+    {
+      "symbol": "STMP",
+      "qdate": "2015-08-07",
+      "decision": "drop",
+      "news_filter": "drop_earnings",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "rationale": "August 6 issuer release reports Q2 results and increases annual guidance. Existing August 7 reaction attribution remains earnings-led; guidance within results does not qualify separately as class 8.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1082923/000114036115031163/ex99_1.htm"
+      ]
+    },
+    {
+      "symbol": "ATHN",
+      "qdate": "2015-10-23",
+      "decision": "drop",
+      "news_filter": "drop_earnings",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "rationale": "October 22 issuer release reports Q3 financial and operational results and schedules an October 23 morning call. Existing next-session earnings attribution retained.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1131096/000113109615000180/athnq32015earningsrelease.htm"
+      ]
+    },
+    {
+      "symbol": "CYBR",
+      "qdate": "2014-11-13",
+      "decision": "drop",
+      "news_filter": "drop_earnings",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "rationale": "November 12 issuer release reports Q3 financial results, the first quarter completed as a public company. Existing November 13 reaction attribution remains class 1.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1598110/000119312514409694/d820904dex991.htm"
+      ]
+    },
+    {
+      "symbol": "MOMO",
+      "qdate": "2015-05-19",
+      "decision": "drop",
+      "news_filter": "drop_earnings",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "rationale": "May 18 issuer release reports Q1 financial results including first quarterly profit and rapid revenue growth. Existing May 19 earnings-reaction attribution retained; operational and product commentary inside results does not change the primary category.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1610601/000119312515192611/d929612dex991.htm"
+      ]
+    },
+    {
+      "symbol": "GOGO",
+      "qdate": "2013-11-11",
+      "decision": "drop",
+      "news_filter": "drop_earnings",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "rationale": "November 11 issuer release reports Q3 results and raised annual guidance. Recent contract and product announcements are concurrent context; existing earnings-led attribution retained.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1537054/000119312513437592/d625958dex991.htm"
+      ]
+    },
+    {
+      "symbol": "UEPS",
+      "qdate": "2016-04-11",
+      "decision": "drop",
+      "news_filter": "drop_financing",
+      "cause_class": "financing",
+      "jump_cause": "financing",
+      "rationale": "April 11 release announces IFC subscription for 9.98 million new shares, about an 18% stake, at a premium. Primary transaction is equity financing with expansion proceeds and board nomination rights; no defined operating collaboration or license is announced. Do not infer class 6 from supportive investor commentary alone.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1041514/000106299316008881/exhibit99-1.htm"
+      ]
+    },
+    {
+      "symbol": "KNDI",
+      "qdate": "2013-06-10",
+      "decision": "defer",
+      "news_filter": "pending_news_review",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "rationale": "Issuer-distributed MIIT sedan approval release is dated June 5, five calendar days before this June 10 jump. Category could be class 7, but the located source does not establish a fresh same-session catalyst. Defer for timing/continuation review rather than auto-promote.",
+      "sources": [
+        "https://www.newsfilecorp.com/release/5563/KandiGeely-Codeveloped-Pure-Electric-Sedan-Receives-Approval-from-Ministry-of-Industry-and-Information-Technology-of-China"
+      ]
+    },
+    {
+      "symbol": "ANAC",
+      "qdate": "2013-10-18",
+      "decision": "defer",
+      "news_filter": "pending_news_review",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "rationale": "Issuer 8-K says Anacor announced the $100 million arbitration award October 17, while counterparty Valeant release is dated October 18. Legal-unlock category is supported, but exact October 17 announcement time is unresolved. Defer reaction-session assignment; preserve historical Anacor issuer-identity warning.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1411158/000110465913076447/a13-22520_18k.htm",
+        "https://ir.bauschhealth.com/tools/viewpdf.aspx?page=%7B4ABF1761-2C9E-4CF0-9E98-846F8B34CC59%7D"
+      ]
+    },
+    {
+      "symbol": "INVE",
+      "qdate": "2015-04-16",
+      "decision": "defer",
+      "news_filter": "pending_news_review",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "rationale": "Cisco physical-access partnership fits class 6 in substance. Syndicated issuer text is dated April 15; April 16 market coverage attributes the jump to the agreement. Exact initial announcement time is not recovered, so defer timing instead of assuming an after-close release.",
+      "sources": [
+        "https://www.securitysolutionswatch.com/Interviews/in_Boardroom_Identiv_Hart.html",
+        "https://www.wsnewspublishers.com/morning-buzz-on-significant-moves-netflix-nasdaqnflx-biostar-pharmaceuticals-nasdaqbspm-medicinova-nasdaqmnov-identiv-nasdaqinve/155332/"
+      ]
+    },
+    {
+      "symbol": "KPTI",
+      "qdate": "2016-08-30",
+      "decision": "drop",
+      "news_filter": "drop_analyst",
+      "cause_class": "analyst",
+      "jump_cause": "analyst",
+      "rationale": "Contemporaneous August 30 market account attributes the move to Jefferies upgrading the shares; pivotal myeloma results were still expected. No new trial result or regulatory approval is established by this source. Retain analyst-only exclusion.",
+      "sources": [
+        "https://www.fool.com/investing/2016/08/30/why-karyopharm-therapeutics-inc-shares-are-soaring.aspx"
+      ]
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ],
+  "n_deferred": 3,
+  "n_category_deferred": 0
+}

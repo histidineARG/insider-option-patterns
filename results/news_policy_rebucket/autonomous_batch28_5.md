@@ -1,0 +1,15 @@
+# autonomous_batch28_5
+
+Reviewed 2026-11-12. {'drop': 4, 'defer': 1}
+
+- **TK 2016-02-18 — drop / 1_earnings**: Issuer February 18 release reports fourth-quarter and annual 2015 results. Advance issuer notice schedules publication before market open; review refers to Teekay Corporation (TK), rather than Teekay Tankers (TNK). Earnings precedence applies. [Source 1](https://www.teekay.com/blog/2016/02/18/teekay-corporation-reports-fourth-quarter-and-annual-2015-results/) [Source 2](https://www.teekay.com/blog/2016/02/08/teekay-group-announces-fourth-quarter-and-fiscal-year-2015-earnings-results-and-business-outlook-conference-calls-2/)
+- **SVA 2014-03-20 — drop / 1_earnings**: Issuer March 19 release reports fourth-quarter and full-year results with March 20 premarket results call. Referenced EV71 publication was February 27, not a new March 20 clinical readout; classify the adjacent-session earnings event. [Source 1](https://www.sec.gov/Archives/edgar/data/1084201/000114420414017263/v372478_ex99-4.htm) [Source 2](https://www.sinovac.com/en-us/news/id-2718)
+- **SBLK 2014-03-05 — drop / 1_earnings**: Primary March 5 release reports fourth-quarter and annual 2013 financial results, with same-day 11:00 ET results call. Fleet acquisitions and financing commentary are bundled in earnings and do not override class 1. [Source 1](https://www.sec.gov/Archives/edgar/data/1386716/000131786114000018/f030514sblk6k.htm)
+- **EXTR 2013-11-04 — drop / 1_earnings**: Issuer November 4 release announces first-quarter results and second-quarter guidance. Same-morning market account attributes rally to results; bundled outlook remains class 1. [Source 1](https://www.sec.gov/Archives/edgar/data/1078271/000107827113000060/extr8kq114ex991.htm) [Source 2](https://www.rttnews.com/2215668/extreme-networks-inc-extr-has-surged-to-a-new-high-on-q1-results.aspx)
+- **AERI 2016-02-18 — defer / unclassified**: February 17 primary release reports positive twelve-month Rocket 2 safety data, and next-morning account attributes gain to the data. However, the same release also reports preliminary full-year cash burn and year-end balances. Clinical class 3 is plausible, but completed-period financial disclosure requires resolving earnings precedence before promotion; leave pending. [Source 1](https://www.sec.gov/Archives/edgar/data/1337553/000119312516467086/d87136dex991.htm) [Source 2](https://247wallst.com/health-and-healthcare/2016/02/18/aerie-pharma-jumps-on-positive-interim-safety-results/)
+
+Current ledger: {'keep': 225, 'drop_earnings': 77, 'drop_peer_sympathy': 7, 'pending_news_review': 70, 'drop_mechanical': 1, 'drop_stale_news': 1, 'drop_macro_sector': 13, 'drop_analyst': 7, 'drop_financing': 8, 'drop_other_not_234': 259, 'drop_operating_update': 4, 'drop_regulatory_process': 3, 'drop_peer_earnings': 1, 'drop_passive_ownership': 1, 'drop_trial_anticipation': 1, 'drop_short_covering_media': 1, 'drop_etf': 2}.
+
+No database-derived snapshot or saved news queue refreshed.
+Existing price attribution retained unless a conflict is explicitly deferred.
+No exhaustive earlier-public search; no training or evaluation gates unlocked.

@@ -1,0 +1,171 @@
+{
+  "reviewed_on": "2026-11-13",
+  "batch": "autonomous_batch59_10",
+  "n_reviewed": 10,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 1,
+  "n_deferred": 9,
+  "n_timing_deferred": 9,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 471,
+  "review_counts": {
+    "keep": 241,
+    "drop_earnings": 84,
+    "drop_peer_sympathy": 12,
+    "pending_news_review": 222,
+    "drop_mechanical": 2,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 29,
+    "drop_analyst": 11,
+    "drop_financing": 12,
+    "drop_operating_update": 6,
+    "drop_regulatory_process": 4,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 2,
+    "drop_trial_anticipation": 2,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2,
+    "drop_other_not_234": 49
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": null,
+  "changes": [
+    {
+      "symbol": "GDP",
+      "qdate": "2013-02-06",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not establish a same-session Goodrich Petroleum catalyst or a contemporaneous sector source that attributes this move. General oil-market conditions are insufficient to classify a macro/sector drop.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/GDP?date=2013-02-06&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ENDP",
+      "qdate": "2016-06-28",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "BMO initiated coverage with a Market Perform rating on June 28, but targeted review did not establish that this analyst action caused the large positive move or rule out a company catalyst. Retain pending rather than assign analyst attribution from date coincidence.",
+      "sources": [
+        "https://undercovermarket.com/quote/ENDP/endo-international-plc",
+        "https://exa.ai/library/markets/stock/ENDP?date=2016-06-28&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "MATR",
+      "qdate": "2015-02-09",
+      "decision": "drop",
+      "cause_class": "operating_update",
+      "jump_cause": "operating_update",
+      "news_filter": "drop_operating_update",
+      "rationale": "Mattersight issued a Q4 bookings and book-of-business update on February 9, reporting annualized book of business up 46% year over year. This is an operating update rather than a defined class 2–11 catalyst; exclude under the existing operating-update category.",
+      "sources": [
+        "https://www.benzinga.com/quote/MATR/news"
+      ],
+      "defer_reason": null
+    },
+    {
+      "symbol": "MNKD",
+      "qdate": "2015-06-08",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The major Afrezza regulatory and commercial milestones reviewed for MannKind occurred on other dates; targeted same-session review did not establish the cause of the June 8 jump. Keep pending rather than backdate the later June approval.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/MNKD?date=2015-06-08&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "STAA",
+      "qdate": "2015-04-09",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific search did not establish a reliable STAAR Surgical announcement or eligible catalyst for April 9. Keep pending; do not infer product commercialization from the company’s general ICL business.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/STAA?date=2015-04-09&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "ESPR",
+      "qdate": "2016-09-20",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not recover a reliable same-session Esperion trial, regulatory, or commercial announcement for September 20. Retain pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/ESPR?date=2016-09-20&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "YRD",
+      "qdate": "2016-09-27",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted date-specific review did not establish a Yirendai announcement or attributable catalyst for the September 27 move. Keep pending rather than infer cause from Chinese fintech sector context.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/YRD?date=2016-09-27&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SEM",
+      "qdate": "2013-12-11",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "The located Select Medical earnings release is dated February 2014, not December 11, 2013. Targeted review did not establish a reliable same-session catalyst for this row; leave pending.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/SEM?date=2013-12-11&view=daily",
+        "https://www.sec.gov/Archives/edgar/data/1035688/000110465914011866/a14-6412_1ex99d1.htm"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "SRPT",
+      "qdate": "2013-09-20",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Search recovered clinical and peer-drug developments on other 2013 dates, but did not establish a same-session September 20 Sarepta catalyst. Keep pending; do not extend a prior readout or competitor news window.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/SRPT?date=2013-09-20&view=daily"
+      ],
+      "defer_reason": "timing"
+    },
+    {
+      "symbol": "FTK",
+      "qdate": "2015-11-17",
+      "decision": "defer",
+      "cause_class": "unclassified",
+      "jump_cause": null,
+      "news_filter": "pending_news_review",
+      "rationale": "Targeted review did not establish a reliable same-session Flotek announcement or commodity attribution for November 17. Keep pending rather than infer from oil-services sector conditions.",
+      "sources": [
+        "https://exa.ai/library/markets/stock/FTK?date=2015-11-17&view=daily"
+      ],
+      "defer_reason": "timing"
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved population news queue refreshed.",
+    "Unresolved date-specific attribution cases remain pending.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}

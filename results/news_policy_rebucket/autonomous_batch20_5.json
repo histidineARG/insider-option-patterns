@@ -1,0 +1,120 @@
+{
+  "reviewed_on": "2026-11-12",
+  "batch": "autonomous_batch20_5",
+  "n_reviewed": 5,
+  "n_promoted_to_keep": 0,
+  "n_confirmed_drop": 5,
+  "n_deferred": 0,
+  "n_timing_deferred": 0,
+  "n_category_deferred": 0,
+  "cumulative_n_policy_reviewed": 221,
+  "review_counts": {
+    "keep": 220,
+    "drop_earnings": 65,
+    "drop_other_not_234": 299,
+    "pending_news_review": 54,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 13,
+    "drop_analyst": 6,
+    "drop_financing": 8,
+    "drop_peer_sympathy": 3,
+    "drop_operating_update": 3,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "derived_snapshots_refreshed": false,
+  "counts_before": {
+    "keep": 220,
+    "drop_earnings": 60,
+    "drop_other_not_234": 304,
+    "pending_news_review": 54,
+    "drop_mechanical": 1,
+    "drop_stale_news": 1,
+    "drop_macro_sector": 13,
+    "drop_analyst": 6,
+    "drop_financing": 8,
+    "drop_peer_sympathy": 3,
+    "drop_operating_update": 3,
+    "drop_regulatory_process": 2,
+    "drop_peer_earnings": 1,
+    "drop_passive_ownership": 1,
+    "drop_trial_anticipation": 1,
+    "drop_short_covering_media": 1,
+    "drop_etf": 2
+  },
+  "changes": [
+    {
+      "symbol": "CMRE",
+      "qdate": "2016-01-28",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "January 27 primary release reports Q4/year-end results preceding January 28 jump. Retain legacy earnings attribution with primary support; charter, financing and dividend updates inside results do not supersede class 1. Exact initial release time is not independently certified.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1503584/000110262416002019/exh99_1.htm"
+      ]
+    },
+    {
+      "symbol": "MMYT",
+      "qdate": "2014-05-21",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "May 21 primary release reports fiscal Q4/full-year financial results. This replaces generic no-news label with documented earnings event; guidance and growth metrics bundled with results remain class 1. Exact first-public timestamp and exclusive price causality are not certified.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1495153/000119312514207394/d729170dex991.htm"
+      ]
+    },
+    {
+      "symbol": "GTS",
+      "qdate": "2015-11-05",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "November 5 primary results release schedules same-day 9 a.m. Eastern earnings call, supporting pre-open event despite later SEC acceptance. Medicaid contract conversion is historical operating context within quarterly report, not a new same-day award. Class 1 applies.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1171662/000114036115039838/ex99_1.htm",
+        "https://www.sec.gov/Archives/edgar/data/1171662/000114036115039838/form8k.htm"
+      ]
+    },
+    {
+      "symbol": "AEM",
+      "qdate": "2013-10-24",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "October 23 issuer Q3 release and October 24 morning call establish quarterly-results event; same-day market account explicitly attributes rally to earnings. Positive revision to gold-production guidance is bundled with results and remains class 1.",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/agnico-eagle-reports-third-quarter-2013-results---strong-operational-performance-leads-to-record-quarterly-gold-production-and-positive-revision-to-2013-guidance-228991601.html",
+        "https://investorplace.com/2013/10/weak-u-s-dollar-stronger-china-send-gold-higher/"
+      ]
+    },
+    {
+      "symbol": "AEO",
+      "qdate": "2016-05-19",
+      "decision": "drop",
+      "cause_class": "1_earnings",
+      "jump_cause": "earnings",
+      "news_filter": "drop_earnings",
+      "rationale": "May 18 primary Q1 earnings release and contemporaneous 4:12 p.m. after-hours account support May 19 earnings reaction. Forward Q2 EPS outlook inside results is class 1, not standalone guidance keep.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/919012/000119312516599120/d154112dex991.htm",
+        "https://www.thestreet.com/story/13576846/1/american-eagle-aeo-stock-soars-in-after-hours-trading-on-q1-beat.html"
+      ]
+    }
+  ],
+  "limitations": [
+    "No database-derived snapshot or saved news queue refreshed.",
+    "Existing price attribution retained unless a conflict is explicitly deferred.",
+    "No exhaustive earlier-public search; no training or evaluation gates unlocked."
+  ]
+}
