@@ -5,8 +5,8 @@
     "min_ratio20": 3,
     "events_with_any_usable_entry_proxy_session": 23,
     "events_with_descriptive_alert": 10,
-    "background_valid_observations": 989,
-    "background_alert_observations": 49,
+    "background_valid_observations": 1178,
+    "background_alert_observations": 51,
     "accuracy_estimated": false
   },
   {
@@ -15,8 +15,8 @@
     "min_ratio20": 5,
     "events_with_any_usable_entry_proxy_session": 23,
     "events_with_descriptive_alert": 8,
-    "background_valid_observations": 989,
-    "background_alert_observations": 24,
+    "background_valid_observations": 1178,
+    "background_alert_observations": 17,
     "accuracy_estimated": false
   },
   {
@@ -25,8 +25,8 @@
     "min_ratio20": 10,
     "events_with_any_usable_entry_proxy_session": 23,
     "events_with_descriptive_alert": 4,
-    "background_valid_observations": 989,
-    "background_alert_observations": 7,
+    "background_valid_observations": 1178,
+    "background_alert_observations": 8,
     "accuracy_estimated": false
   }
 ]

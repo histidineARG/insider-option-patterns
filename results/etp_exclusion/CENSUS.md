@@ -27,20 +27,27 @@ These three reports were rebuilt from saved files. No option-chain scan was repe
 | `results/exploratory_patterns` background usable / alerts | 1181 usable; alerts 52, 25, and 8 | 989 usable; alerts 49, 24, and 7 | Event side stayed 10/23, 8/23, and 4/23 |
 | `results/evaluation` | The committed manifest was 2080 observations from an older table, with eligible 1861 and alerts 113, 48, and 17. That file was not the pre-filter version of the 2650-row table. | Rebuilt on the filtered 2442-row table: eligible 2242; alerts 161, 74, and 29; episodes 106, 58, and 25. A further ETP pass on that table removed 0. Gates remain blocked. Logistic status remains `blocked_by_evidence_gates`. Recall remains null. Simulated trades remain 0. | Do not read the alert-count change as an ETP effect. The previous evaluation artifact and this table were already different. |
 
-## Not refit
+## Refits on 2026-11-15
 
-These scans walk option chains for thousands of symbols. They were not rerun. The saved headline numbers are the pre-exclusion runs. Membership counts below are from the symbol lists those scripts query, not from a new fit.
+These scans were rerun with the default exclusion. Headline before/after tables are at the top of each report.
 
-| Script | Universe | ETP symbols removed by the new default | Rerun |
-| --- | --- | --- | --- |
-| `anomaly_flow.py`, `straddle_test.py`, `bracket_test.py`, `jump30_test.py`, `gb30_trade_test.py` | `/tmp/anomaly_symbol_list.txt`, 5299 symbols | 550 | `python3 anomaly_flow.py` then the four books. Each `run()` now filters that file. |
-| `direction_test.py` | `optionstat` 2014-01-01 through 2026-11-13, 11691 symbols | 2532 | `python3 direction_test.py`. That script is not in the committed tree on `main`. A local untracked copy was filtered the same way and was not added here. |
-| `quiet_screen.py`, `quiet_otm_screen.py`, `quiet_otm_pnl_stress.py`, `walkforward_score.py` | `optionstat` 2022-01-01 through 2026-11-12, 8616 symbols | 2431 | `python3 quiet_screen.py`, `python3 quiet_otm_screen.py`, `python3 quiet_otm_pnl_stress.py`, `python3 walkforward_score.py` |
-| `background_sample.py` | saved sample is 1300 stock-days, 208 of them ETPs | not redrawn | `python3 background_sample.py --start-year 2013 --end-year 2025 --dates-per-year 5 --symbols-per-date 20 --seed 1984` |
+| Script | Result |
+| --- | --- |
+| `gb30_trade_test.py` | Top-4 `tp40-t40` uncapped holdout mean 0.337 → 0.013. It no longer beats the volatility-matched random mean. Holdout portfolio CAGR 0.857 → 0.264, Sharpe 1.223 → 1.035, max drawdown -0.175 → -0.118. SPY holdout CAGR stayed 0.124, Sharpe 0.912, drawdown -0.092. |
+| `jump30_test.py` | Prior choice (iforest 1-day p05, 10 sessions) holdout mean 0.002 → -0.001. New choice (boost 1-day top 4, 20 sessions) holdout mean 0.059 versus random 0.020. |
+| `bracket_test.py` | New choice holdout deduped mean -0.013 versus random -0.013. No positive holdout edge. |
+| `straddle_test.py` | Same choice. Holdout deduped ask/bid mean -0.224 → -0.227. Still negative, still ahead of the random straddle. |
+| `anomaly_flow.py` | HBOS 1-day/50-day holdout lift 1.449 → 1.346. Isolation forest 1.246 → 1.164. Both still clear. LOF on that baseline does not: holdout lift 0.971. |
+| `quiet_otm_screen.py` | Multi-day slate of 3, 20 sessions: date hit rate 0.309 → 0.330 versus quiet base 0.276 → 0.293. Call mean 1.815 → 1.709. |
+| `quiet_otm_pnl_stress.py` | Deduped slate median 0.875 → 0.800 versus random 0.894 → 0.737. The stress cut still passes. |
+| `walkforward_score.py` | Top 3, 20-session terminal date hit rate 0.481 → 0.442 versus random base 0.246 → 0.296. Still above the base. |
+| `quiet_screen.py` | Multi-day top 3, 20-session call mean 1.632 → 1.560. Still above 1. |
+| `direction_test.py` | Boosting top 10, 20 sessions: holdout hit rate 0.626 → 0.653 versus base 0.524 → 0.524. Compounded holdout book 1.13 → 0.91 versus SPY 1.14. Still behind SPY. |
+| `background_sample.py` | Redrawn at the saved settings. 1,300 stock-days, 0 ETP symbols. Chain present on 1,218 days versus 1,219. Complete feature rows 1,178 versus 1,181. |
 
-`walkforward_score.py` will not resume a checkpoint written before this filter. A default run starts a new checkpoint with `version` 3 and `etp_excluded` true. `--include-etp` still resumes a version 2 checkpoint.
+`research_dataset.py` rebuilt on that redraw: 2,650 stock-days, 0 further ETP rows, 0 certified negatives (the previous filtered table had 9, because that draw still contained the reviewed names). Exploratory event alerts stayed 10/23, 8/23, and 4/23. Background usable observations are 1,178, with alerts 51, 17, and 8.
 
-Reviewed-cohort events (45) and pre-event feature rows (1350) contain no symbols from this snapshot. Insider footprint, accumulation, and resolved screens read those keeps, so a rerun would drop 0 of those rows. They were not rerun.
+`price_jump_examine.py` was not rerun. It joins the whole `stockquote` cross-section once per NYSE session and can fetch EDGAR calendars for every mapped CIK. That pass was not timed, so no runtime number is claimed here.
 
-`python3 price_jump_examine.py` now uses this snapshot instead of the 50-symbol denylist. The historical jump artifacts were not reclassified.
+Reviewed-cohort events (45) and their feature rows contain no symbols from this snapshot. `insider_footprint.py`, `insider_accumulation.py`, and `insider_resolved.py` were not rerun.
 

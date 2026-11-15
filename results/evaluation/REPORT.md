@@ -17,9 +17,9 @@ ETP exclusion removed 0 observations and 0 events from this table. The research 
 
 | Rule | Eligible observations | Alert observations | Alert episodes | Labeled observations |
 | --- | ---: | ---: | ---: | ---: |
-| volume_100_ratio_3 | 2242 | 161 | 106 | 8 |
-| volume_500_ratio_5 | 2242 | 74 | 58 | 8 |
-| volume_1000_ratio_10 | 2242 | 29 | 25 | 8 |
+| volume_100_ratio_3 | 2427 | 163 | 108 | 0 |
+| volume_500_ratio_5 | 2427 | 67 | 51 | 0 |
+| volume_1000_ratio_10 | 2427 | 31 | 27 | 0 |
 
 Logistic status: blocked_by_evidence_gates. Reserved test authorization: False. Event-level recall remains null until training-ready events exist.
 

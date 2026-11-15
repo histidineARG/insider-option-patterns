@@ -1,6 +1,6 @@
 # Time-safe observation and label audit
 
-2442 distinct stock-days; 0 verified positives, 9 certified negatives. Unknown labels remain null. ETP exclusion removed 0 feature rows, 208 background rows, and 0 events.
+2650 distinct stock-days; 0 verified positives, 0 certified negatives. Unknown labels remain null. ETP exclusion removed 0 feature rows, 0 background rows, and 0 events.
 
 Feature history is the preceding 20 exchange sessions. Outcomes run after the feature close through the close of the tenth subsequent exchange session. Entry uses the next-session close as a conservative timing proxy, never an asserted fill.
 
